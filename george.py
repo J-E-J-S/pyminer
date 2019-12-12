@@ -22,6 +22,7 @@ def get_frequency(file_path):
     '''takes in xml file path and outputs list of most common words'''
     f = open(file_path, 'r')
     soup = BeautifulSoup(f, 'lxml')
+    f.close()
     text = soup.text
     custom_list = ['']
     stop_words = list(stopwords.words('english')) + custom_list
@@ -79,16 +80,20 @@ def read_folder(folder_path, search_list):
             if file[-3:] == 'xml':
                 file_path = r'{}\{}'.format(subdir, file)
                 results[str(subdir)] = do_everything(file_path, search_list)
-                f.close()
     results_df = pd.DataFrame(results)
-    return results_df
+    resultsTRANPOSE = results_df.T
+    sorted_df = resultsTRANPOSE.sort_values(by=[0],ascending=False)
+    return sorted_df
 
+# %% James is allowed to edit
+    
 search_list = ['FAD', 'FMN', 'LOV', 'Cysteine', 'transcription', 'factor', 'blue']             
 folder_path = r"C:\Users\James\Documents\george_test"
-results_df = read_folder(folder_path, search_list)
 
-resultsTRANPOSE = results_df.T
-sorted_df = resultsTRANPOSE.sort_values(by=[0],ascending=False)
+results = read_folder(folder_path,search_list)
+
+
+
 
 
 # %%
