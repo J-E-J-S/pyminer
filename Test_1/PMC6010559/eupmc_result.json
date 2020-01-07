@@ -1,0 +1,336 @@
+{
+  "id": [
+    "29962936"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29962936"
+  ],
+  "pmcid": [
+    "PMC6010559"
+  ],
+  "doi": [
+    "10.3389/fncel.2018.00151"
+  ],
+  "title": [
+    "Specificity, Versatility, and Continual Development: The Power of Optogenetics for Epilepsy Research."
+  ],
+  "authorString": [
+    "Christenson Wick Z, Krook-Magnuson E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Christenson Wick Z"
+          ],
+          "firstName": [
+            "Zoé"
+          ],
+          "lastName": [
+            "Christenson Wick"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Graduate Program in Neuroscience and Department of Neuroscience, University of Minnesota, Minneapolis, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Krook-Magnuson E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Krook-Magnuson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Graduate Program in Neuroscience and Department of Neuroscience, University of Minnesota, Minneapolis, MN, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2645045"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cellular neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "151"
+  ],
+  "abstractText": [
+    "Optogenetics is a powerful and rapidly expanding set of techniques that use genetically encoded light sensitive proteins such as opsins. Through the selective expression of these exogenous light-sensitive proteins, researchers gain the ability to modulate neuronal activity, intracellular signaling pathways, or gene expression with spatial, directional, temporal, and cell-type specificity. Optogenetics provides a versatile toolbox and has significantly advanced a variety of neuroscience fields. In this review, using recent epilepsy research as a focal point, we highlight how the specificity, versatility, and continual development of new optogenetic related tools advances our understanding of neuronal circuits and neurological disorders. We additionally provide a brief overview of some currently available optogenetic tools including for the selective expression of opsins."
+  ],
+  "affiliation": [
+    "Graduate Program in Neuroscience and Department of Neuroscience, University of Minnesota, Minneapolis, MN, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R03 NS098015"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 GM008471"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS104071"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R00 NS087110"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Archaerhodopsin",
+        "Parvalbumin",
+        "Seizures",
+        "Channelrhodopsin",
+        "Halorhodopsin",
+        "Neuronal Circuitry",
+        "Cell Type Specificity",
+        "Intersectional Genetics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6010559?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6010559"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2018.00151"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-03"
+  ],
+  "firstIndexDate": [
+    "2018-07-03"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-03"
+  ],
+  "dateOfRevision": [
+    "2018-07-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-14"
+  ],
+  "firstPublicationDate": [
+    "2018-06-14"
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "id": [
+    "25249457"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25249457"
+  ],
+  "pmcid": [
+    "PMC4197574"
+  ],
+  "doi": [
+    "10.1242/dev.104497"
+  ],
+  "title": [
+    "Ultradian oscillations and pulses: coordinating cellular responses and cell fate decisions."
+  ],
+  "authorString": [
+    "Isomura A, Kageyama R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Isomura A"
+          ],
+          "firstName": [
+            "Akihiro"
+          ],
+          "lastName": [
+            "Isomura"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute for Virus Research, Kyoto University, Shogoin-Kawahara, Sakyo-ku, Kyoto 606-8507, Japan Japan Science and Technology Agency, Core Research for Evolutional Science and Technology (CREST), 4-1-8 Honcho, Kawaguchi, Saitama 332-0012, Japan aisomura@virus.kyoto-u.ac.jp rkageyam@virus.kyoto-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Kageyama R"
+          ],
+          "firstName": [
+            "Ryoichiro"
+          ],
+          "lastName": [
+            "Kageyama"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute for Virus Research, Kyoto University, Shogoin-Kawahara, Sakyo-ku, Kyoto 606-8507, Japan Japan Science and Technology Agency, Core Research for Evolutional Science and Technology (CREST), 4-1-8 Honcho, Kawaguchi, Saitama 332-0012, Japan World Premier International Research Initiative-Institute for Integrated Cell-Material Sciences (WPI-iCeMS), Kyoto University, Kyoto 606-8501, Japan aisomura@virus.kyoto-u.ac.jp rkageyam@virus.kyoto-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "141"
+      ],
+      "journalIssueId": [
+        "2204291"
+      ],
+      "dateOfPublication": [
+        "2014 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Development (Cambridge, England)"
+          ],
+          "ISOAbbreviation": [
+            "Development"
+          ],
+          "medlineAbbreviation": [
+            "Development"
+          ],
+          "NLMid": [
+            "8701744"
+          ],
+          "ISSN": [
+            "0950-1991"
+          ],
+          "ESSN": [
+            "1477-9129"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "3627-3636"
+  ],
+  "abstractText": [
+    "Biological clocks play key roles in organismal development, homeostasis and function. In recent years, much work has focused on circadian clocks, but emerging studies have highlighted the existence of ultradian oscillators - those with a much shorter periodicity than 24 h. Accumulating evidence, together with recently developed optogenetic approaches, suggests that such ultradian oscillators play important roles during cell fate decisions, and analyzing the functional links between ultradian oscillation and cell fate determination will contribute to a deeper understanding of the design principle of developing embryos. In this Review, we discuss the mechanisms of ultradian oscillatory dynamics and introduce examples of ultradian oscillators in various biological contexts. We also discuss how optogenetic technology has been used to elucidate the biological significance of ultradian oscillations."
+  ],
+  "affiliation": [
+    "Institute for Virus Research, Kyoto University, Shogoin-Kawahara, Sakyo-ku, Kyoto 606-8507, Japan Japan Science and Technology Agency, Core Research for Evolutional Science and Technology (CREST), 4-1-8 Honcho, Kawaguchi, Saitama 332-0012, Japan aisomura@virus.kyoto-u.ac.jp rkageyam@virus.kyoto-u.ac.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cleavage Stage, Ovum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mammals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Aging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Differentiation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Lineage"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Activity Cycles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Embryonic Development"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Cycle Checkpoints"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Negative feedback",
+        "systems biology",
+        "Optogenetics",
+        "Ultradian Oscillator"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4197574"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1242/dev.104497"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "27"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-24"
+  ],
+  "dateOfCreation": [
+    "2014-09-24"
+  ],
+  "firstIndexDate": [
+    "2014-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2014-11-10"
+  ],
+  "firstPublicationDate": [
+    "2014-10-01"
+  ]
+}

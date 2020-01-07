@@ -1,0 +1,311 @@
+{
+  "id": [
+    "25988185"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25988185"
+  ],
+  "pmcid": [
+    "PMC4428443"
+  ],
+  "doi": [
+    "10.3389/fmolb.2015.00018"
+  ],
+  "title": [
+    "LOV-based optogenetic devices: light-driven modules to impart photoregulated control of cellular signaling."
+  ],
+  "authorString": [
+    "Pudasaini A, El-Arab KK, Zoltowski BD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pudasaini A"
+          ],
+          "firstName": [
+            "Ashutosh"
+          ],
+          "lastName": [
+            "Pudasaini"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Center for Drug Discovery, Design and Delivery at Dedman College, Southern Methodist University Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "El-Arab KK"
+          ],
+          "firstName": [
+            "Kaley K"
+          ],
+          "lastName": [
+            "El-Arab"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Center for Drug Discovery, Design and Delivery at Dedman College, Southern Methodist University Dallas, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zoltowski BD"
+          ],
+          "firstName": [
+            "Brian D"
+          ],
+          "lastName": [
+            "Zoltowski"
+          ],
+          "initials": [
+            "BD"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Center for Drug Discovery, Design and Delivery at Dedman College, Southern Methodist University Dallas, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2290867"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Molecular Biosciences"
+          ],
+          "ISOAbbreviation": [
+            "Front Mol Biosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Mol Biosci"
+          ],
+          "NLMid": [
+            "101653173"
+          ],
+          "ISSN": [
+            "2296-889X"
+          ],
+          "ESSN": [
+            "2296-889X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "The Light-Oxygen-Voltage domain family of proteins is widespread in biology where they impart sensory responses to signal transduction domains. The small, light responsive LOV modules offer a novel platform for the construction of optogenetic tools. Currently, the design and implementation of these devices is partially hindered by a lack of understanding of how light drives allosteric changes in protein conformation to activate diverse signal transduction domains. Further, divergent photocycle properties amongst LOV family members complicate construction of highly sensitive devices with fast on/off kinetics. In the present review we discuss the history of LOV domain research with primary emphasis on tuning LOV domain chemistry and signal transduction to allow for improved optogenetic tools."
+  ],
+  "affiliation": [
+    "Department of Chemistry, Center for Drug Discovery, Design and Delivery at Dedman College, Southern Methodist University Dallas, TX, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R15 GM109282"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein engineering",
+        "Photobiology",
+        "Optogenetics",
+        "Lov Domain",
+        "Photosensors"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4428443?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4428443"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmolb.2015.00018"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "30"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-19"
+  ],
+  "dateOfCreation": [
+    "2015-05-19"
+  ],
+  "firstIndexDate": [
+    "2015-05-20"
+  ],
+  "fullTextReceivedDate": [
+    "2015-05-20"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-12"
+  ],
+  "firstPublicationDate": [
+    "2015-05-12"
+  ]
+}

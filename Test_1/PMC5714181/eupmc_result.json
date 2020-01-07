@@ -1,0 +1,770 @@
+{
+  "id": [
+    "29040770"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29040770"
+  ],
+  "pmcid": [
+    "PMC5714181"
+  ],
+  "doi": [
+    "10.1093/nar/gkx804"
+  ],
+  "title": [
+    "Optimized light-inducible transcription in mammalian cells using Flavin Kelch-repeat F-box1/GIGANTEA and CRY2/CIB1."
+  ],
+  "authorString": [
+    "Quejada JR, Park SE, Awari DW, Shi F, Yamamoto HE, Kawano F, Jung JC, Yazawa M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Quejada JR"
+          ],
+          "firstName": [
+            "Jose R"
+          ],
+          "lastName": [
+            "Quejada"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Park SE"
+          ],
+          "firstName": [
+            "Seon-Hye E"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Regenerative Medicine, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Awari DW"
+          ],
+          "firstName": [
+            "Daniel W"
+          ],
+          "lastName": [
+            "Awari"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Regenerative Medicine, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi F"
+          ],
+          "firstName": [
+            "Fan"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "College of Precision Instrument and Optoelectronics Engineering, Tianjin University, Tianjin 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto HE"
+          ],
+          "firstName": [
+            "Hannah E"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "HE"
+          ],
+          "affiliation": [
+            "Barnard College, New York, NY 10027, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawano F"
+          ],
+          "firstName": [
+            "Fuun"
+          ],
+          "lastName": [
+            "Kawano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Regenerative Medicine, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung JC"
+          ],
+          "firstName": [
+            "Juergen C"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Department of Biology, Stanford University, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yazawa M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Yazawa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Columbia University, New York, NY 10032, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "20"
+      ],
+      "volume": [
+        "45"
+      ],
+      "journalIssueId": [
+        "2619973"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e172"
+  ],
+  "abstractText": [
+    "Light-inducible systems allow spatiotemporal control of a variety of biological activities. Here, we report newly optimized optogenetic tools to induce transcription with light in mammalian cells, using the Arabidopsis photoreceptor Flavin Kelch-repeat F-box 1 (FKF1) and its binding partner GIGANTEA (GI) as well as CRY2/CIB1. By combining the mutagenesis of FKF1 with the optimization of a split FKF1/GI dimerized Gal4-VP16 transcriptional system, we identified constructs enabling significantly improved light-triggered transcriptional induction. In addition, we have improved the CRY2/CIB1-based light-inducible transcription with split construct optimization. The improvements regarding the FKF1/GI- and CRY2/CIB1-based systems will be widely applicable for the light-dependent control of transcription in mammalian cells."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, Columbia University, New York, NY 10032, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "3T3 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Basic Helix-Loop-Helix Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcriptional Activation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cryptochromes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "CRY2 protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "GI protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "FKF1 protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Arabidopsis Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Basic Helix-Loop-Helix Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CIB1 protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cryptochromes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkx804"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5714181"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5714181?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-12-04"
+  ],
+  "dateOfCreation": [
+    "2017-10-18"
+  ],
+  "firstIndexDate": [
+    "2017-10-18"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-10"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "firstPublicationDate": [
+    "2017-11-01"
+  ]
+}

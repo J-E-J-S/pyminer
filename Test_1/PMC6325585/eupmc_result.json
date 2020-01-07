@@ -1,0 +1,310 @@
+{
+  "id": [
+    "30643713"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30643713"
+  ],
+  "pmcid": [
+    "PMC6325585"
+  ],
+  "doi": [
+    "10.1002/advs.201800952"
+  ],
+  "title": [
+    "Light-Controlled Mammalian Cells and Their Therapeutic Applications in Synthetic Biology."
+  ],
+  "authorString": [
+    "Mansouri M, Strittmatter T, Fussenegger M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mansouri M"
+          ],
+          "firstName": [
+            "Maysam"
+          ],
+          "lastName": [
+            "Mansouri"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering ETH Zurich Mattenstrasse 26 CH-4058 Basel Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Strittmatter T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Strittmatter"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering ETH Zurich Mattenstrasse 26 CH-4058 Basel Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Fussenegger M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Fussenegger"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8545-667X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering ETH Zurich Mattenstrasse 26 CH-4058 Basel Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8545-667X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2771541"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+          ],
+          "ISOAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "medlineAbbreviation": [
+            "Adv Sci (Weinh)"
+          ],
+          "NLMid": [
+            "101664569"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1800952"
+  ],
+  "abstractText": [
+    "The ability to remote control the expression of therapeutic genes in mammalian cells in order to treat disease is a central goal of synthetic biology-inspired therapeutic strategies. Furthermore, optogenetics, a combination of light and genetic sciences, provides an unprecedented ability to use light for precise control of various cellular activities with high spatiotemporal resolution. Recent work to combine optogenetics and therapeutic synthetic biology has led to the engineering of light-controllable designer cells, whose behavior can be regulated precisely and noninvasively. This Review focuses mainly on non-neural optogenetic systems, which are often used in synthetic biology, and their applications in genetic programing of mammalian cells. Here, a brief overview of the optogenetic tool kit that is available to build light-sensitive mammalian cells is provided. Then, recently developed strategies for the control of designer cells with specific biological functions are summarized. Recent translational applications of optogenetically engineered cells are also highlighted, ranging from in vitro basic research to in vivo light-controlled gene therapy. Finally, current bottlenecks, possible solutions, and future prospects for optogenetics in synthetic biology are discussed."
+  ],
+  "affiliation": [
+    "Department of Biosystems Science and Engineering ETH Zurich Mattenstrasse 26 CH-4058 Basel Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell engineering",
+        "Mammalian cells",
+        "Optogenetics",
+        "Synthetic Biology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325585?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325585"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/advs.201800952"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-16"
+  ],
+  "firstIndexDate": [
+    "2019-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-24"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-30"
+  ],
+  "firstPublicationDate": [
+    "2018-09-30"
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "id": [
+    "30050903"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30050903"
+  ],
+  "pmcid": [
+    "PMC6052052"
+  ],
+  "doi": [
+    "10.3389/fcell.2018.00075"
+  ],
+  "title": [
+    "Versatile Genome Engineering Techniques Advance Human Ocular Disease Researches in Zebrafish."
+  ],
+  "authorString": [
+    "Zheng SS, Han RY, Xiang L, Zhuang YY, Jin ZB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng SS"
+          ],
+          "firstName": [
+            "Si-Si"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han RY"
+          ],
+          "firstName": [
+            "Ru-Yi"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "RY"
+          ],
+          "affiliation": [
+            "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang L"
+          ],
+          "firstName": [
+            "Lue"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuang YY"
+          ],
+          "firstName": [
+            "You-Yuan"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "YY"
+          ],
+          "affiliation": [
+            "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin ZB"
+          ],
+          "firstName": [
+            "Zi-Bing"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "ZB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0515-698X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0515-698X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2649712"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cell and Developmental Biology"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Dev Biol"
+          ],
+          "NLMid": [
+            "101630250"
+          ],
+          "ISSN": [
+            "2296-634X"
+          ],
+          "ESSN": [
+            "2296-634X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "75"
+  ],
+  "abstractText": [
+    "Over recent decades, zebrafish has been established as a sophisticated vertebrate model for studying human ocular diseases due to its high fecundity, short generation time and genetic tractability. With the invention of morpholino (MO) technology, it became possible to study the genetic basis and relevant genes of ocular diseases in vivo. Many genes have been shown to be related to ocular diseases. However, the issue of specificity is the major concern in defining gene functions with MO technology. The emergence of the first- and second-generation genetic modification tools zinc-finger nucleases (ZFNs) and TAL effector nucleases (TALENs), respectively, eliminated the potential phenotypic risk induced by MOs. Nevertheless, the efficiency of these nucleases remained relatively low until the third technique, the clustered regularly interspersed short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) system, was discovered. This review highlights the application of multiple genome engineering techniques, especially the CRISPR/Cas9 system, in the study of human ocular diseases in zebrafish."
+  ],
+  "affiliation": [
+    "Division of Ophthalmic Genetics, Laboratory for Stem Cell and Retinal Regeneration, Institute of Stem Cell Research, The Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Zebrafish",
+        "Morpholino",
+        "Genome Editing",
+        "Ocular Development",
+        "Crispr/cas9"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fcell.2018.00075"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6052052"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6052052?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-28"
+  ],
+  "firstIndexDate": [
+    "2018-07-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-29"
+  ],
+  "dateOfRevision": [
+    "2018-07-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-12"
+  ],
+  "firstPublicationDate": [
+    "2018-07-12"
+  ]
+}

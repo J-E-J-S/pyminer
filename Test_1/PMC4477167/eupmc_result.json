@@ -1,0 +1,330 @@
+{
+  "id": [
+    "26157802"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26157802"
+  ],
+  "pmcid": [
+    "PMC4477167"
+  ],
+  "doi": [
+    "10.3389/fmolb.2015.00033"
+  ],
+  "title": [
+    "Applications of hydrogen deuterium exchange (HDX) for the characterization of conformational dynamics in light-activated photoreceptors."
+  ],
+  "authorString": [
+    "Lindner R, Heintz U, Winkler A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lindner R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Lindner"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Mechanisms, Max Planck Institute for Medical Research Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Heintz U"
+          ],
+          "firstName": [
+            "Udo"
+          ],
+          "lastName": [
+            "Heintz"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Mechanisms, Max Planck Institute for Medical Research Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Winkler A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Winkler"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6221-9671",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, Graz University of Technology Graz, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6221-9671",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2290867"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Molecular Biosciences"
+          ],
+          "ISOAbbreviation": [
+            "Front Mol Biosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Mol Biosci"
+          ],
+          "NLMid": [
+            "101653173"
+          ],
+          "ISSN": [
+            "2296-889X"
+          ],
+          "ESSN": [
+            "2296-889X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "abstractText": [
+    "Rational design of optogenetic tools is inherently linked to the understanding of photoreceptor function. Structural analysis of elements involved in signal integration in individual sensor domains provides an initial idea of their mode of operation, but understanding how local structural rearrangements eventually affect signal transmission to output domains requires inclusion of the effector regions in the characterization. However, the dynamic nature of these assemblies renders their structural analysis challenging and therefore a combination of high- and low-resolution techniques is required to appreciate functional aspects of photoreceptors. This review focuses on the potential of hydrogen-deuterium exchange coupled to mass spectrometry (HDX-MS) for complementing the structural characterization of photoreceptors. In this respect, the ability of HDX-MS to provide information on conformational dynamics and the possibility to address multiple functionally relevant states in solution render this methodology ideally suitable. We highlight recent examples demonstrating the potential of HDX-MS and discuss how these results can help to improve existing optogenetic systems or guide the design of novel optogenetic tools."
+  ],
+  "affiliation": [
+    "Department of Biomolecular Mechanisms, Max Planck Institute for Medical Research Heidelberg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P 27124"
+          ],
+          "agency": [
+            "Austrian Science Fund FWF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mass spectrometry",
+        "Effector",
+        "Optogenetics",
+        "Lov",
+        "Light Sensor",
+        "Bluf",
+        "Pyp"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4477167?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4477167"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmolb.2015.00033"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-09"
+  ],
+  "dateOfCreation": [
+    "2015-07-10"
+  ],
+  "firstIndexDate": [
+    "2015-07-10"
+  ],
+  "fullTextReceivedDate": [
+    "2015-07-10"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-23"
+  ],
+  "firstPublicationDate": [
+    "2015-06-23"
+  ]
+}

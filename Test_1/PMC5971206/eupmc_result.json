@@ -1,0 +1,534 @@
+{
+  "id": [
+    "29775585"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29775585"
+  ],
+  "pmcid": [
+    "PMC5971206"
+  ],
+  "doi": [
+    "10.1016/j.molcel.2018.04.012"
+  ],
+  "title": [
+    "An Optogenetic Platform for Real-Time, Single-Cell Interrogation of Stochastic Transcriptional Regulation."
+  ],
+  "authorString": [
+    "Rullan M, Benzinger D, Schmidt GW, Milias-Argeitis A, Khammash M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rullan M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Rullan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering, ETH Zurich, Basel, 4058 Basel-Stadt, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Benzinger D"
+          ],
+          "firstName": [
+            "Dirk"
+          ],
+          "lastName": [
+            "Benzinger"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering, ETH Zurich, Basel, 4058 Basel-Stadt, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmidt GW"
+          ],
+          "firstName": [
+            "Gregor W"
+          ],
+          "lastName": [
+            "Schmidt"
+          ],
+          "initials": [
+            "GW"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering, ETH Zurich, Basel, 4058 Basel-Stadt, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Milias-Argeitis A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Milias-Argeitis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Systems Biology, Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, 9747 AG Groningen, the Netherlands. Electronic address: a.milias.argeitis@rug.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Khammash M"
+          ],
+          "firstName": [
+            "Mustafa"
+          ],
+          "lastName": [
+            "Khammash"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biosystems Science and Engineering, ETH Zurich, Basel, 4058 Basel-Stadt, Switzerland. Electronic address: mustafa.khammash@bsse.ethz.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "70"
+      ],
+      "journalIssueId": [
+        "2685349"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular cell"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Cell"
+          ],
+          "medlineAbbreviation": [
+            "Mol Cell"
+          ],
+          "NLMid": [
+            "9802571"
+          ],
+          "ISSN": [
+            "1097-2765"
+          ],
+          "ESSN": [
+            "1097-4164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "745-756.e6"
+  ],
+  "abstractText": [
+    "Transcription is a highly regulated and inherently stochastic process. The complexity of signal transduction and gene regulation makes it challenging to analyze how the dynamic activity of transcriptional regulators affects stochastic transcription. By combining a fast-acting, photo-regulatable transcription factor with nascent RNA quantification in live cells and an experimental setup for precise spatiotemporal delivery of light inputs, we constructed a platform for the real-time, single-cell interrogation of transcription in Saccharomyces cerevisiae. We show that transcriptional activation and deactivation are fast and memoryless. By analyzing the temporal activity of individual cells, we found that transcription occurs in bursts, whose duration and timing are modulated by transcription factor activity. Using our platform, we regulated transcription via light-driven feedback loops at the single-cell level. Feedback markedly reduced cell-to-cell variability and led to qualitative differences in cellular transcriptional dynamics. Our platform establishes a flexible method for studying transcriptional dynamics in single cells."
+  ],
+  "affiliation": [
+    "Department of Biosystems Science and Engineering, ETH Zurich, Basel, 4058 Basel-Stadt, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stochastic Processes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcription, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription",
+        "Single cell",
+        "Feedback regulation",
+        "Stochasticity",
+        "Optogenetics",
+        "Pp7",
+        "Transcriptional Bursting",
+        "El222",
+        "Cybergenetics"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Saccharomyces cerevisiae Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.molcel.2018.04.012"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5971206"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29775576"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Mol Cell. 2018 May 17;70(4):571-572"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "PPR28281"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-12"
+  ],
+  "dateOfCreation": [
+    "2018-05-19"
+  ],
+  "firstIndexDate": [
+    "2018-05-19"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-03"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "firstPublicationDate": [
+    "2018-05-01"
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "id": [
+    "26727491"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26727491"
+  ],
+  "pmcid": [
+    "PMC4699818"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0146066"
+  ],
+  "title": [
+    "Access Path to the Ligand Binding Pocket May Play a Role in Xenobiotics Selection by AhR."
+  ],
+  "authorString": [
+    "Szöllősi D, Erdei Á, Gyimesi G, Magyar C, Hegedűs T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Szöllősi D"
+          ],
+          "firstName": [
+            "Dániel"
+          ],
+          "lastName": [
+            "Szöllősi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4641-3065",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MTA-SE Molecular Biophysics Research Group, Hungarian Academy of Sciences, Budapest, 1094, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Erdei Á"
+          ],
+          "firstName": [
+            "Áron"
+          ],
+          "lastName": [
+            "Erdei"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "affiliation": [
+            "MTA-SE Molecular Biophysics Research Group, Hungarian Academy of Sciences, Budapest, 1094, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Gyimesi G"
+          ],
+          "firstName": [
+            "Gergely"
+          ],
+          "lastName": [
+            "Gyimesi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2054-4633",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biochemistry and Molecular Medicine, University of Bern, Bern, 3012, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Magyar C"
+          ],
+          "firstName": [
+            "Csaba"
+          ],
+          "lastName": [
+            "Magyar"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Enzymology, Research Centre for Natural Sciences, Hungarian Academy of Sciences, Budapest, 1117, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Hegedűs T"
+          ],
+          "firstName": [
+            "Tamás"
+          ],
+          "lastName": [
+            "Hegedűs"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "MTA-SE Molecular Biophysics Research Group, Hungarian Academy of Sciences, Budapest, 1094, Hungary."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4641-3065",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2054-4633",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2358464"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0146066"
+  ],
+  "abstractText": [
+    "Understanding of multidrug binding at the atomic level would facilitate drug design and strategies to modulate drug metabolism, including drug transport, oxidation, and conjugation. Therefore we explored the mechanism of promiscuous binding of small molecules by studying the ligand binding domain, the PAS-B domain of the aryl hydrocarbon receptor (AhR). Because of the low sequence identities of PAS domains to be used for homology modeling, structural features of the widely employed HIF-2α and a more recent suitable template, CLOCK were compared. These structures were used to build AhR PAS-B homology models. We performed molecular dynamics simulations to characterize dynamic properties of the PAS-B domain and the generated conformational ensembles were employed in in silico docking. In order to understand structural and ligand binding features we compared the stability and dynamics of the promiscuous AhR PAS-B to other PAS domains exhibiting specific interactions or no ligand binding function. Our exhaustive in silico binding studies, in which we dock a wide spectrum of ligand molecules to the conformational ensembles, suggest that ligand specificity and selection may be determined not only by the PAS-B domain itself, but also by other parts of AhR and its protein interacting partners. We propose that ligand binding pocket and access channels leading to the pocket play equally important roles in discrimination of endogenous molecules and xenobiotics."
+  ],
+  "affiliation": [
+    "MTA-SE Molecular Biophysics Research Group, Hungarian Academy of Sciences, Budapest, 1094, Hungary."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiprotein Complexes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, Aryl Hydrocarbon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Xenobiotics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ligands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Binding Sites"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Conformation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Structure, Tertiary"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Substrate Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Chemical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Basic Helix-Loop-Helix Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CLOCK Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ARNTL Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrophobic and Hydrophilic Interactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Docking Simulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Arntl protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ligands"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Multiprotein Complexes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Receptors, Aryl Hydrocarbon"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Xenobiotics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Basic Helix-Loop-Helix Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CLOCK Proteins"
+          ],
+          "registryNumber": [
+            "EC 2.3.1.48"
+          ]
+        },
+        {
+          "name": [
+            "Clock protein, mouse"
+          ],
+          "registryNumber": [
+            "EC 2.3.1.48"
+          ]
+        },
+        {
+          "name": [
+            "ARNTL Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "endothelial PAS domain-containing protein 1"
+          ],
+          "registryNumber": [
+            "1B37H0967P"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0146066"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4699818"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4699818?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-07-06"
+  ],
+  "dateOfCreation": [
+    "2016-01-05"
+  ],
+  "firstIndexDate": [
+    "2016-01-05"
+  ],
+  "fullTextReceivedDate": [
+    "2016-01-17"
+  ],
+  "dateOfRevision": [
+    "2019-02-22"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-04"
+  ],
+  "firstPublicationDate": [
+    "2016-01-04"
+  ]
+}

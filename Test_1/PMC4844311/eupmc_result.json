@@ -1,0 +1,296 @@
+{
+  "id": [
+    "27135492"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27135492"
+  ],
+  "pmcid": [
+    "PMC4844311"
+  ],
+  "doi": [
+    "10.3390/plants3010070"
+  ],
+  "title": [
+    "From Plant Infectivity to Growth Patterns: The Role of Blue-Light Sensing in the Prokaryotic World."
+  ],
+  "authorString": [
+    "Losi A, Mandalari C, Gärtner W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Losi A"
+          ],
+          "firstName": [
+            "Aba"
+          ],
+          "lastName": [
+            "Losi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0497-2723",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics and Earth Sciences, University of Parma, v.le G.P. Usberti 7/a, Parma I-43124, Italy. aba.losi@fis.unipr.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Mandalari C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "Mandalari"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Physics and Earth Sciences, University of Parma, v.le G.P. Usberti 7/a, Parma I-43124, Italy. carmen.mandalari@fis.unipr.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Gärtner W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Gärtner"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Max Planck Institute for Chemical Energy Conversion, Stiftstrasse 34-36, Mülheim 45470, Germany. wolfgang.gaertner@cec.mpg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0497-2723",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2403398"
+      ],
+      "dateOfPublication": [
+        "2014"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "70-94"
+  ],
+  "abstractText": [
+    "Flavin-based photoreceptor proteins of the LOV (Light, Oxygen, and Voltage) and BLUF (Blue Light sensing Using Flavins) superfamilies are ubiquitous among the three life domains and are essential blue-light sensing systems, not only in plants and algae, but also in prokaryotes. Here we review their biological roles in the prokaryotic world and their evolution pathways. An unexpected large number of bacterial species possess flavin-based photosensors, amongst which are important human and plant pathogens. Still, few cases are reported where the activity of blue-light sensors could be correlated to infectivity and/or has been shown to be involved in the activation of specific genes, resulting in selective growth patterns. Metagenomics and bio-informatic analysis have only recently been initiated, but signatures are beginning to emerge that allow definition of a bona fide LOV or BLUF domain, aiming at better selection criteria for novel blue-light sensors. We also present here, for the first time, the phylogenetic tree for archaeal LOV domains that have reached a statistically significant number but have not at all been investigated thus far."
+  ],
+  "affiliation": [
+    "Department of Physics and Earth Sciences, University of Parma, v.le G.P. Usberti 7/a, Parma I-43124, Italy. aba.losi@fis.unipr.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phylogeny",
+        "Plant-pathogen Interaction",
+        "Lov Domain",
+        "Bluf Domain"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4844311"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants3010070"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-04"
+  ],
+  "dateOfCreation": [
+    "2016-05-04"
+  ],
+  "firstIndexDate": [
+    "2016-05-03"
+  ],
+  "fullTextReceivedDate": [
+    "2016-05-01"
+  ],
+  "dateOfRevision": [
+    "2016-05-06"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-27"
+  ],
+  "firstPublicationDate": [
+    "2014-01-27"
+  ]
+}

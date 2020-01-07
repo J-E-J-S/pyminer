@@ -1,0 +1,382 @@
+{
+  "id": [
+    "28579827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28579827"
+  ],
+  "pmcid": [
+    "PMC5415353"
+  ],
+  "doi": [
+    "10.1177/1179069517703354"
+  ],
+  "title": [
+    "Optogenetic Modulation of Intracellular Signalling and Transcription: Focus on Neuronal Plasticity."
+  ],
+  "authorString": [
+    "Eleftheriou C, Cesca F, Maragliano L, Benfenati F, Maya-Vetencourt JF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Eleftheriou C"
+          ],
+          "firstName": [
+            "Cyril"
+          ],
+          "lastName": [
+            "Eleftheriou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5931-996X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cesca F"
+          ],
+          "firstName": [
+            "Fabrizia"
+          ],
+          "lastName": [
+            "Cesca"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2190-6314",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Maragliano L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Maragliano"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5705-6967",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Benfenati F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Benfenati"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Maya-Vetencourt JF"
+          ],
+          "firstName": [
+            "Jose Fernando"
+          ],
+          "lastName": [
+            "Maya-Vetencourt"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3808-8944",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5931-996X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2190-6314",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3808-8944",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5705-6967",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2553497"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of experimental neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "J Exp Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "J Exp Neurosci"
+          ],
+          "NLMid": [
+            "101517658"
+          ],
+          "ISSN": [
+            "1179-0695"
+          ],
+          "ESSN": [
+            "1179-0695"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1179069517703354"
+  ],
+  "abstractText": [
+    "Several fields in neuroscience have been revolutionized by the advent of optogenetics, a technique that offers the possibility to modulate neuronal physiology in response to light stimulation. This innovative and far-reaching tool provided unprecedented spatial and temporal resolution to explore the activity of neural circuits underlying cognition and behaviour. With an exponential growth in the discovery and synthesis of new photosensitive actuators capable of modulating neuronal networks function, other fields in biology are experiencing a similar re-evolution. Here, we review the various optogenetic toolboxes developed to influence cellular physiology as well as the diverse ways in which these can be engineered to precisely modulate intracellular signalling and transcription. We also explore the processes required to successfully express and stimulate these photo-actuators in vivo before discussing how such tools can enlighten our understanding of neuronal plasticity at the systems level."
+  ],
+  "affiliation": [
+    "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Genova, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription",
+        "Epigenetics",
+        "neuronal plasticity",
+        "Gene Expression",
+        "Intracellular Signalling",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5415353?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5415353"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1179069517703354"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-06"
+  ],
+  "firstIndexDate": [
+    "2017-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2017-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-01-12"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-01"
+  ],
+  "firstPublicationDate": [
+    "2017-05-01"
+  ]
+}

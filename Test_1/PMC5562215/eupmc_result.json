@@ -1,0 +1,573 @@
+{
+  "id": [
+    "28824715"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28824715"
+  ],
+  "pmcid": [
+    "PMC5562215"
+  ],
+  "doi": [
+    "10.7150/thno.19443"
+  ],
+  "title": [
+    "Advanced Gene Manipulation Methods for Stem Cell Theranostics."
+  ],
+  "authorString": [
+    "Rathnam C, Chueng SD, Yang L, Lee KB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rathnam C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Rathnam"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chueng SD"
+          ],
+          "firstName": [
+            "Sy-Tsong Dean"
+          ],
+          "lastName": [
+            "Chueng"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1447-5491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Letao"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0572-9787",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KB"
+          ],
+          "firstName": [
+            "Ki-Bum"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0572-9787",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1447-5491",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2588557"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Theranostics"
+          ],
+          "ISOAbbreviation": [
+            "Theranostics"
+          ],
+          "medlineAbbreviation": [
+            "Theranostics"
+          ],
+          "NLMid": [
+            "101552395"
+          ],
+          "ISSN": [
+            "1838-7640"
+          ],
+          "ESSN": [
+            "1838-7640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2775-2793"
+  ],
+  "abstractText": [
+    "In the field of tissue engineering, autologous cell sources are ideal to prevent adverse immune responses; however, stable and reliable cell sources are limited. To acquire more reliable cell sources, the harvesting and differentiation of stem cells from patients is becoming more and more common. To this end, the need to control the fate of these stem cells before transplantation for therapeutic purposes is urgent. Since transcription factors orchestrate all of the gene activities inside of a cell, researchers have developed engineered and synthetic transcription factors to precisely control the fate of stem cells allowing for safer and more effective cell sources. Engineered transcription factors, mutant fusion proteins of naturally occurring proteins, comprise the three main domains of natural transcription factors including DNA binding domains, transcriptional activation domains, and a linker domain. Several key advancements of engineered zinc finger proteins, transcriptional activator-like effectors, and deficient cas9 proteins have revolutionized the field of engineered transcription factors allowing for precise control of gene regulation. Synthetic transcription factors are chemically made transcription factor mimics that use small molecule based moieties to replicate the main functions of natural transcription factors. These include hairpin polyamides, triple helix forming oligonucleotides, and nanoparticle-based methods. Synthetic transcription factors allow for non-viral delivery and greater spatiotemporal control of gene expression. The developments in engineered and synthetic transcription factors have lowered the risk of tumorigenicity and improved differentiation capability of stem cells, as well as facilitated many key discoveries in the fields of cancer and stem cell biology, thus providing a stepping stone to advance regenerative medicine in the clinic for cell replacement therapies."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Chemical Biology, Rutgers, The State University of New Jersey, Piscataway, NJ 08854, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DP2 OD006462"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 GM008339"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 NS085569"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stem Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Differentiation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Theranostic Nanomedicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene regulation",
+        "Transcription factors",
+        "Stem Cells",
+        "Regenerative Medicine",
+        "Cellular Reprogramming",
+        "Nanotechnology."
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/thno.19443"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5562215"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5562215?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-04-30"
+  ],
+  "dateOfCreation": [
+    "2017-08-22"
+  ],
+  "firstIndexDate": [
+    "2017-08-22"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-25"
+  ],
+  "dateOfRevision": [
+    "2018-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-08"
+  ],
+  "firstPublicationDate": [
+    "2017-07-08"
+  ]
+}

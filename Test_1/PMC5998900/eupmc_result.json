@@ -1,0 +1,647 @@
+{
+  "id": [
+    "29745855"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29745855"
+  ],
+  "pmcid": [
+    "PMC5998900"
+  ],
+  "doi": [
+    "10.1186/s12868-018-0411-6"
+  ],
+  "title": [
+    "Optogenetic regulation of transcription."
+  ],
+  "authorString": [
+    "Polesskaya O, Baranova A, Bui S, Kondratev N, Kananykhina E, Nazarenko O, Shapiro T, Nardia FB, Kornienko V, Chandhoke V, Stadler I, Lanzafame R, Myakishev-Rempel M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Polesskaya O"
+          ],
+          "firstName": [
+            "Oksana"
+          ],
+          "lastName": [
+            "Polesskaya"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "University of California, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Baranova A"
+          ],
+          "firstName": [
+            "Ancha"
+          ],
+          "lastName": [
+            "Baranova"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Research Center for Medical Genetics RAMS, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bui S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Bui"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for the Study of Chronic Metabolic and Rare Diseases, School of Systems Biology, George Mason University, Fairfax, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kondratev N"
+          ],
+          "firstName": [
+            "Nikolai"
+          ],
+          "lastName": [
+            "Kondratev"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kananykhina E"
+          ],
+          "firstName": [
+            "Evgeniya"
+          ],
+          "lastName": [
+            "Kananykhina"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nazarenko O"
+          ],
+          "firstName": [
+            "Olga"
+          ],
+          "lastName": [
+            "Nazarenko"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shapiro T"
+          ],
+          "firstName": [
+            "Tatyana"
+          ],
+          "lastName": [
+            "Shapiro"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nardia FB"
+          ],
+          "firstName": [
+            "Frances Barg"
+          ],
+          "lastName": [
+            "Nardia"
+          ],
+          "initials": [
+            "FB"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kornienko V"
+          ],
+          "firstName": [
+            "Vladimir"
+          ],
+          "lastName": [
+            "Kornienko"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chandhoke V"
+          ],
+          "firstName": [
+            "Vikas"
+          ],
+          "lastName": [
+            "Chandhoke"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Center for the Study of Chronic Metabolic and Rare Diseases, School of Systems Biology, George Mason University, Fairfax, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stadler I"
+          ],
+          "firstName": [
+            "Istvan"
+          ],
+          "lastName": [
+            "Stadler"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Rochester General Hospital, Rochester, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lanzafame R"
+          ],
+          "firstName": [
+            "Raymond"
+          ],
+          "lastName": [
+            "Lanzafame"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Raymond J. Lanzafame, MD PLLC, Rochester, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Myakishev-Rempel M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Myakishev-Rempel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Localized Therapeutics, LLC, San Diego, CA, USA. max@localizedtherapeutics.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2682720"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurosci"
+          ],
+          "NLMid": [
+            "100966986"
+          ],
+          "ISSN": [
+            "1471-2202"
+          ],
+          "ESSN": [
+            "1471-2202"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "12"
+  ],
+  "abstractText": [
+    "Optogenetics has become widely recognized for its success in real-time control of brain neurons by utilizing non-mammalian photosensitive proteins to open or close membrane channels. Here we review a less well known type of optogenetic constructs that employs photosensitive proteins to transduce the signal to regulate gene transcription, and its possible use in medicine. One of the problems with existing gene therapies is that they could remain active indefinitely while not allowing regulated transgene production on demand. Optogenetic regulation of transcription (ORT) could potentially be used to regulate the production of a biological drug in situ, by repeatedly applying light to the tissue, and inducing expression of therapeutic transgenes when needed. Red and near infrared wavelengths, which are capable of penetration into tissues, have potential for therapeutic applications. Existing ORT systems are reviewed herein with these considerations in mind."
+  ],
+  "affiliation": [
+    "University of California, San Diego, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R43 AR065884"
+          ],
+          "agency": [
+            "NIAMS NIH HHS"
+          ],
+          "acronym": [
+            "AR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R43 MH110273"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptional Activation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Translational Medical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12868-018-0411-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5998900"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5998900?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-17"
+  ],
+  "dateOfCreation": [
+    "2018-05-11"
+  ],
+  "firstIndexDate": [
+    "2018-05-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-04-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-19"
+  ],
+  "firstPublicationDate": [
+    "2018-04-19"
+  ]
+}
