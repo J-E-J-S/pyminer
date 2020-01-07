@@ -11,12 +11,21 @@ import nltk.tokenize as tokenize
 import os
 import nltk
 import pandas as pd
+import xml.etree.ElementTree as ET
+
+# %% Main Tools
+
+def get_title(file_path):
+    f = open(file_path, 'r')
+    tree = ET.ElementTree(f)
+    root = tree.getroot()
+    for elem in tree.iterfind('journal-article'):
+        print(elem)
+
+get_title(r"C:\Users\James\Documents\george_test\PMC5562215\fulltext.xml")
 
 # %%
 
-folder_path = r"C:\Users\James\Documents\george_test"
-
-# %% Main Tools
 
 def get_frequency(file_path):
     '''takes in xml file path and outputs list of most common words'''
@@ -24,7 +33,7 @@ def get_frequency(file_path):
     soup = BeautifulSoup(f, 'lxml')
     f.close()
     text = soup.text
-    custom_list = ['']
+    custom_list = ['The'] # James can also edit this (add more words)
     stop_words = list(stopwords.words('english')) + custom_list
     list_of_words = text.split(' ')
     filtered_text = []
