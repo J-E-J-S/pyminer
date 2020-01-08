@@ -1,0 +1,363 @@
+{
+  "id": [
+    "30899254"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30899254"
+  ],
+  "pmcid": [
+    "PMC6416219"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.00460"
+  ],
+  "title": [
+    "Discovery of Novel Antibiotic Resistance Determinants in Forest and Grassland Soil Metagenomes."
+  ],
+  "authorString": [
+    "Willms IM, Kamran A, Aßmann NF, Krone D, Bolz SH, Fiedler F, Nacke H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Willms IM"
+          ],
+          "firstName": [
+            "Inka Marie"
+          ],
+          "lastName": [
+            "Willms"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamran A"
+          ],
+          "firstName": [
+            "Aysha"
+          ],
+          "lastName": [
+            "Kamran"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of General Microbiology, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Aßmann NF"
+          ],
+          "firstName": [
+            "Nils Frederik"
+          ],
+          "lastName": [
+            "Aßmann"
+          ],
+          "initials": [
+            "NF"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Krone D"
+          ],
+          "firstName": [
+            "Denis"
+          ],
+          "lastName": [
+            "Krone"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bolz SH"
+          ],
+          "firstName": [
+            "Simon Henning"
+          ],
+          "lastName": [
+            "Bolz"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fiedler F"
+          ],
+          "firstName": [
+            "Fabian"
+          ],
+          "lastName": [
+            "Fiedler"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nacke H"
+          ],
+          "firstName": [
+            "Heiko"
+          ],
+          "lastName": [
+            "Nacke"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "460"
+  ],
+  "abstractText": [
+    "Soil represents a significant reservoir of antibiotic resistance genes (ARGs), which can potentially spread across distinct ecosystems and be acquired by pathogens threatening human as well as animal health. Currently, information on the identity and diversity of these genes, enabling anticipation of possible future resistance development in clinical environments and the livestock sector, is lacking. In this study, we applied functional metagenomics to discover novel sulfonamide as well as tetracycline resistance genes in soils derived from forest and grassland. Screening of soil metagenomic libraries revealed a total of eight so far unknown ARGs. The recovered genes originate from phylogenetically diverse soil bacteria (e.g., Actinobacteria, Chloroflexi, or Proteobacteria) and encode proteins with a minimum identity of 46% to other antibiotic resistance determinants. In particular forest soil ecosystems have so far been neglected in studies focusing on antibiotic resistance. Here, we detected for the first time non-mobile dihydropteroate synthase (DHPS) genes conferring resistance to sulfonamides in forest soil with no history of exposure to these synthetic drugs. In total, three sulfonamide resistant DHPSs, differing in taxonomic origin, were discovered in beech or pine forest soil. This indicates that sulfonamide resistance naturally occurs in forest-resident soil bacterial communities. Besides forest soil-derived sulfonamide resistance proteins, we also identified a DHPS affiliated to Chloroflexi in grassland soil. This enzyme and the other recovered DHPSs confer reduced susceptibility toward sulfamethazine, which is widely used in food animal production. With respect to tetracycline resistance, four efflux proteins affiliated to the major facilitator superfamily (MFS) were identified. Noteworthy, one of these proteins also conferred reduced susceptibility toward lincomycin."
+  ],
+  "affiliation": [
+    "Department of Genomic and Applied Microbiology and Göttingen Genomics Laboratory, Institute of Microbiology and Genetics, Georg-August University, Göttingen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibiotic Resistance",
+        "Soil metagenome",
+        "Tetracycline Resistance",
+        "Functional Metagenomics",
+        "Sulfonamide Resistance",
+        "Dihydropteroate Synthase"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6416219?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6416219"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00460"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-23"
+  ],
+  "firstIndexDate": [
+    "2019-03-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-07"
+  ],
+  "firstPublicationDate": [
+    "2019-03-07"
+  ]
+}

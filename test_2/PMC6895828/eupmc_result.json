@@ -1,0 +1,321 @@
+{
+  "id": [
+    "31661791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31661791"
+  ],
+  "pmcid": [
+    "PMC6895828"
+  ],
+  "doi": [
+    "10.3390/cancers11111668"
+  ],
+  "title": [
+    "Transcription Factor and miRNA Interplays Can Manifest the Survival of ccRCC Patients."
+  ],
+  "authorString": [
+    "Qin S, Shi X, Wang C, Jin P, Ma F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qin S"
+          ],
+          "firstName": [
+            "Shijie"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. 191201005@stu.njnu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi X"
+          ],
+          "firstName": [
+            "Xuejia"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. 181202063@stu.njnu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Canbiao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. 191202061@stu.njnu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. jinping@njnu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. mafei01@tsinghua.org.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2874114"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Clear cell renal cell carcinoma (ccRCC) still remains a higher mortality rate in worldwide. Obtaining promising biomakers is very crucial for improving the diagnosis and prognosis of ccRCC patients. Herein, we firstly identified eight potentially prognostic miRNAs (hsa-miR-144-5p, hsa-miR-223-3p, hsa-miR-365b-3p, hsa-miR-3613-5p, hsa-miR-9-5p, hsa-miR-183-5p, hsa-miR-335-3p, hsa-miR-1269a). Secondly, we found that a signature containing these eight miRNAs showed obviously superior to a single miRNA in the prognostic effect and credibility for predicting the survival of ccRCC patients. Thirdly, we discovered that twenty-two transcription factors (TFs) interact with these eight miRNAs, and a signature combining nine TFs (TFAP2A, KLF5, IRF1, RUNX1, RARA, GATA3, IKZF1, POU2F2, and FOXM1) could promote the prognosis of ccRCC patients. Finally, we further identified eleven genes (hsa-miR-365b-3p, hsa-miR-223-3p, hsa-miR-1269a, hsa-miR-144-5p, hsa-miR-183-5p, hsa-miR-335-3p, TFAP2A, KLF5, IRF1, MYC, IKZF1) that could combine as a signature to improve the prognosis effect of ccRCC patients, which distinctly outperformed the eight-miRNA signature and the nine-TF signature. Overall, we identified several new prognosis factors for ccRCC, and revealed a potential mechanism that TFs and miRNAs interplay cooperatively or oppositely regulate a certain number of tumor suppressors, driver genes, and oncogenes to facilitate the survival of ccRCC patients."
+  ],
+  "affiliation": [
+    "Laboratory for Comparative Genomics and Bioinformatics, College of Life Science, Nanjing Normal University, Nanjing 210046, China. 191201005@stu.njnu.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcription factor",
+        "miRNA",
+        "Ccrcc",
+        "Prognostic Biomarker",
+        "Interplay"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11111668"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895828"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895828?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-31"
+  ],
+  "firstIndexDate": [
+    "2019-10-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-28"
+  ],
+  "firstPublicationDate": [
+    "2019-10-28"
+  ]
+}

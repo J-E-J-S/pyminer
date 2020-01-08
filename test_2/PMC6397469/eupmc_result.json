@@ -1,0 +1,342 @@
+{
+  "id": [
+    "30867677"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30867677"
+  ],
+  "pmcid": [
+    "PMC6397469"
+  ],
+  "doi": [
+    "10.1186/s13036-019-0151-x"
+  ],
+  "title": [
+    "A frame-shifted gene, which rescued its function by non-natural start codons and its application in constructing synthetic gene circuits."
+  ],
+  "authorString": [
+    "Sarkar K, Mukhopadhyay S, Bonnerjee D, Srivastava R, Bagh S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sarkar K"
+          ],
+          "firstName": [
+            "Kathakali"
+          ],
+          "lastName": [
+            "Sarkar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mukhopadhyay S"
+          ],
+          "firstName": [
+            "Sayak"
+          ],
+          "lastName": [
+            "Mukhopadhyay"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnerjee D"
+          ],
+          "firstName": [
+            "Deepro"
+          ],
+          "lastName": [
+            "Bonnerjee"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Srivastava R"
+          ],
+          "firstName": [
+            "Rajkamal"
+          ],
+          "lastName": [
+            "Srivastava"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bagh S"
+          ],
+          "firstName": [
+            "Sangram"
+          ],
+          "lastName": [
+            "Bagh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8565-0728",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8565-0728",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2769878"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biological engineering"
+          ],
+          "ISOAbbreviation": [
+            "J Biol Eng"
+          ],
+          "medlineAbbreviation": [
+            "J Biol Eng"
+          ],
+          "NLMid": [
+            "101306640"
+          ],
+          "ISSN": [
+            "1754-1611"
+          ],
+          "ESSN": [
+            "1754-1611"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "20"
+  ],
+  "abstractText": [
+    "Background:Frame-shifted genes results in non-functional peptides. Because of this complete loss of function, frame-shifted genes have never been used in constructing synthetic gene circuits. Results:Here we report that the function of gene circuits is rescued by a frame-shifted gene, which functions by translating from a non-natural start codon. We report a single nucleotide deletion mutation that developed in the λ-repressor cI within a synthetic genetic NOT gate in Escherichia coli during growth and through this mutation, a non-functional synthetic gene circuit became functional. This mutation resulted in a frame-shifted cI, which showed effective functionality among genetic NOT-gates in Escherichia coli with high regulatory ranges (> 300) and Hill coefficient (> 6.5). The cI worked over a large range of relative copy numbers between the frame-shifted gene and its target promoter. These properties make this frame-shifted gene an excellent candidate for building synthetic gene circuits. We hypothesized a new operating mechanism and showed evidence that frame-shifted cI was translated from non-natural start codon. We have engineered and tested a series of NOT gates made from a library of cI genes, each of which starts from a different codon within the first several amino acids of the frame-shifted cI. It is found that one form with start codon ACA, starting from the 3rd codon had similar repression behavior as the whole frame-shifted gene. We demonstrated synthetic genetic NAND and NOR logic-gates with frame-shifted cI. This is the first report of synthetic-gene-circuits made from a frame-shifted gene. Conclusions:This study inspires a new view on frame-shifted gene and may serve as a novel way of building and optimizing synthetic-gene-circuits. This work may also have significance in the understanding of non-directed evolution of synthetic genetic circuits."
+  ],
+  "affiliation": [
+    "Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, Homi Bhabha National Institute, Block A/F, Sector-I, Bidhannagar, Kolkata, 700064 India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "E. coli",
+        "Synthetic Gene Circuits",
+        "Rescued Function",
+        "Non-directed Evolution Of Synthetic Gene Circuit",
+        "Non-natural Start Codons",
+        "Frame-shifted Gene"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397469?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397469"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13036-019-0151-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-15"
+  ],
+  "firstIndexDate": [
+    "2019-03-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-16"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-01"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

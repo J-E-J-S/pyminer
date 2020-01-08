@@ -1,0 +1,508 @@
+{
+  "id": [
+    "31218365"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31218365"
+  ],
+  "pmcid": [
+    "PMC6771225"
+  ],
+  "doi": [
+    "10.1093/annonc/mdz192"
+  ],
+  "title": [
+    "A decade of clinical development of PARP inhibitors in perspective."
+  ],
+  "authorString": [
+    "Mateo J, Lord CJ, Serra V, Tutt A, Balmaña J, Castroviejo-Bermejo M, Cruz C, Oaknin A, Kaye SB, de Bono JS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mateo J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Mateo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Lord CJ"
+          ],
+          "firstName": [
+            "C J"
+          ],
+          "lastName": [
+            "Lord"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "The CRUK Gene Function Laboratory."
+          ]
+        },
+        {
+          "fullName": [
+            "Serra V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Serra"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6620-1065",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Tutt A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Tutt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "The Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer Research, London."
+          ]
+        },
+        {
+          "fullName": [
+            "Balmaña J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Balmaña"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0762-6415",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Castroviejo-Bermejo M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Castroviejo-Bermejo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Cruz C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Cruz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Oaknin A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Oaknin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaye SB"
+          ],
+          "firstName": [
+            "S B"
+          ],
+          "lastName": [
+            "Kaye"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "The Royal Marsden NHS Foundation Trust, London."
+          ]
+        },
+        {
+          "fullName": [
+            "de Bono JS"
+          ],
+          "firstName": [
+            "J S"
+          ],
+          "lastName": [
+            "de Bono"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2034-595X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Royal Marsden NHS Foundation Trust, London."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0762-6415",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2034-595X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6474-7504",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6620-1065",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "30"
+      ],
+      "journalIssueId": [
+        "2865020"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of oncology : official journal of the European Society for Medical Oncology"
+          ],
+          "ISOAbbreviation": [
+            "Ann. Oncol."
+          ],
+          "medlineAbbreviation": [
+            "Ann Oncol"
+          ],
+          "NLMid": [
+            "9007735"
+          ],
+          "ISSN": [
+            "0923-7534"
+          ],
+          "ESSN": [
+            "1569-8041"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1437-1447"
+  ],
+  "abstractText": [
+    "Genomic instability is a hallmark of cancer, and often is the result of altered DNA repair capacities in tumour cells. DNA damage repair defects are common in different cancer types; these alterations can also induce tumour-specific vulnerabilities that can be exploited therapeutically. In 2009, a first-in-man clinical trial of the poly(ADP-ribose) polymerase (PARP) inhibitor olaparib clinically validated the synthetic lethal interaction between inhibition of PARP1, a key sensor of DNA damage, and BRCA1/BRCA2 deficiency. In this review, we summarize a decade of PARP inhibitor clinical development, a work that has resulted in the registration of several PARP inhibitors in breast (olaparib and talazoparib) and ovarian cancer (olaparib, niraparib and rucaparib, either alone or following platinum chemotherapy as maintenance therapy). Over the past 10 years, our knowledge on the mechanism of action of PARP inhibitor as well as how tumours become resistant has been extended, and we summarise this work here. We also discuss opportunities for expanding the precision medicine approach with PARP inhibitors, identifying a wider population who could benefit from this drug class. This includes developing and validating better predictive biomarkers for patient stratification, mainly based on homologous recombination defects beyond BRCA1/BRCA2 mutations, identifying DNA repair deficient tumours in other cancer types such as prostate or pancreatic cancer, or by designing combination therapies with PARP inhibitors."
+  ],
+  "affiliation": [
+    "Vall d'Hebron Institute of Oncology (VHIO), Barcelona."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "C12540/A25128"
+          ],
+          "agency": [
+            "Department of Health [UK]"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA repair",
+        "Clinical Trials",
+        "Parp Inhibitors"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/annonc/mdz192"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6771225"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6771225?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-10"
+  ],
+  "dateOfRevision": [
+    "2020-01-03"
+  ],
+  "firstPublicationDate": [
+    "2019-09-01"
+  ]
+}

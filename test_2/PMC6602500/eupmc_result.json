@@ -1,0 +1,515 @@
+{
+  "id": [
+    "31114926"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31114926"
+  ],
+  "pmcid": [
+    "PMC6602500"
+  ],
+  "doi": [
+    "10.1093/nar/gkz415"
+  ],
+  "title": [
+    "sRNAbench and sRNAtoolbox 2019: intuitive fast small RNA profiling and differential expression."
+  ],
+  "authorString": [
+    "Aparicio-Puerta E, Lebrón R, Rueda A, Gómez-Martín C, Giannoukakos S, Jaspez D, Medina JM, Zubkovic A, Jurak I, Fromm B, Marchal JA, Oliver J, Hackenberg M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aparicio-Puerta E"
+          ],
+          "firstName": [
+            "Ernesto"
+          ],
+          "lastName": [
+            "Aparicio-Puerta"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Lebrón R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Lebrón"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5120-843X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Rueda A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Rueda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Genomics England, Charterhouse Square, London EC1M 6BQ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez-Martín C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Gómez-Martín"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Giannoukakos S"
+          ],
+          "firstName": [
+            "Stavros"
+          ],
+          "lastName": [
+            "Giannoukakos"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaspez D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Jaspez"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Medina JM"
+          ],
+          "firstName": [
+            "José María"
+          ],
+          "lastName": [
+            "Medina"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Zubkovic A"
+          ],
+          "firstName": [
+            "Andreja"
+          ],
+          "lastName": [
+            "Zubkovic"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3548-9435",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, University of Rijeka, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jurak I"
+          ],
+          "firstName": [
+            "Igor"
+          ],
+          "lastName": [
+            "Jurak"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7271-2643",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, University of Rijeka, Croatia."
+          ]
+        },
+        {
+          "fullName": [
+            "Fromm B"
+          ],
+          "firstName": [
+            "Bastian"
+          ],
+          "lastName": [
+            "Fromm"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Science for Life Laboratory, Department of Molecular Biosciences, The Wenner-Gren Institute, Stockholm University, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Marchal JA"
+          ],
+          "firstName": [
+            "Juan Antonio"
+          ],
+          "lastName": [
+            "Marchal"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Department of Human Anatomy and Embryology, Institute of Biopathology and Regenerative Medicine, Excellence Research Unit 'Modeling Nature' (MNat), University of Granada, Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Oliver J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Oliver"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Hackenberg M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Hackenberg"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2248-3114",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3548-9435",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7271-2643",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5120-843X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2248-3114",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "W1"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2831794"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "W530-W535"
+  ],
+  "abstractText": [
+    "Since the original publication of sRNAtoolbox in 2015, small RNA research experienced notable advances in different directions. New protocols for small RNA sequencing have become available to address important issues such as adapter ligation bias, PCR amplification artefacts or to include internal controls such as spike-in sequences. New microRNA reference databases were developed with different foci, either prioritizing accuracy (low number of false positives) or completeness (low number of false negatives). Additionally, other small RNA molecules as well as microRNA sequence and length variants (isomiRs) have continued to gain importance. Finally, the number of microRNA sequencing studies deposited in GEO nearly triplicated from 2014 (280) to 2018 (764). These developments imply that fast and easy-to-use tools for expression profiling and subsequent downstream analysis of miRNA-seq data are essential to many researchers. Key features in this sRNAtoolbox release include addition of all major RNA library preparation protocols to sRNAbench and improvements in sRNAde, a tool that summarizes several aspects of small RNA sequencing studies including the detection of consensus differential expression. A special emphasis was put on the user-friendliness of the tools, for instance sRNAbench now supports parallel launching of several jobs to improve reproducibility and user time efficiency."
+  ],
+  "affiliation": [
+    "Dpto. de Genética, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18071 Granada, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkz415"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6602500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6602500?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-05-23"
+  ],
+  "firstIndexDate": [
+    "2019-05-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-07"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

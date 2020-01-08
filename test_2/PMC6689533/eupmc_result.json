@@ -1,0 +1,350 @@
+{
+  "id": [
+    "31496750"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31496750"
+  ],
+  "pmcid": [
+    "PMC6689533"
+  ],
+  "doi": [
+    "10.2147/AABC.S197119"
+  ],
+  "title": [
+    "Computational evaluation of natural compounds as potential inhibitors of human PEPCK-M: an alternative for lung cancer therapy."
+  ],
+  "authorString": [
+    "Baptista LPR, Sinatti VV, Da Silva JH, Dardenne LE, Guimarães AC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baptista LPR"
+          ],
+          "firstName": [
+            "Luiz Phillippe R"
+          ],
+          "lastName": [
+            "Baptista"
+          ],
+          "initials": [
+            "LPR"
+          ],
+          "affiliation": [
+            "Laboratory for Functional Genomics and Bioinformatics, Fiocruz, Oswaldo Cruz Institute, Rio de Janeiro, RJ, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Sinatti VV"
+          ],
+          "firstName": [
+            "Vanessa Vc"
+          ],
+          "lastName": [
+            "Sinatti"
+          ],
+          "initials": [
+            "VV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2797-6102",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory for Functional Genomics and Bioinformatics, Fiocruz, Oswaldo Cruz Institute, Rio de Janeiro, RJ, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Da Silva JH"
+          ],
+          "firstName": [
+            "Joao Hm"
+          ],
+          "lastName": [
+            "Da Silva"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Group for Computational Modelling, Fiocruz, Oswaldo Cruz Foundation, Eusébio, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Dardenne LE"
+          ],
+          "firstName": [
+            "Laurent Emmanuel"
+          ],
+          "lastName": [
+            "Dardenne"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "affiliation": [
+            "Group for Molecular Modelling of Biologic Systems, National Laboratory of Scientific Computing, Petrópolis, RJ, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Guimarães AC"
+          ],
+          "firstName": [
+            "Ana Carolina"
+          ],
+          "lastName": [
+            "Guimarães"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Laboratory for Functional Genomics and Bioinformatics, Fiocruz, Oswaldo Cruz Institute, Rio de Janeiro, RJ, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2797-6102",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2831152"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advances and applications in bioinformatics and chemistry : AABC"
+          ],
+          "ISOAbbreviation": [
+            "Adv Appl Bioinform Chem"
+          ],
+          "medlineAbbreviation": [
+            "Adv Appl Bioinform Chem"
+          ],
+          "NLMid": [
+            "101550215"
+          ],
+          "ISSN": [
+            "1178-6949"
+          ],
+          "ESSN": [
+            "1178-6949"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "15-32"
+  ],
+  "abstractText": [
+    "Background:Lung cancer is the leading cause of cancer-related death worldwide. Among its subtypes, non-small cell lung cancer (NSCLC) is the most common. Recently, the mitochondrial isoform of the enzyme phosphoenolpyruvate carboxykinase (HsPEPCK-M) was identified as responsible for the metabolic adaptation in the NSCLC allowing tumor growth even under conditions of glucose deficiency. This adaptation is possible due to the role of HsPEPCK-M in gluconeogenesis, converting the oxaloacetate to phosphoenolpyruvate in the presence of GTP, which plays an important role in the energetic support of these tumors. In this context, it was shown that the inhibition or knockdown of this enzyme was able to induce apoptosis in NSCLC under low glucose conditions. Purpose:In this study, novel putative inhibitors were proposed for the human PEPCK-M (HsPEPCK-M) based on a computer-aided approach. Methods:Comparative modeling was used to generate 3D models for HsPEPCK-M. Subsequently, the set of natural compounds of the ZINC database was screened against HsPEPCK-M models using structure-based pharmacophore modeling and molecular docking approaches. The selected compounds were evaluated according to its chemical diversity and clustered based on chemical similarity. Results:The pharmacophore hypotheses, generated based on known PEPCK inhibitors, were able to select 7,124 candidate compounds. These compounds were submitted to molecular docking studies using three conformations of HsPEPCK-M generated by comparative modeling. The aim was to select compounds with high predicted binding affinity for at least one of the conformations of HsPEPCK-M. After molecular docking, 612 molecules were selected as potential inhibitors of HsPEPCK-M. These compounds were clustered according to their structural similarity. Chemical profiling and binding mode analyses of these compounds allowed the proposal of four promising compounds: ZINC01656421, ZINC895296, ZINC00895535 and ZINC02571340. Conclusion:These compounds may be considered as potential candidates for HsPEPCK-M inhibitors and may also be used as lead compounds for the development of novel HsPEPCK-M inhibitors."
+  ],
+  "affiliation": [
+    "Laboratory for Functional Genomics and Bioinformatics, Fiocruz, Oswaldo Cruz Institute, Rio de Janeiro, RJ, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "Molecular docking",
+        "Natural products",
+        "Virtual Screening",
+        "Pharmacophore Modeling",
+        "Pepck-m"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/AABC.S197119"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6689533"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6689533?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-10"
+  ],
+  "firstIndexDate": [
+    "2019-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-07"
+  ],
+  "firstPublicationDate": [
+    "2019-08-07"
+  ]
+}

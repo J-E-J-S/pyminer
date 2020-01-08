@@ -1,0 +1,419 @@
+{
+  "id": [
+    "31700062"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31700062"
+  ],
+  "pmcid": [
+    "PMC6838193"
+  ],
+  "doi": [
+    "10.1038/s41598-019-52822-1"
+  ],
+  "title": [
+    "A molecular clone of Chronic Bee Paralysis Virus (CBPV) causes mortality in honey bee pupae (Apis mellifera)."
+  ],
+  "authorString": [
+    "Seitz K, Buczolich K, Dikunová A, Plevka P, Power K, Rümenapf T, Lamp B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Seitz K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Seitz"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Virology, Department of Pathobiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Buczolich K"
+          ],
+          "firstName": [
+            "Katharina"
+          ],
+          "lastName": [
+            "Buczolich"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Virology, Department of Pathobiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Dikunová A"
+          ],
+          "firstName": [
+            "Alžbeta"
+          ],
+          "lastName": [
+            "Dikunová"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Structural Virology Unit, Central European Institute of Technology, Masaryk University, Kamenice 753/5, 62500, Brno, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Plevka P"
+          ],
+          "firstName": [
+            "Pavel"
+          ],
+          "lastName": [
+            "Plevka"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4215-3315",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Virology Unit, Central European Institute of Technology, Masaryk University, Kamenice 753/5, 62500, Brno, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Power K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Power"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2940-7520",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Veterinary Medicine and Animal Production, University of Naples \"Federico II\", Via Delpino, 1, 80137, Naples, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rümenapf T"
+          ],
+          "firstName": [
+            "Till"
+          ],
+          "lastName": [
+            "Rümenapf"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Virology, Department of Pathobiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Lamp B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Lamp"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Virology, Department of Pathobiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210, Vienna, Austria. Benjamin.J.Lamp@vetmed.uni-giessen.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2940-7520",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4215-3315",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2875678"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16274"
+  ],
+  "abstractText": [
+    "Among the many diseases compromising the well-being of the honey bee (Apis mellifera) the chronic paralysis syndrome of adult honey bees is one of the best described. The causative agent, chronic bee paralysis virus (CBPV), is a positive sense, single-stranded RNA virus with a segmented genome. Segment 1 encodes three putative open reading frames (ORFs), including the RNA-dependent RNA polymerase and other non-structural protein coding regions. Segment 2 encodes four putative ORFs, which contain the genes of supposed structural proteins. In this study, we established a reverse genetic system for CBPV by molecular cloning of DNA copies of both genome segments. CBPV rescue was studied in imago and honey bee pupae infection models. Virus replication and progeny virus production was only initiated when capped RNAs of both genome segments were injected in honey bees. As injection of these clonal RNAs caused clinical symptoms similar to wild-type CBPV infection, we conclude that the novel molecular clone fulfilled Koch's postulates. Our virus clone will enable in-depth analysis of CBPV pathogenesis and help to increase knowledge about this important honey bee disease."
+  ],
+  "affiliation": [
+    "Institute of Virology, Department of Pathobiology, University of Veterinary Medicine Vienna, Veterinaerplatz 1, 1210, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Zukunft Biene 2"
+          ],
+          "agency": [
+            "Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft (Austrian Federal Ministry of Agriculture, Forestry, Environment and Wate"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-52822-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838193"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838193?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-09"
+  ],
+  "firstIndexDate": [
+    "2019-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-16"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-07"
+  ],
+  "firstPublicationDate": [
+    "2019-11-07"
+  ]
+}

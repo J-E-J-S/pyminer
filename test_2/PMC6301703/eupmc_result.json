@@ -1,0 +1,440 @@
+{
+  "id": [
+    "30532167"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30532167"
+  ],
+  "pmcid": [
+    "PMC6301703"
+  ],
+  "doi": [
+    "10.1371/journal.pbio.3000070"
+  ],
+  "title": [
+    "Analysis validation has been neglected in the Age of Reproducibility."
+  ],
+  "authorString": [
+    "Lotterhos KE, Moore JH, Stapleton AE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lotterhos KE"
+          ],
+          "firstName": [
+            "Kathleen E"
+          ],
+          "lastName": [
+            "Lotterhos"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7529-2771",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Northeastern University Marine Science Center, Northeastern University, Boston, Massachusetts, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore JH"
+          ],
+          "firstName": [
+            "Jason H"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5015-1099",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Biomedical Informatics, Division of Informatics, Department of Biostatistics, Epidemiology, & Informatics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Stapleton AE"
+          ],
+          "firstName": [
+            "Ann E"
+          ],
+          "lastName": [
+            "Stapleton"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7242-2673",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology and Marine Biology, University of North Carolina Wilmington, Wilmington, North Carolina, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7242-2673",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5015-1099",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7529-2771",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2755930"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Biol"
+          ],
+          "NLMid": [
+            "101183755"
+          ],
+          "ISSN": [
+            "1544-9173"
+          ],
+          "ESSN": [
+            "1545-7885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e3000070"
+  ],
+  "abstractText": [
+    "Increasingly complex statistical models are being used for the analysis of biological data. Recent commentary has focused on the ability to compute the same outcome for a given dataset (reproducibility). We argue that a reproducible statistical analysis is not necessarily valid because of unique patterns of nonindependence in every biological dataset. We advocate that analyses should be evaluated with known-truth simulations that capture biological reality, a process we call \"analysis validation.\" We review the process of validation and suggest criteria that a validation project should meet. We find that different fields of science have historically failed to meet all criteria, and we suggest ways to implement meaningful validation in training and practice."
+  ],
+  "affiliation": [
+    "Northeastern University Marine Science Center, Northeastern University, Boston, Massachusetts, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Editorial",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 LM012601"
+          ],
+          "agency": [
+            "NLM NIH HHS"
+          ],
+          "acronym": [
+            "LM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Data Interpretation, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pbio.3000070"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301703"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301703?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-17"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-17"
+  ],
+  "dateOfRevision": [
+    "2019-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-10"
+  ]
+}

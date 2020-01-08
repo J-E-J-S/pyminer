@@ -1,0 +1,361 @@
+{
+  "id": [
+    "29152436"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29152436"
+  ],
+  "pmcid": [
+    "PMC5679768"
+  ],
+  "doi": [
+    "10.7759/cureus.1679"
+  ],
+  "title": [
+    "On the Horizon: The Synthetic Opioid U-49900."
+  ],
+  "authorString": [
+    "Alzghari SK, Amin ZM, Chau S, Fleming SW, Cho K, Fung V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alzghari SK"
+          ],
+          "firstName": [
+            "Saeed K"
+          ],
+          "lastName": [
+            "Alzghari"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8465-5618",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Gulfstream Genomics, Gulfstream Diagnostics."
+          ]
+        },
+        {
+          "fullName": [
+            "Amin ZM"
+          ],
+          "firstName": [
+            "Zubair M"
+          ],
+          "lastName": [
+            "Amin"
+          ],
+          "initials": [
+            "ZM"
+          ],
+          "affiliation": [
+            "Thomas J. Long School of Pharmacy & Health Sciences, University of the Pacific."
+          ]
+        },
+        {
+          "fullName": [
+            "Chau S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Chau"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Texas Tech University Health Sciences Center."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleming SW"
+          ],
+          "firstName": [
+            "Steven W"
+          ],
+          "lastName": [
+            "Fleming"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Reference Health Laboratories, Gulfstream Diagnostics."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho K"
+          ],
+          "firstName": [
+            "Kevin"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Reference Health Laboratories, Gulfstream Diagnostics."
+          ]
+        },
+        {
+          "fullName": [
+            "Fung V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "Fung"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Emergency Medicine, Parkland Health and Hospital System, Dallas Texas."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8465-5618",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2596568"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cureus"
+          ],
+          "ISOAbbreviation": [
+            "Cureus"
+          ],
+          "medlineAbbreviation": [
+            "Cureus"
+          ],
+          "NLMid": [
+            "101596737"
+          ],
+          "ISSN": [
+            "2168-8184"
+          ],
+          "ESSN": [
+            "2168-8184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e1679"
+  ],
+  "abstractText": [
+    "Synthetic opioid use continues to be a problem in the United States. New designer opioids continue to be released as \"research chemicals\" by vendors, leading to widespread use and potentially devastating consequences. U-49900 is a new synthetic opioid with limited clinical data available. Herein, we provide an overview of U-49900, the anecdotal accounts of U-49900 use that clinicians need to be made aware of, and a call for the federal government to take immediate action in curtailing the use of U-49900."
+  ],
+  "affiliation": [
+    "Gulfstream Genomics, Gulfstream Diagnostics."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Opioids",
+        "drugs of abuse",
+        "Opioid Abuse",
+        "Research Chemical",
+        "Synthetic Opioid",
+        "U-49900"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5679768?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5679768"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7759/cureus.1679"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-21"
+  ],
+  "firstIndexDate": [
+    "2017-11-20"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-19"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-12"
+  ],
+  "firstPublicationDate": [
+    "2017-09-12"
+  ]
+}

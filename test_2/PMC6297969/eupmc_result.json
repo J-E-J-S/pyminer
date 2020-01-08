@@ -1,0 +1,365 @@
+{
+  "id": [
+    "30568723"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30568723"
+  ],
+  "pmcid": [
+    "PMC6297969"
+  ],
+  "doi": [
+    "10.1186/s13007-018-0382-8"
+  ],
+  "title": [
+    "A simple and efficient CRISPR/Cas9 platform for induction of single and multiple, heritable mutations in barley (Hordeum vulgare L.)."
+  ],
+  "authorString": [
+    "Gasparis S, Kała M, Przyborowski M, Łyżnik LA, Orczyk W, Nadolska-Orczyk A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gasparis S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Gasparis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0521-086X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Functional Genomics, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kała M"
+          ],
+          "firstName": [
+            "Maciej"
+          ],
+          "lastName": [
+            "Kała"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Department of Functional Genomics, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Przyborowski M"
+          ],
+          "firstName": [
+            "Mateusz"
+          ],
+          "lastName": [
+            "Przyborowski"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Department of Functional Genomics, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Łyżnik LA"
+          ],
+          "firstName": [
+            "Leszek A"
+          ],
+          "lastName": [
+            "Łyżnik"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "2Department of Plant Genetics, Breeding and Biotechnology, Warsaw University of Life Sciences (SGGW), 02-776 Warsaw, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Orczyk W"
+          ],
+          "firstName": [
+            "Wacław"
+          ],
+          "lastName": [
+            "Orczyk"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "3Department of Genetic Engineering, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Nadolska-Orczyk A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Nadolska-Orczyk"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "1Department of Functional Genomics, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0521-086X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2639732"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant Methods"
+          ],
+          "ISOAbbreviation": [
+            "Plant Methods"
+          ],
+          "medlineAbbreviation": [
+            "Plant Methods"
+          ],
+          "NLMid": [
+            "101245798"
+          ],
+          "ISSN": [
+            "1746-4811"
+          ],
+          "ESSN": [
+            "1746-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "111"
+  ],
+  "abstractText": [
+    "Background:Genome editing of monocot plants can be accomplished by using the components of the CRISPR/Cas9 (clustered regularly interspaced short palindromic repeat/CRISPR associated Cas9) technology specifically optimized for these types of plants. Here, we present the development of RNA-guided Cas9 system for simplex and multiplex genome editing in barley. Results:We developed a set of customizable RNA-guided Cas9 binary vectors and sgRNA modules for simplex and multiplex editing in barley. To facilitate the design of RNA-guided Cas9 constructs, the pBract derived binary vectors were adapted to Gateway cloning and only one restriction enzyme was required for construction of the sgRNA. We designed a synthetic, codon optimized Cas9 gene containing the N terminal SV40 nuclear localization signal and the UBQ10 Arabidopsis 1st intron. Two different sgRNAs were constructed for simplex editing and one polycistronic tRNA-gRNA construct (PTG) for multiplex editing using an endogenous tRNA processing system. The RNA-guided Cas9 constructs were validated in transgenic barley plants produced by Agrobacterium-mediated transformation. The highest mutation rate was observed in simplex editing of the cytokinin oxidase/dehydrogenase HvCKX1 gene, where mutations at the hvckx1 locus were detected in 88% of the screened T0 plants. We also proved the efficacy of the PTG construct in the multiplex editing of two CKX genes by obtaining 9 plants (21% of all edited plants) with mutations induced in both HvCKX1 and HvCKX3. Analysis of the T1 lines revealed that mutations in the HvCKX1 gene were transmitted to the next generation of plants. Among 220 screened T1 plants we identified 85 heterozygous and 28 homozygous mutants, most of them bearing frameshift mutations in the HvCKX1 gene. We also observed independent segregation of mutations and the Cas9-sgRNA T-DNA insert in several T1 plants. Moreover, the knockout mutations of the Nud gene generated phenotype mutants with naked grains, and the phenotypic changes were identifiable in T0 plants. Conclusions:We demonstrated the effectiveness of an optimized RNA-guided Cas9 system that can be used for generating homozygous knockout mutants in the progeny of transgenic barely plants. This is also the first report of successful multiplex editing in barley using a tRNA processing system."
+  ],
+  "affiliation": [
+    "1Department of Functional Genomics, Plant Breeding and Acclimatization Institute - National Research Institute, 05-870 Radzików, Błonie, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Barley",
+        "Genome Editing",
+        "Crispr/cas9",
+        "Ptg",
+        "Ckx Genes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6297969?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6297969"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13007-018-0382-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-21"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-22"
+  ],
+  "dateOfRevision": [
+    "2018-12-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-18"
+  ],
+  "firstPublicationDate": [
+    "2018-12-18"
+  ]
+}

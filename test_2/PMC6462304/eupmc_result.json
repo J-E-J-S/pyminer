@@ -1,0 +1,396 @@
+{
+  "id": [
+    "31008359"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31008359"
+  ],
+  "pmcid": [
+    "PMC6462304"
+  ],
+  "doi": [
+    "10.1093/synbio/ysz008"
+  ],
+  "title": [
+    "CRISPR-interference-based modulation of mobile genetic elements in bacteria."
+  ],
+  "authorString": [
+    "Nyerges Á, Bálint B, Cseklye J, Nagy I, Pál C, Fehér T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nyerges Á"
+          ],
+          "firstName": [
+            "Ákos"
+          ],
+          "lastName": [
+            "Nyerges"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "affiliation": [
+            "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Bálint B"
+          ],
+          "firstName": [
+            "Balázs"
+          ],
+          "lastName": [
+            "Bálint"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Cseklye J"
+          ],
+          "firstName": [
+            "Judit"
+          ],
+          "lastName": [
+            "Cseklye"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Seqomics Biotechnology Ltd, Mórahalom, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagy I"
+          ],
+          "firstName": [
+            "István"
+          ],
+          "lastName": [
+            "Nagy"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Pál C"
+          ],
+          "firstName": [
+            "Csaba"
+          ],
+          "lastName": [
+            "Pál"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Fehér T"
+          ],
+          "firstName": [
+            "Tamás"
+          ],
+          "lastName": [
+            "Fehér"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2793868"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic biology (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Synth Biol (Oxf)"
+          ],
+          "medlineAbbreviation": [
+            "Synth Biol (Oxf)"
+          ],
+          "NLMid": [
+            "101728857"
+          ],
+          "ISSN": [
+            "2397-7000"
+          ],
+          "ESSN": [
+            "2397-7000"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "ysz008"
+  ],
+  "abstractText": [
+    "Spontaneous mutagenesis of synthetic genetic constructs by mobile genetic elements frequently results in the rapid loss of engineered functions. Previous efforts to minimize such mutations required the exceedingly time-consuming manipulation of bacterial chromosomes and the complete removal of insertional sequences (ISes). To this aim, we developed a single plasmid-based system (pCRIS) that applies CRISPR-interference to inhibit the transposition of bacterial ISes. pCRIS expresses multiple guide RNAs to direct inactivated Cas9 (dCas9) to simultaneously silence IS1, IS3, IS5 and IS150 at up to 38 chromosomal loci in Escherichia coli, in vivo. As a result, the transposition rate of all four targeted ISes dropped to negligible levels at both chromosomal and episomal targets. Most notably, pCRIS, while requiring only a single plasmid delivery performed within a single day, provided a reduction of IS-mobility comparable to that seen in genome-scale chromosome engineering projects. The fitness cost of multiple IS-knockdown, detectable in flask-and-shaker systems was readily outweighed by the less frequent inactivation of the transgene, as observed in green fluorescent protein (GFP)-overexpression experiments. In addition, global transcriptomics analysis revealed only minute alterations in the expression of untargeted genes. Finally, the transposition-silencing effect of pCRIS was easily transferable across multiple E. coli strains. The plasticity and robustness of our IS-silencing system make it a promising tool to stabilize bacterial genomes for synthetic biology and industrial biotechnology applications."
+  ],
+  "affiliation": [
+    "Synthetic and Systems Biology Unit, Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "648364"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transposable element",
+        "Genome Stability",
+        "Crispr-mediated Gene Silencing",
+        "Repression Of Transposition",
+        "Decreased Mutation Rate"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6462304?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6462304"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/synbio/ysz008"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR57012"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-23"
+  ],
+  "firstIndexDate": [
+    "2019-04-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-20"
+  ],
+  "dateOfRevision": [
+    "2019-04-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-15"
+  ],
+  "firstPublicationDate": [
+    "2019-03-15"
+  ]
+}

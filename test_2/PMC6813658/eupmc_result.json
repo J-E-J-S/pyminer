@@ -1,0 +1,492 @@
+{
+  "id": [
+    "31681373"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681373"
+  ],
+  "pmcid": [
+    "PMC6813658"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.01274"
+  ],
+  "title": [
+    "Assembly and Annotation of a Draft Genome of the Medicinal Plant Polygonum cuspidatum."
+  ],
+  "authorString": [
+    "Zhang Y, Zheng L, Zheng Y, Zhou C, Huang P, Xiao X, Zhao Y, Hao X, Hu Z, Chen Q, Li H, Wang X, Fukushima K, Wang G, Li C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yonghong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng L"
+          ],
+          "firstName": [
+            "Lanlan"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Three Gorges Regional Plant Genetics and Germplasm Enhancement (CTGU)/Biotechnology Research Center, China Three Gorges University, Yichang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yongheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao X"
+          ],
+          "firstName": [
+            "Xincai"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Z"
+          ],
+          "firstName": [
+            "Zhubing"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Center for Multi-Omics Research Key Laboratory of Plant Stress Biology, State Key Laboratory of Cotton Biology, School of Life Sciences, Henan University, Kaifeng, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qinhua"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Affiliated Dongfeng Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Hongliang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory of Chinese Herbal Pharmacology, Oncology Center, Renmin Hospital, Biomedical Research Institute, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xuanbin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Laboratory of Chinese Herbal Pharmacology, Oncology Center, Renmin Hospital, Biomedical Research Institute, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fukushima K"
+          ],
+          "firstName": [
+            "Kenji"
+          ],
+          "lastName": [
+            "Fukushima"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute for Molecular Plant Physiology and Biophysics, University of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guodong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Key Laboratory of Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, National Engineering Laboratory for Resource Development of Endangered Crude Drugs in Northwest China, College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1274"
+  ],
+  "abstractText": [
+    "Polygonum cuspidatum (Japanese knotweed, also known as Huzhang in Chinese), a plant that produces bioactive components such as stilbenes and quinones, has long been recognized as important in traditional Chinese herbal medicine. To better understand the biological features of this plant and to gain genetic insight into the biosynthesis of its natural products, we assembled a draft genome of P. cuspidatum using Illumina sequencing technology. The draft genome is ca. 2.56 Gb long, with 71.54% of the genome annotated as transposable elements. Integrated gene prediction suggested that the P. cuspidatum genome encodes 55,075 functional genes, including 6,776 gene families that are conserved in the five eudicot species examined and 2,386 that are unique to P. cuspidatum. Among the functional genes identified, 4,753 are predicted to encode transcription factors. We traced the gene duplication history of P. cuspidatum and determined that it has undergone two whole-genome duplication events about 65 and 6.6 million years ago. Roots are considered the primary medicinal tissue, and transcriptome analysis identified 2,173 genes that were expressed at higher levels in roots compared to aboveground tissues. Detailed phylogenetic analysis demonstrated expansion of the gene family encoding stilbene synthase and chalcone synthase enzymes in the phenylpropanoid metabolic pathway, which is associated with the biosynthesis of resveratrol, a pharmacologically important stilbene. Analysis of the draft genome identified 7 abscisic acid and water deficit stress-induced protein-coding genes and 14 cysteine-rich transmembrane module genes predicted to be involved in stress responses. The draft de novo genome assembly produced in this study represents a valuable resource for the molecular characterization of medicinal compounds in P. cuspidatum, the improvement of this important medicinal plant, and the exploration of its abiotic stress resistance."
+  ],
+  "affiliation": [
+    "Laboratory of Medicinal Plant, Institute of Basic Medical Sciences, School of Basic Medicine, Biomedical Research Institute, Hubei Key Laboratory of Wudang Local Chinese Medicine Research, Hubei University of Medicine, Shiyan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress tolerance",
+        "Medicinal plant",
+        "Polygonum cuspidatum",
+        "Genome Assembly",
+        "Whole-genome Duplication",
+        "Resveratrol Biosynthesis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.01274"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813658"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813658?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-18"
+  ],
+  "firstPublicationDate": [
+    "2019-10-18"
+  ]
+}

@@ -1,0 +1,1097 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6475044</article-id><article-id pub-id-type="pmid">30866692</article-id><article-id pub-id-type="doi">10.1161/JAHA.118.011484</article-id><article-id pub-id-type="publisher-id">JAH33949</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Genetics</subject></subj-group></subj-group></article-categories><title-group><article-title>Glucocorticoid Receptor&#x02010;Binding and Transcriptome Signature in Cardiomyocytes</article-title><alt-title alt-title-type="left-running-head">Severinova et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah33949-cr-0001" contrib-type="author"><name><surname>Severinova</surname><given-names>Elena</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah33949-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jah33949-note-1002">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jah33949-cr-0002" contrib-type="author"><name><surname>Alikunju</surname><given-names>Saleena</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah33949-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jah33949-note-1002">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="jah33949-cr-0003" contrib-type="author"><name><surname>Deng</surname><given-names>Wei</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah33949-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="jah33949-note-1003">
+<sup>&#x02021;</sup>
+</xref></contrib><contrib id="jah33949-cr-0004" contrib-type="author"><name><surname>Dhawan</surname><given-names>Puneet</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah33949-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah33949-cr-0005" contrib-type="author" corresp="yes"><name><surname>Sayed</surname><given-names>Nazish</given-names></name><degrees>MD, PhD</degrees><address><email>sayeddh@njms.rutgers.edu</email></address><xref ref-type="aff" rid="jah33949-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah33949-cr-0006" contrib-type="author"><name><surname>Sayed</surname><given-names>Danish</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah33949-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jah33949-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Cell Biology and Molecular Medicine</named-content>
+<institution>Rutgers New Jersey Medical School</institution>
+<named-content content-type="city">Newark</named-content>
+<named-content content-type="country-part">NJ</named-content>
+</aff><aff id="jah33949-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Genomics Center</named-content>
+<named-content content-type="organisation-division">Department of Microbiology Biochemistry and Molecular Genetics</named-content>
+<institution>Rutgers New Jersey Medical School</institution>
+<named-content content-type="city">Newark</named-content>
+<named-content content-type="country-part">NJ</named-content>
+</aff><aff id="jah33949-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Cardiovascular Institute</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Danish Sayed, MD, PhD, Department of Cell Biology and Molecular Medicine, Rutgers New Jersey Medical School, 185 South Orange Avenue, Medical Science Building, G&#x02010;653, Newark, NJ 07103. E&#x02010;mail: <email>sayeddh@njms.rutgers.edu</email></corresp><fn fn-type="equal" id="jah33949-note-1002"><label>&#x02020;</label><p>Dr Severinova and Dr Alikunju contributed equally to this work.</p></fn><fn id="jah33949-note-1003"><label>&#x02021;</label><p>Dr Wei Deng is currently located at the Department of Bioelectric Medicine, Northwell Health, Manhasset, NY.</p></fn></author-notes><pub-date pub-type="epub"><day>14</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>19</day><month>3</month><year>2019</year></pub-date><volume>8</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/jah3.2019.8.issue-6</issue-id><elocation-id>e011484</elocation-id><history><date date-type="received"><day>09</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>12</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-8-e011484.pdf"/><abstract id="jah33949-abs-0001"><sec id="jah33949-sec-0001"><title>Background</title><p>An increase in serum cortisol has been identified as a risk factor for cardiac failure, which highlights the impact of glucocorticoid signaling in cardiomyocytes and its influence in the progression of failure. Dexamethasone, a synthetic glucocorticoid, is sufficient for induction of cardiomyocyte hypertrophy, but little is known of the glucocorticoid receptor (GR) genome&#x02010;binding and &#x02010;dependent transcriptional changes that mediate this phenotype.</p></sec><sec id="jah33949-sec-0002"><title>Methods and Results</title><p>In this study using high&#x02010;resolution sequencing, we identified genomic targets of GR and associated change in the transcriptome after 1 and 24&#x000a0;hours of dexamethasone treatment. We showed that GR associates with 6482 genes in the cardiac genome, with differential regulation of 738 genes. Interestingly, alignment of the chromatin immunoprecipitation and RNA sequencing data show that, after 1&#x000a0;hour, 69% of differentially regulated genes are associated with GR and identify as regulators of RNA pol II&#x02013;dependent transcription. Conversely, after 24&#x000a0;hours only 45% of regulated genes are associated with GR and involved in dilated and hypertrophic cardiomyopathies as well as other growth&#x02010;related pathways. In addition, our data also reveal that a majority of genes (76.42%) associated with GR show incremental changes in transcript abundance and are genes involved in basic cellular processes that might be regulated by the dynamics of promoter&#x02010;paused RNA pol II, as seen in hearts undergoing hypertrophy. In vivo administration of dexamethasone resulted in similar changes in the cardiac transcriptome, as seen in isolated cardiomyocytes.</p></sec><sec id="jah33949-sec-0003"><title>Conclusions</title><p>Our data reveal genome&#x02010;wide GR binding sites in cardiomyocytes, identify novel targets and GR&#x02010;dependent change in the transcriptome that induces and contributes to cardiomyocyte hypertrophy.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah33949-kwd-0001">dexamethasone</kwd><kwd id="jah33949-kwd-0002">gene expression/regulation</kwd><kwd id="jah33949-kwd-0003">gene transcription</kwd><kwd id="jah33949-kwd-0004">genome&#x02010;wide analysis</kwd><kwd id="jah33949-kwd-0005">glucocorticoid receptor</kwd><kwd id="jah33949-kwd-0006">glucocorticoid receptor&#x02013;dependent transcription</kwd><kwd id="jah33949-kwd-0007">hypertrophic transcriptome</kwd><kwd id="jah33949-kwd-0008">hypertrophy</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Basic Science Research</kwd><kwd>Myocardial Biology</kwd><kwd>Hypertrophy</kwd><kwd>Gene Expression &#x00026; Regulation</kwd><kwd>Functional Genomics</kwd></kwd-group><funding-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>1R01HL128799</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="17"/><word-count count="10698"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah33949</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>19 March 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.1 mode:remove_FC converted:19.03.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah33949-cit-1001">(<source xml:lang="en">J Am Heart Assoc</source>. <year>2019</year>;<volume>8</volume>:<elocation-id>e011484</elocation-id> DOI: <pub-id pub-id-type="doi">10.1161/JAHA.118.011484</pub-id>.)<pub-id pub-id-type="pmid">30866692</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah33949-blkfxd-0001" orientation="portrait"><sec id="jah33949-sec-0005"><title>Clinical Perspective</title><sec id="jah33949-sec-0006"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah33949-list-0001"><list-item><p>In this study we identify and present a comprehensive genome&#x02010;wide occupancy status of activated glucocorticoid receptor and glucocorticoid&#x02010;dependent change in transcriptome at an early and a late time point that contributes to the hypertrophic phenotype in cardiomyocytes.</p></list-item><list-item><p>We show that early direct targets of glucocorticoid receptor include mostly transcriptional regulators followed by genes that are involved in development of cardiomyopathies and other growth&#x02010;related pathways.</p></list-item><list-item><p>Ingenuity pathway analysis lists cardiac hypertrophy and failure at the top of a toxicity list for genes dysregulated after 24&#x000a0;hours of dexamethasone treatment.</p></list-item></list>
+</p></sec><sec id="jah33949-sec-0007"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah33949-list-0002"><list-item><p>Dexamethasone, a synthetic glucocorticoid, is frequently used in clinics for its potent anti&#x02010;inflammatory effects, both locally and systemically.</p></list-item><list-item><p>In vivo data in mice injected with dexamethasone for 1 or 24&#x000a0;hours show similar transcriptional changes in direct targets of the glucocorticoid receptor, as seen in isolated cardiomyocytes treated with dexamethasone.</p></list-item><list-item><p>Therefore, understanding the downstream effects of dexamethasone is essential to understand its influence on heart, especially in cases with preexisting cardiac ailments.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah33949-sec-0008"><title>Introduction</title><p>Glucocorticoids (Gc) and mineralocorticoids, classified as corticosteroids, are secreted from the adrenal cortex and play a vital role in many physiological processes including organogenesis, fluid balance, and responses to cellular stress. They have also been implicated in many pathophysiological conditions, including cardiovascular disease states such as hypertension and cardiac failure.<xref rid="jah33949-bib-0001" ref-type="ref">1</xref>, <xref rid="jah33949-bib-0002" ref-type="ref">2</xref> Nuclear receptor subfamily 3, group C, member 1 and nuclear receptor subfamily 3, group C, member 2 code for the glucocorticoid receptor (GR) and mineralocorticoid receptor, respectively.<xref rid="jah33949-bib-0003" ref-type="ref">3</xref> Activation of these cytoplasmic receptors by binding of respective ligands results in their nuclear translocation, where they function as transcription factors by binding to the genome and mediating changes in gene expression. Cytoplasmic GR is associated with a chaperone complex that includes HSP90, HSP70, and several cochaperones, which control GR translocation and abundance, thus regulating its function.<xref rid="jah33949-bib-0004" ref-type="ref">4</xref>, <xref rid="jah33949-bib-0005" ref-type="ref">5</xref>, <xref rid="jah33949-bib-0006" ref-type="ref">6</xref>
+</p><p>The mineralocorticoid receptor has an affinity to bind to both Gc and mineralocorticoids, whereas GR has a high affinity for Gc. Interestingly, due to domain similarities, mineralocorticoid receptor and GR have been shown to exhibit common genomic binding sites, albeit with different downstream effects with respect to transcriptomes and functions.<xref rid="jah33949-bib-0007" ref-type="ref">7</xref> There is consistency between the role of mineralocorticoid receptors in the heart and their effects under cardiac stress conditions; however, the effects of GR activation in cardiomyocytes have been conflicting and require detailed systematic examination, especially because circulating serum Gc has been associated with increased mortality in patients with heart failure.<xref rid="jah33949-bib-0008" ref-type="ref">8</xref>, <xref rid="jah33949-bib-0009" ref-type="ref">9</xref>
+</p><p>GR is highly expressed in cardiomyocytes and has both genomic and nongenomic effects. Dexamethasone (dex)&#x02010;mediated activation of GR results in an increase in cardiomyocyte size, suggesting that GR activation is sufficient for cardiomyocyte hypertrophy, which is further exaggerated in the presence of growth stimulation.<xref rid="jah33949-bib-0010" ref-type="ref">10</xref> Interestingly, although studies have shown this phenotype in isolated myocytes,<xref rid="jah33949-bib-0011" ref-type="ref">11</xref>, <xref rid="jah33949-bib-0012" ref-type="ref">12</xref>, <xref rid="jah33949-bib-0013" ref-type="ref">13</xref> mice with cardiac&#x02010;specific knockdown of GR also presented with a similar phenotype of hypertrophy and cardiac failure as early as 3&#x000a0;months of age.<xref rid="jah33949-bib-0014" ref-type="ref">14</xref> GR function is essential for heart development, where GR activation is associated with cardiomyocyte differentiation in fetal and neonatal cardiomyocytes.<xref rid="jah33949-bib-0015" ref-type="ref">15</xref>, <xref rid="jah33949-bib-0016" ref-type="ref">16</xref>, <xref rid="jah33949-bib-0017" ref-type="ref">17</xref>, <xref rid="jah33949-bib-0018" ref-type="ref">18</xref> GRs also modulate cardiac metabolism<xref rid="jah33949-bib-0019" ref-type="ref">19</xref>, <xref rid="jah33949-bib-0020" ref-type="ref">20</xref>, <xref rid="jah33949-bib-0021" ref-type="ref">21</xref> and have been shown to alter calcium signaling in cardiomyocytes, contributing to cardiac remodeling and dysfunction.<xref rid="jah33949-bib-0022" ref-type="ref">22</xref>, <xref rid="jah33949-bib-0023" ref-type="ref">23</xref> Nongenomic effects of the GR have been attributed to its localization to cell membrane and mitochondria after Gc&#x02010;GR binding,<xref rid="jah33949-bib-0024" ref-type="ref">24</xref> which may be working in coordination with the genomic targets to mediate downstream function and contributing to the hypertrophic phenotype. These studies highlight the importance and the critical balance of GR signaling in cardiac myocytes and its function as an inducer of hypertrophy and failure versus its role in restraining cardiac fibrosis and preventing cardiac failure.</p><p>In this study we examined the GR signaling in cardiac myocytes in a systematic and detailed whole&#x02010;genome approach, which led to identification of the novel direct and secondary targets of GR in cardiac myocytes. Here, we present the GR&#x02010;dependent changes in the cardiomyocyte transcriptome that play a role in development of the observed hypertrophic phenotype.</p></sec><sec id="jah33949-sec-0009"><title>Materials and Methods</title><p>We have provided all the supporting data and results in this article and online supplementary files.</p><sec id="jah33949-sec-0010"><title>Neonatal Myocyte Culture and Treatments</title><p>Neonatal myocytes were cultured as previously described.<xref rid="jah33949-bib-0025" ref-type="ref">25</xref> Briefly, hearts from 1&#x02010;day&#x02010;old Sprague&#x02010;Dawley rats were isolated and dissociated. Enrichment of cardiac myocytes was performed using a Percoll gradient followed by differential preplating to eliminate any contaminating nonmyocytes. Cells were plated in DMEM&#x02010;F12 (high glucose with L&#x02010;glutamine and HEPES) with 10% fetal bovine serum for 24&#x000a0;hours, at which time the medium was changed to serum&#x02010;free medium. Cultured cardiomyocytes were treated with ethanol 100% (diluent control) or dexamethasone (D1756, Sigma, St. Louis, MO) 100&#x000a0;nmol/L for additional time periods of 1 hour, 6 hours or 24 hours, as indicated. The isolation of primary cardiomyocyte was approved by the&#x000a0;Institutional Animal Care and Use Committee at Rutgers, The State University of New Jersey. Female Sprague&#x02010;Dawley rats with 1&#x02010;day&#x02010;old litters (male and female) were purchased from Envigo Inc, Princeton, NJ.</p></sec><sec id="jah33949-sec-0011"><title>ChIP&#x02010;Seq</title><p>Neonatal cardiac myocytes cultured from 40 hearts isolated from 1&#x02010;day&#x02010;old Sprague&#x02010;Dawley rat pups were treated with ethanol (control) or dexamethasone (100&#x000a0;nmol/L) for 1&#x000a0;hour; cells were fixed, collected, and sent to Active Motif (Carlsbad, CA) for GR chromatin immunoprecipitation sequencing (ChIP&#x02010;Seq). GR ChIP&#x02010;Seq was performed using anti&#x02010;GR antibody (sc&#x02010;8992, Santa Cruz Biotechnology, Dallas, TX) on 25&#x000a0;&#x003bc;g of chromatin from control, dex&#x02010;treated, and input samples by Illumina (San Diego, CA) NextSeq 500 sequencing.</p></sec><sec id="jah33949-sec-0012"><title>ChIP&#x02010;Seq Data Analysis</title><p>Bioinformatics on the sequencing data generated was performed by Active Motif, Inc, as described previously.<xref rid="jah33949-bib-0026" ref-type="ref">26</xref>, <xref rid="jah33949-bib-0027" ref-type="ref">27</xref> The data explanation from Active Motif includes the following: <italic>Sequence analysis:</italic> A 75&#x02010;nt sequence generated by sequencing reads was mapped to the rn5 genome using the BWA algorithm, and the information was stored in BAM format. Only reads that aligned with no more than 2 mismatches and mapped uniquely were used in the analysis. <italic>Determination of Fragment Density:</italic> Aligned reads (tags) were extended in silico at their 3&#x02032; ends to a length of 150 to 250&#x000a0;bp. To identify the density of fragments along the genome, the genome was divided into 32&#x02010;nt bins, and the number of fragments in each bin was determined, stored in a bigwig file, and visualized on genome browsers. <italic>Peak Finding:</italic> Genomic regions with enrichments in tag numbers were termed &#x0201c;intervals&#x0201d; and defined by the chromosome number and start and end coordinates. Then 13&#x000a0;366&#x000a0;963 normalized tags were used for peak calling using a MACS 2.1.0 algorithm<xref rid="jah33949-bib-0028" ref-type="ref">28</xref> with default cutoff <italic>P</italic> value 10<sup>&#x02013;7</sup> for narrow peaks and 0.1 for broad peaks. The MACS method was suitable for identifying binding sites of transcription factors with discrete binding sites such as consensus sequence or histone marks. The MACS method looked for significant enrichments in the ChIP&#x02010;IP data file when compared with the input data file. Peak filtering was performed by removing false ChIP&#x02010;Seq peaks as defined within the ENCODE blacklist.<italic>Active regions:</italic> To compare peak metrics between 2 samples, overlapping intervals were grouped into &#x0201c;active regions,&#x0201d; defined by the start coordinate of the most upstream interval and the end coordinate of the most downstream interval. In locations where only 1 sample had an interval, that interval defined the active region. <italic>Annotations:</italic> Intervals, active regions, their genomic locations along with proximities to gene annotations, and other genomic features were determined and presented in an Excel spreadsheet. Average and peak fragment densities within intervals and active regions were compiled. Data obtained were sorted based on the ratio of&#x000a0;dex versus control, and subsets were made for manuscript&#x000a0;preparation with proper data representation and presentation.</p></sec><sec id="jah33949-sec-0013"><title>RNA Sequencing</title><p>Neonatal cardiac myocytes cultured similarly to those for ChIP&#x02010;Seq were treated with ethanol (control) or dexamethasone (100&#x000a0;nmol/L) for 1 or 24&#x000a0;hours. RNA sequencing (RNAseq) was performed independently on RNA obtained from 2 cultures and presented as their average. Cells were sent to Active Motif for RNA isolation and RNAseq, followed by bioinformatics, which included data analysis and integration with GR ChIP&#x02010;Seq data. Directional poly&#x02010;A RNAseq libraries were prepared and sequenced as P75 (75&#x02010;bp paired&#x02010;end reads) on Illumina NextSeq 500 to a depth of 47 to 53&#x000a0;mol/L read pairs. The &#x0201c;TopHat&#x0201d; algorithm was used to align the reads to the rn5 genome. The alignments in the BAM files were further analyzed using the Cufflinks suite of programs. Cufflinks was run using the rn5 genes as reference database, and output shows the known genes with their RNAseq metrics (as fragments per kilobase of exon model per million mapped fragments), but novel transcripts were not identified. RNA from 2 independent cultures (n=2) were analyzed as 3&#x000d7;2 replicate samples generating 6 Cufflinks outputs, which were compared using Cuffdiff. All these files were opened and converted to Excel (Microsoft, Redmond, WA) tables. The Excel tables include q&#x02010; and <italic>P</italic> values, and by default, genes with q&#x02010;values &#x0003c;0.05 were designated as significant. RNAseq data were verified by quantitative polymerase chain reaction (qPCR) for mRNA abundance of selected genes. The data were further integrated with the GR ChIP&#x02010;Seq using active regions, which were sorted based on log2&#x02010;fold change (Log2FC) for categorization and analysis. Heatmap for the differentially regulated genes was generated using Heatmapper,<xref rid="jah33949-bib-0029" ref-type="ref">29</xref> with complete linkage for clustering and Euclidean distance measurement method. Box&#x000a0;plots and Log2FC graphs were generated using Prism 7, and qPCR data were graphed using Microsoft Excel.</p></sec><sec id="jah33949-sec-0014"><title>Genome Browsers</title><p>Integrated Genomic Viewer<xref rid="jah33949-bib-0030" ref-type="ref">30</xref> was used for visualization of integrated GR ChIP&#x02010;Seq and RNAseq data.</p></sec><sec id="jah33949-sec-0015"><title>Gene Expression Omnibus Submissions</title><p>GR ChIP&#x02010;Seq and RNAseq data have been uploaded to NCBI Gene Expression Omnibus with series GSE114767, which is a superseries of GSE116616 (ChIP&#x02010;Seq data) and GE114766 (RNAseq data). RNA pol II ChIP&#x02010;Seq data are available on Gene Expression Omnibus with series GSE50637.</p></sec><sec id="jah33949-sec-0016"><title>ChIP Quantitative PCR</title><p>Cultured rat neonatal cardiomyocytes were treated with ethanol or dexamethasone (100&#x000a0;nmol/L) for 1 or 24&#x000a0;hours. The cells were fixed and collected as described previously.<xref rid="jah33949-bib-0026" ref-type="ref">26</xref> ChIP was performed using anti&#x02013;pol II antibody (ab5095) or IgG (antirabbit) following Abcam (Cambridge, UK) ChIP protocol X&#x02010;ChIP. Sonication to shear DNA was performed using an S2 Covaris (Woburn, MA) sonicator. Quantitative PCR was performed on immunoprecipitated DNA fragments using primer&#x02010;probe sets ordered from Integrated DNA Technologies (Coralville, IA) encompassing the transcription start site of <italic>Trapp6b</italic> and <italic>Mapk1</italic> specific to rat genome.</p></sec><sec id="jah33949-sec-0017"><title>Immunocytochemistry</title><p>Cells were fixed as described previously.<xref rid="jah33949-bib-0031" ref-type="ref">31</xref> Cells were stained using anti&#x02010;GR (3660S, Cell Signaling Technology, Danvers, MA) and antiactinin (A7732, Sigma, St. Louis, MO). Prolong gold (Invitrogen, Carlsbad, CA) used for mounting contains DAPI for nuclear staining. Image J<xref rid="jah33949-bib-0032" ref-type="ref">32</xref> was used for cell surface area measurements for isolated cardiomyocytes.</p></sec><sec id="jah33949-sec-0018"><title>Western Blotting</title><p>Cardiomyocytes were fractionated using a subcellular protein fractionation kit for cultured cells (Thermo Fisher, Waltham, MA; cat # 78840) per the manufacturer&#x02010;provided protocol. Lysate was separated on gradient (4% to 12%) XT gels (Bio&#x02010;Rad, Hercules, CA) and probed for anti&#x02010;GR (3660S, Cell Signaling), anti&#x02010;GAPDH (97166S, Cell Signaling), and anti&#x02010;H2b (12364S, Cell Signaling).</p></sec><sec id="jah33949-sec-0019"><title>Quantitative PCR</title><p>Total RNA was isolated from cardiomyocytes after the indicated treatments and was reverse&#x02010;transcribed to cDNA using a High&#x02010;Capacity cDNA Reverse Transcription Kit (Thermo Fisher), as advised in manufacturer's protocol. The cDNA was used for qPCR with an Applied Biosystems&#x000a0;7500 thermocycler using Taqman gene expression assays (a complete list of assays with IDs is given in Table&#x000a0;<xref rid="jah33949-sup-0002" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="jah33949-sec-0020"><title>Dex Injections in Mice</title><p>C57/BL mice (male, 10&#x000a0;weeks) were administered 10&#x000a0;mg/kg of dexamethasone (Sigma) via intraperitoneal injections. Hearts were extracted after 1 or 24&#x000a0;hours for protein and mRNA analysis.</p></sec><sec id="jah33949-sec-0021"><title>Statistics</title><p>Statistical differences between groups were calculated using an unpaired, 2&#x02010;tailed Student t test (Excel software). <italic>P</italic>&#x0003c;0.05 was considered significant. Data analysis and statistics for ChIP&#x02010;Seq and RNAseq are included in their respective sections.</p></sec></sec><sec id="jah33949-sec-0022"><title>Results</title><sec id="jah33949-sec-0023"><title>Dex&#x02010;Induced Nuclear Translocation of GR Is Associated With Cardiomyocyte Hypertrophy</title><p>To determine the expression pattern and dynamics of GR in&#x000a0;cardiomyocytes, we treated neonatal rat ventricular cardiomyocytes with dexamethasone for 1, 6, and 24&#x000a0;hours. We observed nuclear translocation of GR by 1 and 6&#x000a0;hours, followed by diffuse cytosolic and nuclear distribution by 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-fig-0001" ref-type="fig">1</xref>A). We also confirmed the dex&#x02010;induced cytoplasmic&#x02010;to&#x02010;nuclear translocation of GR by Western blotting (Figure&#x000a0;<xref rid="jah33949-fig-0001" ref-type="fig">1</xref>B and <xref rid="jah33949-fig-0001" ref-type="fig">1</xref>C). We observed a significant increase in cardiomyocyte surface area after 24&#x000a0;hours of dex treatment indicating cardiomyocyte hypertrophy (Figure&#x000a0;<xref rid="jah33949-fig-0001" ref-type="fig">1</xref>D), which is consistent with the study by Ren et&#x000a0;al<xref rid="jah33949-bib-0010" ref-type="ref">10</xref> showing similar changes in phenotype in H9c2 cells and neonatal cardiomyocytes with dex treatment for 72&#x000a0;hours. In addition, we confirmed similar translocations and increases in cell size in adult mouse ventricular cardiomyocytes in the presence of dex from increasing time periods of 1 and 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S1</xref>A through S1C). These results suggest that dex is sufficient to induce nuclear GR translocation and cardiomyocyte hypertrophy.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Dexamethasone induces nuclear translocation of the glucocorticoid receptor that is associated with cardiomyocyte hypertrophy. <bold>A</bold>, Neonatal rat ventricular cardiomyocytes were treated with dexamethasone (100&#x000a0;nmol/L) or ethanol for increasing time periods of 1, 6, or 24&#x000a0;hours before fixing and staining for glucocorticoid receptor, &#x003b1;&#x02010;actinin (myocyte specificity), and DAPI (nucleus). Scale bar 10&#x000a0;&#x003bc;mol/L. <bold>B</bold>, Western blot showing cytoplasmic and nuclear fractions of neonatal rat ventricular myocytes cultured and treated with dexamethasone for increasing time periods of 1, 6, and 24&#x000a0;hours. Blots probed for glucocorticoid receptor (Nr3c1, nuclear receptor subfamily 3 group C member 1), GAPDH, and histone 2b. <bold>C</bold>, Signal intensities of the cytoplasmic glucocorticoid receptor normalized to GAPDH and nuclear glucocorticoid receptor normalized to histone 2b are shown. ImageJ was used for quantification. <bold>D</bold>, Graph represents cardiomyocyte area as measured using ImageJ software, tabulated and graphed in Prism 7 (GraphPad, La Jolla, CA) to show change in cell size with dexamethasone treatments, as indicated. All experiments shown were repeated as independent triplicates, *<italic>P</italic>&#x0003c;0.05. Dex indicates dexamethasone; GR, glucocorticoid receptor; H2b, histone 2b.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-8-e011484-g001"/></fig></sec><sec id="jah33949-sec-0024"><title>GR ChIP&#x02010;Seq Identifies 11&#x000a0;658 GR Binding Sites Associated With 6482 Genes After Dex Treatment</title><p>To identify transcriptional targets of GR, we performed ChIP&#x02010;Seq with antibody against GR in isolated neonatal cardiomyocytes and treated them with ethanol (control) or dex (100&#x000a0;nmol/L) for 1&#x000a0;hour. The data revealed 11&#x000a0;658 merged active regions (overlapping intervals) of genomic GR binding sites (gGRbs) in ethanol&#x02010;treated (control) and dex&#x02010;treated cardiomyocytes. Of those, 11&#x000a0;628 regions were unique only to dex&#x02010;treated cardiomyocytes, 2 to control cardiomyocytes, and 28 regions were common to both (Figure&#x000a0;<xref rid="jah33949-fig-0002" ref-type="fig">2</xref>A). We compared the peak size metrics and correlation in these active regions by tabulating the number of tags that showed a significant increase after dex versus control (shown as box plot in Figure&#x000a0;<xref rid="jah33949-fig-0002" ref-type="fig">2</xref>B). Similarly, we generated heat maps to determine tag distributions across active regions (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S2</xref>A). In addition, we graphed cumulative average values across the transcription start sites and gene bodies (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S2</xref>B) for control and dex&#x02010;treated cardiomyocytes and input samples. These data showed significant enrichment of tags (gGRbs) in dex&#x02010;treated samples versus control, especially near transcription start sites. The number of gGRbs we identified in cardiomyocytes was similar to those reported in mouse mammary cells and pituitary AtT&#x02010;20 cells, showing 8236 binding sites after 1&#x000a0;hour of dex,<xref rid="jah33949-bib-0033" ref-type="ref">33</xref> and in A549 human lung epithelial cells with 4392 and 29&#x000a0;432 sites after 1 and 3&#x000a0;hours of dex, respectively.<xref rid="jah33949-bib-0034" ref-type="ref">34</xref>, <xref rid="jah33949-bib-0035" ref-type="ref">35</xref> Motif search using MEME/TOMTOM with the top 1000 peaks from GR ChIP&#x02010;Seq data identified Glucocorticoid response element (GRE) with an E&#x02010;value of 1.1&#x000d7;10<sup>&#x02013;580</sup> (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S2</xref>C).<xref rid="jah33949-bib-0036" ref-type="ref">36</xref> Next, we correlated these GR binding sites with annotated genes. A GR binding region within the gene 10&#x000a0;kb upstream or 10&#x000a0;kb downstream of the gene structure was considered associated with that gene and to possibly have regulatory influence on that gene's transcription. Interestingly, when we compared average peak value of dex versus control cardiomyocytes, 99.91% of genes (7075 out of 7080) showed ratios &#x02265;1 (Figure&#x000a0;<xref rid="jah33949-fig-0002" ref-type="fig">2</xref>C), suggesting an increase in GR tags after dex, and only 0.08% (6 out of 7080) had ratios &#x0003c;1, that is, dex decreased GR tags versus control (Figure&#x000a0;<xref rid="jah33949-fig-0002" ref-type="fig">2</xref>D). Of the 7080 genes, 6482 genes showed a &#x02265;2&#x02010;fold change in GR occupancy and were associated with at least 1 active region; interestingly, 6481 genes showed increase (Log2FC&#x0003e;1) in gGRb, and only 1 gene showed a decrease (Log2FC&#x0003c;1) with dex treatment. Our data showed that a majority of these genes (66%) were associated with only 1 active region, while 34% had &#x0003e;1 active region (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S2</xref>D). Next, we generated a pie chart that showed the distribution of peaks in control and dex&#x02010;treated samples to determine the location of peaks with respect to genomic annotations (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S2</xref>E). These results for the first time reveal widespread gGRb on the cardiac genome after dex stimulation and conceivably identify genes that are regulated and contribute to dex&#x02010;induced cardiac hypertrophy.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Genomic GR binding sites identified by GR ChIP&#x02010;Seq in cardiomyocytes after 1&#x000a0;hour of Dex treatment. <bold>A</bold>, Venn diagram showing the number of active regions (actual binding sites) in control (ethanol) and dexamethasone (Dex, 100&#x000a0;nmol/L)&#x02010;treated rat ventricular neonatal cardiomyocytes. <bold>B</bold>, Box&#x000a0;plot comparing peak tag numbers in control and Dex&#x02010;treated samples. Boxed area represents center 2 quartiles, notched line is median, and the whiskers show the top and bottom quartiles without outliers. <bold>C</bold>, Box&#x000a0;plot showing average peak density in genes (99.91% of genes with active regions) sorted based on the ratio &#x02265;1 in Dex&#x02010;treated vs control samples. <bold>D</bold>, Box&#x000a0;plots showing average peak density in genes (0.08% of genes with active regions) sorted based on ratio &#x02264;1 in Dex&#x02010;treated vs control samples. AcR indicates active regions; Ave, average; ChIP&#x02010;Seq, chromatin immunoprecipitation sequencing; Dex, dexamethasone; GR, glucocorticoid receptor.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-8-e011484-g002"/></fig></sec><sec id="jah33949-sec-0025"><title>Early Targets of GR Include Regulators of RNA pol II&#x02010;Dependent Transcription and Gene Expression in Cardiomyocytes</title><p>Our GR ChIP&#x02010;Seq data identified 6482 genes associated with gGRb in cardiomyocytes after dex treatment. Therefore, to determine changes in transcriptional status, we performed RNAseq on isolated neonatal ventricular cardiomyocytes (2 independent cultures, n=2) treated with ethanol or dex for 1 or 24&#x000a0;hours. We selected these time points for transcriptome analysis because 1&#x000a0;hour is sufficient for maximum GR nuclear translocation, and we observed significant increase in cardiomyocyte size by 24&#x000a0;hours, indicating cardiomyocyte hypertrophy. Of the 11&#x000a0;546 transcripts that were sequenced, a total of 738 showed significant change (q&#x02010;value &#x0003c;0.5) with dex. After 1&#x000a0;hour, 98 genes (&#x0003c;1% of all sequenced transcripts and 13.39% of those differentially regulated) exhibited a change in transcript abundance (Figure&#x000a0;<xref rid="jah33949-fig-0003" ref-type="fig">3</xref>A and Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S3</xref>). After 24&#x000a0;hours, 640 additional genes (5.54% of all sequenced transcripts and 86.72% of those differentially regulated) showed a change in transcript abundance; there were also 55 genes that were common to both time points (Figure&#x000a0;<xref rid="jah33949-fig-0003" ref-type="fig">3</xref>A). We generated a heat map using Log2FC values to show the differential change in gene expression after 1 and 24&#x000a0;hours of dex versus control in cardiomyocytes (Figure&#x000a0;<xref rid="jah33949-fig-0003" ref-type="fig">3</xref>B, Table&#x000a0;<xref rid="jah33949-sup-0002" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Differential transcriptome in cardiomyocytes treated with Dex for 1 and 24&#x000a0;hours. <bold>A</bold>, Venn diagram showing numbers and percentages of mRNA transcripts differentially regulated in cardiomyocytes treated with dexamethasone for 1 and 24&#x000a0;hours, along with transcripts changed under both conditions, compared with control cells, as measured by RNAseq. <bold>B</bold>, Heatmap displaying the 739 differentially regulated genes in cardiomyocytes treated with dexamethasone for 1 or 24&#x000a0;hours vs control (ethanol). Heatmap was generated using HeatMapper, with Complete linkage clustering method and Euclidean method for distance measurement. Dex indicates dexamethasone; Log2FC, log2&#x02010;fold change.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-8-e011484-g003"/></fig><p>Further, we correlated expressed genes with their gGRb status, which showed that 358 (48.5%) differentially regulated genes were associated with gGRb, whereas 380 genes did not show gGRb in or within 10&#x000a0;kb upstream or downstream of their gene structure (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>A). Interestingly, 5744 genes did associate with GR but did not show significant change (&#x0003c;2&#x02010;fold change) in transcript abundance or were not identified in RNAseq (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>A). These results are consistent with the study in A549 cells, which reported that 84% of the 10&#x000a0;963 GR binding sites tested showed less than a 2&#x02010;fold change in reporter assay, suggesting &#x0201c;modest&#x0201d; change due to GR regulatory activity.<xref rid="jah33949-bib-0035" ref-type="ref">35</xref> Further, we correlated 738 differentially regulated genes at the 2 measured time points with their gGRb status. After 1&#x000a0;hour of dex treatment, 68 of 98 (69.38%) genes with significant change were associated with gGRb, whereas 30 (30.61%) genes showed no association to gGRb. On the other hand, after 24&#x000a0;hours of dex, 290 out of 640 (45.31%) differentially regulated genes were associated with gGRb, whereas 350 (54.69%) genes were not associated with gGRb (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>B). These data suggest that activation of GR signaling in cardiomyocytes results in an initial change in expression of mostly direct targets of GR followed by more genes that are either indirect targets or secondary to hypertrophy phenotype. In Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>C, we show the graph with Log2FC values of 68 genes that exhibit significant differential regulation (Log2FC &#x02265;1) and gGRb at 1&#x000a0;hour and the corresponding changes after 24&#x000a0;hours of dex compared with control cardiomyocytes (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>C and Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S3</xref>). In Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>D, we show representative screenshot images of <italic>Pdk4, Abra, Sgk1, Klf10,</italic> and <italic>Hes1</italic> genes from an integrated genome viewer that are differentially regulated by 1&#x000a0;hour of dex and are associated with gGRb (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>D). We confirmed the change in mRNA abundance of selected genes listed in this group in cardiomyocytes treated with dex for increasing time periods of 1, 6, and 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>E). Interestingly, gene ontology for functional annotation using DAVID (Database for Annotation, Visualization and Integrated Discovery) Bioinformatics Resources 6.8<xref rid="jah33949-bib-0037" ref-type="ref">37</xref>, <xref rid="jah33949-bib-0038" ref-type="ref">38</xref> categorized these genes as regulators of gene transcription from RNA polymerase II promoter, followed by those involved in cell death, response to lipopolysaccharide, and mechanical or insulin stimulus (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>F, Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S4</xref>). Previous studies have shown association of these genes, such as <italic>Abra,</italic>
+<xref rid="jah33949-bib-0039" ref-type="ref">39</xref>
+<italic>Klf10,</italic>
+<xref rid="jah33949-bib-0040" ref-type="ref">40</xref>
+<italic>Pdk4,</italic>
+<xref rid="jah33949-bib-0041" ref-type="ref">41</xref> and <italic>Sgk1</italic>
+<xref rid="jah33949-bib-0042" ref-type="ref">42</xref> in development of hypertrophic cardiomyopathy.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Early targets of GR include regulators of pol II&#x02013;dependent transcription and gene expression in cardiomyocytes. <bold>A</bold>, The graph represents the numbers of genes with or without GR association, sorted into genes that show significant differential regulation and genes that do not show significant change in transcript abundance. <bold>B</bold>, The graph represents the number of genes differentially regulated and the status of GR genomic association at the 1&#x02010;hour and 24&#x02010;hour time points of dexamethasone treatment. <bold>C</bold>, Genes with significant change in mRNA transcript that are associated with genomic GR binding at 1&#x000a0;hour along with corresponding change after 24&#x000a0;hours of dexamethasone treatment are graphed and presented based on log2&#x02010;fold change (Log2FC) value. <bold>D</bold>, Integrated genomic viewer screenshots of selected representative genes with integrated RNAseq and GR ChIP&#x02010;Seq data, showing change in the transcript after 1 and 24&#x000a0;hours of dexamethasone along with genomic GR binding status of genes that are differentially regulated at 1&#x000a0;hour dexamethasone treatment compared with control (ethanol) cardiomyocytes. Arrows indicate the direction of transcription of that gene, numbers in brackets in the Y axis indicate the values on signal tracks for GR ChIP&#x02010;Seq and RNAseq for each gene. The values were kept the same within the samples for each gene. <bold>E</bold>, Relative transcript abundance of selected genes as measured by quantitative polymerase chain reaction in cardiomyocytes treated with dexamethasone for 1, 6, or 24&#x000a0;hours. Error bars represent SEM, *<italic>P</italic>&#x0003c;0.05 compared with control, n=3. <bold>F</bold>, Functional annotation of genes that show significant differential regulation after 1&#x000a0;hour of dexamethasone treatment that are associated with genomic GR, as analyzed using DAVID; top 15 groups are shown with number of genes and <italic>P</italic> value (full table with all the categorized genes in Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S4</xref>). DAVID indicates Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone; GR, glucocorticoid receptor.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-8-e011484-g004"/></fig><p>Similarly, we graphed 30 genes that exhibit change in transcript abundance after 1&#x000a0;hour of dex but are not associated with gGRb, along with corresponding changes at 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S5</xref>A). In Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S5</xref>B, we show screenshot images from an integrated genome viewer browser showing representative genes from this group (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S5</xref>B). We confirmed the expression changes of these genes in neonatal cardiomyocytes treated with dex for increasing time periods (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S5</xref>C). Interestingly, functional annotation revealed that most of these genes are involved in heart development, cell&#x02010;cell junction organization, Ca<sup>2+</sup> transport, and G protein&#x02013;coupled receptor signaling (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S5</xref>D), some of which might be regulated via nongenomic actions of Gc&#x02010;GR signaling. These data suggest that an early change in a small set of genes with dex, mostly transcription regulators, might mediate change in expression of additional signaling genes, which potentially contribute to the development of cardiomyocyte hypertrophy.</p></sec><sec id="jah33949-sec-0026"><title>Genes Mostly Involved in Growth&#x02010;Related Pathways and Cardiomyopathy Differentially Regulated After 24&#x000a0;Hours of Dex Treatment</title><p>We examined genes that exhibit significant changes only after 24&#x000a0;hours of dex, which includes genes with and without gGRb association (Figure&#x000a0;<xref rid="jah33949-fig-0004" ref-type="fig">4</xref>B). We plotted graphs of these genes with Log2FC values to show the corresponding changes in the transcript after 1 and 24&#x000a0;hours of dex (Figure&#x000a0;<xref rid="jah33949-fig-0005" ref-type="fig">5</xref>A; Table&#x000a0;<xref rid="jah33949-sup-0004" ref-type="supplementary-material">S3</xref>). As anticipated by the hypertrophy phenotype, functional annotation (DAVID) grouped these genes as mostly those that are involved in focal adhesion, extracellular matrix&#x02013;receptor interaction, dilated and hypertrophic cardiomyopathy, and other growth&#x02010;related pathways such as PI3K&#x02010;Akt signaling, adrenergic signaling in cardiomyocytes, insulin signaling, calcium signaling pathways, and Hippo signaling (Figure&#x000a0;<xref rid="jah33949-fig-0005" ref-type="fig">5</xref>B, Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S6</xref>). We validated the expression of selected relevant genes from the RNAseq by qPCR in cardiomyocytes treated with dex for increasing time periods of 1, 6, and 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-fig-0005" ref-type="fig">5</xref>C). We show screenshots of relevant representative genes as visualized on an integrated genome viewer browser displaying integrated RNAseq and GR&#x02010;ChIP&#x02010;Seq data. In Figure&#x000a0;<xref rid="jah33949-fig-0005" ref-type="fig">5</xref>D, <italic>Myoz2</italic> and <italic>Myocd</italic> are shown as examples of differentially regulated genes and associated with gGRb, and Figure&#x000a0;<xref rid="jah33949-fig-0005" ref-type="fig">5</xref>E shows <italic>Agtr1a, Ace,</italic> and <italic>Myl2</italic> as genes changed by not associating with gGRb. These genes could be direct or indirect targets of GR; alternatively, these changes could be secondary to the hypertrophy phenotype we observed after 24&#x000a0;hours of dex treatment. Nevertheless, these results indicate that Gc stimulation in cardiomyocytes leads to change in the transcriptome that is involved in the development of cardiomyocyte hypertrophy.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Genes involved in growth&#x02010;related pathways and cardiomyopathy are differentially regulated after 24&#x000a0;hours of dexamethasone treatment. <bold>A</bold>, Graph represents genes that are differentially regulated at 24&#x000a0;hours, along with the corresponding changes at 1&#x000a0;hour of dexamethasone treatment in cardiomyocytes (gene list provided as Table&#x000a0;<xref rid="jah33949-sup-0004" ref-type="supplementary-material">S3</xref>). <bold>B</bold>, Functional annotation of genes regulated only after 24&#x000a0;hours of dexamethasone treatment were analyzed using DAVID, and relevant groups with number of genes and <italic>P</italic> value are shown (all categorized groups shown in Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S6</xref>). <bold>C</bold>, Transcript abundance of selected genes as measured by qPCR in neonatal ventricular cardiomyocytes treated with dexamethasone for 1, 6, or 24&#x000a0;hours. Error bars represent SEM, *<italic>P</italic>&#x0003c;0.05 compared with control, n=3. <bold>D</bold>, Integrated genomics viewer screenshots of selected representative genes with RNAseq and GR ChIP&#x02010;Seq data, showing change in the transcript after 1 and 24&#x000a0;hours of dexamethasone along with genomic GR binding status of these genes at 1&#x000a0;hour of dexamethasone treatment compared with control (ethanol) cardiomyocytes. ChIP&#x02010;Seq indicates chromatin immunoprecipitation sequencing; DAVID, Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone; GR, glucocorticoid receptor; qPCR, quantitative polymerase chain reaction; RNAseq, RNA sequencing.</p></caption><graphic id="nlm-graphic-9" xlink:href="JAH3-8-e011484-g005"/></fig></sec><sec id="jah33949-sec-0027"><title>Majority of Genes With Genomic GR Binding Show Incremental Changes in Transcript Abundance and Are Categorized as Genes Involved in Basic Cellular Processes</title><p>Our ChIP&#x02010;Seq data revealed at least 6482 genes that are associated with gGRb, which resulted in significant differential regulation in 738 genes (11.38%); 5744 genes (88.61%, including genes with no significant difference in mRNA abundance and transcripts that did not sequence) did not show significant change. Of the latter set of genes, 4954 (76.42%) passed the quality check and were included in further analysis. Functional annotation identified these genes as mostly involved in basic cellular processes such as protein processing in endoplasmic reticulum, spliceosome, the MAPK signaling pathway, proteasomes, ubiquitin&#x02010;mediated proteolysis, ribosomes, and metabolic pathways (Figure&#x000a0;<xref rid="jah33949-fig-0006" ref-type="fig">6</xref>A and Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S7</xref>). In Figure&#x000a0;<xref rid="jah33949-fig-0006" ref-type="fig">6</xref>B, we show <italic>Trapp6b, Pnn, Scd4, Rab12, Sumo2,</italic> and <italic>Mapk1</italic> as representative genes with associated gGRb but no significant change in transcript abundance (Figure&#x000a0;<xref rid="jah33949-fig-0006" ref-type="fig">6</xref>B). We confirmed the expression of these genes, which showed a slight change of 1.15&#x02010; to 1.3&#x02010;fold in mRNA levels (Figure&#x000a0;<xref rid="jah33949-fig-0006" ref-type="fig">6</xref>C), consistent with a report in A549 cells showing modest changes in regulatory activity for most GR binding sites.<xref rid="jah33949-bib-0035" ref-type="ref">35</xref> Interestingly, these genes overlapped with genes that are regulated by promoter clearance of paused RNA pol II in hearts undergoing hypertrophy (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S8</xref>A)<xref rid="jah33949-bib-0026" ref-type="ref">26</xref> and possibly might be undergoing similar transcriptional regulation in cardiomyocytes with dex treatment. On the other hand, genes with significant differential change and gGRb association after 1&#x000a0;hour of dex in cardiomyocytes (eg, <italic>Abra, Pdk4, Klf10, Hes1</italic>) displayed overall change in RNA pol II recruitment and distribution on gene structures in&#x000a0;vivo with hypertrophy compared with sham hearts (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S8</xref>B).<xref rid="jah33949-bib-0026" ref-type="ref">26</xref> RNA pol II&#x02010;ChIP&#x02010;qPCR on representative genes (<italic>Trapp6b</italic> and <italic>Mapk1</italic>) showed a decrease in RNA pol II occupancy at the transcription start site of these genes with dex treatment (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S8</xref>C) accompanied by incremental changes in transcript, as shown in Figure&#x000a0;<xref rid="jah33949-fig-0006" ref-type="fig">6</xref>C. Thus, we propose that the expression of these genes might be regulated by promoter clearance of paused pol II.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Incremental changes in most of genes with genomic GR association in cardiomyocytes with dexamethasone treatment. <bold>A</bold>, Functional annotation of genes that show less than a 2&#x02010;fold change in transcript abundance and are associated with genomic GR binding; groups with number of genes and <italic>P</italic> value are shown (all categorized groups shown in supporting information). <bold>B</bold>, Integrated genomics viewer screenshots of selected representative genes with RNASseq and GR ChIP&#x02010;Seq data, showing change in the transcript after 1 and 24&#x000a0;hours of dexamethasone along with genomic GR&#x02010;binding status of these genes at 1&#x000a0;hour of dexamethasone treatment compared with control (ethanol) cardiomyocytes. <bold>C</bold>, Transcript abundance of selected genes as measured by qPCR in neonatal ventricular cardiomyocytes treated with dexamethasone for 1, 6, or 24&#x000a0;hours. Error bars represent SEM, n=3. ChIP&#x02010;Seq indicates chromatin immunoprecipitation sequencing; Dex, dexamethasone; GR, glucocorticoid receptor; qPCR, quantitative polymerase chain reaction; RNAseq, RNA sequencing; sig, significant.</p></caption><graphic id="nlm-graphic-11" xlink:href="JAH3-8-e011484-g006"/></fig><p>Further, to confirm that the dex&#x02010;induced changes in the transcriptome and hypertrophic phenotype were mediated by GR, we silenced endogenous GR using adenovirus expressing shRNA against GR before treating cardiomyocytes with dex for 1 or 24&#x000a0;hours. As expected, we observed a blunted dex response with respect to expression of the target genes (Figure&#x000a0;<xref rid="jah33949-fig-0007" ref-type="fig">7</xref>A) and cardiomyocyte hypertrophy (Figure&#x000a0;<xref rid="jah33949-fig-0007" ref-type="fig">7</xref>B and C). These results indicate that the GR&#x02010;dependent change in transcriptome contributes to development of dex&#x02010;induced cardiomyocyte hypertrophy.</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Dexamethasone&#x02010;mediated change in cardiomyocyte gene transcription and morphology are GR&#x02010;dependent. <bold>A</bold>, Isolated neonatal rat ventricular cardiomyocytes were infected with adenovirus expressing short hairpin RNA against GR (Ad&#x02010;siGr) for 24&#x000a0;hours before treatment with dexamethasone for 1 or 24&#x000a0;hours, as indicated. Transcript abundance was measured by qPCR of selected representative genes that show differential regulation at 1 or 24&#x000a0;hours, with or without association with genomic GR binding. Error bars represents SEM, and * is <italic>p</italic>&#x0003c;0.05 vs. control and ** is <italic>p</italic>&#x0003c;0.05 vs. respective dex treatment. <bold>B</bold>, Isolated neonatal rat ventricular cardiomyocytes plated on glass slides were treated with Ad&#x02010;siGr for 24&#x000a0;hours before dexamethasone treatment for 24&#x000a0;hours. Slides were fixed and stained for &#x003b1;&#x02010;actinin or DAPI. Scale bar 10&#x000a0;&#x003bc;mol/L. <bold>C,</bold> Graph represents cardiomyocyte area as measured using ImageJ software, tabulated and graphed to show change in cell size with treatments, as indicated. Ad&#x02010;siLUC indicates adenovirus expressing short hairpin RNA against luciferase (LUC); Dex, dexamethasone; GR, glucocorticoid receptor; qPCR, quantitative polymerase chain reaction.</p></caption><graphic id="nlm-graphic-13" xlink:href="JAH3-8-e011484-g007"/></fig></sec><sec id="jah33949-sec-0028"><title>Ingenuity Pathway Analysis of Dex&#x02010;Regulated Genes in Cardiomyocytes</title><p>We analyzed the RNAseq data using Ingenuity Pathway Analysis software (IPA, Qiagen, Hilden, Germany) for associated signaling pathways and networks. As seen with DAVID analysis, the 1&#x02010;hour time point showed mostly genes that were involved in transcriptional regulation. Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>A shows a network of genes that regulate transcription, along with their subcellular localization, and change with dex versus control (green is decreased, red increased). Interestingly, almost all genes that have been predicted to inhibit transcription (shown with blue dotted lines) are decreased with dex (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>A), suggesting overall transactivation of transcriptome. We did a similar analysis of the genes that showed differential regulation after 24&#x000a0;hours of dex compared with control cardiomyocytes. IPA listed these genes as involved in cardiac hypertrophy, cardiac failure, cardiac necrosis/cell death, and toward the top of the toxicity list (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>B). IPA toxicity analysis links data to clinical pathology end points using custom toxicity lists and functional groups, thus predicting the association of genes with the relevant clinical pathologies. The figure also shows the top 20 from the list as a bar graph, where a higher &#x02013;log(<italic>P</italic>&#x02010;value) indicates higher significant association, with threshold <italic>P</italic>=0.05 (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>B). We generated a network using the genes categorized under cardiac hypertrophy, which showed &#x0201c;enlargement of heart&#x0201d; as the first group with 54 genes, followed by heart failure, cardiac dysfunction, and infarction (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9C and S9</xref>D, top table). Cardiovascular disease was also listed second in the list for the top diseases and disorders that were associated with the genes that showed change after 24&#x000a0;hours with dex (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>D, middle table). IPA analysis listed cardiovascular system development and function on top of the list with 201 genes, followed by organismal development and survival, and skeletal and muscular system development for physiological system development and function (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S9</xref>D, lower table).</p></sec><sec id="jah33949-sec-0029"><title>In Vivo Dex Injection Results in Similar Transcriptional Changes in Mouse Hearts as Seen in Isolated Cardiomyocytes</title><p>To examine the effects of dex&#x02010;induced GR&#x02010;mediated transcriptional changes in&#x000a0;vivo, we administered mice with dex (10&#x000a0;mg/kg) via intraperitoneal injections. There was no obvious increase in heart weight/body weight or tibia length after 1 or 24&#x000a0;hours of dex injections (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S8</xref>D), and no significant increase was observed in <italic>Myh7</italic>; there was a slight but significant decrease in <italic>Myh6</italic> only after 24&#x000a0;hours (Figure&#x000a0;<xref rid="jah33949-sup-0001" ref-type="supplementary-material">S8</xref>E). We confirmed increase in nuclear GR with dex by Western blotting (Figure&#x000a0;<xref rid="jah33949-fig-0008" ref-type="fig">8</xref>A and <xref rid="jah33949-fig-0008" ref-type="fig">8</xref>B). Not surprisingly, we observed similar transcriptional changes in hearts treated with dex as seen in isolated cardiomyocytes. Significant increases were seen in genes that showed differential regulation in cardiomyocytes after Dex treatment (Figure&#x000a0;<xref rid="jah33949-fig-0008" ref-type="fig">8</xref>C), and genes involved in basic cellular processes showed modest changes in transcript levels, mimicking our in&#x000a0;vitro results from cardiomyocytes treated with dex (Figure&#x000a0;<xref rid="jah33949-fig-0008" ref-type="fig">8</xref>D).</p><fig fig-type="Figure" xml:lang="en" id="jah33949-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Dexamethasone injections result in similar transcriptional changes in mouse hearts as seen in isolated cardiomyocytes. <bold>A</bold>, Western blotting showing GR expression and translocation in mouse hearts after intraperitoneal injections of dexamethasone (10&#x000a0;mg/kg) for 1 or 24&#x000a0;hours. GAPDH and histone 2b were used for compartment specificity and as loading controls. Control n=3, dexamethasone injections n=4, each time point. <bold>B</bold>, Graph represents GR signal intensity normalized to the respective loading controls and presented as relative to the compartmental control samples. Control n=3 and Dex injections n=4, each time point. <bold>C</bold> and <bold>D</bold>, Transcript abundance of selected genes as measured by qPCR in hearts treated with dexamethasone for 1 or 24&#x000a0;hours. Error bars represent SEM, *<italic>P</italic>&#x0003c;0.05 compared with control, n=3 (control), 4 (dexamethasone, each time point). Dex indicates dexamethasone; GR, glucocorticoid receptor; H2b, histone 2b; qPCR, quantitative polymerase chain reaction.</p></caption><graphic id="nlm-graphic-15" xlink:href="JAH3-8-e011484-g008"/></fig><p>Based on our results, we conclude that dex treatment in cardiomyocytes initially (1&#x000a0;hour) causes a change in the expression of genes that are mostly direct GR targets (68 out of 98), of which at least 37% are known transcriptional regulators. After 24&#x000a0;hours, 54% of differentially regulated genes are not associated with GR genomic binding and could be indirect GR targets or secondary to developing hypertrophy. These changes in transcriptome induce and contribute to the GR&#x02010;dependent cardiomyocyte hypertrophy.</p></sec></sec><sec id="jah33949-sec-0030"><title>Discussion</title><p>Gcs, &#x0201c;stress hormones&#x0201d; secreted from the adrenal cortex, affect almost all tissues by acting as a ligand to nuclear receptor subfamily 3, group C, member 1 to mediate transcriptional changes of target genes. High levels of circulating corticosteroids due to an increase in endogenous secretion or exogenous administration for long periods can lead to the condition known as Cushing syndrome or hypercortisolism, which is characterized by hypertension, obesity, diabetes mellitus, weak and atrophic muscles, along with other physical manifestations.<xref rid="jah33949-bib-0043" ref-type="ref">43</xref> Case studies have shown congestive cardiac failure with left ventricular hypertrophy and dysfunction in these individuals, with reversal of the observed phenotype following correction of hypercortisolism.<xref rid="jah33949-bib-0044" ref-type="ref">44</xref>, <xref rid="jah33949-bib-0045" ref-type="ref">45</xref>, <xref rid="jah33949-bib-0046" ref-type="ref">46</xref>, <xref rid="jah33949-bib-0047" ref-type="ref">47</xref> Synthetic corticosteroids are frequently used in clinics as potent anti&#x02010;inflammatory agents, with treatment schedules extending from single doses to extended periods of time. Although the contribution of Gcs in development and disease has been studied before, the advent of new, advanced genome&#x02010;wide sequencing technologies has allowed a more detailed examination of the downstream targets, transcriptional changes, and the phenotypic outcome of Gc&#x02010;GR signaling. In this study we examined GR signaling in cardiomyocytes using high&#x02010;throughput GR ChIP and RNA sequencing on the cardiac genome and resulting changes in the transcriptome. Here we report the full array of target genes that are regulated with dex treatment along with GR genomic binding dynamics.</p><p>Our GR ChIP&#x02010;Seq data identified 11&#x000a0;658 active regions/binding sites correlating with 7080 genes, of which 6482 genes show &#x0003e;2&#x02010;fold change in GR peak value in the cardiac genome after dex treatment for 1&#x000a0;hour compared with control. These data are in agreement with reports in mouse mammary cells and pituitary AtT&#x02010;20 cells showing 8236 binding sites after 1&#x000a0;hour of dex<xref rid="jah33949-bib-0033" ref-type="ref">33</xref> and A549 human lung epithelial cells with 4392 and 29&#x000a0;432 sites after 1 and 3&#x000a0;hours of dex, respectively.<xref rid="jah33949-bib-0034" ref-type="ref">34</xref>, <xref rid="jah33949-bib-0035" ref-type="ref">35</xref> We speculate that the difference in number of sites identified could be due to differences in chromatin accessibility in terminally differentiated cardiomyocytes versus proliferating cell lines, or it may be due to technical differences in ChIP reaction or depth of sequencing. A recent study examined co&#x02010;occupancy of cardiac transcription factors in HL1 cells, which showed number of peaks ranging from 56&#x000a0;362 for TBX5 to 1339 for Mef2A.<xref rid="jah33949-bib-0048" ref-type="ref">48</xref> Therefore, even with large coverage and binding regions in the cardiac genome, Glucocorticoid Response Element (GRE) is not the top predicted transcription factor binding site.</p><p>Our RNAseq data also agree with the study in A549 cells, where Reddy et&#x000a0;al saw differential regulation of 209 genes after 1&#x000a0;hour of dex and identified mostly genes involved in transcription regulation from the pol II promoter, apoptosis, anatomical structural development, and regulation of gene expression.<xref rid="jah33949-bib-0034" ref-type="ref">34</xref> Our RNAseq data with the 24&#x02010;hour time point identified novel genes involved in growth&#x02010;related signaling pathways, such as calcium signaling or regulation of actin cytoskeletal regulation, that contribute to the hypertrophic phenotype along with other known hypertrophic pathways. In 2012 Ren et&#x000a0;al examined genes regulated by dex treatment after 6, 24, and 48&#x000a0;hours in H9c2 cells cultured under serum and serum&#x02010;free conditions by microarray analysis.<xref rid="jah33949-bib-0010" ref-type="ref">10</xref> In contrast to our results, which showed changes in transcript levels of 695 genes, microarray data in the Ren et&#x000a0;al study showed differential regulation of 4793 genes and 2454 genes after the 24&#x02010;hour time point in serum or serum&#x02010;free conditions, respectively, of which 48 genes were associated with cardiac hypertrophy signaling by Ingenuity pathway analysis.<xref rid="jah33949-bib-0010" ref-type="ref">10</xref> We confirmed the increase in 18% of these 48 genes in our neonatal rat cardiomyocytes treated with 24&#x000a0;hours of dex by RNAseq. We believe that the cell type, nature of culturing conditions and treatments, and the method of transcriptome analysis could explain the difference in the data output, however, we did observe the same phenotype of increase in cell size after 24&#x000a0;hours of dex treatment. Cardiac&#x02010;specific GR knockout mice develop left ventricular dilatation, atrial thrombosis and fibrosis, and systolic dysfunction as early as 3&#x000a0;months of age with development of fulminant cardiac failure by 6&#x000a0;months, indicating that Gc&#x02010;GR signaling is essential for the prevention of heart disease.<xref rid="jah33949-bib-0014" ref-type="ref">14</xref> This agrees with the critical role of glucocorticoid signaling at birth, where Gc mediates the switch of heart growth from cardiomyocyte proliferation to hypertrophy.<xref rid="jah33949-bib-0007" ref-type="ref">7</xref>
+</p><p>This is the first study correlating GR ChIP&#x02010;Seq and RNAseq data in cardiomyocytes, through which we have identified novel genomic targets of GR in cardiomyocytes after 1 and 24&#x000a0;hours of dex. An interesting observation was that a majority of genes (88.61%) with GR association did not show a significant change in transcript abundance. These data agree with results by Vockley et&#x000a0;al, who used a reporter assay to show that 84% of the gGRb results in a modest change in reporter activity.<xref rid="jah33949-bib-0035" ref-type="ref">35</xref> Gene ontology categorized these genes as those that are involved in basic cellular processes and expressed constitutively in cardiac cells under physiological and hypertrophic conditions, which is noteworthy because our previous study in mice showed similar changes in these genes mediated by promoter clearance of paused RNA pol II in hypertrophied hearts compared with sham.<xref rid="jah33949-bib-0026" ref-type="ref">26</xref> Although we did confirm a decrease in promoter RNA pol II occupancy with dex treatments in representative genes, which suggests clearance of paused RNA pol II, further examination of genome&#x02010;wide pol II occupancy and epigenetic changes is needed to verify the proposed mechanisms of regulation of these genes with gGRb but modest changes in transcription. Promoter proximal RNA pol II pausing has been shown to be widespread as a rate&#x02010;limiting step for transcription.<xref rid="jah33949-bib-0026" ref-type="ref">26</xref>, <xref rid="jah33949-bib-0049" ref-type="ref">49</xref>, <xref rid="jah33949-bib-0050" ref-type="ref">50</xref> Thus, GR association to these genes might be regulating this transcriptional mode, resulting in small changes in transcriptional output that may be required, and might contribute to cardiomyocyte hypertrophy.</p><p>We identified several novel direct and secondary targets of GR in cardiomyocytes, such as <italic>Abra1, Klf10,</italic> and <italic>Lrrc10,</italic> along with several others that have not previously been associated with Gc&#x02010;GR signaling, to the best of our knowledge. <italic>Abra1</italic> (the gene encoding actin&#x02010;binding rho&#x02010;activating protein), also known as Myocyte Stress&#x02010;1 (MS1) or striated muscle activator of Rho signaling, was identified as a gene that is highly expressed in muscle within 4&#x000a0;hours of pressure overload, before an actual increase in heart weight, which suggests a&#x000a0;role in the induction of cardiac hypertrophy.<xref rid="jah33949-bib-0039" ref-type="ref">39</xref> Subsequent&#x000a0;studies further confirmed the role of <italic>Abra1</italic> in the development of cardiac and skeletal muscle hypertrophy when these are subjected to work overload, where the gene mediates nuclear translocation of serum response factor coactivators, myocardin&#x02010;related transcription factors A and B.<xref rid="jah33949-bib-0051" ref-type="ref">51</xref>, <xref rid="jah33949-bib-0052" ref-type="ref">52</xref> Our data show that <italic>Abra1</italic> increases significantly after 1 and 24&#x000a0;hours of dex compared with control cardiomyocytes. Kruppel&#x02010;like factor 10 (<italic>Klf10</italic>), also known as TGF&#x003b2;&#x02010;inducible early gene&#x02010;1, is a member of zinc finger family Kruppel&#x02010;like transcription factors. <italic>Klf10</italic> functions as a tumor suppressor and antiproliferative in cancer cells.<xref rid="jah33949-bib-0040" ref-type="ref">40</xref>
+<italic>Klf10</italic>&#x02010;knockout male mice develop cardiac hypertrophy and fibrosis by 16&#x000a0;months of age.<xref rid="jah33949-bib-0053" ref-type="ref">53</xref>
+<italic>Klf10</italic> mutations have also been associated with the development of hypertrophic cardiomyopathy in humans, which mimics the phenotype observed in knockout mice with respect to late onset.<xref rid="jah33949-bib-0054" ref-type="ref">54</xref> We see an early decrease in <italic>Klf10</italic> after 1&#x000a0;hour of dex, which returns to normal levels by 6&#x000a0;hours and is maintained at 24&#x000a0;hours, suggesting a role in induction of cardiomyocyte growth. Studies have also shown involvement of other genes that are regulated as early as 1&#x000a0;hour, such as <italic>Pdk4</italic>
+<xref rid="jah33949-bib-0041" ref-type="ref">41</xref> and <italic>Sgk1,</italic>
+<xref rid="jah33949-bib-0042" ref-type="ref">42</xref> in the development of hypertrophic cardiomyopathy. With respect to the 24&#x02010;hour time point, functional annotation of our data revealed change in growth&#x02010;related pathways involving a network of several genes that are involved in the development of hypertrophy and failure.</p><p>In conclusion, in this study we have systematically characterized GR signaling and the resulting change in the transcriptome in cardiomyocytes. Moreover, we have identified known and novel targets of activated GR in cardiomyocytes, which play a role in the development of dex&#x02010;induced cardiomyocyte hypertrophy.</p></sec><sec id="jah33949-sec-0032"><title>Author Contributions</title><p>E.S., S.A., and W.D. performed experiments; P.D. helped in IPA (Qiagen, Hilden, Germany) analysis of RNAseq data; N.S. was involved in article preparation; D.S. designed and performed experiments, performed data analysis with figures, and wrote the article.</p></sec><sec id="jah33949-sec-0033"><title>Sources of Funding</title><p>This work was supported by National Institutes of Health funding to the corresponding author (1R01HL128799).</p></sec><sec id="jah33949-sec-0034"><title>Disclosures</title><p>None.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah33949-sup-0001"><caption><p>
+<bold>Figure&#x000a0;S1.</bold> Isolated adult mouse ventricular cardiomyocytes treated with Dex exhibit GR nuclear translocation and cardiomyocyte hypertrophy. <bold>A</bold>, Cardiomyocytes were treated with ethanol (control) or Dex (100&#x000a0;nmol/L) for increasing time periods of 1 or 24&#x000a0;hours, as indicated. Cardiomyocytes were fixed and stained for GR (red) and DAPI (blue). Scale bar 10&#x000a0;&#x003bc;mol/L. <bold>B</bold>, Isolated cultured adult mouse cardiomyocytes were treated with ethanol or Dex for 24&#x000a0;hours. Phase contrast images are shown for cell size and quality of cardiomyocytes. <bold>C</bold>, ImageJ was used to measure cardiomyocyte surface area from 2 independent cultures, tabulated and graphed as a box plot using Prism7 (GraphPad, La Jolla, CA). *<italic>P</italic>&#x0003c;0.05. Dex indicates dexamethasone; GR, glucocorticoid receptor.</p><p>
+<bold>Figure&#x000a0;S2</bold>. GR binding and distribution across cardiac genome in neonatal cardiomyocytes treated with Dex. <bold>A</bold>, Heatmap showing the tag distributions across active regions (values in z&#x02010;axis/color, active regions in y&#x02010;axis) in control, Dex&#x02010;treated, and input samples. The data are presented in 5 clusters (default), C1 to C5, and sorted. <bold>B</bold>, Average plots of tag distributions of active regions at the transcription start site (TSS), and gene bodies are shown for control (red), Dex&#x02010;treated (blue), and input sampled (green). <bold>C</bold>, MEME/TOMTOM motif search identifies GRE in the top 1000 peaks from GR ChIP&#x02010;Seq. <bold>D</bold>, Pie chart showing the percentage of genes associated with a single active region (AcR), which represents genomic GR binding site vs multiple AcRs. <bold>E</bold>, Pie chart showing locations of GR binding peaks relative to genomic annotations is presented as observed in control and Dex&#x02010;treated samples. Dex indicates dexamethasone; GR, glucocorticoid receptor;</p><p>
+<bold>Figure&#x000a0;S3</bold>. Genes differentially regulated after 1 hour of Dex treatment in neonatal cardiomyocytes. <bold>A</bold>, Chart&#x000a0;showing genes that are regulated after 1&#x000a0;hour of Dex treatment with and without GR binding. Log2&#x02010;fold change (Log2FC) is shown for GR ChIP&#x02010;Seq and RNAseq data. Color scheme shows the increase (green) or decrease (red) with the color intensity corresponding to the Log2FC values. Because some genes have multiple GR binding sites, the average peak values are shown for the gene and the active region with highest peak value. Dex indicates dexamethasone; GR, glucocorticoid receptor; Log2FC, log2&#x02010;fold change.</p><p>
+<bold>Figure&#x000a0;S4</bold>. Functional annotation of genes regulated after 1&#x000a0;hour of Dex in neonatal cardiomyocytes using DAVID Bioinformatics Resources. Genes differentially regulated after 1&#x000a0;hour of Dex treatment were uploaded onto the DAVID Bioinformatics Resources for functional annotation. The screenshot shows the top 38 GOTERM identified by DAVID. DAVID indicates Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone;</p><p>
+<bold>Figure&#x000a0;S5</bold>. Genes differentially regulated after 1&#x000a0;hour of Dex treatment with no GR association in neonatal cardiomyocytes. <bold>A</bold>, Graph represents genes that show significant differential regulation at 1 and 24&#x000a0;hours of Dex treatment but are not associated with genomic GR binding. <bold>B</bold>, Integrated genomic viewer (IGV) screenshots of selected representative genes with aligned RNAseq and GR ChIP&#x02010;Seq data, after Dex treatment compared with control (ethanol) cardiomyocytes. Arrows indicate the direction of transcription of those genes, and numbers in brackets in the Y axis indicate the values on signal tracks for GR ChIP&#x02010;Seq and RNAseq for each gene. The values were kept the same within the samples for each gene. <bold>C</bold>, Transcript abundance of selected genes as measured by qPCR in cardiomyocytes treated with Dex for 1, 6, or 24&#x000a0;hours. Error bars represent SEM, *<italic>P</italic>&#x0003c;0.05 compared with control, n=3. <bold>D</bold>, Functional annotation of genes that showed significant differential regulation after 1&#x000a0;hour of Dex treatment and were not associated with GR, analyzed using the DAVID Bioinformatics Resources. ChIP&#x02010;Seq indicates chromatin immunoprecipitation sequencing; DAVID, Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone; GR, glucocorticoid receptor; qPCR, quantitative polymerase chain reaction; RNAseq, RNA sequencing.</p><p>
+<bold>Figure&#x000a0;S6</bold>. Functional annotation of gene regulation after 24&#x000a0;hours of Dex in neonatal cardiomyocytes using the DAVID Bioinformatics Resources. Genes differentially regulated only at the 24&#x02010;hour time point after Dex treatment compared with control cardiomyocytes were uploaded onto DAVID Bioinformatics Resources for functional annotation. The screenshot shows the 42 pathways associated with the genes as identified by the KEGG pathway. DAVID indicates Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone; KEGG, Kyoto Encyclopedia of Genes and Genomes.</p><p>
+<bold>Figure&#x000a0;S7</bold>. Functional annotation of genes with associated GR binding but no significant change in transcript abundance. Genes that were associated with GR binding but did not show significant differential change in transcript abundance on RNAseq were loaded onto DAVID Bioinformatics Resources for functional annotation. Screenshot shows top 48 pathways associated with genes as identified KEGG pathways. DAVID indicates Database for Annotation, Visualization and Integrated Discovery; Dex, dexamethasone; KEGG, Kyoto Encyclopedia of Genes and Genomes; RNAseq, RNA sequencing.</p><p>
+<bold>Figure&#x000a0;S8</bold>. <bold>A</bold>, Screenshot of representative genes from RNA pol II ChIP&#x02010;Seq data in mice subjected to sham or TAC operations, showing promoter&#x02010;paused RNA pol II peaks (red arrows) in sham hearts vs promoter clearance of these peaks (green arrow) in TAC hearts. <bold>B</bold>, RNA pol II occupancy and dynamics on genes after sham or TAC operations in mice that show significant change in transcript abundance in neonatal cardiomyocytes after Dex. These data have been described in detail in a previous publication<sup>27</sup> and have been uploaded to GEO series GSE50637. <bold>C</bold>, RNA pol II&#x02013;ChIP&#x02010;qPCR was performed encompassing transcription start sites (TSS) for <italic>Trapp6b</italic> and <italic>Mapk1</italic>. The graph shows relative fold enrichment of bound RNA pol II IgG at TSS with Dex treatments for 1 hour or 24&#x000a0;hours vs control. Error bars represent SEM, *<italic>P</italic>&#x0003c;0.05. <bold>D</bold>, Graph represents heart weight (HW) to body weight (BW) or tibia length (TL) ratio from mice injected with dexamethasone for 1 or 24&#x000a0;hours. <bold>E</bold>, Graph represents relative <italic>myh6</italic> (&#x003b1;&#x02010;myosin heavy chain) and <italic>myh7</italic> (&#x003b2;&#x02010;myosin heavy chain) transcript abundance in mouse hearts injected with dexamethasone for 1 or 24&#x000a0;hours, as indicated. Error bars for <bold>C</bold> and <bold>D</bold> indicate SEM, and *<italic>P</italic>&#x0003c;0.05. n=3 to 4. ChIP&#x02010;Seq indicates chromatin immunoprecipitation sequencing; Dex, dexamethasone; qPCR, quantitative polymerase chain reaction;</p><p>
+<bold>Figure&#x000a0;S9</bold>. Pathway analysis confirms Dex induction of cardiac hypertrophy&#x02010;related genes. <bold>A</bold>, Genes involved in a transcription network and differentially regulated after 1&#x000a0;hour of Dex treatment vs control cardiomyocytes are presented as generated by Ingenuity Pathway Analysis (IPA, Qiagen, Hilden, Germany) software and with respect to their subcellular localization. <bold>B</bold>, Screenshot of IPA&#x02010;Tox list from IPA Software showing the genes that may be involved in toxicity function among the genes regulated after 24&#x000a0;hours of Dex vs controls. The top 20 of the list are shown in the graph, where the X axis represents the functional list, and the Y axis is &#x02013;log(<italic>P</italic>&#x02010;value). The higher the &#x02013;log(<italic>P</italic>&#x02010;value), the more significant the association is. The threshold is <italic>P</italic>=0.05, and the ratio shown is the extent of overlap of data with the Tox list. The top 5 from the graph are shown in the table below, with <italic>P</italic> values. <bold>C</bold>, Genes differentially regulated after 24&#x000a0;hours of Dex treatment vs control and identified by IPA as involved in enlargement of the heart are presented as a network generated by IPA Software. Enlargement of the heart (cardiac enlargement) was identified as the first category in the cardiac hypertrophy list. <bold>D</bold>, Tables showing the top Tox cardiotoxicity&#x02010;related function, top diseases and disorders, and top physiological systems&#x02019; development and function. The tables include the names, <italic>P</italic>&#x02010;values, and number of genes (#molecules) associated. Genes differentially regulated only at the 24&#x02010;hour time point with Dex treatment vs control were used for these analyses. Dex indicates dexamethasone.</p></caption><media xlink:href="JAH3-8-e011484-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah33949-sup-0002"><caption><p>
+<bold>Table&#x000a0;S1.</bold> List of Taqman qPCR assays. The table list the assays used for qPCR of genes, as indicated. The List also shows the assay ID used for ordering Taqman assays from ThermoFisher Scientific.</p></caption><media xlink:href="JAH3-8-e011484-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah33949-sup-0003"><caption><p>
+<bold>Table&#x000a0;S2.</bold> Genes with differential regulation after 1hr or 24hrs of Dex treatments in cardiomyocytes.</p></caption><media xlink:href="JAH3-8-e011484-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah33949-sup-0004"><caption><p>
+<bold>Table&#x000a0;S3.</bold> List of genes that show differential regulation after 24hrs of Dex treatment in cardiomyocytes.</p></caption><media xlink:href="JAH3-8-e011484-s004.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah33949-sec-0031"><title>Acknowledgments</title><p>We thank Dr Abdellatif, Professor, department of Cell Biology and molecular Medicine and Dr Sadoshima, Chair of the Department of Cell Biology and Molecular Medicine, Rutgers New Jersey Medical School, for support.</p></ack><ref-list content-type="cited-references" id="jah33949-bibl-0001"><title>References</title><ref id="jah33949-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah33949-cit-0001">
+<string-name>
+<surname>Munck</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Guyre</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Holbrook</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Physiological functions of glucocorticoids in stress and their relation to pharmacological actions</article-title>. <source xml:lang="en">Endocr Rev</source>. <year>1984</year>;<volume>5</volume>:<fpage>25</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">6368214</pub-id></mixed-citation></ref><ref id="jah33949-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah33949-cit-0002">
+<string-name>
+<surname>Ong</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Mineralocorticoid regulation of cell function: the role of rapid signalling and gene transcription pathways</article-title>. <source xml:lang="en">J Mol Endocrinol</source>. <year>2017</year>;<volume>58</volume>:<fpage>R33</fpage>&#x02013;<lpage>R57</lpage>.<pub-id pub-id-type="pmid">27821439</pub-id></mixed-citation></ref><ref id="jah33949-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah33949-cit-0003">
+<collab collab-type="authors">Funder JW</collab>
+. <article-title>Glucocorticoid and mineralocorticoid receptors: biology and clinical relevance</article-title>. <source xml:lang="en">Annu Rev Med</source>. <year>1997</year>;<volume>48</volume>:<fpage>231</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">9046958</pub-id></mixed-citation></ref><ref id="jah33949-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah33949-cit-0004">
+<string-name>
+<surname>Pratt</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Morishima</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Harrell</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Chaperoning of glucocorticoid receptors</article-title>. <source xml:lang="en">Handb Exp Pharmacol</source>. <year>2006</year>;<volume>172</volume>:<fpage>111</fpage>&#x02013;<lpage>138</lpage>.</mixed-citation></ref><ref id="jah33949-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah33949-cit-0005">
+<string-name>
+<surname>Pratt</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Toft</surname>
+<given-names>DO</given-names>
+</string-name>. <article-title>Steroid receptor interactions with heat shock protein and immunophilin chaperones</article-title>. <source xml:lang="en">Endocr Rev</source>. <year>1997</year>;<volume>18</volume>:<fpage>306</fpage>&#x02013;<lpage>360</lpage>.<pub-id pub-id-type="pmid">9183567</pub-id></mixed-citation></ref><ref id="jah33949-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah33949-cit-0006">
+<string-name>
+<surname>Echeverria</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Picard</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Molecular chaperones, essential partners of steroid hormone receptors for activity and mobility</article-title>. <source xml:lang="en">Biochim Biophys Acta</source>. <year>2010</year>;<volume>1803</volume>:<fpage>641</fpage>&#x02013;<lpage>649</lpage>.<pub-id pub-id-type="pmid">20006655</pub-id></mixed-citation></ref><ref id="jah33949-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah33949-cit-0007">
+<string-name>
+<surname>Richardson</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name>
+<surname>Batchen</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Denvir</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Cardiac GR and MR: from development to pathology</article-title>. <source xml:lang="en">Trends Endocrinol Metab</source>. <year>2016</year>;<volume>27</volume>:<fpage>35</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">26586027</pub-id></mixed-citation></ref><ref id="jah33949-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah33949-cit-0008">
+<string-name>
+<surname>Ohtani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hikoso</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sakata</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nishio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takeda</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Otsu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miwa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Masuyama</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hori</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Cardiac steroidogenesis and glucocorticoid in the development of cardiac hypertrophy during the progression to heart failure</article-title>. <source xml:lang="en">J Hypertens</source>. <year>2009</year>;<volume>27</volume>:<fpage>1074</fpage>&#x02013;<lpage>1083</lpage>.<pub-id pub-id-type="pmid">19349910</pub-id></mixed-citation></ref><ref id="jah33949-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah33949-cit-0009">
+<string-name>
+<surname>Guder</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bauersachs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Frantz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Weismann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Allolio</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ertl</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Angermann</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Stork</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Complementary and incremental mortality risk prediction by cortisol and aldosterone in chronic heart failure</article-title>. <source xml:lang="en">Circulation</source>. <year>2007</year>;<volume>115</volume>:<fpage>1754</fpage>&#x02013;<lpage>1761</lpage>.<pub-id pub-id-type="pmid">17372171</pub-id></mixed-citation></ref><ref id="jah33949-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah33949-cit-0010">
+<string-name>
+<surname>Ren</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Oakley</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Cruz&#x02010;Topete</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cidlowski</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Dual role for glucocorticoids in cardiomyocyte hypertrophy and apoptosis</article-title>. <source xml:lang="en">Endocrinology</source>. <year>2012</year>;<volume>153</volume>:<fpage>5346</fpage>&#x02013;<lpage>5360</lpage>.<pub-id pub-id-type="pmid">22989630</pub-id></mixed-citation></ref><ref id="jah33949-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah33949-cit-0011">
+<string-name>
+<surname>La Mear</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>MacGilvray</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>TF</given-names>
+</string-name>. <article-title>Dexamethasone&#x02010;induced myocardial hypertrophy in neonatal rats</article-title>. <source xml:lang="en">Biol Neonate</source>. <year>1997</year>;<volume>72</volume>:<fpage>175</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">9303216</pub-id></mixed-citation></ref><ref id="jah33949-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah33949-cit-0012">
+<string-name>
+<surname>Whitehurst</surname>
+<given-names>RM</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bhattacharjee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dexamethasone&#x02010;induced hypertrophy in rat neonatal cardiac myocytes involves an elevated L&#x02010;type Ca(2+) current</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>1999</year>;<volume>31</volume>:<fpage>1551</fpage>&#x02013;<lpage>1558</lpage>.<pub-id pub-id-type="pmid">10423352</pub-id></mixed-citation></ref><ref id="jah33949-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah33949-cit-0013">
+<string-name>
+<surname>Lister</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Autelitano</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hannan</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Sheppard</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Cross talk between corticosteroids and alpha&#x02010;adrenergic signalling augments cardiomyocyte hypertrophy: a possible role for SGK1</article-title>. <source xml:lang="en">Cardiovasc Res</source>. <year>2006</year>;<volume>70</volume>:<fpage>555</fpage>&#x02013;<lpage>565</lpage>.<pub-id pub-id-type="pmid">16533503</pub-id></mixed-citation></ref><ref id="jah33949-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah33949-cit-0014">
+<string-name>
+<surname>Oakley</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cruz&#x02010;Topete</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bird</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Boyle</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Willis</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Cidlowski</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Essential role of stress hormone signaling in cardiomyocytes for the prevention of heart disease</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2013</year>;<volume>110</volume>:<fpage>17035</fpage>&#x02013;<lpage>17040</lpage>.<pub-id pub-id-type="pmid">24082121</pub-id></mixed-citation></ref><ref id="jah33949-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah33949-cit-0015">
+<string-name>
+<surname>de Vries</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>van der Leij</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Bakker</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kamphuis</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>van Oosterhout</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Schipper</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Smid</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name>
+<surname>Bartelds</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>van Bel</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Alterations in adult rat heart after neonatal dexamethasone therapy</article-title>. <source xml:lang="en">Pediatr Res</source>. <year>2002</year>;<volume>52</volume>:<fpage>900</fpage>&#x02013;<lpage>906</lpage>.<pub-id pub-id-type="pmid">12438668</pub-id></mixed-citation></ref><ref id="jah33949-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah33949-cit-0016">
+<string-name>
+<surname>de Vries</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Bal</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Homoet&#x02010;van der Kraak</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kamphuis</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>van der Leij</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Baan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Steendijk</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>de Weger</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>van Bel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>van Oosterhout</surname>
+<given-names>MF</given-names>
+</string-name>. <article-title>Suppression of physiological cardiomyocyte proliferation in the rat pup after neonatal glucocorticosteroid treatment</article-title>. <source xml:lang="en">Basic Res Cardiol</source>. <year>2006</year>;<volume>101</volume>:<fpage>36</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">16283594</pub-id></mixed-citation></ref><ref id="jah33949-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah33949-cit-0017">
+<string-name>
+<surname>Rog&#x02010;Zielinska</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kenyon</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Brownstein</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Szumska</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Michailidou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Owen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Watt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Bhattacharya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Holmes</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Glucocorticoid receptor is required for foetal heart maturation</article-title>. <source xml:lang="en">Hum Mol Genet</source>. <year>2013</year>;<volume>22</volume>:<fpage>3269</fpage>&#x02013;<lpage>3282</lpage>.<pub-id pub-id-type="pmid">23595884</pub-id></mixed-citation></ref><ref id="jah33949-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah33949-cit-0018">
+<string-name>
+<surname>Gay</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Dasgupta</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kanna</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Dexamethasone induces cardiomyocyte terminal differentiation via epigenetic repression of cyclin D2 gene</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>. <year>2016</year>;<volume>358</volume>:<fpage>190</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">27302109</pub-id></mixed-citation></ref><ref id="jah33949-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah33949-cit-0019">
+<string-name>
+<surname>Macfarlane</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Forbes</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Walker</surname>
+<given-names>BR</given-names>
+</string-name>. <article-title>Glucocorticoids and fatty acid metabolism in humans: fuelling fat redistribution in the metabolic syndrome</article-title>. <source xml:lang="en">J Endocrinol</source>. <year>2008</year>;<volume>197</volume>:<fpage>189</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">18434349</pub-id></mixed-citation></ref><ref id="jah33949-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah33949-cit-0020">
+<string-name>
+<surname>Yoshikawa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Nagasaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tokudome</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ueno</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Imoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Miyano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Suematsu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fukuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Morimoto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Ligand&#x02010;based gene expression profiling reveals novel roles of glucocorticoid receptor in cardiac metabolism</article-title>. <source xml:lang="en">Am J Physiol Endocrinol Metab</source>. <year>2009</year>;<volume>296</volume>:<fpage>E1363</fpage>&#x02013;<lpage>E1373</lpage>.<pub-id pub-id-type="pmid">19293335</pub-id></mixed-citation></ref><ref id="jah33949-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah33949-cit-0021">
+<string-name>
+<surname>Takeshita</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hattori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nagasawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Matsuura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Murohara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nagata</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Blockade of glucocorticoid receptors with RU486 attenuates cardiac damage and adipose tissue inflammation in a rat model of metabolic syndrome</article-title>. <source xml:lang="en">Hypertension Res</source>. <year>2015</year>;<volume>38</volume>:<fpage>741</fpage>&#x02013;<lpage>750</lpage>.</mixed-citation></ref><ref id="jah33949-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah33949-cit-0022">
+<string-name>
+<surname>De</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Kar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhyay</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Excess of glucocorticoid induces myocardial remodeling and alteration of calcium signaling in cardiomyocytes</article-title>. <source xml:lang="en">J Endocrinol</source>. <year>2011</year>;<volume>209</volume>:<fpage>105</fpage>&#x02013;<lpage>114</lpage>.<pub-id pub-id-type="pmid">21282255</pub-id></mixed-citation></ref><ref id="jah33949-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah33949-cit-0023">
+<string-name>
+<surname>Roy</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>De</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chander</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Konar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhyay</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhyay</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Excess of glucocorticoid induces cardiac dysfunction via activating angiotensin II pathway</article-title>. <source xml:lang="en">Cell Physiol Biochem</source>. <year>2009</year>;<volume>24</volume>:<fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">19590187</pub-id></mixed-citation></ref><ref id="jah33949-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah33949-cit-0024">
+<string-name>
+<surname>Lee</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Youm</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Dizon</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Ko</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Rhee</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Non&#x02010;genomic effect of glucocorticoids on cardiovascular system</article-title>. <source xml:lang="en">Pflugers Arch</source>. <year>2012</year>;<volume>464</volume>:<fpage>549</fpage>&#x02013;<lpage>559</lpage>.<pub-id pub-id-type="pmid">23001133</pub-id></mixed-citation></ref><ref id="jah33949-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah33949-cit-0025">
+<string-name>
+<surname>He</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Abdellatif</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sayed</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>GTPase activating protein (Sh3 domain) binding protein 1 regulates the processing of microRNA&#x02010;1 during cardiac hypertrophy</article-title>. <source xml:lang="en">PLoS One</source>. <year>2015</year>;<volume>10</volume>:<fpage>e0145112</fpage>.<pub-id pub-id-type="pmid">26675618</pub-id></mixed-citation></ref><ref id="jah33949-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah33949-cit-0026">
+<string-name>
+<surname>Sayed</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Abdellatif</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Transcriptional regulation patterns revealed by high resolution chromatin immunoprecipitation during cardiac hypertrophy</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2013</year>;<volume>288</volume>:<fpage>2546</fpage>&#x02013;<lpage>2558</lpage>.<pub-id pub-id-type="pmid">23229551</pub-id></mixed-citation></ref><ref id="jah33949-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah33949-cit-0027">
+<string-name>
+<surname>Sayed</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pfleger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Abdellatif</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Acute targeting of general transcription factor IIB restricts cardiac hypertrophy via selective inhibition of gene transcription</article-title>. <source xml:lang="en">Circ Heart Fail</source>. <year>2015</year>;<volume>8</volume>:<fpage>138</fpage>&#x02013;<lpage>148</lpage>.<pub-id pub-id-type="pmid">25398966</pub-id></mixed-citation></ref><ref id="jah33949-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah33949-cit-0028">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Eeckhoute</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Nusbaum</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>XS</given-names>
+</string-name>. <article-title>Model&#x02010;based analysis of ChIP&#x02010;Seq (MACS)</article-title>. <source xml:lang="en">Genome Biol</source>. <year>2008</year>;<volume>9</volume>:<fpage>R137</fpage>.<pub-id pub-id-type="pmid">18798982</pub-id></mixed-citation></ref><ref id="jah33949-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah33949-cit-0029">
+<string-name>
+<surname>Babicki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Arndt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Marcu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Maciejewski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wishart</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Heatmapper: web&#x02010;enabled heat mapping for all</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2016</year>;<volume>44</volume>:<fpage>W147</fpage>&#x02013;<lpage>W153</lpage>.<pub-id pub-id-type="pmid">27190236</pub-id></mixed-citation></ref><ref id="jah33949-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah33949-cit-0030">
+<string-name>
+<surname>Robinson</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Thorvaldsdottir</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Winckler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Guttman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lander</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Getz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mesirov</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Integrative genomics viewer</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2011</year>;<volume>29</volume>:<fpage>24</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">21221095</pub-id></mixed-citation></ref><ref id="jah33949-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah33949-cit-0031">
+<string-name>
+<surname>Sayed</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>IY</given-names>
+</string-name>, <string-name>
+<surname>Lypowy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Abdellatif</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MicroRNAs play an essential role in the development of cardiac hypertrophy</article-title>. <source xml:lang="en">Circ Res</source>. <year>2007</year>;<volume>100</volume>:<fpage>416</fpage>&#x02013;<lpage>424</lpage>.<pub-id pub-id-type="pmid">17234972</pub-id></mixed-citation></ref><ref id="jah33949-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah33949-cit-0032">
+<string-name>
+<surname>Schneider</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Rasband</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Eliceiri</surname>
+<given-names>KW</given-names>
+</string-name>. <article-title>NIH Image to ImageJ: 25 years of image analysis</article-title>. <source xml:lang="en">Nat Methods</source>. <year>2012</year>;<volume>9</volume>:<fpage>671</fpage>&#x02013;<lpage>675</lpage>.<pub-id pub-id-type="pmid">22930834</pub-id></mixed-citation></ref><ref id="jah33949-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah33949-cit-0033">
+<string-name>
+<surname>John</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sabo</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Thurman</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Sung</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Biddie</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Hager</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Stamatoyannopoulos</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Chromatin accessibility pre&#x02010;determines glucocorticoid receptor binding patterns</article-title>. <source xml:lang="en">Nat Genet</source>. <year>2011</year>;<volume>43</volume>:<fpage>264</fpage>&#x02013;<lpage>268</lpage>.<pub-id pub-id-type="pmid">21258342</pub-id></mixed-citation></ref><ref id="jah33949-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah33949-cit-0034">
+<string-name>
+<surname>Reddy</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Pauli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sprouse</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Neff</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name>
+<surname>Newberry</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Garabedian</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Genomic determination of the glucocorticoid response reveals unexpected mechanisms of gene regulation</article-title>. <source xml:lang="en">Genome Res</source>. <year>2009</year>;<volume>19</volume>:<fpage>2163</fpage>&#x02013;<lpage>2171</lpage>.<pub-id pub-id-type="pmid">19801529</pub-id></mixed-citation></ref><ref id="jah33949-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah33949-cit-0035">
+<string-name>
+<surname>Vockley</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>D'Ippolito</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>McDowell</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Majoros</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Safi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>
+<given-names>TE</given-names>
+</string-name>. <article-title>Direct GR binding sites potentiate clusters of TF binding across the human genome</article-title>. <source xml:lang="en">Cell</source>. <year>2016</year>;<volume>166</volume>:<fpage>1269</fpage>&#x02013;<lpage>1281</lpage>. e19<pub-id pub-id-type="pmid">27565349</pub-id></mixed-citation></ref><ref id="jah33949-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah33949-cit-0036">
+<string-name>
+<surname>Tully</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Cidlowski</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>pBR322 contains glucocorticoid regulatory element DNA consensus sequences</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>1987</year>;<volume>144</volume>:<fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">3579897</pub-id></mixed-citation></ref><ref id="jah33949-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah33949-cit-0037">
+<string-name>
+<surname>Huang</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Sherman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Lempicki</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2009</year>;<volume>37</volume>:<fpage>1</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">19033363</pub-id></mixed-citation></ref><ref id="jah33949-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah33949-cit-0038">
+<string-name>
+<surname>Huang</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Sherman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name>
+<surname>Lempicki</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources</article-title>. <source xml:lang="en">Nat Protoc</source>. <year>2009</year>;<volume>4</volume>:<fpage>44</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">19131956</pub-id></mixed-citation></ref><ref id="jah33949-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah33949-cit-0039">
+<string-name>
+<surname>Mahadeva</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lodwick</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chong</surname>
+<given-names>NW</given-names>
+</string-name>, <string-name>
+<surname>Samani</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>ms1, a novel stress&#x02010;responsive, muscle&#x02010;specific gene that is up&#x02010;regulated in the early stages of pressure overload&#x02010;induced left ventricular hypertrophy</article-title>. <source xml:lang="en">FEBS Lett</source>. <year>2002</year>;<volume>521</volume>:<fpage>100</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">12067735</pub-id></mixed-citation></ref><ref id="jah33949-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah33949-cit-0040">
+<string-name>
+<surname>Subramaniam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hawse</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Johnsen</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Spelsberg</surname>
+<given-names>TC</given-names>
+</string-name>. <article-title>Role of TIEG1 in biological processes and disease states</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2007</year>;<volume>102</volume>:<fpage>539</fpage>&#x02013;<lpage>548</lpage>.<pub-id pub-id-type="pmid">17729309</pub-id></mixed-citation></ref><ref id="jah33949-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah33949-cit-0041">
+<string-name>
+<surname>Zhao</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jeoung</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Rosaaen&#x02010;Stowe</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Inagaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Latif</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shelton</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>McAnally</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bassel&#x02010;Duby</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Kliewer</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Overexpression of pyruvate dehydrogenase kinase 4 in heart perturbs metabolism and exacerbates calcineurin&#x02010;induced cardiomyopathy</article-title>. <source xml:lang="en">Am J Physiol Heart Circ Physiol</source>. <year>2008</year>;<volume>294</volume>:<fpage>H936</fpage>&#x02013;<lpage>H943</lpage>.<pub-id pub-id-type="pmid">18083902</pub-id></mixed-citation></ref><ref id="jah33949-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah33949-cit-0042">
+<string-name>
+<surname>Aoyama</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Matsui</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Novikov</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hemmings</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Rosenzweig</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Serum and glucocorticoid&#x02010;responsive kinase&#x02010;1 regulates cardiomyocyte survival and hypertrophic response</article-title>. <source xml:lang="en">Circulation</source>. <year>2005</year>;<volume>111</volume>:<fpage>1652</fpage>&#x02013;<lpage>1659</lpage>.<pub-id pub-id-type="pmid">15795328</pub-id></mixed-citation></ref><ref id="jah33949-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah33949-cit-0043">
+<string-name>
+<surname>Orth</surname>
+<given-names>DN</given-names>
+</string-name>. <article-title>Cushing's syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>1995</year>;<volume>332</volume>:<fpage>791</fpage>&#x02013;<lpage>803</lpage>.<pub-id pub-id-type="pmid">7862184</pub-id></mixed-citation></ref><ref id="jah33949-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jah33949-cit-0044">
+<string-name>
+<surname>Petramala</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Battisti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lauri</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Palleschi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cotesta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Iorio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Toma</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sciomer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Letizia</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cushing's syndrome patient who exhibited congestive heart failure</article-title>. <source xml:lang="en">J Endocrinol Invest</source>. <year>2007</year>;<volume>30</volume>:<fpage>525</fpage>&#x02013;<lpage>528</lpage>.<pub-id pub-id-type="pmid">17646730</pub-id></mixed-citation></ref><ref id="jah33949-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jah33949-cit-0045">
+<string-name>
+<surname>Kamenicky</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Redheuil</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Roux</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Salenave</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kachenoura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Raissouni</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Macron</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Guignat</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jublanc</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Azarine</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brailly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mousseaux</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chanson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Cardiac structure and function in Cushing's syndrome: a cardiac magnetic resonance imaging study</article-title>. <source xml:lang="en">J Clin Endocrinol Metab</source>. <year>2014</year>;<volume>99</volume>:<fpage>E2144</fpage>&#x02013;<lpage>E2153</lpage>.<pub-id pub-id-type="pmid">25093618</pub-id></mixed-citation></ref><ref id="jah33949-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jah33949-cit-0046">
+<string-name>
+<surname>Muiesan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lupia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Salvetti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grigoletto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sonino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Boscaro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rosei</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Mantero</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fallo</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Left ventricular structural and functional characteristics in Cushing's syndrome</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2003</year>;<volume>41</volume>:<fpage>2275</fpage>&#x02013;<lpage>2279</lpage>.<pub-id pub-id-type="pmid">12821259</pub-id></mixed-citation></ref><ref id="jah33949-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jah33949-cit-0047">
+<string-name>
+<surname>Iwasaki</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Reversible alterations in cardiac morphology and functions in a patient with Cushing's syndrome</article-title>. <source xml:lang="en">Endocrinol Diabetes Metab Case Rep</source>. <year>2014</year>;<volume>2014</volume>:<fpage>140038</fpage>.<pub-id pub-id-type="pmid">25031836</pub-id></mixed-citation></ref><ref id="jah33949-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jah33949-cit-0048">
+<string-name>
+<surname>He</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Pu</surname>
+<given-names>WT</given-names>
+</string-name>. <article-title>Co&#x02010;occupancy by multiple cardiac transcription factors identifies transcriptional enhancers active in heart</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2011</year>;<volume>108</volume>:<fpage>5632</fpage>&#x02013;<lpage>5637</lpage>.<pub-id pub-id-type="pmid">21415370</pub-id></mixed-citation></ref><ref id="jah33949-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jah33949-cit-0049">
+<string-name>
+<surname>Krumm</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hickey</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Groudine</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Promoter&#x02010;proximal pausing of RNA polymerase II defines a general rate&#x02010;limiting step after transcription initiation</article-title>. <source xml:lang="en">Genes Dev</source>. <year>1995</year>;<volume>9</volume>:<fpage>559</fpage>&#x02013;<lpage>572</lpage>.<pub-id pub-id-type="pmid">7698646</pub-id></mixed-citation></ref><ref id="jah33949-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jah33949-cit-0050">
+<string-name>
+<surname>Core</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Lis</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>Transcription regulation through promoter&#x02010;proximal pausing of RNA polymerase II</article-title>. <source xml:lang="en">Science</source>. <year>2008</year>;<volume>319</volume>:<fpage>1791</fpage>&#x02013;<lpage>1792</lpage>.<pub-id pub-id-type="pmid">18369138</pub-id></mixed-citation></ref><ref id="jah33949-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jah33949-cit-0051">
+<string-name>
+<surname>Lamon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wallace</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Leger</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Regulation of STARS and its downstream targets suggest a novel pathway involved in human skeletal muscle hypertrophy and atrophy</article-title>. <source xml:lang="en">J Physiol</source>. <year>2009</year>;<volume>587</volume>:<fpage>1795</fpage>&#x02013;<lpage>1803</lpage>.<pub-id pub-id-type="pmid">19255118</pub-id></mixed-citation></ref><ref id="jah33949-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jah33949-cit-0052">
+<string-name>
+<surname>Kuwahara</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Teg Pipes</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>McAnally</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Bassel&#x02010;Duby</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Olson</surname>
+<given-names>EN</given-names>
+</string-name>. <article-title>Modulation of adverse cardiac remodeling by STARS, a mediator of MEF2 signaling and SRF activity</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2007</year>;<volume>117</volume>:<fpage>1324</fpage>&#x02013;<lpage>1334</lpage>.<pub-id pub-id-type="pmid">17415416</pub-id></mixed-citation></ref><ref id="jah33949-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jah33949-cit-0053">
+<string-name>
+<surname>Rajamannan</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Subramaniam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Vasile</surname>
+<given-names>VC</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Monroe</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Chew</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Spelsberg</surname>
+<given-names>TC</given-names>
+</string-name>. <article-title>TGF&#x003b2; inducible early gene&#x02010;1 (<italic>TIEG1</italic>) and cardiac hypertrophy: discovery and characterization of a novel signaling pathway</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2007</year>;<volume>100</volume>:<fpage>315</fpage>&#x02013;<lpage>325</lpage>.<pub-id pub-id-type="pmid">16888812</pub-id></mixed-citation></ref><ref id="jah33949-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jah33949-cit-0054">
+<string-name>
+<surname>Bos</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Subramaniam</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hawse</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Christiaans</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rajamannan</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Maleszewski</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name>
+<surname>Wilde</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Spelsberg</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Ackerman</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>TGF&#x003b2;&#x02010;inducible early gene&#x02010;1 (<italic>TIEG1</italic>) mutations in hypertrophic cardiomyopathy</article-title>. <source xml:lang="en">J Cell Biochem</source>. <year>2012</year>;<volume>113</volume>:<fpage>1896</fpage>&#x02013;<lpage>1903</lpage>.<pub-id pub-id-type="pmid">22234868</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,446 @@
+{
+  "id": [
+    "30809274"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30809274"
+  ],
+  "pmcid": [
+    "PMC6375146"
+  ],
+  "doi": [
+    "10.1186/s13068-019-1364-4"
+  ],
+  "title": [
+    "An efficient method for markerless mutant generation by allelic exchange in Clostridium acetobutylicum and Clostridium saccharobutylicum using suicide vectors."
+  ],
+  "authorString": [
+    "Foulquier C, Huang CN, Nguyen NP, Thiel A, Wilding-Steel T, Soula J, Yoo M, Ehrenreich A, Meynial-Salles I, Liebl W, Soucaille P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Foulquier C"
+          ],
+          "firstName": [
+            "Celine"
+          ],
+          "lastName": [
+            "Foulquier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CN"
+          ],
+          "firstName": [
+            "Ching-Ning"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "affiliation": [
+            "2Chair of Microbiology, Technical University Munchen, Emil-Ramann-Str. 4, 85354 Freising, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen NP"
+          ],
+          "firstName": [
+            "Ngoc-Phuong-Thao"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "NP"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Thiel A"
+          ],
+          "firstName": [
+            "Axel"
+          ],
+          "lastName": [
+            "Thiel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilding-Steel T"
+          ],
+          "firstName": [
+            "Tom"
+          ],
+          "lastName": [
+            "Wilding-Steel"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Soula J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Soula"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo M"
+          ],
+          "firstName": [
+            "Minyeong"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ehrenreich A"
+          ],
+          "firstName": [
+            "Armin"
+          ],
+          "lastName": [
+            "Ehrenreich"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "2Chair of Microbiology, Technical University Munchen, Emil-Ramann-Str. 4, 85354 Freising, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Meynial-Salles I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Meynial-Salles"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Liebl W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Liebl"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "2Chair of Microbiology, Technical University Munchen, Emil-Ramann-Str. 4, 85354 Freising, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Soucaille P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Soucaille"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1724-7136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1724-7136",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2769187"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology for biofuels"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "NLMid": [
+            "101316935"
+          ],
+          "ISSN": [
+            "1754-6834"
+          ],
+          "ESSN": [
+            "1754-6834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "31"
+  ],
+  "abstractText": [
+    "Background:Clostridium acetobutylicum and Clostridium saccharobutylicum are Gram-positive, spore-forming, anaerobic bacterium capable of converting various sugars and polysaccharides into solvents (acetone, butanol, and ethanol). The sequencing of their genomes has prompted new approaches to genetic analysis, functional genomics, and metabolic engineering to develop industrial strains for the production of biofuels and bulk chemicals. Results:The method used in this paper to knock-out, knock-in, or edit genes in C. acetobutylicum and C. saccharobutylicum combines an improved electroporation method with the use of (i) restrictionless Δupp (which encodes uracil phosphoribosyl-transferase) strains and (ii) very small suicide vectors containing a markerless deletion/insertion cassette, an antibiotic resistance gene (for the selection of the first crossing-over) and upp (from C. acetobutylicum) for subsequent use as a counterselectable marker with the aid of 5-fluorouracil (5-FU) to promote the second crossing-over. This method was successfully used to both delete genes and edit genes in both C. acetobutylicum and C. saccharobutylicum. Among the edited genes, a mutation in the spo0A gene that abolished solvent formation in C. acetobutylicum was introduced in C. saccharobutylicum and shown to produce the same effect. Conclusions:The method described in this study will be useful for functional genomic studies and for the development of industrial strains for the production of biofuels and bulk chemicals."
+  ],
+  "affiliation": [
+    "1LISBP, INSA, University of Toulouse, 135 Avenue de Rangueil, 31077 Toulouse Cedex, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene replacement",
+        "Gene deletion",
+        "5-FU",
+        "Clostridium Acetobutylicum",
+        "Markerless",
+        "Clostridium Saccharobutylicum",
+        "Upp Gene",
+        "Restrictionless"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6375146?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6375146"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13068-019-1364-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-28"
+  ],
+  "firstIndexDate": [
+    "2019-02-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-14"
+  ],
+  "firstPublicationDate": [
+    "2019-02-14"
+  ]
+}

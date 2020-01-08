@@ -1,0 +1,1887 @@
+{
+  "id": [
+    "31104630"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31104630"
+  ],
+  "pmcid": [
+    "PMC6526621"
+  ],
+  "doi": [
+    "10.1186/s13059-019-1707-2"
+  ],
+  "title": [
+    "Systematic analysis of dark and camouflaged genes reveals disease-relevant genes hiding in plain sight."
+  ],
+  "authorString": [
+    "Ebbert MTW, Jensen TD, Jansen-West K, Sens JP, Reddy JS, Ridge PG, Kauwe JSK, Belzil V, Pregent L, Carrasquillo MM, Keene D, Larson E, Crane P, Asmann YW, Ertekin-Taner N, Younkin SG, Ross OA, Rademakers R, Petrucelli L, Fryer JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ebbert MTW"
+          ],
+          "firstName": [
+            "Mark T W"
+          ],
+          "lastName": [
+            "Ebbert"
+          ],
+          "initials": [
+            "MTW"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA. ebbert.mark@mayo.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Jensen TD"
+          ],
+          "firstName": [
+            "Tanner D"
+          ],
+          "lastName": [
+            "Jensen"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jansen-West K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Jansen-West"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sens JP"
+          ],
+          "firstName": [
+            "Jonathon P"
+          ],
+          "lastName": [
+            "Sens"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reddy JS"
+          ],
+          "firstName": [
+            "Joseph S"
+          ],
+          "lastName": [
+            "Reddy"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1783-4453",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ridge PG"
+          ],
+          "firstName": [
+            "Perry G"
+          ],
+          "lastName": [
+            "Ridge"
+          ],
+          "initials": [
+            "PG"
+          ],
+          "affiliation": [
+            "Department of Biology, Brigham Young University, Provo, UT, 84602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kauwe JSK"
+          ],
+          "firstName": [
+            "John S K"
+          ],
+          "lastName": [
+            "Kauwe"
+          ],
+          "initials": [
+            "JSK"
+          ],
+          "affiliation": [
+            "Department of Biology, Brigham Young University, Provo, UT, 84602, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Belzil V"
+          ],
+          "firstName": [
+            "Veronique"
+          ],
+          "lastName": [
+            "Belzil"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pregent L"
+          ],
+          "firstName": [
+            "Luc"
+          ],
+          "lastName": [
+            "Pregent"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carrasquillo MM"
+          ],
+          "firstName": [
+            "Minerva M"
+          ],
+          "lastName": [
+            "Carrasquillo"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Keene D"
+          ],
+          "firstName": [
+            "Dirk"
+          ],
+          "lastName": [
+            "Keene"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pathology, University of Washington, Seattle, WA, 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Larson E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Larson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Washington, Seattle, WA, 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Crane P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Crane"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Washington, Seattle, WA, 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Asmann YW"
+          ],
+          "firstName": [
+            "Yan W"
+          ],
+          "lastName": [
+            "Asmann"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "affiliation": [
+            "Department of Health Sciences Research, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ertekin-Taner N"
+          ],
+          "firstName": [
+            "Nilufer"
+          ],
+          "lastName": [
+            "Ertekin-Taner"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Younkin SG"
+          ],
+          "firstName": [
+            "Steven G"
+          ],
+          "lastName": [
+            "Younkin"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ross OA"
+          ],
+          "firstName": [
+            "Owen A"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rademakers R"
+          ],
+          "firstName": [
+            "Rosa"
+          ],
+          "lastName": [
+            "Rademakers"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Petrucelli L"
+          ],
+          "firstName": [
+            "Leonard"
+          ],
+          "lastName": [
+            "Petrucelli"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA. petrucelli.leonard@mayo.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Fryer JD"
+          ],
+          "firstName": [
+            "John D"
+          ],
+          "lastName": [
+            "Fryer"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA. fryer.john@mayo.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1783-4453",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2813903"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "97"
+  ],
+  "abstractText": [
+    "BACKGROUND:The human genome contains \"dark\" gene regions that cannot be adequately assembled or aligned using standard short-read sequencing technologies, preventing researchers from identifying mutations within these gene regions that may be relevant to human disease. Here, we identify regions with few mappable reads that we call dark by depth, and others that have ambiguous alignment, called camouflaged. We assess how well long-read or linked-read technologies resolve these regions. RESULTS:Based on standard whole-genome Illumina sequencing data, we identify 36,794 dark regions in 6054 gene bodies from pathways important to human health, development, and reproduction. Of these gene bodies, 8.7% are completely dark and 35.2% are ≥ 5% dark. We identify dark regions that are present in protein-coding exons across 748 genes. Linked-read or long-read sequencing technologies from 10x Genomics, PacBio, and Oxford Nanopore Technologies reduce dark protein-coding regions to approximately 50.5%, 35.6%, and 9.6%, respectively. We present an algorithm to resolve most camouflaged regions and apply it to the Alzheimer's Disease Sequencing Project. We rescue a rare ten-nucleotide frameshift deletion in CR1, a top Alzheimer's disease gene, found in disease cases but not in controls. CONCLUSIONS:While we could not formally assess the association of the CR1 frameshift mutation with Alzheimer's disease due to insufficient sample-size, we believe it merits investigating in a larger cohort. There remain thousands of potentially important genomic regions overlooked by short-read sequencing that are largely resolved by long-read technologies."
+  ],
+  "affiliation": [
+    "Department of Neuroscience, Mayo Clinic, Jacksonville, FL, 32224, USA. ebbert.mark@mayo.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HHSN268201100007C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85079"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85083"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85086"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS084528"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS084974"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG049607"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG061796"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG052410"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL096899"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL096917"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL130114"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "AG049992"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100005I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100008C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100011C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG020098"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG033040"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS017950"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG057659"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL080295"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 AG041689"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268200800007C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS088689"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35 NS097261"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG046139"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG049505"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UF1 AG047133"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "AG047327"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100006C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201200036C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85080"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS093865"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS097273"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG049507"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG052411"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL096902"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100005C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100009C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100009I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100010C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201500001I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85082"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG015928"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG033193"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG054076"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS093865"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS094137"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35 NS097273"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RC2 HL102419"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG049506"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL096814"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "AL130125"
+          ],
+          "agency": [
+            "U.S. Department of Defense"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100005G"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100011I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100012C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201500001C"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG016976"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG049508"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 AG021886"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 AG052427"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HG003079"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HG003273"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100007I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS094137"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS097261"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NS099114"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG023629"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL070825"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL105756"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS088689"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AG047327"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RF1 AG051504"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HG003067"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HHSN268201100008I"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC25195"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC55222"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N01HC85081"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 NS084974"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 NS099114"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R03 AG049992"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 NS084528"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG032984"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AG052409"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HL096812"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Predisposition to Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "apoE",
+        "CR1",
+        "Long-read Sequencing",
+        "Pacific Biosciences (Pacbio)",
+        "10X Genomics",
+        "Alzheimer’s Disease Sequencing Project (Adsp)",
+        "Camouflaged Genes",
+        "Dark Genes",
+        "Oxford Nanopore Technologies (Ont)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6526621?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6526621"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-019-1707-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR66882"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "reactome",
+        "go",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-19"
+  ],
+  "dateOfCreation": [
+    "2019-05-21"
+  ],
+  "firstIndexDate": [
+    "2019-05-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-20"
+  ],
+  "firstPublicationDate": [
+    "2019-05-20"
+  ]
+}

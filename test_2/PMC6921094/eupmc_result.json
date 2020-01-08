@@ -1,0 +1,416 @@
+{
+  "id": [
+    "31769998"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31769998"
+  ],
+  "pmcid": [
+    "PMC6921094"
+  ],
+  "doi": [
+    "10.1089/adt.2019.950"
+  ],
+  "title": [
+    "Systematically Prioritizing Candidates in Genome-Based Drug Repurposing."
+  ],
+  "authorString": [
+    "Challa AP, Lavieri RR, Lewis JT, Zaleski NM, Shirey-Rice JK, Harris PA, Aronoff DM, Pulley JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Challa AP"
+          ],
+          "firstName": [
+            "Anup P"
+          ],
+          "lastName": [
+            "Challa"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Lavieri RR"
+          ],
+          "firstName": [
+            "Robert R"
+          ],
+          "lastName": [
+            "Lavieri"
+          ],
+          "initials": [
+            "RR"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis JT"
+          ],
+          "firstName": [
+            "Judith T"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Zaleski NM"
+          ],
+          "firstName": [
+            "Nicole M"
+          ],
+          "lastName": [
+            "Zaleski"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Shirey-Rice JK"
+          ],
+          "firstName": [
+            "Jana K"
+          ],
+          "lastName": [
+            "Shirey-Rice"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Harris PA"
+          ],
+          "firstName": [
+            "Paul A"
+          ],
+          "lastName": [
+            "Harris"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Aronoff DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Aronoff"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Division of Infectious Diseases, Department of Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee."
+          ]
+        },
+        {
+          "fullName": [
+            "Pulley JM"
+          ],
+          "firstName": [
+            "Jill M"
+          ],
+          "lastName": [
+            "Pulley"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2893958"
+      ],
+      "dateOfPublication": [
+        "2019 Nov/Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Assay and drug development technologies"
+          ],
+          "ISOAbbreviation": [
+            "Assay Drug Dev Technol"
+          ],
+          "medlineAbbreviation": [
+            "Assay Drug Dev Technol"
+          ],
+          "NLMid": [
+            "101151468"
+          ],
+          "ISSN": [
+            "1540-658X"
+          ],
+          "ESSN": [
+            "1557-8127"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "352-363"
+  ],
+  "abstractText": [
+    "Drug repurposing is the application of approved drugs to treat diseases separate and distinct from their original indications. Herein, we define the scope of all practical precision drug repurposing using DrugBank, a publicly available database of pharmacological agents, and BioVU, a large, de-identified DNA repository linked to longitudinal electronic health records at Vanderbilt University Medical Center. We present a method of repurposing candidate prioritization through integration of pharmacodynamic and marketing variables from DrugBank with quality control thresholds for genomic data derived from the DNA samples within BioVU. Through the synergy of delineated \"target-action pairs,\" along with target genomics, we identify ∼230 \"pairs\" that represent all practical opportunities for genomic drug repurposing. From this analysis, we present a pipeline of 14 repurposing candidates across 7 disease areas that link to our repurposability platform and present high potential for randomized controlled trial startup in upcoming months."
+  ],
+  "affiliation": [
+    "Vanderbilt Institute for Clinical and Translational Research, Vanderbilt University Medical Center, Nashville, Tennessee."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UL1 TR002243"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genomics",
+        "Informatics",
+        "Drug Repurposing",
+        "Precision Medicine",
+        "Phenome-wide Association Study (Phewas)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1089/adt.2019.950"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6921094"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6921094?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-27"
+  ],
+  "firstIndexDate": [
+    "2019-11-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-26"
+  ],
+  "firstPublicationDate": [
+    "2019-11-26"
+  ]
+}

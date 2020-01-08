@@ -1,0 +1,355 @@
+{
+  "id": [
+    "29556520"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29556520"
+  ],
+  "pmcid": [
+    "PMC5854866"
+  ],
+  "doi": [
+    "10.1016/j.dib.2018.02.061"
+  ],
+  "title": [
+    "A dataset of small molecules triggering transcriptional and translational cellular responses."
+  ],
+  "authorString": [
+    "Koch M, Pandi A, Delépine B, Faulon JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koch M"
+          ],
+          "firstName": [
+            "Mathilde"
+          ],
+          "lastName": [
+            "Koch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8924-3513",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 78350 Jouy-en-Josas, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandi A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Pandi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5204-756X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 78350 Jouy-en-Josas, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Delépine B"
+          ],
+          "firstName": [
+            "Baudoin"
+          ],
+          "lastName": [
+            "Delépine"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6288-425X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 78350 Jouy-en-Josas, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Faulon JL"
+          ],
+          "firstName": [
+            "Jean-Loup"
+          ],
+          "lastName": [
+            "Faulon"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4274-2953",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 78350 Jouy-en-Josas, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8924-3513",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5204-756X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6288-425X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4274-2953",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2642246"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Data in brief"
+          ],
+          "ISOAbbreviation": [
+            "Data Brief"
+          ],
+          "medlineAbbreviation": [
+            "Data Brief"
+          ],
+          "NLMid": [
+            "101654995"
+          ],
+          "ISSN": [
+            "2352-3409"
+          ],
+          "ESSN": [
+            "2352-3409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1374-1378"
+  ],
+  "abstractText": [
+    "The aim of this dataset is to identify and collect compounds that are known for being detectable by a living cell, through the action of a genetically encoded biosensor and is centred on bacterial transcription factors. Such a dataset should open the possibility to consider a wide range of applications in synthetic biology. The reader will find in this dataset the name of the compounds, their InChI (molecular structure), the publication where the detection was reported, the organism in which this was detected or engineered, the type of detection and experiment that was performed as well as the name of the biosensor. A comment field is also provided that explains why the compound was included in the dataset, based on quotes from the reference publication or the database it was extracted from. Manual curation of ACS Synthetic Biology abstracts (Volumes 1 to 6 and Volume 7 issue 1) was performed as well as extraction from the following databases: Bionemo v6.0 (Carbajosa et al., 2009) [1], RegTransbase r20120406 (Cipriano et al., 2013) [2], RegulonDB v9.0 (Gama-Castro et al., 2016) [3], RegPrecise v4.0 (Novichkov et al., 2013) [4] and Sigmol v20180122 (Rajput et al., 2016) [5]."
+  ],
+  "affiliation": [
+    "Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 78350 Jouy-en-Josas, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.dib.2018.02.061"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5854866"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5854866?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-21"
+  ],
+  "firstIndexDate": [
+    "2018-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-09"
+  ],
+  "dateOfRevision": [
+    "2018-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-27"
+  ],
+  "firstPublicationDate": [
+    "2018-02-27"
+  ]
+}

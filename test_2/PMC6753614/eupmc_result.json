@@ -1,0 +1,393 @@
+{
+  "id": [
+    "31548865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31548865"
+  ],
+  "pmcid": [
+    "PMC6753614"
+  ],
+  "doi": [
+    "10.1186/s13068-019-1560-2"
+  ],
+  "title": [
+    "Xylose utilization stimulates mitochondrial production of isobutanol and 2-methyl-1-butanol in Saccharomyces cerevisiae."
+  ],
+  "authorString": [
+    "Zhang Y, Lane S, Chen JM, Hammer SK, Luttinger J, Yang L, Jin YS, Avalos JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yanfei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lane S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Lane"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "4Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JM"
+          ],
+          "firstName": [
+            "Jhong-Min"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hammer SK"
+          ],
+          "firstName": [
+            "Sarah K"
+          ],
+          "lastName": [
+            "Hammer"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Luttinger J"
+          ],
+          "firstName": [
+            "Jake"
+          ],
+          "lastName": [
+            "Luttinger"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Lifeng"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "6Lewis Sigler Institute for Integrative Genomics, Princeton University, Princeton, NJ USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin YS"
+          ],
+          "firstName": [
+            "Yong-Su"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "4Carl R. Woese Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Avalos JL"
+          ],
+          "firstName": [
+            "José L"
+          ],
+          "lastName": [
+            "Avalos"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7209-4208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7209-4208",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2769187"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology for biofuels"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "NLMid": [
+            "101316935"
+          ],
+          "ISSN": [
+            "1754-6834"
+          ],
+          "ESSN": [
+            "1754-6834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "223"
+  ],
+  "abstractText": [
+    "Background:Branched-chain higher alcohols (BCHAs), including isobutanol and 2-methyl-1-butanol, are promising advanced biofuels, superior to ethanol due to their higher energy density and better compatibility with existing gasoline infrastructure. Compartmentalizing the isobutanol biosynthetic pathway in yeast mitochondria is an effective way to produce BCHAs from glucose. However, to improve the sustainability of biofuel production, there is great interest in developing strains and processes to utilize lignocellulosic biomass, including its hemicellulose component, which is mostly composed of the pentose xylose. Results:In this work, we rewired the xylose isomerase assimilation and mitochondrial isobutanol production pathways in the budding yeast Saccharomyces cerevisiae. We then increased the flux through these pathways by making gene deletions of BAT1, ALD6, and PHO13, to develop a strain (YZy197) that produces as much as 4 g/L of BCHAs (3.10 ± 0.18 g isobutanol/L and 0.91 ± 0.02 g 2-methyl-1-butanol/L) from xylose. This represents approximately a 28-fold improvement on the highest isobutanol titers obtained from xylose previously reported in yeast and the first report of 2-methyl-1-butanol produced from xylose. The yield of total BCHAs is 57.2 ± 5.2 mg/g xylose, corresponding to ~ 14% of the maximum theoretical yield. Respirometry experiments show that xylose increases mitochondrial activity by as much as 7.3-fold compared to glucose. Conclusions:The enhanced levels of mitochondrial BCHA production achieved, even without disrupting ethanol byproduct formation, arise mostly from xylose activation of mitochondrial activity and are correlated with slow rates of sugar consumption."
+  ],
+  "affiliation": [
+    "1Department of Chemical and Biological Engineering, Princeton University, 101 Hoyt Laboratory, William Street, Princeton, NJ 08544 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Xylose",
+        "Saccharomyces cerevisiae",
+        "2-methyl-1-butanol",
+        "Isobutanol",
+        "Mitochondrial Engineering",
+        "Branched-chain Higher Alcohols"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13068-019-1560-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753614"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753614?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-20"
+  ],
+  "firstPublicationDate": [
+    "2019-09-20"
+  ]
+}

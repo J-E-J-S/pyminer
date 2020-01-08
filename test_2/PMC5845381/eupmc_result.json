@@ -1,0 +1,547 @@
+{
+  "id": [
+    "29523077"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29523077"
+  ],
+  "pmcid": [
+    "PMC5845381"
+  ],
+  "doi": [
+    "10.1186/s12859-018-2092-7"
+  ],
+  "title": [
+    "An interpretable framework for clustering single-cell RNA-Seq datasets."
+  ],
+  "authorString": [
+    "Zhang JM, Fan J, Fan HC, Rosenfeld D, Tse DN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang JM"
+          ],
+          "firstName": [
+            "Jesse M"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, Stanford, Stanford, 94305, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan J"
+          ],
+          "firstName": [
+            "Jue"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "BD Genomics, California, 94025, Menlo Park, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan HC"
+          ],
+          "firstName": [
+            "H Christina"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "BD Genomics, California, 94025, Menlo Park, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosenfeld D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Rosenfeld"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "BD Genomics, California, 94025, Menlo Park, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tse DN"
+          ],
+          "firstName": [
+            "David N"
+          ],
+          "lastName": [
+            "Tse"
+          ],
+          "initials": [
+            "DN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1460-5900",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, Stanford, Stanford, 94305, California, USA. dntse@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1460-5900",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2655568"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "93"
+  ],
+  "abstractText": [
+    "BACKGROUND:With the recent proliferation of single-cell RNA-Seq experiments, several methods have been developed for unsupervised analysis of the resulting datasets. These methods often rely on unintuitive hyperparameters and do not explicitly address the subjectivity associated with clustering. RESULTS:In this work, we present DendroSplit, an interpretable framework for analyzing single-cell RNA-Seq datasets that addresses both the clustering interpretability and clustering subjectivity issues. DendroSplit offers a novel perspective on the single-cell RNA-Seq clustering problem motivated by the definition of \"cell type\", allowing us to cluster using feature selection to uncover multiple levels of biologically meaningful populations in the data. We analyze several landmark single-cell datasets, demonstrating both the method's efficacy and computational efficiency. CONCLUSION:DendroSplit offers a clustering framework that is comparable to existing methods in terms of accuracy and speed but is novel in its emphasis on interpretabilty. We provide the full DendroSplit software package at https://github.com/jessemzhang/dendrosplit ."
+  ],
+  "affiliation": [
+    "Department of Electrical Engineering, Stanford, Stanford, 94305, California, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01HG008164"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG008164"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leukocytes, Mononuclear"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reference Standards"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Clustering",
+        "Feature Selection",
+        "Interpretability",
+        "Single-cell Rna-seq"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-018-2092-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5845381"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5845381?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR15507"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-05"
+  ],
+  "dateOfCreation": [
+    "2018-03-11"
+  ],
+  "firstIndexDate": [
+    "2018-03-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-28"
+  ],
+  "dateOfRevision": [
+    "2018-11-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-09"
+  ],
+  "firstPublicationDate": [
+    "2018-03-09"
+  ]
+}

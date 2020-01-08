@@ -1,0 +1,636 @@
+{
+  "id": [
+    "29902258"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29902258"
+  ],
+  "pmcid": [
+    "PMC6001953"
+  ],
+  "doi": [
+    "10.1371/journal.ppat.1006990"
+  ],
+  "title": [
+    "CRISPR-Cas antimicrobials: Challenges and future prospects."
+  ],
+  "authorString": [
+    "Pursey E, Sünderhauf D, Gaze WH, Westra ER, van Houte S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pursey E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Pursey"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8067-4440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Environment and Sustainability Institute, Centre for Ecology and Conservation, University of Exeter, Biosciences, Penryn, Cornwall, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Sünderhauf D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Sünderhauf"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8007-3351",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Environment and Sustainability Institute, Centre for Ecology and Conservation, University of Exeter, Biosciences, Penryn, Cornwall, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaze WH"
+          ],
+          "firstName": [
+            "William H"
+          ],
+          "lastName": [
+            "Gaze"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "European Centre for Environment and Human Health, University of Exeter Medical School, Knowledge Spa, Royal Cornwall Hospital, Truro, Cornwall, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Westra ER"
+          ],
+          "firstName": [
+            "Edze R"
+          ],
+          "lastName": [
+            "Westra"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4396-0354",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Environment and Sustainability Institute, Centre for Ecology and Conservation, University of Exeter, Biosciences, Penryn, Cornwall, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "van Houte S"
+          ],
+          "firstName": [
+            "Stineke"
+          ],
+          "lastName": [
+            "van Houte"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7047-1308",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Environment and Sustainability Institute, Centre for Ecology and Conservation, University of Exeter, Biosciences, Penryn, Cornwall, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8067-4440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4396-0354",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7047-1308",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8007-3351",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2692166"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS pathogens"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Pathog."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Pathog"
+          ],
+          "NLMid": [
+            "101238921"
+          ],
+          "ISSN": [
+            "1553-7366"
+          ],
+          "ESSN": [
+            "1553-7374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e1006990"
+  ],
+  "affiliation": [
+    "Environment and Sustainability Institute, Centre for Ecology and Conservation, University of Exeter, Biosciences, Penryn, Cornwall, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/R010781/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "109776/Z/15/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/N007174/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NE/M018350/1"
+          ],
+          "agency": [
+            "Natural Environment Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NE/N019717/1"
+          ],
+          "agency": [
+            "Natural Environment Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "714478"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/N017412/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Infective Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transformation, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microbial Viability"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Infective Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6001953?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6001953"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.ppat.1006990"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-19"
+  ],
+  "dateOfCreation": [
+    "2018-06-15"
+  ],
+  "firstIndexDate": [
+    "2018-06-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-24"
+  ],
+  "dateOfRevision": [
+    "2018-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-14"
+  ],
+  "firstPublicationDate": [
+    "2018-06-14"
+  ]
+}

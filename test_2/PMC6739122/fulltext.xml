@@ -1,0 +1,656 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Pharmacol Ther</journal-id><journal-id journal-id-type="iso-abbrev">Clin. Pharmacol. Ther</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1532-6535</journal-id><journal-id journal-id-type="publisher-id">CPT</journal-id><journal-title-group><journal-title>Clinical Pharmacology and Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">0009-9236</issn><issn pub-type="epub">1532-6535</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6739122</article-id><article-id pub-id-type="pmid">31012492</article-id><article-id pub-id-type="doi">10.1002/cpt.1482</article-id><article-id pub-id-type="publisher-id">CPT1482</article-id><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research</subject><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></subj-group></article-categories><title-group><article-title>Pharmacogenomics&#x02010;Driven Prediction of Antidepressant Treatment Outcomes: A Machine&#x02010;Learning Approach With Multi&#x02010;trial Replication</article-title></title-group><contrib-group><contrib id="cpt1482-cr-0001" contrib-type="author"><name><surname>Athreya</surname><given-names>Arjun P.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpt1482-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt1482-cr-0002" contrib-type="author"><name><surname>Neavin</surname><given-names>Drew</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt1482-cr-0003" contrib-type="author"><name><surname>Carrillo&#x02010;Roa</surname><given-names>Tania</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cpt1482-cr-0004" contrib-type="author"><name><surname>Skime</surname><given-names>Michelle</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt1482-cr-0005" contrib-type="author"><name><surname>Biernacka</surname><given-names>Joanna</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt1482-cr-0006" contrib-type="author"><name><surname>Frye</surname><given-names>Mark A.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cpt1482-cr-0007" contrib-type="author"><name><surname>Rush</surname><given-names>A. John</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="cpt1482-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="cpt1482-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cpt1482-cr-0008" contrib-type="author"><name><surname>Wang</surname><given-names>Liewei</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt1482-cr-0009" contrib-type="author"><name><surname>Binder</surname><given-names>Elisabeth B.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cpt1482-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cpt1482-cr-0010" contrib-type="author"><name><surname>Iyer</surname><given-names>Ravishankar K.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cpt1482-cr-0011" contrib-type="author"><name><surname>Weinshilboum</surname><given-names>Richard M.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpt1482-cr-0012" contrib-type="author" corresp="yes"><name><surname>Bobo</surname><given-names>William V.</given-names></name><xref ref-type="aff" rid="cpt1482-aff-0009">
+<sup>9</sup>
+</xref><address><email>bobo.william@mayo.edu</email></address></contrib></contrib-group><aff id="cpt1482-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Electrical &#x00026; Computer Engineering</named-content>
+<institution>University of Illinois at Urbana&#x02010;Champaign</institution>
+<named-content content-type="city">Urbana</named-content>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Molecular Pharmacology and Experimental Therapeutics</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Rochester</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Translational Research in Psychiatry</named-content>
+<institution>Max Planck Institute of Psychiatry</institution>
+<named-content content-type="city">Munich</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="cpt1482-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry &#x00026; Psychology</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Rochester</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry &#x00026; Behavioral Sciences</named-content>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<named-content content-type="organisation-division">Duke Institute of Brain Sciences</named-content>
+<institution>Duke University School of Medicine</institution>
+<named-content content-type="city">Durham</named-content>
+<named-content content-type="country-part">North Carolina</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0006">
+<label><sup>6</sup></label>
+<institution>Texas Tech University Health Sciences Center</institution>
+<named-content content-type="city">Permian Basin</named-content>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0007">
+<label><sup>7</sup></label>
+<institution>Duke&#x02010;National University of Singapore Medical School</institution>
+<named-content content-type="city">Singapore</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="cpt1482-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry &#x00026; Behavioral Sciences</named-content>
+<institution>Emory University School of Medicine</institution>
+<named-content content-type="city">Atlanta</named-content>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="cpt1482-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry &#x00026; Psychology</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Jacksonville</named-content>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence: William Bobo (<email>bobo.william@mayo.edu</email>)</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>6</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>29</day><month>6</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>106</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/cpt.v106.4</issue-id><issue-title>Therapeutic Brain Stimulation</issue-title><fpage>855</fpage><lpage>865</lpage><history><date date-type="received"><day>28</day><month>1</month><year>2019</year></date><date date-type="accepted"><day>09</day><month>4</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 American Society for Clinical Pharmacology and Therapeutics <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors <italic>Clinical Pharmacology &#x00026; Therapeutics</italic> published by Wiley Periodicals, Inc. on behalf of American Society for Clinical Pharmacology and Therapeutics</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CPT-106-855.pdf"/><abstract id="cpt1482-abs-0001"><p>We set out to determine whether machine learning&#x02013;based algorithms that included functionally validated pharmacogenomic biomarkers joined with clinical measures could predict selective serotonin reuptake inhibitor (<styled-content style="fixed-case">SSRI</styled-content>) remission/response in patients with major depressive disorder (<styled-content style="fixed-case">MDD</styled-content>). We studied 1,030 white outpatients with <styled-content style="fixed-case">MDD</styled-content> treated with citalopram/escitalopram in the Mayo Clinic Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomic Study (<styled-content style="fixed-case">PGRN</styled-content>&#x02010;<styled-content style="fixed-case">AMPS</styled-content>;<italic> n</italic>&#x000a0;=&#x000a0;398), Sequenced Treatment Alternatives to Relieve Depression (<styled-content style="fixed-case">STAR</styled-content>*D; <italic>n</italic>&#x000a0;=&#x000a0;467), and International SSRI Pharmacogenomics Consortium (<styled-content style="fixed-case">ISPC</styled-content>;<italic> n</italic>&#x000a0;=&#x000a0;165) trials. A genomewide association study for <styled-content style="fixed-case">PGRN</styled-content>&#x02010;<styled-content style="fixed-case">AMPS</styled-content> plasma metabolites associated with <styled-content style="fixed-case">SSRI</styled-content> response (serotonin) and baseline <styled-content style="fixed-case">MDD</styled-content> severity (kynurenine) identified single nucleotide polymorphisms (<styled-content style="fixed-case">SNP</styled-content>s) in <italic><styled-content style="fixed-case">DEFB</styled-content>1</italic>,<italic><styled-content style="fixed-case">ERICH</styled-content>3</italic>,<italic><styled-content style="fixed-case">AHR</styled-content></italic>, and <italic><styled-content style="fixed-case">TSPAN</styled-content>5</italic> that we tested as predictors. Supervised machine&#x02010;learning methods trained using <styled-content style="fixed-case">SNP</styled-content>s and total baseline depression scores predicted remission and response at 8&#x000a0;weeks with area under the receiver operating curve (<styled-content style="fixed-case">AUC</styled-content>)&#x000a0;&#x0003e;&#x000a0;0.7 (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.04) in <styled-content style="fixed-case">PGRN</styled-content>&#x02010;<styled-content style="fixed-case">AMPS</styled-content> patients, with comparable prediction accuracies&#x000a0;&#x0003e;&#x000a0;69% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.07) in <styled-content style="fixed-case">STAR</styled-content>*D and <styled-content style="fixed-case">ISPC</styled-content>. These results demonstrate that machine learning can achieve accurate and, importantly, replicable prediction of <styled-content style="fixed-case">SSRI</styled-content> therapy response using total baseline depression severity combined with pharmacogenomic biomarkers.</p></abstract><funding-group><award-group><funding-source>Mayo Clinic and Illinois Alliance Fellowship for Technology&#x02010;Based Healthcare Research</funding-source></award-group><award-group><funding-source>CompGen Fellowship</funding-source></award-group><award-group><funding-source>IBM Faculty Award</funding-source></award-group><award-group><funding-source>National Science Foundation (NSF)</funding-source><award-id>CNS 13&#x02010;37732</award-id></award-group><award-group><funding-source>National Institutes of Health (NIH)</funding-source><award-id>U19 GM61388</award-id><award-id>R01 GM28157</award-id><award-id>RC2 GM092729</award-id><award-id>R24 GM078233</award-id><award-id>RC2 GM092729</award-id><award-id>T32 GM072474</award-id></award-group><award-group><funding-source>Mayo Clinic Center for Individualized Medicine</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="11"/><word-count count="8052"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cpt1482</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.9 mode:remove_FC converted:01.10.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>
+<boxed-text position="anchor" content-type="box" id="cpt1482-blkfxd-0001" orientation="portrait"><caption><title>Study Highlights</title></caption><p>
+<list list-type="simple" id="cpt1482-list-0001"><list-item><p>
+<bold>WHAT IS THE CURRENT KNOWLEDGE ON THE TOPIC?</bold>
+</p></list-item></list>
+</p><p>In light of the phenotypic complexity of antidepressant response, social and demographic factors alone are insufficient to determine, prior to treatment initiation, whether selective serotonin reuptake inhibitors (SSRIs) will be effective in patients with major depressive disorder (MDD).</p><p>
+<list list-type="simple" id="cpt1482-list-0002"><list-item><p>
+<bold>WHAT QUESTION DID THIS STUDY ADDRESS?</bold>
+</p></list-item></list>
+</p><p>This study tests the hypothesis that functionally validated single nucleotide polymorphisms (SNPs) associated with SSRI pharmacodynamics as predictor variables can enhance our ability to predict the response of patients with MDD to SSRI therapy.</p><p>
+<list list-type="simple" id="cpt1482-list-0003"><list-item><p>
+<bold>WHAT DOES THIS STUDY ADD TO OUR KNOWLEDGE?</bold>
+</p></list-item></list>
+</p><p>Pharmacogenomic SNPs&#x02019; predictive capabilities potentially allow for guiding of clinical decisions relating to SSRI response.</p><p>
+<list list-type="simple" id="cpt1482-list-0004"><list-item><p>
+<bold>HOW MIGHT THIS CHANGE CLINICAL PHARMACOLOGY OR TRANSLATIONAL SCIENCE?</bold>
+</p></list-item></list>
+</p><p>Alternative medication strategies can be considered by physicians if predictive models prior to SSRI initiation, using pharmacogenomic SNPs associated with MDD pathophysiology or SSRI response, forecast poor response.</p></boxed-text>
+</p><sec sec-type="opening-section" id="cpt1482-sec-0001"><p>Major depressive disorder (MDD) is the leading cause of disability related to chronic illnesses worldwide.<xref rid="cpt1482-bib-0001" ref-type="ref">1</xref> Selective serotonin reuptake inhibitors (SSRIs) are first&#x02010;line pharmacotherapies for MDD, but only about half to two&#x02010;thirds of patients respond to SSRI therapy, and several weeks of treatment must occur before an optimal therapeutic response is achieved.<xref rid="cpt1482-bib-0002" ref-type="ref">2</xref> Therefore, the ability to identify patients with MDD who are most likely to respond to SSRI antidepressants before starting treatment (or soon after treatment initiation) would represent a significant therapeutic advance.</p><p>Statistical/machine&#x02010;learning approaches have demonstrated that predictions obtained using clinical and sociodemographic factors can yield predictive performances for SSRI response (area under the receiver operating curve (AUC) of 0.54&#x02013;0.67) that are significantly better than chance.<xref rid="cpt1482-bib-0003" ref-type="ref">3</xref>, <xref rid="cpt1482-bib-0004" ref-type="ref">4</xref>, <xref rid="cpt1482-bib-0005" ref-type="ref">5</xref>, <xref rid="cpt1482-bib-0006" ref-type="ref">6</xref> However, social and demographic factors alone have proven insufficient to individualize therapeutic decisions for depressed patients. The reason is that MDD is a heterogeneous disease (i.e., depression symptoms, such as sleep, mood, and appetite) and treatment outcomes vary greatly among patients, and social and demographic factors are often not consistently associated with either disease severity or outcomes.<xref rid="cpt1482-bib-0007" ref-type="ref">7</xref> A limitation acknowledged by the authors of prior reports is the lack of inclusion of biological factors associated with depression severity or therapeutic response to antidepressants in the prediction models.<xref rid="cpt1482-bib-0003" ref-type="ref">3</xref>, <xref rid="cpt1482-bib-0004" ref-type="ref">4</xref>, <xref rid="cpt1482-bib-0005" ref-type="ref">5</xref>, <xref rid="cpt1482-bib-0008" ref-type="ref">8</xref> To address this limitation, recent machine&#x02010;learning approaches have used genomics and/or metabolomics data to predict SSRI response, with AUC values of 0.68&#x02013;0.78.<xref rid="cpt1482-bib-0008" ref-type="ref">8</xref>, <xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0010" ref-type="ref">10</xref> Although the studies demonstrated the feasibility of integrating biological factors with machine learning to achieve improved prediction performance, they were limited by lack of replication across multiple trials and multiple depression rating scales, in addition to lack of significance from a pharmacogenomics perspective.<xref rid="cpt1482-bib-0008" ref-type="ref">8</xref>, <xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0010" ref-type="ref">10</xref>, <xref rid="cpt1482-bib-0011" ref-type="ref">11</xref>
+</p><p>In the present study, we used a machine&#x02010;learning workflow (depicted schematically in Figure <xref rid="cpt1482-fig-0001" ref-type="fig">1</xref>) to study the capabilities of functionally validated single nucleotide polymorphisms (SNPs) associated with SSRI pharmacodynamics, combined with clinical data, to predict SSRI response. For this study, we (i) algorithmically grouped (clustered) patients with MDD in the Mayo Clinic Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomic Study (PGRN&#x02010;AMPS) trial, using an unsupervised learning approach; (ii) predicted remission/response to citalopram/escitalopram treatment using supervised machine&#x02010;learning methods that considered clinical and pharmacogenomic data from the PGRN&#x02010;AMPS trial as predictor variables; and (iii) externally validated these patient clusters and statistical/machine&#x02010;learning models using data from the Sequenced Treatment Alternatives to Relieve Depression (STAR*D<xref rid="cpt1482-bib-0012" ref-type="ref">12</xref>) and the International SSRI Pharmacogenomics Consortium (ISPC<xref rid="cpt1482-bib-0013" ref-type="ref">13</xref>) datasets. These analyses are sex&#x02010;stratified, given the established evidence of sex differences in the prevalence of depression and increasing evidence of sex differences in antidepressant response. <xref rid="cpt1482-bib-0011" ref-type="ref">11</xref>, <xref rid="cpt1482-bib-0014" ref-type="ref">14</xref>, <xref rid="cpt1482-bib-0015" ref-type="ref">15</xref>, <xref rid="cpt1482-bib-0016" ref-type="ref">16</xref>, <xref rid="cpt1482-bib-0017" ref-type="ref">17</xref>, <xref rid="cpt1482-bib-0018" ref-type="ref">18</xref>, <xref rid="cpt1482-bib-0019" ref-type="ref">19</xref>, <xref rid="cpt1482-bib-0020" ref-type="ref">20</xref>, <xref rid="cpt1482-bib-0021" ref-type="ref">21</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="cpt1482-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The two&#x02010;stage analysis workflow. Our analysis workflow proceeded in two stages. In stage 1, we identified depressive symptom severity clusters in the Mayo Clinic Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomic Study (<styled-content style="fixed-case">PGRN</styled-content>&#x02010;<styled-content style="fixed-case">AMPS</styled-content>) dataset, separately for men and women, using a data&#x02010;driven approach (stage 1A); we then validated those clusters using data from Sequenced Treatment Alternatives to Relieve Depression (<styled-content style="fixed-case">STAR</styled-content>*D) and International SSRI Pharmacogenomics Consortium (<styled-content style="fixed-case">ISPC</styled-content>; stage 1B). Factors that differentiated the validated depressive symptom clusters were identified in stage 1C. In stage 2, predictive models were developed using <styled-content style="fixed-case">PGRN</styled-content>&#x02010;<styled-content style="fixed-case">AMPS</styled-content> data and were externally validated using <styled-content style="fixed-case">STAR</styled-content>*D and <styled-content style="fixed-case">ISPC</styled-content> data. HDRS, Hamilton Depression Rating Scale; QIDS&#x02010;C, Quick Inventory of Depressive Symptomatology; SMOTE, Synthetic Minority Oversampling Technique.</p></caption><graphic id="nlm-graphic-1" xlink:href="CPT-106-855-g001"/></fig><p>The pharmacogenomic biomarkers included in the present study are six SNPs in or near the <italic>TSPAN5</italic> (rs10516436), <italic>ERICH3</italic> (rs696692), <italic>DEFB1</italic> (rs5743467, rs2741130, and rs2702877), and <italic>AHR</italic> (rs17137566) genes. Each of these SNPs were the &#x0201c;top&#x0201d; SNP in its respective genomewide association study (GWAS) SNP signal, except that for <italic>DEFB1</italic>, we included the &#x0201c;top&#x0201d; SNP as well as two others in different haplotype blocks. The GWAS had used as phenotypes plasma serotonin and kynurenine concentrations assayed in PGRN&#x02010;AMPS samples.<xref rid="cpt1482-bib-0022" ref-type="ref">22</xref>, <xref rid="cpt1482-bib-0023" ref-type="ref">23</xref> Of the plasma metabolites assayed in those patients, serotonin and kynurenine concentrations were the most highly associated with SSRI outcomes at 8&#x000a0;weeks<xref rid="cpt1482-bib-0022" ref-type="ref">22</xref> or with baseline depressive symptom severity&#x02014;one of the most important predictors of eventual antidepressant treatment response.<xref rid="cpt1482-bib-0023" ref-type="ref">23</xref> The application of a research strategy that involved the use of metabolomics to &#x0201c;guide&#x0201d; genomics represented a step toward the inclusion of biological data (i.e., metabolite concentrations associated with outcomes), in an effort to move beyond the traditional rating scales used in psychiatry (e.g., the Hamilton Depression Rating Scale (HDRS) and the Quick Inventory of Depressive Symptomatology (QIDS&#x02010;C)). Subsequent functional genomic studies showed that knockdown of both TSPAN5 and ERICH3 in neuronally derived cell lines resulted in decreased serotonin in the cell culture media, and that alterations in the expression of both DEFB1 and AHR could influence kynurenine biosynthesis as well as the effects of mediators of inflammation,<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0010" ref-type="ref">10</xref> a process that has been shown to play an important role in MDD pathophysiology.<xref rid="cpt1482-bib-0024" ref-type="ref">24</xref>, <xref rid="cpt1482-bib-0025" ref-type="ref">25</xref>, <xref rid="cpt1482-bib-0026" ref-type="ref">26</xref>
+</p></sec><sec id="cpt1482-sec-0002"><title>Results</title><sec id="cpt1482-sec-0003"><title>Total depressive symptom severity clusters</title><p>We first observed that the distribution of total depression severity scores (Figure <xref rid="cpt1482-fig-0002" ref-type="fig">2</xref>
+<bold>a</bold>) comprised multiple Gaussian distributions (Figure <xref rid="cpt1482-fig-0002" ref-type="fig">2</xref>
+<bold>b</bold>). Our unsupervised learning approach inferred subgroups of patients (clusters) based on which Gaussian distribution their score belonged to, and algorithmically identified three distinct clusters for both men and women (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;1.3E&#x02010;09; the significance level for the test is 0.05/3, because we are comparing differences between 3 distributions at each time point) in PGRN&#x02010;AMPS based on their total depression scores at each time point. The distribution of scores representing each of the three clusters at baseline (A1, A2, and A3), after 4&#x000a0;weeks (B1, B2, and B3), and 8&#x000a0;weeks (C1, C2, and C3) of SSRI treatment is illustrated in Figure <xref rid="cpt1482-fig-0003" ref-type="fig">3</xref>. For the cluster assignments (shown in Figure <xref rid="cpt1482-fig-0003" ref-type="fig">3</xref>), the letters (e.g., A, B, and C) represent the treatment time points, and the numeric suffix at each time point represents the level of depression severity, with &#x0201c;3&#x0201d; being the most severely depressed subjects, &#x0201c;1&#x0201d; being mild depression, and &#x0201c;2&#x0201d; being moderate levels of depression.</p><fig fig-type="Figure" xml:lang="en" id="cpt1482-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Probability density functions (<styled-content style="fixed-case">PDF</styled-content>s) of depression severity scores. Baseline Quick Inventory of Depressive Symptomatology (<styled-content style="fixed-case">QIDS</styled-content>&#x02010;C) symptom severity scores in men (<bold>a</bold>), and the estimated components of the <styled-content style="fixed-case">PDF</styled-content> using an expectation&#x02010;maximization algorithm (<bold>b</bold>). [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-3" xlink:href="CPT-106-855-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="cpt1482-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Depressive symptom&#x02013;based clusters identified by data&#x02010;driven unsupervised learning using Gaussian mixture models. Probability densities of symptom severity in clusters at baseline, 4&#x000a0;weeks, and 8&#x000a0;weeks of the Mayo Clinic Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomic Study trial for both the Quick Inventory of Depressive Symptomatology (<styled-content style="fixed-case">QIDS</styled-content>&#x02010;C) (<bold>a</bold>) and Hamilton Depression Rating Scale (<styled-content style="fixed-case">HDRS</styled-content>) (<bold>b</bold>) scales. Probability densities are proportional to the fraction of patients with the associated symptom severity scores.</p></caption><graphic id="nlm-graphic-5" xlink:href="CPT-106-855-g003"/></fig><p>Because treatment outcomes are defined after 8&#x000a0;weeks of SSRI treatment (see <xref rid="cpt1482-sec-0006" ref-type="sec">Methods</xref>), we were interested in how the clusters might relate to standard definitions of treatment outcomes (e.g., remission or response). In both men and women, C1 included all patients who achieved remission (i.e., their HDRS or QIDS&#x02010;C total scores were &#x02264;7 or &#x02264;5, respectively). Eighty&#x02010;seven percent of patients in C2 achieved response (the remaining patients were nonresponders), defined as a decrease in either the HDRS or QIDS&#x02010;C total score of at least 50% but without achieving remission. Multivariate clustering on individual depressive item scores for both scales did not yield three clusters at 8&#x000a0;weeks that conformed to accepted definitions of response or remission (Figure <xref rid="cpt1482-sup-0002" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>).</p><p>After we applied the same unsupervised learning approach to the STAR*D (QIDS&#x02010;C&#x02013;measured severity) and ISPC (HDRS&#x02010;measured severity) datasets, three clusters of men and women were again identified at all time points. These clusters did not differ statistically (<italic>P</italic>&#x000a0;&#x0003e;&#x000a0;0.1) from those inferred in PGRN&#x02010;AMPS, providing external validation. As observed in PGRN&#x02010;AMPS, the 8&#x02010;week clusters (C1, C2, and C3) identified in STAR*D and ISPC conformed to accepted clinical definitions of remission, response (without remission), and nonresponse, respectively, for both depression rating scales. These externally validated clusters allowed us to identify associations of depression severity with the clinical and demographic factors listed in <bold>Table</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>.</p></sec><sec id="cpt1482-sec-0004"><title>Association of clinical and demographic factors, cytochrome P450 <italic>2C19</italic> metabolizer phenotypes, and plasma drug levels with severity&#x02010;based clusters</title><p>For citalopram&#x02010;treated or escitalopram&#x02010;treated PGRN&#x02010;AMPS patients across different drug dosages after 4 and 8&#x000a0;weeks of treatment, and across all three clusters for both men and women at any time point (<italic>P</italic>&#x000a0;&#x0003e;&#x000a0;0.1, <bold>Figures</bold>
+<xref rid="cpt1482-sup-0002" ref-type="supplementary-material">
+<bold>S2&#x02013;S4</bold>
+</xref>), there were no significant differences in the distributions of any of the clinical or demographic factors listed in <bold>Table</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>, in drug dosing, or in plasma drug levels.</p><p>Given the lack of associations of clinical/demographic factors or cytochrome P450 (<italic>CYP</italic>)<italic>2C19</italic> metabolizer phenotypes with depression severity clusters at baseline or at 8&#x000a0;weeks, we focused on testing the capability of pharmacogenomic SNP biomarkers combined with baseline depression severity to predict remission (i.e., patients found in cluster C1 at 8&#x000a0;weeks) or response, regardless of the baseline cluster in which they began treatment. We trained prediction models stratified by sex for each rating scale.</p></sec><sec id="cpt1482-sec-0005"><title>Response/remission prediction performance</title><sec id="cpt1482-sec-0006"><title>Prediction performance using only sociodemographic factors</title><p>In our prior work,<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref> the accuracy (percent of correctly predicted outcomes) and AUC when only depression severity (QIDS&#x02010;C or HDRS) scores, together with social and demographic factors, were used as predictors and were 48&#x02013;55% and 0.54&#x02013;0.67%, respectively. We later compared those results with the prediction performances of classifiers that used both baseline depression severity and pharmacogenomic SNP data.</p></sec><sec id="cpt1482-sec-0007"><title>Training performance using PGRN&#x02010;AMPS data</title><p>In PGRN&#x02010;AMPS (for which we used nested cross&#x02010;validation to train the prediction models), baseline depression severity combined with pharmacogenomic biomarkers predicted sex&#x02010;specific response and remission status with accuracies of 73&#x02013;88% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.01; AUC 0.7&#x02013;0.9) and 71&#x02013;86% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.04; AUC 0.75&#x02013;0.9), respectively (Table&#x000a0;<xref rid="cpt1482-tbl-0001" ref-type="table">
+<bold>Table&#x000a0;1</bold>
+</xref>; the ranges represent results for both sexes<bold>)</bold>. When the <italic>CYP2C19</italic> metabolizer phenotype was included as a predictor variable, the prediction accuracies were reduced by &#x02265;4% for remission and response in both sexes and both scales (<italic>P</italic>&#x000a0;&#x0003e;&#x000a0;0.3).</p><table-wrap id="cpt1482-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 
+<bold>Table&#x000a0;1</bold></label><caption><p>
+<bold>Prediction performance of random forests using baseline depression severity and functionally validated SNPs of </bold>
+<italic><bold>TSPAN5</bold></italic>
+<bold>, </bold>
+<italic><bold>AHR</bold></italic>
+<bold>, </bold>
+<italic><bold>DEFB1</bold></italic>
+<bold>, and </bold>
+<italic><bold>ERICH3</bold></italic>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Rating scale</th><th align="center" valign="top" rowspan="1" colspan="1">Trial</th><th align="center" valign="top" rowspan="1" colspan="1">Training data</th><th align="center" valign="top" rowspan="1" colspan="1">Gender</th><th align="center" valign="top" rowspan="1" colspan="1">Accuracy (%)</th><th align="center" valign="top" rowspan="1" colspan="1">95% CI in training cross&#x02010;validation</th><th align="center" valign="top" rowspan="1" colspan="1">NIR</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th><th align="center" valign="top" rowspan="1" colspan="1">Sensitivity</th><th align="center" valign="top" rowspan="1" colspan="1">Specificity</th><th align="center" valign="top" rowspan="1" colspan="1">PPV</th><th align="center" valign="top" rowspan="1" colspan="1">NPV</th><th align="center" valign="top" rowspan="1" colspan="1">AUC in training cross&#x02010;validation</th><th align="center" valign="top" rowspan="1" colspan="1">Top 3 predictors in cross&#x02010;validation</th></tr></thead><tbody><tr><td align="left" colspan="14" rowspan="1">Response</td></tr><tr><td align="left" style="padding-left:10%" rowspan="4" colspan="1">QIDS&#x02010;C</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="2" colspan="1">10&#x02010;fold cross&#x02010;validation</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="char" char="." rowspan="1" colspan="1">(63,&#x000a0;82)</td><td align="char" char="." rowspan="1" colspan="1">0.66</td><td align="char" char="." rowspan="1" colspan="1">0.01</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">0.78</td><td align="char" char="." rowspan="1" colspan="1">0.86</td><td align="char" char="." rowspan="1" colspan="1">0.57</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="left" rowspan="1" colspan="1">DEFB1_2, Baseline severity, DEFB1_1</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">(65,&#x000a0;83)</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.0003</td><td align="char" char="." rowspan="1" colspan="1">0.71</td><td align="char" char="." rowspan="1" colspan="1">0.8</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">0.62</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="left" rowspan="1" colspan="1">TSPAN5, DEFB1_1, Baseline severity</td></tr><tr><td align="left" rowspan="2" colspan="1">STAR*D</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.06</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">0.72</td><td align="char" char="." rowspan="1" colspan="1">0.82</td><td align="char" char="." rowspan="1" colspan="1">0.51</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.0007</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">0.78</td><td align="char" char="." rowspan="1" colspan="1">0.52</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="4" colspan="1">HDRS</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="2" colspan="1">10&#x02010;fold cross&#x02010;validation</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">86</td><td align="char" char="." rowspan="1" colspan="1">(81,&#x000a0;94)</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">5.70E&#x02010;04</td><td align="char" char="." rowspan="1" colspan="1">0.9</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">0.93</td><td align="char" char="." rowspan="1" colspan="1">0.79</td><td align="char" char="." rowspan="1" colspan="1">0.88</td><td align="left" rowspan="1" colspan="1">TSPAN5, DEFB1_1, DEFB1_2</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">88</td><td align="char" char="." rowspan="1" colspan="1">(78,&#x000a0;93)</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">7.30E&#x02010;09</td><td align="char" char="." rowspan="1" colspan="1">0.9</td><td align="char" char="." rowspan="1" colspan="1">0.82</td><td align="char" char="." rowspan="1" colspan="1">0.91</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">DEFB1_1, Baseline severity, DEFB1_2</td></tr><tr><td align="left" rowspan="2" colspan="1">ISPC</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">77</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">0.05</td><td align="char" char="." rowspan="1" colspan="1">0.8</td><td align="char" char="." rowspan="1" colspan="1">0.71</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">0.62</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.65</td><td align="char" char="." rowspan="1" colspan="1">0.01</td><td align="char" char="." rowspan="1" colspan="1">0.78</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.82</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" colspan="14" rowspan="1">Remission</td></tr><tr><td align="left" style="padding-left:10%" rowspan="4" colspan="1">QIDS&#x02010;C</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="2" colspan="1">10&#x02010;fold cross&#x02010;validation</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">78</td><td align="char" char="." rowspan="1" colspan="1">(69,&#x000a0;86)</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">5.40E&#x02010;08</td><td align="char" char="." rowspan="1" colspan="1">0.81</td><td align="char" char="." rowspan="1" colspan="1">0.75</td><td align="char" char="." rowspan="1" colspan="1">0.84</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">0.86</td><td align="left" rowspan="1" colspan="1">Baseline severity, DEFB1_1, DEFB1_2</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="char" char="." rowspan="1" colspan="1">(60,&#x000a0;80)</td><td align="char" char="." rowspan="1" colspan="1">0.62</td><td align="char" char="." rowspan="1" colspan="1">0.0001</td><td align="char" char="." rowspan="1" colspan="1">0.6</td><td align="char" char="." rowspan="1" colspan="1">0.83</td><td align="char" char="." rowspan="1" colspan="1">0.84</td><td align="char" char="." rowspan="1" colspan="1">0.59</td><td align="char" char="." rowspan="1" colspan="1">0.75</td><td align="left" rowspan="1" colspan="1">Baseline severity, DEFB1_2, DEFB1_1</td></tr><tr><td align="left" rowspan="2" colspan="1">STAR*D</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.55</td><td align="char" char="." rowspan="1" colspan="1">0.008</td><td align="char" char="." rowspan="1" colspan="1">0.79</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">0.75</td><td align="char" char="." rowspan="1" colspan="1">0.72</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.5</td><td align="char" char="." rowspan="1" colspan="1">0.001</td><td align="char" char="." rowspan="1" colspan="1">0.59</td><td align="char" char="." rowspan="1" colspan="1">0.72</td><td align="char" char="." rowspan="1" colspan="1">0.67</td><td align="char" char="." rowspan="1" colspan="1">0.63</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" style="padding-left:10%" rowspan="4" colspan="1">HDRS</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="2" colspan="1">10&#x02010;fold cross&#x02010;validation</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">86</td><td align="char" char="." rowspan="1" colspan="1">(75,&#x000a0;90)</td><td align="char" char="." rowspan="1" colspan="1">0.55</td><td align="char" char="." rowspan="1" colspan="1">0.0001</td><td align="char" char="." rowspan="1" colspan="1">0.9</td><td align="char" char="." rowspan="1" colspan="1">0.84</td><td align="char" char="." rowspan="1" colspan="1">0.87</td><td align="char" char="." rowspan="1" colspan="1">0.87</td><td align="char" char="." rowspan="1" colspan="1">0.84</td><td align="left" rowspan="1" colspan="1">Baseline severity, DEFB1_2, DEFB1_1</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">83</td><td align="char" char="." rowspan="1" colspan="1">(75,&#x000a0;90)</td><td align="char" char="." rowspan="1" colspan="1">0.51</td><td align="char" char="." rowspan="1" colspan="1">0.03</td><td align="char" char="." rowspan="1" colspan="1">0.87</td><td align="char" char="." rowspan="1" colspan="1">0.8</td><td align="char" char="." rowspan="1" colspan="1">0.82</td><td align="char" char="." rowspan="1" colspan="1">0.85</td><td align="char" char="." rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">Baseline severity, DEFB1_2, DEFB1_1</td></tr><tr><td align="left" rowspan="2" colspan="1">ISPC</td><td align="left" rowspan="2" colspan="1">PGRN&#x02010;AMPS</td><td align="left" rowspan="1" colspan="1">Men</td><td align="char" char="." rowspan="1" colspan="1">76</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.56</td><td align="char" char="." rowspan="1" colspan="1">0.04</td><td align="char" char="." rowspan="1" colspan="1">0.8</td><td align="char" char="." rowspan="1" colspan="1">0.71</td><td align="char" char="." rowspan="1" colspan="1">0.77</td><td align="char" char="." rowspan="1" colspan="1">0.73</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Women</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="char" char="." rowspan="1" colspan="1">0.52</td><td align="char" char="." rowspan="1" colspan="1">0.07</td><td align="char" char="." rowspan="1" colspan="1">0.76</td><td align="char" char="." rowspan="1" colspan="1">0.72</td><td align="char" char="." rowspan="1" colspan="1">0.74</td><td align="char" char="." rowspan="1" colspan="1">0.73</td><td align="char" char="." rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr></tbody></table><table-wrap-foot><fn id="cpt1482-note-0011"><p>Results of 10&#x02010;fold internal cross&#x02010;validation using PGRN&#x02010;AMPS patients&#x02019; data are reported in the light&#x02010;blue blocks. Results from external validation in STAR*D (QIDS&#x02010;C) and ISPC (HDRS) of the prediction model trained using PGRN&#x02010;AMPS patients&#x02019; data are reported in the light&#x02010;orange blocks.</p></fn><fn id="cpt1482-note-0001"><p>AUC, area under the receiver operating curve; CI, confidence interval; HDRS, Hamilton Depression Rating Scale; ISPC, International SSRI Pharmacogenomics Consortium; NA, not applicable; NIR, null information rate; NPV, negative predictive value; PGRN&#x02010;AMPS, Mayo Clinic Pharmacogenomics Research Network Antidepressant Medication Pharmacogenomic Study; PPV, positive predictive value; QIDS&#x02010;C, Quick Inventory of Depressive Symptomatology; SNP, single nucleotide polymorphism; STAR*D, Sequenced Treatment Alternatives to Relieve Depression.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cpt1482-sec-0008"><title>Top predictor variables during training</title><p>We next evaluated the contribution of each of the SNP biomarkers and baseline HDRS and QIDS&#x02010;C scores to the prediction accuracy of the algorithm. As shown in Figure <xref rid="cpt1482-fig-0004" ref-type="fig">4</xref>, for outcomes defined using HDRS, the top predictor for remission for both women and men was baseline depression severity, followed by the <italic>DEFB1</italic>_2 (rs2741130) and <italic>DEFB1</italic>_1 (rs5743467) SNPs&#x02014;biomarkers identified during our GWAS for plasma kynurenine concentrations. The top SNPs for response for men were the <italic>TSPAN5</italic> SNPs, which was the top hit in our GWAS for plasma serotonin concentration, followed by the <italic>DEFB1</italic>_1 and <italic>DEFB1</italic>_2 SNPs. For response in women, the top predictor was the <italic>DEFB1</italic>_1 SNP, followed by baseline depression severity and the <italic>DEFB1</italic>_2 SNP. Figure <xref rid="cpt1482-sup-0002" ref-type="supplementary-material">
+<bold>S5</bold>
+</xref> shows comparable contributions of predictors when QIDS&#x02010;C rather than HDRS was used to define remission and response. When QIDS&#x02010;C was used, DEFB1_1, DEFB1_2, and total depression severity were consistently among the top predictors of either outcome, just as with HDRS.</p><fig fig-type="Figure" xml:lang="en" id="cpt1482-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Importance of variables for predicting clinical outcomes measured using Hamilton Depression Rating Scale (<styled-content style="fixed-case">HDRS</styled-content>). SNPs, single nucleotide polymorphisms.</p></caption><graphic id="nlm-graphic-7" xlink:href="CPT-106-855-g004"/></fig></sec><sec id="cpt1482-sec-0009"><title>External validation using STAR*D and ISPC data</title><p>The classifier trained using PGRN&#x02010;AMPS baseline depression severity and SNP data predicted response and remission, as defined by the QIDS&#x02010;C scores, in STAR*D patients with accuracies for men of: 66%, women: 66% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.06) and men: 75%, women: 65% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.07), respectively (<bold>Table</bold>
+<xref rid="cpt1482-tbl-0001" ref-type="table">
+<bold>Table&#x000a0;1</bold>
+</xref>). The classifier trained using PGRN&#x02010;AMPS baseline depression severity and SNP data predicted response and remission, as defined by HDRS scores, in ISPC patients with accuracies for men of: 77%, women: 75% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.07) and men: 77%, women: 74% (<italic>P</italic>&#x000a0;&#x02264;&#x000a0;0.07), respectively (<bold>Table</bold>
+<xref rid="cpt1482-tbl-0001" ref-type="table">
+<bold>Table&#x000a0;1</bold>
+</xref>).</p></sec></sec></sec><sec id="cpt1482-sec-0010"><title>Discussion</title><sec id="cpt1482-sec-0011"><title>Improved predictions and mechanistic significance</title><p>We have shown that robust prediction of citalopram/escitalopram treatment outcomes can be achieved in depressed patients by using machine&#x02010;learning approaches that integrate baseline depression severity with functionally validated pharmacogenomic SNP biomarkers. The AUC of 0.70 or higher achieved in this work represents an advance over our prior work, in which we used sociodemographic and clinical factors as predictor variables in a machine&#x02010;learning algorithm applied to PGRN&#x02010;AMPS data that resulted in an AUC of 0.54.<xref rid="cpt1482-bib-0027" ref-type="ref">27</xref> The prediction of antidepressive response must account for multiple interactions among biological, psychological, and environmental factors. Because of the phenotypic complexity of antidepressive response, others have defined an AUC of 0.70 or higher as being clinically meaningful&#x02014;that is, sufficiently accurate to guide clinical decision making.<xref rid="cpt1482-bib-0005" ref-type="ref">5</xref> Crucially, we demonstrated cross&#x02010;trial replication of prediction performance across rating scales in both STAR*D (QIDS&#x02010;C scale) and ISPC (HDRS scale) trials with precision similar to that observed in training with PGRN&#x02010;AMPS data. This work also represents an advance over traditional pharmacogenetic candidate gene approaches that identify plausible genes and SNPs associated with outcomes.<xref rid="cpt1482-bib-0028" ref-type="ref">28</xref>, <xref rid="cpt1482-bib-0029" ref-type="ref">29</xref>, <xref rid="cpt1482-bib-0030" ref-type="ref">30</xref>, <xref rid="cpt1482-bib-0031" ref-type="ref">31</xref>, <xref rid="cpt1482-bib-0032" ref-type="ref">32</xref>, <xref rid="cpt1482-bib-0033" ref-type="ref">33</xref>, <xref rid="cpt1482-bib-0034" ref-type="ref">34</xref> We achieved that advance by asking whether the application of machine&#x02010;learning approaches that combine clinical assessments with a group of functionally validated pharmacogenomic SNPs as predictor variables might make it possible to predict SSRI treatment outcomes. Taken as a whole, our findings represent an important step toward the goal of algorithmically determining whether SSRIs are likely to be effective in patients with MDD prior to treatment initiation.</p><p>The pharmacogenomic biomarkers used in this study, namely SNPs in the <italic>DEFB1</italic>,<italic> AHR</italic>,<italic> TSPAN5</italic>, and <italic>ERICH3</italic> genes, were chosen based on the important roles of these genes in serotonin or kynurenine biosynthesis or in inflammation&#x02014;mechanisms that are known to be associated with MDD disease risk and/or antidepressant response.<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0010" ref-type="ref">10</xref> As noted earlier, prior experimental work showed that knockdown of the expression of both TSPAN5 and ERICH3 in neuronally derived cell lines resulted in decreased serotonin release into the culture media.<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref> The <italic>DEFB1</italic> gene encodes a protein expressed in gastrointestinal mucosa that can inactivate lipopolysaccharides and, in turn, inhibit both inflammation and the biosynthesis of kynurenine, which is enhanced by inflammatory mediators.<xref rid="cpt1482-bib-0010" ref-type="ref">10</xref> The facts that the <italic>DEFB1</italic> SNPs figured so prominently and that this gene encodes a gut mucosal protein that can inactivate both lipopolysaccharides and gut bacteria highlight the potential importance of the rapidly evolving concept of agut&#x02013;brain axis.<xref rid="cpt1482-bib-0025" ref-type="ref">25</xref>, <xref rid="cpt1482-bib-0035" ref-type="ref">35</xref>
+</p><p>The identification of these &#x0201c;top hit&#x0201d; SNPs during GWAS was performed for quantitative biological traits (i.e., metabolite concentrations), rather than measures of MDD clinical symptom severity (i.e., HDRS or QIDS&#x02010;C), as our use of phenotypes represented a conscious attempt to move our analyses toward the biological underpinning of SSRI response. Because another of our goals involved cross&#x02010;trial replication, we focused on pharmacogenomic SNP biomarkers in our predictive model because DNA data were more widely available across datasets than were other &#x0201c;omics&#x0201d; data. Furthermore, unlike metabolomics data, DNA sequences are stable and are less susceptible to variation related to environmental exposures or specimen handling and processing.</p><p>We acknowledge that the SNPs included in our study are not the only SNPs that might contribute to the predictability of antidepressant outcomes with this type of computational approach. Future investigation with methodological innovations will make it possible to screen a large number of SNPs across the human genome that may be more highly predictive of SSRI treatment outcomes than those used in this initial effort. Our results (as described in this work) from using pharmacodynamic biomarkers are promising because they suggest that, if similar approaches to derivation of biomarkers to study clinical responses are used with other antidepressants (such as serotonin&#x02010;norepinephrine reuptake inhibitors or esketamine), subsequent studies using machine&#x02010;learning approaches like ours may lead to the development of drug&#x02010;specific or of drug&#x02010;agnostic (regardless of antidepressant subtype) predictive models that could guide treatment selection.</p></sec><sec id="cpt1482-sec-0012"><title>Clinical implications of patient clustering</title><p>The following are the clinical implications of the patient clusters inferred in this work.</p><sec id="cpt1482-sec-0013"><title>Toward clinically actionable modeling of longitudinal effects of antidepressants</title><p>In practice, clinicians&#x02019; ability to forecast eventual antidepressant treatment outcomes rests on their ability to factor baseline depression severity and subsequent changes in symptoms at intermediate time points, before a therapeutic trial is complete. To study the longitudinal effects of antidepressants, the patient clusters inferred in this work served as nodes of a probabilistic graph that made it possible to capture the longitudinal variation of depression symptoms over time, conditioned on baseline characteristics and changes in those characteristics at intermediate time points&#x02014;a process that we have referred to as &#x0201c;symptom dynamics.&#x0201d;<xref rid="cpt1482-bib-0027" ref-type="ref">27</xref> Therefore, replication of the cluster patterns at baseline and at 4&#x000a0;weeks is just as important as the replication of clinically valid clusters at 8&#x000a0;weeks. Understanding the symptom dynamics within clusters of patients defined by depression severity and biological characteristics at baseline (predictive outcome markers) and at intermediate time points (change markers) may lead to further improvement in our understanding of antidepressant response. Specifically, in clinical settings where genomic biomarkers are not assayable, a symptom&#x02010;based model that analyzes improvements in the severity of depressive symptoms at 4&#x000a0;weeks could still be used to provide prognoses of treatment outcomes at 8&#x000a0;weeks. A detailed understanding of the symptom dynamics across multiple time points may enable clinicians to change treatments if the predicted chances for response/remission are low.</p></sec><sec id="cpt1482-sec-0014"><title>Biological associations with depression severity</title><p>Our clustering approach can also be used to iteratively investigate the effects of multiple biological measures (e.g., metabolomics and genomics), individually and in groups, for predicting antidepressant response. Systematic studies using a variety of biological measures and other antidepressants may lead to improved understanding of the underlying neurobiology of antidepressant response and an enhanced ability to match individual patients with MDD with specific antidepressants based on their biological profiles.</p></sec></sec><sec id="cpt1482-sec-0015"><title>Sex differences</title><p>When antidepressants are being chosen, potential sex differences in the underlying biology of antidepressant response are often overlooked. It is clear that sex represents an important risk factor for MDD, with virtually all studies reporting twice as many affected women as men.<xref rid="cpt1482-bib-0015" ref-type="ref">15</xref> Although sex has been reported to influence response to antidepressants in some studies,<xref rid="cpt1482-bib-0011" ref-type="ref">11</xref>, <xref rid="cpt1482-bib-0017" ref-type="ref">17</xref>, <xref rid="cpt1482-bib-0021" ref-type="ref">21</xref>, <xref rid="cpt1482-bib-0036" ref-type="ref">36</xref>, <xref rid="cpt1482-bib-0037" ref-type="ref">37</xref> prior machine&#x02010;learning approaches using sociodemographic factors as predictors did not identify sex as a robust predictor of remission.<xref rid="cpt1482-bib-0004" ref-type="ref">4</xref> The sex&#x02010;specific differences in some top predictors of treatment outcomes in our study (see <bold>Figures</bold>
+<xref rid="cpt1482-fig-0004" ref-type="fig">4</xref>
+<bold>and</bold>
+<xref rid="cpt1482-sup-0002" ref-type="supplementary-material">
+<bold>S5</bold>
+</xref>), and in recent targeted metabolomics&#x02010;based antidepressant prediction studies,<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0011" ref-type="ref">11</xref> suggest that sex&#x02010;specific biological mechanisms may play an important role in antidepressant response.</p></sec><sec id="cpt1482-sec-0016"><title>CYP2C19 metabolizer phenotype and depression severity clusters</title><p>Our observation that the <italic>CYP2C19</italic> metabolizer phenotype was not significantly associated with citalopram/escitalopram treatment outcomes or depression severity clusters is similar to findings from previous research. Although functional <italic>CYP2C19</italic> allele variants are associated with citalopram/escitalopram metabolism and some drug side effects,<xref rid="cpt1482-bib-0038" ref-type="ref">38</xref> the impact of CYP P450 genotypes, including <italic>CYP2C19</italic>, on therapeutic outcomes has been less clear.<xref rid="cpt1482-bib-0039" ref-type="ref">39</xref> Some studies in depressed patients have found a significant association between the <italic>CYP2C19</italic> genotype and treatment response to citalopram or escitalopram,<xref rid="cpt1482-bib-0040" ref-type="ref">40</xref>, <xref rid="cpt1482-bib-0041" ref-type="ref">41</xref> whereas other studies have failed to demonstrate such an association.<xref rid="cpt1482-bib-0042" ref-type="ref">42</xref>, <xref rid="cpt1482-bib-0043" ref-type="ref">43</xref> There are similar inconsistencies in the results of studies attempting to link serum concentrations of antidepressants, including citalopram, with antidepressant response.<xref rid="cpt1482-bib-0044" ref-type="ref">44</xref>, <xref rid="cpt1482-bib-0045" ref-type="ref">45</xref> The lack of improved predictability of treatment outcomes through use of the <italic>CYP2C19</italic> genotype does not mean that pharmacokinetic mechanisms and the <italic>CYP2C19</italic> genotype are not clinically relevant. That is especially true with respect to adverse responses, such as dose&#x02010;dependent risk for corrected QT interval prolongation with citalopram.<xref rid="cpt1482-bib-0039" ref-type="ref">39</xref>
+</p></sec><sec id="cpt1482-sec-0017"><title>Methodological considerations in clustering patients</title><p>We focused on the use of total depression scale scores rather than individual depression scale items for three reasons. First, total depression scores at baseline were the most robust predictor of clinical outcomes in prior machine&#x02010;learning studies.<xref rid="cpt1482-bib-0004" ref-type="ref">4</xref> Second, total depression scores have been widely used to define nonresponse, response, and remission in clinical trials.<xref rid="cpt1482-bib-0046" ref-type="ref">46</xref> Finally, we showed in this work that multivariate clustering approaches that use individual depression item scores did not yield clustering patterns at 8&#x000a0;weeks that conformed to accepted definitions of response or remission (Figure <xref rid="cpt1482-sup-0002" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>). The lack of associations between social/demographic factors and any of the depressive symptom severity clusters also agrees with prior work demonstrating that social/demographic factors individually or in aggregate cannot accurately predict antidepressant treatment outcomes.<xref rid="cpt1482-bib-0004" ref-type="ref">4</xref>, <xref rid="cpt1482-bib-0006" ref-type="ref">6</xref>, <xref rid="cpt1482-bib-0047" ref-type="ref">47</xref>, <xref rid="cpt1482-bib-0048" ref-type="ref">48</xref>
+</p></sec><sec id="cpt1482-sec-0018"><title>Predictive pharmacogenomic biomarkers for stratified randomization of clinical trials</title><p>Our results have potential implications for the design of future antidepressant trials. The predictive biomarkers in this study were pharmacodynamic in nature and are linked to important mechanisms underlying MDD risk and/or antidepressant response. If our results are replicated and extended to other antidepressants, these biomarkers may serve as genetic factors that may be used to screen out (exclude) patients on the basis of a high predicted likelihood of treatment failure. Alternatively, this information could be used to stratify clinical trial participants into categories with higher and lower risk of treatment failure prior to randomization. If so, randomization to treatment condition would be conducted within each risk group (i.e., there would be stratified randomization),<xref rid="cpt1482-bib-0049" ref-type="ref">49</xref> thus ensuring an optimum balance in outcome prognoses between treatment groups.</p></sec></sec><sec id="cpt1482-sec-0019"><title>Limitations</title><p>The patient samples studied comprised white subjects, which reduced confounding by race but limits the generalizability of the predictions. We had no direct measures of socioeconomic status and comorbid anxiety, factors associated with poorer response to antidepressants.<xref rid="cpt1482-bib-0048" ref-type="ref">48</xref>, <xref rid="cpt1482-bib-0050" ref-type="ref">50</xref> Because we included complete cases, we cannot exclude the possibility of confounding by patients who dropped out. Although the improvement in outcome predictions was replicated across clinical trials of citalopram/escitalopram, this work has not been replicated for other antidepressants. Finally, patients were not excluded on the basis of body mass index or comorbid general medical conditions that might have influenced the interaction between drug treatment and genomic profile.</p></sec><sec id="cpt1482-sec-0020"><title>Conclusions</title><p>In summary, this study demonstrates that statistical/machine&#x02010;learning approaches that integrate baseline depression severity with functionally validated pharmacogenomic SNP biomarkers can be used to enhance our ability to predict antidepressant drug response phenotypes during short&#x02010;term treatment. The patient clusters inferred and replicated across trials and depression rating scales could lead to better understanding of the underlying pathophysiology of MDD. Extension of this work to additional antidepressants may have the potential to increase the precision of antidepressant drug selection for individual patients and may serve as a platform for the use of antidepressant drugs as molecular probes to identify underlying mechanisms of disease and molecular subsets of MDD, a disease that is currently defined by symptoms rather than biological mechanisms.</p></sec><sec id="cpt1482-sec-0021"><title>Methods</title><sec id="cpt1482-sec-0022"><title>Data sources</title><p>PGRN&#x02010;AMPS (NCT 00613470) was an 8&#x02010;week, single&#x02010;arm, open trial that assessed clinical outcomes in adults with MDD in response to citalopram/escitalopram and examined metabolomic and genomic factors associated with those outcomes.<xref rid="cpt1482-bib-0051" ref-type="ref">51</xref> Subjects were recruited from primary&#x02010;care and specialty&#x02010;care settings from March 2005 to May 2013. Psychiatric diagnoses were confirmed using modules A, B (screen&#x02010;only version), and D of the Structured Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (SCID).<xref rid="cpt1482-bib-0052" ref-type="ref">52</xref> Clinical and demographic variables from the PGRN&#x02010;AMPS dataset used in the analyses (<bold>Table</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>) were assessed at baseline using standardized questionnaires.</p><p>Data from the initial phase of the STAR*D trial (NCT 00021528)<xref rid="cpt1482-bib-0012" ref-type="ref">12</xref> and ISPC<xref rid="cpt1482-bib-0013" ref-type="ref">13</xref> were used to externally validate the depressive symptom response subgroups inferred in the PGRN&#x02010;AMPS subjects, and the prediction models trained using PGRN&#x02010;AMPS's data. The initial phase of STAR*D was a 12&#x02010;week clinical trial of citalopram for adults with MDD conducted in the United States from June 2001 to April 2004. Subjects were recruited from primary&#x02010;care and specialty&#x02010;care settings. ISPC comprised seven member sites that contributed data from seven clinical trials of SSRIs for depression carried out in North America, Europe, and Asia to examine genetic factors driving variation in clinical response to SSRIs.<xref rid="cpt1482-bib-0013" ref-type="ref">13</xref> Details of STAR*D's study procedures and a description of each contributing study in ISPC have been published previously,<xref rid="cpt1482-bib-0012" ref-type="ref">12</xref>, <xref rid="cpt1482-bib-0013" ref-type="ref">13</xref>, <xref rid="cpt1482-bib-0053" ref-type="ref">53</xref>, <xref rid="cpt1482-bib-0054" ref-type="ref">54</xref> and are described in <bold>Section</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>.</p><p>The PGRN&#x02010;AMPS study protocol was approved by the Institutional Review Board at Mayo Clinic. All study sites included in the ISPC analyses were approved for participation in the ISPC consortium by their local institutional review boards. The University of Texas Southwestern Medical Center (Dallas, TX), the institutional review boards at each clinical site, and the Data Coordinating Center and the Data Safety and Monitoring Board of the National Institute of Mental Health approved and monitored the study protocol. Finally, all PGRN&#x02010;AMPS, STAR*D, and ISPC participants provided written informed consent before study entry.</p><p>For the present analyses, we utilized data from 398 (men: 144, women: 254) white citalopram&#x02010;treated PGRN&#x02010;AMPS subjects, 467 (men: 182, women: 285) white citalopram&#x02010;treated STAR*D subjects, and 165 (men: 62, women: 103) white citalopram/escitalopram&#x02013;treated ISPC subjects who had genotype and complete clinical data (no missing values) at baseline and at 4 and 8&#x000a0;weeks. All PGRN&#x02010;AMPS and ISPC subjects also had <italic>CYP2C19</italic> metabolizer genotype data at baseline, and plasma drug levels at 4 and 8&#x000a0;weeks. Details of genotyping and GWAS of the PGRN&#x02010;AMPS, STAR*D, and ISPC subjects have been previously published.<xref rid="cpt1482-bib-0022" ref-type="ref">22</xref>, <xref rid="cpt1482-bib-0023" ref-type="ref">23</xref>, <xref rid="cpt1482-bib-0051" ref-type="ref">51</xref>
+</p></sec><sec id="cpt1482-sec-0023"><title>Clinical outcomes</title><p>In all three trials, treatment outcomes were established using the clinician&#x02010;rated version of the 16&#x02010;item QIDS&#x02010;C<xref rid="cpt1482-bib-0055" ref-type="ref">55</xref> or the 17&#x02010;item HDRS.<xref rid="cpt1482-bib-0056" ref-type="ref">56</xref> Remission was defined as a QIDS&#x02010;C score&#x000a0;&#x02264;&#x000a0;5<xref rid="cpt1482-bib-0055" ref-type="ref">55</xref> (HDRS score&#x000a0;&#x02264;&#x000a0;7<xref rid="cpt1482-bib-0056" ref-type="ref">56</xref>) at 4 or 8&#x000a0;weeks. Response was defined as a&#x000a0;&#x02265;50% reduction in QIDS&#x02010;C or HDRS total score from baseline to either 4 or 8&#x000a0;weeks. Across the three datasets, 60&#x02013;66% of subjects were classified as responders, and 37&#x02013;50% as remitters, at 8&#x000a0;weeks.</p></sec><sec id="cpt1482-sec-0024"><title>Analysis workflow</title><sec id="cpt1482-sec-0025"><title>Sex&#x02010;stratified analyses</title><p>Given several prior research efforts that identified sex differences in MDD prevalence and biological factors related to antidepressant treatment outcomes,<xref rid="cpt1482-bib-0014" ref-type="ref">14</xref>, <xref rid="cpt1482-bib-0015" ref-type="ref">15</xref>, <xref rid="cpt1482-bib-0016" ref-type="ref">16</xref>, <xref rid="cpt1482-bib-0017" ref-type="ref">17</xref>, <xref rid="cpt1482-bib-0018" ref-type="ref">18</xref>, <xref rid="cpt1482-bib-0019" ref-type="ref">19</xref>, <xref rid="cpt1482-bib-0020" ref-type="ref">20</xref>, <xref rid="cpt1482-bib-0021" ref-type="ref">21</xref>, <xref rid="cpt1482-bib-0057" ref-type="ref">57</xref> all analyses in this work were stratified by sex. This allowed us to study sex&#x02010;specific contributions of pharmacogenomic SNPs to prediction of SSRI response.</p></sec><sec id="cpt1482-sec-0026"><title>Analysis overview</title><p>A sequence of the application of an unsupervised machine&#x02010;learning approach (because clustering is an inferential task) followed by supervised learning (to predict SSRI treatment outcome) comprised a machine&#x02010;learning workflow (illustrated in Figure <xref rid="cpt1482-fig-0001" ref-type="fig">1</xref>) that is described next; additional details of the implementation are in <bold>Section</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S2</bold>
+</xref>.</p></sec></sec><sec id="cpt1482-sec-0027"><title>Stage 1</title><sec id="cpt1482-sec-0028"><title>Aim</title><p>Identify depressive symptom severity clusters in PGRN&#x02010;AMPS (stage 1A), replicate the cluster patterns using STAR*D and ISPC data (stage 1B), and identify sociodemographic factors associated with clusters (stage 1C).</p></sec><sec id="cpt1482-sec-0029"><title>Approach</title><p>Unsupervised learning was used to identify clusters of patients based on total QIDS&#x02010;C and HDRS scores at baseline, 4&#x000a0;weeks, and 8&#x000a0;weeks. The overall distribution of QIDS&#x02010;C and HDRS total scores comprised multiple normal distributions (Figure <xref rid="cpt1482-fig-0002" ref-type="fig">2</xref>). Mixture&#x02010;model&#x02013;based unsupervised learning<xref rid="cpt1482-bib-0027" ref-type="ref">27</xref>with Gaussian mixture models was used to algorithmically identify the minimum number of Gaussians that best approximated the actual distribution of depressive symptom severity in PGRN&#x02010;AMPS patients at each time point.<xref rid="cpt1482-bib-0009" ref-type="ref">9</xref>, <xref rid="cpt1482-bib-0027" ref-type="ref">27</xref> The use of the Gaussian mixture model clustering approach was further justified by the unsuitability of longitudinal clustering/trajectory techniques,<xref rid="cpt1482-bib-0058" ref-type="ref">58</xref> given the eventual goal of associating biological measures with depression severity during discrete treatment time points.</p><p>To validate the clustering approach developed in stage 1A, we used STAR*D (for QIDS&#x02010;C) and ISPC (for HDRS) datasets in stage 1B to investigate, using Kolmogorov&#x02013;Smirnov tests, whether the distributions of depression severity were the same in the three independent datasets.</p><p>In stage 1C, Kolmogorov&#x02013;Smirnov (continuous data) and two&#x02010;way &#x003c7;<sup>2</sup> (categorical data) tests were used to identify clinical and sociodemographic factors (listed in <bold>Table</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S1</bold>
+</xref>) associated with the depression severity clusters at all time points in all three datasets. Any associated clinical/sociodemographic factors were then combined with pharmacogenomic SNPs to predict treatment outcomes in stage 2.</p></sec></sec><sec id="cpt1482-sec-0030"><title>Stage 2</title><sec id="cpt1482-sec-0031"><title>Aim</title><p>Predict antidepressant remission/response using pharmacogenomic biomarkers and baseline depression severity.</p></sec><sec id="cpt1482-sec-0032"><title>Approach</title><p>We trained random forests (i.e., the randomForest R library) using PGRN&#x02010;AMPS's baseline depression severity and pharmacogenomics data (represented as numerical genotypes<xref rid="cpt1482-bib-0022" ref-type="ref">22</xref>, <xref rid="cpt1482-bib-0023" ref-type="ref">23</xref>, <xref rid="cpt1482-bib-0051" ref-type="ref">51</xref>) to predict remission/response, and we then externally validated the trained prediction model using STAR*D and ISPC data (see Figure <xref rid="cpt1482-fig-0001" ref-type="fig">1</xref>). Because clinical/sociodemographic factors, the <italic>CY2C19</italic> phenotype, and plasma drug levels were not associated with the baseline or 4&#x02010;week clusters, we assessed the predictive capability of the pharmacogenomic biomarkers when augmented only with baseline depression severity, not with stratification by baseline depression severity clusters. Random forests were used because of their mathematical ability to handle discrete (e.g., with numerical genotypes), correlated predictor variables, which has demonstrated robust predictive capabilities in several clinical applications,<xref rid="cpt1482-bib-0059" ref-type="ref">59</xref> including psychiatric disorders.<xref rid="cpt1482-bib-0060" ref-type="ref">60</xref> Details of the 10&#x02010;fold cross&#x02010;validation with five repeats to minimize the effects of overfit and information leak, along with prediction performance statistics, are provided in <bold>Section</bold>
+<xref rid="cpt1482-sup-0001" ref-type="supplementary-material">
+<bold>S2</bold>
+</xref>.</p></sec></sec></sec><sec id="cpt1482-sec-0034"><title>Funding</title><p>This material is based upon work partially supported by a Mayo Clinic and Illinois Alliance Fellowship for Technology&#x02010;Based Healthcare Research; a CompGen Fellowship; an IBM Faculty Award; the National Science Foundation under grant CNS 13&#x02010;37732; the National Institutes of Health under grants U19 GM61388, R01 GM28157, RC2 GM092729, R24 GM078233, RC2 GM092729, and T32 GM072474; and the Mayo Clinic Center for Individualized Medicine. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the National Institutes of Health.</p></sec><sec sec-type="COI-statement" id="cpt1482-sec-0035"><title>Conflicts of interest</title><p>M.A.F. has grant support from AssureRx, the Mayo Foundation, Myriad, the National Institute of Alcohol Abuse and Alcoholism (NIAAA), the National Institute of Mental Health (NIMH), and Pfizer, and consults for Janssen, Mitsubishi Tanabe Pharma Corporation, Myriad, Neuralstem Inc., Otsuka America Pharmaceutical, Sunovion, and Teva Pharmaceuticals. L.W. and R.M.W. are cofounders and stockholders in OneOme LLC. W.V.B.'s research has been supported by the National Institute of Mental Health, the Agency for Healthcare Research &#x00026; Quality, and the Mayo Foundation for Medical Education and Research. He has contributed chapters to UpToDate concerning the use of antidepressants and atypical antipsychotic drugs for treating adults with bipolar major depression. In the last 3&#x000a0;years, A.J.R. has received consulting fees from Akili Inc., Brain Resource Ltd, Compass Inc., Curbstone Consultant LLC, Emmes Corp., Holmusk, LivaNova, Santium Inc., Sunovion, Taj Medical, and Takeda USA; speaking fees from LivaNova; and royalties from Guilford Publications and the University of Texas Southwestern Medical Center. All others declared no competing interests for this work.</p></sec><sec id="cpt1482-sec-0036"><title>Author contributions</title><p>A.P.A., W.V.B., and R.M.W. wrote the manuscript. M.A.F., E.B., M.S., L.W., and R.M.W. designed the research. A.P.A., W.V.B., and R.M.W. performed the research. A.P.A., D.N., J.M.B., R.K.I., T.R., and E.B. analyzed the data.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cpt1482-sup-0001"><caption><p>
+<bold>Supplementary Material S1</bold>. Trial description.<bold>Supplementary Material S2</bold>. Analyses.<bold>Table S1</bold>. Clinical and demographic factors from AMPS analyzed in this work.</p></caption><media xlink:href="CPT-106-855-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="cpt1482-sup-0002"><caption><p>
+<bold>Figure S1.</bold> Comparison of depressive symptom clustering behavior, using various approaches.<bold>Figure S2.</bold> Comparison of mean ages for men and women in clusters with comparable symptom severity at baseline, 4&#x000a0;weeks, and 8&#x000a0;weeks.<bold>Figure S3.</bold> Comparison of mean body mass indices (BMIs; kg/m<sup>2</sup>) for men and women in clusters with comparable symptom severity at baseline, 4&#x000a0;weeks, and 8&#x000a0;weeks.<bold>Figure S4.</bold> Comparison of citalopram and escitalopram plasma drug concentrations between men and women with each depressive symptom severity cluster at 4&#x000a0;weeks (<bold>a</bold>) and 8&#x000a0;weeks (<bold>b</bold>).<bold>Figure S5.</bold> Importance of variables for predicting clinical outcomes measured using QIDS&#x02010;C.</p></caption><media xlink:href="CPT-106-855-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cpt1482-sec-0033"><title>Acknowledgment</title><p>The authors thank Jenny Applequist at University of Illinois at Urbana&#x02010;Champaign for her help in preparing the manuscript.</p></ack><ref-list content-type="cited-references" id="cpt1482-bibl-0001"><ref id="cpt1482-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cpt1482-cit-0001">
+<string-name>
+<surname>Friedrich</surname>, <given-names>M.J.</given-names>
+</string-name>
+<article-title>Depression is the leading cause of disability around the world</article-title>. <source xml:lang="en">JAMA</source>
+<volume>317</volume>, <fpage>1517</fpage> (<year>2017</year>).</mixed-citation></ref><ref id="cpt1482-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cpt1482-cit-0002">
+<string-name>
+<surname>Trivedi</surname>, <given-names>M.H.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Medication augmentation after the failure of SSRIs for depression</article-title>. <source xml:lang="en">N. Engl. J. Med.</source>
+<volume>354</volume>, <fpage>1243</fpage>&#x02013;<lpage>1252</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16554526</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cpt1482-cit-0003">
+<string-name>
+<surname>Chekroud</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Gueorguieva</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Krumholz</surname>, <given-names>H.M.</given-names>
+</string-name>, <string-name>
+<surname>Trivedi</surname>, <given-names>M.H.</given-names>
+</string-name>, <string-name>
+<surname>Krystal</surname>, <given-names>J.H.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>McCarthy</surname>, <given-names>G.</given-names>
+</string-name>
+<article-title>Reevaluating the efficacy and predictability of antidepressant treatments: a symptom clustering approach</article-title>. <source xml:lang="en">JAMA Psychiatry</source>
+<volume>74</volume>, <fpage>370</fpage>&#x02013;<lpage>378</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28241180</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cpt1482-cit-0004">
+<string-name>
+<surname>Chekroud</surname>, <given-names>A.M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Cross&#x02010;trial prediction of treatment outcome in depression: a machine learning approach</article-title>. <source xml:lang="en">Lancet Psychiatry</source>
+<volume>3</volume>, <fpage>243</fpage>&#x02013;<lpage>250</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26803397</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cpt1482-cit-0005">
+<string-name>
+<surname>Iniesta</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Combining clinical variables to optimize prediction of antidepressant treatment outcomes</article-title>. <source xml:lang="en">J. Psychiatr. Res.</source>
+<volume>78</volume>, <fpage>94</fpage>&#x02013;<lpage>102</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27089522</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cpt1482-cit-0006">
+<string-name>
+<surname>Bagby</surname>, <given-names>R.M.</given-names>
+</string-name>, <string-name>
+<surname>Ryder</surname>, <given-names>A.G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cristi</surname>, <given-names>C.</given-names>
+</string-name>
+<article-title>Psychosocial and clinical predictors of response to pharmacotherapy for depression</article-title>. <source xml:lang="en">J. Psychiatry Neurosci.</source>
+<volume>27</volume>, <fpage>250</fpage>&#x02013;<lpage>257</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12174734</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cpt1482-cit-0007">
+<string-name>
+<surname>Musliner</surname>, <given-names>K.L.</given-names>
+</string-name>, <string-name>
+<surname>Munk&#x02010;Olsen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Eaton</surname>, <given-names>W.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zandi</surname>, <given-names>P.P.</given-names>
+</string-name>
+<article-title>Heterogeneity in long&#x02010;term trajectories of depressive symptoms: patterns, predictors and outcomes</article-title>. <source xml:lang="en">J. Affect. Disord.</source>
+<volume>192</volume>, <fpage>199</fpage>&#x02013;<lpage>211</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26745437</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cpt1482-cit-0008">
+<string-name>
+<surname>Iniesta</surname>, <given-names>R.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Antidepressant drug&#x02010;specific prediction of depression treatment outcomes from genetic and clinical variables</article-title>. <source xml:lang="en">Sci. Rep.</source>
+<volume>8</volume>, <fpage>5530</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29615645</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cpt1482-cit-0009">
+<string-name>
+<surname>Athreya</surname>, <given-names>A.P.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Augmentation of physician assessments with multi&#x02010;omics enhances predictability of drug response: a case study of major depressive disorder</article-title>. <source xml:lang="en">IEEE Comput. Intell. Mag.</source>
+<volume>13</volume>, <fpage>20</fpage>&#x02013;<lpage>31</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">30467458</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cpt1482-cit-0010">
+<string-name>
+<surname>Lin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kuo</surname>, <given-names>P.H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.L.</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>, <given-names>Y.W.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>A.C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Tsai</surname>, <given-names>S.J.</given-names>
+</string-name>
+<article-title>A deep learning approach for predicting antidepressant response in major depression using clinical and genetic biomarkers</article-title>. <source xml:lang="en">Front. Psychiatry</source>
+<volume>9</volume>, <fpage>290</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">30034349</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cpt1482-cit-0011">
+<string-name>
+<surname>Czysz</surname>, <given-names>A.H.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Can targeted metabolomics predict depression recovery? Results from the CO&#x02010;MED trial</article-title>. <source xml:lang="en">Transl. Psychiatry</source>
+<volume>9</volume>, <fpage>11</fpage> (<year>2019</year>).<pub-id pub-id-type="pmid">30664617</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cpt1482-cit-0012">
+<string-name>
+<surname>Trivedi</surname>, <given-names>M.H.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Evaluation of outcomes with citalopram for depression using measurement&#x02010;based care in STAR*D: implications for clinical practice</article-title>. <source xml:lang="en">Am. J. Psychiatry</source>
+<volume>163</volume>, <fpage>28</fpage>&#x02013;<lpage>40</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16390886</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cpt1482-cit-0013">
+<string-name>
+<surname>Biernacka</surname>, <given-names>J.M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>The international SSRI Pharmacogenomics Consortium (ISPC): a genome&#x02010;wide association study of antidepressant treatment response</article-title>. <source xml:lang="en">Transl. Psychiatry</source>
+<volume>5</volume>, <fpage>e553</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25897834</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cpt1482-cit-0014">
+<string-name>
+<surname>Berlanga</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Flores&#x02010;Ramos</surname>, <given-names>M.</given-names>
+</string-name>
+<article-title>Different gender response to serotonergic and noradrenergic antidepressants. A comparative study of the efficacy of citalopram and reboxetine</article-title>. <source xml:lang="en">J. Affect. Disord.</source>
+<volume>95</volume>, <fpage>119</fpage>&#x02013;<lpage>123</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16782204</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cpt1482-cit-0015">
+<string-name>
+<surname>Keers</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Aitchison</surname>, <given-names>K.J.</given-names>
+</string-name>
+<article-title>Gender differences in antidepressant drug response</article-title>. <source xml:lang="en">Int. Rev. Psychiatry</source>
+<volume>22</volume>, <fpage>485</fpage>&#x02013;<lpage>500</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">21047161</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cpt1482-cit-0016">
+<string-name>
+<surname>Khan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brodhead</surname>, <given-names>A.E.</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>, <given-names>K.A.</given-names>
+</string-name>, <string-name>
+<surname>Kolts</surname>, <given-names>R.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>W.A.</given-names>
+</string-name>
+<article-title>Sex differences in antidepressant response in recent antidepressant clinical trials</article-title>. <source xml:lang="en">J. Clin. Psychopharmacol.</source>
+<volume>25</volume>, <fpage>318</fpage>&#x02013;<lpage>324</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">16012273</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cpt1482-cit-0017">
+<string-name>
+<surname>Kornstein</surname>, <given-names>S.G.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Gender differences in treatment response to sertraline versus imipramine in chronic depression</article-title>. <source xml:lang="en">Am. J. Psychiatry</source>
+<volume>157</volume>, <fpage>1445</fpage>&#x02013;<lpage>1452</lpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10964861</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cpt1482-cit-0018">
+<string-name>
+<surname>Lawton</surname>, <given-names>K.A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Analysis of the adult human plasma metabolome</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<volume>9</volume>, <fpage>383</fpage>&#x02013;<lpage>397</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18384253</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cpt1482-cit-0019">
+<string-name>
+<surname>Sramek</surname>, <given-names>J.J.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>M.F.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Cutler</surname>, <given-names>N.R.</given-names>
+</string-name>
+<article-title>Sex differences in the psychopharmacological treatment of depression</article-title>. <source xml:lang="en">Dialogues Clin. Neurosci.</source>
+<volume>18</volume>, <fpage>447</fpage>&#x02013;<lpage>457</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">28179816</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cpt1482-cit-0020">
+<string-name>
+<surname>Townsend</surname>, <given-names>M.K.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Reproducibility of metabolomic profiles among men and women in 2 large cohort studies</article-title>. <source xml:lang="en">Clin. Chem.</source>
+<volume>59</volume>, <fpage>1657</fpage>&#x02013;<lpage>1667</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23897902</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cpt1482-cit-0021">
+<string-name>
+<surname>Young</surname>, <given-names>E.A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Sex differences in response to citalopram: a STAR*D report</article-title>. <source xml:lang="en">J. Psychiatr. Res.</source>
+<volume>43</volume>, <fpage>503</fpage>&#x02013;<lpage>511</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">18752809</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cpt1482-cit-0022">
+<string-name>
+<surname>Gupta</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>TSPAN5, ERICH3 and selective serotonin reuptake inhibitors in major depressive disorder: pharmacometabolomics&#x02010;informed pharmacogenomics</article-title>. <source xml:lang="en">Mol. Psychiatry</source>
+<volume>21</volume>, <fpage>1717</fpage>&#x02013;<lpage>1725</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26903268</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cpt1482-cit-0023">
+<string-name>
+<surname>Liu</surname>, <given-names>D.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Beta&#x02010;defensin 1, aryl hydrocarbon receptor and plasma Kynurenine in major depressive disorder: metabolomics&#x02010;informed genomics</article-title>. <source xml:lang="en">Transl. Psychiatry</source>
+<volume>8</volume>, <fpage>10</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29317604</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cpt1482-cit-0024">
+<string-name>
+<surname>Bauer</surname>, <given-names>M.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Teixeira</surname>, <given-names>A.L.</given-names>
+</string-name>
+<article-title>Inflammation in psychiatric disorders: what comes first?</article-title>
+<source xml:lang="en">Ann. NY Acad. Sci.</source>
+<volume>1437</volume>, <fpage>57</fpage>&#x02013;<lpage>67</lpage> (<year>2019</year>).<pub-id pub-id-type="pmid">29752710</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cpt1482-cit-0025">
+<string-name>
+<surname>Haase</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Haghikia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wilck</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>, <given-names>D.N.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Linker</surname>, <given-names>R.A.</given-names>
+</string-name>
+<article-title>Impacts of microbiome metabolites on immune regulation and autoimmunity</article-title>. <source xml:lang="en">Immunology</source>
+<volume>154</volume>, <fpage>230</fpage>&#x02013;<lpage>238</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29637999</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cpt1482-cit-0026">
+<string-name>
+<surname>Moulton</surname>, <given-names>C.D.</given-names>
+</string-name>, <string-name>
+<surname>Hopkins</surname>, <given-names>C.W.P.</given-names>
+</string-name>, <string-name>
+<surname>Ismail</surname>, <given-names>K.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Stahl</surname>, <given-names>D.</given-names>
+</string-name>
+<article-title>Repositioning of diabetes treatments for depressive symptoms: a systematic review and meta&#x02010;analysis of clinical trials</article-title>. <source xml:lang="en">Psychoneuroendocrinology</source>
+<volume>94</volume>, <fpage>91</fpage>&#x02013;<lpage>103</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29775878</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0027"><label>27</label><mixed-citation publication-type="miscellaneous" id="cpt1482-cit-0027">
+<string-name>
+<surname>Athreya</surname>, <given-names>A.P.</given-names>
+</string-name>
+<italic>et al</italic>, eds. <article-title>Data&#x02010;Driven Longitudinal Modeling and Prediction of Symptom Dynamics in Major Depressive Disorder: Integrating Factor Graphs and Learning Methods</article-title>. IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology; 2017: IEEE Computational Intelligence Society.</mixed-citation></ref><ref id="cpt1482-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cpt1482-cit-0028">
+<string-name>
+<surname>Ellsworth</surname>, <given-names>K.A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Contribution of FKBP5 genetic variation to gemcitabine treatment and survival in pancreatic adenocarcinoma</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>8</volume>, <fpage>e70216</fpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23936393</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cpt1482-cit-0029">
+<string-name>
+<surname>Gasso</surname>, <given-names>P.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Association of regulatory TPH2 polymorphisms with higher reduction in depressive symptoms in children and adolescents treated with fluoxetine</article-title>. <source xml:lang="en">Prog. Neuropsychopharmacol. Biol. Psychiatry</source>
+<volume>77</volume>, <fpage>236</fpage>&#x02013;<lpage>240</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28456685</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cpt1482-cit-0030">
+<string-name>
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Glycine and a glycine dehydrogenase (GLDC) SNP as citalopram/escitalopram response biomarkers in depression: pharmacometabolomics&#x02010;informed pharmacogenomics</article-title>. <source xml:lang="en">Clin. Pharmacol. Ther.</source>
+<volume>89</volume>, <fpage>97</fpage>&#x02013;<lpage>104</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21107318</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cpt1482-cit-0031">
+<string-name>
+<surname>Kato</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effect of 5&#x02010;HT1A gene polymorphisms on antidepressant response in major depressive disorder</article-title>. <source xml:lang="en">Am. J. Med. Genet. B Neuropsychiatr. Genet.</source>
+<volume>150B</volume>, <fpage>115</fpage>&#x02013;<lpage>123</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">18484082</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cpt1482-cit-0032">
+<string-name>
+<surname>Kishi</surname>, <given-names>T.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>GTP cyclohydrolase 1 gene haplotypes as predictors of SSRI response in Japanese patients with major depressive disorder</article-title>. <source xml:lang="en">J. Affect. Disord.</source>
+<volume>142</volume>, <fpage>315</fpage>&#x02013;<lpage>322</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22770721</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cpt1482-cit-0033">
+<string-name>
+<surname>Paroni</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Klotho gene and selective serotonin reuptake inhibitors: response to treatment in late&#x02010;life major depressive disorder</article-title>. <source xml:lang="en">Mol. Neurobiol.</source>
+<volume>54</volume>, <fpage>1340</fpage>&#x02013;<lpage>1351</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">26843110</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cpt1482-cit-0034">
+<string-name>
+<surname>Qesseveur</surname>, <given-names>G.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Genetic dysfunction of serotonin 2A receptor hampers response to antidepressant drugs: a translational approach</article-title>. <source xml:lang="en">Neuropharmacology</source>
+<volume>105</volume>, <fpage>142</fpage>&#x02013;<lpage>153</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26764241</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cpt1482-cit-0035">
+<string-name>
+<surname>Johnson</surname>, <given-names>K.V.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Foster</surname>, <given-names>K.R.</given-names>
+</string-name>
+<article-title>Why does the microbiome affect behaviour?</article-title>
+<source xml:lang="en">Nat. Rev. Microbiol.</source>
+<volume>16</volume>, <fpage>647</fpage>&#x02013;<lpage>655</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29691482</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cpt1482-cit-0036">
+<string-name>
+<surname>Krumsiek</surname>, <given-names>J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Gender&#x02010;specific pathway differences in the human serum metabolome</article-title>. <source xml:lang="en">Metabolomics</source>
+<volume>11</volume>, <fpage>1815</fpage>&#x02013;<lpage>1833</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26491425</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cpt1482-cit-0037">
+<string-name>
+<surname>Martin</surname>, <given-names>L.A.</given-names>
+</string-name>, <string-name>
+<surname>Neighbors</surname>, <given-names>H.W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Griffith</surname>, <given-names>D.M.</given-names>
+</string-name>
+<article-title>The experience of symptoms of depression in men vs women: analysis of the National Comorbidity Survey Replication</article-title>. <source xml:lang="en">JAMA Psychiatry</source>
+<volume>70</volume>, <fpage>1100</fpage>&#x02013;<lpage>1106</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23986338</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cpt1482-cit-0038">
+<string-name>
+<surname>Chang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Tybring</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Dahl</surname>, <given-names>M.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lindh</surname>, <given-names>J.D.</given-names>
+</string-name>
+<article-title>Impact of cytochrome P450 2C19 polymorphisms on citalopram/escitalopram exposure: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Clin. Pharmacokinet.</source>
+<volume>53</volume>, <fpage>801</fpage>&#x02013;<lpage>811</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25154506</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cpt1482-cit-0039">
+<string-name>
+<surname>Nassan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nicholson</surname>, <given-names>W.T.</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>, <given-names>M.A.</given-names>
+</string-name>, <string-name>
+<surname>Rohrer Vitek</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>, <given-names>J.L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Frye</surname>, <given-names>M.A.</given-names>
+</string-name>
+<article-title>Pharmacokinetic pharmacogenetic prescribing guidelines for antidepressants: a template for psychiatric precision medicine</article-title>. <source xml:lang="en">Mayo Clin. Proc.</source>
+<volume>91</volume>, <fpage>897</fpage>&#x02013;<lpage>907</lpage> (<year>2016</year>).<pub-id pub-id-type="pmid">27289413</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cpt1482-cit-0040">
+<string-name>
+<surname>Mrazek</surname>, <given-names>D.A.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>CYP2C19 variation and citalopram response</article-title>. <source xml:lang="en">Pharmacogenet. Genomics</source>
+<volume>21</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21192344</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cpt1482-cit-0041">
+<string-name>
+<surname>Tsai</surname>, <given-names>M.H.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Genetic polymorphisms of cytochrome P450 enzymes influence metabolism of the antidepressant escitalopram and treatment response</article-title>. <source xml:lang="en">Pharmacogenomics</source>
+<volume>11</volume>, <fpage>537</fpage>&#x02013;<lpage>546</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20350136</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cpt1482-cit-0042">
+<string-name>
+<surname>Hodgson</surname>, <given-names>K.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Genetic differences in cytochrome P450 enzymes and antidepressant treatment response</article-title>. <source xml:lang="en">J. Psychopharmacol.</source>
+<volume>28</volume>, <fpage>133</fpage>&#x02013;<lpage>141</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24257813</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cpt1482-cit-0043">
+<string-name>
+<surname>Peters</surname>, <given-names>E.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pharmacokinetic genes do not influence response or tolerance to citalopram in the STAR*D sample</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>3</volume>, <fpage>e1872</fpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18382661</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cpt1482-cit-0044">
+<string-name>
+<surname>Florio</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Porcelli</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Saria</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Serretti</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Conca</surname>, <given-names>A.</given-names>
+</string-name>
+<article-title>Escitalopram plasma levels and antidepressant response</article-title>. <source xml:lang="en">Eur. Neuropsychopharmacol.</source>
+<volume>27</volume>, <fpage>940</fpage>&#x02013;<lpage>944</lpage> (<year>2017</year>).<pub-id pub-id-type="pmid">28648553</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cpt1482-cit-0045">
+<string-name>
+<surname>Olfson</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Marcus</surname>, <given-names>S.C.</given-names>
+</string-name>
+<article-title>National patterns in antidepressant medication treatment</article-title>. <source xml:lang="en">Arch. Gen. Psychiatry</source>
+<volume>66</volume>, <fpage>848</fpage>&#x02013;<lpage>856</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19652124</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cpt1482-cit-0046">
+<string-name>
+<surname>Rush</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Report by the ACNP Task Force on response and remission in major depressive disorder</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>
+<volume>31</volume>, <fpage>1841</fpage>&#x02013;<lpage>1853</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16794566</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cpt1482-cit-0047">
+<string-name>
+<surname>Mulder</surname>, <given-names>R.T.</given-names>
+</string-name>, <string-name>
+<surname>Joyce</surname>, <given-names>P.R.</given-names>
+</string-name>, <string-name>
+<surname>Frampton</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Luty</surname>, <given-names>S.E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sullivan</surname>, <given-names>P.F.</given-names>
+</string-name>
+<article-title>Six months of treatment for depression: outcome and predictors of the course of illness</article-title>. <source xml:lang="en">Am. J. Psychiatry</source>
+<volume>163</volume>, <fpage>95</fpage>&#x02013;<lpage>100</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16390895</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cpt1482-cit-0048">
+<string-name>
+<surname>Jain</surname>, <given-names>F.A.</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>, <given-names>A.M.</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>, <given-names>J.O.</given-names>
+<suffix>3rd</suffix>
+</string-name> &#x00026; <string-name>
+<surname>Leuchter</surname>, <given-names>A.F.</given-names>
+</string-name>
+<article-title>Predictive socioeconomic and clinical profiles of antidepressant response and remission</article-title>. <source xml:lang="en">Depress. Anxiety</source>
+<volume>30</volume>, <fpage>624</fpage>&#x02013;<lpage>630</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23288666</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cpt1482-cit-0049">
+<string-name>
+<surname>Kernan</surname>, <given-names>W.N.</given-names>
+</string-name>, <string-name>
+<surname>Viscoli</surname>, <given-names>C.M.</given-names>
+</string-name>, <string-name>
+<surname>Makuch</surname>, <given-names>R.W.</given-names>
+</string-name>, <string-name>
+<surname>Brass</surname>, <given-names>L.M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Horwitz</surname>, <given-names>R.I.</given-names>
+</string-name>
+<article-title>Stratified randomization for clinical trials</article-title>. <source xml:lang="en">J. Clin. Epidemiol.</source>
+<volume>52</volume>, <fpage>19</fpage>&#x02013;<lpage>26</lpage> (<year>1999</year>).<pub-id pub-id-type="pmid">9973070</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cpt1482-cit-0050">
+<string-name>
+<surname>Fava</surname>, <given-names>M.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Difference in treatment outcome in outpatients with anxious versus nonanxious depression: a STAR*D report</article-title>. <source xml:lang="en">Am. J. Psychiatry</source>
+<volume>165</volume>, <fpage>342</fpage>&#x02013;<lpage>351</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18172020</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cpt1482-cit-0051">
+<string-name>
+<surname>Ji</surname>, <given-names>Y.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Pharmacogenomics of selective serotonin reuptake inhibitor treatment for major depressive disorder: genome&#x02010;wide associations and functional genomics</article-title>. <source xml:lang="en">Pharmacogenomics J.</source>
+<volume>13</volume>, <fpage>456</fpage>&#x02013;<lpage>463</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">22907730</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0052"><label>52</label><mixed-citation publication-type="book" id="cpt1482-cit-0052">
+<string-name>
+<surname>First</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Spitzer</surname>, <given-names>R.L.</given-names>
+</string-name>, <string-name>
+<surname>Miriam</surname>, <given-names>G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Williams Janet</surname>, <given-names>B.W.</given-names>
+</string-name>
+<source xml:lang="en">Structured Clinical Interview for DSM&#x02010;IV Axis I Disorders, Clinician Version (SCID&#x02010;CV)</source> (<publisher-name>American Psychiatric Press Inc.</publisher-name>, <publisher-loc>Washington, D.C.</publisher-loc>, <year>1996</year>).</mixed-citation></ref><ref id="cpt1482-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cpt1482-cit-0053">
+<string-name>
+<surname>Rush</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Sequenced treatment alternatives to relieve depression (STAR*D): rationale and design</article-title>. <source xml:lang="en">Control. Clin. Trials</source>
+<volume>25</volume>, <fpage>119</fpage>&#x02013;<lpage>142</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15061154</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cpt1482-cit-0054">
+<string-name>
+<surname>Rush</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Acute and longer&#x02010;term outcomes in depressed outpatients requiring one or several treatment steps: a STAR*D report</article-title>. <source xml:lang="en">Am. J. Psychiatry</source>
+<volume>163</volume>, <fpage>1905</fpage>&#x02013;<lpage>1917</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">17074942</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cpt1482-cit-0055">
+<string-name>
+<surname>Rush</surname>, <given-names>A.J.</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>The 16&#x02010;Item Quick Inventory of Depressive Symptomatology (QIDS), clinician rating (QIDS&#x02010;C), and self&#x02010;report (QIDS&#x02010;SR): a psychometric evaluation in patients with chronic major depression</article-title>. <source xml:lang="en">Biol. Psychiatry</source>
+<volume>54</volume>, <fpage>573</fpage>&#x02013;<lpage>583</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12946886</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cpt1482-cit-0056">
+<string-name>
+<surname>Hamilton</surname>, <given-names>M.</given-names>
+</string-name>
+<article-title>A rating scale for depression</article-title>. <source xml:lang="en">J. Neurol. Neurosurg. Psychiatry</source>
+<volume>23</volume>, <fpage>56</fpage>&#x02013;<lpage>62</lpage> (<year>1960</year>).<pub-id pub-id-type="pmid">14399272</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cpt1482-cit-0057">
+<string-name>
+<surname>Rahikainen</surname>, <given-names>A.L.</given-names>
+</string-name>, <string-name>
+<surname>Palo</surname>, <given-names>J.U.</given-names>
+</string-name>, <string-name>
+<surname>Haukka</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sajantila</surname>, <given-names>A.</given-names>
+</string-name>
+<article-title>Post&#x02010;mortem analysis of suicide victims shows ABCB1 haplotype 1236T&#x02010;2677T&#x02010;3435T as a candidate predisposing factor behind adverse drug reactions in females</article-title>. <source xml:lang="en">Pharmacogenet. Genomics</source>
+<volume>28</volume>, <fpage>99</fpage>&#x02013;<lpage>106</lpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29481489</pub-id></mixed-citation></ref><ref id="cpt1482-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cpt1482-cit-0058">
+<string-name>
+<surname>Genolini</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Falissard</surname>, <given-names>B.</given-names>
+</string-name>
+<article-title>KmL: k&#x02010;means for longitudinal data</article-title>. <source xml:lang="en">Comput. Statistics</source>
+<volume>25</volume>, <fpage>317</fpage>&#x02013;<lpage>328</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="cpt1482-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cpt1482-cit-0059">
+<string-name>
+<surname>Fernandez&#x02010;Delgado</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cernadas</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Barro</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Amorim</surname>, <given-names>D.</given-names>
+</string-name>
+<article-title>Do we need hundreds of classifiers to solve real world classification problems?</article-title>
+<source xml:lang="en">J. Machine Learn. Res.</source>
+<volume>15</volume>, <fpage>3133</fpage>&#x02013;<lpage>3181</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="cpt1482-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cpt1482-cit-0060">
+<string-name>
+<surname>Ball</surname>, <given-names>T.M.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>M.B.</given-names>
+</string-name>, <string-name>
+<surname>Ramsawh</surname>, <given-names>H.J.</given-names>
+</string-name>, <string-name>
+<surname>Campbell&#x02010;Sills</surname>, <given-names>L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Paulus</surname>, <given-names>M.P.</given-names>
+</string-name>
+<article-title>Single&#x02010;subject anxiety treatment outcome prediction using functional neuroimaging</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>
+<volume>43</volume>, <fpage>926</fpage> (<year>2018</year>).<pub-id pub-id-type="pmid">29422499</pub-id></mixed-citation></ref></ref-list></back></article>

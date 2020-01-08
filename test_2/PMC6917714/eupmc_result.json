@@ -1,0 +1,663 @@
+{
+  "id": [
+    "31848398"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31848398"
+  ],
+  "pmcid": [
+    "PMC6917714"
+  ],
+  "doi": [
+    "10.1038/s41598-019-55726-2"
+  ],
+  "title": [
+    "Comparative genomics study reveals Red Sea Bacillus with characteristics associated with potential microbial cell factories (MCFs)."
+  ],
+  "authorString": [
+    "Othoum G, Prigent S, Derouiche A, Shi L, Bokhari A, Alamoudi S, Bougouffa S, Gao X, Hoehndorf R, Arold ST, Gojobori T, Hirt H, Lafi FF, Nielsen J, Bajic VB, Mijakovic I, Essack M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Othoum G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Othoum"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Prigent S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Prigent"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biology and Biological Engineering, Division of Systems & Synthetic Biology, Chalmers University of Technology, Kemivägen 10, 41296, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Derouiche A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Derouiche"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3241-1424",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology and Biological Engineering, Division of Systems & Synthetic Biology, Chalmers University of Technology, Kemivägen 10, 41296, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biology and Biological Engineering, Division of Systems & Synthetic Biology, Chalmers University of Technology, Kemivägen 10, 41296, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Bokhari A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Bokhari"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Biological and Environmental Sciences and Engineering Division (BESE), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Alamoudi S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Alamoudi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biology, Science and Arts College, King Abdulaziz University, Rabigh, 21589, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bougouffa S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Bougouffa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9218-6452",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao X"
+          ],
+          "firstName": [
+            "X"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7108-3574",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoehndorf R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Hoehndorf"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8149-5890",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Arold ST"
+          ],
+          "firstName": [
+            "S T"
+          ],
+          "lastName": [
+            "Arold"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gojobori T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Gojobori"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirt H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Hirt"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3119-9633",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biological and Environmental Sciences and Engineering Division (BESE), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lafi FF"
+          ],
+          "firstName": [
+            "F F"
+          ],
+          "lastName": [
+            "Lafi"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6468-4104",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9955-6003",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology and Biological Engineering, Division of Systems & Synthetic Biology, Chalmers University of Technology, Kemivägen 10, 41296, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Bajic VB"
+          ],
+          "firstName": [
+            "V B"
+          ],
+          "lastName": [
+            "Bajic"
+          ],
+          "initials": [
+            "VB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5435-4750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mijakovic I"
+          ],
+          "firstName": [
+            "I"
+          ],
+          "lastName": [
+            "Mijakovic"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Biology and Biological Engineering, Division of Systems & Synthetic Biology, Chalmers University of Technology, Kemivägen 10, 41296, Gothenburg, Sweden. ivan.mijakovic@chalmers.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Essack M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Essack"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2709-5356",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia. magbubah.essack@kaust.edu.sa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3119-9633",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3241-1424",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6468-4104",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9955-6003",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9218-6452",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7108-3574",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5435-4750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8149-5890",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2709-5356",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2887502"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "19254"
+  ],
+  "abstractText": [
+    "Recent advancements in the use of microbial cells for scalable production of industrial enzymes encourage exploring new environments for efficient microbial cell factories (MCFs). Here, through a comparison study, ten newly sequenced Bacillus species, isolated from the Rabigh Harbor Lagoon on the Red Sea shoreline, were evaluated for their potential use as MCFs. Phylogenetic analysis of 40 representative genomes with phylogenetic relevance, including the ten Red Sea species, showed that the Red Sea species come from several colonization events and are not the result of a single colonization followed by speciation. Moreover, clustering reactions in reconstruct metabolic networks of these Bacillus species revealed that three metabolic clades do not fit the phylogenetic tree, a sign of convergent evolution of the metabolism of these species in response to special environmental adaptation. We further showed Red Sea strains Bacillus paralicheniformis (Bac48) and B. halosaccharovorans (Bac94) had twice as much secreted proteins than the model strain B. subtilis 168. Also, Bac94 was enriched with genes associated with the Tat and Sec protein secretion system and Bac48 has a hybrid PKS/NRPS cluster that is part of a horizontally transferred genomic region. These properties collectively hint towards the potential use of Red Sea Bacillus as efficient protein secreting microbial hosts, and that this characteristic of these strains may be a consequence of the unique ecological features of the isolation environment."
+  ],
+  "affiliation": [
+    "Computational Bioscience Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-55726-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6917714"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6917714?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-19"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-17"
+  ],
+  "firstPublicationDate": [
+    "2019-12-17"
+  ]
+}

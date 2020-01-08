@@ -1,0 +1,462 @@
+{
+  "id": [
+    "31217495"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31217495"
+  ],
+  "pmcid": [
+    "PMC6584656"
+  ],
+  "doi": [
+    "10.1038/s41597-019-0107-5"
+  ],
+  "title": [
+    "Transcriptome sequence resource for the cucurbit powdery mildew pathogen Podosphaera xanthii."
+  ],
+  "authorString": [
+    "De Miccolis Angelini RM, Pollastro S, Rotondo PR, Laguardia C, Abate D, Rotolo C, Faretra F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "De Miccolis Angelini RM"
+          ],
+          "firstName": [
+            "Rita Milvia"
+          ],
+          "lastName": [
+            "De Miccolis Angelini"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pollastro S"
+          ],
+          "firstName": [
+            "Stefania"
+          ],
+          "lastName": [
+            "Pollastro"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy. stefania.pollastro@uniba.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Rotondo PR"
+          ],
+          "firstName": [
+            "Palma Rosa"
+          ],
+          "lastName": [
+            "Rotondo"
+          ],
+          "initials": [
+            "PR"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Laguardia C"
+          ],
+          "firstName": [
+            "Cataldo"
+          ],
+          "lastName": [
+            "Laguardia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Abate D"
+          ],
+          "firstName": [
+            "Domenico"
+          ],
+          "lastName": [
+            "Abate"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rotolo C"
+          ],
+          "firstName": [
+            "Caterina"
+          ],
+          "lastName": [
+            "Rotolo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Faretra F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Faretra"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2823393"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific data"
+          ],
+          "ISOAbbreviation": [
+            "Sci Data"
+          ],
+          "medlineAbbreviation": [
+            "Sci Data"
+          ],
+          "NLMid": [
+            "101640192"
+          ],
+          "ISSN": [
+            "2052-4463"
+          ],
+          "ESSN": [
+            "2052-4463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "95"
+  ],
+  "abstractText": [
+    "Podosphaera xanthii is the main causal agent of cucurbit powdery mildew in Southern Italy. Illumina sequencing of mRNA from two P. xanthii isolates of opposite mating types (MAT1-1 and MAT1-2) and their sexual cross was used to obtain a detailed de novo Trinity-based assembly of the transcriptome of the fungus. Over 60 million of high-quality paired-end reads were obtained and assembled into 71,095 contigs corresponding to putative transcripts that were functionally annotated. More than 55% of the assembled transcripts (40,221 contigs) had a significant hit in BLASTx search and included sequences related to sexual compatibility and reproduction, as well as several classes of transposable elements and putative mycoviruses. The availability of these new transcriptomic data and investigations on potential source of genetic variation in P. xanthii will promote new insights on the pathogen and its interactions with host plants and associated microbiome."
+  ],
+  "affiliation": [
+    "Department of Soil, Plant and Food Sciences, University of Bari, Bari, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Dataset",
+        "data-paper",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ascomycota"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cucurbitaceae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584656?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584656"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41597-019-0107-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-04"
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-23"
+  ],
+  "dateOfRevision": [
+    "2019-07-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-19"
+  ],
+  "firstPublicationDate": [
+    "2019-06-19"
+  ]
+}

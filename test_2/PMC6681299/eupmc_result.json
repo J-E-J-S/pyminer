@@ -1,0 +1,347 @@
+{
+  "id": [
+    "31311120"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31311120"
+  ],
+  "pmcid": [
+    "PMC6681299"
+  ],
+  "doi": [
+    "10.3390/plants8070225"
+  ],
+  "title": [
+    "Control of Organ Abscission and Other Cell Separation Processes by Evolutionary Conserved Peptide Signaling."
+  ],
+  "authorString": [
+    "Shi CL, Alling RM, Hammerstad M, Aalen RB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi CL"
+          ],
+          "firstName": [
+            "Chun-Lin"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6996-8947",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, N-0316 Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Alling RM"
+          ],
+          "firstName": [
+            "Renate Marie"
+          ],
+          "lastName": [
+            "Alling"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, N-0316 Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Hammerstad M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Hammerstad"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, N-0316 Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Aalen RB"
+          ],
+          "firstName": [
+            "Reidunn B"
+          ],
+          "lastName": [
+            "Aalen"
+          ],
+          "initials": [
+            "RB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8174-1342",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, N-0316 Oslo, Norway. reidunn.aalen@ibv.uio.no."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8174-1342",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6996-8947",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2834202"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Plants both generate and shed organs throughout their lifetime. Cell separation is in function during opening of anthers to release pollen; floral organs are detached after pollination when they have served their purpose; unfertilized flowers are shed; fruits and seeds are abscised from the mother plant to secure the propagation of new generations. Organ abscission takes place in specialized abscission zone (AZ) cells where the middle lamella between adjacent cell files is broken down. The plant hormone ethylene has a well-documented promoting effect on abscission, but mutation in ethylene receptor genes in Arabidopsis thaliana only delays the abscission process. Microarray and RNA sequencing have identified a large number of genes differentially expressed in the AZs, especially genes encoding enzymes involved in cell wall remodelling and disassembly. Mutations in such genes rarely give a phenotype, most likely due to functional redundancy. In contrast, mutation in the INFLORESCENCE DEFICIENT IN ABSCISSION (IDA) blocks floral organ abscission in Arabidopsis. IDA encodes a small peptide that signals through the leucine-rich repeat receptor-like kinases HAESA (HAE) and HAE-LIKE2 (HSL2) to control floral organ abscission and facilitate lateral root emergence. Untimely abscission is a severe problem in many crops, and in a more applied perspective, it is of interest to investigate whether IDA-HAE/HSL2 is involved in other cell separation processes and other species. Genes encoding IDA and HSL2 orthologues have been identified in all orders of flowering plants. Angiosperms have had enormous success, with species adapted to all kinds of environments, adaptations which include variation with respect to which organs they shed. Here we review, from an evolutionary perspective, the properties of the IDA-HAE/HSL2 signaling module and the evidence for its hypothesized involvement in various cell separation processes in angiosperms."
+  ],
+  "affiliation": [
+    "Section for Genetics and Evolutionary Biology, Department of Biosciences, University of Oslo, N-0316 Oslo, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Abscission",
+        "Cell separation",
+        "Abscission Zone",
+        "Peptide Signaling",
+        "Ida/idl"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants8070225"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6681299"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6681299?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-18"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-11"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-15"
+  ],
+  "firstPublicationDate": [
+    "2019-07-15"
+  ]
+}

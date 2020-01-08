@@ -1,0 +1,319 @@
+{
+  "id": [
+    "PMC5741271"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5741271"
+  ],
+  "doi": [
+    "10.7759/cureus.1791"
+  ],
+  "title": [
+    "U-47700: An Emerging Threat."
+  ],
+  "authorString": [
+    "Alzghari SK, Fleming SW, Rambaran KA, Long JE, Burkhart S, An J, Furmaga J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alzghari SK"
+          ],
+          "firstName": [
+            "Saeed K"
+          ],
+          "lastName": [
+            "Alzghari"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Gulfstream Genomics, Gulfstream Diagnostics"
+          ]
+        },
+        {
+          "fullName": [
+            "Fleming SW"
+          ],
+          "firstName": [
+            "Steven W"
+          ],
+          "lastName": [
+            "Fleming"
+          ],
+          "initials": [
+            "SW"
+          ]
+        },
+        {
+          "fullName": [
+            "Rambaran KA"
+          ],
+          "firstName": [
+            "Kerry Anne"
+          ],
+          "lastName": [
+            "Rambaran"
+          ],
+          "initials": [
+            "KA"
+          ]
+        },
+        {
+          "fullName": [
+            "Long JE"
+          ],
+          "firstName": [
+            "James E"
+          ],
+          "lastName": [
+            "Long"
+          ],
+          "initials": [
+            "JE"
+          ]
+        },
+        {
+          "fullName": [
+            "Burkhart S"
+          ],
+          "firstName": [
+            "Samantha"
+          ],
+          "lastName": [
+            "Burkhart"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "An J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "An"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Furmaga J"
+          ],
+          "firstName": [
+            "Jakub"
+          ],
+          "lastName": [
+            "Furmaga"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2626390"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cureus"
+          ],
+          "ISOAbbreviation": [
+            "Cureus"
+          ],
+          "medlineAbbreviation": [
+            "Cureus"
+          ],
+          "NLMid": [
+            "101596737"
+          ],
+          "ISSN": [
+            "2168-8184"
+          ],
+          "ESSN": [
+            "2168-8184"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Illicit opioid use continues to be an ever-growing problem in the United States. The rise of synthetic opioids is an emerging threat that is beginning to draw attention over the past few years. Herein, we present an overview of the rise of a synthetic opioid known as U-47700. We describe U-47700's history, legal status, ease of obtainment, consequences of its use, and a proposal to increase the awareness of this synthetic opioid."
+  ],
+  "affiliation": [
+    "Gulfstream Genomics, Gulfstream Diagnostics"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drug abuse",
+        "Opioids",
+        "Opioid Abuse",
+        "Opioid Poisoning",
+        "Novel Psychoactive Substance",
+        "U-47700",
+        "Synthetic Opioid",
+        "Opioid Toxidrome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5741271/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5741271"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-29"
+  ],
+  "firstIndexDate": [
+    "2017-12-29"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-29"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-22"
+  ],
+  "firstPublicationDate": [
+    "2017-10-22"
+  ]
+}

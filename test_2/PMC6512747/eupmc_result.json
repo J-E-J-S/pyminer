@@ -1,0 +1,270 @@
+{
+  "id": [
+    "31110942"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31110942"
+  ],
+  "pmcid": [
+    "PMC6512747"
+  ],
+  "doi": [
+    "10.1016/j.mec.2019.e00092"
+  ],
+  "title": [
+    "Production of the cyanogenic glycoside dhurrin in yeast."
+  ],
+  "authorString": [
+    "Kotopka BJ, Smolke CD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kotopka BJ"
+          ],
+          "firstName": [
+            "Benjamin J"
+          ],
+          "lastName": [
+            "Kotopka"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, 443 Via Ortega, MC 4245, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smolke CD"
+          ],
+          "firstName": [
+            "Christina D"
+          ],
+          "lastName": [
+            "Smolke"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, 443 Via Ortega, MC 4245, Stanford University, Stanford, CA, 94305, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2807917"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Metabolic engineering communications"
+          ],
+          "ISOAbbreviation": [
+            "Metab Eng Commun"
+          ],
+          "medlineAbbreviation": [
+            "Metab Eng Commun"
+          ],
+          "NLMid": [
+            "101642117"
+          ],
+          "ISSN": [
+            "2214-0301"
+          ],
+          "ESSN": [
+            "2214-0301"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e00092"
+  ],
+  "abstractText": [
+    "Cyanogenic glycosides are defense compounds found in a wide range of plant species, including many crops. We demonstrate that the cyanogenic glucoside dhurrin, naturally found in sorghum, can be produced at high titers in Saccharomyces cerevisiae, constituting the first report of cyanogenic glycoside production in a microbe. Genetic modifications to increase the supply of the dhurrin precursor tyrosine enabled dhurrin production in excess of 80 mg/L. The dhurrin-producing yeast strain was used as a chassis to investigate previously uncharacterized enzymes identified close to the biosynthetic gene cluster containing the dhurrin pathway enzymes. This work shows the potential of heterologous expression in yeast to facilitate investigations of plant cyanogenic glycoside pathways."
+  ],
+  "affiliation": [
+    "Department of Bioengineering, 443 Via Ortega, MC 4245, Stanford University, Stanford, CA, 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Biosynthetic gene cluster",
+        "Plant Natural Product",
+        "Cyanogenic Glycoside",
+        "Dhurrin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.mec.2019.e00092"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6512747"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6512747?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-22"
+  ],
+  "firstIndexDate": [
+    "2019-05-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-11-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-01"
+  ],
+  "firstPublicationDate": [
+    "2019-05-01"
+  ]
+}

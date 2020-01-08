@@ -1,0 +1,846 @@
+{
+  "id": [
+    "30626865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30626865"
+  ],
+  "pmcid": [
+    "PMC6327095"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07981-6"
+  ],
+  "title": [
+    "Single-cell microRNA-mRNA co-sequencing reveals non-genetic heterogeneity and mechanisms of microRNA regulation."
+  ],
+  "authorString": [
+    "Wang N, Zheng J, Chen Z, Liu Y, Dura B, Kwak M, Xavier-Ferrucio J, Lu YC, Zhang M, Roden C, Cheng J, Krause DS, Ding Y, Fan R, Lu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang N"
+          ],
+          "firstName": [
+            "Nayi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng J"
+          ],
+          "firstName": [
+            "Ji"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhuo"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dura B"
+          ],
+          "firstName": [
+            "Burak"
+          ],
+          "lastName": [
+            "Dura"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwak M"
+          ],
+          "firstName": [
+            "Minsuk"
+          ],
+          "lastName": [
+            "Kwak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xavier-Ferrucio J"
+          ],
+          "firstName": [
+            "Juliana"
+          ],
+          "lastName": [
+            "Xavier-Ferrucio"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Yale Stem Cell Center, Yale Cancer Center, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu YC"
+          ],
+          "firstName": [
+            "Yi-Chien"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "affiliation": [
+            "Yale Stem Cell Center, Yale Cancer Center, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang M"
+          ],
+          "firstName": [
+            "Miaomiao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Roden C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Roden"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng J"
+          ],
+          "firstName": [
+            "Jijun"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krause DS"
+          ],
+          "firstName": [
+            "Diane S"
+          ],
+          "lastName": [
+            "Krause"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Yale Stem Cell Center, Yale Cancer Center, New Haven, CT, 06520, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding Y"
+          ],
+          "firstName": [
+            "Ye"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Wadworth Center, New York State Department of Health, Albany, NY, 12208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan R"
+          ],
+          "firstName": [
+            "Rong"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7805-8059",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA. rong.fan@yale.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Genetics, Yale University School of Medicine, New Haven, CT, 06510, USA. jun.lu@yale.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7805-8059",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "95"
+  ],
+  "abstractText": [
+    "Measuring multiple omics profiles from the same single cell opens up the opportunity to decode molecular regulation that underlies intercellular heterogeneity in development and disease. Here, we present co-sequencing of microRNAs and mRNAs in the same single cell using a half-cell genomics approach. This method demonstrates good robustness (~95% success rate) and reproducibility (R2 = 0.93 for both microRNAs and mRNAs), yielding paired half-cell microRNA and mRNA profiles, which we can independently validate. By linking the level of microRNAs to the expression of predicted target mRNAs across 19 single cells that are phenotypically identical, we observe that the predicted targets are significantly anti-correlated with the variation of abundantly expressed microRNAs. This suggests that microRNA expression variability alone may lead to non-genetic cell-to-cell heterogeneity. Genome-scale analysis of paired microRNA-mRNA co-profiles further allows us to derive and validate regulatory relationships of cellular pathways controlling microRNA expression and intercellular variability."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Yale University, New Haven, CT, 06520, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 CA177393"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA209992"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54DK106857 "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54CA193461  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54CA209992  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA149109"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM116855  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA193461"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM116855"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21CA177393  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01CA149109  "
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 OD018521"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 DK106857"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "K562 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MCF-7 Cells"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA"
+          ],
+          "registryNumber": [
+            "63231-63-0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6327095?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6327095"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07981-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-05"
+  ],
+  "dateOfCreation": [
+    "2019-01-11"
+  ],
+  "firstIndexDate": [
+    "2019-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-01"
+  ],
+  "dateOfRevision": [
+    "2019-09-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": [
+    "31198622"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31198622"
+  ],
+  "pmcid": [
+    "PMC6535044"
+  ],
+  "doi": [
+    "10.7717/peerj.6830"
+  ],
+  "title": [
+    "FunPred 3.0: improved protein function prediction using protein interaction network."
+  ],
+  "authorString": [
+    "Saha S, Chatterjee P, Basu S, Nasipuri M, Plewczynski D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saha S"
+          ],
+          "firstName": [
+            "Sovan"
+          ],
+          "lastName": [
+            "Saha"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9251-8656",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, Dr. Sudhir Chandra Sur Degree Engineering College, Kolkata, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chatterjee P"
+          ],
+          "firstName": [
+            "Piyali"
+          ],
+          "lastName": [
+            "Chatterjee"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, Netaji Subhash Engineering College, Kolkata, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Basu S"
+          ],
+          "firstName": [
+            "Subhadip"
+          ],
+          "lastName": [
+            "Basu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1780-0461",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, Jadavpur University, Kolkata, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Nasipuri M"
+          ],
+          "firstName": [
+            "Mita"
+          ],
+          "lastName": [
+            "Nasipuri"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, Jadavpur University, Kolkata, West Bengal, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Plewczynski D"
+          ],
+          "firstName": [
+            "Dariusz"
+          ],
+          "lastName": [
+            "Plewczynski"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3840-7610",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Functional and Structural Genomics, Centre of New Technologies, University of Warsaw, Warsaw, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3840-7610",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1780-0461",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9251-8656",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2769901"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e6830"
+  ],
+  "abstractText": [
+    "Proteins are the most versatile macromolecules in living systems and perform crucial biological functions. In the advent of the post-genomic era, the next generation sequencing is done routinely at the population scale for a variety of species. The challenging problem is to massively determine the functions of proteins that are yet not characterized by detailed experimental studies. Identification of protein functions experimentally is a laborious and time-consuming task involving many resources. We therefore propose the automated protein function prediction methodology using in silico algorithms trained on carefully curated experimental datasets. We present the improved protein function prediction tool FunPred 3.0, an extended version of our previous methodology FunPred 2, which exploits neighborhood properties in protein-protein interaction network (PPIN) and physicochemical properties of amino acids. Our method is validated using the available functional annotations in the PPIN network of Saccharomyces cerevisiae in the latest Munich information center for protein (MIPS) dataset. The PPIN data of S. cerevisiae in MIPS dataset includes 4,554 unique proteins in 13,528 protein-protein interactions after the elimination of the self-replicating and the self-interacting protein pairs. Using the developed FunPred 3.0 tool, we are able to achieve the mean precision, the recall and the F-score values of 0.55, 0.82 and 0.66, respectively. FunPred 3.0 is then used to predict the functions of unpredicted protein pairs (incomplete and missing functional annotations) in MIPS dataset of S. cerevisiae. The method is also capable of predicting the subcellular localization of proteins along with its corresponding functions. The code and the complete prediction results are available freely at: https://github.com/SovanSaha/FunPred-3.0.git."
+  ],
+  "affiliation": [
+    "Department of Computer Science and Engineering, Dr. Sudhir Chandra Sur Degree Engineering College, Kolkata, West Bengal, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Physico-chemical properties",
+        "Protein Function Prediction",
+        "Protein Interaction Networks",
+        "Protein–protein Interactions",
+        "Mips Database",
+        "Neighborhood Approach"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.6830"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6535044"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6535044?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-15"
+  ],
+  "firstIndexDate": [
+    "2019-06-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-22"
+  ],
+  "firstPublicationDate": [
+    "2019-05-22"
+  ]
+}

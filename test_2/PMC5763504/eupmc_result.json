@@ -1,0 +1,553 @@
+{
+  "id": [
+    "29322921"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29322921"
+  ],
+  "pmcid": [
+    "PMC5763504"
+  ],
+  "doi": [
+    "10.1186/s12920-017-0302-1"
+  ],
+  "title": [
+    "Tensor decomposition-based unsupervised feature extraction identifies candidate genes that induce post-traumatic stress disorder-mediated heart diseases."
+  ],
+  "authorString": [
+    "Taguchi YH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Taguchi YH"
+          ],
+          "firstName": [
+            "Y-H"
+          ],
+          "lastName": [
+            "Taguchi"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0867-8986",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, Chuo University, 1-13-27 Kasuga, Bunkyo-ku, Tokyo, 112-8551, Japan. tag@granular.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0867-8986",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 4"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2639808"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "67"
+  ],
+  "abstractText": [
+    "BACKGROUND:Although post-traumatic stress disorder (PTSD) is primarily a mental disorder, it can cause additional symptoms that do not seem to be directly related to the central nervous system, which PTSD is assumed to directly affect. PTSD-mediated heart diseases are some of such secondary disorders. In spite of the significant correlations between PTSD and heart diseases, spatial separation between the heart and brain (where PTSD is primarily active) prevents researchers from elucidating the mechanisms that bridge the two disorders. Our purpose was to identify genes linking PTSD and heart diseases. METHODS:In this study, gene expression profiles of various murine tissues observed under various types of stress or without stress were analyzed in an integrated manner using tensor decomposition (TD). RESULTS:Based upon the obtained features, ∼ 400 genes were identified as candidate genes that may mediate heart diseases associated with PTSD. Various gene enrichment analyses supported biological reliability of the identified genes. Ten genes encoding protein-, DNA-, or mRNA-interacting proteins-ILF2, ILF3, ESR1, ESR2, RAD21, HTT, ATF2, NR3C1, TP53, and TP63-were found to be likely to regulate expression of most of these ∼ 400 genes and therefore are candidate primary genes that cause PTSD-mediated heart diseases. Approximately 400 genes in the heart were also found to be strongly affected by various drugs whose known adverse effects are related to heart diseases and/or fear memory conditioning; these data support the reliability of our findings. CONCLUSIONS:TD-based unsupervised feature extraction turned out to be a useful method for gene selection and successfully identified possible genes causing PTSD-mediated heart diseases."
+  ],
+  "affiliation": [
+    "Department of Physics, Chuo University, 1-13-27 Kasuga, Bunkyo-ku, Tokyo, 112-8551, Japan. tag@granular.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myocardium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heart Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress Disorders, Post-Traumatic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Principal Component Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Feature extraction",
+        "Heart Disease",
+        "Post-traumatic Stress Disorder",
+        "Tensor Decomposition"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-017-0302-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5763504"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5763504?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-06-11"
+  ],
+  "dateOfCreation": [
+    "2018-01-12"
+  ],
+  "firstIndexDate": [
+    "2018-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-19"
+  ],
+  "dateOfRevision": [
+    "2019-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-21"
+  ],
+  "firstPublicationDate": [
+    "2017-12-21"
+  ]
+}

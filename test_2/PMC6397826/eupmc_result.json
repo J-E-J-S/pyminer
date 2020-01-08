@@ -1,0 +1,273 @@
+{
+  "id": [
+    "30859099"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30859099"
+  ],
+  "pmcid": [
+    "PMC6397826"
+  ],
+  "doi": [
+    "10.3389/fbioe.2019.00021"
+  ],
+  "title": [
+    "National and Transnational Security Implications of Asymmetric Access to and Use of Biological Data."
+  ],
+  "authorString": [
+    "Berger KM, Schneck PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Berger KM"
+          ],
+          "firstName": [
+            "Kavita M"
+          ],
+          "lastName": [
+            "Berger"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Gryphon Scientific, LLC, Takoma Park, MD, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Schneck PA"
+          ],
+          "firstName": [
+            "Phyllis A"
+          ],
+          "lastName": [
+            "Schneck"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Promontory Financial Group, an IBM Company, Washington, DC, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2775597"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "21"
+  ],
+  "abstractText": [
+    "Biology and biotechnology have changed dramatically during the past 20 years, in part because of increases in computational capabilities and use of engineering principles to study biology. The advances in supercomputing, data storage capacity, and cloud platforms enable scientists throughout the world to generate, analyze, share, and store vast amounts of data, some of which are biological and much of which may be used to understand the human condition, agricultural systems, evolution, and environmental ecosystems. These advances and applications have enabled: (1) the emergence of data science, which involves the development of new algorithms to analyze and visualize data; and (2) the use of engineering approaches to manipulate or create new biological organisms that have specific functions, such as production of industrial chemical precursors and development of environmental bio-based sensors. Several biological sciences fields harness the capabilities of computer, data, and engineering sciences, including synthetic biology, precision medicine, precision agriculture, and systems biology. These advances and applications are not limited to one country. This capability has economic and physical consequences, but is vulnerable to unauthorized intervention. Healthcare and genomic information of patients, information about pharmaceutical and biotechnology products in development, and results of scientific research have been stolen by state and non-state actors through infiltration of databases and computer systems containing this information. Countries have developed their own policies for governing data generation, access, and sharing with foreign entities, resulting in asymmetry of data sharing. This paper describes security implications of asymmetric access to and use of biological data."
+  ],
+  "affiliation": [
+    "Gryphon Scientific, LLC, Takoma Park, MD, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Information security",
+        "Data Access",
+        "Biosecurity",
+        "Biological Data",
+        "Data Protection",
+        "Cybersecurity",
+        "Data Vulnerability"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397826?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397826"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2019.00021"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-13"
+  ],
+  "firstIndexDate": [
+    "2019-03-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-25"
+  ],
+  "firstPublicationDate": [
+    "2019-02-25"
+  ]
+}

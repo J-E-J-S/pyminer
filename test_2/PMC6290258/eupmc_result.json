@@ -1,0 +1,390 @@
+{
+  "id": [
+    "30560208"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30560208"
+  ],
+  "pmcid": [
+    "PMC6290258"
+  ],
+  "doi": [
+    "10.1016/j.synbio.2018.12.001"
+  ],
+  "title": [
+    "Engineering and modification of microbial chassis for systems and synthetic biology."
+  ],
+  "authorString": [
+    "Chi H, Wang X, Shao Y, Qin Y, Deng Z, Wang L, Chen S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chi H"
+          ],
+          "firstName": [
+            "Haotian"
+          ],
+          "lastName": [
+            "Chi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoli"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng Z"
+          ],
+          "firstName": [
+            "Zixin"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lianrong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8965-1015",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8965-1015",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1669-6340",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2755438"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic and systems biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "NLMid": [
+            "101694371"
+          ],
+          "ISSN": [
+            "2405-805X"
+          ],
+          "ESSN": [
+            "2405-805X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "25-33"
+  ],
+  "abstractText": [
+    "Engineering and modifying synthetic microbial chassis is one of the best ways not only to unravel the fundamental principles of life but also to enhance applications in the health, medicine, agricultural, veterinary, and food industries. The two primary strategies for constructing a microbial chassis are the top-down approach (genome reduction) and the bottom-up approach (genome synthesis). Research programs on this topic have been funded in several countries. The 'Minimum genome factory' (MGF) project was launched in 2001 in Japan with the goal of constructing microorganisms with smaller genomes for industrial use. One of the best examples of the results of this project is E. coli MGF-01, which has a reduced-genome size and exhibits better growth and higher threonine production characteristics than the parental strain [1]. The 'cell factory' project was carried out from 1998 to 2002 in the Fifth Framework Program of the EU (European Union), which tried to comprehensively understand microorganisms used in the application field. One of the outstanding results of this project was the elucidation of proteins secreted by Bacillus subtilis, which was summarized as the 'secretome' [2]. The GTL (Genomes to Life) program began in 2002 in the United States. In this program, researchers aimed to create artificial cells both in silico and in vitro, such as the successful design and synthesis of a minimal bacterial genome by John Craig Venter's group [3]. This review provides an update on recent advances in engineering, modification and application of synthetic microbial chassis, with particular emphasis on the value of learning about chassis as a way to better understand life and improve applications."
+  ],
+  "affiliation": [
+    "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Zhongnan Hospital, Wuhan University, Wuhan, 430071, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "systems biology",
+        "Synthetic Biology",
+        "Microbial Chassis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6290258?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6290258"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.synbio.2018.12.001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-19"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2019-02-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-11"
+  ],
+  "firstPublicationDate": [
+    "2018-12-11"
+  ]
+}

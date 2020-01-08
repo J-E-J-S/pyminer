@@ -1,0 +1,807 @@
+{
+  "id": [
+    "31575638"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31575638"
+  ],
+  "pmcid": [
+    "PMC6893205"
+  ],
+  "doi": [
+    "10.1534/g3.119.400552"
+  ],
+  "title": [
+    "Genomics Analysis of L-DOPA Exposure in Drosophila sechellia."
+  ],
+  "authorString": [
+    "Lanno SM, Lam I, Drum Z, Linde SC, Gregory SM, Shimshak SJ, Becker MV, Brew KE, Budhiraja A, Carter EA, Chigweshe L, Collins KP, Earley T, Einstein HL, Fan AA, Goss SS, Hagen ER, Hutcheon SB, Kim TT, Mitchell MA, Neri NR, Patterson SE, Ransom G, Sanchez GJ, Wiener BM, Zhao D, Coolon JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lanno SM"
+          ],
+          "firstName": [
+            "Stephen M"
+          ],
+          "lastName": [
+            "Lanno"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4992-8462",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Lam I"
+          ],
+          "firstName": [
+            "Ivy"
+          ],
+          "lastName": [
+            "Lam"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Drum Z"
+          ],
+          "firstName": [
+            "Zachary"
+          ],
+          "lastName": [
+            "Drum"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4261-5639",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Linde SC"
+          ],
+          "firstName": [
+            "Samuel C"
+          ],
+          "lastName": [
+            "Linde"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7358-2142",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Gregory SM"
+          ],
+          "firstName": [
+            "Sara M"
+          ],
+          "lastName": [
+            "Gregory"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimshak SJ"
+          ],
+          "firstName": [
+            "Serena J"
+          ],
+          "lastName": [
+            "Shimshak"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Becker MV"
+          ],
+          "firstName": [
+            "Mariel V"
+          ],
+          "lastName": [
+            "Becker"
+          ],
+          "initials": [
+            "MV"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Brew KE"
+          ],
+          "firstName": [
+            "Kerry E"
+          ],
+          "lastName": [
+            "Brew"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Budhiraja A"
+          ],
+          "firstName": [
+            "Aashli"
+          ],
+          "lastName": [
+            "Budhiraja"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Carter EA"
+          ],
+          "firstName": [
+            "Eliza A"
+          ],
+          "lastName": [
+            "Carter"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Chigweshe L"
+          ],
+          "firstName": [
+            "Lorencia"
+          ],
+          "lastName": [
+            "Chigweshe"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Collins KP"
+          ],
+          "firstName": [
+            "Keagan P"
+          ],
+          "lastName": [
+            "Collins"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Earley T"
+          ],
+          "firstName": [
+            "Timothy"
+          ],
+          "lastName": [
+            "Earley"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Einstein HL"
+          ],
+          "firstName": [
+            "Hannah L"
+          ],
+          "lastName": [
+            "Einstein"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan AA"
+          ],
+          "firstName": [
+            "Angela A"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Goss SS"
+          ],
+          "firstName": [
+            "Sarah S"
+          ],
+          "lastName": [
+            "Goss"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Hagen ER"
+          ],
+          "firstName": [
+            "Eric R"
+          ],
+          "lastName": [
+            "Hagen"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Hutcheon SB"
+          ],
+          "firstName": [
+            "Sarah B"
+          ],
+          "lastName": [
+            "Hutcheon"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim TT"
+          ],
+          "firstName": [
+            "Timothy T"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitchell MA"
+          ],
+          "firstName": [
+            "Mackenzie A"
+          ],
+          "lastName": [
+            "Mitchell"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Neri NR"
+          ],
+          "firstName": [
+            "Nola R"
+          ],
+          "lastName": [
+            "Neri"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Patterson SE"
+          ],
+          "firstName": [
+            "Sean E"
+          ],
+          "lastName": [
+            "Patterson"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Ransom G"
+          ],
+          "firstName": [
+            "Gregory"
+          ],
+          "lastName": [
+            "Ransom"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanchez GJ"
+          ],
+          "firstName": [
+            "Guadalupe J"
+          ],
+          "lastName": [
+            "Sanchez"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Wiener BM"
+          ],
+          "firstName": [
+            "Bella M"
+          ],
+          "lastName": [
+            "Wiener"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao D"
+          ],
+          "firstName": [
+            "Dacheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457."
+          ]
+        },
+        {
+          "fullName": [
+            "Coolon JD"
+          ],
+          "firstName": [
+            "Joseph D"
+          ],
+          "lastName": [
+            "Coolon"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1591-9418",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Wesleyan University, Middletown, CT 06457 jcoolon@wesleyan.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4261-5639",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4992-8462",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7358-2142",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1591-9418",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2888164"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3973-3980"
+  ],
+  "abstractText": [
+    "Drosophila sechellia is a dietary specialist fruit fly that evolved from a generalist ancestor to specialize on the toxic fruit of Morinda citrifolia This species pair has been the subject of numerous studies where the goal has largely been to determine the genetic basis of adaptations associated with host specialization. Because one of the most striking features of M. citrifolia fruit is the production of toxic volatile compounds that kill insects, most genomic studies in D. sechellia to date have focused on gene expression responses to the toxic compounds in its food. In this study, we aim to identify new genes important for host specialization by profiling gene expression response to 3,4-dihydroxyphenylalanine (L-DOPA). Recent work found it to be highly abundant in M. citrifolia, critical for reproductive success of D. sechellia, and supplementation of diet with the downstream pathway product dopamine can influence toxin resistance phenotypes in related species. Here we used a combination of functional genetics and genomics techniques to identify new genes that are important for D. sechellia ecological adaptation to this new niche. We show that L-DOPA exposure can affect toxin resistance phenotypes, identify genes with plastic responses to L-DOPA exposure, and functionally test an identified candidate gene. We found that knock-down of Esterase 6 (Est6) in a heterologous species alters toxin resistance suggesting Est6 may play an important role in D. sechellia host specialization."
+  ],
+  "affiliation": [
+    "Department of Biology, Wesleyan University, Middletown, CT 06457."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R15 GM135901"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Esterase",
+        "Oogenesis",
+        "Adaptation",
+        "L-dopa",
+        "Rna-seq",
+        "Host Specialization"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.119.400552"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6893205"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6893205?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "geo",
+        "go",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-03"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-03"
+  ],
+  "firstPublicationDate": [
+    "2019-12-03"
+  ]
+}

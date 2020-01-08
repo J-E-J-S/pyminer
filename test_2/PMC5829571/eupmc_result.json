@@ -1,0 +1,514 @@
+{
+  "id": [
+    "29186506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29186506"
+  ],
+  "pmcid": [
+    "PMC5829571"
+  ],
+  "doi": [
+    "10.1093/nar/gkx1193"
+  ],
+  "title": [
+    "Identification of large rearrangements in cancer genomes with barcode linked reads."
+  ],
+  "authorString": [
+    "Xia LC, Bell JM, Wood-Bouwens C, Chen JJ, Zhang NR, Ji HP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xia LC"
+          ],
+          "firstName": [
+            "Li C"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0868-1923",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bell JM"
+          ],
+          "firstName": [
+            "John M"
+          ],
+          "lastName": [
+            "Bell"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Stanford Genome Technology Center, Stanford University, Palo Alto, CA 94304, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wood-Bouwens C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Wood-Bouwens"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JJ"
+          ],
+          "firstName": [
+            "Jiamin J"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang NR"
+          ],
+          "firstName": [
+            "Nancy R"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "affiliation": [
+            "Department of Statistics, the Wharton School, University of Pennsylvania, Philadelphia, PA 18014, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ji HP"
+          ],
+          "firstName": [
+            "Hanlee P"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0868-1923",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "46"
+      ],
+      "journalIssueId": [
+        "2658206"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e19"
+  ],
+  "abstractText": [
+    "Large genomic rearrangements involve inversions, deletions and other structural changes that span Megabase segments of the human genome. This category of genetic aberration is the cause of many hereditary genetic disorders and contributes to pathogenesis of diseases like cancer. We developed a new algorithm called ZoomX for analysing barcode-linked sequence reads-these sequences can be traced to individual high molecular weight DNA molecules (>50 kb). To generate barcode linked sequence reads, we employ a library preparation technology (10X Genomics) that uses droplets to partition and barcode DNA molecules. Using linked read data from whole genome sequencing, we identify large genomic rearrangements, typically greater than 200kb, even when they are only present in low allelic fractions. Our algorithm uses a Poisson scan statistic to identify genomic rearrangement junctions, determine counts of junction-spanning molecules and calculate a Fisher's exact test for determining statistical significance for somatic aberrations. Utilizing a well-characterized human genome, we benchmarked this approach to accurately identify large rearrangement. Subsequently, we demonstrated that our algorithm identifies somatic rearrangements when present in lower allelic fractions as occurs in tumors. We characterized a set of complex cancer rearrangements with multiple classes of structural aberrations and with possible roles in oncogenesis."
+  ],
+  "affiliation": [
+    "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 HG000205"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosome Aberrations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomic Structural Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkx1193"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5829571"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5829571?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "dbgap"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-15"
+  ],
+  "dateOfCreation": [
+    "2017-11-30"
+  ],
+  "firstIndexDate": [
+    "2017-12-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-09"
+  ],
+  "dateOfRevision": [
+    "2019-07-15"
+  ],
+  "firstPublicationDate": [
+    "2018-02-01"
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": [
+    "30696090"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30696090"
+  ],
+  "pmcid": [
+    "PMC6463046"
+  ],
+  "doi": [
+    "10.3390/life9010015"
+  ],
+  "title": [
+    "Synthetic Mutualism and the Intervention Dilemma."
+  ],
+  "authorString": [
+    "Denton JA, Gokhale CS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Denton JA"
+          ],
+          "firstName": [
+            "Jai A"
+          ],
+          "lastName": [
+            "Denton"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5259-4221",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomics and Regulatory Systems Unit, Okinawa Institute of Science and Technology, Onna-son 904-0412, Japan. jai.denton@oist.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Gokhale CS"
+          ],
+          "firstName": [
+            "Chaitanya S"
+          ],
+          "lastName": [
+            "Gokhale"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5749-3665",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Group for Theoretical models of Eco-Evolutionary Dynamics, Max Planck Institute for Evolutionary Biology, 24304 Plön, Germany. gokhale@evolbio.mpg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5749-3665",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5259-4221",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2766989"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Life (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Life (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Life (Basel)"
+          ],
+          "NLMid": [
+            "101580444"
+          ],
+          "ISSN": [
+            "2075-1729"
+          ],
+          "ESSN": [
+            "2075-1729"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Ecosystems are complex networks of interacting individuals co-evolving with their environment. As such, changes to an interaction can influence the whole ecosystem. However, to predict the outcome of these changes, considerable understanding of processes driving the system is required. Synthetic biology provides powerful tools to aid this understanding, but these developments also allow us to change specific interactions. Of particular interest is the ecological importance of mutualism, a subset of cooperative interactions. Mutualism occurs when individuals of different species provide a reciprocal fitness benefit. We review available experimental techniques of synthetic biology focused on engineered synthetic mutualistic systems. Components of these systems have defined interactions that can be altered to model naturally occurring relationships. Integrations between experimental systems and theoretical models, each informing the use or development of the other, allow predictions to be made about the nature of complex relationships. The predictions range from stability of microbial communities in extreme environments to the collapse of ecosystems due to dangerous levels of human intervention. With such caveats, we evaluate the promise of synthetic biology from the perspective of ethics and laws regarding biological alterations, whether on Earth or beyond. Just because we are able to change something, should we?"
+  ],
+  "affiliation": [
+    "Genomics and Regulatory Systems Unit, Okinawa Institute of Science and Technology, Onna-son 904-0412, Japan. jai.denton@oist.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mutualism",
+        "Intervention Strategies",
+        "Ecosystem Engineering",
+        "Cross-feeding"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/life9010015"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6463046"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6463046?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-31"
+  ],
+  "firstIndexDate": [
+    "2019-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-24"
+  ],
+  "dateOfRevision": [
+    "2019-04-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-28"
+  ],
+  "firstPublicationDate": [
+    "2019-01-28"
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "id": [
+    "31467286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31467286"
+  ],
+  "pmcid": [
+    "PMC6715686"
+  ],
+  "doi": [
+    "10.1038/s41467-019-11857-8"
+  ],
+  "title": [
+    "Identification of somatic mutations in single cell DNA-seq using a spatial model of allelic imbalance."
+  ],
+  "authorString": [
+    "Luquette LJ, Bohrson CL, Sherman MA, Park PJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luquette LJ"
+          ],
+          "firstName": [
+            "Lovelace J"
+          ],
+          "lastName": [
+            "Luquette"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6968-9043",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bohrson CL"
+          ],
+          "firstName": [
+            "Craig L"
+          ],
+          "lastName": [
+            "Bohrson"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4063-4844",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sherman MA"
+          ],
+          "firstName": [
+            "Max A"
+          ],
+          "lastName": [
+            "Sherman"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5297-9252",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Park PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9378-960X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. peter_park@hms.harvard.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4063-4844",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5297-9252",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6968-9043",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9378-960X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2844022"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3908"
+  ],
+  "abstractText": [
+    "Recent advances in single cell technology have enabled dissection of cellular heterogeneity in great detail. However, analysis of single cell DNA sequencing data remains challenging due to bias and artifacts that arise during DNA extraction and whole-genome amplification, including allelic imbalance and dropout. Here, we present a framework for statistical estimation of allele-specific amplification imbalance at any given position in single cell whole-genome sequencing data by utilizing the allele frequencies of heterozygous single nucleotide polymorphisms in the neighborhood. The resulting allelic imbalance profile is critical for determining whether the variant allele fraction of an observed mutation is consistent with the expected fraction for a true variant. This method, implemented in SCAN-SNV (Single Cell ANalysis of SNVs), substantially improves the identification of somatic variants in single cells. Our allele balance framework is broadly applicable to genotype analysis of any variant type in any data that might exhibit allelic imbalance."
+  ],
+  "affiliation": [
+    "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 HG002295"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 MH106883"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-11857-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6715686"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6715686?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refsnp",
+        "dbgap"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-05"
+  ],
+  "dateOfRevision": [
+    "2019-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-29"
+  ],
+  "firstPublicationDate": [
+    "2019-08-29"
+  ]
+}

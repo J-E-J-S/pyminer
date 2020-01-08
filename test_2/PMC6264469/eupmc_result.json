@@ -1,0 +1,746 @@
+{
+  "id": [
+    "30496170"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30496170"
+  ],
+  "pmcid": [
+    "PMC6264469"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1006480"
+  ],
+  "title": [
+    "Strategies and opportunities for promoting bioinformatics in Zimbabwe."
+  ],
+  "authorString": [
+    "Shoko R, Manasa J, Maphosa M, Mbanga J, Mudziwapasi R, Nembaware V, Sanyika WT, Tinago T, Chikwambi Z, Mawere C, Matimba A, Mugumbate G, Mufandaedza J, Mulder N, Patterton H, Patterton H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shoko R"
+          ],
+          "firstName": [
+            "Ryman"
+          ],
+          "lastName": [
+            "Shoko"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1557-1696",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, School of Natural Science and Mathematics, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Manasa J"
+          ],
+          "firstName": [
+            "Justen"
+          ],
+          "lastName": [
+            "Manasa"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8874-907X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "African Institute of Biomedical Science & Technology, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Maphosa M"
+          ],
+          "firstName": [
+            "Mcebisi"
+          ],
+          "lastName": [
+            "Maphosa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Crop and Soil Science, School of Agricultural Sciences, Lupane State University, Lupane, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mbanga J"
+          ],
+          "firstName": [
+            "Joshua"
+          ],
+          "lastName": [
+            "Mbanga"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Applied Biology and Biochemistry, Faculty of Applied Sciences, National University of Science and Technology, Bulawayo, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mudziwapasi R"
+          ],
+          "firstName": [
+            "Reagan"
+          ],
+          "lastName": [
+            "Mudziwapasi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Crop and Soil Science, School of Agricultural Sciences, Lupane State University, Lupane, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Nembaware V"
+          ],
+          "firstName": [
+            "Victoria"
+          ],
+          "lastName": [
+            "Nembaware"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Computational Biology Division, Department of Integrative Biomedical Sciences, Institute of Infectious Disease and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanyika WT"
+          ],
+          "firstName": [
+            "Walter T"
+          ],
+          "lastName": [
+            "Sanyika"
+          ],
+          "initials": [
+            "WT"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Agricultural Sciences and Technology, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Tinago T"
+          ],
+          "firstName": [
+            "Tawanda"
+          ],
+          "lastName": [
+            "Tinago"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biology, School of Natural Science and Mathematics, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Chikwambi Z"
+          ],
+          "firstName": [
+            "Zedias"
+          ],
+          "lastName": [
+            "Chikwambi"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8638-6236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Agricultural Sciences and Technology, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mawere C"
+          ],
+          "firstName": [
+            "Cephas"
+          ],
+          "lastName": [
+            "Mawere"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, School of Industrial Science and Technology, Harare Institute of Technology, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Matimba A"
+          ],
+          "firstName": [
+            "Alice"
+          ],
+          "lastName": [
+            "Matimba"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Clinical Pharmacology, College of Health Sciences, University of Zimbabwe, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mugumbate G"
+          ],
+          "firstName": [
+            "Grace"
+          ],
+          "lastName": [
+            "Mugumbate"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2829-9425",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, School of Natural Science and Mathematics, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mufandaedza J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Mufandaedza"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7321-5825",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Biotechnology Authority, Harare, Zimbabwe."
+          ]
+        },
+        {
+          "fullName": [
+            "Mulder N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "Mulder"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4905-0941",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Biology Division, Department of Integrative Biomedical Sciences, Institute of Infectious Disease and Molecular Medicine, Faculty of Health Sciences, University of Cape Town, Cape Town, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Patterton H"
+          ],
+          "firstName": [
+            "Hugh"
+          ],
+          "lastName": [
+            "Patterton"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0492-4986",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Bioinformatics and Computational Biology, Stellenbosch University, Stellenbosch, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Patterton H"
+          ],
+          "firstName": [
+            "Hugh"
+          ],
+          "lastName": [
+            "Patterton"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2550-0493",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Bioinformatics and Computational Biology, Stellenbosch University, Stellenbosch, South Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4905-0941",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2550-0493",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8874-907X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1557-1696",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2829-9425",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0492-4986",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7321-5825",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8638-6236",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2743552"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e1006480"
+  ],
+  "affiliation": [
+    "Department of Biology, School of Natural Science and Mathematics, Chinhoyi University of Technology, Chinhoyi, Zimbabwe."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U01 HG008224"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 HG006941"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Status Indicators"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interprofessional Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Food Supply"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zimbabwe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metagenomics"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1006480"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264469"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264469?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-14"
+  ],
+  "dateOfCreation": [
+    "2018-11-30"
+  ],
+  "firstIndexDate": [
+    "2018-12-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-22"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-29"
+  ],
+  "firstPublicationDate": [
+    "2018-11-29"
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": [
+    "31497031"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31497031"
+  ],
+  "pmcid": [
+    "PMC6712585"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.00744"
+  ],
+  "title": [
+    "Multi-view Subspace Clustering Analysis for Aggregating Multiple Heterogeneous Omics Data."
+  ],
+  "authorString": [
+    "Shi Q, Hu B, Zeng T, Zhang C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi Q"
+          ],
+          "firstName": [
+            "Qianqian"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Hubei Key Laboratory of Agricultural Bioinformatics, College of Informatics, Huazhong Agricultural University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Applied Mathematics, College of Science, Zhejiang University of Technology, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0295-3994",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Key Laboratory of Systems Biology, Institute of Biochemistry and Cell Biology, Shanghai Institute of Biological Sciences, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang C"
+          ],
+          "firstName": [
+            "Chuanchao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Wuhan Institute of Huawei Technologies, Wuhan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0295-3994",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "744"
+  ],
+  "abstractText": [
+    "Integration of distinct biological data types could provide a comprehensive view of biological processes or complex diseases. The combinations of molecules responsible for different phenotypes form multiple embedded (expression) subspaces, thus identifying the intrinsic data structure is challenging by regular integration methods. In this paper, we propose a novel framework of \"Multi-view Subspace Clustering Analysis (MSCA),\" which could measure the local similarities of samples in the same subspace and obtain the global consensus sample patterns (structures) for multiple data types, thereby comprehensively capturing the underlying heterogeneity of samples. Applied to various synthetic datasets, MSCA performs effectively to recognize the predefined sample patterns, and is robust to data noises. Given a real biological dataset, i.e., Cancer Cell Line Encyclopedia (CCLE) data, MSCA successfully identifies cell clusters of common aberrations across cancer types. A remarkable superiority over the state-of-the-art methods, such as iClusterPlus, SNF, and ANF, has also been demonstrated in our simulation and case studies."
+  ],
+  "affiliation": [
+    "Hubei Key Laboratory of Agricultural Bioinformatics, College of Informatics, Huazhong Agricultural University, Wuhan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Heterogeneity",
+        "Data integration",
+        "Low-rank Representation",
+        "Graph Diffusion",
+        "Multi-view Subspace Clustering Analysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.00744"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6712585"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6712585?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-10"
+  ],
+  "firstIndexDate": [
+    "2019-09-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-20"
+  ],
+  "firstPublicationDate": [
+    "2019-08-20"
+  ]
+}

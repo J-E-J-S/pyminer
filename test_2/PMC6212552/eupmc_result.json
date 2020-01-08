@@ -1,0 +1,301 @@
+{
+  "id": [
+    "30416984"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30416984"
+  ],
+  "pmcid": [
+    "PMC6212552"
+  ],
+  "doi": [
+    "10.3389/fonc.2018.00479"
+  ],
+  "title": [
+    "Editorial: Precision Medicine in Oncology."
+  ],
+  "authorString": [
+    "Re A, Nardella C, Quattrone A, Lunardi A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Re A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Re"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Systems and Synthetic Biology Laboratory, Centre for Sustainable Future Technologies, Fondazione Istituto Italiano di Tecnologia, Torino, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Nardella C"
+          ],
+          "firstName": [
+            "Caterina"
+          ],
+          "lastName": [
+            "Nardella"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Precision Medicine Initiative, Centre for Integrative Biology, Trento, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Quattrone A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Quattrone"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Translational Genomics Laboratory, Centre for Integrative Biology, Trento, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Lunardi A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Lunardi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Armenise-Harvard Cancer Biology & Genetics Laboratory, Centre for Integrative Biology, Trento, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2647847"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "479"
+  ],
+  "affiliation": [
+    "Systems and Synthetic Biology Laboratory, Centre for Sustainable Future Technologies, Fondazione Istituto Italiano di Tecnologia, Torino, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pathology",
+        "computational biology",
+        "non-coding RNA",
+        "Oncology",
+        "Precision Medicine",
+        "In Vivo Preclinical Platform"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6212552?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6212552"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2018.00479"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-13"
+  ],
+  "firstIndexDate": [
+    "2018-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-12"
+  ],
+  "dateOfRevision": [
+    "2018-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-26"
+  ],
+  "firstPublicationDate": [
+    "2018-10-26"
+  ]
+}

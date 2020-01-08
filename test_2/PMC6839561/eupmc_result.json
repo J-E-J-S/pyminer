@@ -1,0 +1,510 @@
+{
+  "id": [
+    "31728165"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31728165"
+  ],
+  "pmcid": [
+    "PMC6839561"
+  ],
+  "doi": [
+    "10.3762/bjoc.15.244"
+  ],
+  "title": [
+    "A toolbox of molecular photoswitches to modulate the CXCR3 chemokine receptor with light."
+  ],
+  "authorString": [
+    "Gómez-Santacana X, de Munnik SM, Mocking TAM, Hauwert NJ, Sun S, Vijayachandran P, de Esch IJP, Vischer HF, Wijtmans M, Leurs R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gómez-Santacana X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Gómez-Santacana"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8830-0494",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Munnik SM"
+          ],
+          "firstName": [
+            "Sabrina M"
+          ],
+          "lastName": [
+            "de Munnik"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Mocking TAM"
+          ],
+          "firstName": [
+            "Tamara A M"
+          ],
+          "lastName": [
+            "Mocking"
+          ],
+          "initials": [
+            "TAM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6490-4429",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hauwert NJ"
+          ],
+          "firstName": [
+            "Niels J"
+          ],
+          "lastName": [
+            "Hauwert"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1217-1670",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun S"
+          ],
+          "firstName": [
+            "Shanliang"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Vijayachandran P"
+          ],
+          "firstName": [
+            "Prashanna"
+          ],
+          "lastName": [
+            "Vijayachandran"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1047-538X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Esch IJP"
+          ],
+          "firstName": [
+            "Iwan J P"
+          ],
+          "lastName": [
+            "de Esch"
+          ],
+          "initials": [
+            "IJP"
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Vischer HF"
+          ],
+          "firstName": [
+            "Henry F"
+          ],
+          "lastName": [
+            "Vischer"
+          ],
+          "initials": [
+            "HF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0184-6337",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Wijtmans M"
+          ],
+          "firstName": [
+            "Maikel"
+          ],
+          "lastName": [
+            "Wijtmans"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8955-8016",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Leurs R"
+          ],
+          "firstName": [
+            "Rob"
+          ],
+          "lastName": [
+            "Leurs"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1354-2848",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1047-538X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1217-1670",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0184-6337",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8830-0494",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1354-2848",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6490-4429",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8955-8016",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2774147"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Beilstein journal of organic chemistry"
+          ],
+          "ISOAbbreviation": [
+            "Beilstein J Org Chem"
+          ],
+          "medlineAbbreviation": [
+            "Beilstein J Org Chem"
+          ],
+          "NLMid": [
+            "101250746"
+          ],
+          "ISSN": [
+            "1860-5397"
+          ],
+          "ESSN": [
+            "1860-5397"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2509-2523"
+  ],
+  "abstractText": [
+    "We report a detailed structure-activity relationship for the scaffold of VUF16216, a compound we have previously communicated as a small-molecule efficacy photoswitch for the peptidergic chemokine GPCR CXCR3. A series of photoswitchable azobenzene ligands was prepared through various synthetic strategies and multistep syntheses. Photochemical and pharmacological properties were used to guide the design iterations. Investigations of positional and substituent effects reveal that halogen substituents on the ortho-position of the outer ring are preferred for conferring partial agonism on the cis form of the ligands. This effect could be expanded by an electron-donating group on the para-position of the central ring. A variety of efficacy differences between the trans and cis forms emerges from these compounds. Tool compounds VUF15888 (4d) and VUF16620 (6e) represent more subtle efficacy switches, while VUF16216 (6f) displays the largest efficacy switch, from antagonism to full agonism. The compound class disclosed here can aid in new photopharmacology studies of CXCR3 signaling."
+  ],
+  "affiliation": [
+    "Division of Medicinal Chemistry, Amsterdam Institute for Molecules Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, 1081 HZ, Amsterdam, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chemokine receptor",
+        "G protein-coupled receptors",
+        "Azo compounds",
+        "Photopharmacology",
+        "Efficacy Photoswitching"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3762/bjoc.15.244"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6839561"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6839561?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-16"
+  ],
+  "firstIndexDate": [
+    "2019-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-16"
+  ],
+  "dateOfRevision": [
+    "2019-11-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-23"
+  ]
+}

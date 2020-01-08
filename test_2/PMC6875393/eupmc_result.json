@@ -1,0 +1,354 @@
+{
+  "id": [
+    "31772839"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31772839"
+  ],
+  "pmcid": [
+    "PMC6875393"
+  ],
+  "doi": [
+    "10.7717/peerj.8077"
+  ],
+  "title": [
+    "Transcriptome profiling analysis reveals key genes of different coat color in sheep skin."
+  ],
+  "authorString": [
+    "Yao L, Bao A, Hong W, Hou C, Zhang Z, Liang X, Aniwashi J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yao L"
+          ],
+          "firstName": [
+            "Lidan"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bao A"
+          ],
+          "firstName": [
+            "Aodungerile"
+          ],
+          "lastName": [
+            "Bao"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong W"
+          ],
+          "firstName": [
+            "Wenjuan"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou C"
+          ],
+          "firstName": [
+            "Chenxi"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhenliang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang X"
+          ],
+          "firstName": [
+            "Xiaopeng"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Aniwashi J"
+          ],
+          "firstName": [
+            "Jueken"
+          ],
+          "lastName": [
+            "Aniwashi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2769901"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e8077"
+  ],
+  "abstractText": [
+    "Background:To investigate the molecular mechanisms determining the coat color of native breed sheep in Xinjiang. Methods:Bashibai sheep, Yemule white sheep and Tulufan black sheep were selected. Illumina HiSeq X Ten sequencing technology was used to detect the genes responsible for the white, light brown, black and cyan gray coat colors in sheep. Sequence analysis and functional gene annotation analysis were performed to analyze the results. The signal pathways and differentially expressed genes related to sheep hair color production regulation were screened and finally verified by real-time polymerase chain reaction. Results:Functional annotation by Kyoto Encyclopedia of Genes and Genomes analysis revealed significant differences in enrichment of immunity-related pathways as well as melanogenesis synthetic and tyrosine metabolism pathways. Our results showed that the DCT, TYR, TYRP1, PMEL, SLC45A2 and MLANA six genes may be associated with the regulation of coat color development and provide a theoretical basis for selecting natural coat colors of sheep."
+  ],
+  "affiliation": [
+    "College of Animal Science, Xinjiang Agricultural University, Urumqi, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sheep",
+        "Coat color",
+        "Molecular mechanism",
+        "Rna-seq"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.8077"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6875393"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6875393?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-11-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-21"
+  ],
+  "firstPublicationDate": [
+    "2019-11-21"
+  ]
+}

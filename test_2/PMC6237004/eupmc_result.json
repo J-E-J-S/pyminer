@@ -1,0 +1,256 @@
+{
+  "id": [
+    "30460210"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30460210"
+  ],
+  "pmcid": [
+    "PMC6237004"
+  ],
+  "doi": [
+    "10.1186/s40709-018-0091-5"
+  ],
+  "title": [
+    "Developing computational biology at meridian 23° E, and a little eastwards."
+  ],
+  "authorString": [
+    "Ouzounis CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ouzounis CA"
+          ],
+          "firstName": [
+            "Christos A"
+          ],
+          "lastName": [
+            "Ouzounis"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Biological Computation & Process Laboratory (BCPL), Chemical Process & Energy Resources Institute (CPERI), Centre for Research & Technology Hellas (CERTH), PO Box 361, 57001 Thessaloníki, Greece."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2647849"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biological research (Thessalonike, Greece)"
+          ],
+          "ISOAbbreviation": [
+            "J Biol Res (Thessalon)"
+          ],
+          "medlineAbbreviation": [
+            "J Biol Res (Thessalon)"
+          ],
+          "NLMid": [
+            "101248115"
+          ],
+          "ISSN": [
+            "1790-045X"
+          ],
+          "ESSN": [
+            "2241-5793"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "Modern biology is experiencing a deep transformation by the expansion of molecular-level measurements at all scales, using omics technologies. A key element in this transformation is the field of bioinformatics, that has-in the meanwhile-permeated pretty much all of biological and biomedical research and is now emerging as a key inter-disciplinary area that connects the natural sciences, chemical and electrical engineering, science education and science policy, on a number of science and technology fronts. The strong tradition of open access for large volumes of raw data, collections of complex results and high-quality algorithm implementations in bioinformatics makes the field a unique, special case of open science. We report on our recent research activities, the development of training initiatives in the wider region during the past years, and the lessons learned regarding our efforts away from major epicenters, within the general context of open science."
+  ],
+  "affiliation": [
+    "Biological Computation & Process Laboratory (BCPL), Chemical Process & Energy Resources Institute (CPERI), Centre for Research & Technology Hellas (CERTH), PO Box 361, 57001 Thessaloníki, Greece."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "letter",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biotechnology",
+        "Bioinformatics",
+        "Biochemical engineering",
+        "computational biology",
+        "Science Policy",
+        "Open Science",
+        "Open Research",
+        "Science Training"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6237004?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6237004"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40709-018-0091-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-24"
+  ],
+  "dateOfRevision": [
+    "2018-11-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-14"
+  ],
+  "firstPublicationDate": [
+    "2018-11-14"
+  ]
+}

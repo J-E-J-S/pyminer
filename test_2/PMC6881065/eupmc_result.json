@@ -1,0 +1,372 @@
+{
+  "id": [
+    "31730644"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31730644"
+  ],
+  "pmcid": [
+    "PMC6881065"
+  ],
+  "doi": [
+    "10.1371/journal.ppat.1008098"
+  ],
+  "title": [
+    "Influenza viruses that require 10 genomic segments as antiviral therapeutics."
+  ],
+  "authorString": [
+    "Harding AT, Haas GD, Chambers BS, Heaton NS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Harding AT"
+          ],
+          "firstName": [
+            "Alfred T"
+          ],
+          "lastName": [
+            "Harding"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1446-2359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Haas GD"
+          ],
+          "firstName": [
+            "Griffin D"
+          ],
+          "lastName": [
+            "Haas"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2517-1071",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chambers BS"
+          ],
+          "firstName": [
+            "Benjamin S"
+          ],
+          "lastName": [
+            "Chambers"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8095-5012",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Heaton NS"
+          ],
+          "firstName": [
+            "Nicholas S"
+          ],
+          "lastName": [
+            "Heaton"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5307-3428",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8095-5012",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2517-1071",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1446-2359",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5307-3428",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2876050"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS pathogens"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Pathog."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Pathog"
+          ],
+          "NLMid": [
+            "101238921"
+          ],
+          "ISSN": [
+            "1553-7366"
+          ],
+          "ESSN": [
+            "1553-7374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008098"
+  ],
+  "abstractText": [
+    "Influenza A viruses (IAVs) encode their genome across eight, negative sense RNA segments. During viral assembly, the failure to package all eight segments, or packaging a mutated segment, renders the resulting virion incompletely infectious. It is known that the accumulation of these defective particles can limit viral disease by interfering with the spread of fully infectious particles. In order to harness this phenomenon therapeutically, we defined which viral packaging signals were amenable to duplication and developed a viral genetic platform which produced replication competent IAVs that require up to two additional artificial genome segments for full infectivity. The modified and artificial genome segments propagated by this approach are capable of acting as \"decoy\" segments that, when packaged by coinfecting wild-type viruses, lead to the production of non-infectious viral particles. Although IAVs which require 10 genomic segments for full infectivity are able to replicate themselves and spread in vivo, their genomic modifications render them avirulent in mice. Administration of these viruses, both prophylactically and therapeutically, was able to rescue animals from a lethal influenza virus challenge. Together, our results show that replicating IAVs designed to propagate and spread defective genomic segments represent a potent anti-influenza biological therapy that can target the conserved process of particle assembly to limit viral disease."
+  ],
+  "affiliation": [
+    "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.ppat.1008098"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6881065"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6881065?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-16"
+  ],
+  "firstIndexDate": [
+    "2019-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-15"
+  ],
+  "firstPublicationDate": [
+    "2019-11-15"
+  ]
+}

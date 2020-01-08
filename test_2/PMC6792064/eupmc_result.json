@@ -1,0 +1,361 @@
+{
+  "id": [
+    "30903692"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30903692"
+  ],
+  "pmcid": [
+    "PMC6792064"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/btz199"
+  ],
+  "title": [
+    "Simulation-assisted machine learning."
+  ],
+  "authorString": [
+    "Deist TM, Patti A, Wang Z, Krane D, Sorenson T, Craft D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Deist TM"
+          ],
+          "firstName": [
+            "Timo M"
+          ],
+          "lastName": [
+            "Deist"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Patti A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Patti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhaoqi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krane D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Krane"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sorenson T"
+          ],
+          "firstName": [
+            "Taylor"
+          ],
+          "lastName": [
+            "Sorenson"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Craft D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Craft"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3093-718X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3093-718X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "20"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2871245"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4072-4080"
+  ],
+  "abstractText": [
+    "MOTIVATION:In a predictive modeling setting, if sufficient details of the system behavior are known, one can build and use a simulation for making predictions. When sufficient system details are not known, one typically turns to machine learning, which builds a black-box model of the system using a large dataset of input sample features and outputs. We consider a setting which is between these two extremes: some details of the system mechanics are known but not enough for creating simulations that can be used to make high quality predictions. In this context we propose using approximate simulations to build a kernel for use in kernelized machine learning methods, such as support vector machines. The results of multiple simulations (under various uncertainty scenarios) are used to compute similarity measures between every pair of samples: sample pairs are given a high similarity score if they behave similarly under a wide range of simulation parameters. These similarity values, rather than the original high dimensional feature data, are used to build the kernel. RESULTS:We demonstrate and explore the simulation-based kernel (SimKern) concept using four synthetic complex systems-three biologically inspired models and one network flow optimization model. We show that, when the number of training samples is small compared to the number of features, the SimKern approach dominates over no-prior-knowledge methods. This approach should be applicable in all disciplines where predictive models are sought and informative yet approximate simulations are available. AVAILABILITY AND IMPLEMENTATION:The Python SimKern software, the demonstration models (in MATLAB, R), and the datasets are available at https://github.com/davidcraft/SimKern. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Department of Radiation Oncology, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/btz199"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6792064"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6792064?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-24"
+  ],
+  "firstIndexDate": [
+    "2019-03-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-01"
+  ]
+}

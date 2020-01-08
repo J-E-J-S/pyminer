@@ -1,0 +1,299 @@
+{
+  "id": [
+    "31288412"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31288412"
+  ],
+  "pmcid": [
+    "PMC6651814"
+  ],
+  "doi": [
+    "10.3390/ijms20133352"
+  ],
+  "title": [
+    "Quantifying the Potential for Future Gene Therapy to Lower Lifetime Risk of Polygenic Late-Onset Diseases."
+  ],
+  "authorString": [
+    "Oliynyk RT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oliynyk RT"
+          ],
+          "firstName": [
+            "Roman Teo"
+          ],
+          "lastName": [
+            "Oliynyk"
+          ],
+          "initials": [
+            "RT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1893-199X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Computational Evolution, University of Auckland, Auckland 1010, New Zealand. roli573@aucklanduni.ac.nz."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1893-199X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2834183"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Gene therapy techniques and genetic knowledge may sufficiently advance, within the next few decades, to support prophylactic gene therapy for the prevention of polygenic late-onset diseases. The risk of these diseases may, hypothetically, be lowered by correcting the effects of a subset of common low effect gene variants. In this paper, simulations show that if such gene therapy were to become technically possible; and if the incidences of the treated diseases follow the proportional hazards model with a multiplicative genetic architecture composed of a sufficient number of common small effect gene variants, then: (a) late-onset diseases with the highest familial heritability will have the largest number of variants available for editing; (b) diseases that currently have the highest lifetime risk, particularly those with the highest incidence rate continuing into older ages, will prove the most challenging cases in lowering lifetime risk and delaying the age of onset at a population-wide level; (c) diseases that are characterized by the lowest lifetime risk will show the strongest and longest-lasting response to such therapies; and (d) longer life expectancy is associated with a higher lifetime risk of these diseases, and this tendency, while delayed, will continue after therapy."
+  ],
+  "affiliation": [
+    "Centre for Computational Evolution, University of Auckland, Auckland 1010, New Zealand. roli573@aucklanduni.ac.nz."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Simulation",
+        "Heritability",
+        "Life expectancy",
+        "Lifetime Risk",
+        "Gene Editing",
+        "Polygenic Risk",
+        "Late-onset Disease"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20133352"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651814"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651814?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR46935"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-11"
+  ],
+  "firstIndexDate": [
+    "2019-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-08"
+  ],
+  "firstPublicationDate": [
+    "2019-07-08"
+  ]
+}

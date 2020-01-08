@@ -1,0 +1,367 @@
+{
+  "id": [
+    "31202277"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31202277"
+  ],
+  "pmcid": [
+    "PMC6570844"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5883-y"
+  ],
+  "title": [
+    "HumanMycobiomeScan: a new bioinformatics tool for the characterization of the fungal fraction in metagenomic samples."
+  ],
+  "authorString": [
+    "Soverini M, Turroni S, Biagi E, Brigidi P, Candela M, Rampelli S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Soverini M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Soverini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3026-9460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy. matteo.soverini5@unibo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Turroni S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Turroni"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Biagi E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Biagi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Brigidi P"
+          ],
+          "firstName": [
+            "Patrizia"
+          ],
+          "lastName": [
+            "Brigidi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Candela M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Candela"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rampelli S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Rampelli"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3026-9460",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2823270"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "496"
+  ],
+  "abstractText": [
+    "BACKGROUND:Modern metagenomic analysis of complex microbial communities produces large amounts of sequence data containing information on the microbiome in terms of bacterial, archaeal, viral and eukaryotic composition. The bioinformatics tools available are mainly devoted to profiling the bacterial and viral fractions and only a few software packages consider fungi. As the human fungal microbiome (human mycobiome) can play an important role in the onset and progression of diseases, a comprehensive description of host-microbiota interactions cannot ignore this component. RESULTS:HumanMycobiomeScan is a bioinformatics tool for the taxonomic profiling of the mycobiome directly from raw data of next-generation sequencing. The tool uses hierarchical databases of fungi in order to unambiguously assign reads to fungal species more accurately and > 10,000 times faster than other comparable approaches. HumanMycobiomeScan was validated using in silico generated synthetic communities and then applied to metagenomic data, to characterize the intestinal fungal components in subjects adhering to different subsistence strategies. CONCLUSIONS:Although blind to unknown species, HumanMycobiomeScan allows the characterization of the fungal fraction of complex microbial ecosystems with good performance in terms of sample denoising from reads belonging to other microorganisms. HumanMycobiomeScan is most appropriate for well-studied microbiomes, for which most of the fungal species have been fully sequenced. This released version is functionally implemented to work with human-associated microbiota samples. In combination with other microbial profiling tools, HumanMycobiomeScan is a frugal and efficient tool for comprehensive characterization of microbial ecosystems through shotgun metagenomics sequencing."
+  ],
+  "affiliation": [
+    "Department of Pharmacy and Biotechnology, Unit of Microbial Ecology of Health, University of Bologna, Via Belmeloro 6, 40126, Bologna, Italy. matteo.soverini5@unibo.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metagenomics",
+        "Microbiome",
+        "Mycobiome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5883-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6570844"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6570844?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-17"
+  ],
+  "firstIndexDate": [
+    "2019-06-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-29"
+  ],
+  "dateOfRevision": [
+    "2019-06-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-15"
+  ],
+  "firstPublicationDate": [
+    "2019-06-15"
+  ]
+}

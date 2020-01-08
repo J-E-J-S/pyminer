@@ -1,0 +1,321 @@
+{
+  "id": [
+    "31806748"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31806748"
+  ],
+  "pmcid": [
+    "PMC6895308"
+  ],
+  "doi": [
+    "10.1128/MRA.01283-19"
+  ],
+  "title": [
+    "Complete Genome Sequence of the Ebosin-Producing Strain Streptomyces sp. 139."
+  ],
+  "authorString": [
+    "Ai L, Geng M, Ma M, Bai L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ai L"
+          ],
+          "firstName": [
+            "Limei"
+          ],
+          "lastName": [
+            "Ai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Geng M"
+          ],
+          "firstName": [
+            "Mengxin"
+          ],
+          "lastName": [
+            "Geng"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5179-5005",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China lipingbai1973@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5179-5005",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "49"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2889699"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbiology resource announcements"
+          ],
+          "ISOAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "medlineAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "NLMid": [
+            "101728794"
+          ],
+          "ISSN": [
+            "2576-098X"
+          ],
+          "ESSN": [
+            "2576-098X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Members of the genus Streptomyces are known for their ability to produce compounds with various bioactivities and for their complex morphologies. Streptomyces sp. strain 139 is the producer strain of the exopolysaccharide (EPS) ebosin, which has remarkable in vivo antirheumatic arthritis activity. Here, we report its complete genome sequence, which will facilitate the study of the biosynthesis of ebosin."
+  ],
+  "affiliation": [
+    "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/MRA.01283-19"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895308"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895308?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-07"
+  ],
+  "firstIndexDate": [
+    "2019-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-05"
+  ],
+  "firstPublicationDate": [
+    "2019-12-05"
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "id": [
+    "31182776"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31182776"
+  ],
+  "pmcid": [
+    "PMC6557832"
+  ],
+  "doi": [
+    "10.1038/s41598-019-44775-2"
+  ],
+  "title": [
+    "Orb-weaving spider Araneus ventricosus genome elucidates the spidroin gene catalogue."
+  ],
+  "authorString": [
+    "Kono N, Nakamura H, Ohtoshi R, Moran DAP, Shinohara A, Yoshida Y, Fujiwara M, Mori M, Tomita M, Arakawa K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kono N"
+          ],
+          "firstName": [
+            "Nobuaki"
+          ],
+          "lastName": [
+            "Kono"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5960-7956",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura H"
+          ],
+          "firstName": [
+            "Hiroyuki"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Spiber Inc., 234-1 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ohtoshi R"
+          ],
+          "firstName": [
+            "Rintaro"
+          ],
+          "lastName": [
+            "Ohtoshi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Spiber Inc., 234-1 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Moran DAP"
+          ],
+          "firstName": [
+            "Daniel A Pedrazzoli"
+          ],
+          "lastName": [
+            "Moran"
+          ],
+          "initials": [
+            "DAP"
+          ],
+          "affiliation": [
+            "Spiber Inc., 234-1 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shinohara A"
+          ],
+          "firstName": [
+            "Asaka"
+          ],
+          "lastName": [
+            "Shinohara"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Spiber Inc., 234-1 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2749-8171",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Media and Governance, Keio University, 5322 Endo, Fujisawa, Kanagawa, 252-0882, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujiwara M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Fujiwara"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Mori M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Mori"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomita M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Tomita"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Arakawa K"
+          ],
+          "firstName": [
+            "Kazuharu"
+          ],
+          "lastName": [
+            "Arakawa"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2893-4919",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan. gaou@sfc.keio.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2893-4919",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2749-8171",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5960-7956",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2823394"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8380"
+  ],
+  "abstractText": [
+    "Members of the family Araneidae are common orb-weaving spiders, and they produce several types of silks throughout their behaviors and lives, from reproduction to foraging. Egg sac, prey capture thread, or dragline silk possesses characteristic mechanical properties, and its variability makes it a highly attractive material for ecological, evolutional, and industrial fields. However, the complete set of constituents of silks produced by a single species is still unclear, and novel spidroin genes as well as other proteins are still being found. Here, we present the first genome in genus Araneus together with the full set of spidroin genes with unamplified long reads and confirmed with transcriptome of the silk glands and proteome analysis of the dragline silk. The catalogue includes the first full length sequence of a paralog of major ampullate spidroin MaSp3, and several spider silk-constituting elements designated SpiCE. Family-wide phylogenomic analysis of Araneidae suggests the relatively recent acquisition of these genes, and multiple-omics analyses demonstrate that these proteins are critical components in the abdominal spidroin gland and dragline silk, contributing to the outstanding mechanical properties of silk in this group of species."
+  ],
+  "affiliation": [
+    "Institute for Advanced Biosciences, Keio University, 246-2 Mizukami, Kakuganji, Tsuruoka, Yamagata, 997-0052, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ImPACT"
+          ],
+          "agency": [
+            "Cabinet Office, Government of Japan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-44775-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6557832"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6557832?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-12"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-22"
+  ],
+  "dateOfRevision": [
+    "2019-06-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-06-10"
+  ]
+}

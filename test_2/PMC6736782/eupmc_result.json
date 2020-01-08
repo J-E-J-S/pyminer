@@ -1,0 +1,354 @@
+{
+  "id": [
+    "31055881"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31055881"
+  ],
+  "pmcid": [
+    "PMC6736782"
+  ],
+  "doi": [
+    "10.1111/pbi.13146"
+  ],
+  "title": [
+    "An exposure pathway-based risk assessment system for GM plants."
+  ],
+  "authorString": [
+    "Liu Y, Stewart CN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yongbo"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1618-8813",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Environmental Criteria and Risk Assessment, Chinese Research Academy of Environmental Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Stewart CN Jr"
+          ],
+          "firstName": [
+            "Charles Neal"
+          ],
+          "lastName": [
+            "Stewart"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3026-9193",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Sciences, University of Tennessee, Knoxville, TN, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1618-8813",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3026-9193",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2858103"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant biotechnology journal"
+          ],
+          "ISOAbbreviation": [
+            "Plant Biotechnol. J."
+          ],
+          "medlineAbbreviation": [
+            "Plant Biotechnol J"
+          ],
+          "NLMid": [
+            "101201889"
+          ],
+          "ISSN": [
+            "1467-7644"
+          ],
+          "ESSN": [
+            "1467-7652"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1859-1861"
+  ],
+  "affiliation": [
+    "State Key Laboratory of Environmental Criteria and Risk Assessment, Chinese Research Academy of Environmental Sciences, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "D17AC00016"
+          ],
+          "agency": [
+            "Defense Advanced Research Projects Agency"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Z161100004916112"
+          ],
+          "agency": [
+            "Beijing Nova Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-AR000660"
+          ],
+          "agency": [
+            "Advanced Research Projects Agency-Energy"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "risk assessment",
+        "Exposure Pathway",
+        "Gm Plants"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/pbi.13146"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6736782"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6736782?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-06"
+  ],
+  "firstIndexDate": [
+    "2019-05-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-17"
+  ],
+  "firstPublicationDate": [
+    "2019-05-17"
+  ]
+}

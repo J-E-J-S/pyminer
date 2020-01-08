@@ -1,0 +1,401 @@
+{
+  "id": [
+    "31506091"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31506091"
+  ],
+  "pmcid": [
+    "PMC6737703"
+  ],
+  "doi": [
+    "10.1186/s12934-019-1205-y"
+  ],
+  "title": [
+    "Characterizing an engineered carotenoid-producing yeast as an anti-stress chassis for building cell factories."
+  ],
+  "authorString": [
+    "Liu HL, Chang JJ, Thia C, Lin YJ, Lo SC, Huang CC, Li WH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu HL"
+          ],
+          "firstName": [
+            "Hsien-Lin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Ph.D. Program in Microbial Genomics, National Chung Hsing University and Academia Sinica, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang JJ"
+          ],
+          "firstName": [
+            "Jui-Jen"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Department of Medical Research, China Medical University Hospital, No. 91 Hsueh-Shih Road, Taichung, 402, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Thia C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Thia"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Life Sciences, National Chung Hsing University, No. 250, Kuo Kuang Rd, Taichung, 402, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin YJ"
+          ],
+          "firstName": [
+            "Yu-Ju"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Biodiversity Research Center, Academia Sinica, 128 Academia Road, Sec. 2, Nankang, Taipei, 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lo SC"
+          ],
+          "firstName": [
+            "Shou-Chen"
+          ],
+          "lastName": [
+            "Lo"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Life Sciences, National Chung Hsing University, No. 250, Kuo Kuang Rd, Taichung, 402, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CC"
+          ],
+          "firstName": [
+            "Chieh-Chen"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Ph.D. Program in Microbial Genomics, National Chung Hsing University and Academia Sinica, Taipei, Taiwan. cchuang@dragon.nchu.edu.tw."
+          ]
+        },
+        {
+          "fullName": [
+            "Li WH"
+          ],
+          "firstName": [
+            "Wen-Hsiung"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Ph.D. Program in Microbial Genomics, National Chung Hsing University and Academia Sinica, Taipei, Taiwan. whli@uchicago.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2854886"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "155"
+  ],
+  "abstractText": [
+    "BACKGROUND:A microorganism engineered for non-native tasks may suffer stresses it never met before. Therefore, we examined whether a Kluyveromyces marxianus strain engineered with a carotenoid biosynthesis pathway can serve as an anti-stress chassis for building cell factories. RESULTS:Carotenoids, a family of antioxidants, are valuable natural products with high commercial potential. We showed that the free radical removal ability of carotenoids can confer the engineered host with a higher tolerance to ethanol, so that it can produce more bio-ethanol than the wild type. Moreover, we found that this engineered strain has improved tolerance to other toxic effects including furfurals, heavy metals such as arsenate (biomass contaminant) and isobutanol (end product). Furthermore, the enhanced ethanol tolerance of the host can be applied to bioconversion of a natural medicine that needs to use ethanol as the delivery solvent of hydrophobic precursors. The result suggested that the engineered yeast showed enhanced tolerance to ethanol-dissolved hydrophobic 10-deacetylbaccatin III, which is considered a sustainable precursor for paclitaxel (taxol) bioconversion. CONCLUSIONS:The stress tolerances of the engineered yeast strain showed tolerance to several toxins, so it may serve as a chassis for cell factories to produce target products, and the co-production of carotenoids may make the biorefinary more cost-effective."
+  ],
+  "affiliation": [
+    "Ph.D. Program in Microbial Genomics, National Chung Hsing University and Academia Sinica, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MOST 107-2621-M-039-001 -"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MOST 107-2311-B-039-002 -"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Carotenoids",
+        "Anti-stress",
+        "toxins",
+        "Bio-ethanol",
+        "Biorefinery",
+        "10-Deacetylbaccatin Iii"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-019-1205-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6737703"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6737703?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-12"
+  ],
+  "firstIndexDate": [
+    "2019-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-09-10"
+  ]
+}

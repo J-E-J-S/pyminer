@@ -1,0 +1,517 @@
+{
+  "id": [
+    "29950014"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29950014"
+  ],
+  "pmcid": [
+    "PMC6022575"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/bty286"
+  ],
+  "title": [
+    "Haplotype phasing in single-cell DNA-sequencing data."
+  ],
+  "authorString": [
+    "Satas G, Raphael BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Satas G"
+          ],
+          "firstName": [
+            "Gryte"
+          ],
+          "lastName": [
+            "Satas"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Princeton University, Princeton, NJ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Raphael BJ"
+          ],
+          "firstName": [
+            "Benjamin J"
+          ],
+          "lastName": [
+            "Raphael"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Princeton University, Princeton, NJ, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2700335"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "i211-i217"
+  ],
+  "abstractText": [
+    "Motivation:Current technologies for single-cell DNA sequencing require whole-genome amplification (WGA), as a single cell contains too little DNA for direct sequencing. Unfortunately, WGA introduces biases in the resulting sequencing data, including non-uniformity in genome coverage and high rates of allele dropout. These biases complicate many downstream analyses, including the detection of genomic variants. Results:We show that amplification biases have a potential upside: long-range correlations in rates of allele dropout provide a signal for phasing haplotypes at the lengths of amplicons from WGA, lengths which are generally longer than than individual sequence reads. We describe a statistical test to measure concurrent allele dropout between single-nucleotide polymorphisms (SNPs) across multiple sequenced single cells. We use results of this test to perform haplotype assembly across a collection of single cells. We demonstrate that the algorithm predicts phasing between pairs of SNPs with higher accuracy than phasing from reads alone. Using whole-genome sequencing data from only seven neural cells, we obtain haplotype blocks that are orders of magnitude longer than with sequence reads alone (median length 10.2 kb versus 312 bp), with error rates <2%. We demonstrate similar advantages on whole-exome data from 16 cells, where we obtain haplotype blocks with median length 9.2 kb-comparable to typical gene lengths-compared with median lengths of 41 bp with sequence reads alone, with error rates <4%. Our algorithm will be useful for haplotyping of rare alleles and studies of allele-specific somatic aberrations. Availability and implementation:Source code is available at https://www.github.com/raphael-group. Supplementary information:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Department of Computer Science, Princeton University, Princeton, NJ, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA180776"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG007069"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Frequency"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/bty286"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6022575"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6022575?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-27"
+  ],
+  "dateOfCreation": [
+    "2018-06-29"
+  ],
+  "firstIndexDate": [
+    "2018-06-29"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-12"
+  ],
+  "dateOfRevision": [
+    "2019-08-27"
+  ],
+  "firstPublicationDate": [
+    "2018-07-01"
+  ]
+}

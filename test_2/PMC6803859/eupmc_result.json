@@ -1,0 +1,329 @@
+{
+  "id": [
+    "31581474"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31581474"
+  ],
+  "pmcid": [
+    "PMC6803859"
+  ],
+  "doi": [
+    "10.3390/molecules24193562"
+  ],
+  "title": [
+    "Structural Basis for the Regulation of PPARγ Activity by Imatinib."
+  ],
+  "authorString": [
+    "Jang JY, Kim HJ, Han BW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jang JY"
+          ],
+          "firstName": [
+            "Jun Young"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Research Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University, Seoul 08826, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HJ"
+          ],
+          "firstName": [
+            "Hyun-Jung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "College of Pharmacy, Chung-Ang University, Seoul 06974, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Han BW"
+          ],
+          "firstName": [
+            "Byung Woo"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "BW"
+          ],
+          "affiliation": [
+            "Research Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University, Seoul 08826, Korea. bwhan@snu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2867016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Imatinib is an effective anticancer drug for the treatment of leukemia. Interestingly, when an FDA-approved drug library was tested for agents that block peroxisome proliferator-activated receptor γ (PPARγ) phosphorylation at Ser245 to evaluate possibilities of antidiabetic drug repositioning, imatinib was determined as a PPARγ antagonist ligand. However, it is not well understood how imatinib binds to PPARγ or would improve insulin sensitivity without classical agonism. Here, we report the crystal structure of the PPARγ R288A mutant in complex with imatinib. Imatinib bound to Arm2 and Arm3 regions in the ligand-binding domain (LBD) of PPARγ, of which the Arm3 region is closely related to the inhibition of PPARγ phosphorylation at Ser245. The binding of imatinib in LBD induced a stable conformation of helix H2' and the Ω loop compared with the ligand-free state. In contrast, imatinib does not interact with Tyr473 on PPARγ helix H12, which is important for the classical agonism associated with side effects. Our study provides new structural insights into the PPARγ regulation by imatinib and may contribute to the development of new antidiabetic drugs targeting PPARγ while minimizing known side effects."
+  ],
+  "affiliation": [
+    "Research Institute of Pharmaceutical Sciences, College of Pharmacy, Seoul National University, Seoul 08826, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NRF-2011-0030001"
+          ],
+          "agency": [
+            "Ministry of Science and ICT of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRF-2013M-3A6A-4043695"
+          ],
+          "agency": [
+            "Ministry of Science and ICT of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Crystal structure",
+        "Type 2 diabetes",
+        "PPARγ",
+        "Imatinib",
+        "Antidiabetic Drug"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24193562"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803859"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803859?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-05"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-01"
+  ],
+  "firstPublicationDate": [
+    "2019-10-01"
+  ]
+}

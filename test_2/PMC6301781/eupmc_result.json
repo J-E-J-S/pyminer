@@ -1,0 +1,888 @@
+{
+  "id": [
+    "30571788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30571788"
+  ],
+  "pmcid": [
+    "PMC6301781"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0209357"
+  ],
+  "title": [
+    "Phenotypic and genomic analyses of bacteriophages targeting environmental and clinical CS3-expressing enterotoxigenic Escherichia coli (ETEC) strains."
+  ],
+  "authorString": [
+    "Chakraborty S, von Mentzer A, Begum YA, Manzur M, Hasan M, Ghosh AN, Hossain MA, Camilli A, Qadri F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chakraborty S"
+          ],
+          "firstName": [
+            "Sajib"
+          ],
+          "lastName": [
+            "Chakraborty"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8900-503X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, University of Dhaka, Dhaka, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "von Mentzer A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "von Mentzer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Begum YA"
+          ],
+          "firstName": [
+            "Yasmin Ara"
+          ],
+          "lastName": [
+            "Begum"
+          ],
+          "initials": [
+            "YA"
+          ],
+          "affiliation": [
+            "icddr,b (International Centre for Diarrhoeal Disease Research, Bangladesh), Mohakhali, Dhaka, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Manzur M"
+          ],
+          "firstName": [
+            "Mehnaz"
+          ],
+          "lastName": [
+            "Manzur"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, University of Dhaka, Dhaka, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Hasan M"
+          ],
+          "firstName": [
+            "Mahmudul"
+          ],
+          "lastName": [
+            "Hasan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6274-4107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, University of Dhaka, Dhaka, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghosh AN"
+          ],
+          "firstName": [
+            "Amar N"
+          ],
+          "lastName": [
+            "Ghosh"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "National Institute of Cholera and Enteric Diseases, Kolkata, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hossain MA"
+          ],
+          "firstName": [
+            "M Anwar"
+          ],
+          "lastName": [
+            "Hossain"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, University of Dhaka, Dhaka, Bangladesh."
+          ]
+        },
+        {
+          "fullName": [
+            "Camilli A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Camilli"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Molecular Biology and Microbiology, and Howard Hughes Medical Institute, Tufts University School of Medicine, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Qadri F"
+          ],
+          "firstName": [
+            "Firdausi"
+          ],
+          "lastName": [
+            "Qadri"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "icddr,b (International Centre for Diarrhoeal Disease Research, Bangladesh), Mohakhali, Dhaka, Bangladesh."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8900-503X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6274-4107",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0209357"
+  ],
+  "abstractText": [
+    "Diarrhea due to infection of enterotoxigenic Escherichia coli (ETEC) is of great concern in several low and middle-income countries. ETEC infection is considered to be the most common cause of diarrhea in Bangladesh and is mainly spread through contaminated water and food. ETEC pathogenesis is mediated by the expression of enterotoxins and colonization factors (CFs) that target the intestinal mucosa. ETEC can survive for extended time periods in water, where they are likely to be attacked by bacteriophages. Antibiotic resistance is common amongst enteric pathogens and therefore is the use of bacteriophages (phage) as a therapeutic tool an interesting approach. This study was designed to identify novel phages that specifically target ETEC virulence factors. In total, 48 phages and 195 ETEC isolates were collected from water sources and stool samples. Amongst the identified ETEC specific phages, an enterobacteria phage T7, designated as IMM-002, showed a significant specificity towards colonization factor CS3-expressing ETEC isolates. Antibody-blocking and phage-neutralization assays revealed that CS3 is used as a host receptor for the IMM-002 phage. The bacterial CRISPR-Cas (Clustered Regularly Interspaced Short Palindromic Repeats-CRISPR-associated) defence mechanism can invoke immunity against phages. Genomic analyses coupled with plaque assay experiments indicate that the ETEC CRISPR-Cas system is involved in the resistance against the CS3-specific phage (IMM-002) and the previously identified CS7-specific phage (IMM-001). As environmental water serves as a reservoir for ETEC, it is important to search for new antimicrobial agents such as phages in environmental water as well as the human gut. A better understanding of how the interplay between ETEC-specific phages and ETEC isolates affects the ETEC diversity, both in environmental ecosystems and within the host, is important for the development of new treatments for ETEC infections."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Biology, University of Dhaka, Dhaka, Bangladesh."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AI055058"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteriophages"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diarrhea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fimbriae Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water Microbiology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Pollution"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bangladesh"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Enterotoxigenic Escherichia coli"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "nfaE protein, E coli"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Escherichia coli Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fimbriae Proteins"
+          ],
+          "registryNumber": [
+            "147680-16-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0209357"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301781"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6301781?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30835765"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2019 Mar 5;14(3):e0213612"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-27"
+  ],
+  "dateOfCreation": [
+    "2018-12-21"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-17"
+  ],
+  "dateOfRevision": [
+    "2019-05-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-20"
+  ],
+  "firstPublicationDate": [
+    "2018-12-20"
+  ]
+}

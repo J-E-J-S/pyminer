@@ -1,0 +1,600 @@
+{
+  "id": [
+    "30625138"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30625138"
+  ],
+  "pmcid": [
+    "PMC6326464"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0209124"
+  ],
+  "title": [
+    "Reducing phenolic off-flavors through CRISPR-based gene editing of the FDC1 gene in Saccharomyces cerevisiae x Saccharomyces eubayanus hybrid lager beer yeasts."
+  ],
+  "authorString": [
+    "Mertens S, Gallone B, Steensels J, Herrera-Malaver B, Cortebeek J, Nolmans R, Saels V, Vyas VK, Verstrepen KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mertens S"
+          ],
+          "firstName": [
+            "Stijn"
+          ],
+          "lastName": [
+            "Mertens"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Gallone B"
+          ],
+          "firstName": [
+            "Brigida"
+          ],
+          "lastName": [
+            "Gallone"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Steensels J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Steensels"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Herrera-Malaver B"
+          ],
+          "firstName": [
+            "Beatriz"
+          ],
+          "lastName": [
+            "Herrera-Malaver"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Cortebeek J"
+          ],
+          "firstName": [
+            "Jeroen"
+          ],
+          "lastName": [
+            "Cortebeek"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Nolmans R"
+          ],
+          "firstName": [
+            "Robbe"
+          ],
+          "lastName": [
+            "Nolmans"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Saels V"
+          ],
+          "firstName": [
+            "Veerle"
+          ],
+          "lastName": [
+            "Saels"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Vyas VK"
+          ],
+          "firstName": [
+            "Valmik K"
+          ],
+          "lastName": [
+            "Vyas"
+          ],
+          "initials": [
+            "VK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2849-3399",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Whitehead Institute for Biomedical Research, Cambridge, Massachusetts, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Verstrepen KJ"
+          ],
+          "firstName": [
+            "Kevin J"
+          ],
+          "lastName": [
+            "Verstrepen"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3077-6219",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3077-6219",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2849-3399",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0209124"
+  ],
+  "abstractText": [
+    "Today's beer market is challenged by a decreasing consumption of traditional beer styles and an increasing consumption of specialty beers. In particular, lager-type beers (pilsner), characterized by their refreshing and unique aroma and taste, yet very uniform, struggle with their sales. The development of novel variants of the common lager yeast, the interspecific hybrid Saccharomyces pastorianus, has been proposed as a possible solution to address the need of product diversification in lager beers. Previous efforts to generate new lager yeasts through hybridization of the ancestral parental species (S. cerevisiae and S. eubayanus) yielded strains with an aromatic profile distinct from the natural biodiversity. Unfortunately, next to the desired properties, these novel yeasts also inherited unwanted characteristics. Most notably is their phenolic off-flavor (POF) production, which hampers their direct application in the industrial production processes. Here, we describe a CRISPR-based gene editing strategy that allows the systematic and meticulous introduction of a natural occurring mutation in the FDC1 gene of genetically complex industrial S. cerevisiae strains, S. eubayanus yeasts and interspecific hybrids. The resulting cisgenic POF- variants show great potential for industrial application and diversifying the current lager beer portfolio."
+  ],
+  "affiliation": [
+    "Laboratory for Genetics and Genomics, Centre of Microbial and Plant Genetics (CMPG), KU Leuven, Leuven, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biodiversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Beer"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0209124"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6326464"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6326464?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31648239"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2019 Oct 24;14(10):e0224525"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-09-23"
+  ],
+  "dateOfCreation": [
+    "2019-01-10"
+  ],
+  "firstIndexDate": [
+    "2019-01-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

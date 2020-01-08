@@ -1,0 +1,494 @@
+{
+  "id": [
+    "31588923"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31588923"
+  ],
+  "pmcid": [
+    "PMC6778850"
+  ],
+  "doi": [
+    "10.1107/S2059798319011938"
+  ],
+  "title": [
+    "The flavin mononucleotide cofactor in α-hydroxyacid oxidases exerts its electrophilic/nucleophilic duality in control of the substrate-oxidation level."
+  ],
+  "authorString": [
+    "Lyu SY, Lin KH, Yeh HW, Li YS, Huang CM, Wang YL, Shih HW, Hsu NS, Wu CJ, Li TL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lyu SY"
+          ],
+          "firstName": [
+            "Syue Yi"
+          ],
+          "lastName": [
+            "Lyu"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin KH"
+          ],
+          "firstName": [
+            "Kuan Hung"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh HW"
+          ],
+          "firstName": [
+            "Hsien Wei"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Li YS"
+          ],
+          "firstName": [
+            "Yi Shan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CM"
+          ],
+          "firstName": [
+            "Chun Man"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang YL"
+          ],
+          "firstName": [
+            "Yung Lin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shih HW"
+          ],
+          "firstName": [
+            "Hao Wei"
+          ],
+          "lastName": [
+            "Shih"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu NS"
+          ],
+          "firstName": [
+            "Ning Shian"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu CJ"
+          ],
+          "firstName": [
+            "Chang Jer"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5079-5839",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science, National Taiwan Ocean University, Keelung 202, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Li TL"
+          ],
+          "firstName": [
+            "Tsung Lin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5079-5839",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Pt 10"
+      ],
+      "volume": [
+        "75"
+      ],
+      "journalIssueId": [
+        "2868422"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Acta crystallographica. Section D, Structural biology"
+          ],
+          "ISOAbbreviation": [
+            "Acta Crystallogr D Struct Biol"
+          ],
+          "medlineAbbreviation": [
+            "Acta Crystallogr D Struct Biol"
+          ],
+          "NLMid": [
+            "101676043"
+          ],
+          "ESSN": [
+            "2059-7983"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "918-929"
+  ],
+  "abstractText": [
+    "The Y128F single mutant of p-hydroxymandelate oxidase (Hmo) is capable of oxidizing mandelate to benzoate via a four-electron oxidative decarboxylation reaction. When benzoylformate (the product of the first two-electron oxidation) and hydrogen peroxide (an oxidant) were used as substrates the reaction did not proceed, suggesting that free hydrogen peroxide is not the committed oxidant in the second two-electron oxidation. How the flavin mononucleotide (FMN)-dependent four-electron oxidation reaction takes place remains elusive. Structural and biochemical explorations have shed new light on this issue. 15 high-resolution crystal structures of Hmo and its mutants liganded with or without a substrate reveal that oxidized FMN (FMNox) possesses a previously unknown electrophilic/nucleophilic duality. In the Y128F mutant the active-site perturbation ensemble facilitates the polarization of FMNox to a nucleophilic ylide, which is in a position to act on an α-ketoacid, forming an N5-acyl-FMNred dead-end adduct. In four-electron oxidation, an intramolecular disproportionation reaction via an N5-alkanol-FMNred C'α carbanion intermediate may account for the ThDP/PLP/NADPH-independent oxidative decarboxylation reaction. A synthetic 5-deaza-FMNox cofactor in combination with an α-hydroxyamide or α-ketoamide biochemically and structurally supports the proposed mechanism."
+  ],
+  "affiliation": [
+    "Genomics Research Center, Academia Sinica, Taipei 115, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "105-2311-B-001-050"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "106-2113-M-001-013-MY2"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "102-2311-B-001-028-MY3"
+          ],
+          "agency": [
+            "Ministry of Science and Technology, Taiwan"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Flavin mononucleotide",
+        "Monooxygenase",
+        "Oxidative Decarboxylation",
+        "Electrophilic/nucleophilic Duality",
+        "P-hydroxymandelate Oxidase",
+        "Α-hydroxyacid Oxidases"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1107/S2059798319011938"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6778850"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6778850?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PDB"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-08"
+  ],
+  "firstIndexDate": [
+    "2019-10-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-24"
+  ],
+  "firstPublicationDate": [
+    "2019-09-24"
+  ]
+}

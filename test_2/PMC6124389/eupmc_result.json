@@ -1,0 +1,492 @@
+{
+  "id": [
+    "30228881"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30228881"
+  ],
+  "pmcid": [
+    "PMC6124389"
+  ],
+  "doi": [
+    "10.12688/f1000research.15809.2"
+  ],
+  "title": [
+    "Comparison of clustering tools in R for medium-sized 10x Genomics single-cell RNA-sequencing data."
+  ],
+  "authorString": [
+    "Freytag S, Tian L, Lönnstedt I, Ng M, Bahlo M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Freytag S"
+          ],
+          "firstName": [
+            "Saskia"
+          ],
+          "lastName": [
+            "Freytag"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2185-7068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Population Health and Immunity, Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian L"
+          ],
+          "firstName": [
+            "Luyi"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3420-3685",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Biology, University of Melbourne, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lönnstedt I"
+          ],
+          "firstName": [
+            "Ingrid"
+          ],
+          "lastName": [
+            "Lönnstedt"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Bio21 Insititute, CSL Limited, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ng M"
+          ],
+          "firstName": [
+            "Milica"
+          ],
+          "lastName": [
+            "Ng"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Bio21 Insititute, CSL Limited, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahlo M"
+          ],
+          "firstName": [
+            "Melanie"
+          ],
+          "lastName": [
+            "Bahlo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5132-0774",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Population Health and Immunity, Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2185-7068",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5132-0774",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3420-3685",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2640457"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1297"
+  ],
+  "abstractText": [
+    "Background: The commercially available 10x Genomics protocol to generate droplet-based single cell RNA-seq (scRNA-seq) data is enjoying growing popularity among researchers. Fundamental to the analysis of such scRNA-seq data is the ability to cluster similar or same cells into non-overlapping groups. Many competing methods have been proposed for this task, but there is currently little guidance with regards to which method to use. Methods: Here we use one gold standard 10x Genomics dataset, generated from the mixture of three cell lines, as well as multiple silver standard 10x Genomics datasets generated from peripheral blood mononuclear cells to examine not only the accuracy but also running time and robustness of a dozen methods. Results: We found that Seurat outperformed other methods, although performance seems to be dependent on many factors, including the complexity of the studied system. Furthermore, we found that solutions produced by different methods have little in common with each other. Conclusions: In light of this we conclude that the choice of clustering tool crucially determines interpretation of scRNA-seq data generated by 10x Genomics. Hence practitioners and consumers should remain vigilant about the outcome of 10x Genomics scRNA-seq analysis."
+  ],
+  "affiliation": [
+    "Population Health and Immunity, Walter and Eliza Hall Institute of Medical Research, Parkville, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Leukocytes, Mononuclear"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Clustering",
+        "Benchmarking",
+        "Single-cell Rna-seq",
+        "10X Genomics"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA"
+          ],
+          "registryNumber": [
+            "63231-63-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.15809.2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124389"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6124389?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR65209"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-11-18"
+  ],
+  "dateOfCreation": [
+    "2019-01-05"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-11-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-15"
+  ],
+  "firstPublicationDate": [
+    "2018-08-15"
+  ]
+}

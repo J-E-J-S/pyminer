@@ -1,0 +1,993 @@
+{
+  "id": [
+    "30940068"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30940068"
+  ],
+  "pmcid": [
+    "PMC6446315"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5622-4"
+  ],
+  "title": [
+    "Population genomics identifies patterns of genetic diversity and selection in chicken."
+  ],
+  "authorString": [
+    "Li D, Li Y, Li M, Che T, Tian S, Chen B, Zhou X, Zhang G, Gaur U, Luo M, Tian K, He M, He S, Xu Z, Jin L, Tang Q, Dai Y, Xu H, Hu Y, Zhao X, Yin H, Wang Y, Zhou R, Yang C, Du H, Jiang X, Zhu Q, Li M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li D"
+          ],
+          "firstName": [
+            "Diyan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Miao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Che T"
+          ],
+          "firstName": [
+            "Tiandong"
+          ],
+          "lastName": [
+            "Che"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian S"
+          ],
+          "firstName": [
+            "Shilin"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Binlong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xuming"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Division of Genetics, Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang G"
+          ],
+          "firstName": [
+            "Guolong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4781-5816",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Animal Science, Oklahoma State University, Stillwater, OK, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaur U"
+          ],
+          "firstName": [
+            "Uma"
+          ],
+          "lastName": [
+            "Gaur"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo M"
+          ],
+          "firstName": [
+            "Majing"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Hubei Key Laboratory of Cell Homeostasis, Laboratory of Molecular and Developmental Genetics, College of Life Sciences, Wuhan University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tian K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Tian"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He M"
+          ],
+          "firstName": [
+            "Mengnan"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He S"
+          ],
+          "firstName": [
+            "Shen"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Z"
+          ],
+          "firstName": [
+            "Zhongxian"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin L"
+          ],
+          "firstName": [
+            "Long"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Q"
+          ],
+          "firstName": [
+            "Qianzi"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai Y"
+          ],
+          "firstName": [
+            "Yifei"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Novogene Bioinformatics Institute, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu H"
+          ],
+          "firstName": [
+            "Huailiang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yaodong"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xiaoling"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin H"
+          ],
+          "firstName": [
+            "Huadong"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou R"
+          ],
+          "firstName": [
+            "Rongjia"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Hubei Key Laboratory of Cell Homeostasis, Laboratory of Molecular and Developmental Genetics, College of Life Sciences, Wuhan University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Chaowu"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Sichuan Animal Science Academy, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du H"
+          ],
+          "firstName": [
+            "Huarui"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Sichuan Animal Science Academy, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang X"
+          ],
+          "firstName": [
+            "Xiaosong"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Sichuan Animal Science Academy, Chengdu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6423-8075",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China. zhuqingsicau@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Mingzhou"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China. mingzhou.li@sicau.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4781-5816",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6423-8075",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2800122"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "263"
+  ],
+  "abstractText": [
+    "BACKGROUND:There are hundreds of phenotypically distinguishable domestic chicken breeds or lines with highly specialized traits worldwide, which provide a unique opportunity to illustrate how selection shapes patterns of genetic variation. There are many local chicken breeds in China. RESULTS:Here, we provide a population genome landscape of genetic variations in 86 domestic chickens representing 10 phenotypically diverse breeds. Genome-wide analysis indicated that sex chromosomes have less genetic diversity and are under stronger selection than autosomes during domestication and local adaptation. We found an evidence of admixture between Tibetan chickens and other domestic population. We further identified strong signatures of selection affecting genomic regions that harbor genes underlying economic traits (typically related to feathers, skin color, growth, reproduction and aggressiveness) and local adaptation (to high altitude). By comparing the genomes of the Tibetan and lowland fowls, we identified genes associated with high-altitude adaptation in Tibetan chickens were mainly involved in energy metabolism, body size maintenance and available food sources. CONCLUSIONS:The work provides crucial insights into the distinct evolutionary scenarios occurring under artificial selection for agricultural production and under natural selection for success at high altitudes in chicken. Several genes were identified as candidates for chicken economic traits and other phenotypic traits."
+  ],
+  "affiliation": [
+    "Institute of Animal Genetics and Breeding, College of Animal Science and Technology, Sichuan Agricultural University, Chengdu, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016NYZ0025 and 2016NYZ0043"
+          ],
+          "agency": [
+            "the 13th Five-Year Plan for breeding programs in Sichuan - Selective breeding of new breeds and synthetic strains of broiler"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31522055"
+          ],
+          "agency": [
+            "the National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31402063"
+          ],
+          "agency": [
+            "the National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CARS-41"
+          ],
+          "agency": [
+            "the China Agricultural Research System"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019JDTD0009"
+          ],
+          "agency": [
+            "the Sichuan Provincial Department of Science & Technology Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chickens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Weight"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetics, Population"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linkage Disequilibrium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tibet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Selection",
+        "Genetic diversity",
+        "Chicken",
+        "Population Genomics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5622-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446315"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446315?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-12"
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-14"
+  ],
+  "dateOfRevision": [
+    "2019-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-02"
+  ],
+  "firstPublicationDate": [
+    "2019-04-02"
+  ]
+}

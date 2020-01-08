@@ -1,0 +1,407 @@
+{
+  "id": [
+    "30675030"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30675030"
+  ],
+  "pmcid": [
+    "PMC6752318"
+  ],
+  "doi": [
+    "10.1038/s41436-019-0439-8"
+  ],
+  "title": [
+    "Xrare: a machine learning method jointly modeling phenotypes and genetic evidence for rare disease diagnosis."
+  ],
+  "authorString": [
+    "Li Q, Zhao K, Bustamante CD, Ma X, Wong WH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Q"
+          ],
+          "firstName": [
+            "Qigang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "GenomCan Inc., Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao K"
+          ],
+          "firstName": [
+            "Keyan"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "GenomCan Inc., Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bustamante CD"
+          ],
+          "firstName": [
+            "Carlos D"
+          ],
+          "lastName": [
+            "Bustamante"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Department of Genetics, Stanford University, Stanford, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7981-9144",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "GenomCan Inc., Chengdu, Sichuan, China. xm24@stanford.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong WH"
+          ],
+          "firstName": [
+            "Wing H"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Department of Biomedical Data Science, Stanford University, Stanford, CA, USA. whwong@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7981-9144",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2855330"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genetics in medicine : official journal of the American College of Medical Genetics"
+          ],
+          "ISOAbbreviation": [
+            "Genet. Med."
+          ],
+          "medlineAbbreviation": [
+            "Genet Med"
+          ],
+          "NLMid": [
+            "9815831"
+          ],
+          "ISSN": [
+            "1098-3600"
+          ],
+          "ESSN": [
+            "1530-0366"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2126-2134"
+  ],
+  "abstractText": [
+    "PURPOSE:Despite the successful progress next-generation sequencing technologies has achieved in diagnosing the genetic cause of rare Mendelian diseases, the current diagnostic rate is still far from satisfactory because of heterogeneity, imprecision, and noise in disease phenotype descriptions and insufficient utilization of expert knowledge in clinical genetics. To overcome these difficulties, we present a novel method called Xrare for the prioritization of causative gene variants in rare disease diagnosis. METHODS:We propose a new phenotype similarity scoring method called Emission-Reception Information Content (ERIC), which is highly tolerant of noise and imprecision in clinical phenotypes. We utilize medical genetic domain knowledge by designing genetic features implementing American College of Medical Genetics and Genomics (ACMG) guidelines. RESULTS:ERIC score ranked consistently higher for disease genes than other phenotypic similarity scores in the presence of imprecise and noisy phenotypes. Extensive simulations and real clinical data demonstrated that Xrare outperforms existing alternative methods by 10-40% at various genetic diagnosis scenarios. CONCLUSION:The Xrare model is learned from a large database of clinical variants, and derives its strength from the tight integration of medical genetics features and phenotypic features similarity scores. Xrare provides the clinical community with a robust and powerful tool for variant prioritization."
+  ],
+  "affiliation": [
+    "GenomCan Inc., Chengdu, Sichuan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P20 CA096470"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P50 HG007735"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG007834"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Machine Learning",
+        "Variant Prioritization",
+        "Rare Disease Diagnosis",
+        "Phenotype Score",
+        "Acmg/amp Guideline"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41436-019-0439-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6752318"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6752318?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-25"
+  ],
+  "firstIndexDate": [
+    "2019-01-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-24"
+  ],
+  "firstPublicationDate": [
+    "2019-01-24"
+  ]
+}

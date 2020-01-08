@@ -1,0 +1,430 @@
+{
+  "id": [
+    "31718582"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31718582"
+  ],
+  "pmcid": [
+    "PMC6852767"
+  ],
+  "doi": [
+    "10.1186/s12881-019-0894-8"
+  ],
+  "title": [
+    "Influence of oxytocin receptor single nucleotide sequence variants on contractility of human myometrium: an in vitro functional study."
+  ],
+  "authorString": [
+    "Füeg F, Santos S, Haslinger C, Stoiber B, Schäffer L, Grünblatt E, Zimmermann R, Simões-Wüst AP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Füeg F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Füeg"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Santos S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Haslinger C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Haslinger"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Stoiber B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Stoiber"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schäffer L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Schäffer"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Grünblatt E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Grünblatt"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8505-7265",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry and Psychotherapy, University Hospital of Psychiatry Zurich, University of Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Zimmermann R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Zimmermann"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Simões-Wüst AP"
+          ],
+          "firstName": [
+            "A P"
+          ],
+          "lastName": [
+            "Simões-Wüst"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4489-0952",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland. anapaula.simoes-wuest@usz.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4489-0952",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8505-7265",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2879216"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genetics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med. Genet."
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genet"
+          ],
+          "NLMid": [
+            "100968552"
+          ],
+          "ISSN": [
+            "1471-2350"
+          ],
+          "ESSN": [
+            "1471-2350"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "178"
+  ],
+  "abstractText": [
+    "BACKGROUND:Oxytocin receptor (OXTR) gene variants have been shown to affect the prevalence of preterm birth, mode of delivery and oxytocin (OXT) requirements for labor induction and augmentation. We hypothesized that this might be associated with different myometrium responses to oxytocin. Our aim was to investigate the influence of a selection of eight OXTR gene single nucleotide variants on oxytocin-induced stimulation of human myometrium contractility in vitro. METHODS:Human myometrium biopsies were collected during elective cesarean sections at term, if patients had given informed consent. Myometrial strips were submerged under tension in an organ bath and allowed to contract; the remaining material was stored at - 80 °C for further determination of relevant genetics and mRNA level. The area under the curve (AUC) of all contractions taking place in the absence of OXT and of those occurring upon OXT addition (for 30 min each) was measured. OXT stimulation, defined as the ratio between AUC measurements after OXT addition and those in the absence of OXT was calculated for each strip. TaqMan™ Assays were used to detect the allele distribution of the eight OXTR variants and to determine the relative amounts of OXTR-mRNA in the samples. For each variant, oxytocin stimulation of contractility was compared between samples homozygous for the reference allele (reference group) and samples with at least one variant allele (variant group) by linear regression. RESULTS:Sixty samples were included in the present study. For rs1042778, rs11706648, rs4686301, rs53576, rs237895, and rs237902, OXT stimulation was similar in the reference and in the variant groups. However, the values of OXT stimulation differed significantly between the reference and the variant groups for rs4686302 (3.1 vs. 4.1 times; p = 0.022) and rs237888 (3.2 vs. 5.5 times; p = 0.001). No significant differences between the levels of OXTR-mRNA in the various reference and corresponding variant groups were detected. CONCLUSIONS:Patients with variant alleles of rs237888 and/or rs4686302 may be more sensitive to oxytocin stimulation, explaining why these sequence variants have been associated with lower cesarean section prevalence and premature birth, respectively."
+  ],
+  "affiliation": [
+    "Department of Obstetrics, University Hospital Zurich, Schmelzbergstrasse 12/PF 125, 8091, Zurich, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytocin",
+        "Receptor",
+        "Myometrium",
+        "contractility",
+        "Sequence Variants"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12881-019-0894-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6852767"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6852767?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-12"
+  ]
+}

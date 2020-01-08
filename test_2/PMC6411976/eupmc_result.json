@@ -1,0 +1,360 @@
+{
+  "id": [
+    "30858523"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30858523"
+  ],
+  "pmcid": [
+    "PMC6411976"
+  ],
+  "doi": [
+    "10.1038/s41598-019-40984-x"
+  ],
+  "title": [
+    "A bacterial display system for effective selection of protein-biotin ligase BirA variants with novel peptide specificity."
+  ],
+  "authorString": [
+    "Granhøj J, Dimke H, Svenningsen P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Granhøj J"
+          ],
+          "firstName": [
+            "Jeff"
+          ],
+          "lastName": [
+            "Granhøj"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Dimke H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Dimke"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9170-2168",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Svenningsen P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Svenningsen"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6590-7103",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark. psvenningsen@health.sdu.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6590-7103",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9170-2168",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4118"
+  ],
+  "abstractText": [
+    "Biotinylation creates a sensitive and specific tag for purification and detection of target proteins. The E. coli protein-biotin ligase BirA biotinylates a lysine within a synthetic biotin acceptor peptide (AP) and allow for specific tagging of proteins fused to the AP. The approach is not applicable to unmodified proteins, and we sought to develop an effective selection system that could form the basis for directed evolution of novel BirA variants with specificity towards unmodified proteins. The system was based on bacterial display of a target peptide sequence, which could be biotinylated by cytosolic BirA variants before being displayed on the surface. In a model selection, the bacterial display system accomplished >1.000.000 enrichment in a single selection step. A randomly mutated BirA library was used to identify novel variants. Bacteria displaying peptide sequences from 13 out of 14 tested proteins were strongly enriched after 3-5 selection rounds. Moreover, a clone selected for biotinylation of a C-terminal peptide from red-fluorescent protein TagRFP showed biotinylation of the native protein. Thus, active BirA variants with novel activity are effectively isolated with our bacterial display system and provides a basis for the development of BirA variants for site-selective biotinylation."
+  ],
+  "affiliation": [
+    "Department of Molecular Medicine, University of Southern Denmark, Odense, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NNF14OC0012453"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-40984-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6411976"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6411976?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR44909"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-13"
+  ],
+  "firstIndexDate": [
+    "2019-03-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-16"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-11"
+  ],
+  "firstPublicationDate": [
+    "2019-03-11"
+  ]
+}

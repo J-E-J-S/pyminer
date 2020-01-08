@@ -1,0 +1,821 @@
+{
+  "id": [
+    "31186408"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31186408"
+  ],
+  "pmcid": [
+    "PMC6560032"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10460-1"
+  ],
+  "title": [
+    "Exploiting interconnected synthetic lethal interactions between PARP inhibition and cancer cell reversible senescence."
+  ],
+  "authorString": [
+    "Fleury H, Malaquin N, Tu V, Gilbert S, Martinez A, Olivier MA, Sauriol A, Communal L, Leclerc-Desaulniers K, Carmona E, Provencher D, Mes-Masson AM, Rodier F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fleury H"
+          ],
+          "firstName": [
+            "Hubert"
+          ],
+          "lastName": [
+            "Fleury"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Malaquin N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Malaquin"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Tu V"
+          ],
+          "firstName": [
+            "Véronique"
+          ],
+          "lastName": [
+            "Tu"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1856-7350",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilbert S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Gilbert"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Martinez A"
+          ],
+          "firstName": [
+            "Aurélie"
+          ],
+          "lastName": [
+            "Martinez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Olivier MA"
+          ],
+          "firstName": [
+            "Marc-Alexandre"
+          ],
+          "lastName": [
+            "Olivier"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7919-448X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sauriol A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Sauriol"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2690-7765",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Communal L"
+          ],
+          "firstName": [
+            "Laudine"
+          ],
+          "lastName": [
+            "Communal"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Leclerc-Desaulniers K"
+          ],
+          "firstName": [
+            "Kim"
+          ],
+          "lastName": [
+            "Leclerc-Desaulniers"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Carmona E"
+          ],
+          "firstName": [
+            "Euridice"
+          ],
+          "lastName": [
+            "Carmona"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8541-3191",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Provencher D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Provencher"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Mes-Masson AM"
+          ],
+          "firstName": [
+            "Anne-Marie"
+          ],
+          "lastName": [
+            "Mes-Masson"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada. anne-marie.mes-masson@umontreal.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodier F"
+          ],
+          "firstName": [
+            "Francis"
+          ],
+          "lastName": [
+            "Rodier"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2523-309X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada. rodierf@mac.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2690-7765",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8541-3191",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1856-7350",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7919-448X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2523-309X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2823392"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2556"
+  ],
+  "abstractText": [
+    "Senescence is a tumor suppression mechanism defined by stable proliferation arrest. Here we demonstrate that the known synthetic lethal interaction between poly(ADP-ribose) polymerase 1 inhibitors (PARPi) and DNA repair triggers p53-independent ovarian cancer cell senescence defined by senescence-associated phenotypic hallmarks including DNA-SCARS, inflammatory secretome, Bcl-XL-mediated apoptosis resistance, and proliferation restriction via Chk2 and p21 (CDKN1A). The concept of senescence as irreversible remains controversial and here we show that PARPi-senescent cells re-initiate proliferation upon drug withdrawal, potentially explaining the requirement for sustained PARPi therapy in the clinic. Importantly, PARPi-induced senescence renders ovarian and breast cancer cells transiently susceptible to second-phase synthetic lethal approaches targeting the senescence state using senolytic drugs. The combination of PARPi and a senolytic is effective in preclinical models of ovarian and breast cancer suggesting that coupling these synthetic lethalities provides a rational approach to their clinical use and may together be more effective in limiting resistance."
+  ],
+  "affiliation": [
+    "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, H2X 0A9, QC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "22624"
+          ],
+          "agency": [
+            "Fonds de Recherche du Québec - Santé (Fonds de la recherche en sante du Quebec)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1030"
+          ],
+          "agency": [
+            "Terry Fox Research Institute (Institut de Recherche Terry Fox)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "22713"
+          ],
+          "agency": [
+            "Cancer Research Society (Société de Recherche sur le Cancer)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "33070"
+          ],
+          "agency": [
+            "Fonds de Recherche du Québec - Santé (Fonds de la recherche en sante du Quebec)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20087"
+          ],
+          "agency": [
+            "Cancer Research Society (Société de Recherche sur le Cancer)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ovarian Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antineoplastic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "DNA Repair"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Resistance, Neoplasm"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poly(ADP-ribose) Polymerase Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Synthetic Lethal Mutations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cellular Senescence"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antineoplastic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Poly(ADP-ribose) Polymerase Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10460-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6560032"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6560032?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-04"
+  ],
+  "dateOfCreation": [
+    "2019-06-13"
+  ],
+  "firstIndexDate": [
+    "2019-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-23"
+  ],
+  "dateOfRevision": [
+    "2019-07-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-11"
+  ],
+  "firstPublicationDate": [
+    "2019-06-11"
+  ]
+}

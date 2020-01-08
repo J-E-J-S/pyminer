@@ -1,0 +1,445 @@
+{
+  "id": [
+    "31492943"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31492943"
+  ],
+  "pmcid": [
+    "PMC6731285"
+  ],
+  "doi": [
+    "10.1038/s41598-019-49371-y"
+  ],
+  "title": [
+    "In vitro evolution of Pseudomonas aeruginosa AA2 biofilms in the presence of cystic fibrosis lung microbiome members."
+  ],
+  "authorString": [
+    "Vandeplassche E, Sass A, Lemarcq A, Dandekar AA, Coenye T, Crabbé A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vandeplassche E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Vandeplassche"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Sass A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Sass"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9396-7648",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Lemarcq A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "Lemarcq"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Dandekar AA"
+          ],
+          "firstName": [
+            "Ajai A"
+          ],
+          "lastName": [
+            "Dandekar"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2992-6523",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine/Department of Microbiology, University of Washington, Washington, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Coenye T"
+          ],
+          "firstName": [
+            "Tom"
+          ],
+          "lastName": [
+            "Coenye"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6407-0601",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Crabbé A"
+          ],
+          "firstName": [
+            "Aurélie"
+          ],
+          "lastName": [
+            "Crabbé"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3084-4418",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium. aurelie.crabbe@ugent.be."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2992-6523",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9396-7648",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3084-4418",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6407-0601",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2853330"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "12859"
+  ],
+  "abstractText": [
+    "In cystic fibrosis (CF) airways, the opportunistic pathogen Pseudomonas aeruginosa evolves from an acute to a chronic infection phenotype. Yet, the in vivo factors influencing the evolutionary trajectory of P. aeruginosa are poorly understood. This study aimed at understanding the role of the CF lung microbiome in P. aeruginosa evolution. Therefore, we investigated the in vitro biofilm evolution of an early CF P. aeruginosa isolate, AA2, in the presence or absence of a synthetic CF lung microbiome. Whole genome sequencing of evolved populations revealed mutations in quorum sensing (QS) genes (lasR, pqsR) with and without the microbiome. Phenotypic assays confirmed decreased production of the QS molecule 3-O-C12-homoserine lactone, and QS-regulated virulence factors pyocyanin and protease. Furthermore, a mixture of lasR and lasR pqsR mutants was found, in which double mutants showed less pyocyanin and protease production than lasR mutants. While the microbial community did not influence the production of the tested P. aeruginosa virulence factors, we observed a trend towards more mutations in the transcriptional regulators gntR and mexL when P. aeruginosa was grown alone. P. aeruginosa developed resistance to β-lactam antibiotics during evolution, when grown with and without the microbiome. In conclusion, in an experimental biofilm environment, the early P. aeruginosa CF isolate AA2 evolves towards a CF-like genotype and phenotype, and most studied evolutionary adaptations are not impacted by CF microbiome members."
+  ],
+  "affiliation": [
+    "Laboratory of Pharmaceutical Microbiology, Ghent University, Ghent, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "203141/Z/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-49371-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6731285"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6731285?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "ARXPR"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "arrayexpress"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-08"
+  ],
+  "firstIndexDate": [
+    "2019-09-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-23"
+  ],
+  "dateOfRevision": [
+    "2019-09-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-06"
+  ],
+  "firstPublicationDate": [
+    "2019-09-06"
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "id": [
+    "30718506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30718506"
+  ],
+  "pmcid": [
+    "PMC6362083"
+  ],
+  "doi": [
+    "10.1038/s41467-019-08380-1"
+  ],
+  "title": [
+    "SMARCA4 loss is synthetic lethal with CDK4/6 inhibition in non-small cell lung cancer."
+  ],
+  "authorString": [
+    "Xue Y, Meehan B, Fu Z, Wang XQD, Fiset PO, Rieker R, Levins C, Kong T, Zhu X, Morin G, Skerritt L, Herpel E, Venneti S, Martinez D, Judkins AR, Jung S, Camilleri-Broet S, Gonzalez AV, Guiot MC, Lockwood WW, Spicer JD, Agaimy A, Pastor WA, Dostie J, Rak J, Foulkes WD, Huang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xue Y"
+          ],
+          "firstName": [
+            "Yibo"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4252-4446",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Meehan B"
+          ],
+          "firstName": [
+            "Brian"
+          ],
+          "lastName": [
+            "Meehan"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, McGill University, and Research Institute of McGill University Health Centre, Montreal Children's Hospital, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang XQD"
+          ],
+          "firstName": [
+            "Xue Qing D"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "XQD"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Fiset PO"
+          ],
+          "firstName": [
+            "Pierre Olivier"
+          ],
+          "lastName": [
+            "Fiset"
+          ],
+          "initials": [
+            "PO"
+          ],
+          "affiliation": [
+            "Department of Pathology, Glen Site, McGill University Health Centre, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Rieker R"
+          ],
+          "firstName": [
+            "Ralf"
+          ],
+          "lastName": [
+            "Rieker"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Pathology, Friedrich-Alexander-University Erlangen-Nürnberg, University Hospital, 91054, Erlangen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Levins C"
+          ],
+          "firstName": [
+            "Cameron"
+          ],
+          "lastName": [
+            "Levins"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, McGill University, Montreal, QC, H3A 0C7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3240-8989",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu X"
+          ],
+          "firstName": [
+            "Xianbing"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Morin G"
+          ],
+          "firstName": [
+            "Geneviève"
+          ],
+          "lastName": [
+            "Morin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Skerritt L"
+          ],
+          "firstName": [
+            "Lashanda"
+          ],
+          "lastName": [
+            "Skerritt"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Herpel E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Herpel"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Tissue Bank of the National Center for Tumor Diseases (NCT) Heidelberg, and Institute of Pathology, Heidelberg University Hospital, 69120, Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Venneti S"
+          ],
+          "firstName": [
+            "Sriram"
+          ],
+          "lastName": [
+            "Venneti"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Pathology and Neuropathology, University of Michigan Medical School, Ann Arbor, MI, 48109-0605, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Martinez D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Martinez"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Children's Hospital of Philadelphia Research Institute, Philadelphia, PA, 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Judkins AR"
+          ],
+          "firstName": [
+            "Alexander R"
+          ],
+          "lastName": [
+            "Judkins"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Department of Pathology and Laboratory Medicine, Children's Hospital Los Angeles, Keck School of Medicine of University of Southern California, Los Angeles, CA, 90027, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung S"
+          ],
+          "firstName": [
+            "Sungmi"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pathology, Glen Site, McGill University Health Centre, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Camilleri-Broet S"
+          ],
+          "firstName": [
+            "Sophie"
+          ],
+          "lastName": [
+            "Camilleri-Broet"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pathology, Glen Site, McGill University Health Centre, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gonzalez AV"
+          ],
+          "firstName": [
+            "Anne V"
+          ],
+          "lastName": [
+            "Gonzalez"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Division of Respiratory Medicine, Montreal Chest Institute, McGill University Health Centre, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Guiot MC"
+          ],
+          "firstName": [
+            "Marie-Christine"
+          ],
+          "lastName": [
+            "Guiot"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Pathology, Montreal Neurological Hospital/Institute, McGill University Health Centre, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lockwood WW"
+          ],
+          "firstName": [
+            "William W"
+          ],
+          "lastName": [
+            "Lockwood"
+          ],
+          "initials": [
+            "WW"
+          ],
+          "affiliation": [
+            "Department of Integrative Oncology, British Columbia Cancer Agency, Vancouver, BC, V5Z 1L3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Spicer JD"
+          ],
+          "firstName": [
+            "Jonathan D"
+          ],
+          "lastName": [
+            "Spicer"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Department of Surgery, McGill University Health Center, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Agaimy A"
+          ],
+          "firstName": [
+            "Abbas"
+          ],
+          "lastName": [
+            "Agaimy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pathology, Friedrich-Alexander-University Erlangen-Nürnberg, University Hospital, 91054, Erlangen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pastor WA"
+          ],
+          "firstName": [
+            "William A"
+          ],
+          "lastName": [
+            "Pastor"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dostie J"
+          ],
+          "firstName": [
+            "Josée"
+          ],
+          "lastName": [
+            "Dostie"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Rak J"
+          ],
+          "firstName": [
+            "Janusz"
+          ],
+          "lastName": [
+            "Rak"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, McGill University, and Research Institute of McGill University Health Centre, Montreal Children's Hospital, Montreal, QC, H4A 3J1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Foulkes WD"
+          ],
+          "firstName": [
+            "William D"
+          ],
+          "lastName": [
+            "Foulkes"
+          ],
+          "initials": [
+            "WD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7427-4651",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, McGill University, Montreal, QC, H3A 0C7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Sidong"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2838-4726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada. sidong.huang@mcgill.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4252-4446",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7427-4651",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2838-4726",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3240-8989",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776942"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "557"
+  ],
+  "abstractText": [
+    "Tumor suppressor SMARCA4 (BRG1), a key SWI/SNF chromatin remodeling gene, is frequently inactivated in cancers and is not directly druggable. We recently uncovered that SMARCA4 loss in an ovarian cancer subtype causes cyclin D1 deficiency leading to susceptibility to CDK4/6 inhibition. Here, we show that this vulnerability is conserved in non-small cell lung cancer (NSCLC), where SMARCA4 loss also results in reduced cyclin D1 expression and selective sensitivity to CDK4/6 inhibitors. In addition, SMARCA2, another SWI/SNF subunit lost in a subset of NSCLCs, also regulates cyclin D1 and drug response when SMARCA4 is absent. Mechanistically, SMARCA4/2 loss reduces cyclin D1 expression by a combination of restricting CCND1 chromatin accessibility and suppressing c-Jun, a transcription activator of CCND1. Furthermore, SMARCA4 loss is synthetic lethal with CDK4/6 inhibition both in vitro and in vivo, suggesting that FDA-approved CDK4/6 inhibitors could be effective to treat this significant subgroup of NSCLCs."
+  ],
+  "affiliation": [
+    "Department of Biochemistry, McGill University, Montreal, QC, H3G 1Y6, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, SCID"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoma, Non-Small-Cell Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Helicases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nuclear Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunohistochemistry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromatin Immunoprecipitation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Survival"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cyclin-Dependent Kinase 4"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cyclin-Dependent Kinase 6"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Nuclear Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "SMARCA4 protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.6.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Cyclin-Dependent Kinase 4"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.22"
+          ]
+        },
+        {
+          "name": [
+            "Cyclin-Dependent Kinase 6"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.22"
+          ]
+        },
+        {
+          "name": [
+            "CDK4 protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.22"
+          ]
+        },
+        {
+          "name": [
+            "CDK6 protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.22"
+          ]
+        },
+        {
+          "name": [
+            "DNA Helicases"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6362083?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6362083"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-08380-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-10"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-20"
+  ],
+  "dateOfRevision": [
+    "2019-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-04"
+  ],
+  "firstPublicationDate": [
+    "2019-02-04"
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": [
+    "31313835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31313835"
+  ],
+  "pmcid": [
+    "PMC6694218"
+  ],
+  "doi": [
+    "10.15252/embj.2019101650"
+  ],
+  "title": [
+    "A conserved RNA seed-pairing domain directs small RNA-mediated stress resistance in enterobacteria."
+  ],
+  "authorString": [
+    "Peschek N, Hoyos M, Herzog R, Förstner KU, Papenfort K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Peschek N"
+          ],
+          "firstName": [
+            "Nikolai"
+          ],
+          "lastName": [
+            "Peschek"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2835-775X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Biology I, Department of Microbiology, Ludwig-Maximilians-University of Munich, Martinsried, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoyos M"
+          ],
+          "firstName": [
+            "Mona"
+          ],
+          "lastName": [
+            "Hoyos"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculty of Biology I, Department of Microbiology, Ludwig-Maximilians-University of Munich, Martinsried, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Herzog R"
+          ],
+          "firstName": [
+            "Roman"
+          ],
+          "lastName": [
+            "Herzog"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Faculty of Biology I, Department of Microbiology, Ludwig-Maximilians-University of Munich, Martinsried, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Förstner KU"
+          ],
+          "firstName": [
+            "Konrad U"
+          ],
+          "lastName": [
+            "Förstner"
+          ],
+          "initials": [
+            "KU"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1481-2996",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Information Science, TH Köln - University of Applied Sciences, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Papenfort K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Papenfort"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5560-9804",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Biology I, Department of Microbiology, Ludwig-Maximilians-University of Munich, Martinsried, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2835-775X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5560-9804",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1481-2996",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "16"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2848929"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EMBO journal"
+          ],
+          "ISOAbbreviation": [
+            "EMBO J."
+          ],
+          "medlineAbbreviation": [
+            "EMBO J"
+          ],
+          "NLMid": [
+            "8208664"
+          ],
+          "ISSN": [
+            "0261-4189"
+          ],
+          "ESSN": [
+            "1460-2075"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e101650"
+  ],
+  "abstractText": [
+    "Small regulatory RNAs (sRNAs) are crucial components of many stress response systems. The envelope stress response (ESR) of Gram-negative bacteria is a paradigm for sRNA-mediated stress management and involves, among other factors, the alternative sigma factor E (σE ) and one or more sRNAs. In this study, we identified the MicV sRNA as a new member of the σE regulon in Vibrio cholerae. We show that MicV acts redundantly with another sRNA, VrrA, and that both sRNAs share a conserved seed-pairing domain allowing them to regulate multiple target mRNAs. V. cholerae lacking σE displayed increased sensitivity toward antimicrobials, and over-expression of either of the sRNAs suppressed this phenotype. Laboratory selection experiments using a library of synthetic sRNA regulators revealed that the seed-pairing domain of σE -dependent sRNAs is strongly enriched among sRNAs identified under membrane-damaging conditions and that repression of OmpA is crucial for sRNA-mediated stress relief. Together, our work shows that MicV and VrrA act as global regulators in the ESR of V. cholerae and provides evidence that bacterial sRNAs can be functionally annotated by their seed-pairing sequences."
+  ],
+  "affiliation": [
+    "Faculty of Biology I, Department of Microbiology, Ludwig-Maximilians-University of Munich, Martinsried, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GRK2062/1"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft (DFG)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CDA00024/2016-C"
+          ],
+          "agency": [
+            "Human Frontier Science Program (HFSP)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Joachim Herz Stiftung (Joachim Herz Foundation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Exc114-2"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft (DFG)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Bayerische Akademie der Wissenschaften (BADW)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "StG-758212"
+          ],
+          "agency": [
+            "EC|H2020|H2020 Priority Excellent Science|H2020 European Research Council (ERC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vibrio cholerae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Outer Membrane Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conserved Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleic Acid Conformation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Small Untranslated"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "sRNA",
+        "Hfq",
+        "Seed Pairing",
+        "Micv",
+        "Sigma E"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Bacterial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Outer Membrane Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "OMPA outer membrane proteins"
+          ],
+          "registryNumber": [
+            "149024-69-1"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Small Untranslated"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/embj.2019101650"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6694218"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6694218?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-12-23"
+  ],
+  "dateOfCreation": [
+    "2019-07-18"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-12-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-17"
+  ],
+  "firstPublicationDate": [
+    "2019-07-17"
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "id": [
+    "31687638"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31687638"
+  ],
+  "pmcid": [
+    "PMC6821197"
+  ],
+  "doi": [
+    "10.1210/js.2019-00175"
+  ],
+  "title": [
+    "MGMT Promoter Methylation and Parathyroid Carcinoma."
+  ],
+  "authorString": [
+    "Storvall S, Ryhänen E, Heiskanen I, Vesterinen T, Bensch FV, Schildt J, Kytölä S, Karhu A, Arola J, Schalin-Jäntti C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Storvall S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Storvall"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Endocrinology, Abdominal Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ryhänen E"
+          ],
+          "firstName": [
+            "Eeva"
+          ],
+          "lastName": [
+            "Ryhänen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Endocrinology, Abdominal Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Heiskanen I"
+          ],
+          "firstName": [
+            "Ilkka"
+          ],
+          "lastName": [
+            "Heiskanen"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Surgery, Abdominal Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Vesterinen T"
+          ],
+          "firstName": [
+            "Tiina"
+          ],
+          "lastName": [
+            "Vesterinen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pathology, HUSLAB, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bensch FV"
+          ],
+          "firstName": [
+            "Frank V"
+          ],
+          "lastName": [
+            "Bensch"
+          ],
+          "initials": [
+            "FV"
+          ],
+          "affiliation": [
+            "Department of Radiology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schildt J"
+          ],
+          "firstName": [
+            "Jukka"
+          ],
+          "lastName": [
+            "Schildt"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "HUS Medical Imaging Center, Department of Clinical Physiology and Nuclear Medicine, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kytölä S"
+          ],
+          "firstName": [
+            "Soili"
+          ],
+          "lastName": [
+            "Kytölä"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Genetics, HUSLAB, Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Karhu A"
+          ],
+          "firstName": [
+            "Auli"
+          ],
+          "lastName": [
+            "Karhu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Genetics, HUSLAB, Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Arola J"
+          ],
+          "firstName": [
+            "Johanna"
+          ],
+          "lastName": [
+            "Arola"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pathology, HUSLAB, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schalin-Jäntti C"
+          ],
+          "firstName": [
+            "Camilla"
+          ],
+          "lastName": [
+            "Schalin-Jäntti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2428-0161",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Endocrinology, Abdominal Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2428-0161",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2871984"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2114-2122"
+  ],
+  "abstractText": [
+    "Context:Parathyroid carcinoma (PC) is extremely rare. Prognosis is poor, with no known evidence-based systemic therapies. We previously reported complete remission in a patient with metastasized parathyroid carcinoma and high tumor MGMT promoter methylation status who was treated with temozolomide. Objective:To study MGMT promoter methylation status in an additional set of aggressive parathyroid tumors. Design/Setting:The study included 12 patients: 7 with sporadic and 5 with familial primary hyperparathyroidism (two of the latter carried a CDC73 gross deletion). Patient 9 is the previously described patient with PC and high MGMT methylation status. Her daughter (patient 12) had surgery for severe primary hyperparathyroidism due to atypical parathyroid adenoma during pregnancy. Eleven patients thus had PC and one had atypical parathyroid adenoma. MGMT promoter methylation status was determined from DNA extracted from primary (n = 10) or metastatic (n = 2) tumors. A mean methylation level >20% was considered high. Patient 11 had metastatic PC and received temozolomide cycles. Results:Only the previously published patient (patient 9) had high tumor MGMT promoter methylation status. This was not a characteristic of the atypical parathyroid adenoma of the daughter (patient 12). Patient 11 (CDC73 intragenic deletion) has disseminated PC, low MGMT promoter methylation, and stable disease on follow-up after temozolomide treatment. Conclusion:High MGMT promoter methylation status seems rare in PC. However, as demonstrated in other neuroendocrine tumors, some patients with disseminated PC might benefit from temozolomide. Demonstration of high methylation status could be a predictor of positive response to temozolomide treatment."
+  ],
+  "affiliation": [
+    "Department of Endocrinology, Abdominal Center, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Treatment",
+        "Temozolomide",
+        "Parathyroid Carcinoma",
+        "Mgmt Promoter Methylation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1210/js.2019-00175"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821197"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821197?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-23"
+  ],
+  "firstPublicationDate": [
+    "2019-07-23"
+  ]
+}

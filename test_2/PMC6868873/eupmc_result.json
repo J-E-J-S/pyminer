@@ -1,0 +1,487 @@
+{
+  "id": [
+    "31747870"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31747870"
+  ],
+  "pmcid": [
+    "PMC6868873"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6152-9"
+  ],
+  "title": [
+    "Transcriptomic analysis of Verbena bonariensis roots in response to cadmium stress."
+  ],
+  "authorString": [
+    "Wang MQ, Bai ZY, Xiao YF, Li Y, Liu QL, Zhang L, Pan YZ, Jiang BB, Zhang F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang MQ"
+          ],
+          "firstName": [
+            "Meng-Qi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "MQ"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai ZY"
+          ],
+          "firstName": [
+            "Zhen-Yu"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao YF"
+          ],
+          "firstName": [
+            "Ya-Fang"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Agro-Bioengineering and College of Life Sciences, Guizhou University, Guiyang, Guizhou, 550025, People's Republic of China. yli@gzu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu QL"
+          ],
+          "firstName": [
+            "Qing-Lin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "QL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6502-0975",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China. qinglinliu@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan YZ"
+          ],
+          "firstName": [
+            "Yuan-Zhi"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "YZ"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang BB"
+          ],
+          "firstName": [
+            "Bei-Bei"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "BB"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Fan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6502-0975",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2876241"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "877"
+  ],
+  "abstractText": [
+    "BACKGROUND:Cadmium (Cd) is a serious heavy metal (HM) soil pollutant. To alleviate or even eliminate HM pollution in soil, environmental-friendly methods are applied. One is that special plants are cultivated to absorb the HM in the contaminated soil. As an excellent economical plant with ornamental value and sound adaptability, V. bonariensis could be adapted to this very situation. In our study, the Cd tolerance in V. bonariensis was analyzed as well as an overall analysis of transcriptome. RESULTS:In this study, the tolerance of V. bonariensis to Cd stress was investigated in four aspects: germination, development, physiological changes, and molecular alterations. The results showed that as a non-hyperaccumulator, V. bonariensis did possess the Cd tolerance and the capability to concentration Cd. Under Cd stress, all 237, 866 transcripts and 191, 370 unigenes were constructed in the transcriptome data of V. bonariensis roots. The enrichment analysis of gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway revealed that differentially expressed genes (DEGs) under Cd stress were predominately related to cell structure, reactive oxygen species (ROS) scavenging system, chelating reaction and secondary metabolites, transpiration and photosynthesis. DEGs encoding lignin synthesis, chalcone synthase (CHS) and anthocyanidin synthase (ANS) were prominent in V. bonariensis under Cd stress. The expression patterns of 10 DEGs, validated by quantitative real-time polymerase chain reaction (qRT-PCR), were in highly accordance with the RNA-Sequence (RNA-Seq) results. The novel strategies brought by our study was not only benefit for further studies on the tolerance of Cd and functional genomics in V. bonariensis, but also for the improvement molecular breeding and phytoremediation."
+  ],
+  "affiliation": [
+    "Department of Ornamental Horticulture, Sichuan Agricultural University, Chengdu, Sichuan, 611130, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2019YJ0512"
+          ],
+          "agency": [
+            "Sichuan Science and Technology Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20175788-33"
+          ],
+          "agency": [
+            "Guizhou University cultivation project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31770742"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "20181044"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guizhou"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "201756"
+          ],
+          "agency": [
+            "The introduction of talent project of Guizhou University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular mechanism",
+        "Cadmium stress",
+        "Physiological Changes",
+        "Rna-seq",
+        "Verbena Bonariensis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6152-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6868873"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6868873?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-22"
+  ],
+  "firstIndexDate": [
+    "2019-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-11-20"
+  ]
+}

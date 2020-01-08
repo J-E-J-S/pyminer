@@ -1,0 +1,378 @@
+{
+  "id": [
+    "30874968"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30874968"
+  ],
+  "pmcid": [
+    "PMC6419666"
+  ],
+  "doi": [
+    "10.1186/s12284-019-0276-z"
+  ],
+  "title": [
+    "Infrastructures of systems biology that facilitate functional genomic study in rice."
+  ],
+  "authorString": [
+    "Hong WJ, Kim YJ, Chandran AKN, Jung KH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hong WJ"
+          ],
+          "firstName": [
+            "Woo-Jong"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology & Crop Biotech Institute, Kyung Hee University, Yongin, 17104, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YJ"
+          ],
+          "firstName": [
+            "Yu-Jin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology & Crop Biotech Institute, Kyung Hee University, Yongin, 17104, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Chandran AKN"
+          ],
+          "firstName": [
+            "Anil Kumar Nalini"
+          ],
+          "lastName": [
+            "Chandran"
+          ],
+          "initials": [
+            "AKN"
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology & Crop Biotech Institute, Kyung Hee University, Yongin, 17104, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung KH"
+          ],
+          "firstName": [
+            "Ki-Hong"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0427-5901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Biotechnology & Crop Biotech Institute, Kyung Hee University, Yongin, 17104, Korea. khjung2010@khu.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0427-5901",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2788015"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Rice (New York, N.Y.)"
+          ],
+          "ISOAbbreviation": [
+            "Rice (N Y)"
+          ],
+          "medlineAbbreviation": [
+            "Rice (N Y)"
+          ],
+          "NLMid": [
+            "101503136"
+          ],
+          "ISSN": [
+            "1939-8425"
+          ],
+          "ESSN": [
+            "1939-8433"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "15"
+  ],
+  "abstractText": [
+    "Rice (Oryza sativa L.) is both a major staple food for the worldwide population and a model crop plant for studying the mode of action of agronomically valuable traits, providing information that can be applied to other crop plants. Due to the development of high-throughput technologies such as next generation sequencing and mass spectrometry, a huge mass of multi-omics data in rice has been accumulated. Through the integration of those data, systems biology in rice is becoming more advanced.To facilitate such systemic approaches, we have summarized current resources, such as databases and tools, for systems biology in rice. In this review, we categorize the resources using six omics levels: genomics, transcriptomics, proteomics, metabolomics, integrated omics, and functional genomics. We provide the names, websites, references, working states, and number of citations for each individual database or tool and discuss future prospects for the integrated understanding of rice gene functions."
+  ],
+  "affiliation": [
+    "Graduate School of Biotechnology & Crop Biotech Institute, Kyung Hee University, Yongin, 17104, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PJ01366401"
+          ],
+          "agency": [
+            "Rural Development Administration"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PJ01325901"
+          ],
+          "agency": [
+            "Rural Development Administration"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRF-2018H1A2A1060336"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRF-2018R1A4A1025158"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rice",
+        "Database",
+        "Bioinformatics",
+        "Functional genomics",
+        "systems biology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6419666?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6419666"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12284-019-0276-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-16"
+  ],
+  "firstIndexDate": [
+    "2019-03-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-08"
+  ],
+  "dateOfRevision": [
+    "2019-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-14"
+  ],
+  "firstPublicationDate": [
+    "2019-03-14"
+  ]
+}

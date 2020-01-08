@@ -1,0 +1,402 @@
+{
+  "id": [
+    "31442275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31442275"
+  ],
+  "pmcid": [
+    "PMC6707584"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0221565"
+  ],
+  "title": [
+    "Chronic wound microbiome colonization on mouse model following cryogenic preservation."
+  ],
+  "authorString": [
+    "Tipton CD, Sanford NE, Everett JA, Gabrilska RA, Wolcott RD, Rumbaugh KP, Phillips CD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tipton CD"
+          ],
+          "firstName": [
+            "Craig D"
+          ],
+          "lastName": [
+            "Tipton"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0405-9371",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Texas Tech University, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanford NE"
+          ],
+          "firstName": [
+            "Nicholas E"
+          ],
+          "lastName": [
+            "Sanford"
+          ],
+          "initials": [
+            "NE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7451-8684",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Southwest Regional Wound Care Center, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Everett JA"
+          ],
+          "firstName": [
+            "Jake A"
+          ],
+          "lastName": [
+            "Everett"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Department of Surgery, Texas Tech University Health Sciences Center, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Gabrilska RA"
+          ],
+          "firstName": [
+            "Rebecca A"
+          ],
+          "lastName": [
+            "Gabrilska"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Department of Surgery, Texas Tech University Health Sciences Center, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wolcott RD"
+          ],
+          "firstName": [
+            "Randall D"
+          ],
+          "lastName": [
+            "Wolcott"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "affiliation": [
+            "Southwest Regional Wound Care Center, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rumbaugh KP"
+          ],
+          "firstName": [
+            "Kendra P"
+          ],
+          "lastName": [
+            "Rumbaugh"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "Department of Surgery, Texas Tech University Health Sciences Center, Lubbock, Texas, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Phillips CD"
+          ],
+          "firstName": [
+            "Caleb D"
+          ],
+          "lastName": [
+            "Phillips"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Texas Tech University, Lubbock, Texas, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0405-9371",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7451-8684",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2843511"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0221565"
+  ],
+  "abstractText": [
+    "Chronic wound infections are increasingly recognized to be dynamic and polymicrobial in nature, necessitating the development of wound models which reflect the complexities of infection in a non-healing wound. Wound slough isolated from human chronic wounds and transferred to mice was recently shown to create polymicrobial infection in mice, and there is potential this tool may be improved by cryogenic preservation. The purpose of this study was to investigate the application of cryogenic preservation to transferring polymicrobial communities, specifically by quantifying the effects of cryopreservation and wound microbiome transplantation. Slough from an established murine polymicrobial surgical excision model and five patients were subjected to three preservation strategies: refrigeration until infection, freezing in liquid nitrogen, or freezing in liquid nitrogen with glycerol solution prior to infection in individual mice. Four days following inoculation onto mice, wound microbiota were quantified using either culture isolation or by 16s rRNA gene community profiling and quantitative PCR. Cryogenic preservation did not significantly reduce bacterial viability. Reestablished microbial communities were significantly associated with patient of origin as well as host context (i.e., originally preserved from a patient versus mouse infection). Whereas preservation treatment did not significantly shape community composition, the transfers of microbiomes from human to mouse were characterized by reduced diversity and compositional changes. These findings indicated that changes should be expected to occur to community structure after colonization, and that compositional change is likely due to the rapid change in infection context as opposed to preservation strategy. Furthermore, species that were present in higher relative abundance in wound inoculate were more likely to colonize subsequent wounds, and wound inoculate with higher bacterial load established wound communities that were more compositionally similar. Results inform expectations for the complementation of chronic wound in vivo modeling with cryogenic preservation archives."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences, Texas Tech University, Lubbock, Texas, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6707584?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6707584"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0221565"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-24"
+  ],
+  "firstIndexDate": [
+    "2019-08-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-23"
+  ],
+  "firstPublicationDate": [
+    "2019-08-23"
+  ]
+}

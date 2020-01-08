@@ -1,0 +1,619 @@
+{
+  "id": [
+    "31024026"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31024026"
+  ],
+  "pmcid": [
+    "PMC6484020"
+  ],
+  "doi": [
+    "10.1038/s41598-019-43005-z"
+  ],
+  "title": [
+    "Discovery of selective activators of PRC2 mutant EED-I363M."
+  ],
+  "authorString": [
+    "Suh JL, Barnash KD, Abramyan TM, Li F, The J, Engelberg IA, Vedadi M, Brown PJ, Kireev DB, Arrowsmith CH, James LI, Frye SV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Suh JL"
+          ],
+          "firstName": [
+            "Junghyun L"
+          ],
+          "lastName": [
+            "Suh"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0508-6491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barnash KD"
+          ],
+          "firstName": [
+            "Kimberly D"
+          ],
+          "lastName": [
+            "Barnash"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0918-7188",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Abramyan TM"
+          ],
+          "firstName": [
+            "Tigran M"
+          ],
+          "lastName": [
+            "Abramyan"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fengling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Ontario, M5G 1L7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "The J"
+          ],
+          "firstName": [
+            "Juliana"
+          ],
+          "lastName": [
+            "The"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Ontario, M5G 1L7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Engelberg IA"
+          ],
+          "firstName": [
+            "Isabelle A"
+          ],
+          "lastName": [
+            "Engelberg"
+          ],
+          "initials": [
+            "IA"
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vedadi M"
+          ],
+          "firstName": [
+            "Masoud"
+          ],
+          "lastName": [
+            "Vedadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Ontario, M5G 1L7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8454-0367",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Ontario, M5G 1L7, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kireev DB"
+          ],
+          "firstName": [
+            "Dmitri B"
+          ],
+          "lastName": [
+            "Kireev"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Arrowsmith CH"
+          ],
+          "firstName": [
+            "Cheryl H"
+          ],
+          "lastName": [
+            "Arrowsmith"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4971-3250",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Ontario, M5G 1L7, Canada. Cheryl.Arrowsmith@uhnresearch.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "James LI"
+          ],
+          "firstName": [
+            "Lindsey I"
+          ],
+          "lastName": [
+            "James"
+          ],
+          "initials": [
+            "LI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6034-7116",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Frye SV"
+          ],
+          "firstName": [
+            "Stephen V"
+          ],
+          "lastName": [
+            "Frye"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2415-2215",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA. svfrye@email.unc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6034-7116",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2415-2215",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0508-6491",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0918-7188",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8454-0367",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4971-3250",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2799475"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6524"
+  ],
+  "abstractText": [
+    "Many common disease-causing mutations result in loss-of-function (LOF) of the proteins in which they occur. LOF mutations have proven recalcitrant to pharmacologic intervention, presenting a challenge for the development of targeted therapeutics. Polycomb repressive complex 2 (PRC2), which contains core subunits (EZH2, EED, and SUZ12), regulates gene activity by trimethylation of histone 3 lysine 27. The dysregulation of PRC2 catalytic activity by mutations has been implicated in cancer and other diseases. Among the mutations that cause PRC2 malfunction, an I363M LOF mutation of EED has been identified in myeloid disorders, where it prevents allosteric activation of EZH2 catalysis. We describe structure-based design and computational simulations of ligands created to ameliorate this LOF. Notably, these compounds selectively stimulate the catalytic activity of PRC2-EED-I363M over wildtype-PRC2. Overall, this work demonstrates the feasibility of developing targeted therapeutics for PRC2-EED-I363M that act as allosteric agonists, potentially correcting this LOF mutant phenotype."
+  ],
+  "affiliation": [
+    "Center for Integrative Chemical Biology and Drug Discovery, Division of Chemical Biology and Medicinal Chemistry, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R61 DA047023"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RX0351210"
+          ],
+          "agency": [
+            "UNC | UNC-Chapel Hill | Eshelman Institute for Innovation, University of North Carolina at Chapel Hill (UNC Eshelman Institute for Innovation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM100919"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM100919"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of General Medical Sciences (NIGMS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RX03712105"
+          ],
+          "agency": [
+            "UNC | UNC-Chapel Hill | Eshelman Institute for Innovation, University of North Carolina at Chapel Hill (UNC Eshelman Institute for Innovation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "13AmB65D"
+          ],
+          "agency": [
+            "Kwanjeong Educational Foundation (KEF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R61DA047023"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6484020?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6484020"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-43005-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-27"
+  ],
+  "firstIndexDate": [
+    "2019-04-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2019-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-25"
+  ],
+  "firstPublicationDate": [
+    "2019-04-25"
+  ]
+}

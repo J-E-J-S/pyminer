@@ -1,0 +1,432 @@
+{
+  "id": [
+    "29589554"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29589554"
+  ],
+  "pmcid": [
+    "PMC5872563"
+  ],
+  "doi": [
+    "10.1186/s12864-018-4551-y"
+  ],
+  "title": [
+    "Sparse Tensor Decomposition for Haplotype Assembly of Diploids and Polyploids."
+  ],
+  "authorString": [
+    "Hashemi A, Zhu B, Vikalo H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hashemi A"
+          ],
+          "firstName": [
+            "Abolfazl"
+          ],
+          "lastName": [
+            "Hashemi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of ECE, University of Texas at Austin, Austin, Texas, USA. abolfazl@utexas.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu B"
+          ],
+          "firstName": [
+            "Banghua"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "EE Department, Tsinghua University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Vikalo H"
+          ],
+          "firstName": [
+            "Haris"
+          ],
+          "lastName": [
+            "Vikalo"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of ECE, University of Texas at Austin, Austin, Texas, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 4"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2665576"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC Genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "191"
+  ],
+  "abstractText": [
+    "Haplotype assembly is the task of reconstructing haplotypes of an individual from a mixture of sequenced chromosome fragments. Haplotype information enables studies of the effects of genetic variations on an organism's phenotype. Most of the mathematical formulations of haplotype assembly are known to be NP-hard and haplotype assembly becomes even more challenging as the sequencing technology advances and the length of the paired-end reads and inserts increases. Assembly of haplotypes polyploid organisms is considerably more difficult than in the case of diploids. Hence, scalable and accurate schemes with provable performance are desired for haplotype assembly of both diploid and polyploid organisms.We propose a framework that formulates haplotype assembly from sequencing data as a sparse tensor decomposition. We cast the problem as that of decomposing a tensor having special structural constraints and missing a large fraction of its entries into a product of two factors, U and [Formula: see text]; tensor [Formula: see text] reveals haplotype information while U is a sparse matrix encoding the origin of erroneous sequencing reads. An algorithm, AltHap, which reconstructs haplotypes of either diploid or polyploid organisms by iteratively solving this decomposition problem is proposed. The performance and convergence properties of AltHap are theoretically analyzed and, in doing so, guarantees on the achievable minimum error correction scores and correct phasing rate are established. The developed framework is applicable to diploid, biallelic and polyallelic polyploid species. The code for AltHap is freely available from https://github.com/realabolfazl/AltHap .AltHap was tested in a number of different scenarios and was shown to compare favorably to state-of-the-art methods in applications to haplotype assembly of diploids, and significantly outperforms existing techniques when applied to haplotype assembly of polyploids."
+  ],
+  "affiliation": [
+    "Department of ECE, University of Texas at Austin, Austin, Texas, USA. abolfazl@utexas.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polyploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Iterative Algorithm",
+        "Tensor Decomposition",
+        "Haplotype Assembly"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-4551-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5872563"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5872563?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR28688"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-29"
+  ],
+  "dateOfCreation": [
+    "2018-03-29"
+  ],
+  "firstIndexDate": [
+    "2018-03-29"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-17"
+  ],
+  "dateOfRevision": [
+    "2018-08-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-21"
+  ],
+  "firstPublicationDate": [
+    "2018-03-21"
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "id": [
+    "30180163"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30180163"
+  ],
+  "pmcid": [
+    "PMC6138421"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1006454"
+  ],
+  "title": [
+    "SIG-DB: Leveraging homomorphic encryption to securely interrogate privately held genomic databases."
+  ],
+  "authorString": [
+    "Titus AJ, Flower A, Hagerty P, Gamble P, Lewis C, Stavish T, O'Connell KP, Shipley G, Rogers SM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Titus AJ"
+          ],
+          "firstName": [
+            "Alexander J"
+          ],
+          "lastName": [
+            "Titus"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0145-9564",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "B.Next, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Flower A"
+          ],
+          "firstName": [
+            "Audrey"
+          ],
+          "lastName": [
+            "Flower"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Lab41, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Hagerty P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Hagerty"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "CosmiQ Works, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Gamble P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Gamble"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Lab41, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis C"
+          ],
+          "firstName": [
+            "Charlie"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Cyber Reboot, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Stavish T"
+          ],
+          "firstName": [
+            "Todd"
+          ],
+          "lastName": [
+            "Stavish"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Lab41, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connell KP"
+          ],
+          "firstName": [
+            "Kevin P"
+          ],
+          "lastName": [
+            "O'Connell"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "B.Next, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Shipley G"
+          ],
+          "firstName": [
+            "Greg"
+          ],
+          "lastName": [
+            "Shipley"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Cyber Reboot, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers SM"
+          ],
+          "firstName": [
+            "Stephanie M"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "B.Next, In-Q-Tel, Arlington, VA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0145-9564",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2723062"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e1006454"
+  ],
+  "abstractText": [
+    "Genomic data are becoming increasingly valuable as we develop methods to utilize the information at scale and gain a greater understanding of how genetic information relates to biological function. Advances in synthetic biology and the decreased cost of sequencing are increasing the amount of privately held genomic data. As the quantity and value of private genomic data grows, so does the incentive to acquire and protect such data, which creates a need to store and process these data securely. We present an algorithm for the Secure Interrogation of Genomic DataBases (SIG-DB). The SIG-DB algorithm enables databases of genomic sequences to be searched with an encrypted query sequence without revealing the query sequence to the Database Owner or any of the database sequences to the Querier. SIG-DB is the first application of its kind to take advantage of locality-sensitive hashing and homomorphic encryption to allow generalized sequence-to-sequence comparisons of genomic data."
+  ],
+  "affiliation": [
+    "B.Next, In-Q-Tel, Arlington, VA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli O157"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Staphylococcus aureus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Mutational Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motivation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Computer Security"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cloud Computing"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1006454"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6138421"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6138421?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-30"
+  ],
+  "dateOfCreation": [
+    "2018-09-05"
+  ],
+  "firstIndexDate": [
+    "2018-09-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-29"
+  ],
+  "dateOfRevision": [
+    "2019-01-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-04"
+  ],
+  "firstPublicationDate": [
+    "2018-09-04"
+  ]
+}

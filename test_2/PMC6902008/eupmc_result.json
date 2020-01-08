@@ -1,0 +1,380 @@
+{
+  "id": [
+    "31850074"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31850074"
+  ],
+  "pmcid": [
+    "PMC6902008"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.01226"
+  ],
+  "title": [
+    "Detection of a Frameshift Deletion in the SPTBN4 Gene Leads to Prevention of Severe Myopathy and Postnatal Mortality in Pigs."
+  ],
+  "authorString": [
+    "Derks MFL, Harlizius B, Lopes MS, Greijdanus-van der Putten SWM, Dibbits B, Laport K, Megens HJ, Groenen MAM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Derks MFL"
+          ],
+          "firstName": [
+            "Martijn F L"
+          ],
+          "lastName": [
+            "Derks"
+          ],
+          "initials": [
+            "MFL"
+          ],
+          "affiliation": [
+            "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Harlizius B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Harlizius"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Topigs Norsvin Research Center, Beuningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lopes MS"
+          ],
+          "firstName": [
+            "Marcos S"
+          ],
+          "lastName": [
+            "Lopes"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Topigs Norsvin Research Center, Beuningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Greijdanus-van der Putten SWM"
+          ],
+          "firstName": [
+            "Sylvia W M"
+          ],
+          "lastName": [
+            "Greijdanus-van der Putten"
+          ],
+          "initials": [
+            "SWM"
+          ],
+          "affiliation": [
+            "GD Animal Health Department, Deventer, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Dibbits B"
+          ],
+          "firstName": [
+            "Bert"
+          ],
+          "lastName": [
+            "Dibbits"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Laport K"
+          ],
+          "firstName": [
+            "Kimberley"
+          ],
+          "lastName": [
+            "Laport"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Megens HJ"
+          ],
+          "firstName": [
+            "Hendrik-Jan"
+          ],
+          "lastName": [
+            "Megens"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Groenen MAM"
+          ],
+          "firstName": [
+            "Martien A M"
+          ],
+          "lastName": [
+            "Groenen"
+          ],
+          "initials": [
+            "MAM"
+          ],
+          "affiliation": [
+            "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1226"
+  ],
+  "abstractText": [
+    "Piglet mortality is a complex phenotype that depends on the environment, selection on piglet health, but also on the interaction between the piglet and sow. However, also monogenic recessive defects contribute to piglet mortality. Selective breeding has decreased overall piglet mortality by improving both mothering abilities and piglet viability. However, variants underlying recessive monogenic defects are usually not well captured within the breeding values, potentially drifting to higher frequency as a result of intense selection or genetic drift. This study describes the identification by whole-genome sequencing of a recessive 16-bp deletion in the SPTBN4 gene causing postnatal mortality in a pig breeding line. The deletion induces a frameshift and a premature stop codon, producing an impaired and truncated spectrin beta non-erythrocytic 4 protein (SPTBN4). Applying medium density single nucleotide polymorphism (SNP) data available for all breeding animals, a pregnant carrier sow sired by a carrier boar was identified. Of the resulting piglets, two confirmed homozygous piglets suffered from severe myopathy, hind-limb paralysis, and tremors. Histopathological examination showed dispersed degeneration and decrease of cross-striations in the dorsal and hind-limb muscle fibers of the affected piglets. Hence, the affected piglets are unable to walk or drink, usually resulting in death within a few hours after birth. This study demonstrates how growing genomic resources in pig breeding can be applied to identify rare syndromes in breeding populations, that are usually poorly documented and often are not even known to have a genetic basis. The study allows to prevent carrier-by-carrier matings, thereby gradually decreasing the frequency of the detrimental allele and avoiding the birth of affected piglets, improving animal welfare. Finally, these \"natural knockouts\" increase our understanding of gene function within the mammalian clade, and provide a potential model for human disease."
+  ],
+  "affiliation": [
+    "Animal Breeding and Genomics, Wageningen University & Research, Wageningen, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Animal breeding",
+        "Pigs",
+        "Animal welfare",
+        "myopathy",
+        "Loss-of-function"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.01226"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6902008"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6902008?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-19"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-26"
+  ],
+  "firstPublicationDate": [
+    "2019-11-26"
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": [
+    "31681227"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681227"
+  ],
+  "pmcid": [
+    "PMC6803450"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02367"
+  ],
+  "title": [
+    "Hampering Herpesviruses HHV-1 and HHV-2 Infection by Extract of Ginkgo biloba (EGb) and Its Phytochemical Constituents."
+  ],
+  "authorString": [
+    "Sochocka M, Sobczyński M, Ochnik M, Zwolińska K, Leszek J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sochocka M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Sochocka"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratory of Virology, Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Wrocław, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Sobczyński M"
+          ],
+          "firstName": [
+            "Maciej"
+          ],
+          "lastName": [
+            "Sobczyński"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genomics, Faculty of Biotechnology, University of Wrocław, Wrocław, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ochnik M"
+          ],
+          "firstName": [
+            "Michał"
+          ],
+          "lastName": [
+            "Ochnik"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratory of Virology, Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Wrocław, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Zwolińska K"
+          ],
+          "firstName": [
+            "Katarzyna"
+          ],
+          "lastName": [
+            "Zwolińska"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Laboratory of Virology, Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Wrocław, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Leszek J"
+          ],
+          "firstName": [
+            "Jerzy"
+          ],
+          "lastName": [
+            "Leszek"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Wrocław Medical University, Wrocław, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2367"
+  ],
+  "abstractText": [
+    "Despite the availability of several anti-herpesviral agents, it should be emphasized that the need for new inhibitors is highly encouraged due to the increasing resistant viral strains as well as complications linked with periods of recurring viral replication and reactivation of latent herpes infection. Extract of Ginkgo biloba (EGb) is a common phytotherapeutics around the world with health benefits. Limited studies, however, have addressed the potential antiviral activities of EGb, including herpesviruses such as Human alphaherpesvirus 1 (HHV-1) and Human alphaherpesvirus 2 (HHV-2). We evaluated the antiviral activity of EGb and its phytochemical constituents: flavonoids and terpenes against HHV-1 and HHV-2. Pretreatment of the herpesviruses with EGb prior to infection of cells produced a remarkable anti-HHV-1 and anti-HHV-2 activity. The extract affected the viruses before adsorption to cell surface at non-cytotoxic concentrations. In this work, through a comprehensive anti-HHV-1 and anti-HHV-2 activity study, it was revealed that flavonoids, especially isorhamnetin, are responsible for the antiviral activity of EGb. Such activity was absent in quercetin and kaempferol. However, EGb showed the most potent antiviral potency compared to isorhamnetin. EGb could augment current therapies for herpes labialis and genital herpes. Moreover, the potential use of EGb in multidrug therapy with synthetic anti-herpes compounds might be considered."
+  ],
+  "affiliation": [
+    "Laboratory of Virology, Hirszfeld Institute of Immunology and Experimental Therapy, Polish Academy of Sciences, Wrocław, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Isorhamnetin",
+        "Antiviral Activity",
+        "Hhv-2",
+        "Hhv-1",
+        "Extract Of Ginkgo Biloba (Egb)",
+        "Viral Particles Trapping"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02367"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803450"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803450?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-15"
+  ],
+  "firstPublicationDate": [
+    "2019-10-15"
+  ]
+}

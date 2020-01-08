@@ -1,0 +1,386 @@
+{
+  "id": [
+    "30417143"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30417143"
+  ],
+  "pmcid": [
+    "PMC6222137"
+  ],
+  "doi": [
+    "10.1016/j.synbio.2018.10.011"
+  ],
+  "title": [
+    "Genomics-guided discovery of a new and significantly better source of anticancer natural drug FK228."
+  ],
+  "authorString": [
+    "Liu X, Xie F, Doughty LB, Wang Q, Zhang L, Liu X, Cheng YQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiangyang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, 200237, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Doughty LB"
+          ],
+          "firstName": [
+            "Leah B"
+          ],
+          "lastName": [
+            "Doughty"
+          ],
+          "initials": [
+            "LB"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI, 53201, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lixin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, 200237, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xueting"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, 200237, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng YQ"
+          ],
+          "firstName": [
+            "Yi-Qiang"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "YQ"
+          ],
+          "affiliation": [
+            "UNT System College of Pharmacy, University of North Texas Health Science Center, Fort Worth, TX, 76107, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2742473"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic and systems biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "NLMid": [
+            "101694371"
+          ],
+          "ISSN": [
+            "2405-805X"
+          ],
+          "ESSN": [
+            "2405-805X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "268-274"
+  ],
+  "abstractText": [
+    "FK228 is an FDA-approved anticancer drug naturally produced by Chromobacterium violaceum No. 968 up to 19 mg/L in a pilot industry-scale batch fermentation. Here we report a genomics-guided discovery of Burkholderia thailandensis MSMB43 as a new and significantly better source of FK228. The genome of B. thailandensis MSMB43 was found to contain a functional biosynthetic gene cluster highly homologous to that of FK228 in C. violaceum No. 968, and the bacterium indeed produces authentic FK228. By simple fermentation in shaking flasks in a preferred M8 medium, B. thailandensis MSMB43 produced FK228 up to 67.7 mg/L; by fed-batch fermentation in a 20-L fermentor in M8 medium, B. thailandensis MSMB43 produced FK228 up to 115.9 mg/L, which is 95 fold higher than that of C. violaceum No. 968 under the same laboratory fermentation conditions. RT-PCR analysis indicated that the high FK228 yield of B. thailandensis MSMB43 was due to high expression of biosynthetic genes, represented by Bth_depA, during the fermentation process. Further genetic manipulation resulted in a recombinant strain, B. thailandensis MSMB43/pBMTL3-tdpR, which harbors a broad host-range vector expressing the thailandepsin biosynthetic pathway regulatory gene tdpR. This engineered strain produced up to 168.5 mg/L of FK228 in fed-batch fermentation in a 20-L fermentor in M8 medium. Therefore, the wild-type B. thailandensis MSMB43 or its engineered derivative could potentially be a good starting point for an industrial process to improve FK228 production for its expanding use in therapy."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology, Shanghai, 200237, PR China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA152212"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Productivity",
+        "Natural product",
+        "Fermentation optimization",
+        "FK228",
+        "Genome Mining",
+        "Burkholderia Thailandensis Msmb43"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6222137?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6222137"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.synbio.2018.10.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-11-13"
+  ],
+  "firstIndexDate": [
+    "2018-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-12"
+  ],
+  "dateOfRevision": [
+    "2018-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-05"
+  ],
+  "firstPublicationDate": [
+    "2018-11-05"
+  ]
+}

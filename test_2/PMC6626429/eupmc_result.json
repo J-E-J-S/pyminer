@@ -1,0 +1,365 @@
+{
+  "id": [
+    "31299888"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31299888"
+  ],
+  "pmcid": [
+    "PMC6626429"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5828-5"
+  ],
+  "title": [
+    "PolyCRACKER, a robust method for the unsupervised partitioning of polyploid subgenomes by signatures of repetitive DNA evolution."
+  ],
+  "authorString": [
+    "Gordon SP, Levy JJ, Vogel JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gordon SP"
+          ],
+          "firstName": [
+            "Sean P"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "DOE Joint Genome Institute, 2800 Mitchell Dr, Walnut Creek, CA, 94598, USA. seangordon07@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Levy JJ"
+          ],
+          "firstName": [
+            "Joshua J"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "DOE Joint Genome Institute, 2800 Mitchell Dr, Walnut Creek, CA, 94598, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vogel JP"
+          ],
+          "firstName": [
+            "John P"
+          ],
+          "lastName": [
+            "Vogel"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1786-2689",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "DOE Joint Genome Institute, 2800 Mitchell Dr, Walnut Creek, CA, 94598, USA. brachypodium@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1786-2689",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2833030"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "580"
+  ],
+  "abstractText": [
+    "BACKGROUND:Our understanding of polyploid genomes is limited by our inability to definitively assign sequences to a specific subgenome without extensive prior knowledge like high resolution genetic maps or genome sequences of diploid progenitors. In theory, existing methods for assigning sequences to individual species from metagenome samples could be used to separate subgenomes in polyploid organisms, however, these methods rely on differences in coarse genome properties like GC content or sequences from related species. Thus, these approaches do not work for subgenomes where gross features are indistinguishable and related genomes are lacking. Here we describe a method that uses rapidly evolving repetitive DNA to circumvent these limitations. RESULTS:By using short, repetitive, DNA sequences as species-specific signals we separated closely related genomes from test datasets and subgenomes from two polyploid plants, tobacco and wheat, without any prior knowledge. CONCLUSION:This approach is ideal for separating the subgenomes of polyploid species with unsequenced or unknown progenitor genomes."
+  ],
+  "affiliation": [
+    "DOE Joint Genome Institute, 2800 Mitchell Dr, Walnut Creek, CA, 94598, USA. seangordon07@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DE-AC02-05CH11231"
+          ],
+          "agency": [
+            "Lawrence Berkeley National Laboratory"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DE-AC02-05CH11231"
+          ],
+          "agency": [
+            "Biological and Environmental Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Allopolyploid",
+        "Wheat",
+        "Tobacco",
+        "Transposon",
+        "Repetitive DNA",
+        "k-mer",
+        "Binning",
+        "Subgenome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5828-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6626429"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6626429?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR63578"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-14"
+  ],
+  "firstIndexDate": [
+    "2019-07-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-12"
+  ],
+  "firstPublicationDate": [
+    "2019-07-12"
+  ]
+}

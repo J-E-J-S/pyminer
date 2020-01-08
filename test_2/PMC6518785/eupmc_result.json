@@ -1,0 +1,702 @@
+{
+  "id": [
+    "31088344"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31088344"
+  ],
+  "pmcid": [
+    "PMC6518785"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5757-3"
+  ],
+  "title": [
+    "Genome-wide analysis of HSP70 family genes in cabbage (Brassica oleracea var. capitata) reveals their involvement in floral development."
+  ],
+  "authorString": [
+    "Su H, Xing M, Liu X, Fang Z, Yang L, Zhuang M, Zhang Y, Wang Y, Lv H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Su H"
+          ],
+          "firstName": [
+            "Henan"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing M"
+          ],
+          "firstName": [
+            "Miaomiao"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang L"
+          ],
+          "firstName": [
+            "Limei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuang M"
+          ],
+          "firstName": [
+            "Mu"
+          ],
+          "lastName": [
+            "Zhuang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yangyong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lv H"
+          ],
+          "firstName": [
+            "Honghao"
+          ],
+          "lastName": [
+            "Lv"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2635-3042",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China. lvhonghao@caas.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2635-3042",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2811812"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "369"
+  ],
+  "abstractText": [
+    "BACKGROUND:Heat shock proteins have important functions in regulating plant growth and response to abiotic stress. HSP70 family genes have been described in several plant species, but a comprehensive analysis of the HSP70 family genes in cabbage has not been reported to date, especially their roles in floral development. RESULTS:In this study, we identified 52 BoHSP70 genes in cabbage. The gene structures, motifs, and chromosome locations of the BoHSP70 genes were analyzed. The genes were divided into seven classes using a phylogenetic analysis. An expression analysis showed that the BoHSP70 genes were highly expressed in actively growing tissues, including buds and calluses. In addition, six BoHSP70 genes were highly expressed in the binuclear-pollen-stage buds of a male fertile line compared with its near isogenic sterile line. These results were further verified using qRT-PCR. Subcellular localization analysis of the bud-specific gene BoHSP70-5 showed that it was localized in the cytoplasm. CONCLUSIONS:Our results help to elucidate the involvement of the BoHSP70 family genes in cabbage floral development and establish the groundwork for future research on the functions of these genes."
+  ],
+  "affiliation": [
+    "Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences, Key Laboratory of Biology and Genetic Improvement of Horticultural Crops, Ministry of Agriculture, Beijing, 100081, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "nycytx-35-gw01"
+          ],
+          "agency": [
+            "Modern Agro-Industry Technology Research System"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFD0101804"
+          ],
+          "agency": [
+            "National Key Research and Development Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "1610102017013"
+          ],
+          "agency": [
+            "Fundamental Research Funds for Central Non-profit Scientific Institution"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytoplasm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brassica"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flowers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosome Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Developmental"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Up-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HSP70 Heat-Shock Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cabbage",
+        "Expression Profiling",
+        "Genome-wide",
+        "Hsp70 Family Genes"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "HSP70 Heat-Shock Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5757-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6518785"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6518785?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-09-04"
+  ],
+  "dateOfCreation": [
+    "2019-05-16"
+  ],
+  "firstIndexDate": [
+    "2019-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-09-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-14"
+  ],
+  "firstPublicationDate": [
+    "2019-05-14"
+  ]
+}

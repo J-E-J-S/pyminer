@@ -1,0 +1,558 @@
+{
+  "id": [
+    "29358287"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29358287"
+  ],
+  "pmcid": [
+    "PMC5913926"
+  ],
+  "doi": [
+    "10.1128/AAC.01533-17"
+  ],
+  "title": [
+    "Using Yeast Synthetic Lethality To Inform Drug Combination for Malaria."
+  ],
+  "authorString": [
+    "Subramaniam S, Schmid CD, Guan XL, Mäser P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Subramaniam S"
+          ],
+          "firstName": [
+            "Suvitha"
+          ],
+          "lastName": [
+            "Subramaniam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmid CD"
+          ],
+          "firstName": [
+            "Christoph D"
+          ],
+          "lastName": [
+            "Schmid"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Guan XL"
+          ],
+          "firstName": [
+            "Xue Li"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "XL"
+          ],
+          "affiliation": [
+            "Nanyang Technological University, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Mäser P"
+          ],
+          "firstName": [
+            "Pascal"
+          ],
+          "lastName": [
+            "Mäser"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland pascal.maeser@swisstph.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "62"
+      ],
+      "journalIssueId": [
+        "2665487"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Antimicrobial agents and chemotherapy"
+          ],
+          "ISOAbbreviation": [
+            "Antimicrob. Agents Chemother."
+          ],
+          "medlineAbbreviation": [
+            "Antimicrob Agents Chemother"
+          ],
+          "NLMid": [
+            "0315061"
+          ],
+          "ISSN": [
+            "0066-4804"
+          ],
+          "ESSN": [
+            "1098-6596"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Combinatorial chemotherapy is necessary for the treatment of malaria. However, finding a suitable partner drug for a new candidate is challenging. Here we develop an algorithm that identifies all of the gene pairs of Plasmodium falciparum that possess orthologues in yeast that have a synthetic lethal interaction but are absent in humans. This suggests new options for drug combinations, particularly for inhibitors of targets such as P. falciparum calcineurin, cation ATPase 4, or phosphatidylinositol 4-kinase."
+  ],
+  "affiliation": [
+    "Swiss Tropical and Public Health Institute, Basel, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plasmodium falciparum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Malaria, Falciparum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Calcineurin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "1-Phosphatidylinositol 4-Kinase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Combinations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antimalarials"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adenosine Triphosphatases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "antimalarials",
+        "Yeast Genetics",
+        "Synthetic Lethality",
+        "Combinatorial Chemotherapy",
+        "Gene Orthology"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Drug Combinations"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antimalarials"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "1-Phosphatidylinositol 4-Kinase"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.67"
+          ]
+        },
+        {
+          "name": [
+            "Adenosine Triphosphatases"
+          ],
+          "registryNumber": [
+            "EC 3.6.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Calcineurin"
+          ],
+          "registryNumber": [
+            "EC 3.1.3.16"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5913926?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5913926"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/AAC.01533-17"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-19"
+  ],
+  "dateOfCreation": [
+    "2018-01-24"
+  ],
+  "firstIndexDate": [
+    "2018-01-24"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2019-04-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-27"
+  ],
+  "firstPublicationDate": [
+    "2018-03-27"
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "id": [
+    "31036069"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31036069"
+  ],
+  "pmcid": [
+    "PMC6489355"
+  ],
+  "doi": [
+    "10.1186/s13059-019-1680-9"
+  ],
+  "title": [
+    "CRISPR directed evolution of the spliceosome for resistance to splicing inhibitors."
+  ],
+  "authorString": [
+    "Butt H, Eid A, Momin AA, Bazin J, Crespi M, Arold ST, Mahfouz MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Butt H"
+          ],
+          "firstName": [
+            "Haroon"
+          ],
+          "lastName": [
+            "Butt"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory for Genome Engineering and Synthetic Biology, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Eid A"
+          ],
+          "firstName": [
+            "Ayman"
+          ],
+          "lastName": [
+            "Eid"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory for Genome Engineering and Synthetic Biology, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Momin AA"
+          ],
+          "firstName": [
+            "Afaque A"
+          ],
+          "lastName": [
+            "Momin"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5058-9445",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biological and Environmental Sciences and Engineering, Computational Bioscience Research Center, KAUST, Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bazin J"
+          ],
+          "firstName": [
+            "Jeremie"
+          ],
+          "lastName": [
+            "Bazin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CNRS, INRA, Institute of Plant Sciences Paris-Saclay IPS2, Univ Paris Sud, Univ Evry, Univ Paris-Diderot, Sorbonne Paris-Cite, Universite Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Crespi M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Crespi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CNRS, INRA, Institute of Plant Sciences Paris-Saclay IPS2, Univ Paris Sud, Univ Evry, Univ Paris-Diderot, Sorbonne Paris-Cite, Universite Paris-Saclay, Orsay, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Arold ST"
+          ],
+          "firstName": [
+            "Stefan T"
+          ],
+          "lastName": [
+            "Arold"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5278-0668",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biological and Environmental Sciences and Engineering, Computational Bioscience Research Center, KAUST, Thuwal, Saudi Arabia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahfouz MM"
+          ],
+          "firstName": [
+            "Magdy M"
+          ],
+          "lastName": [
+            "Mahfouz"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0616-6365",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory for Genome Engineering and Synthetic Biology, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. Magdy.mahfouz@kaust.edu.sa."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5058-9445",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5278-0668",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0616-6365",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2800133"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "73"
+  ],
+  "abstractText": [
+    "Increasing genetic diversity via directed evolution holds great promise to accelerate trait development and crop improvement. We developed a CRISPR/Cas-based directed evolution platform in plants to evolve the rice (Oryza sativa) SF3B1 spliceosomal protein for resistance to splicing inhibitors. SF3B1 mutant variants, termed SF3B1-GEX1A-Resistant (SGR), confer variable levels of resistance to splicing inhibitors. Studies of the structural basis of the splicing inhibitor binding to SGRs corroborate the resistance phenotype. This directed evolution platform can be used to interrogate and evolve the molecular functions of key biomolecules and to engineer crop traits for improved performance and adaptation under climate change conditions."
+  ],
+  "affiliation": [
+    "Laboratory for Genome Engineering and Synthetic Biology, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Spliceosomes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Alcohols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pyrans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oryza"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Domains"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Directed evolution",
+        "Herbicide resistance",
+        "Genome Engineering",
+        "Spliceosome",
+        "Crispr/cas9",
+        "Sf3b1",
+        "Pladienolide B",
+        "Herboxidiene",
+        "Spliceostatin A",
+        "Splicing Modulators",
+        "Sf3b Complex"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "herboxidiene"
+          ],
+          "registryNumber": [
+            "142861-00-5"
+          ]
+        },
+        {
+          "name": [
+            "Plant Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Pyrans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fatty Alcohols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-019-1680-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6489355"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6489355?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31036063"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Genome Biol. 2019 Apr 30;20(1):83"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-30"
+  ],
+  "dateOfCreation": [
+    "2019-05-01"
+  ],
+  "firstIndexDate": [
+    "2019-05-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-30"
+  ],
+  "firstPublicationDate": [
+    "2019-04-30"
+  ]
+}

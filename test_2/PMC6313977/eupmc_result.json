@@ -1,0 +1,707 @@
+{
+  "id": [
+    "30662919"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30662919"
+  ],
+  "pmcid": [
+    "PMC6313977"
+  ],
+  "doi": [
+    "10.1155/2018/4325874"
+  ],
+  "title": [
+    "Recent Development and Clinical Application of Cancer Vaccine: Targeting Neoantigens."
+  ],
+  "authorString": [
+    "Pan RY, Chung WH, Chu MT, Chen SJ, Chen HC, Zheng L, Hung SI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pan RY"
+          ],
+          "firstName": [
+            "Ren-You"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "RY"
+          ],
+          "affiliation": [
+            "Department of Dermatology, Drug Hypersensitivity Clinical and Research Center, Chang Gung Memorial Hospital, Linkou, Taipei and Keelung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung WH"
+          ],
+          "firstName": [
+            "Wen-Hung"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1681-0959",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Dermatology, Drug Hypersensitivity Clinical and Research Center, Chang Gung Memorial Hospital, Linkou, Taipei and Keelung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chu MT"
+          ],
+          "firstName": [
+            "Mu-Tzu"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Department and Institute of Pharmacology, School of Medicine, National Yang-Ming University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen SJ"
+          ],
+          "firstName": [
+            "Shu-Jen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "ACT Genomics, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen HC"
+          ],
+          "firstName": [
+            "Hua-Chien"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "ACT Genomics, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4163-2541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Pancreatic Cancer Precision Medicine Center of Excellence Program, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hung SI"
+          ],
+          "firstName": [
+            "Shuen-Iu"
+          ],
+          "lastName": [
+            "Hung"
+          ],
+          "initials": [
+            "SI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6531-5538",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department and Institute of Pharmacology, School of Medicine, National Yang-Ming University, Taipei, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4163-2541",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1681-0959",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6531-5538",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2654987"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of immunology research"
+          ],
+          "ISOAbbreviation": [
+            "J Immunol Res"
+          ],
+          "medlineAbbreviation": [
+            "J Immunol Res"
+          ],
+          "NLMid": [
+            "101627166"
+          ],
+          "ISSN": [
+            "2314-8861"
+          ],
+          "ESSN": [
+            "2314-7156"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4325874"
+  ],
+  "abstractText": [
+    "Recently, increasing data show that immunotherapy could be a powerful weapon against cancers. Comparing to the traditional surgery, chemotherapy or radiotherapy, immunotherapy more specifically targets cancer cells, giving rise to the opportunities to the patients to have higher response rates and better quality of life and even to cure the disease. Cancer vaccines could be designed to target tumor-associated antigens (TAAs), cancer germline antigens, virus-associated antigens, or tumor-specific antigens (TSAs), which are also called neoantigens. The cancer vaccines could be cell-based (e.g., dendritic cell vaccine provenge (sipuleucel-T) targeting prostatic acid phosphatase for metastatic prostate cancer), peptide/protein-based, or gene- (DNA/RNA) based, with the different kinds of adjuvants. Neoantigens are tumor-specific and could be presented by MHC molecules and recognized by T lymphocytes, serving the ideal immune targets to increase the therapeutic specificity and decrease the risk of nonspecific autoimmunity. By targeting the shared antigens and private epitopes, the cancer vaccine has potential to treat the disease. Accordingly, personalized neoantigen-based immunotherapies are emerging. In this article, we review the literature and evidence of the advantage and application of cancer vaccine. We summarize the recent clinical trials of neoantigen cancer vaccines which were designed according to the patients' personal mutanome. With the rapid development of personalized immunotherapy, it is believed that tumors could be efficiently controlled and become curable in the new era of precision medicine."
+  ],
+  "affiliation": [
+    "Department of Dermatology, Drug Hypersensitivity Clinical and Research Center, Chang Gung Memorial Hospital, Linkou, Taipei and Keelung, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dendritic Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TR"
+                  ],
+                  "qualifierName": [
+                    "transplantation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vaccines, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cancer Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vaccines, Subunit"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antigens, Neoplasm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autoantigens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epitopes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunotherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Precision Medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antigens, Neoplasm"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Epitopes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Autoantigens"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cancer Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vaccines, DNA"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vaccines, Subunit"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6313977?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6313977"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/4325874"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-22"
+  ],
+  "firstIndexDate": [
+    "2019-01-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-19"
+  ],
+  "firstPublicationDate": [
+    "2018-12-19"
+  ]
+}

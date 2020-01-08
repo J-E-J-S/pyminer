@@ -1,0 +1,336 @@
+{
+  "id": [
+    "30973933"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30973933"
+  ],
+  "pmcid": [
+    "PMC6459517"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0215207"
+  ],
+  "title": [
+    "Genetic characterisation of variants of the virulence plasmid, pSLT, in Salmonella enterica serovar Typhimurium provides evidence of a variety of evolutionary directions consistent with vertical rather than horizontal transmission."
+  ],
+  "authorString": [
+    "Hiley L, Graham RMA, Jennison AV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hiley L"
+          ],
+          "firstName": [
+            "Lester"
+          ],
+          "lastName": [
+            "Hiley"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0955-7713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Coopers Plains, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Graham RMA"
+          ],
+          "firstName": [
+            "Rikki M A"
+          ],
+          "lastName": [
+            "Graham"
+          ],
+          "initials": [
+            "RMA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4100-9656",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Coopers Plains, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jennison AV"
+          ],
+          "firstName": [
+            "Amy V"
+          ],
+          "lastName": [
+            "Jennison"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Coopers Plains, Queensland, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4100-9656",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0955-7713",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2839709"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0215207"
+  ],
+  "abstractText": [
+    "The virulence plasmid pSLT as exemplified by the 94 Kb plasmid in Salmonella Typhimurium strain LT2 is only found in isolates of serovar Typhimurium. While it occurs commonly among such isolates recent genotyping methods have shown that it is mostly confined to certain genotypes. Although pSLT plasmids are capable of self-transmissibility under experimental conditions their confinement to certain host genotypes suggests that in practice they are maintained by vertical rather than by horizontal transmission. This would imply that evolution of the pSLT plasmid proceeds in parallel with evolution of its host. The development of a phylogenetic evolutionary framework for genotypes of S. Typhimurium based on single-nucleotide-polymorphism (SNPs) typing provided an opportunity to test whether the pSLT plasmid coevolves with its host genotype. Accordingly SNPs analysis was applied to the pSLT plasmids from 71 strains S. Typhimurium of Australian and international origins representing most of the genotypes which commonly have a pSLT. The phylogenetic tree showed that pSLT sequences clustered into almost the same groups as the host chromosomes so that each pSLT genotype was associated with a single host genotype. A search for tandem repeats in pSLT plasmids showed that a 9 bp VNTR in the traD gene occurred in the pSLT from all isolates belonging to Clade II but not from isolates belonging to Clade I. Another 9 bp repeat occurred only in three Clade I genotypes with a recent common ancestor. The evidence relating to both of these VNTRs supports the proposition that the pSLT plasmid is only transmitted vertically. Some isolates belonging to one S. Typhimurium genotype were found to have pSLTs which have lost a large block of genes when a resistance gene cassette has been acquired. Examples were found of pSLT plasmids which have recombined with other plasmids to form fusion plasmids sometimes with loss of some pSLT genes. In all cases the underlying genotype of the modified pSLT was the same as the genotype of regular pSLTs with the same host genotype implying that these changes have occurred within the host cell of the pSLT plasmid."
+  ],
+  "affiliation": [
+    "Public Health Microbiology, Forensic and Scientific Services, Queensland Department of Health, Coopers Plains, Queensland, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0215207"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6459517"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6459517?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-12"
+  ],
+  "firstIndexDate": [
+    "2019-04-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-11"
+  ],
+  "firstPublicationDate": [
+    "2019-04-11"
+  ]
+}

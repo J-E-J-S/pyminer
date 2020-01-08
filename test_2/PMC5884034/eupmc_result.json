@@ -1,0 +1,296 @@
+{
+  "id": [
+    "29750145"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29750145"
+  ],
+  "pmcid": [
+    "PMC5884034"
+  ],
+  "doi": [
+    "10.1155/2018/9235605"
+  ],
+  "title": [
+    "Calibrating Transcriptional Activity Using Constitutive Synthetic Promoters in Mutants for Global Regulators in Escherichia coli."
+  ],
+  "authorString": [
+    "Sanches-Medeiros A, Monteiro LMO, Silva-Rocha R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sanches-Medeiros A"
+          ],
+          "firstName": [
+            "Ananda"
+          ],
+          "lastName": [
+            "Sanches-Medeiros"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Systems and Synthetic Biology Lab, FMRP - University of São Paulo, Ribeirão Preto, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Monteiro LMO"
+          ],
+          "firstName": [
+            "Lummy Maria Oliveira"
+          ],
+          "lastName": [
+            "Monteiro"
+          ],
+          "initials": [
+            "LMO"
+          ],
+          "affiliation": [
+            "Systems and Synthetic Biology Lab, FMRP - University of São Paulo, Ribeirão Preto, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Silva-Rocha R"
+          ],
+          "firstName": [
+            "Rafael"
+          ],
+          "lastName": [
+            "Silva-Rocha"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6319-631X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Systems and Synthetic Biology Lab, FMRP - University of São Paulo, Ribeirão Preto, SP, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6319-631X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2655217"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of genomics"
+          ],
+          "ISOAbbreviation": [
+            "Int J Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Int J Genomics"
+          ],
+          "NLMid": [
+            "101605206"
+          ],
+          "ISSN": [
+            "2314-436X"
+          ],
+          "ESSN": [
+            "2314-4378"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "9235605"
+  ],
+  "abstractText": [
+    "The engineering of synthetic circuits in cells relies on the use of well-characterized biological parts that would perform predicted functions under the situation considered, and many efforts have been taken to set biological standards that could define the basic features of these parts. However, since most synthetic biology projects usually require a particular cellular chassis and set of growth conditions, defining standards in the field is not a simple task as gene expression measurements could be affected severely by genetic background and culture conditions. In this study, we addressed promoter parameterization in bacteria in different genetic backgrounds and growth conditions. We found that a small set of constitutive promoters of different strengths controlling a short-lived GFP reporter placed in a low-copy number plasmid produces remarkably reproducible results that allow for the calibration of promoter activity over different genetic backgrounds and physiological conditions, thus providing a simple way to set standards of promoter activity in bacteria. Based on these results, we proposed the utilization of synthetic constitutive promoters as tools for calibration for the standardization of biological parts, in a way similar to the use of DNA and protein ladders in molecular biology as references for comparison with samples of interest."
+  ],
+  "affiliation": [
+    "Systems and Synthetic Biology Lab, FMRP - University of São Paulo, Ribeirão Preto, SP, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/9235605"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5884034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5884034?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-12"
+  ],
+  "firstIndexDate": [
+    "2018-05-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-13"
+  ],
+  "dateOfRevision": [
+    "2018-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-21"
+  ],
+  "firstPublicationDate": [
+    "2018-03-21"
+  ]
+}

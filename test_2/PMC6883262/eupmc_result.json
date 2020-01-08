@@ -1,0 +1,340 @@
+{
+  "id": [
+    "31616946"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31616946"
+  ],
+  "pmcid": [
+    "PMC6883262"
+  ],
+  "doi": [
+    "10.1093/jxb/erz408"
+  ],
+  "title": [
+    "Comparative genomics can provide new insights into the evolutionary mechanisms and gene function in CAM plants."
+  ],
+  "authorString": [
+    "Yang X, Liu D, Tschaplinski TJ, Tuskan GA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiaohan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Degao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Genetics, Cell Biology and Development and Center for Precision Plant Genomics, University of Minnesota, Saint Paul, MN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tschaplinski TJ"
+          ],
+          "firstName": [
+            "Timothy J"
+          ],
+          "lastName": [
+            "Tschaplinski"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9540-6622",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuskan GA"
+          ],
+          "firstName": [
+            "Gerald A"
+          ],
+          "lastName": [
+            "Tuskan"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9540-6622",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "70"
+      ],
+      "journalIssueId": [
+        "2885922"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of experimental botany"
+          ],
+          "ISOAbbreviation": [
+            "J. Exp. Bot."
+          ],
+          "medlineAbbreviation": [
+            "J Exp Bot"
+          ],
+          "NLMid": [
+            "9882906"
+          ],
+          "ISSN": [
+            "0022-0957"
+          ],
+          "ESSN": [
+            "1460-2431"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6539-6547"
+  ],
+  "abstractText": [
+    "Crassulacean acid metabolism (CAM) photosynthesis is an important biological innovation enabling plant adaptation to hot and dry environments. CAM plants feature high water-use efficiency, with potential for sustainable crop production under water-limited conditions. A deep understanding of CAM-related gene function and molecular evolution of CAM plants is critical for exploiting the potential of engineering CAM into C3 crops to enhance crop production on semi-arid or marginal agricultural lands. With the newly emerging genomics resources for multiple CAM species, progress has been made in comparative genomics studies on the molecular basis and subsequently on the evolution of CAM. Here, recent advances in CAM comparative genomics research in constitutive and facultative CAM plants are reviewed, with a focus on the analyses of DNA/protein sequences and gene expression to provide new insights into the path and driving force of CAM evolution and to identify candidate genes involved in CAM-related biological processes. Potential applications of new computational and experimental technologies (e.g. CRISPR/Cas-mediated genome-editing technology) to the comparative and evolutionary genomics research on CAM plants are offered."
+  ],
+  "affiliation": [
+    "Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Photosynthesis",
+        "Drought stress",
+        "Comparative genomics",
+        "Gene function",
+        "Crassulacean acid metabolism",
+        "Genome Editing"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jxb/erz408"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6883262"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6883262?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-17"
+  ],
+  "firstIndexDate": [
+    "2019-10-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-07"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

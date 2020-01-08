@@ -1,0 +1,338 @@
+{
+  "id": [
+    "31456817"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31456817"
+  ],
+  "pmcid": [
+    "PMC6701491"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.00735"
+  ],
+  "title": [
+    "Identification of Cancer-Related Long Non-Coding RNAs Using XGBoost With High Accuracy."
+  ],
+  "authorString": [
+    "Zhang X, Li T, Wang J, Li J, Chen L, Liu C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li T"
+          ],
+          "firstName": [
+            "Tianjun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Computer and Information Science, Faculty of Science and Technology, University of Macau, Macau, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Medical Sciences, Xiangya Hospital, Central South University, Changsha, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Long"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Computer and Information Science, Faculty of Science and Technology, University of Macau, Macau, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Changning"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Kunming, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "735"
+  ],
+  "abstractText": [
+    "In the past decade, hundreds of long noncoding RNAs (lncRNAs) have been identified as significant players in diverse types of cancer; however, the functions and mechanisms of most lncRNAs in cancer remain unclear. Several computational methods have been developed to detect associations between cancer and lncRNAs, yet those approaches have limitations in both sensitivity and specificity. With the goal of improving the prediction accuracy for associations of lncRNA with cancer, we upgraded our previously developed cancer-related lncRNA classifier, CRlncRC, to generate CRlncRC2. CRlncRC2 is an eXtreme Gradient Boosting (XGBoost) machine learning framework, including Synthetic Minority Over-sampling Technique (SMOTE)-based over-sampling, along with Laplacian Score-based feature selection. Ten-fold cross-validation showed that the AUC value of CRlncRC2 for identification of cancer-related lncRNAs is much higher than previously reported by CRlncRC and others. Compared with CRlncRC, the number of features used by CRlncRC2 dropped from 85 to 51. Finally, we identified 439 cancer-related lncRNA candidates using CRlncRC2. To evaluate the accuracy of the predictions, we first consulted the cancer-related long non-coding RNA database Lnc2Cancer v2.0 and relevant literature for supporting information, then conducted statistical analysis of somatic mutations, distance from cancer genes, and differential expression in tumor tissues, using various data sets. The results showed that our approach was highly reliable for identifying cancer-related lncRNA candidates. Notably, the highest ranked candidate, lncRNA AC074117.1, has not been reported previously; however, integrated multi-omics analyses demonstrate that it is the target of multiple cancer-related miRNAs and interacts with adjacent protein-coding genes, suggesting that it may act as a cancer-related competing endogenous RNA, which warrants further investigation. In conclusion, CRlncRC2 is an effective and accurate method for identification of cancer-related lncRNAs, and has potential to contribute to the functional annotation of lncRNAs and guide cancer therapy."
+  ],
+  "affiliation": [
+    "CAS Key Laboratory of Tropical Plant Resources and Sustainable Use, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Kunming, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Machine Learning",
+        "Long Noncoding Rna",
+        "Synthetic Minority Over-sampling Technique",
+        "Xgboost"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.00735"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6701491"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6701491?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-08-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-09"
+  ],
+  "firstPublicationDate": [
+    "2019-08-09"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": [
+    "30376563"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30376563"
+  ],
+  "pmcid": [
+    "PMC6207293"
+  ],
+  "doi": [
+    "10.1371/journal.pbio.3000036"
+  ],
+  "title": [
+    "Invasion of the P elements: Tolerance is not futile."
+  ],
+  "authorString": [
+    "Meiklejohn CD, Blumenstiel JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meiklejohn CD"
+          ],
+          "firstName": [
+            "Colin D"
+          ],
+          "lastName": [
+            "Meiklejohn"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2708-8316",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Biological Sciences, University of Nebraska, Lincoln, Nebraska, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Blumenstiel JP"
+          ],
+          "firstName": [
+            "Justin P"
+          ],
+          "lastName": [
+            "Blumenstiel"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6221-9292",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ecology and Evolutionary Biology, University of Kansas, Lawrence, Kansas, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6221-9292",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2708-8316",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2733393"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Biol"
+          ],
+          "NLMid": [
+            "101183755"
+          ],
+          "ISSN": [
+            "1544-9173"
+          ],
+          "ESSN": [
+            "1545-7885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e3000036"
+  ],
+  "abstractText": [
+    "Organisms are locked in an eternal struggle with parasitic DNA sequences that live inside their genomes and wreak havoc on their host's chromosomes as they spread through populations. To combat these parasites, host species have evolved elaborate mechanisms of resistance that suppress their activity. A new study in Drosophila indicates that, prior to the acquisition of resistance, individuals can vary in their ability to tolerate the activity of these genomic parasites, ignoring or repairing the damage they induce. This tolerance results from variation at genes involved in germline development and DNA damage checkpoints and suggests that these highly conserved cellular processes may be influenced by current and historical intragenomic parasite loads."
+  ],
+  "affiliation": [
+    "School of Biological Sciences, University of Nebraska, Lincoln, Nebraska, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comment",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germ Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Drosophila"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Parasites"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immune Tolerance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Parasite Interactions"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6207293?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6207293"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pbio.3000036"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30376574"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS Biol. 2018 Oct 30;16(10):e2006040"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-01"
+  ],
+  "dateOfCreation": [
+    "2018-10-31"
+  ],
+  "firstIndexDate": [
+    "2018-10-31"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2019-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-30"
+  ],
+  "firstPublicationDate": [
+    "2018-10-30"
+  ]
+}

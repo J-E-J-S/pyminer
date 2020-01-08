@@ -1,0 +1,343 @@
+{
+  "id": [
+    "31528741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31528741"
+  ],
+  "pmcid": [
+    "PMC6739492"
+  ],
+  "doi": [
+    "10.1016/j.synbio.2019.08.003"
+  ],
+  "title": [
+    "Detailed profiling of carbon fixation of in silico synthetic autotrophy with reductive tricarboxylic acid cycle and Calvin-Benson-Bassham cycle in Esherichia coli using hydrogen as an energy source."
+  ],
+  "authorString": [
+    "Cheng HT, Lo SC, Huang CC, Ho TY, Yang YT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng HT"
+          ],
+          "firstName": [
+            "Hsieh-Ting-Yang"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "HT"
+          ],
+          "affiliation": [
+            "Department of Computer Science, National Tsing Hua University, Hsinchu, 30013, Taiwan, R.O.C."
+          ]
+        },
+        {
+          "fullName": [
+            "Lo SC"
+          ],
+          "firstName": [
+            "Shou-Chen"
+          ],
+          "lastName": [
+            "Lo"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Life Sciences, National Chung-Hsing Univeristy, Taichung, Taiwan, R.O.C."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang CC"
+          ],
+          "firstName": [
+            "Chieh-Chen"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Life Sciences, National Chung-Hsing Univeristy, Taichung, Taiwan, R.O.C."
+          ]
+        },
+        {
+          "fullName": [
+            "Ho TY"
+          ],
+          "firstName": [
+            "Tsung-Yi"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "TY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7348-5625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, National Tsing Hua University, Hsinchu, 30013, Taiwan, R.O.C."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang YT"
+          ],
+          "firstName": [
+            "Ya-Tang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "YT"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, National Tsing Hua University, Hsinchu, 30013, Taiwan, R.O.C."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7348-5625",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2828283"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic and systems biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "NLMid": [
+            "101694371"
+          ],
+          "ISSN": [
+            "2405-805X"
+          ],
+          "ESSN": [
+            "2405-805X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "165-172"
+  ],
+  "abstractText": [
+    "Carbon fixation is the main route of inorganic carbon in the form of CO2 into the biosphere. In nature, RuBisCO is the most abundant protein that photosynthetic organisms use to fix CO2 from the atmosphere through the Calvin-Benson-Bassham (CBB) cycle. However, the CBB cycle is limited by its low catalytic rate and low energy efficiency. In this work, we attempt to integrate the reductive tricarboxylic acid and CBB cycles in silico to further improve carbon fixation capacity. Key heterologous enzymes, mostly carboxylating enzymes, are inserted into the Esherichia coli core metabolic network to assimilate CO2 into biomass using hydrogen as energy source. Overall, such a strain shows enhanced growth yield with simultaneous running of dual carbon fixation cycles. Our key results include the following. (i) We identified two main growth states: carbon-limited and hydrogen-limited; (ii) we identified a hierarchy of carbon fixation usage when hydrogen supply is limited; and (iii) we identified the alternative sub-optimal growth mode while performing genetic perturbation. The results and modeling approach can guide bioengineering projects toward optimal production using such a strain as a microbial cell factory."
+  ],
+  "affiliation": [
+    "Department of Computer Science, National Tsing Hua University, Hsinchu, 30013, Taiwan, R.O.C."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolism",
+        "Carbon fixation",
+        "Calvin-benson-bassham Cycle",
+        "Reductive Tricarboxylic Acid Cycle"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.synbio.2019.08.003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6739492"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6739492?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-19"
+  ],
+  "firstIndexDate": [
+    "2019-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-09-10"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": [
+    "31096972"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31096972"
+  ],
+  "pmcid": [
+    "PMC6524241"
+  ],
+  "doi": [
+    "10.1186/s12920-019-0508-5"
+  ],
+  "title": [
+    "NeoMutate: an ensemble machine learning framework for the prediction of somatic mutations in cancer."
+  ],
+  "authorString": [
+    "Anzar I, Sverchkova A, Stratford R, Clancy T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Anzar I"
+          ],
+          "firstName": [
+            "Irantzu"
+          ],
+          "lastName": [
+            "Anzar"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Sverchkova A"
+          ],
+          "firstName": [
+            "Angelina"
+          ],
+          "lastName": [
+            "Sverchkova"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Stratford R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Stratford"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Clancy T"
+          ],
+          "firstName": [
+            "Trevor"
+          ],
+          "lastName": [
+            "Clancy"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9896-0613",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379, Oslo, Norway. trevor@oncoimmunity.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9896-0613",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2811847"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "63"
+  ],
+  "abstractText": [
+    "BACKGROUND:The accurate screening of tumor genomic landscapes for somatic mutations using high-throughput sequencing involves a crucial step in precise clinical diagnosis and targeted therapy. However, the complex inherent features of cancer tissue, especially, tumor genetic intra-heterogeneity coupled with the problem of sequencing and alignment artifacts, makes somatic variant calling a challenging task. Current variant filtering strategies, such as rule-based filtering and consensus voting of different algorithms, have previously helped to increase specificity, although comes at the cost of sensitivity. METHODS:In light of this, we have developed the NeoMutate framework which incorporates 7 supervised machine learning (ML) algorithms to exploit the strengths of multiple variant callers, using a non-redundant set of biological and sequence features. We benchmarked NeoMutate by simulating more than 10,000 bona fide cancer-related mutations into three well-characterized Genome in a Bottle (GIAB) reference samples. RESULTS:A robust and exhaustive evaluation of NeoMutate's performance based on 5-fold cross validation experiments, in addition to 3 independent tests, demonstrated a substantially improved variant detection accuracy compared to any of its individual composite variant callers and consensus calling of multiple tools. CONCLUSIONS:We show here that integrating multiple tools in an ensemble ML layer optimizes somatic variant detection rates, leading to a potentially improved variant selection framework for the diagnosis and treatment of cancer."
+  ],
+  "affiliation": [
+    "OncoImmunity AS, Oslo Cancer Cluster, Ullernchausseen 64/66, 0379, Oslo, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Workflow"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Supervised Machine Learning"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Machine Learning",
+        "Cancer Genomics",
+        "Precision Medicine",
+        "Somatic Variant Detection"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-019-0508-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6524241"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6524241?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-12-30"
+  ],
+  "dateOfCreation": [
+    "2019-05-18"
+  ],
+  "firstIndexDate": [
+    "2019-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-16"
+  ],
+  "firstPublicationDate": [
+    "2019-05-16"
+  ]
+}

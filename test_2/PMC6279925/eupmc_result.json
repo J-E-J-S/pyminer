@@ -1,0 +1,661 @@
+{
+  "id": [
+    "30514868"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30514868"
+  ],
+  "pmcid": [
+    "PMC6279925"
+  ],
+  "doi": [
+    "10.1038/s41598-018-36008-9"
+  ],
+  "title": [
+    "Pathway sensor-based functional genomics screening identifies modulators of neuronal activity."
+  ],
+  "authorString": [
+    "Herholt A, Brankatschk B, Kannaiyan N, Papiol S, Wichert SP, Wehr MC, Rossner MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Herholt A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Herholt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Brankatschk B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Brankatschk"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Systasy Bioscience GmbH, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kannaiyan N"
+          ],
+          "firstName": [
+            "Nirmal"
+          ],
+          "lastName": [
+            "Kannaiyan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7408-6842",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Systasy Bioscience GmbH, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Papiol S"
+          ],
+          "firstName": [
+            "Sergi"
+          ],
+          "lastName": [
+            "Papiol"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9366-8728",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wichert SP"
+          ],
+          "firstName": [
+            "Sven P"
+          ],
+          "lastName": [
+            "Wichert"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "Systasy Bioscience GmbH, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wehr MC"
+          ],
+          "firstName": [
+            "Michael C"
+          ],
+          "lastName": [
+            "Wehr"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1770-8323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rossner MJ"
+          ],
+          "firstName": [
+            "Moritz J"
+          ],
+          "lastName": [
+            "Rossner"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany. Moritz.Rossner@med.uni-muenchen.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9366-8728",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1770-8323",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7408-6842",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2756346"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "17597"
+  ],
+  "abstractText": [
+    "Neuronal signal transduction shapes brain function and malfunction may cause mental disorders. Despite the existence of functional genomics screens for proliferation and toxicity, neuronal signalling has been difficult to address so far. To overcome this limitation, we developed a pooled screening assay which combines barcoded activity reporters with pooled genetic perturbation in a dual-expression adeno-associated virus (AAV) library. With this approach, termed pathScreener, we comprehensively dissect signalling pathways in postmitotic neurons. This overcomes several limitations of lentiviral-based screens. By applying first a barcoded and multiplexed reporter assay, termed cisProfiler, we identified the synaptic-activity responsive element (SARE) as top performance sensor of neuronal activity. Next, we targeted more than 4,400 genes and screened for modulatory effects on SARE activity in primary cortical neurons. We identified with high replicability many known genes involved in glutamatergic synapse-to-nucleus signalling of which a subset was validated in orthogonal assays. Several others have not yet been associated with the regulation of neuronal activity such as the hedgehog signalling members Ptch2 and Ift57. This assay thus enhances the toolbox for analysing regulatory processes during neuronal signalling and may help identifying novel targets for brain disorders."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich, Munich, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "RO 4076/5-1"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft (German Research Foundation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RO 4076/3-1"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft (German Research Foundation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Synapses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dependovirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glutamic Acid"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Reporter"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Promoter Regions, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Glutamic Acid"
+          ],
+          "registryNumber": [
+            "3KX376GY7L"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-36008-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6279925"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6279925?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-25"
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "firstIndexDate": [
+    "2018-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-14"
+  ],
+  "dateOfRevision": [
+    "2019-12-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-04"
+  ],
+  "firstPublicationDate": [
+    "2018-12-04"
+  ]
+}

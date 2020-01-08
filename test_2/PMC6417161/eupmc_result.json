@@ -1,0 +1,434 @@
+{
+  "id": [
+    "30871576"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30871576"
+  ],
+  "pmcid": [
+    "PMC6417161"
+  ],
+  "doi": [
+    "10.1186/s12920-019-0489-4"
+  ],
+  "title": [
+    "Design and analysis of stably integrated reporters for inducible transgene expression in human T cells and CAR NK-cell lines."
+  ],
+  "authorString": [
+    "Kulemzin SV, Matvienko DA, Sabirov AH, Sokratyan AM, Chernikova DS, Belovezhets TN, Chikaev AN, Taranin AV, Gorchakov AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kulemzin SV"
+          ],
+          "firstName": [
+            "Sergey V"
+          ],
+          "lastName": [
+            "Kulemzin"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Matvienko DA"
+          ],
+          "firstName": [
+            "Daria A"
+          ],
+          "lastName": [
+            "Matvienko"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sabirov AH"
+          ],
+          "firstName": [
+            "Artur H"
+          ],
+          "lastName": [
+            "Sabirov"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sokratyan AM"
+          ],
+          "firstName": [
+            "Arpine M"
+          ],
+          "lastName": [
+            "Sokratyan"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chernikova DS"
+          ],
+          "firstName": [
+            "Daria S"
+          ],
+          "lastName": [
+            "Chernikova"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Belovezhets TN"
+          ],
+          "firstName": [
+            "Tatyana N"
+          ],
+          "lastName": [
+            "Belovezhets"
+          ],
+          "initials": [
+            "TN"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chikaev AN"
+          ],
+          "firstName": [
+            "Anton N"
+          ],
+          "lastName": [
+            "Chikaev"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Taranin AV"
+          ],
+          "firstName": [
+            "Aleksandr V"
+          ],
+          "lastName": [
+            "Taranin"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gorchakov AA"
+          ],
+          "firstName": [
+            "Andrey A"
+          ],
+          "lastName": [
+            "Gorchakov"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2830-4236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia. gorchakov@mcb.nsc.ru."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2830-4236",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 2"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2794162"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "44"
+  ],
+  "abstractText": [
+    "BACKGROUND:Cytotoxic activity of T- and NK-cells can be efficiently retargeted against cancer cells using chimeric antigen receptors (CARs) and rTCRs. In the context of solid cancers, use of armored CAR T- and NK cells secreting additional anti-cancer molecules such as cytokines, chemokines, antibodies, BiTEs, inverted cytokine receptors, and checkpoint inhibitors, appears particularly promising, as this may help overcome immunosuppressive tumor microenvironment, attract bystander immune cells, and boost CAR T/NK-cell persistence. Placing the expression of such molecules under the transcriptional control downstream of CAR-mediated T/NK-cell activation offers the advantage of targeted delivery, high local concentration, and reduced toxicity. Several canonic DNA sequences that are known to function as activation-inducible promoters in human T and B cells have been described to date and typically encompass the multimers of NFkB and NFAT binding sites. However, relatively little is known about the DNA sequences that may function as activation-driven switches in the context of NK cells. We set out to compare the functionality of several activation-inducible promoters in primary human T cells, as well as in NK cell lines NK-92 and YT. METHODS:Lentiviral constructs were engineered to express two fluorescent reporters: mCherry under 4xNFAT, 2xNFkB, 5xNFkB, 10xNFkB, 30xNFkB promoters, as well as two variants of the CD69 promoter, and copGFP under the strong constitutive promoter of the human EF1a gene. Pseudotyped lentiviral particles obtained using these constructs were transduced into primary human T cells and NK-92 and YT cell lines expressing a CAR specific for PSMA. The transgenic cells obtained were activated by CD3/CD28 beads (T cells) or via a CAR (CAR-NK cell lines). Promoter activity before and after activation was assayed using FACS analysis. RESULTS:In T cells, the CD69 promoter encompassing CNS1 and CNS2 regions displayed the highest signal/noise ratio. Intriguingly, in the context of CAR-YT cell line neither of the seven promoters tested displayed acceptable activation profile. In CAR-NK-92 cells, the largest fold activation (which was modest) was achieved with the 10xNFkB and 30xNFkB promoters, however its expression was clearly leaky in \"resting\" non-activated cells. CONCLUSIONS:Unlike in T cells, the robust activation-driven inducible expression of genetic cassettes in NK cells requires unbiased genome-wide identification of promoter sequences."
+  ],
+  "affiliation": [
+    "Institute of Molecular and Cellular Biology SB RAS, Novosibirsk, Russia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Reporter",
+        "Inducible promoter",
+        "Chimeric Antigen Receptor",
+        "Nk Cell Lines"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-019-0489-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417161"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417161?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-16"
+  ],
+  "firstIndexDate": [
+    "2019-03-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2020-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-13"
+  ],
+  "firstPublicationDate": [
+    "2019-03-13"
+  ]
+}

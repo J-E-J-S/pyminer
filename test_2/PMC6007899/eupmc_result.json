@@ -1,0 +1,607 @@
+{
+  "id": [
+    "29920552"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29920552"
+  ],
+  "pmcid": [
+    "PMC6007899"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0199534"
+  ],
+  "title": [
+    "Development of a novel real-time polymerase chain reaction assay for the quantitative detection of Nipah virus replicative viral RNA."
+  ],
+  "authorString": [
+    "Jensen KS, Adams R, Bennett RS, Bernbaum J, Jahrling PB, Holbrook MR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jensen KS"
+          ],
+          "firstName": [
+            "Kenneth S"
+          ],
+          "lastName": [
+            "Jensen"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Adams R"
+          ],
+          "firstName": [
+            "Ricky"
+          ],
+          "lastName": [
+            "Adams"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Bennett RS"
+          ],
+          "firstName": [
+            "Richard S"
+          ],
+          "lastName": [
+            "Bennett"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7227-4831",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Bernbaum J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Bernbaum"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jahrling PB"
+          ],
+          "firstName": [
+            "Peter B"
+          ],
+          "lastName": [
+            "Jahrling"
+          ],
+          "initials": [
+            "PB"
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Holbrook MR"
+          ],
+          "firstName": [
+            "Michael R"
+          ],
+          "lastName": [
+            "Holbrook"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0824-2667",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0824-2667",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7227-4831",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2690785"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0199534"
+  ],
+  "abstractText": [
+    "Nipah virus (NiV) is a highly pathogenic zoonotic paramyxovirus that can result in severe pulmonary disease and fatal encephalitis in humans and is responsible for outbreaks in Bangladesh, Malaysia, Singapore, India and possibly the Philippines. NiV has a negative-sense RNA genome that contains six genes and serves as a template for production of viral mRNA transcripts. NiV mRNA transcripts are subsequently translated into viral proteins. Traditionally, NiV quantitative real-time reverse transcriptase polymerase chain reaction (qRT-PCR) assays have relied on using primer sets that amplify a target (N that encodes the nucleocapsid) within the coding region of the viral gene that also amplifies viral mRNA. Here we describe a novel one-step qRT-PCR assay targeting the intergenic region separating the viral F and G proteins, thereby eliminating amplification of the viral mRNA. This assay is more accurate than the traditional qRT-PCR in quantifying concentrations of viral genomic RNA."
+  ],
+  "affiliation": [
+    "NIAID Integrated Research Facility, Ft. Detrick, Frederick, MD, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, N.I.H., Intramural",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HHSN272200700016I"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AO"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vero Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cercopithecus aethiops"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nipah Virus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Messenger"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microscopy, Electron"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Viral"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Real-Time Polymerase Chain Reaction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Messenger"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Viral"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0199534"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6007899"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6007899?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-28"
+  ],
+  "dateOfCreation": [
+    "2018-06-20"
+  ],
+  "firstIndexDate": [
+    "2018-06-20"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-24"
+  ],
+  "dateOfRevision": [
+    "2018-12-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-19"
+  ],
+  "firstPublicationDate": [
+    "2018-06-19"
+  ]
+}

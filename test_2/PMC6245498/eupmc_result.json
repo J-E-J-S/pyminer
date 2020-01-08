@@ -1,0 +1,412 @@
+{
+  "id": [
+    "30453949"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30453949"
+  ],
+  "pmcid": [
+    "PMC6245498"
+  ],
+  "doi": [
+    "10.1186/s12920-018-0417-z"
+  ],
+  "title": [
+    "Discovery and disentanglement of aligned residue associations from aligned pattern clusters to reveal subgroup characteristics."
+  ],
+  "authorString": [
+    "Zhou PY, Sze-To A, Wong AKC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou PY"
+          ],
+          "firstName": [
+            "Pei-Yuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "PY"
+          ],
+          "affiliation": [
+            "Systems Design Engineering, University of Waterloo, Waterloo, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sze-To A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Sze-To"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Systems Design Engineering, University of Waterloo, Waterloo, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong AKC"
+          ],
+          "firstName": [
+            "Andrew K C"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "AKC"
+          ],
+          "affiliation": [
+            "Systems Design Engineering, University of Waterloo, Waterloo, ON, Canada. akcwong@uwaterloo.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 5"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2751746"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "103"
+  ],
+  "abstractText": [
+    "BACKGROUND:A protein family has similar and diverse functions locally conserved. An aligned pattern cluster (APC) can reflect the conserved functionality. Discovering aligned residue associations (ARAs) in APCs can reveal subtle inner working characteristics of conserved regions of protein families. However, ARAs corresponding to different functionalities/subgroups/classes could be entangled because of subtle multiple entwined factors. METHODS:To discover and disentangle patterns from mixed-mode datasets, such as APCs when the residues are replaced by their fundamental biochemical properties list, this paper presents a novel method, Extended Aligned Residual Association Discovery and Disentanglement (E-ARADD). E-ARADD discretizes the numerical dataset to transform the mixed-mode dataset into an event-value dataset, constructs an ARA Frequency Matrix and then converts it into an adjusted Statistical Residual (SR) Vector Space (SRV) capturing statistical deviation from randomness. By applying Principal Component (PC) Decomposition on SRV, PCs ranked by their variance are obtained. Finally, the disentangled ARAs are discovered when the projections on a PC is re-projected to a vector space with the same basis vectors of SRV. RESULTS:Experiments on synthetic, cytochrome c and class A scavenger data have shown that E-ARADD can a) disentangle the entwined ARAs in APCs (with residues or biochemical properties), b) reveal subtle AR clusters relating to classes, subtle subgroups or specific functionalities. CONCLUSIONS:E-ARADD can discover and disentangle ARs and ARAs entangled in functionality and location of protein families to reveal functional subgroups and subgroup characteristics of biological conserved regions. Experimental results on synthetic data provides the proof-of-concept validation on the successful disentanglement that reveals class-associated ARAs with or without class labels as input. Experiments on cytochrome c data proved the efficacy of E-ARADD in handing both types of residue data. Our novel methodology is not only able to discover and disentangle ARs and ARAs in specific statistical/functional (PCs and RSRVs) spaces, but also their locations in the protein family functional domains. The success of E-ARADD shows its great potential to proteomic research, drug discovery and precision and personalized genetic medicine."
+  ],
+  "affiliation": [
+    "Systems Design Engineering, University of Waterloo, Waterloo, ON, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytochromes c"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Principal Component Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pattern Discovery",
+        "Disentanglement",
+        "Aligned Pattern Clusters",
+        "Aligned Residue Associations",
+        "Subgroup Characteristics"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cytochromes c"
+          ],
+          "registryNumber": [
+            "9007-43-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245498?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245498"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-018-0417-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-29"
+  ],
+  "dateOfCreation": [
+    "2018-11-21"
+  ],
+  "firstIndexDate": [
+    "2018-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-30"
+  ],
+  "dateOfRevision": [
+    "2019-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

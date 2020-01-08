@@ -1,0 +1,560 @@
+{
+  "id": [
+    "29987051"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29987051"
+  ],
+  "pmcid": [
+    "PMC6065048"
+  ],
+  "doi": [
+    "10.1073/pnas.1805681115"
+  ],
+  "title": [
+    "Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations."
+  ],
+  "authorString": [
+    "Duren Z, Chen X, Zamanighomi M, Zeng W, Satpathy AT, Chang HY, Wang Y, Wong WH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Duren Z"
+          ],
+          "firstName": [
+            "Zhana"
+          ],
+          "lastName": [
+            "Duren"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4685-811X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Statistics, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Statistics, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Zamanighomi M"
+          ],
+          "firstName": [
+            "Mahdi"
+          ],
+          "lastName": [
+            "Zamanighomi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Statistics, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng W"
+          ],
+          "firstName": [
+            "Wanwen"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Statistics, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Satpathy AT"
+          ],
+          "firstName": [
+            "Ansuman T"
+          ],
+          "lastName": [
+            "Satpathy"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "affiliation": [
+            "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang HY"
+          ],
+          "firstName": [
+            "Howard Y"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "HY"
+          ],
+          "affiliation": [
+            "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 100080 Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong WH"
+          ],
+          "firstName": [
+            "Wing Hung"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Department of Statistics, Stanford University, Stanford, CA 94305; whwong@stanford.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4685-811X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "30"
+      ],
+      "volume": [
+        "115"
+      ],
+      "journalIssueId": [
+        "2709747"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "7723-7728"
+  ],
+  "abstractText": [
+    "When different types of functional genomics data are generated on single cells from different samples of cells from the same heterogeneous population, the clustering of cells in the different samples should be coupled. We formulate this \"coupled clustering\" problem as an optimization problem and propose the method of coupled nonnegative matrix factorizations (coupled NMF) for its solution. The method is illustrated by the integrative analysis of single-cell RNA-sequencing (RNA-seq) and single-cell ATAC-sequencing (ATAC-seq) data."
+  ],
+  "affiliation": [
+    "Department of Statistics, Stanford University, Stanford, CA 94305."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HG007834"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P50 HG007735"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM109836"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nmf",
+        "Coupled Clustering",
+        "Single-cell Genomic Data"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1805681115"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6065048"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6065048?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR13544"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-09-17"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-05"
+  ],
+  "dateOfRevision": [
+    "2019-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-09"
+  ],
+  "firstPublicationDate": [
+    "2018-07-09"
+  ]
+}

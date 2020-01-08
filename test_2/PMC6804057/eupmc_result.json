@@ -1,0 +1,373 @@
+{
+  "id": [
+    "31597270"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31597270"
+  ],
+  "pmcid": [
+    "PMC6804057"
+  ],
+  "doi": [
+    "10.3390/molecules24193619"
+  ],
+  "title": [
+    "Co-Localization of DNA i-Motif-Forming Sequences and 5-Hydroxymethyl-cytosines in Human Embryonic Stem Cells."
+  ],
+  "authorString": [
+    "Bhavsar-Jog YP, Van Dornshuld E, Brooks TA, Tschumper GS, Wadkins RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bhavsar-Jog YP"
+          ],
+          "firstName": [
+            "Yogini P"
+          ],
+          "lastName": [
+            "Bhavsar-Jog"
+          ],
+          "initials": [
+            "YP"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, University of Mississippi, University, MS 38677, USA. bhavsar.yogini@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Dornshuld E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Van Dornshuld"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Mississippi State University, Mississippi State, MS 39762, USA. edornshuld@chemistry.msstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Brooks TA"
+          ],
+          "firstName": [
+            "Tracy A"
+          ],
+          "lastName": [
+            "Brooks"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "Department of Pharmaceutical Sciences, Binghamton University, Binghamton, NY 13902, USA. tbrooks@binghamton.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tschumper GS"
+          ],
+          "firstName": [
+            "Gregory S"
+          ],
+          "lastName": [
+            "Tschumper"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3933-2200",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, University of Mississippi, University, MS 38677, USA. tschumpr@olemiss.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wadkins RM"
+          ],
+          "firstName": [
+            "Randy M"
+          ],
+          "lastName": [
+            "Wadkins"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, University of Mississippi, University, MS 38677, USA. rwadkins@olemiss.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3933-2200",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2867016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "G-quadruplexes (G4s) and i-motifs (iMs) are tetraplex DNA structures. Sequences capable of forming G4/iMs are abundant near the transcription start sites (TSS) of several genes. G4/iMs affect gene expression in vitro. Depending on the gene, the presence of G4/iMs can enhance or suppress expression, making it challenging to discern the underlying mechanism by which they operate. Factors affecting G4/iM structures can provide additional insight into their mechanism of regulation. One such factor is epigenetic modification. The 5-hydroxymethylated cytosines (5hmCs) are epigenetic modifications that occur abundantly in human embryonic stem cells (hESC). The 5hmCs, like G4/iMs, are known to participate in gene regulation and are also enriched near the TSS. We investigated genomic co-localization to assess the possibility that these two elements may play an interdependent role in regulating genes in hESC. Our results indicate that amongst 15,760 G4/iM-forming locations, only 15% have 5hmCs associated with them. A detailed analysis of G4/iM-forming locations enriched in 5hmC indicates that most of these locations are in genes that are associated with cell differentiation, proliferation, apoptosis and embryogenesis. The library generated from our analysis is an important resource for investigators exploring the interdependence of these DNA features in regulating expression of selected genes in hESC."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Biochemistry, University of Mississippi, University, MS 38677, USA. bhavsar.yogini@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1R15CA173667-01A1"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dna Secondary Structures",
+        "Cytosine-rich Dna",
+        "Dna Nanomaterials"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24193619"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6804057"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6804057?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-11"
+  ],
+  "firstIndexDate": [
+    "2019-10-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-08"
+  ],
+  "firstPublicationDate": [
+    "2019-10-08"
+  ]
+}

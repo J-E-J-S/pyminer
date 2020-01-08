@@ -1,0 +1,537 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Vet Med Sci</journal-id><journal-id journal-id-type="iso-abbrev">J. Vet. Med. Sci</journal-id><journal-id journal-id-type="publisher-id">JVMS</journal-id><journal-title-group><journal-title>The Journal of Veterinary Medical Science</journal-title></journal-title-group><issn pub-type="ppub">0916-7250</issn><issn pub-type="epub">1347-7439</issn><publisher><publisher-name>The Japanese Society of Veterinary Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6395204</article-id><article-id pub-id-type="publisher-id">17-0605</article-id><article-id pub-id-type="doi">10.1292/jvms.17-0605</article-id><article-categories><subj-group subj-group-type="heading"><subject>Wildlife Science</subject><subj-group><subject>Full Paper</subject></subj-group></subj-group></article-categories><title-group><article-title>Serological and histological evaluation of species-specific
+immunocontraceptive vaccine antigens based on zona pellucida 3 in the small Indian
+mongoose (<italic>Herpestes auropunctatus</italic>)</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>KUNINAGA</surname><given-names>Naotoshi</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>ASANO</surname><given-names>Makoto</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>MATSUYAMA</surname><given-names>Ryota</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>MINEMOTO</surname><given-names>Takahiro</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>MORI</surname><given-names>Takayuki</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>SUZUKI</surname><given-names>Masatsugu</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><aff id="aff1"><label>1)</label>The United Graduate School of Veterinary Sciences, Gifu
+University, 1-1 Yanagido, Gifu-shi, Gifu 501-1193, Japan</aff><aff id="aff2"><label>2)</label>Joint Department of Veterinary Medicine, Faculty of Applied
+Biological Sciences, Gifu University, 1-1 Yanagido, Gifu-shi, Gifu 501-1193, Japan</aff><aff id="aff3"><label>3)</label>Graduate School of Medicine, Hokkaido University, Kita 15 Jo
+Nishi 7 Chome, Kita-ku, Sapporo, Hokkaido 060-0808, Japan</aff><aff id="aff4"><label>4)</label>Graduated from Department of Veterinary Medicine, Faculty of
+Applied Biological Sciences Gifu University, 1-1 Yanagido, Gifu-shi, Gifu 501-1193,
+Japan</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Asano, M.: <email xlink:href="asanojr@gifu-u.ac.jp">asanojr@gifu-u.ac.jp</email></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2019</year></pub-date><volume>81</volume><issue>2</issue><fpage>328</fpage><lpage>337</lpage><history><date date-type="received"><day>13</day><month>11</month><year>2017</year></date><date date-type="accepted"><day>28</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>&#x000a9;2019 The Japanese Society of Veterinary Science</copyright-statement><copyright-year>2019</copyright-year><license license-type="open-access"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. (CC-BY-NC-ND 4.0:
+<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+https://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>)</license-p></license></permissions><abstract><p>The small Indian mongoose (<italic>Herpestes auropunctatus</italic>) was introduced to
+Japanese islands and has impacted on the island&#x02019;s biodiversity. Population control has
+been attempted through capturing but its efficiency has rapidly declined. Therefore, new
+additional control methods are required. Our focus has been on the immunocontraceptive
+vaccines, which act in an especially species-specific manner. The amino-acid sequence of
+the mongoose ovum zona pellucida protein 3 (ZP3) was decoded and two types of synthetic
+peptides (A and B) were produced. In this study, these peptides were administered to
+mongooses (each n=3) and the sera were collected to verify immunogenicity using ELISA and
+IHC. Treated mongoose sera showed an increasing of antibody titer according to
+immunizations and the antigen-antibody reactions against the endogenous mongoose ZP. In
+addition, IHC revealed that immune sera absorbed with each peptide showed a marked
+reduction in reactivity, which indicated the specificity of induced antibodies. These
+reactions were marked in peptide A treated mongoose sera, and the antibody titer of one of
+them lasted for at least 21 weeks. These results indicated that peptide A was a potential
+antigen, inducing autoantibody generation. Moreover, immunized rabbit antibodies
+recognized mongoose ZP species-specifically. However, the induction of robust immune
+memory was not observed. Also, the actual sterility effects of peptides remain unknown, it
+should be verified as a next step. In any case, this study verified synthetic peptides we
+developed are useful as the antigen candidates for immunocontraception of mongooses.</p></abstract><kwd-group><kwd>fertility control</kwd><kwd>immunocontraception</kwd><kwd>invasive alien species</kwd><kwd>mongoose</kwd><kwd>zona pellucida</kwd></kwd-group></article-meta></front><body><p>The small Indian mongoose (<italic>Herpestes auropunctatus</italic>) is a carnivorous animal
+mainly native to the region expanding from West to Southeast Asia [<xref rid="r35" ref-type="bibr">35</xref>, <xref rid="r46" ref-type="bibr">46</xref>]. The mongoose is listed
+among the &#x0201c;100 of the World&#x02019;s Worst Invasive Alien Species&#x0201d; published by the invasive species
+specialist group of the IUCN [<xref rid="r18" ref-type="bibr">18</xref>]. This is the result
+of introducing the small Indian mongoose intentionally to 76 islands throughout the world,
+which has threatened the native ecosystems [<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r18" ref-type="bibr">18</xref>, <xref rid="r33" ref-type="bibr">33</xref>]. In Japan,
+ten-odd individuals of the small Indian mongoose were introduced to Okinawa Island in Japan in
+1910 and brought in Amami-oshima Island in 1979, with the aim of biologically controlling Habu
+snakes and house rats [<xref rid="r15" ref-type="bibr">15</xref>, <xref rid="r45" ref-type="bibr">45</xref>, <xref rid="r49" ref-type="bibr">49</xref>, <xref rid="r51" ref-type="bibr">51</xref>].</p><p>Okinawa Island and Amami-oshima Island are both located in the sub-tropical region, which has
+endemic ecosystems and uniquely evolved fauna. The lack of remarkable natural enemies and the
+comfortable climate easily allowed the mongoose population to establish its habitat and
+spread, which resulted in a large impact on the island&#x02019;s biodiversity. Specifically, preying
+on the Amami rabbit (<italic>Pentalagus furnessi</italic>), Ryukyu long-furred rat
+(<italic>Diplothrix legata</italic>), Ryukyu robin (<italic>Erithacus komadori</italic>),
+Ryukyu tree lizard (<italic>Japalura polygonata</italic>), and other rare species, and the
+competition with species that prey on the same food resources such as Okinawa rail
+(<italic>Gallirallus okinawae</italic>) largely impacted the islands [<xref rid="r36" ref-type="bibr">36</xref>, <xref rid="r38" ref-type="bibr">38</xref>, <xref rid="r49" ref-type="bibr">49</xref>, <xref rid="r51" ref-type="bibr">51</xref>]. Not only impacts on
+ecosystems but also social impacts such as risk of leptospirosis transmission and damage to
+poultry by mongooses were reported [<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r16" ref-type="bibr">16</xref>, <xref rid="r30" ref-type="bibr">30</xref>, <xref rid="r52" ref-type="bibr">52</xref>].</p><p>The Ministry of the Environment Government of Japan (MOE) has conducted control of mongoose
+on both islands in cooperation with the local governments, starting from the year 2000 [<xref rid="r34" ref-type="bibr">34</xref>]. Further, An Invasive Alien Species Act was carried out
+in 2005, and small Indian mongoose was legally designated as an invasive alien species in
+Japan [<xref rid="r32" ref-type="bibr">32</xref>]. The MOE organized a group of experts in
+mongoose capturing called &#x0201c;Mongoose Busters&#x0201d; on each island and have succeeded in reducing the
+mongoose population drastically [<xref rid="r34" ref-type="bibr">34</xref>]. However,
+achieving a low mongoose population density has also lowered the capture efficiency.
+Therefore, the complete eradication of the mongoose population is not yet to be achieved. The
+other factors suppressing the capture efficiency are the increase in by-catch of native
+species and the appearance of trap-shy individuals, who are highly cautious of traps.</p><p>Therefore, new methods for mongoose population control are required. We focused on the
+immunocontraceptive methods, which induce immunological sterility by treatment with
+contraceptive vaccines. Immunocontraception in wildlife was initially established in 1980s to
+control wild horses in the U.S.A. [<xref rid="r23" ref-type="bibr">23</xref>, <xref rid="r28" ref-type="bibr">28</xref>], and has since been applied to various mammals (e.g.,
+cat, African elephant, and some ungulates), due to a growing concern for animal welfare [<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r24" ref-type="bibr">24</xref>, <xref rid="r26" ref-type="bibr">26</xref>]. Immunocontraception is a technique for suppressing
+reproduction of the target species, in which antibodies induced by the contraceptive vaccines
+inhibit the activity of reproduction-related factors as autoantigens. In these studies,
+nonspecies-specific agents such as porcine zona pellucida (PZP) or GnRH preparations, some of
+which have already been made into products (e.g., SpayVac<sup>TM</sup>, GonaCon<sup>TM</sup>),
+have been used as direct injectable contraceptive vaccines [<xref rid="r27" ref-type="bibr">27</xref>, <xref rid="r29" ref-type="bibr">29</xref>, <xref rid="r31" ref-type="bibr">31</xref>]. On the other hand, species-specific agents have also been developed with remote
+injection to control the free-ranging population [<xref rid="r8" ref-type="bibr">8</xref>,
+<xref rid="r19" ref-type="bibr">19</xref>]. Since the present study targeted on free-ranging
+invasive animals, it was not realistic to treat mongooses with any direct injectable agents
+under visual recognition or capture. Furthermore, the effects on non-target species had to be
+minimized. Therefore, the overall objective of this study was to develop mongoose-specific
+immunocontraceptive agents.</p><p>We focused on zona pellucida 3 glycoprotein (ZP3) as vaccine antigens, which has high
+species-specificity and plays an important role in the primary binding of sperms and oocytes
+[<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r4" ref-type="bibr">4</xref>].
+Manufacturing of vaccine candidates was necessary to clarify whether these agents would induce
+antibody production in mongoose and whether, the induced antibody, would recognize the
+mongoose endogenous zona pellucida (ZP) as biological antigens. Additionally, we tried to
+identify the species-specific effects of these peptides.</p><sec sec-type="materials|methods" id="s1"><title>MATERIALS AND METHODS</title><sec><title>Synthesis of antigen peptides</title><p>We started by decoding the full-length sequence of mongoose ZP3. Briefly, RNA was
+extracted from mongoose ovary, sampled from individuals culled in MOE control program. PCR
+products were obtained with reverse transcriptase reaction method and RACE method;
+RACE-PCR products were then amplified by TA cloning. After the sequence reaction, base
+sequence analysis was performed by the Division of Genomics Research of Life Science
+Research Center of Gifu University. Thereafter, amino-acid sequences were predicted from
+the decoded mongoose ZP3 gene sequence and homology of the sperm-oocyte binding site was
+compared with known ZP3 sequences from cat (<italic>Felis silvestris catus</italic>), dog
+(<italic>Canis lupus familiaris</italic>), stoat (<italic>Mustela ermine</italic>),
+mouse (<italic>Mus musculus</italic>), and humans (<italic>Homo sapiens</italic>).</p><p>Through the above steps, two types of peptides, namely peptide A (CGLPGHSRRLSHPERPRRK)
+and peptide B (CHPERPRRKLAPRSRNRRH), which have a homologous amino-acid sequence to a part
+of the mongoose ZP3 sperm-oocyte binding site (both 19 AA residues) were designed. These
+peptides were synthesized and conjugated with keyhole limpet hemocyanin (KLH) on the
+cysteine residue in order to promote antigenicity (Sigma-Aldrich Japan K.K.; Tokyo,
+Japan). Each peptide was assumed to include two epitope regions. One of them has common
+amino-acid sequence between peptide A and B.</p></sec><sec><title>Animals</title><p>Nine female small Indian mongooses were captured in Nago city, Okinawa using box traps in
+the MOE mongoose control project [<xref rid="r34" ref-type="bibr">34</xref>]. They were
+all determined as mature by their head/body length (265&#x02013;290 mm) and body weight (275&#x02013;487
+g) [<xref rid="r37" ref-type="bibr">37</xref>]. The animals were acclimatized to captivity
+for at least 2 weeks, and were housed in individual cages (L 230 &#x000d7; H 270 &#x000d7; W 600 mm) in
+the outdoor rearing facility at the Yambaru wildlife conservation center of MOE. All
+animals were fed dog food and had free access to water at all times. The mongooses were
+randomly assigned to three groups: group A, which received peptide A (n=3; A-1~3), group
+B, which received peptide B (n=3; B-1~3), and control group C treated with
+phosphate-buffer saline (PBS; n=3; C-1~3). No animals showed noticeable body weight loss
+or behavioral abnormality during the experiment.</p></sec><sec><title>Immunization and blood sampling</title><p>Starting from February 2014, the animals were treated with peptides (150
+<italic>&#x000b5;</italic>g/150 <italic>&#x000b5;l</italic>) emulsified with the same volume of Freund&#x02019;s
+incomplete adjuvant (TiterMax<sup>&#x000ae;</sup> Gold, TiterMax U.S.A. Inc., Norcross, GA,
+U.S.A.) or 150 <italic>&#x000b5;l</italic> of PBS with the same volume of adjuvant as control
+under anesthesia. Immunization was performed four times at an interval of 2 weeks in
+several dorsal subcutaneous sites. Two of the animals (A-1 and B-2) were used for the
+confirmation of the antibody&#x02019;s durability. Subsequently, after a decrease in the antibody
+titer (83 weeks after the first immunization), these two animals were treated with a
+single immunization to evaluate the immune memory. The mongooses were anesthetized with
+intramuscular injection of ketamine hydrochloride (0.5 mg/head; Ketalar, Daiichi Sankyo,
+Tokyo, Japan) and medetomidine hydrochloride (0.07 mg/head; Domitor, Nippon Zenyaku Kogyo
+Co., Ltd., Fukushima, Japan) using a special box cage. Subsequently, the animals were
+treated with atipamezole hydrochloride (0.35 mg/head; Antisedan, Nippon Zenyaku Kogyo Co.,
+Ltd.) to promote recovery from sedation. Blood (1 m<italic>l</italic>) was collected via
+cardiocentesis at the time of immunization (except the second immunization) and a week
+after the fourth immunization. Blood samples from A-1 and B-2 were collected continuously
+at an interval of approximately 15 weeks and at the time of reimmunization. Blood samples
+were kept overnight at 4&#x000b0;C, and were subsequently centrifuged for 10 min at 10,000 rpm,
+and the serum was separated. All serum samples were subdivided and stored at &#x02212;80&#x000b0;C until
+further analysis. All animals, except A-1 and B-2 were euthanized 1 week after the last
+immunization via exsanguination under anesthesia, and the ovaries were collected for
+pathological analysis. Euthanasia was performed in accordance with the guideline of The
+American Veterinary Medical Association (AVMA; 2007).</p></sec><sec><title>Enzyme-linked immunosorbent assay (ELISA)</title><p>The amount of serum antibodies against synthetic peptides was measured by using indirect
+ELISA. Briefly, 96-well microplates (#3590, Corning Inc., Corning, NY, U.S.A.) were coated
+with 100 <italic>&#x000b5;l</italic> of peptide A or B in carbonate-bicarbonate buffer (C3041,
+Sigma-Aldrich Co., St. Louis, MO, U.S.A.) and incubated for 1 hr at room temperature.
+After washing three times with 200&#x02013;300 <italic>&#x000b5;l</italic>/well of PBS containing 0.05%
+Tween<sup>&#x000ae;</sup>20 (Sigma-Aldrich; PBS-T), nonspecificity was blocked with 3% skim milk
+in PBS (200 <italic>&#x000b5;l</italic>/well) overnight at 4&#x000b0;C. After washing three times with
+PBS-T, mongoose serum in PBS (1:100; 100 <italic>&#x000b5;l</italic>/well) was added as the
+primary antibody and incubated for 1 hr at room temperature. After washing three times
+with PBS-T (300&#x02013;400 <italic>&#x000b5;l</italic>/well), horseradish peroxidase (HRP)-labeled goat
+anti-Ferret IgG antibody (1:2,500; 1 mg/m<italic>l</italic>; Bethyl laboratories Inc.,
+Montgomery, AL, U.S.A.) in PBS (100 <italic>&#x000b5;l</italic>/well) was added and incubated for
+1 hr at room temperature; cross-reactivity to mongoose IgG has been previously reported
+[<xref rid="r17" ref-type="bibr">17</xref>]. After washing three times with PBS-T
+(200&#x02013;300 <italic>&#x000b5;l</italic>/well), tetramethyl benzidine (100 <italic>&#x000b5;l</italic>/well;
+TMB Substrate Regent Set, BD, Franklin Lakes, NJ, U.S.A.) was added to induce a
+chromogenic reaction for 20 min, and the reaction was subsequently stopped by 1 M of
+H<sub>2</sub>SO<sub>4</sub>. The absorbance was measured at dual wavelengths, 450/655 nm
+using a microplate reader (Model 680, Bio-Rad Laboratories, Hercules, CA, U.S.A.).</p><p>All sera were tested in triplicate on a plate to verify the technical validity of the
+experiment, and the average optical density (OD) and standard deviation (SD) of sera were
+calculated. An average OD + 3 SD of all control sera was set as the cut-off value.</p></sec><sec><title>IHC&#x02013;labeled streptavidin-biotin (LSAB) method</title><p>Immunohistochemical analysis was performed on sections (4 <italic>&#x000b5;</italic>m) from fixed
+and paraffin-embedded non-immunized mongoose ovaries obtained from three mature female
+mongooses, other than from immunized individuals, captured under the same MOE control
+program, to verify the recognition of endogenous ZP by induced mongoose antibodies.
+Mongooses were then euthanized under anesthesia by exsanguination and ovaries were
+collected and fixed in 4% neutral buffered formalin.</p><p>According to the general methods, sections were deparaffinized and rehydrated using
+xylene and alcohol gradient. At this stage, one section was used for hematoxylin and eosin
+staining (HE) to observe the tissue structure. For IHC, antigen retrieval was performed in
+other sections by incubating them in citrate buffer solution (pH 5.4) in a warm bath
+(90&#x000b0;C) for 40 min. After cooling down for 20 min at room temperature, sections were washed
+three times with PBS (5 min), and the endogenous peroxidase activity was inhibited with 3%
+H<sub>2</sub>O<sub>2</sub> for 15 min at room temperature. After washing three times
+with PBS (5 min), the slides were treated with 3% bovine serum albumin (BSA; A3590,
+Sigma-Aldrich Co.) in PBS (100 <italic>&#x000b5;l</italic>/section) and incubated overnight at 4&#x000b0;C
+to block nonspecific reactions. Subsequently, the sections were incubated with primary
+antibody, i.e., either serum from the treated mongooses, diluted at 1:50 with 3% BSA in
+PBS (100 <italic>&#x000b5;l</italic>/section) for 1 hr at room temperature. After washing three
+times with PBS (5 min), the sections were incubated with HRP-labeled protein A (1:1,000,
+100 <italic>&#x000b5;l</italic>/section; ab7456, Abcam, Cambridge, U.K.) for 1 hr at room
+temperature. After washing in PBS, sections were incubated with streptavidin (1:200, 100
+<italic>&#x000b5;l</italic>/section; Extravidin<sup>&#x000ae;</sup>, Sigma-Aldrich Co.) in PBS for 1 hr
+at room temperature to amplify the avidin-biotin reaction. Subsequently, the sections were
+washed in PBS, incubated in 3,3&#x002b9;-diaminobenzidin (DAB; Dako, Santa Clara, CA, U.S.A.) for
+1 min to induce a chromogenic reaction, and counterstained with hematoxylin. All slides
+were sealed through a dehydrating and permeating operation.</p><p>To evaluate the specificity of the antibody, an absorption test was performed, in which
+absorbed sera with immunized peptide (e.g., A-1 serum-peptide A) were used as the primary
+antibody. Each serum and the same volume of peptide were co-incubated in PBS (1:50
+diluent) for 1 hr at room temperature.</p><p>Additionally, to estimate the species-specificity of antibodies induced by peptides, IHC
+using immunized rabbit sera and ovary sections of various animals was performed. Briefly,
+the same peptides (peptide A or B) were administrated to rabbits (each n=2; a-1, 2 and
+b-1, 2) 5 times every two weeks and sera were collected continuously. Immunized rabbit
+sera were used as the primary antibody (1:100 with 3% BSA in PBS, 100
+<italic>&#x000b5;l</italic>/section). Ovary sections from Mongoose, Japanese marten
+(<italic>Martes melampus melampus</italic>), cat (<italic>Felis silvestris
+catus</italic>), dog (<italic>Canis lupus familiaris</italic>), Japanese wild boar
+(<italic>Sus scrofa</italic>), and rabbit (<italic>Oryctolagus cuniculus</italic>) were
+used (fixed with 4% neutral buffered formalin, 4 <italic>&#x000b5;</italic>m). Ovary samples were
+collected from spayed cats and dogs, captured wild animals based on permission, and
+experimental animals. Every captured or experimental animal were euthanized in accordance
+with the guideline of AVMA appropriately and ovaries from them were treated as ones from
+mongooses. Other experimental conditions were the same as described above.</p></sec></sec><sec sec-type="results" id="s2"><title>RESULTS</title><sec><title>Comparisons of ZP3 homology between mongoose and the other animals</title><p>Decoded base sequence of mongoose ZP3 reached 1,278 bp and it is assumed to be translated
+into a 426 AA sequence. The homologies between the mongoose ZP3 sperm-oocyte binding site
+and the ones from cat, dog, stoat, mouse and human were 47.8, 60.9, 60.9, 17.4, and 34.8%,
+respectively.</p></sec><sec><title>Antigenicity of the synthetic peptides</title><p>Both groups of animals treated with synthetic peptides showed a higher antibody titer
+than the pre-immunized serum or control animals (<xref ref-type="fig" rid="fig_001">Fig.
+1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig. 1.</label><caption><p>Antibody titers (absorbance at 450&#x02013;655 nm; mean &#x000b1; SD) in mongoose sera following
+immunization with peptide A (a) and peptide B (b). Horizontal lines mean the cut-off
+value calculated from each control on same microplate: cut-off value=mean antibody
+titer of control + 3 SD. Arrows indicate the times of immunization.</p></caption><graphic xlink:href="jvms-81-328-g001"/></fig>). In particular, animals in group A showed a significantly higher antibody titer,
+notwithstanding some individual variation, which increased mostly according to
+immunization (<xref ref-type="fig" rid="fig_001">Fig. 1a</xref>). On the other hand, the
+antibody titer in group B was generally positive, but lower than that in group A; animal
+B-3 displayed a temporal decrease in the titer, which was less than the cut-off value
+(<xref ref-type="fig" rid="fig_001">Fig. 1b</xref>).</p></sec><sec><title>Longevity of the antibody titer and intensity of the immune memory</title><p>Blood samples were continuously collected over time from two animals followed-up for
+their antibody titer (A-1 and B-2), which exhibited the higher titer in each group. The
+antibodies&#x02019; longevity and the reaction against single reimmunization are shown in <xref ref-type="fig" rid="fig_002">Fig. 2.</xref><fig orientation="portrait" fig-type="figure" id="fig_002" position="float"><label>Fig. 2.</label><caption><p>Durability of antibody titers (absorbance at 450&#x02013;655 nm; mean &#x000b1; SD) in mongoose
+following immunization with peptide A (A-1) and peptide B (B-2) and degree of immune
+memory against reimmunization with each peptides. The cut-off value was calculated
+from control on each peptide A (horizontal solid line) and peptide B (horizontal
+broken line): cut-off value=mean antibody titer of each control + 3 SD. Arrows
+indicate the times of immunization.</p></caption><graphic xlink:href="jvms-81-328-g002"/></fig> The antibody titer of both animals gradually declined after the last immunization
+and became lower than each cut-off value, and stabilized subsequently at a low value. The
+antibody titer of the A-1 serum lasted for at least 21 weeks from the first immunization;
+whereas, that of the B-2 mongoose lasted for at least 7 weeks.</p><p>Regarding the immune memory, the degree of the increase in the antibody titer against
+single reimmunization after the antibody became stably low was evaluated. The inclination
+of the A-1 antibody titer to increase by reimmunization corresponded to two times that of
+the former four times of immunization. The B-2 antibody titer only slightly increased
+against the reimmunization, but remained under the cut-off value.</p></sec><sec><title>Histological findings of immunized mongoose ovaries</title><p>No infiltration of inflammatory cells nor defections were observed in HE-stained ovary
+tissues in the experimental animals compared with control ovaries (data not shown).</p></sec><sec><title>Antigen recognition by the antibodies</title><p>Each sera containing antibodies induced by ZP3 peptides were tested as the primary
+antibody by IHC. Based on the results, ZP-specific positive reactions were observed in the
+serum of both experimental groups, in comparison with serum from the control animals
+(<xref ref-type="fig" rid="fig_003">Fig. 3</xref><fig orientation="portrait" fig-type="figure" id="fig_003" position="float"><label>Fig. 3.</label><caption><p>Immunoreactivity of immunized mongoose sera with synthetic peptides against normal
+mongoose ovary in IHC. a: A-1 antiserum, b: A-2 antiserum, c: A-3 antiserum, d: B-1
+antiserum, e: B-2 antiserum, f: B-3 antiserum, g: C-1 serum (control), and h:
+HE-stained normal mongoose ovary. Arrowheads: zona pellucida. Bars=50
+<italic>&#x000b5;</italic>m.</p></caption><graphic xlink:href="jvms-81-328-g003"/></fig>). Marked positive reactions were observed in the A-2 serum (<xref ref-type="fig" rid="fig_003">Fig. 3b</xref>), while the A-1 and A-3 sera showed a moderate positive
+reaction (<xref ref-type="fig" rid="fig_003">Fig. 3a, 3c</xref>). The sera of animals
+immunized with peptide B showed a negative to mild positive reaction (<xref ref-type="fig" rid="fig_003">Fig. 3d&#x02013;f</xref>). The positive reactions were observed at every stage of
+follicles containing ZP, namely the secondary, antral, and atretic follicles (<xref ref-type="fig" rid="fig_004">Fig. 4</xref><fig orientation="portrait" fig-type="figure" id="fig_004" position="float"><label>Fig. 4.</label><caption><p>Immunoreactivity of the A-2 mongoose antiserum against zona pellucida of various
+stages of follicles. PF: primary follicle, SF: secondary follicle, TF: tertiary
+follicle, GF: Graafian follicle, and AF: atretic follicle. Arrowheads: zona
+pellucida. Bar=100 <italic>&#x000b5;</italic>m.</p></caption><graphic xlink:href="jvms-81-328-g004"/></fig>). Because of the nature of this experimental condition, especially in ovary blood
+vessels, diffused nonspecific reactions were observed; however, these were minimal to
+ignorable compared with the positive reactions.</p></sec><sec><title>Specificity of antigen-antibody reaction</title><p>To confirm the specificity of the antigen-antibody reaction, sera absorbed with the
+peptide were tested using IHC. Based on the results, the positive reactions disappeared or
+decreased in the absorbed sera (<xref ref-type="fig" rid="fig_005">Fig. 5</xref><fig orientation="portrait" fig-type="figure" id="fig_005" position="float"><label>Fig. 5.</label><caption><p>Immunoreactivity of immunized mongoose sera with synthetic peptides and absorbed
+sera with each peptide against normal mongoose ovary in IHC. a: A-2 antiserum, b:
+A-2 antiserum absorbed with peptide A, c: B-1 antiserum, and d: B-1 antiserum
+absorbed with peptide B. Arrowheads: zona pellucida. Bars=50
+<italic>&#x000b5;</italic>m.</p></caption><graphic xlink:href="jvms-81-328-g005"/></fig>). The A-2 serum showed the strongest reaction in IHC, and, when co-incubated with
+peptide A, lost the specific positive reactions with ZP, but not the nonspecific reactions
+(<xref ref-type="fig" rid="fig_005">Fig. 5a, 5b</xref>). In the group B, the positive
+reactions did not disappear completely, but became weaker in the absorbed serum than in
+the non-absorbed serum (<xref ref-type="fig" rid="fig_005">Fig. 5c, 5d</xref>).</p></sec><sec><title>Species-specificity of induced rabbit antibodies</title><p>Antigen-antibody reactions were observed in each serum sample derived from rabbits
+immunized with peptide A or B, and the reactions were specific to mongoose ovary (<xref ref-type="fig" rid="fig_006">Fig. 6</xref><fig orientation="portrait" fig-type="figure" id="fig_006" position="float"><label>Fig. 6.</label><caption><p>Immunoreactivity of immunized rabbit sera (a-2) with synthetic peptides A against
+ovary of various animal species in IHC. a: small Indian mongoose, b: Japanese
+marten, c: cat, d: dog, e: Japanese wild boar, and f: rabbit. Arrowheads: zona
+pellucida. Bars=50 <italic>&#x000b5;</italic>m.</p></caption><graphic xlink:href="jvms-81-328-g006"/></fig>). In the mongoose ovary section, rabbit antibodies bound to the ZP. The reaction
+did not depend on the stage of follicles (<xref ref-type="fig" rid="fig_006">Fig.
+6a</xref>). The positive reaction was remarkable in rabbit sera immunized with peptide A
+than in those immunized with peptide B (results not shown).</p></sec></sec><sec sec-type="discussion" id="s3"><title>DISCUSSION</title><p>According to the ELISA results, the immune response to the synthetic peptides A and B was
+confirmed in mongooses. Since peptides without KLH conjugation were used as a coated
+antigen, the induced antibodies were considered as the specific reactions against each
+peptide rather than the carrier protein. The capacity of peptide A to induce antibodies
+seemed to be superior to that of peptide B, even though these two synthetic peptides were
+suspected to include a common epitope sequence. However, there is a possibility that another
+epitope region in peptide A may be relatively excellent in the antigen presentation capacity
+of the immune system of mongoose.</p><p>The longevity of the antibody titers was at least 21 and 7 weeks in A-1 and B-2,
+respectively. Moreover, peptide A exhibited a longer antigenicity than peptide B. Abe (1995)
+reported that the life span of small Indian mongoose is 2 years or less in Amami-oshima
+Island [<xref rid="r1" ref-type="bibr">1</xref>], while the female estrus season spans
+mainly from March to August and generally occurs at 1 year of age [<xref rid="r37" ref-type="bibr">37</xref>]. Considering these reproductive biological characterizations, a
+single immunization by an 5-month lasting vaccine in spring would be applicable to keep the
+antibody titer for a most of breeding season. However, it must be noted that these results
+occurred after multiple direct immunizations of an antigen peptide amplified antigenicity
+and not suggested longevity of fertility suppressive effects furthermore in the oral
+vaccination. Prolongations of the lifespan and/or the breeding season were also reported in
+some species treated with contraceptive vaccines [<xref rid="r22" ref-type="bibr">22</xref>,
+<xref rid="r41" ref-type="bibr">41</xref>, <xref rid="r50" ref-type="bibr">50</xref>];
+hence, the effect of increased longevity and breeding season on the duration of the
+contraceptive effect would have to be considered.</p><p>We did not observe any significant results in the immune memory test to be able to judge
+whether the immune memory had been induced. It is worth noting that the induction of immune
+memory is nonessential but helpful to solid fertility control. The immune memory may be
+improved by variations of the vaccination route or by additional modification of the antigen
+agents [<xref rid="r13" ref-type="bibr">13</xref>].</p><p>Although not shown, no inflammation or other histological disorders were observed in the
+ovary tissues of all treated animals. The peptides evaluated in this study did not seem to
+affect the ovary or oocytes histologically, although previous studies have indicated the
+presence or absence of ovaritis [<xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r20" ref-type="bibr">20</xref>]. The
+correlation between ovaritis and contraceptive effect is still unknown, while absence of
+disorders is important from the perspective of animal welfare [<xref rid="r21" ref-type="bibr">21</xref>, <xref rid="r39" ref-type="bibr">39</xref>, <xref rid="r41" ref-type="bibr">41</xref>]. Although considered invasive alien species, the pain attendant on
+treatment should be minimized [<xref rid="r40" ref-type="bibr">40</xref>].</p><p>It is well established that ZP consists of three to four types of glycoproteins containing
+a ZP module (ZP 1&#x02013;4); it is synthesized by oocytes from the secondary follicle period and is
+post-translationally modified with a sugar chain [<xref rid="r2" ref-type="bibr">2</xref>,
+<xref rid="r4" ref-type="bibr">4</xref>]. Furthermore, ZP3 is a principal glycoprotein
+that is implicated in the primary binding of sperms and has a high species-specificity
+[<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r4" ref-type="bibr">4</xref>].
+Antibodies induced by treatment with synthesized ZP3 peptides bound to mongoose ZP, and
+recognized ZP at every stage of follicles forming ZP. Moreover, these antigen-antibody
+responses were specific based on the experiment using antibodies absorbed with antigen
+peptides. These results indicated that the exogenous antigens stimulated a specific
+<italic>in vivo</italic> response to endogenous ZP proteins in the mongooses, and that the
+ZP3 epitope regions targeted by the antibodies are expressed from an early ZP stage, which
+is unsusceptible to its maturation. Ideally, control sera in the absorption test should be
+co-incubated with unrelated peptide to immunization. However, all sera were diluted with a
+blocking solution that contained more miscellaneous proteins. Thus, the possibility that the
+peptide solution impeded the antigen-antibody responses nonspecifically would be
+rejected.</p><p><xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Summarized the results of ELISA and histological analysis</title></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="3" align="center" valign="middle" colspan="1">Group name (treatment)</th><th rowspan="3" align="center" valign="middle" colspan="1">Individual No.</th><th colspan="2" align="center" valign="middle" rowspan="1">Antibody titer (absorbance at 450&#x02013;655 nm)</th><th rowspan="3" align="center" valign="middle" colspan="1">Reactibity<break/>in IHC</th><th rowspan="3" align="center" valign="middle" colspan="1">Pathological<break/>findings</th></tr><tr><th colspan="2" rowspan="1"><hr/></th></tr><tr><th align="center" rowspan="1" colspan="1">Pre-immuned</th><th align="center" rowspan="1" colspan="1">Immuned (4 times)</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="3" colspan="1">Group A (peptide A)</td><td align="left" rowspan="1" colspan="1">A-1</td><td align="center" rowspan="1" colspan="1">0.231 &#x000b1; 0.017</td><td align="center" rowspan="1" colspan="1">1.922 &#x000b1; 0.067</td><td align="center" rowspan="1" colspan="1">++</td><td align="center" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" rowspan="1" colspan="1">A-2</td><td align="center" rowspan="1" colspan="1">0.242 &#x000b1; 0.021</td><td align="center" rowspan="1" colspan="1">1.548 &#x000b1; 0.079</td><td align="center" rowspan="1" colspan="1">+++</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">A-3</td><td align="center" rowspan="1" colspan="1">0.244 &#x000b1; 0.011</td><td align="center" rowspan="1" colspan="1">1.056 &#x000b1; 0.052</td><td align="center" rowspan="1" colspan="1">++</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" valign="top" rowspan="3" colspan="1">Group B (peptide B)</td><td align="left" rowspan="1" colspan="1">B-1</td><td align="center" rowspan="1" colspan="1">0.208 &#x000b1; 0.004</td><td align="center" rowspan="1" colspan="1">0.637 &#x000b1; 0.012</td><td align="center" rowspan="1" colspan="1">+</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">B-2</td><td align="center" rowspan="1" colspan="1">0.229 &#x000b1; 0.013</td><td align="center" rowspan="1" colspan="1">0.689 &#x000b1; 0.001</td><td align="center" rowspan="1" colspan="1">&#x000b1;</td><td align="center" rowspan="1" colspan="1">ND</td></tr><tr><td align="left" rowspan="1" colspan="1">B-3</td><td align="center" rowspan="1" colspan="1">0.262 &#x000b1; 0.026</td><td align="center" rowspan="1" colspan="1">0.442 &#x000b1; 0.009</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" valign="top" rowspan="3" colspan="1">Group C (control)</td><td align="left" rowspan="1" colspan="1">C-1</td><td align="center" colspan="2" rowspan="1">0.257 &#x000b1; 0.004 (peptide A)/0.254 &#x000b1; 0.019 (peptide
+B)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">C-2</td><td align="center" colspan="2" rowspan="1">0.234 &#x000b1; 0.010 (peptide A)/0.239 &#x000b1; 0.005 (peptide
+B)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">C-3</td><td align="center" colspan="2" rowspan="1">0.253 &#x000b1; 0.014 (peptide A)/0.288 &#x000b1; 0.029 (peptide
+B)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td></tr></tbody></table><table-wrap-foot><p>+++: marked, ++: moderate, +: mild, &#x000b1;: mild to negative, &#x02013;: negative, ND: no
+data.</p></table-wrap-foot></table-wrap> summarized the results of the ELISA and IHC assays. There was a general
+correlation between the treated groups in the strength of the reaction in both assays,
+within group variation; for example, the A-1 serum showed the highest antibody titer in
+ELISA and the second strongest response in IHC. These discrepancies may be due to the
+differences of the target antigen or the other conditions between ELISA and IHC. The
+combination of tissues and primary antibodies originating from the same tissue species,
+i.e., mongoose-mongoose, should be avoided in IHC. The secondary antibodies also bind to
+endogenous immunoglobulin, which results in nonspecific reactions [<xref rid="r11" ref-type="bibr">11</xref>]. However, immune sera had high specificity to mongoose ZP enough. In
+addition, by appropriately adjusting the dilution concentration and incubation condition of
+the sera and secondary antibodies, the nonspecific reactions were minimized and the specific
+reactions were potentiated.</p><p>The synthetic peptides used in this study, especially peptide A, seemed useful as vaccine
+candidates. As a next step, we have to evaluate the actual fertility suppressive effect of
+the peptides. Only after a successful inhibition of pregnancy may we discuss whether the
+quantity of the antibody titer is effective or not. Although it has not been explained
+completely, the actual inhibitory pathway for fertilization by immunocontraception is
+assumed to be the immune response against the oocytes in follicles and/or ovulated [<xref rid="r20" ref-type="bibr">20</xref>]. Nevertheless, there is likely to be a correlation
+between the antibody titer and the fertilization suppressive effect. However, a previous
+immunocontraceptive study in mice has reported no correlation between them [<xref rid="r12" ref-type="bibr">12</xref>].</p><p>Immunized rabbit sera with the same synthetic peptides showed mongoose-specific responses
+in IHC using ovary tissues of various animals, including rabbit. This result may mean a
+certain species-specificity of synthetic peptides. However, actual specificity of
+contraceptive effect should be mentioned after it has been proved that these synthetic
+peptides do not affect any animals other than mongoose. On that account, it has to be
+confirmed by the vaccination of synthetic peptides to various species; especially sympatric
+animals with mongoose in Japan. Rare species that are difficult to use for experiments are
+included within them. So, there is a necessity for obtaining a suitable permission or using
+some experimental animals as a substitute for them.</p><p>Remarkable differences in the immune response between animals were not observed in this
+small-scale study. However, the individual differences in the immune response possibility
+have a negative impact on the fertility control in the mongoose population. Selection
+pressure will be applied on the mongooses&#x02019; acquired resistance to the fertility suppressive
+effects of contraceptive vaccines, which can lead the dominant character of the mongoose
+population to vaccine resistance [<xref rid="r42" ref-type="bibr">42</xref>]. To avoid such
+&#x0201c;adverse effects of immunocontraceptive vaccines&#x0201d;, we have to identify the frequency of
+appearance of individuals potentially resistant to the fertility suppression and estimate
+the population suppressive effects of contraception under various patterns [<xref rid="r42" ref-type="bibr">42</xref>, <xref rid="r44" ref-type="bibr">44</xref>].</p><p>To deliver an immunocontraceptive vaccine to free-roaming wildlife animals, which are
+particularly difficult to access, remote methods for vaccination (vaccine delivery systems)
+are necessary [<xref rid="r43" ref-type="bibr">43</xref>]. Some oral vaccine delivery agents
+have been already devised for immunocontraceptive vaccines (e.g., variety of virus vectors,
+bacterial ghosts, and liposomes) [<xref rid="r5" ref-type="bibr">5</xref>, <xref rid="r47" ref-type="bibr">47</xref>, <xref rid="r48" ref-type="bibr">48</xref>].
+Particularly in Japan, the diffusion of recombinant biological vectors into the field is
+prohibited legally. Therefore, no proliferative delivery systems such as bacterial ghosts
+and liposomes have the potential to be applied to control the mongoose population [<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r25" ref-type="bibr">25</xref>, <xref rid="r48" ref-type="bibr">48</xref>]. These
+should be selected after investigating further, the compatibility with vaccines and the cost
+effectiveness.</p></sec></body><back><ack><p>We are grateful to Katsushi Nakata and the other staffs of Yambaru
+Wildlife Conservation Center (Ufugi Nature Museum) for cooperation in this study. This work
+was supported by JSPS KAKENHI Grant Number 26430203, the Global Environment Research Fund
+(4-1401, Leader: K. Goka) of the Ministry of the Environment, Japan, 2014 and a
+grants-in-aid of The Inui Memorial Trust for Research on Animal Science, Japan.</p></ack><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Abe</surname><given-names>S.</given-names></name></person-group><year>1995</year>
+<article-title>Age determination of mongoose on
+Amami-oshima Island based on eye lens weight</article-title>.
+<source><italic>Chirimosu</italic></source><volume>6</volume>:
+<fpage>34</fpage>&#x02013;<lpage>43</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Akatsuka</surname><given-names>K.</given-names></name><name><surname>Yoshida-Komiya</surname><given-names>H.</given-names></name><name><surname>Tulsiani</surname><given-names>D. R. P.</given-names></name><name><surname>Orgebin-Crist</surname><given-names>M. C.</given-names></name><name><surname>Hiroi</surname><given-names>M.</given-names></name><name><surname>Araki</surname><given-names>Y.</given-names></name></person-group><year>1998</year>. <article-title>Rat zona pellucida glycoproteins:
+molecular cloning and characterization of the three major components</article-title>.
+<source><italic>Mol. Reprod. Dev.</italic></source><volume>51</volume>:
+<fpage>454</fpage>&#x02013;<lpage>467</lpage>. doi: <pub-id pub-id-type="doi">10.1002/(SICI)1098-2795(199812)51:4&#x0003c;454::AID-MRD13&#x0003e;3.0.CO;2-G</pub-id><?supplied-pmid 9820205?><pub-id pub-id-type="pmid">9820205</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Bennett</surname><given-names>C. E.</given-names></name><name><surname>Wilson</surname><given-names>B. S.</given-names></name><name><surname>Desalle</surname><given-names>R.</given-names></name></person-group><year>2011</year>. <article-title>DNA barcoding of an invasive mammal
+species, the small Indian mongoose (<italic>Herpestes javanicus</italic>; E. Geoffroy
+Saint-Hillaire 1818) in the Caribbean and Hawaiian Islands</article-title>.
+<source><italic>Mitochondrial DNA</italic></source><volume>22</volume>:
+<fpage>12</fpage>&#x02013;<lpage>18</lpage>. doi: <pub-id pub-id-type="doi">10.3109/19401736.2010.542241</pub-id><?supplied-pmid 21732719?><pub-id pub-id-type="pmid">21732719</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Bleil</surname><given-names>J. D.</given-names></name><name><surname>Wassarman</surname><given-names>P. M.</given-names></name></person-group><year>1980</year>. <article-title>Mammalian sperm-egg interaction:
+identification of a glycoprotein in mouse egg zonae pellucidae possessing receptor
+activity for sperm</article-title>.
+<source><italic>Cell</italic></source><volume>20</volume>:
+<fpage>873</fpage>&#x02013;<lpage>882</lpage>. doi: <pub-id pub-id-type="doi">10.1016/0092-8674(80)90334-7</pub-id><?supplied-pmid 7418009?><pub-id pub-id-type="pmid">7418009</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Cross</surname><given-names>M. L.</given-names></name><name><surname>Fleming</surname><given-names>S. B.</given-names></name><name><surname>Cowan</surname><given-names>P. E.</given-names></name><name><surname>Scobie</surname><given-names>S.</given-names></name><name><surname>Whelan</surname><given-names>E.</given-names></name><name><surname>Prada</surname><given-names>D.</given-names></name><name><surname>Mercer</surname><given-names>A. A.</given-names></name><name><surname>Duckworth</surname><given-names>J. A.</given-names></name></person-group><year>2011</year>. <article-title>Vaccinia virus as a vaccine delivery
+system for marsupial wildlife</article-title>.
+<source><italic>Vaccine</italic></source><volume>29</volume>:
+<fpage>4537</fpage>&#x02013;<lpage>4543</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2011.04.093</pub-id><?supplied-pmid 21570435?><pub-id pub-id-type="pmid">21570435</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Cui</surname><given-names>X.</given-names></name><name><surname>Duckworth</surname><given-names>J. A.</given-names></name><name><surname>Lubitz</surname><given-names>P.</given-names></name><name><surname>Molinia</surname><given-names>F. C.</given-names></name><name><surname>Haller</surname><given-names>C.</given-names></name><name><surname>Lubitz</surname><given-names>W.</given-names></name><name><surname>Cowan</surname><given-names>P. E.</given-names></name></person-group><year>2010</year>. <article-title>Humoral immune responses in brushtail
+possums (<italic>Trichosurus vulpecula</italic>) induced by bacterial ghosts expressing
+possum zona pellucida 3 protein</article-title>.
+<source><italic>Vaccine</italic></source><volume>28</volume>:
+<fpage>4268</fpage>&#x02013;<lpage>4274</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2010.04.032</pub-id><?supplied-pmid 20434548?><pub-id pub-id-type="pmid">20434548</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Curtis</surname><given-names>P. D.</given-names></name><name><surname>Richmond</surname><given-names>M. E.</given-names></name><name><surname>Miller</surname><given-names>L. A.</given-names></name><name><surname>Quimby</surname><given-names>F. W.</given-names></name></person-group><year>2007</year>. <article-title>Pathophysiology of white-tailed deer
+vaccinated with porcine zona pellucida immunocontraceptive</article-title>.
+<source><italic>Vaccine</italic></source><volume>25</volume>:
+<fpage>4623</fpage>&#x02013;<lpage>4630</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2007.03.033</pub-id><?supplied-pmid 17475371?><pub-id pub-id-type="pmid">17475371</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Duckworth</surname><given-names>J. A.</given-names></name><name><surname>Wilson</surname><given-names>K.</given-names></name><name><surname>Cui</surname><given-names>X.</given-names></name><name><surname>Molinia</surname><given-names>F. C.</given-names></name><name><surname>Cowan</surname><given-names>P. E.</given-names></name></person-group><year>2007</year>. <article-title>Immunogenicity and contraceptive
+potential of three infertility-relevant zona pellucida 2 epitopes in the marsupial
+brushtail possum (<italic>Trichosurus vulpecula</italic>)</article-title>.
+<source><italic>Reproduction</italic></source><volume>133</volume>:
+<fpage>177</fpage>&#x02013;<lpage>186</lpage>. doi: <pub-id pub-id-type="doi">10.1530/REP-06-0088</pub-id><?supplied-pmid 17244744?><pub-id pub-id-type="pmid">17244744</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Fayrer-Hosken</surname><given-names>R. A.</given-names></name><name><surname>Grobler</surname><given-names>D.</given-names></name><name><surname>Van Altena</surname><given-names>J. J.</given-names></name><name><surname>Bertschinger</surname><given-names>H. J.</given-names></name><name><surname>Kirkpatrick</surname><given-names>J. F.</given-names></name></person-group><year>2000</year>. <article-title>Immunocontraception of African
+elephants</article-title>. <source><italic>Nature</italic></source><volume>407</volume>:
+<fpage>149</fpage>. doi: <pub-id pub-id-type="doi">10.1038/35025136</pub-id><?supplied-pmid 11001042?><pub-id pub-id-type="pmid">11001042</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Ganeshpurkar</surname><given-names>A.</given-names></name><name><surname>Ganeshpurkar</surname><given-names>A.</given-names></name><name><surname>Pandey</surname><given-names>V.</given-names></name><name><surname>Agnihotri</surname><given-names>A.</given-names></name><name><surname>Bansal</surname><given-names>D.</given-names></name><name><surname>Dubey</surname><given-names>N.</given-names></name></person-group><year>2014</year>. <article-title>Harnessing the potential of bacterial
+ghost for the effective delivery of drugs and biotherapeutics</article-title>.
+<source><italic>Int. J. Pharm. Investig.</italic></source><volume>4</volume>:
+<fpage>1</fpage>&#x02013;<lpage>4</lpage>. doi: <pub-id pub-id-type="doi">10.4103/2230-973X.127733</pub-id><?supplied-pmid 24678455?><pub-id pub-id-type="pmid">24678455</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Goodpaster</surname><given-names>T.</given-names></name><name><surname>Randolph-Habecker</surname><given-names>J.</given-names></name></person-group><year>2014</year>. <article-title>A flexible mouse-on-mouse
+immunohistochemical staining technique adaptable to biotin-free reagents,
+immunofluorescence, and multiple antibody staining</article-title>. <source><italic>J.
+Histochem. Cytochem.</italic></source><volume>62</volume>:
+<fpage>197</fpage>&#x02013;<lpage>204</lpage>. doi: <pub-id pub-id-type="doi">10.1369/0022155413511620</pub-id><?supplied-pmid 24152994?><pub-id pub-id-type="pmid">24152994</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Hardy</surname><given-names>C. M.</given-names></name><name><surname>Beaton</surname><given-names>S.</given-names></name><name><surname>Hinds</surname><given-names>L. A.</given-names></name></person-group><year>2008</year>. <article-title>Immunocontraception in mice using
+repeated, multi-antigen peptides: immunization with purified recombinant
+antigens</article-title>. <source><italic>Mol. Reprod.
+Dev.</italic></source><volume>75</volume>: <fpage>126</fpage>&#x02013;<lpage>135</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/mrd.20745</pub-id><?supplied-pmid 17474093?><pub-id pub-id-type="pmid">17474093</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>Hernandez-Medrano</surname><given-names>J. H.</given-names></name><name><surname>Williams</surname><given-names>R. W.</given-names></name><name><surname>van Drunen Littel-van den Hurk</surname><given-names>S.</given-names></name><name><surname>Peters</surname><given-names>A. R.</given-names></name><name><surname>Hannant</surname><given-names>D.</given-names></name><name><surname>Campbell</surname><given-names>B. K.</given-names></name><name><surname>Webb</surname><given-names>R.</given-names></name></person-group><year>2013</year>. <article-title>Early postnatal immunisation against
+gonadotrophin-releasing hormone induces a high but differential immune response in
+heifer calves</article-title>. <source><italic>Res. Vet.
+Sci.</italic></source><volume>95</volume>: <fpage>472</fpage>&#x02013;<lpage>479</lpage>. doi:
+<pub-id pub-id-type="doi">10.1016/j.rvsc.2013.05.014</pub-id><?supplied-pmid 23778305?><pub-id pub-id-type="pmid">23778305</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Higa</surname><given-names>H. H.</given-names></name><name><surname>Fujinaka</surname><given-names>I. T.</given-names></name></person-group><year>1976</year>. <article-title>Prevalence of rodent and mongoose
+leptospirosis on the Island of Oahu</article-title>. <source><italic>Public Health
+Rep.</italic></source><volume>91</volume>: <fpage>171</fpage>&#x02013;<lpage>177</lpage>.
+<?supplied-pmid 822470?><pub-id pub-id-type="pmid">822470</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="book"><person-group><name><surname>Ikeda</surname><given-names>T.</given-names></name><name><surname>Yamada</surname><given-names>F.</given-names></name></person-group><year>2011</year> Overseas countermeasures against alien mammals. pp.
+59&#x02013;76 <italic>In</italic>: Invasive Alien Mammals in Japan: Biology of Control Strategy
+and Conservation, 1st ed. (Yamada, F., Ikeda, T. and Ogura, G. eds.), University of Tokyo
+Press, Tokyo (in Japanese).</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Ishibashi</surname><given-names>O.</given-names></name><name><surname>Ogura</surname><given-names>G.</given-names></name></person-group><year>2012</year>
+<article-title>Present situation of mongoose in Japan
+and survey of Leptospira in mongoose</article-title>. <source><italic>Chikyu
+Kankyou</italic></source>. <volume>17</volume>: <fpage>193</fpage>&#x02013;<lpage>202</lpage>
+(in Japanese).</mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Ishibashi</surname><given-names>O.</given-names></name><name><surname>Sumida</surname><given-names>K.</given-names></name><name><surname>Iizuka</surname><given-names>S.</given-names></name><name><surname>Sudo</surname><given-names>K.</given-names></name><name><surname>Yamashita</surname><given-names>K.</given-names></name><name><surname>Ogura</surname><given-names>G.</given-names></name><name><surname>Sunagawa</surname><given-names>K.</given-names></name><name><surname>Nakada</surname><given-names>T.</given-names></name></person-group><year>2008</year>
+<article-title>Selection and test of the serodiagnostic
+test with IgG-ELISA method in the small Asian mongoose. <italic>The Science Bulletin of
+the Faculty of Agriculture</italic></article-title>. <source><italic>University of the
+Ryukyus</italic></source>. <volume>55</volume>:
+<fpage>7</fpage>&#x02013;<lpage>10</lpage><comment>(in Japanese with English
+abstract)</comment>.</mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="eref">Invasive Species Specialist
+Group<year>2011</year> Groval Invasive Species Datebase. <ext-link ext-link-type="uri" xlink:href="http://www.iucngisd.org/gisd/species.php?sc=86">http://www.iucngisd.org/gisd/species.php?sc=86</ext-link> [accessed on November 5,
+2017].</mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Ji</surname><given-names>W.</given-names></name><name><surname>Clout</surname><given-names>M. N.</given-names></name><name><surname>Sarre</surname><given-names>S. D.</given-names></name></person-group><year>2000</year>
+<article-title>Responses of male brushtail possums to
+sterile females: implications for biological control</article-title>. <source><italic>J.
+Appl. Ecol.</italic></source><volume>37</volume>:
+<fpage>926</fpage>&#x02013;<lpage>934</lpage>. doi: <pub-id pub-id-type="doi">10.1046/j.1365-2664.2000.00546.x</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Joon&#x000e8;</surname><given-names>C. J.</given-names></name><name><surname>Schulman</surname><given-names>M. L.</given-names></name><name><surname>Bertschinger</surname><given-names>H. J.</given-names></name></person-group><year>2017</year>. <article-title>Ovarian dysfunction associated with zona
+pellucida-based immunocontraceptive vaccines</article-title>.
+<source><italic>Theriogenology</italic></source><volume>89</volume>:
+<fpage>329</fpage>&#x02013;<lpage>337</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.theriogenology.2016.09.018</pub-id><?supplied-pmid 27771114?><pub-id pub-id-type="pmid">27771114</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Kirkpatrick</surname><given-names>J. F.</given-names></name><name><surname>Turner</surname><given-names>A.</given-names></name></person-group><year>2002</year>. <article-title>Reversibility of action and safety during
+pregnancy of immunization against porcine zona pellucida in wild mares (Equus
+caballus)</article-title>. <source><italic>Reprod.
+Suppl.</italic></source><volume>60</volume>: <fpage>197</fpage>&#x02013;<lpage>202</lpage>.
+<?supplied-pmid 12220160?><pub-id pub-id-type="pmid">12220160</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Kirkpatrick</surname><given-names>J. F.</given-names></name><name><surname>Turner</surname><given-names>A.</given-names></name></person-group><year>2007</year>. <article-title>Immunocontraception and increased
+longevity in equids</article-title>. <source><italic>Zoo
+Biol.</italic></source><volume>26</volume>: <fpage>237</fpage>&#x02013;<lpage>244</lpage>. doi:
+<pub-id pub-id-type="doi">10.1002/zoo.20109</pub-id><?supplied-pmid 19360577?><pub-id pub-id-type="pmid">19360577</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Kirkpatrick</surname><given-names>J. F.</given-names></name><name><surname>Turner</surname><given-names>J. W.</given-names></name></person-group><year>1991</year>
+<article-title>Compensatory reproduction in feral
+horses</article-title>. <source><italic>J. Wildl.
+Manage.</italic></source><volume>55</volume>: <fpage>649</fpage>&#x02013;<lpage>652</lpage>.
+doi: <pub-id pub-id-type="doi">10.2307/3809514</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Kirkpatrick</surname><given-names>J. F.</given-names></name><name><surname>Calle</surname><given-names>P. P.</given-names></name><name><surname>Kalk</surname><given-names>P.</given-names></name><name><surname>Liu</surname><given-names>I. K. M.</given-names></name><name><surname>Turner</surname><given-names>J. W.</given-names></name></person-group><year>1996</year>
+<article-title>Immunocontraception of captive exotic
+species. II. Formosan sika deer (<italic>Cervus nippon taiouanus</italic>), axis deer
+(<italic>Cervus axis</italic>), Himalayan tahr (<italic>Hemitragus
+jemlahicus</italic>), Roosevelt elk (<italic>Cervus elaphus roosevelti</italic>),
+Reeves&#x02019; muntjac (<italic>Muntiacus reevesi</italic>), and sambar deer (<italic>Cervus
+unicolor</italic>)</article-title>. <source><italic>J. Zoo Wildl.
+Med.</italic></source><volume>27</volume>:
+<fpage>482</fpage>&#x02013;<lpage>495</lpage>.</mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>Langemann</surname><given-names>T.</given-names></name><name><surname>Koller</surname><given-names>V. J.</given-names></name><name><surname>Muhammad</surname><given-names>A.</given-names></name><name><surname>Kudela</surname><given-names>P.</given-names></name><name><surname>Mayr</surname><given-names>U. B.</given-names></name><name><surname>Lubitz</surname><given-names>W.</given-names></name></person-group><year>2010</year>. <article-title>The Bacterial Ghost platform system:
+production and applications</article-title>. <source><italic>Bioeng.
+Bugs</italic></source><volume>1</volume>: <fpage>326</fpage>&#x02013;<lpage>336</lpage>. doi:
+<pub-id pub-id-type="doi">10.4161/bbug.1.5.12540</pub-id><?supplied-pmid 21326832?><pub-id pub-id-type="pmid">21326832</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Levy</surname><given-names>J. K.</given-names></name><name><surname>Mansour</surname><given-names>M.</given-names></name><name><surname>Crawford</surname><given-names>P. C.</given-names></name><name><surname>Pohajdak</surname><given-names>B.</given-names></name><name><surname>Brown</surname><given-names>R. G.</given-names></name></person-group><year>2005</year>. <article-title>Survey of zona pellucida antigens for
+immunocontraception of cats</article-title>.
+<source><italic>Theriogenology</italic></source><volume>63</volume>:
+<fpage>1334</fpage>&#x02013;<lpage>1341</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.theriogenology.2004.07.015</pub-id><?supplied-pmid 15725441?><pub-id pub-id-type="pmid">15725441</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Levy</surname><given-names>J. K.</given-names></name><name><surname>Friary</surname><given-names>J. A.</given-names></name><name><surname>Miller</surname><given-names>L. A.</given-names></name><name><surname>Tucker</surname><given-names>S. J.</given-names></name><name><surname>Fagerstone</surname><given-names>K. A.</given-names></name></person-group><year>2011</year>. <article-title>Long-term fertility control in female
+cats with GonaCon&#x02122;, a GnRH immunocontraceptive</article-title>.
+<source><italic>Theriogenology</italic></source><volume>76</volume>:
+<fpage>1517</fpage>&#x02013;<lpage>1525</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.theriogenology.2011.06.022</pub-id><?supplied-pmid 21835455?><pub-id pub-id-type="pmid">21835455</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Liu</surname><given-names>I. K.</given-names></name><name><surname>Bernoco</surname><given-names>M.</given-names></name><name><surname>Feldman</surname><given-names>M.</given-names></name></person-group><year>1989</year>. <article-title>Contraception in mares heteroimmunized
+with pig zonae pellucidae</article-title>. <source><italic>J. Reprod.
+Fertil.</italic></source><volume>85</volume>: <fpage>19</fpage>&#x02013;<lpage>29</lpage>. doi:
+<pub-id pub-id-type="doi">10.1530/jrf.0.0850019</pub-id><?supplied-pmid 2915353?><pub-id pub-id-type="pmid">2915353</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Mask</surname><given-names>T. A.</given-names></name><name><surname>Schoenecker</surname><given-names>K. A.</given-names></name><name><surname>Kane</surname><given-names>A. J.</given-names></name><name><surname>Ransom</surname><given-names>J. I.</given-names></name><name><surname>Bruemmer</surname><given-names>J. E.</given-names></name></person-group><year>2015</year>. <article-title>Serum antibody immunoreactivity to equine
+zona protein after SpayVac vaccination</article-title>.
+<source><italic>Theriogenology</italic></source><volume>84</volume>:
+<fpage>261</fpage>&#x02013;<lpage>267</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.theriogenology.2015.03.012</pub-id><?supplied-pmid 25922172?><pub-id pub-id-type="pmid">25922172</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Middleton</surname><given-names>C. R.</given-names></name><name><surname>Ansdell</surname><given-names>V. E.</given-names></name><name><surname>Sasaki</surname><given-names>D. M.</given-names></name></person-group><year>2001</year>. <article-title>Of mice and mongooses ... a history of
+leptospirosis research in Hawaii</article-title>. <source><italic>Hawaii Med.
+J.</italic></source><volume>60</volume>: <fpage>179</fpage>&#x02013;<lpage>181,
+184&#x02013;186</lpage>. <?supplied-pmid 11496531?><pub-id pub-id-type="pmid">11496531</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group><name><surname>Miller</surname><given-names>L. A.</given-names></name><name><surname>Johns</surname><given-names>B. E.</given-names></name><name><surname>Killian</surname><given-names>G. J.</given-names></name></person-group><year>2000</year>. <article-title>Immunocontraception of white-tailed deer
+with GnRH vaccine</article-title>. <source><italic>Am. J. Reprod.
+Immunol.</italic></source><volume>44</volume>: <fpage>266</fpage>&#x02013;<lpage>274</lpage>.
+doi: <pub-id pub-id-type="doi">10.1111/j.8755-8920.2000.440503.x</pub-id><?supplied-pmid 11125787?><pub-id pub-id-type="pmid">11125787</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="eref">Ministory of the Environment
+Government of Japan <year>2016</year> List of Regulated Living Organisms under the
+Invasive Alien Species Act. <ext-link ext-link-type="uri" xlink:href="https://www.env.go.jp/nature/intro/2outline/files/siteisyu_list_e.pdf">https://www.env.go.jp/nature/intro/2outline/files/siteisyu_list_e.pdf</ext-link>
+[accessed on November 5, 2017].</mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="journal"><person-group><name><surname>Morley</surname><given-names>C. G.</given-names></name><name><surname>Winder</surname><given-names>L.</given-names></name></person-group><year>2013</year>. <article-title>The effect of the small Indian mongoose
+(<italic>Urva auropunctatus</italic>), island quality and habitat on the distribution
+of native and endemic birds on small islands within Fiji</article-title>.
+<source><italic>PLoS One</italic></source><volume>8</volume>: <fpage>e53842</fpage>.
+doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0053842</pub-id><?supplied-pmid 23349751?><pub-id pub-id-type="pmid">23349751</pub-id></mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="eref">Naha Nature Concervation Office,
+Ministory of the Environment Government of Japan. 2017. Result report of mongoose control
+project in North part of Okinawa Island of 2016 and execution plan of <year>2017</year>
+<ext-link ext-link-type="uri" xlink:href="http://kyushu.env.go.jp/naha/pre_2017/2829.html">http://kyushu.env.go.jp/naha/pre_2017/2829.html</ext-link> (in Japanese) [accessed on
+November 2, 2017].</mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group><name><surname>Nellis</surname><given-names>D. W.</given-names></name></person-group><year>1989</year>
+<article-title>Herpestes auropunctatus</article-title>.
+<source><italic>Mamm. Species</italic></source><volume>342</volume>:
+<fpage>1</fpage>&#x02013;<lpage>6</lpage>. doi: <pub-id pub-id-type="doi">10.2307/3504091</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group><name><surname>Ogura</surname><given-names>G.</given-names></name><name><surname>Kawashima</surname><given-names>Y.</given-names></name><name><surname>Oda</surname><given-names>S.</given-names></name></person-group><year>2003</year>
+<article-title>Analysis of captured small Asian
+mongooses, and present situation of countermeasures and problems</article-title>.
+<source><italic>J. Vet. Med.</italic></source><volume>56</volume>:
+<fpage>295</fpage>&#x02013;<lpage>301</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group><name><surname>Ogura</surname><given-names>G.</given-names></name><name><surname>Nonaka</surname><given-names>Y.</given-names></name><name><surname>Kawashima</surname><given-names>Y.</given-names></name><name><surname>Sakashita</surname><given-names>M.</given-names></name><name><surname>Nakachi</surname><given-names>M.</given-names></name><name><surname>Oda</surname><given-names>S.</given-names></name></person-group><year>2001</year>
+<article-title>Relationship between body size and sexual
+maturation, and seasonal change of reproductive activities in the female feral small
+Asian mongoose on Okinawa Island</article-title>. <source><italic>Jpn. J. Zoo Wildl.
+Med.</italic></source><volume>6</volume>:
+<fpage>7</fpage>&#x02013;<lpage>14</lpage><comment>(in Japanese with English
+abstract)</comment>. doi: <pub-id pub-id-type="doi">10.5686/jjzwm.6.7</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group><name><surname>Ogura</surname><given-names>G.</given-names></name><name><surname>Sasaki</surname><given-names>T.</given-names></name><name><surname>Toyama</surname><given-names>M.</given-names></name><name><surname>Takehara</surname><given-names>K.</given-names></name><name><surname>Nakachi</surname><given-names>M.</given-names></name><name><surname>Ishibashi</surname><given-names>O.</given-names></name><name><surname>Kawashima</surname><given-names>Y.</given-names></name><name><surname>Oda</surname><given-names>S.</given-names></name></person-group><year>2002</year>
+<article-title>Food habits of the feral small Asian
+mongoose (<italic>Herpestes javanicus</italic>) and impacts on native species in the
+north part of Okinawa Island</article-title>. <source><italic>Honyurui
+Kagaku</italic></source><volume>41</volume>:
+<fpage>53</fpage>&#x02013;<lpage>62</lpage><comment>(Mammalian
+Science)</comment>.</mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group><name><surname>Powell</surname><given-names>D. M.</given-names></name></person-group><year>1999</year>. <article-title>Preliminary evaluation of porcine zona
+pellucida (PZP) immunocontraception for behavioral effects in feral horses (Equus
+caballus)</article-title>. <source><italic>J. Appl. Anim. Welf.
+Sci.</italic></source><volume>2</volume>: <fpage>321</fpage>&#x02013;<lpage>335</lpage>. doi:
+<pub-id pub-id-type="doi">10.1207/s15327604jaws0204_6</pub-id><?supplied-pmid 16363936?><pub-id pub-id-type="pmid">16363936</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group><name><surname>Ramsey</surname><given-names>D.</given-names></name></person-group><year>2005</year>
+<article-title>Population dynamics of brushtail possums
+subject to fertility control</article-title>. <source><italic>J. Appl.
+Ecol.</italic></source><volume>42</volume>: <fpage>348</fpage>&#x02013;<lpage>360</lpage>. doi:
+<pub-id pub-id-type="doi">10.1111/j.1365-2664.2005.01006.x</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="journal"><person-group><name><surname>Ransom</surname><given-names>J. I.</given-names></name><name><surname>Cade</surname><given-names>B. S.</given-names></name><name><surname>Hobbs</surname><given-names>N. T.</given-names></name></person-group><year>2010</year>
+<article-title>Influences of immunocontraception on time
+budgets, social behavior, and body condition in feral horses</article-title>.
+<source><italic>Appl. Anim. Behav. Sci.</italic></source><volume>124</volume>:
+<fpage>51</fpage>&#x02013;<lpage>60</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.applanim.2010.01.015</pub-id></mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><person-group><name><surname>Ransom</surname><given-names>J. I.</given-names></name><name><surname>Powers</surname><given-names>J. G.</given-names></name><name><surname>Thompson Hobbs</surname><given-names>N.</given-names></name><name><surname>Baker</surname><given-names>D. L.</given-names></name></person-group><year>2014</year>. <article-title>Ecological feedbacks can reduce
+population-level efficacy of wildlife fertility control</article-title>.
+<source><italic>J. Appl. Ecol.</italic></source><volume>51</volume>:
+<fpage>259</fpage>&#x02013;<lpage>269</lpage>. doi: <pub-id pub-id-type="doi">10.1111/1365-2664.12166</pub-id><?supplied-pmid 25558083?><pub-id pub-id-type="pmid">25558083</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><person-group><name><surname>Sharma</surname><given-names>S.</given-names></name><name><surname>Hinds</surname><given-names>L. A.</given-names></name></person-group><year>2012</year>. <article-title>Formulation and delivery of vaccines:
+Ongoing challenges for animal management</article-title>. <source><italic>J. Pharm.
+Bioallied Sci.</italic></source><volume>4</volume>:
+<fpage>258</fpage>&#x02013;<lpage>266</lpage>. doi: <pub-id pub-id-type="doi">10.4103/0975-7406.103231</pub-id><?supplied-pmid 23248557?><pub-id pub-id-type="pmid">23248557</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal"><person-group><name><surname>Suppo</surname><given-names>C.</given-names></name><name><surname>Naulin</surname><given-names>J. M.</given-names></name><name><surname>Langlais</surname><given-names>M.</given-names></name><name><surname>Artois</surname><given-names>M.</given-names></name></person-group><year>2000</year>. <article-title>A modelling approach to vaccination and
+contraception programmes for rabies control in fox populations</article-title>.
+<source><italic>Proc. Biol. Sci.</italic></source><volume>267</volume>:
+<fpage>1575</fpage>&#x02013;<lpage>1582</lpage>. doi: <pub-id pub-id-type="doi">10.1098/rspb.2000.1180</pub-id><?supplied-pmid 11007334?><pub-id pub-id-type="pmid">11007334</pub-id></mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><person-group><name><surname>Toyama</surname><given-names>M.</given-names></name><name><surname>Ogura</surname><given-names>G.</given-names></name></person-group><year>1998</year>
+<article-title>In regard to the Introduction of the
+Common Grey Mongoose, Herpestes edwardsii into Okinawa in Okinawan
+Newspapers</article-title>. <source><italic>Bulletin of the Historiographical Study on
+Okinawan History</italic></source><volume>4</volume>:
+<fpage>141</fpage>&#x02013;<lpage>170</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><person-group><name><surname>Veron</surname><given-names>G.</given-names></name><name><surname>Patou</surname><given-names>M.L.</given-names></name><name><surname>Pothet</surname><given-names>G.</given-names></name><name><surname>Simberloff</surname><given-names>D.</given-names></name><name><surname>Jennings</surname><given-names>A. P.</given-names></name></person-group><year>2007</year>
+<article-title>Systematic status and biogeography of the
+Javan and small Indian mongooses (Herpestidae, Carnivora)</article-title>.
+<source><italic>Zool. Scr.</italic></source><volume>36</volume>:
+<fpage>1</fpage>&#x02013;<lpage>10</lpage>. doi: <pub-id pub-id-type="doi">10.1111/j.1463-6409.2006.00261.x</pub-id></mixed-citation></ref><ref id="r47"><label>47</label><mixed-citation publication-type="journal"><person-group><name><surname>Vos</surname><given-names>A.</given-names></name><name><surname>Kretzschmar</surname><given-names>A.</given-names></name><name><surname>Ortmann</surname><given-names>S.</given-names></name><name><surname>Lojkic</surname><given-names>I.</given-names></name><name><surname>Habla</surname><given-names>C.</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>T.</given-names></name><name><surname>Kaiser</surname><given-names>C.</given-names></name><name><surname>Hundt</surname><given-names>B.</given-names></name><name><surname>Schuster</surname><given-names>P.</given-names></name></person-group><year>2013</year>. <article-title>Oral vaccination of captive small Indian
+mongoose (<italic>Herpestes auropunctatus</italic>) against rabies</article-title>.
+<source><italic>J. Wildl. Dis.</italic></source><volume>49</volume>:
+<fpage>1033</fpage>&#x02013;<lpage>1036</lpage>. doi: <pub-id pub-id-type="doi">10.7589/2013-02-035</pub-id><?supplied-pmid 24502736?><pub-id pub-id-type="pmid">24502736</pub-id></mixed-citation></ref><ref id="r48"><label>48</label><mixed-citation publication-type="journal"><person-group><name><surname>Walcher</surname><given-names>P.</given-names></name><name><surname>Cui</surname><given-names>X.</given-names></name><name><surname>Arrow</surname><given-names>J. A.</given-names></name><name><surname>Scobie</surname><given-names>S.</given-names></name><name><surname>Molinia</surname><given-names>F. C.</given-names></name><name><surname>Cowan</surname><given-names>P. E.</given-names></name><name><surname>Lubitz</surname><given-names>W.</given-names></name><name><surname>Duckworth</surname><given-names>J. A.</given-names></name></person-group><year>2008</year>. <article-title>Bacterial ghosts as a delivery system for
+zona pellucida-2 fertility control vaccines for brushtail possums (<italic>Trichosurus
+vulpecula</italic>)</article-title>.
+<source><italic>Vaccine</italic></source><volume>26</volume>:
+<fpage>6832</fpage>&#x02013;<lpage>6838</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2008.09.088</pub-id><?supplied-pmid 18948157?><pub-id pub-id-type="pmid">18948157</pub-id></mixed-citation></ref><ref id="r49"><label>49</label><mixed-citation publication-type="journal"><person-group><name><surname>Watari</surname><given-names>Y.</given-names></name><name><surname>Takatsuki</surname><given-names>S.</given-names></name><name><surname>Miyashita</surname><given-names>T.</given-names></name></person-group><year>2008</year>
+<article-title>Effects of exotic mongoose
+(<italic>Herpestes javanicsus</italic>) on the native fauna of Amami-Oshima Island,
+southern Japan, estimated by distribution patterns along the historical gradient of
+mongoose invasion</article-title>. <source><italic>Biol.
+Invasions</italic></source><volume>10</volume>: <fpage>7</fpage>&#x02013;<lpage>17</lpage>. doi:
+<pub-id pub-id-type="doi">10.1007/s10530-007-9100-6</pub-id></mixed-citation></ref><ref id="r50"><label>50</label><mixed-citation publication-type="journal"><person-group><name><surname>Williams</surname><given-names>J. S.</given-names></name></person-group><year>1999</year>
+<article-title>Compensatory Reproduction and dispersal
+in an introduced mountain goat population in central Montana</article-title>.
+<source><italic>Wildl. Soc. Bull.</italic></source><volume>27</volume>:
+<fpage>1019</fpage>&#x02013;<lpage>1024</lpage>.</mixed-citation></ref><ref id="r51"><label>51</label><mixed-citation publication-type="journal"><person-group><name><surname>Yamada</surname><given-names>F.</given-names></name><name><surname>Sugimura</surname><given-names>K.</given-names></name><name><surname>Abe</surname><given-names>S.</given-names></name><name><surname>Handa</surname><given-names>Y.</given-names></name></person-group><year>2000</year>
+<article-title>Present status and conservation of the
+endangered Amami rabbit <italic>Pentalagus furnessi</italic></article-title>.
+<source><italic>Tropics</italic></source><volume>10</volume>:
+<fpage>87</fpage>&#x02013;<lpage>92</lpage>. doi: <pub-id pub-id-type="doi">10.3759/tropics.10.87</pub-id></mixed-citation></ref><ref id="r52"><label>52</label><mixed-citation publication-type="journal"><person-group><name><surname>Yogi</surname><given-names>M.</given-names></name><name><surname>Ogura</surname><given-names>G.</given-names></name><name><surname>Ishibashi</surname><given-names>O.</given-names></name><name><surname>Kawashima</surname><given-names>Y.</given-names></name><name><surname>Sunagawa</surname><given-names>K.</given-names></name><name><surname>Oda</surname><given-names>S.</given-names></name></person-group><year>2006</year>
+<article-title>Damages by the mongoose in the poultry
+industry of Okinawa Island</article-title>. <source><italic>J. Okinawan Anim.
+Husbandry</italic></source><volume>41</volume>:
+<fpage>5</fpage>&#x02013;<lpage>13</lpage><comment>(in Japanese)</comment>.</mixed-citation></ref></ref-list></back></article>

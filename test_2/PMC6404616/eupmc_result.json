@@ -1,0 +1,1206 @@
+{
+  "id": [
+    "30647105"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30647105"
+  ],
+  "pmcid": [
+    "PMC6404616"
+  ],
+  "doi": [
+    "10.1534/g3.118.201000"
+  ],
+  "title": [
+    "Comparative Genomic Screen in Two Yeasts Reveals Conserved Pathways in the Response Network to Phenol Stress."
+  ],
+  "authorString": [
+    "Alhoch B, Chen A, Chan E, Elkabti A, Fariña S, Gilbert C, Kang J, King B, Leung K, Levy J, Martin E, Mazer B, McKinney S, Moyzis A, Nurimba M, Ozaki M, Purvis-Roberts K, Rothman JM, Raju S, Selassie C, Smith O, Ticus J, Edwalds-Gilbert G, Negritto MC, Wang R, Tang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alhoch B"
+          ],
+          "firstName": [
+            "Bashar"
+          ],
+          "lastName": [
+            "Alhoch"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan E"
+          ],
+          "firstName": [
+            "Elaine"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Elkabti A"
+          ],
+          "firstName": [
+            "Asmaa"
+          ],
+          "lastName": [
+            "Elkabti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3254-207X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Fariña S"
+          ],
+          "firstName": [
+            "Sasha"
+          ],
+          "lastName": [
+            "Fariña"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilbert C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Gilbert"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "King B"
+          ],
+          "firstName": [
+            "Bradley"
+          ],
+          "lastName": [
+            "King"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Molecular Biology Program, Pomona College, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Levy J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazer B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Mazer"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Molecular Biology Program, Pomona College, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "McKinney S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "McKinney"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Moyzis A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Moyzis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Nurimba M"
+          ],
+          "firstName": [
+            "Margaret"
+          ],
+          "lastName": [
+            "Nurimba"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Ozaki M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Ozaki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Purvis-Roberts K"
+          ],
+          "firstName": [
+            "Kathleen"
+          ],
+          "lastName": [
+            "Purvis-Roberts"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1723-5968",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Rothman JM"
+          ],
+          "firstName": [
+            "Joshua Marc"
+          ],
+          "lastName": [
+            "Rothman"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Molecular Biology Program, Pomona College, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Raju S"
+          ],
+          "firstName": [
+            "Shravya"
+          ],
+          "lastName": [
+            "Raju"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Selassie C"
+          ],
+          "firstName": [
+            "Cynthia"
+          ],
+          "lastName": [
+            "Selassie"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7832-3331",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemistry Department, Pomona College, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Ticus J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Ticus"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Biology Program, Pomona College, Claremont, CA 91711."
+          ]
+        },
+        {
+          "fullName": [
+            "Edwalds-Gilbert G"
+          ],
+          "firstName": [
+            "Gretchen"
+          ],
+          "lastName": [
+            "Edwalds-Gilbert"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6027-8472",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711 gedwalds@kecksci.claremont.edu ztang@kecksci.claremont.edu Tina.Negritto@pomona.edu ruye_wang@hmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Negritto MC"
+          ],
+          "firstName": [
+            "M Cristina"
+          ],
+          "lastName": [
+            "Negritto"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3896-0694",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Biology Program, Pomona College, Claremont, CA 91711 gedwalds@kecksci.claremont.edu ztang@kecksci.claremont.edu Tina.Negritto@pomona.edu ruye_wang@hmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang R"
+          ],
+          "firstName": [
+            "Ruye"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Engineering Department, Harvey Mudd College, Claremont, CA 91711 gedwalds@kecksci.claremont.edu ztang@kecksci.claremont.edu Tina.Negritto@pomona.edu ruye_wang@hmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Z"
+          ],
+          "firstName": [
+            "Zhaohua"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0253-5194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711 gedwalds@kecksci.claremont.edu ztang@kecksci.claremont.edu Tina.Negritto@pomona.edu ruye_wang@hmc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0253-5194",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3254-207X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1723-5968",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3896-0694",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6027-8472",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7832-3331",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2791540"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "639-650"
+  ],
+  "abstractText": [
+    "Living organisms encounter various perturbations, and response mechanisms to such perturbations are vital for species survival. Defective stress responses are implicated in many human diseases including cancer and neurodegenerative disorders. Phenol derivatives, naturally occurring and synthetic, display beneficial as well as detrimental effects. The phenol derivatives in this study, butylated hydroxyanisole (BHA), butylated hydroxytoluene (BHT), and bisphenol A (BPA), are widely used as food preservatives and industrial chemicals. Conflicting results have been reported regarding their biological activity and correlation with disease development; understanding the molecular basis of phenol action is a key step for addressing issues relevant to human health. This work presents the first comparative genomic analysis of the genetic networks for phenol stress response in an evolutionary context of two divergent yeasts, Schizosaccharomyces pombe and Saccharomyces cerevisiae Genomic screening of deletion strain libraries of the two yeasts identified genes required for cellular response to phenol stress, which are enriched in human orthologs. Functional analysis of these genes uncovered the major signaling pathways involved. The results provide a global view of the biological events constituting the defense process, including cell cycle arrest, DNA repair, phenol detoxification by V-ATPases, reactive oxygen species alleviation, and endoplasmic reticulum stress relief through ergosterol and the unfolded protein response, revealing novel roles for these cellular pathways."
+  ],
+  "affiliation": [
+    "W.M. Keck Science Department, The Claremont Colleges, Claremont, CA 91711."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Howard Hughes Medical Institute"
+          ],
+          "acronym": [
+            "HHMI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schizosaccharomyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reactive Oxygen Species"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Butylated Hydroxyanisole"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benzhydryl Compounds"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Butylated Hydroxytoluene"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TO"
+                  ],
+                  "qualifierName": [
+                    "toxicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Repair"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Unfolded Protein Response"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endoplasmic Reticulum Stress"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Cycle Checkpoints"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Upr",
+        "Cell Cycle Regulation And Dna Repair",
+        "Comparative Genomic Screen",
+        "Ergosterol And V-atpase",
+        "Phenol Stress Response In Yeasts"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Phenols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Butylated Hydroxyanisole"
+          ],
+          "registryNumber": [
+            "25013-16-5"
+          ]
+        },
+        {
+          "name": [
+            "Benzhydryl Compounds"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Reactive Oxygen Species"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "bisphenol A"
+          ],
+          "registryNumber": [
+            "MLT3645I99"
+          ]
+        },
+        {
+          "name": [
+            "Butylated Hydroxytoluene"
+          ],
+          "registryNumber": [
+            "1P9D0Z171K"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6404616?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6404616"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.118.201000"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-17"
+  ],
+  "firstIndexDate": [
+    "2019-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-07"
+  ],
+  "firstPublicationDate": [
+    "2019-03-07"
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "id": [
+    "31649251"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31649251"
+  ],
+  "pmcid": [
+    "PMC6813315"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12829-8"
+  ],
+  "title": [
+    "Genome-wide microhomologies enable precise template-free editing of biologically relevant deletion mutations."
+  ],
+  "authorString": [
+    "Grajcarek J, Monlong J, Nishinaka-Arai Y, Nakamura M, Nagai M, Matsuo S, Lougheed D, Sakurai H, Saito MK, Bourque G, Woltjen K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grajcarek J"
+          ],
+          "firstName": [
+            "Janin"
+          ],
+          "lastName": [
+            "Grajcarek"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9894-8208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Monlong J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Monlong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9737-5516",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, McGill University, Montréal, QC, H3A 0G4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishinaka-Arai Y"
+          ],
+          "firstName": [
+            "Yoko"
+          ],
+          "lastName": [
+            "Nishinaka-Arai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7013-4640",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura M"
+          ],
+          "firstName": [
+            "Michiko"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagai M"
+          ],
+          "firstName": [
+            "Miki"
+          ],
+          "lastName": [
+            "Nagai"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuo S"
+          ],
+          "firstName": [
+            "Shiori"
+          ],
+          "lastName": [
+            "Matsuo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Lougheed D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Lougheed"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0962-543X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Canadian Center for Computational Genomics, Montréal, QC, H3A 0G1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakurai H"
+          ],
+          "firstName": [
+            "Hidetoshi"
+          ],
+          "lastName": [
+            "Sakurai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Saito MK"
+          ],
+          "firstName": [
+            "Megumu K"
+          ],
+          "lastName": [
+            "Saito"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8813-3614",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Bourque G"
+          ],
+          "firstName": [
+            "Guillaume"
+          ],
+          "lastName": [
+            "Bourque"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3933-9656",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, McGill University, Montréal, QC, H3A 0G4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Woltjen K"
+          ],
+          "firstName": [
+            "Knut"
+          ],
+          "lastName": [
+            "Woltjen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2293-1183",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan. woltjen@cira.kyoto-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9737-5516",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9894-8208",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3933-9656",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0962-543X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8813-3614",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7013-4640",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2293-1183",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2866016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4856"
+  ],
+  "abstractText": [
+    "The functional effect of a gene edit by designer nucleases depends on the DNA repair outcome at the targeted locus. While non-homologous end joining (NHEJ) repair results in various mutations, microhomology-mediated end joining (MMEJ) creates precise deletions based on the alignment of flanking microhomologies (µHs). Recently, the sequence context surrounding nuclease-induced double strand breaks (DSBs) has been shown to predict repair outcomes, for which µH plays an important role. Here, we survey naturally occurring human deletion variants and identify that 11 million or 57% are flanked by µHs, covering 88% of protein-coding genes. These biologically relevant mutations are candidates for precise creation in a template-free manner by MMEJ repair. Using CRISPR-Cas9 in human induced pluripotent stem cells (hiPSCs), we efficiently create pathogenic deletion mutations for demonstrable disease models with both gain- and loss-of-function phenotypes. We anticipate this dataset and gene editing strategy to enable functional genetic studies and drug screening."
+  ],
+  "affiliation": [
+    "Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, 606-8507, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12829-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813315"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813315?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-26"
+  ],
+  "firstIndexDate": [
+    "2019-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-05"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-24"
+  ],
+  "firstPublicationDate": [
+    "2019-10-24"
+  ]
+}

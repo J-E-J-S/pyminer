@@ -1,0 +1,491 @@
+{
+  "id": [
+    "31721759"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31721759"
+  ],
+  "pmcid": [
+    "PMC6876890"
+  ],
+  "doi": [
+    "10.1371/journal.pbio.3000534"
+  ],
+  "title": [
+    "The effects of soil phosphorus content on plant microbiota are driven by the plant phosphate starvation response."
+  ],
+  "authorString": [
+    "Finkel OM, Salas-González I, Castrillo G, Spaepen S, Law TF, Teixeira PJPL, Jones CD, Dangl JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Finkel OM"
+          ],
+          "firstName": [
+            "Omri M"
+          ],
+          "lastName": [
+            "Finkel"
+          ],
+          "initials": [
+            "OM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4770-0402",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Salas-González I"
+          ],
+          "firstName": [
+            "Isai"
+          ],
+          "lastName": [
+            "Salas-González"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0347-5058",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Castrillo G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Castrillo"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1557-6614",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Spaepen S"
+          ],
+          "firstName": [
+            "Stijn"
+          ],
+          "lastName": [
+            "Spaepen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5465-8287",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department Plant Microbe Interactions, Max Planck Institute for Plant Breeding Research, Köln, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Law TF"
+          ],
+          "firstName": [
+            "Theresa F"
+          ],
+          "lastName": [
+            "Law"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Teixeira PJPL"
+          ],
+          "firstName": [
+            "Paulo José Pereira Lima"
+          ],
+          "lastName": [
+            "Teixeira"
+          ],
+          "initials": [
+            "PJPL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0776-5044",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones CD"
+          ],
+          "firstName": [
+            "Corbin D"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7281-7130",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Dangl JL"
+          ],
+          "firstName": [
+            "Jeffery L"
+          ],
+          "lastName": [
+            "Dangl"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3199-8654",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3199-8654",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0347-5058",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7281-7130",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5465-8287",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4770-0402",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1557-6614",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0776-5044",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2876046"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Biol"
+          ],
+          "NLMid": [
+            "101183755"
+          ],
+          "ISSN": [
+            "1544-9173"
+          ],
+          "ESSN": [
+            "1545-7885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e3000534"
+  ],
+  "abstractText": [
+    "Phosphate starvation response (PSR) in nonmycorrhizal plants comprises transcriptional reprogramming resulting in severe physiological changes to the roots and shoots and repression of plant immunity. Thus, plant-colonizing microorganisms-the plant microbiota-are exposed to direct influence by the soil's phosphorus (P) content itself as well as to the indirect effects of soil P on the microbial niches shaped by the plant. The individual contribution of these factors to plant microbiota assembly remains unknown. To disentangle these direct and indirect effects, we planted PSR-deficient Arabidopsis mutants in a long-term managed soil P gradient and compared the composition of their shoot and root microbiota to wild-type plants across different P concentrations. PSR-deficiency had a larger effect on the composition of both bacterial and fungal plant-associated microbiota than soil P concentrations in both roots and shoots. To dissect plant-microbe interactions under variable P conditions, we conducted a microbiota reconstitution experiment. Using a 185-member bacterial synthetic community (SynCom) across a wide P concentration gradient in an agar matrix, we demonstrated a shift in the effect of bacteria on the plant from a neutral or positive interaction to a negative one, as measured by rosette size. This phenotypic shift was accompanied by changes in microbiota composition: the genus Burkholderia was specifically enriched in plant tissue under P starvation. Through a community drop-out experiment, we demonstrated that in the absence of Burkholderia from the SynCom, plant shoots accumulated higher ortophosphate (Pi) levels than shoots colonized with the full SynCom but only under Pi starvation conditions. Therefore, Pi-stressed plants are susceptible to colonization by latent opportunistic competitors found within their microbiome, thus exacerbating the plant's Pi starvation."
+  ],
+  "affiliation": [
+    "Department of Biology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pbio.3000534"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6876890"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6876890?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "geo",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-13"
+  ],
+  "firstPublicationDate": [
+    "2019-11-13"
+  ]
+}

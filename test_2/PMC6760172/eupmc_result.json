@@ -1,0 +1,387 @@
+{
+  "id": [
+    "31551414"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31551414"
+  ],
+  "pmcid": [
+    "PMC6760172"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12184-8"
+  ],
+  "title": [
+    "Identification of the PTEN-ARID4B-PI3K pathway reveals the dependency on ARID4B by PTEN-deficient prostate cancer."
+  ],
+  "authorString": [
+    "Wu RC, Young IC, Chen YF, Chuang ST, Toubaji A, Wu MY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu RC"
+          ],
+          "firstName": [
+            "Ray-Chang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA. rwu@gwu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Young IC"
+          ],
+          "firstName": [
+            "In-Chi"
+          ],
+          "lastName": [
+            "Young"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen YF"
+          ],
+          "firstName": [
+            "Yu-Fang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chuang ST"
+          ],
+          "firstName": [
+            "Sung-Ting"
+          ],
+          "lastName": [
+            "Chuang"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Toubaji A"
+          ],
+          "firstName": [
+            "Antoun"
+          ],
+          "lastName": [
+            "Toubaji"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pathology, The George Washington University, Washington, DC, 20037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu MY"
+          ],
+          "firstName": [
+            "Mei-Yi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA. meiyiwu@gwu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2853973"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4332"
+  ],
+  "abstractText": [
+    "PTEN is frequently mutated in prostate cancer. The tumor suppressor function of PTEN is attributed to its lipid phosphatase activity that counters PI3K action. Here, we report a PTEN-ARID4B-PI3K axis in which PTEN inhibits expression of ARID4B, while ARID4B is a transcriptional activator of the PI3K subunit genes PIK3CA and PIK3R2 that are crucial for activation of the PI3K/AKT pathway. Reciprocal binding of ARID4B and histone H1 to the PIK3CA and PIK3R2 promoters modulates chromatin condensation, suggesting a mechanism by which ARID4B activates these promoters. Functional analyses reveals that ARID4B is required for prostate tumorigenesis when PTEN is deficient. The biological significance is further substantiated by the existence of a PTEN/ARID4B/PIK3CA three-gene signature that improves the predictive power for prostate cancer recurrence in patients. In summary, we identify ARID4B as a master regulator in the PTEN-PI3K pathway, thus providing a potential therapeutic target for prostate cancer carrying PTEN mutations."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Medicine, The George Washington University, Washington, DC, 20037, USA. rwu@gwu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA188471"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 CA187857"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12184-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6760172"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6760172?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-26"
+  ],
+  "firstIndexDate": [
+    "2019-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-24"
+  ],
+  "firstPublicationDate": [
+    "2019-09-24"
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": [
+    "31017888"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31017888"
+  ],
+  "pmcid": [
+    "PMC6502352"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1007010"
+  ],
+  "title": [
+    "Revealing evolutionary constraints on proteins through sequence analysis."
+  ],
+  "authorString": [
+    "Wang SW, Bitbol AF, Wingreen NS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang SW"
+          ],
+          "firstName": [
+            "Shou-Wen"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4569-1194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Engineering Physics, Tsinghua University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitbol AF"
+          ],
+          "firstName": [
+            "Anne-Florence"
+          ],
+          "lastName": [
+            "Bitbol"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1020-494X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Sorbonne Université, CNRS, Laboratoire Jean Perrin (UMR 8237), F-75005 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Wingreen NS"
+          ],
+          "firstName": [
+            "Ned S"
+          ],
+          "lastName": [
+            "Wingreen"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7384-2821",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lewis-Sigler Institute for Integrative Genomics, Princeton University, Princeton, New Jersey, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1020-494X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7384-2821",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4569-1194",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2799800"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1007010"
+  ],
+  "abstractText": [
+    "Statistical analysis of alignments of large numbers of protein sequences has revealed \"sectors\" of collectively coevolving amino acids in several protein families. Here, we show that selection acting on any functional property of a protein, represented by an additive trait, can give rise to such a sector. As an illustration of a selected trait, we consider the elastic energy of an important conformational change within an elastic network model, and we show that selection acting on this energy leads to correlations among residues. For this concrete example and more generally, we demonstrate that the main signature of functional sectors lies in the small-eigenvalue modes of the covariance matrix of the selected sequences. However, secondary signatures of these functional sectors also exist in the extensively-studied large-eigenvalue modes. Our simple, general model leads us to propose a principled method to identify functional sectors, along with the magnitudes of mutational effects, from sequence data. We further demonstrate the robustness of these functional sectors to various forms of selection, and the robustness of our approach to the identification of multiple selected traits."
+  ],
+  "affiliation": [
+    "Department of Engineering Physics, Tsinghua University, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 GM082938"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, Protein"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Amino Acid Sequence"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Molecular"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1007010"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6502352"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6502352?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR47603"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-11-12"
+  ],
+  "dateOfCreation": [
+    "2019-04-25"
+  ],
+  "firstIndexDate": [
+    "2019-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-24"
+  ],
+  "firstPublicationDate": [
+    "2019-04-24"
+  ]
+}

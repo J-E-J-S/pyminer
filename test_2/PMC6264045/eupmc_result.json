@@ -1,0 +1,692 @@
+{
+  "id": [
+    "30486780"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30486780"
+  ],
+  "pmcid": [
+    "PMC6264045"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5214-8"
+  ],
+  "title": [
+    "Comparative genomics of downy mildews reveals potential adaptations to biotrophy."
+  ],
+  "authorString": [
+    "Fletcher K, Klosterman SJ, Derevnina L, Martin F, Bertier LD, Koike S, Reyes-Chin-Wo S, Mou B, Michelmore R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fletcher K"
+          ],
+          "firstName": [
+            "Kyle"
+          ],
+          "lastName": [
+            "Fletcher"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Klosterman SJ"
+          ],
+          "firstName": [
+            "Steven J"
+          ],
+          "lastName": [
+            "Klosterman"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "United States Department of Agriculture, Agricultural Research Service, Salinas, CA, 93905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Derevnina L"
+          ],
+          "firstName": [
+            "Lida"
+          ],
+          "lastName": [
+            "Derevnina"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "United States Department of Agriculture, Agricultural Research Service, Salinas, CA, 93905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bertier LD"
+          ],
+          "firstName": [
+            "Lien D"
+          ],
+          "lastName": [
+            "Bertier"
+          ],
+          "initials": [
+            "LD"
+          ],
+          "affiliation": [
+            "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Koike S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Koike"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "UC Davis Cooperative Extension Monterey County, Salinas, CA, 93901, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reyes-Chin-Wo S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Reyes-Chin-Wo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mou B"
+          ],
+          "firstName": [
+            "Beiquan"
+          ],
+          "lastName": [
+            "Mou"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "United States Department of Agriculture, Agricultural Research Service, Salinas, CA, 93905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Michelmore R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Michelmore"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA. rwmichelmore@ucdavis.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743394"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "851"
+  ],
+  "abstractText": [
+    "BACKGROUND:Spinach downy mildew caused by the oomycete Peronospora effusa is a significant burden on the expanding spinach production industry, especially for organic farms where synthetic fungicides cannot be deployed to control the pathogen. P. effusa is highly variable and 15 new races have been recognized in the past 30 years. RESULTS:We virulence phenotyped, sequenced, and assembled two isolates of P. effusa from the Salinas Valley, California, U.S.A. that were identified as race 13 and 14. These assemblies are high quality in comparison to assemblies of other downy mildews having low total scaffold count (784 & 880), high contig N50s (48 kb & 52 kb), high BUSCO completion and low BUSCO duplication scores and share many syntenic blocks with Phytophthora species. Comparative analysis of four downy mildew and three Phytophthora species revealed parallel absences of genes encoding conserved domains linked to transporters, pathogenesis, and carbohydrate activity in the biotrophic species. Downy mildews surveyed that have lost the ability to produce zoospores have a common loss of flagella/motor and calcium domain encoding genes. Our phylogenomic data support multiple origins of downy mildews from hemibiotrophic progenitors and suggest that common gene losses in these downy mildews may be of genes involved in the necrotrophic stages of Phytophthora spp. CONCLUSIONS:We present a high-quality draft genome of Peronospora effusa that will serve as a reference for Peronospora spp. We identified several Pfam domains as under-represented in the downy mildews consistent with the loss of zoosporegenesis and necrotrophy. Phylogenomics provides further support for a polyphyletic origin of downy mildews."
+  ],
+  "affiliation": [
+    "The Genome Center, Genome and Biomedical Sciences Facility, University of California, 451 East Health Sciences Drive, Davis, CA, 95616, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "C06 RR012088"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 OD018223"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Endowed Chair in Genomics"
+          ],
+          "agency": [
+            "Novozymes Inc."
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA093373"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR026825"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mitochondria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peronospora"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Likelihood Functions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Terminal Repeat Sequences"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heterozygote"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genomics",
+        "Gene loss",
+        "Oomycete",
+        "Biotrophy",
+        "Peronospora Farinosa",
+        "Peronospora Effusa",
+        "Peronospora Lineage",
+        "Spinach Downy Mildew"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264045?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6264045"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5214-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-03-21"
+  ],
+  "dateOfCreation": [
+    "2018-11-30"
+  ],
+  "firstIndexDate": [
+    "2018-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-11"
+  ],
+  "dateOfRevision": [
+    "2019-03-21"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-29"
+  ],
+  "firstPublicationDate": [
+    "2018-11-29"
+  ]
+}

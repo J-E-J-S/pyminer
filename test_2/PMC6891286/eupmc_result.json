@@ -1,0 +1,474 @@
+{
+  "id": [
+    "31698822"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31698822"
+  ],
+  "pmcid": [
+    "PMC6891286"
+  ],
+  "doi": [
+    "10.3390/molecules24224016"
+  ],
+  "title": [
+    "Towards the Development of an In vivo Chemical Probe for Cyclin G Associated Kinase (GAK)."
+  ],
+  "authorString": [
+    "Asquith CRM, Bennett JM, Su L, Laitinen T, Elkins JM, Pickett JE, Wells CI, Li Z, Willson TM, Zuercher WJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Asquith CRM"
+          ],
+          "firstName": [
+            "Christopher R M"
+          ],
+          "lastName": [
+            "Asquith"
+          ],
+          "initials": [
+            "CRM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5871-3458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bennett JM"
+          ],
+          "firstName": [
+            "James M"
+          ],
+          "lastName": [
+            "Bennett"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium and Target Discovery Institute, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Su L"
+          ],
+          "firstName": [
+            "Lianyong"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Drumetix Laboratories, Greensboro, NC 27409, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Laitinen T"
+          ],
+          "firstName": [
+            "Tuomo"
+          ],
+          "lastName": [
+            "Laitinen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Pharmacy, Faculty of Health Sciences, University of Eastern Finland, 70211 Kuopio, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Elkins JM"
+          ],
+          "firstName": [
+            "Jonathan M"
+          ],
+          "lastName": [
+            "Elkins"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium and Target Discovery Institute, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pickett JE"
+          ],
+          "firstName": [
+            "Julie E"
+          ],
+          "lastName": [
+            "Pickett"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9535-8528",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wells CI"
+          ],
+          "firstName": [
+            "Carrow I"
+          ],
+          "lastName": [
+            "Wells"
+          ],
+          "initials": [
+            "CI"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zengbiao"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Drumetix Laboratories, Greensboro, NC 27409, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Willson TM"
+          ],
+          "firstName": [
+            "Timothy M"
+          ],
+          "lastName": [
+            "Willson"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zuercher WJ"
+          ],
+          "firstName": [
+            "William J"
+          ],
+          "lastName": [
+            "Zuercher"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9836-0068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5871-3458",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9836-0068",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9535-8528",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2879516"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "SGC-GAK-1 (1) is a potent, selective, cell-active chemical probe for cyclin G-associated kinase (GAK). However, 1 was rapidly metabolized in mouse liver microsomes by cytochrome P450-mediated oxidation, displaying rapid clearance in liver microsomes and in mice, which limited its utility in in vivo studies. Chemical modifications of 1 that improved metabolic stability, generally resulted in decreased GAK potency. The best analog in terms of GAK activity in cells was 6-bromo-N-(1H-indazol-6-yl)quinolin-4-amine (35) (IC50 = 1.4 μM), showing improved stability in liver microsomes while still maintaining a narrow spectrum activity across the kinome. As an alternative to scaffold modifications we also explored the use of the broad-spectrum cytochrome P450 inhibitor 1-aminobenzotriazole (ABT) to decrease intrinsic clearance of aminoquinoline GAK inhibitors. Taken together, these approaches point towards the development of an in vivo chemical probe for the dark kinase GAK."
+  ],
+  "affiliation": [
+    "Structural Genomics Consortium, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Kinase Inhibitor Design",
+        "Cyclin G Associated Kinase (Gak)",
+        "1-Aminobenzotriazole (Abt)",
+        "In Vivo Kinase Design"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24224016"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6891286"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6891286?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-09"
+  ],
+  "firstIndexDate": [
+    "2019-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-06"
+  ],
+  "firstPublicationDate": [
+    "2019-11-06"
+  ]
+}

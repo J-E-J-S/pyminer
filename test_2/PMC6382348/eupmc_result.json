@@ -1,0 +1,455 @@
+{
+  "id": [
+    "30782313"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30782313"
+  ],
+  "pmcid": [
+    "PMC6382348"
+  ],
+  "doi": [
+    "10.7554/eLife.43514"
+  ],
+  "title": [
+    "Hypothesis, analysis and synthesis, it's all Greek to me."
+  ],
+  "authorString": [
+    "Iliopoulos I, Ananiadou S, Danchin A, Ioannidis JP, Katsikis PD, Ouzounis CA, Promponas VJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Iliopoulos I"
+          ],
+          "firstName": [
+            "Ioannis"
+          ],
+          "lastName": [
+            "Iliopoulos"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Division of Basic Sciences, School of Medicine, University of Crete, Heraklion, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Ananiadou S"
+          ],
+          "firstName": [
+            "Sophia"
+          ],
+          "lastName": [
+            "Ananiadou"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Computer Science, University of Manchester, Manchester, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Danchin A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Danchin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6350-5001",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Cardiometabolism and Nutrition, Hôpital de la Pitié-Salpêtrière, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ioannidis JP"
+          ],
+          "firstName": [
+            "John Pa"
+          ],
+          "lastName": [
+            "Ioannidis"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Meta-Research Innovation Center at Stanford, University of Stanford, Stanford, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Katsikis PD"
+          ],
+          "firstName": [
+            "Peter D"
+          ],
+          "lastName": [
+            "Katsikis"
+          ],
+          "initials": [
+            "PD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7690-5218",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Immunology, Erasmus University Medical Center, Rotterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ouzounis CA"
+          ],
+          "firstName": [
+            "Christos A"
+          ],
+          "lastName": [
+            "Ouzounis"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0086-8657",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biological Computation & Process Lab, Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas, Thessalonica, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Promponas VJ"
+          ],
+          "firstName": [
+            "Vasilis J"
+          ],
+          "lastName": [
+            "Promponas"
+          ],
+          "initials": [
+            "VJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3352-4831",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bioinformatics Research Laboratory, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7690-5218",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0086-8657",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3352-4831",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6350-5001",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2776377"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The linguistic foundations of science and technology include many terms that have been borrowed from ancient languages. In the case of terms with origins in the Greek language, the modern meaning can often differ significantly from the original one. Here we use the PubMed database to demonstrate the prevalence of words of Greek origin in the language of modern science, and call for scientists to exercise care when coining new terms."
+  ],
+  "affiliation": [
+    "Division of Basic Sciences, School of Medicine, University of Crete, Heraklion, Greece."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Genomics",
+        "systems biology",
+        "computational biology",
+        "Etymology",
+        "History Of Science",
+        "None",
+        "Scientific Language"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.43514"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6382348"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6382348?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR71839"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-21"
+  ],
+  "firstIndexDate": [
+    "2019-02-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-20"
+  ],
+  "firstPublicationDate": [
+    "2019-02-20"
+  ]
+}

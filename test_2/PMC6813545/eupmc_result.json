@@ -1,0 +1,327 @@
+{
+  "id": [
+    "31454230"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31454230"
+  ],
+  "pmcid": [
+    "PMC6813545"
+  ],
+  "doi": [
+    "10.1021/acs.chemrev.9b00214"
+  ],
+  "title": [
+    "Reactivity and Synthetic Applications of Multicomponent Petasis Reactions."
+  ],
+  "authorString": [
+    "Wu P, Givskov M, Nielsen TE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0186-1086",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Genomics Center of the Max Planck Society , Dortmund 44227 , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Givskov M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Givskov"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Costerton Biofilm Center, Department of Immunology and Microbiology , University of Copenhagen , Copenhagen DK-2200 , Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen TE"
+          ],
+          "firstName": [
+            "Thomas E"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "TE"
+          ],
+          "affiliation": [
+            "Costerton Biofilm Center, Department of Immunology and Microbiology , University of Copenhagen , Copenhagen DK-2200 , Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0186-1086",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "20"
+      ],
+      "volume": [
+        "119"
+      ],
+      "journalIssueId": [
+        "2873388"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chemical reviews"
+          ],
+          "ISOAbbreviation": [
+            "Chem. Rev."
+          ],
+          "medlineAbbreviation": [
+            "Chem Rev"
+          ],
+          "NLMid": [
+            "2985134R"
+          ],
+          "ISSN": [
+            "0009-2665"
+          ],
+          "ESSN": [
+            "1520-6890"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11245-11290"
+  ],
+  "abstractText": [
+    "The Petasis boron-Mannich reaction, simply referred to as the Petasis reaction, is a powerful multicomponent coupling reaction of a boronic acid, an amine, and a carbonyl derivative. Highly functionalized amines with multiple stereogenic centers can be efficiently accessed via the Petasis reaction with high levels of both diastereoselectivity and enantioselectivity. By drawing attention to examples reported in the past 8 years, this Review demonstrates the breadth of the reactivity and synthetic applications of Petasis reactions in several frontiers: the expansion of the substrate scope in the classic three-component process; nonclassic Petasis reactions with additional components; Petasis-type reactions with noncanonical substrates, mechanism, and products; new asymmetric versions assisted by chiral catalysts; combinations with a secondary or tertiary transformation in a cascade- or sequence-specific manner to access structurally complex, natural-product-like heterocycles; and the synthesis of polyhydroxy alkaloids and biologically interesting molecules."
+  ],
+  "affiliation": [
+    "Chemical Genomics Center of the Max Planck Society , Dortmund 44227 , Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R209-2015-3204"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acs.chemrev.9b00214"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813545"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6813545?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-28"
+  ],
+  "firstIndexDate": [
+    "2019-08-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-05"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-27"
+  ],
+  "firstPublicationDate": [
+    "2019-08-27"
+  ]
+}

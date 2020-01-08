@@ -1,0 +1,627 @@
+{
+  "id": [
+    "29864154"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29864154"
+  ],
+  "pmcid": [
+    "PMC5986138"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0198637"
+  ],
+  "title": [
+    "DMSO increases efficiency of genome editing at two non-coding loci."
+  ],
+  "authorString": [
+    "Stratigopoulos G, De Rosa MC, LeDuc CA, Leibel RL, Doege CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stratigopoulos G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Stratigopoulos"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4752-9123",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Columbia University, New York, NY, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "De Rosa MC"
+          ],
+          "firstName": [
+            "Maria Caterina"
+          ],
+          "lastName": [
+            "De Rosa"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Columbia University, New York, NY, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "LeDuc CA"
+          ],
+          "firstName": [
+            "Charles A"
+          ],
+          "lastName": [
+            "LeDuc"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Columbia University, New York, NY, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Leibel RL"
+          ],
+          "firstName": [
+            "Rudolph L"
+          ],
+          "lastName": [
+            "Leibel"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Columbia University, New York, NY, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Doege CA"
+          ],
+          "firstName": [
+            "Claudia A"
+          ],
+          "lastName": [
+            "Doege"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Naomi Berrie Diabetes Center, Columbia University Medical Center, New York, NY, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4752-9123",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2690785"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0198637"
+  ],
+  "abstractText": [
+    "Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/CRISPR-associated protein-9 (Cas9) has become the tool of choice for genome editing. Despite the fact that it has evolved as a highly efficient means to edit/replace coding sequence, CRISPR/Cas9 efficiency for \"clean\" editing of non-coding DNA remains low. We set out to introduce a single base-pair substitution in two intronic SNPs at the FTO locus without altering nearby non-coding sequence. Substitution efficiency increased up to 10-fold by treatment of human embryonic stem cells (ESC) with non-toxic levels of DMSO (1%) before CRISPR/Cas9 delivery. Treatment with DMSO did not result in CRISPR/Cas9 off-target effects or compromise the chromosomal stability of the ESC. Twenty-four hour treatment of human ESC with DMSO before CRISPR/Cas9 delivery may prove a simple means to increase editing efficiency of non-coding DNA without incorporation of undesirable mutations."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Columbia University, New York, NY, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 DK026687"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK052431"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dimethyl Sulfoxide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Introns"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Loci"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Human Embryonic Stem Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alpha-Ketoglutarate-Dependent Dioxygenase FTO"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Dimethyl Sulfoxide"
+          ],
+          "registryNumber": [
+            "YOW8V9698H"
+          ]
+        },
+        {
+          "name": [
+            "Alpha-Ketoglutarate-Dependent Dioxygenase FTO"
+          ],
+          "registryNumber": [
+            "EC 1.14.11.33"
+          ]
+        },
+        {
+          "name": [
+            "FTO protein, human"
+          ],
+          "registryNumber": [
+            "EC 1.14.11.33"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0198637"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5986138"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5986138?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-05"
+  ],
+  "firstIndexDate": [
+    "2018-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-18"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-04"
+  ],
+  "firstPublicationDate": [
+    "2018-06-04"
+  ]
+}

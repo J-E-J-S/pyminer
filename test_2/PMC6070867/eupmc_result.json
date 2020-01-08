@@ -1,0 +1,307 @@
+{
+  "id": [
+    "29986380"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29986380"
+  ],
+  "pmcid": [
+    "PMC6070867"
+  ],
+  "doi": [
+    "10.3390/genes9070340"
+  ],
+  "title": [
+    "Applications of Yeast Synthetic Biology Geared towards the Production of Biopharmaceuticals."
+  ],
+  "authorString": [
+    "Walker RSK, Pretorius IS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Walker RSK"
+          ],
+          "firstName": [
+            "Roy S K"
+          ],
+          "lastName": [
+            "Walker"
+          ],
+          "initials": [
+            "RSK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0960-4591",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney 2109, Australia. roy.walker@mq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Pretorius IS"
+          ],
+          "firstName": [
+            "Isak S"
+          ],
+          "lastName": [
+            "Pretorius"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9127-3175",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chancellery, Macquarie University, Sydney 2109, Australia. sakkie.pretorius@mq.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0960-4591",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9127-3175",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2702702"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes"
+          ],
+          "ISOAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "NLMid": [
+            "101551097"
+          ],
+          "ISSN": [
+            "2073-4425"
+          ],
+          "ESSN": [
+            "2073-4425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Engineered yeast are an important production platform for the biosynthesis of high-value compounds with medical applications. Recent years have witnessed several new developments in this area, largely spurred by advances in the field of synthetic biology and the elucidation of natural metabolic pathways. This minireview presents an overview of synthetic biology applications for the heterologous biosynthesis of biopharmaceuticals in yeast and demonstrates the power and potential of yeast cell factories by highlighting several recent examples. In addition, an outline of emerging trends in this rapidly-developing area is discussed, hinting upon the potential state-of-the-art in the years ahead."
+  ],
+  "affiliation": [
+    "Department of Molecular Sciences, Macquarie University, Sydney 2109, Australia. roy.walker@mq.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Yeast",
+        "Natural products",
+        "Biopharmaceuticals",
+        "Recombinant Proteins",
+        "Biologics",
+        "Synthetic Biology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/genes9070340"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6070867"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6070867?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-12"
+  ],
+  "dateOfRevision": [
+    "2018-08-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-06"
+  ],
+  "firstPublicationDate": [
+    "2018-07-06"
+  ]
+}

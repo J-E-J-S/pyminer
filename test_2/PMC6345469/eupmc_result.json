@@ -1,0 +1,510 @@
+{
+  "id": [
+    "30677030"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30677030"
+  ],
+  "pmcid": [
+    "PMC6345469"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0203242"
+  ],
+  "title": [
+    "SNP variable selection by generalized graph domination."
+  ],
+  "authorString": [
+    "Sun S, Miao Z, Ratcliffe B, Campbell P, Pasch B, El-Kassaby YA, Balasundaram B, Chen C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sun S"
+          ],
+          "firstName": [
+            "Shuzhen"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Miao Z"
+          ],
+          "firstName": [
+            "Zhuqi"
+          ],
+          "lastName": [
+            "Miao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Center for Health Systems Innovation, Oklahoma State University, Stillwater, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Ratcliffe B"
+          ],
+          "firstName": [
+            "Blaise"
+          ],
+          "lastName": [
+            "Ratcliffe"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4469-2929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Forest and Conservation Sciences, Faculty of Forestry, The University of British Columbia, Vancouver, B.C. Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell P"
+          ],
+          "firstName": [
+            "Polly"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology, Oklahoma State University, Stillwater, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasch B"
+          ],
+          "firstName": [
+            "Bret"
+          ],
+          "lastName": [
+            "Pasch"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, Northern Arizona University, Flagstaff, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "El-Kassaby YA"
+          ],
+          "firstName": [
+            "Yousry A"
+          ],
+          "lastName": [
+            "El-Kassaby"
+          ],
+          "initials": [
+            "YA"
+          ],
+          "affiliation": [
+            "Department of Forest and Conservation Sciences, Faculty of Forestry, The University of British Columbia, Vancouver, B.C. Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Balasundaram B"
+          ],
+          "firstName": [
+            "Balabhaskar"
+          ],
+          "lastName": [
+            "Balasundaram"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Industrial Engineering and Management, Oklahoma State University, Stillwater, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Charles"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2203-0433",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2203-0433",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4469-2929",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0203242"
+  ],
+  "abstractText": [
+    "BACKGROUND:High-throughput sequencing technology has revolutionized both medical and biological research by generating exceedingly large numbers of genetic variants. The resulting datasets share a number of common characteristics that might lead to poor generalization capacity. Concerns include noise accumulated due to the large number of predictors, sparse information regarding the p≫n problem, and overfitting and model mis-identification resulting from spurious collinearity. Additionally, complex correlation patterns are present among variables. As a consequence, reliable variable selection techniques play a pivotal role in predictive analysis, generalization capability, and robustness in clustering, as well as interpretability of the derived models. METHODS AND FINDINGS:K-dominating set, a parameterized graph-theoretic generalization model, was used to model SNP (single nucleotide polymorphism) data as a similarity network and searched for representative SNP variables. In particular, each SNP was represented as a vertex in the graph, (dis)similarity measures such as correlation coefficients or pairwise linkage disequilibrium were estimated to describe the relationship between each pair of SNPs; a pair of vertices are adjacent, i.e. joined by an edge, if the pairwise similarity measure exceeds a user-specified threshold. A minimum k-dominating set in the SNP graph was then made as the smallest subset such that every SNP that is excluded from the subset has at least k neighbors in the selected ones. The strength of k-dominating set selection in identifying independent variables, and in culling representative variables that are highly correlated with others, was demonstrated by a simulated dataset. The advantages of k-dominating set variable selection were also illustrated in two applications: pedigree reconstruction using SNP profiles of 1,372 Douglas-fir trees, and species delineation for 226 grasshopper mouse samples. A C++ source code that implements SNP-SELECT and uses Gurobi optimization solver for the k-dominating set variable selection is available (https://github.com/transgenomicsosu/SNP-SELECT)."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Molecular Biology, Oklahoma State University, Stillwater, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pedigree"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Linkage Disequilibrium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0203242"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6345469"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6345469?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR47642"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-09-17"
+  ],
+  "dateOfCreation": [
+    "2019-01-25"
+  ],
+  "firstIndexDate": [
+    "2019-01-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-16"
+  ],
+  "dateOfRevision": [
+    "2019-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-24"
+  ],
+  "firstPublicationDate": [
+    "2019-01-24"
+  ]
+}

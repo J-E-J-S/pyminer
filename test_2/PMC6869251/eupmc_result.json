@@ -1,0 +1,422 @@
+{
+  "id": [
+    "31747871"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31747871"
+  ],
+  "pmcid": [
+    "PMC6869251"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6265-1"
+  ],
+  "title": [
+    "Infection and RNA-seq analysis of a zebrafish tlr2 mutant shows a broad function of this toll-like receptor in transcriptional and metabolic control and defense to Mycobacterium marinum infection."
+  ],
+  "authorString": [
+    "Hu W, Yang S, Shimada Y, Münch M, Marín-Juez R, Meijer AH, Spaink HP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu W"
+          ],
+          "firstName": [
+            "Wanbin"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang S"
+          ],
+          "firstName": [
+            "Shuxin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimada Y"
+          ],
+          "firstName": [
+            "Yasuhito"
+          ],
+          "lastName": [
+            "Shimada"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Münch M"
+          ],
+          "firstName": [
+            "Magnus"
+          ],
+          "lastName": [
+            "Münch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Mathematical Institute, Leiden University, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Marín-Juez R"
+          ],
+          "firstName": [
+            "Rubén"
+          ],
+          "lastName": [
+            "Marín-Juez"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Meijer AH"
+          ],
+          "firstName": [
+            "Annemarie H"
+          ],
+          "lastName": [
+            "Meijer"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Spaink HP"
+          ],
+          "firstName": [
+            "Herman P"
+          ],
+          "lastName": [
+            "Spaink"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4128-9501",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands. h.p.spaink@biology.leidenuniv.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4128-9501",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2876241"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "878"
+  ],
+  "abstractText": [
+    "BACKGROUND:The function of Toll-like receptor 2 (TLR2) in host defense against pathogens, especially Mycobacterium tuberculosis (Mtb) is poorly understood. To investigate the role of TLR2 during mycobacterial infection, we analyzed the response of tlr2 zebrafish mutant larvae to infection with Mycobacterium marinum (Mm), a close relative to Mtb, as a model for tuberculosis. We measured infection phenotypes and transcriptome responses using RNA deep sequencing in mutant and control larvae. RESULTS:tlr2 mutant embryos at 2 dpf do not show differences in numbers of macrophages and neutrophils compared to control embryos. However, we found substantial changes in gene expression in these mutants, particularly in metabolic pathways, when compared with the heterozygote tlr2+/- control. At 4 days after Mm infection, the total bacterial burden and the presence of extracellular bacteria were higher in tlr2-/- larvae than in tlr2+/-, or tlr2+/+ larvae, whereas granuloma numbers were reduced, showing a function of Tlr2 in zebrafish host defense. RNAseq analysis of infected tlr2-/- versus tlr2+/- shows that the number of up-regulated and down-regulated genes in response to infection was greatly diminished in tlr2 mutants by at least 2 fold and 10 fold, respectively. Analysis of the transcriptome data and qPCR validation shows that Mm infection of tlr2 mutants leads to decreased mRNA levels of genes involved in inflammation and immune responses, including il1b, tnfb, cxcl11aa/ac, fosl1a, and cebpb. Furthermore, RNAseq analyses revealed that the expression of genes for Maf family transcription factors, vitamin D receptors, and Dicps proteins is altered in tlr2 mutants with or without infection. In addition, the data indicate a function of Tlr2 in the control of induction of cytokines and chemokines, such as the CXCR3-CXCL11 signaling axis. CONCLUSION:The transcriptome and infection burden analyses show a function of Tlr2 as a protective factor against mycobacteria. Transcriptome analysis revealed tlr2-specific pathways involved in Mm infection, which are related to responses to Mtb infection in human macrophages. Considering its dominant function in control of transcriptional processes that govern defense responses and metabolism, the TLR2 protein can be expected to be also of importance for other infectious diseases and interactions with the microbiome."
+  ],
+  "affiliation": [
+    "Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2012"
+          ],
+          "agency": [
+            "China Scholarship Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017"
+          ],
+          "agency": [
+            "China Scholarship Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tuberculosis",
+        "Zebrafish",
+        "Mycobacterium",
+        "TLR2",
+        "Transcriptomics",
+        "Rnaseq",
+        "Rna Deep Sequencing"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6265-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6869251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6869251?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-22"
+  ],
+  "firstIndexDate": [
+    "2019-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-20"
+  ],
+  "firstPublicationDate": [
+    "2019-11-20"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": [
+    "31612108"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31612108"
+  ],
+  "pmcid": [
+    "PMC6773824"
+  ],
+  "doi": [
+    "10.3389/fonc.2019.00953"
+  ],
+  "title": [
+    "New Horizons in KRAS-Mutant Lung Cancer: Dawn After Darkness."
+  ],
+  "authorString": [
+    "Yang H, Liang SQ, Schmid RA, Peng RW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Haitang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of General Thoracic Surgery, Department of BioMedical Research, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang SQ"
+          ],
+          "firstName": [
+            "Shun-Qing"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "SQ"
+          ],
+          "affiliation": [
+            "Department of General Thoracic Surgery, Department of BioMedical Research, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmid RA"
+          ],
+          "firstName": [
+            "Ralph A"
+          ],
+          "lastName": [
+            "Schmid"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Department of General Thoracic Surgery, Department of BioMedical Research, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng RW"
+          ],
+          "firstName": [
+            "Ren-Wang"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "affiliation": [
+            "Department of General Thoracic Surgery, Department of BioMedical Research, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2778731"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Oncology"
+          ],
+          "ISOAbbreviation": [
+            "Front Oncol"
+          ],
+          "medlineAbbreviation": [
+            "Front Oncol"
+          ],
+          "NLMid": [
+            "101568867"
+          ],
+          "ISSN": [
+            "2234-943X"
+          ],
+          "ESSN": [
+            "2234-943X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "953"
+  ],
+  "abstractText": [
+    "In non-small cell lung cancer (NSCLC), the most frequent oncogenic mutation in western countries is KRAS, for which, however, there remains no clinically approved targeted therapies. Recent progress on high biological heterogeneity including diverse KRAS point mutations, varying dependence on mutant KRAS, wide spectrum of other co-occurring genetic alterations, as well as distinct cellular status across the epithelial-to-mesenchymal transition (EMT), has not only deepened our understanding about the pathobiology of KRAS-mutant NSCLC but also brought about unprecedented new hopes for precision treatment of patients. In this review, we provide an update on the most recent advances in KRAS-mutant lung cancer, with a focus on mechanistic insights into tumor heterogeneity, the potential clinic implications and new therapies on horizons tailored for KRAS-mutant lung cancer."
+  ],
+  "affiliation": [
+    "Department of General Thoracic Surgery, Department of BioMedical Research, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "Heterogeneity",
+        "Immunotherapy",
+        "Mitogen-activated protein kinases",
+        "Targeted Therapy",
+        "Kras"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fonc.2019.00953"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6773824"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6773824?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-16"
+  ],
+  "firstIndexDate": [
+    "2019-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-16"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-25"
+  ],
+  "firstPublicationDate": [
+    "2019-09-25"
+  ]
+}

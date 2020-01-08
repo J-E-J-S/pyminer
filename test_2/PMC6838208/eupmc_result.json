@@ -1,0 +1,325 @@
+{
+  "id": [
+    "31737054"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31737054"
+  ],
+  "pmcid": [
+    "PMC6838208"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.01082"
+  ],
+  "title": [
+    "What Is Karyotype Coding and Why Is Genomic Topology Important for Cancer and Evolution?"
+  ],
+  "authorString": [
+    "Ye CJ, Stilgenbauer L, Moy A, Liu G, Heng HH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ye CJ"
+          ],
+          "firstName": [
+            "Christine J"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "The Division of Hematology/Oncology, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Stilgenbauer L"
+          ],
+          "firstName": [
+            "Lukas"
+          ],
+          "lastName": [
+            "Stilgenbauer"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Center for Molecular Medicine and Genomics, Wayne State University School of Medicine, Detroit, MI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Moy A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Moy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Molecular Medicine and Genomics, Wayne State University School of Medicine, Detroit, MI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guo"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Center for Molecular Medicine and Genomics, Wayne State University School of Medicine, Detroit, MI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Heng HH"
+          ],
+          "firstName": [
+            "Henry H"
+          ],
+          "lastName": [
+            "Heng"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "affiliation": [
+            "Center for Molecular Medicine and Genomics, Wayne State University School of Medicine, Detroit, MI, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1082"
+  ],
+  "abstractText": [
+    "While the importance of chromosomal/nuclear variations vs. gene mutations in diseases is becoming more appreciated, less is known about its genomic basis. Traditionally, chromosomes are considered the carriers of genes, and genes define bio-inheritance. In recent years, the gene-centric concept has been challenged by the surprising data of various sequencing projects. The genome system theory has been introduced to offer an alternative framework. One of the key concepts of the genome system theory is karyotype or chromosomal coding: chromosome sets function as gene organizers, and the genomic topologies provide a context for regulating gene expression and function. In other words, the interaction of individual genes, defined by genomic topology, is part of the full informational system. The genes define the \"parts inheritance,\" while the karyotype and genomic topology (the physical relationship of genes within a three-dimensional nucleus) plus the gene content defines \"system inheritance.\" In this mini-review, the concept of karyotype or chromosomal coding will be briefly discussed, including: 1) the rationale for searching for new genomic inheritance, 2) chromosomal or karyotype coding (hypothesis, model, and its predictions), and 3) the significance and evidence of chromosomal coding (maintaining and changing the system inheritance-defined bio-systems). This mini-review aims to provide a new conceptual framework for appreciating the genome organization-based information package and its ultimate importance for future genomic and evolutionary studies."
+  ],
+  "affiliation": [
+    "The Division of Hematology/Oncology, Department of Internal Medicine, University of Michigan, Ann Arbor, MI, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Missing Heritability",
+        "Genome Theory",
+        "Genome Chaos",
+        "System Inheritance",
+        "Karyotype Or Chromosomal Coding",
+        "Chromosomal Instability (Cin)",
+        "Fuzzy Inheritance",
+        "Non-clonal Chromosome Aberrations (Nccas)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.01082"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838208"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838208?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

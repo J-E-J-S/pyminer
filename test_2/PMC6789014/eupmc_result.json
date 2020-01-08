@@ -1,0 +1,449 @@
+{
+  "id": [
+    "31604991"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31604991"
+  ],
+  "pmcid": [
+    "PMC6789014"
+  ],
+  "doi": [
+    "10.1038/s41598-019-51205-w"
+  ],
+  "title": [
+    "The MTH1 inhibitor TH588 is a microtubule-modulating agent that eliminates cancer cells by activating the mitotic surveillance pathway."
+  ],
+  "authorString": [
+    "Gul N, Karlsson J, Tängemo C, Linsefors S, Tuyizere S, Perkins R, Ala C, Zou Z, Larsson E, Bergö MO, Lindahl P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gul N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Gul"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Karlsson J"
+          ],
+          "firstName": [
+            "Joakim"
+          ],
+          "lastName": [
+            "Karlsson"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6332-4043",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Surgery, Institute of Clinical Sciences, University of Gothenburg, SE-416 85, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Tängemo C"
+          ],
+          "firstName": [
+            "Carolina"
+          ],
+          "lastName": [
+            "Tängemo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre for Cellular Imaging, University of Gothenburg, Box 413, SE-40530, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Linsefors S"
+          ],
+          "firstName": [
+            "Sanna"
+          ],
+          "lastName": [
+            "Linsefors"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuyizere S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Tuyizere"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Perkins R"
+          ],
+          "firstName": [
+            "Rosie"
+          ],
+          "lastName": [
+            "Perkins"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Ala C"
+          ],
+          "firstName": [
+            "Chandu"
+          ],
+          "lastName": [
+            "Ala"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Zou Z"
+          ],
+          "firstName": [
+            "Zhiyuan"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Larsson E"
+          ],
+          "firstName": [
+            "Erik"
+          ],
+          "lastName": [
+            "Larsson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Medical Biochemistry and Cell Biology, Institute of Biomedicine, University of Gothenburg, SE-405 30, Gothenburg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Bergö MO"
+          ],
+          "firstName": [
+            "Martin O"
+          ],
+          "lastName": [
+            "Bergö"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "Department of Biosciences and Nutrition, Karolinska Institutet, SE-141 83 Huddinge, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Lindahl P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Lindahl"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden. per.lindahl@wlab.gu.se."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6332-4043",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2866017"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "14667"
+  ],
+  "abstractText": [
+    "The mut-T homolog-1 (MTH1) inhibitor TH588 has shown promise in preclinical cancer studies but its targeting specificity has been questioned. Alternative mechanisms for the anti-cancer effects of TH588 have been suggested but the question remains unresolved. Here, we performed an unbiased CRISPR screen on human lung cancer cells to identify potential mechanisms behind the cytotoxic effect of TH588. The screen identified pathways and complexes involved in mitotic spindle regulation. Using immunofluorescence and live cell imaging, we showed that TH588 rapidly reduced microtubule plus-end mobility, disrupted mitotic spindles, and prolonged mitosis in a concentration-dependent but MTH1-independent manner. These effects activated a USP28-p53 pathway - the mitotic surveillance pathway - that blocked cell cycle reentry after prolonged mitosis; USP28 acted upstream of p53 to arrest TH588-treated cells in the G1-phase of the cell cycle. We conclude that TH588 is a microtubule-modulating agent that activates the mitotic surveillance pathway and thus prevents cancer cells from re-entering the cell cycle."
+  ],
+  "affiliation": [
+    "Wallenberg Laboratory, Department of Molecular and Clinical Medicine, Institute of Medicine, University of Gothenburg, SE-413 45, Gothenburg, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-51205-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6789014"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6789014?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-13"
+  ],
+  "firstIndexDate": [
+    "2019-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-10-11"
+  ]
+}

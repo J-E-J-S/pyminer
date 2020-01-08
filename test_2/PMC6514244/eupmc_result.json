@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31134132"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31134132"
+  ],
+  "pmcid": [
+    "PMC6514244"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.00426"
+  ],
+  "title": [
+    "Long-Read Sequencing Emerging in Medical Genetics."
+  ],
+  "authorString": [
+    "Mantere T, Kersten S, Hoischen A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mantere T"
+          ],
+          "firstName": [
+            "Tuomo"
+          ],
+          "lastName": [
+            "Mantere"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3284-4403",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, Radboud University Medical Center, Nijmegen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kersten S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Kersten"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, Radboud University Medical Center, Nijmegen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoischen A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Hoischen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, Radboud University Medical Center, Nijmegen, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3284-4403",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "426"
+  ],
+  "abstractText": [
+    "The wide implementation of next-generation sequencing (NGS) technologies has revolutionized the field of medical genetics. However, the short read lengths of currently used sequencing approaches pose a limitation for the identification of structural variants, sequencing repetitive regions, phasing of alleles and distinguishing highly homologous genomic regions. These limitations may significantly contribute to the diagnostic gap in patients with genetic disorders who have undergone standard NGS, like whole exome or even genome sequencing. Now, the emerging long-read sequencing (LRS) technologies may offer improvements in the characterization of genetic variation and regions that are difficult to assess with the prevailing NGS approaches. LRS has so far mainly been used to investigate genetic disorders with previously known or strongly suspected disease loci. While these targeted approaches already show the potential of LRS, it remains to be seen whether LRS technologies can soon enable true whole genome sequencing routinely. Ultimately, this could allow the de novo assembly of individual whole genomes used as a generic test for genetic disorders. In this article, we summarize the current LRS-based research on human genetic disorders and discuss the potential of these technologies to facilitate the next major advancements in medical genetics."
+  ],
+  "affiliation": [
+    "Department of Human Genetics, Radboud University Medical Center, Nijmegen, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Medical genetics",
+        "Pseudogenes",
+        "Next-generation Sequencing",
+        "Structural Variation",
+        "Phasing",
+        "Long-read Sequencing",
+        "Tandem Repeat Expansion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.00426"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6514244"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6514244?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-29"
+  ],
+  "firstIndexDate": [
+    "2019-05-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-07"
+  ],
+  "firstPublicationDate": [
+    "2019-05-07"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": [
+    "31243442"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31243442"
+  ],
+  "pmcid": [
+    "PMC6685495"
+  ],
+  "doi": [
+    "10.1093/gbe/evz136"
+  ],
+  "title": [
+    "Comparative Genomics of Wild Bee and Flower Isolated Lactobacillus Reveals Potential Adaptation to the Bee Host."
+  ],
+  "authorString": [
+    "Vuong HQ, McFrederick QS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vuong HQ"
+          ],
+          "firstName": [
+            "Hoang Q"
+          ],
+          "lastName": [
+            "Vuong"
+          ],
+          "initials": [
+            "HQ"
+          ],
+          "affiliation": [
+            "Department of Entomology, University California Riverside."
+          ]
+        },
+        {
+          "fullName": [
+            "McFrederick QS"
+          ],
+          "firstName": [
+            "Quinn S"
+          ],
+          "lastName": [
+            "McFrederick"
+          ],
+          "initials": [
+            "QS"
+          ],
+          "affiliation": [
+            "Department of Entomology, University California Riverside."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2845229"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology and evolution"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol Evol"
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol Evol"
+          ],
+          "NLMid": [
+            "101509707"
+          ],
+          "ISSN": [
+            "1759-6653"
+          ],
+          "ESSN": [
+            "1759-6653"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2151-2161"
+  ],
+  "abstractText": [
+    "Symbiosis with bacteria is common across insects, resulting in adaptive host phenotypes. The recently described bacterial symbionts Lactobacillus micheneri, Lactobacillus timberlakei, and Lactobacillus quenuiae are found in wild bee pollen provisions, bee guts, and flowers but have small genomes in comparison to other lactobacilli. We sequenced, assembled, and analyzed 27 new L. micheneri clade genomes to identify their possible ecological functions in flower and bee hosts. We determined possible key functions for the L. micheneri clade by identifying genes under positive selection, balancing selection, genes gained or lost, and population structure. A host adherence factor shows signatures of positive selection, whereas other orthologous copies are variable within the L. micheneri clade. The host adherence factors serve as strong evidence that these lactobacilli are adapted to animal hosts as their targets are found in the digestive tract of insects. Next, the L. micheneri clade is adapted toward a nutrient-rich environment, corroborating observations of where L. micheneri is most abundant. Additionally, genes involved in osmotolerance, pH tolerance, temperature resistance, detoxification, and oxidative stress response show signatures of selection that allow these bacteria to thrive in pollen and nectar masses in bee nests and in the bee gut. Altogether, these findings not only suggest that the L. micheneri clade is primarily adapted to the wild bee gut but also exhibit genomic features that would be beneficial to survival in flowers."
+  ],
+  "affiliation": [
+    "Department of Entomology, University California Riverside."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Symbiosis",
+        "Comparative genomics",
+        "lactobacillus",
+        "bees",
+        "Population Genomics",
+        "Host–microbe"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gbe/evz136"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6685495"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6685495?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-14"
+  ],
+  "dateOfRevision": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-08-01"
+  ]
+}

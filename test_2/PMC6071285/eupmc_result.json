@@ -1,0 +1,322 @@
+{
+  "id": [
+    "29986428"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29986428"
+  ],
+  "pmcid": [
+    "PMC6071285"
+  ],
+  "doi": [
+    "10.3390/genes9070341"
+  ],
+  "title": [
+    "Emerging Opportunities for Synthetic Biology in Agriculture."
+  ],
+  "authorString": [
+    "Goold HD, Wright P, Hailstones D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goold HD"
+          ],
+          "firstName": [
+            "Hugh Douglas"
+          ],
+          "lastName": [
+            "Goold"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2888-3549",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, North Ryde, NSW 2109, Australia. hugh.goold@dpi.nsw.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Wright P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "New South Wales Department of Primary Industries, Locked Bag 21, 161 Kite St, Orange, NSW 2800, Australia. philip.wright@dpi.nsw.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Hailstones D"
+          ],
+          "firstName": [
+            "Deborah"
+          ],
+          "lastName": [
+            "Hailstones"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3042-5168",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "New South Wales Department of Primary Industries, Elizabeth Macarthur Agricultural Institute, Woodbridge Road, Menangle, NSW 2568, Australia. deborah.hailstones@dpi.nsw.gov.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2888-3549",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3042-5168",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2702702"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes"
+          ],
+          "ISOAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "NLMid": [
+            "101551097"
+          ],
+          "ISSN": [
+            "2073-4425"
+          ],
+          "ESSN": [
+            "2073-4425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Rapid expansion in the emerging field of synthetic biology has to date mainly focused on the microbial sciences and human health. However, the zeitgeist is that synthetic biology will also shortly deliver major outcomes for agriculture. The primary industries of agriculture, fisheries and forestry, face significant and global challenges; addressing them will be assisted by the sector&rsquo;s strong history of early adoption of transformative innovation, such as the genetic technologies that underlie synthetic biology. The implementation of synthetic biology within agriculture may, however, be hampered given the industry is dominated by higher plants and mammals, where large and often polyploid genomes and the lack of adequate tools challenge the ability to deliver outcomes in the short term. However, synthetic biology is a rapidly growing field, new techniques in genome design and synthesis, and more efficient molecular tools such as CRISPR/Cas9 may harbor opportunities more broadly than the development of new cultivars and breeds. In particular, the ability to use synthetic biology to engineer biosensors, synthetic speciation, microbial metabolic engineering, mammalian multiplexed CRISPR, novel anti microbials, and projects such as Yeast 2.0 all have significant potential to deliver transformative changes to agriculture in the short, medium and longer term. Specifically, synthetic biology promises to deliver benefits that increase productivity and sustainability across primary industries, underpinning the industry&rsquo;s prosperity in the face of global challenges."
+  ],
+  "affiliation": [
+    "Department of Molecular Sciences, Macquarie University, North Ryde, NSW 2109, Australia. hugh.goold@dpi.nsw.gov.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plants",
+        "Agriculture",
+        "Microbial",
+        "Synthetic Biology",
+        "Primary Industries"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071285?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071285"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/genes9070341"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-12"
+  ],
+  "dateOfRevision": [
+    "2018-08-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-06"
+  ],
+  "firstPublicationDate": [
+    "2018-07-06"
+  ]
+}

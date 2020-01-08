@@ -1,0 +1,752 @@
+{
+  "id": [
+    "30903183"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30903183"
+  ],
+  "pmcid": [
+    "PMC6450037"
+  ],
+  "doi": [
+    "10.1093/gbe/evz055"
+  ],
+  "title": [
+    "Comparative Genomics Reveals the Genetic Mechanisms of Musk Secretion and Adaptive Immunity in Chinese Forest Musk Deer."
+  ],
+  "authorString": [
+    "Zhou C, Zhang W, Wen Q, Bu P, Gao J, Wang G, Jin J, Song Y, Sun X, Zhang Y, Jiang X, Yu H, Peng C, Shen Y, Price M, Li J, Zhang X, Fan Z, Yue B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhou C"
+          ],
+          "firstName": [
+            "Chuang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wenbo"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen Q"
+          ],
+          "firstName": [
+            "Qinchao"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Sichuan Key Laboratory of Conservation Biology on Endangered Wildlife, College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bu P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Bu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sichuan Key Laboratory of Conservation Biology on Endangered Wildlife, College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Guannan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin J"
+          ],
+          "firstName": [
+            "Jiazheng"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sichuan Engineering Research Center for Medicinal Animals, Xichang, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Song Y"
+          ],
+          "firstName": [
+            "Yinjie"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Center of Infectious Diseases, West China Hospital, Sichuan University and Collaborative Innovation Center of Biotherapy, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun X"
+          ],
+          "firstName": [
+            "Xiaohong"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yifan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Sichuan Key Laboratory of Conservation Biology on Endangered Wildlife, College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang X"
+          ],
+          "firstName": [
+            "Xue"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Sichuan Engineering Research Center for Medicinal Animals, Xichang, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Haoran"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng C"
+          ],
+          "firstName": [
+            "Changjun"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen Y"
+          ],
+          "firstName": [
+            "Yongmei"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Sichuan Engineering Research Center for Medicinal Animals, Xichang, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Price M"
+          ],
+          "firstName": [
+            "Megan"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiuyue"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Sichuan Key Laboratory of Conservation Biology on Endangered Wildlife, College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Z"
+          ],
+          "firstName": [
+            "Zhenxin"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yue B"
+          ],
+          "firstName": [
+            "Bisong"
+          ],
+          "lastName": [
+            "Yue"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2802313"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology and evolution"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol Evol"
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol Evol"
+          ],
+          "NLMid": [
+            "101509707"
+          ],
+          "ISSN": [
+            "1759-6653"
+          ],
+          "ESSN": [
+            "1759-6653"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1019-1032"
+  ],
+  "abstractText": [
+    "The Chinese forest musk deer (Moschus berezovskii; FMD) is an artiodactyl mammal and is both economically valuable and highly endangered. To investigate the genetic mechanisms of musk secretion and adaptive immunity in FMD, we compared its genome to nine other artiodactyl genomes. Comparative genomics demonstrated that eight positively selected genes (PSGs) in FMD were annotated in three KEGG pathways that were related to metabolic and synthetic activity of musk, similar to previous transcriptome studies. Functional enrichment analysis indicated that many PSGs were involved in the regulation of immune system processes, implying important reorganization of the immune system in FMD. FMD-specific missense mutations were found in two PSGs (MHC class II antigen DRA and ADA) that were classified as deleterious by PolyPhen-2, possibly contributing to immune adaptation to infectious diseases. Functional assessment showed that the FMD-specific mutation enhanced the ADA activity, which was likely to strengthen the immune defense against pathogenic invasion. Single nucleotide polymorphism-based inference showed the recent demographic trajectory for FMD. Our data and findings provide valuable genomic resources not only for studying the genetic mechanisms of musk secretion and adaptive immunity, but also for facilitating more effective management of the captive breeding programs for this endangered species."
+  ],
+  "affiliation": [
+    "Key Laboratory of Bioresources and Ecoenvironment (Ministry of Education), College of Life Sciences, Sichuan University, Chengdu, P.R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Deer"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids, Monounsaturated"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Population Dynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, MHC Class II"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amino Acid Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation, Missense"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Adaptive Immunity"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Moschus berezovskii",
+        "Missense mutation",
+        "adaptive immunity",
+        "Positive Selection",
+        "Ada Gene",
+        "Musk Secretion"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids, Monounsaturated"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "musk"
+          ],
+          "registryNumber": [
+            "095I377U8F"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6450037?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6450037"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gbe/evz055"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-11"
+  ],
+  "dateOfCreation": [
+    "2019-03-24"
+  ],
+  "firstIndexDate": [
+    "2019-03-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-13"
+  ],
+  "dateOfRevision": [
+    "2019-07-11"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

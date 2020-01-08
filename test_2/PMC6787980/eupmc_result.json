@@ -1,0 +1,305 @@
+{
+  "id": [
+    "31601225"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31601225"
+  ],
+  "pmcid": [
+    "PMC6787980"
+  ],
+  "doi": [
+    "10.1186/s12915-019-0691-z"
+  ],
+  "title": [
+    "Bacterial microcompartments: catalysis-enhancing metabolic modules for next generation metabolic and biomedical engineering."
+  ],
+  "authorString": [
+    "Kirst H, Kerfeld CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kirst H"
+          ],
+          "firstName": [
+            "Henning"
+          ],
+          "lastName": [
+            "Kirst"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "MSU-DOE Plant Research Laboratory, Michigan State University, 612 Wilson Road, East Lansing, MI, 48824, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kerfeld CA"
+          ],
+          "firstName": [
+            "Cheryl A"
+          ],
+          "lastName": [
+            "Kerfeld"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "MSU-DOE Plant Research Laboratory, Michigan State University, 612 Wilson Road, East Lansing, MI, 48824, USA. ckerfeld@lbl.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2869952"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biol"
+          ],
+          "NLMid": [
+            "101190720"
+          ],
+          "ISSN": [
+            "1741-7007"
+          ],
+          "ESSN": [
+            "1741-7007"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "79"
+  ],
+  "abstractText": [
+    "Bacterial cells have long been thought to be simple cells with little spatial organization, but recent research has shown that they exhibit a remarkable degree of subcellular differentiation. Indeed, bacteria even have organelles such as magnetosomes for sensing magnetic fields or gas vesicles controlling cell buoyancy. A functionally diverse group of bacterial organelles are the bacterial microcompartments (BMCs) that fulfill specialized metabolic needs. Modification and reengineering of these BMCs enable innovative approaches for metabolic engineering and nanomedicine."
+  ],
+  "affiliation": [
+    "MSU-DOE Plant Research Laboratory, Michigan State University, 612 Wilson Road, East Lansing, MI, 48824, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AI114975"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12915-019-0691-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6787980"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6787980?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-12"
+  ],
+  "firstIndexDate": [
+    "2019-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-10"
+  ],
+  "firstPublicationDate": [
+    "2019-10-10"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": [
+    "31437187"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31437187"
+  ],
+  "pmcid": [
+    "PMC6705839"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0220894"
+  ],
+  "title": [
+    "System analysis of cross-talk between nuclear receptors reveals an opposite regulation of the cell cycle by LXR and FXR in human HepaRG liver cells."
+  ],
+  "authorString": [
+    "Wigger L, Casals-Casas C, Baruchet M, Trang KB, Pradervand S, Naldi A, Desvergne B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wigger L"
+          ],
+          "firstName": [
+            "Leonore"
+          ],
+          "lastName": [
+            "Wigger"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5230-0265",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lausanne Genomic Technologies Facility, Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Casals-Casas C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Casals-Casas"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Baruchet M"
+          ],
+          "firstName": [
+            "Michaël"
+          ],
+          "lastName": [
+            "Baruchet"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Trang KB"
+          ],
+          "firstName": [
+            "Khanh B"
+          ],
+          "lastName": [
+            "Trang"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9434-508X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Pradervand S"
+          ],
+          "firstName": [
+            "Sylvain"
+          ],
+          "lastName": [
+            "Pradervand"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Lausanne Genomic Technologies Facility, Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Naldi A"
+          ],
+          "firstName": [
+            "Aurélien"
+          ],
+          "lastName": [
+            "Naldi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6495-2655",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Desvergne B"
+          ],
+          "firstName": [
+            "Béatrice"
+          ],
+          "lastName": [
+            "Desvergne"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6495-2655",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9434-508X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5230-0265",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2843511"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0220894"
+  ],
+  "abstractText": [
+    "Transcriptional regulations exert a critical control of metabolic homeostasis. In particular, the nuclear receptors (NRs) are involved in regulating numerous pathways of the intermediate metabolism. The purpose of the present study was to explore in liver cells the interconnectedness between three of them, LXR, FXR, and PPARα, all three known to act on lipid and glucose metabolism, and also on inflammation. The human cell line HepaRG was selected for its best proximity to human primary hepatocytes. Global gene expression of differentiated HepaRG cells was assessed after 4 hours and 24 hours of exposure to GW3965 (LXR agonist), GW7647 (PPARα agonist), and GW4064 and CDCA (FXR synthetic and natural agonist, respectively). Our work revealed that, contrary to our expectations, NR specificity is largely present at the level of target genes, with a smaller than expected overlap of the set of genes targeted by the different NRs. It also highlighted the much broader activity of the synthetic FXR ligand compared to CDCA. More importantly, our results revealed that activation of FXR has a pro-proliferative effect and decreases the number of tetraploid (or binucleated) hepatocytes, while LXR inhibits the cell cycle progression, inducing hepatocyte differentiation and an increase in tetraploidism. Conclusion: these results highlight the importance of analyzing the different NR activities in a context allowing a direct confrontation of each receptor outcome, and reveals the opposite role of FXR and LXR in hepatocyte cells division and maturation."
+  ],
+  "affiliation": [
+    "Lausanne Genomic Technologies Facility, Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6705839?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6705839"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0220894"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR66844"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-23"
+  ],
+  "firstIndexDate": [
+    "2019-08-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-22"
+  ],
+  "firstPublicationDate": [
+    "2019-08-22"
+  ]
+}

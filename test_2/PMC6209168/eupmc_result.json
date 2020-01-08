@@ -1,0 +1,653 @@
+{
+  "id": [
+    "30379827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30379827"
+  ],
+  "pmcid": [
+    "PMC6209168"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0205117"
+  ],
+  "title": [
+    "Efficient CRISPR/Cas9-based genome editing and its application to conditional genetic analysis in Marchantia polymorpha."
+  ],
+  "authorString": [
+    "Sugano SS, Nishihama R, Shirakawa M, Takagi J, Matsuda Y, Ishida S, Shimada T, Hara-Nishimura I, Osakabe K, Kohchi T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sugano SS"
+          ],
+          "firstName": [
+            "Shigeo S"
+          ],
+          "lastName": [
+            "Sugano"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "R-GIRO, Ritsumeikan University, Kusatsu, Shiga, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishihama R"
+          ],
+          "firstName": [
+            "Ryuichi"
+          ],
+          "lastName": [
+            "Nishihama"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7032-732X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Biostudies, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shirakawa M"
+          ],
+          "firstName": [
+            "Makoto"
+          ],
+          "lastName": [
+            "Shirakawa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Biostudies, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takagi J"
+          ],
+          "firstName": [
+            "Junpei"
+          ],
+          "lastName": [
+            "Takagi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Graduate School of Science, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuda Y"
+          ],
+          "firstName": [
+            "Yoriko"
+          ],
+          "lastName": [
+            "Matsuda"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Biostudies, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ishida S"
+          ],
+          "firstName": [
+            "Sakiko"
+          ],
+          "lastName": [
+            "Ishida"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Graduate School of Biostudies, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimada T"
+          ],
+          "firstName": [
+            "Tomoo"
+          ],
+          "lastName": [
+            "Shimada"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Graduate School of Science, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hara-Nishimura I"
+          ],
+          "firstName": [
+            "Ikuko"
+          ],
+          "lastName": [
+            "Hara-Nishimura"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Graduate School of Science, Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Osakabe K"
+          ],
+          "firstName": [
+            "Keishi"
+          ],
+          "lastName": [
+            "Osakabe"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Faculty of Bioscience and Bioindustry, Tokushima University, Tokushima, Tokushima, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kohchi T"
+          ],
+          "firstName": [
+            "Takayuki"
+          ],
+          "lastName": [
+            "Kohchi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9712-4872",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Biostudies, Kyoto University, Kyoto, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7032-732X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9712-4872",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2732519"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0205117"
+  ],
+  "abstractText": [
+    "Marchantia polymorpha is one of the model species of basal land plants. Although CRISPR/Cas9-based genome editing has already been demonstrated for this plant, the efficiency was too low to apply to functional analysis. In this study, we show the establishment of CRISPR/Cas9 genome editing vectors with high efficiency for both construction and genome editing. Codon optimization of Cas9 to Arabidopsis achieved over 70% genome editing efficiency at two loci tested. Systematic assessment revealed that guide sequences of 17 nt or shorter dramatically decreased this efficiency. We also demonstrated that a combinatorial use of this system and a floxed complementation construct enabled conditional analysis of a nearly essential gene. This study reports that simple, rapid, and efficient genome editing is feasible with the series of developed vectors."
+  ],
+  "affiliation": [
+    "R-GIRO, Ritsumeikan University, Kusatsu, Shiga, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organisms, Genetically Modified"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Marchantia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunoblotting"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Vectors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Knockout Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0205117"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6209168"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6209168?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR17510"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-08"
+  ],
+  "dateOfCreation": [
+    "2018-11-01"
+  ],
+  "firstIndexDate": [
+    "2018-11-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2019-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-31"
+  ],
+  "firstPublicationDate": [
+    "2018-10-31"
+  ]
+}

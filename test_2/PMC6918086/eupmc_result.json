@@ -1,0 +1,400 @@
+{
+  "id": [
+    "31848285"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31848285"
+  ],
+  "pmcid": [
+    "PMC6918086"
+  ],
+  "doi": [
+    "10.1128/mBio.02788-19"
+  ],
+  "title": [
+    "Diversity in Natural Transformation Frequencies and Regulation across Vibrio Species."
+  ],
+  "authorString": [
+    "Simpson CA, Podicheti R, Rusch DB, Dalia AB, van Kessel JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Simpson CA"
+          ],
+          "firstName": [
+            "Chelsea A"
+          ],
+          "lastName": [
+            "Simpson"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Biology, Indiana University, Bloomington, Indiana, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Podicheti R"
+          ],
+          "firstName": [
+            "Ram"
+          ],
+          "lastName": [
+            "Podicheti"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Center for Genomics and Bioinformatics, Indiana University, Bloomington, Indiana, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rusch DB"
+          ],
+          "firstName": [
+            "Douglas B"
+          ],
+          "lastName": [
+            "Rusch"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Center for Genomics and Bioinformatics, Indiana University, Bloomington, Indiana, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dalia AB"
+          ],
+          "firstName": [
+            "Ankur B"
+          ],
+          "lastName": [
+            "Dalia"
+          ],
+          "initials": [
+            "AB"
+          ],
+          "affiliation": [
+            "Department of Biology, Indiana University, Bloomington, Indiana, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "van Kessel JC"
+          ],
+          "firstName": [
+            "Julia C"
+          ],
+          "lastName": [
+            "van Kessel"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Department of Biology, Indiana University, Bloomington, Indiana, USA jcvk@indiana.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2888302"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mBio"
+          ],
+          "ISOAbbreviation": [
+            "mBio"
+          ],
+          "medlineAbbreviation": [
+            "mBio"
+          ],
+          "NLMid": [
+            "101519231"
+          ],
+          "ISSN": [
+            "2150-7511"
+          ],
+          "ESSN": [
+            "2150-7511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "In Vibrio species, chitin-induced natural transformation enables bacteria to take up DNA from the external environment and integrate it into their genome. Expression of the master competence regulator TfoX bypasses the need for chitin induction and drives expression of the genes required for competence in several Vibrio species. Here, we show that TfoX expression in Vibrio campbellii strains DS40M4 and NBRC 15631 enables high natural transformation frequencies. Conversely, transformation was not achieved in the model quorum-sensing strain V. campbellii BB120 (previously classified as Vibrio harveyi). Surprisingly, we find that quorum sensing is not required for transformation in V. campbellii DS40M4 or Vibrio parahaemolyticus in contrast to the established regulatory pathway in Vibrio cholerae in which quorum sensing is required to activate the competence regulator QstR. Similar to V. cholerae, expression of both QstR and TfoX is necessary for transformation in DS40M4. There is a wide disparity in transformation frequencies among even closely related Vibrio strains, with V. vulnificus having the lowest functional transformation frequency. Ectopic expression of both TfoX and QstR is sufficient to produce a significant increase in transformation frequency in Vibrio vulnificus To explore differences in competence regulation, we used previously studied V. cholerae competence genes to inform a comparative genomics analysis coupled with transcriptomics. We find that transformation capability cannot necessarily be predicted by the level of gene conservation but rather correlates with competence gene expression following TfoX induction. Thus, we have uncovered notable species- and strain-level variations in the competence gene regulation pathway across the Vibrio genus.IMPORTANCE Naturally transformable, or competent, bacteria are able to take up DNA from their environment, a key method of horizontal gene transfer for acquisition of new DNA sequences. Our research shows that Vibrio species that inhabit marine environments exhibit a wide diversity in natural transformation capability ranging from nontransformability to high transformation rates in which 10% of cells measurably incorporate new DNA. We show that the role of regulatory systems controlling the expression of competence genes (e.g., quorum sensing) differs throughout both the species and strain levels. We explore natural transformation capabilities of Vibrio campbellii species which have been thus far uncharacterized and find novel regulation of competence. Expression of two key transcription factors, TfoX and QstR, is necessary to stimulate high levels of transformation in Vibrio campbellii and recover low rates of transformation in Vibrio vulnificus."
+  ],
+  "affiliation": [
+    "Department of Biology, Indiana University, Bloomington, Indiana, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R35 GM124698"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35 GM128674"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vibrio",
+        "Natural transformation",
+        "Quorum sensing",
+        "Competence"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/mBio.02788-19"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6918086"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6918086?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR83676"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-19"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-17"
+  ],
+  "firstPublicationDate": [
+    "2019-12-17"
+  ]
+}

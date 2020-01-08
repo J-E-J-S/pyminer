@@ -1,0 +1,553 @@
+{
+  "id": [
+    "30531790"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30531790"
+  ],
+  "pmcid": [
+    "PMC6288119"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07720-x"
+  ],
+  "title": [
+    "Materials genomics methods for high-throughput construction of COFs and targeted synthesis."
+  ],
+  "authorString": [
+    "Lan Y, Han X, Tong M, Huang H, Yang Q, Liu D, Zhao X, Zhong C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lan Y"
+          ],
+          "firstName": [
+            "Youshi"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 100029, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han X"
+          ],
+          "firstName": [
+            "Xianghao"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic and Self-Assembly Chemistry for Organic Functional Molecules, Center for Excellence in Molecular Synthesis, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong M"
+          ],
+          "firstName": [
+            "Minman"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Chemistry and Materials Science, Jiangsu Normal University, Xuzhou, 221116, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Hongliang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Separation Membranes and Membrane Processes, Tianjin Polytechnic University, Tianjin, 300387, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Q"
+          ],
+          "firstName": [
+            "Qingyuan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6961-2855",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 100029, China. qyyang@mail.buct.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dahuan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 100029, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic and Self-Assembly Chemistry for Organic Functional Molecules, Center for Excellence in Molecular Synthesis, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, Shanghai, 200032, China. xzhao@sioc.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong C"
+          ],
+          "firstName": [
+            "Chongli"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7921-9923",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 100029, China. zhongcl@mail.buct.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6961-2855",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7921-9923",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2756345"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5274"
+  ],
+  "abstractText": [
+    "Materials genomics represents a research mode for materials development, for which reliable methods for efficient materials construction are essential. Here we present a methodology for high-throughput construction of covalent organic frameworks (COFs) based on materials genomics strategy, in which a gene partition method of genetic structural units (GSUs) with reactive sites and quasi-reactive assembly algorithms (QReaxAA) for structure generation were proposed by mimicking the natural growth processes of COFs, leading to a library of 130 GSUs and a database of ~470,000 materials containing structures with 10 unreported topologies as well as the existing COFs. As a proof-of-concept example, two generated 3D-COFs with ffc topology and two 2D-COFs with existing topologies were successfully synthesized. This work not only presents useful genomics methods for developing COFs and largely extended the COF structures, but also will stimulate the switch of materials development mode from trial-and-error to theoretical prediction-experimental validation."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Organic-Inorganic Composites, Beijing University of Chemical Technology, Beijing, 100029, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spectroscopy, Fourier Transform Infrared"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Spectroscopy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Structure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Particle Size"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Porosity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Chemical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chemistry Techniques, Synthetic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Chemical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metal-Organic Frameworks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Metal-Organic Frameworks"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07720-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288119"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6288119?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-02"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-18"
+  ],
+  "dateOfRevision": [
+    "2019-12-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-10"
+  ]
+}

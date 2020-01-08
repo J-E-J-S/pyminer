@@ -1,0 +1,477 @@
+{
+  "id": [
+    "31165867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31165867"
+  ],
+  "pmcid": [
+    "PMC6735782"
+  ],
+  "doi": [
+    "10.1093/nar/gkz487"
+  ],
+  "title": [
+    "Massively parallel profiling and predictive modeling of the outcomes of CRISPR/Cas9-mediated double-strand break repair."
+  ],
+  "authorString": [
+    "Chen W, McKenna A, Schreiber J, Haeussler M, Yin Y, Agarwal V, Noble WS, Shendure J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McKenna A"
+          ],
+          "firstName": [
+            "Aaron"
+          ],
+          "lastName": [
+            "McKenna"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schreiber J"
+          ],
+          "firstName": [
+            "Jacob"
+          ],
+          "lastName": [
+            "Schreiber"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Haeussler M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Haeussler"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Santa Cruz Genomics Institute, University of California, Santa Cruz, CA 95064, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Agarwal V"
+          ],
+          "firstName": [
+            "Vikram"
+          ],
+          "lastName": [
+            "Agarwal"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Noble WS"
+          ],
+          "firstName": [
+            "William Stafford"
+          ],
+          "lastName": [
+            "Noble"
+          ],
+          "initials": [
+            "WS"
+          ],
+          "affiliation": [
+            "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shendure J"
+          ],
+          "firstName": [
+            "Jay"
+          ],
+          "lastName": [
+            "Shendure"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Genome Sciences, University of Washington, Seattle, WA 98195, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "15"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2858029"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "7989-8003"
+  ],
+  "abstractText": [
+    "Non-homologous end-joining (NHEJ) plays an important role in double-strand break (DSB) repair of DNA. Recent studies have shown that the error patterns of NHEJ are strongly biased by sequence context, but these studies were based on relatively few templates. To investigate this more thoroughly, we systematically profiled ∼1.16 million independent mutational events resulting from CRISPR/Cas9-mediated cleavage and NHEJ-mediated DSB repair of 6872 synthetic target sequences, introduced into a human cell line via lentiviral infection. We find that: (i) insertions are dominated by 1 bp events templated by sequence immediately upstream of the cleavage site, (ii) deletions are predominantly associated with microhomology and (iii) targets exhibit variable but reproducible diversity with respect to the number and relative frequency of the mutational outcomes to which they give rise. From these data, we trained a model that uses local sequence context to predict the distribution of mutational outcomes. Exploiting the bias of NHEJ outcomes towards microhomology mediated events, we demonstrate the programming of deletion patterns by introducing microhomology to specific locations in the vicinity of the DSB site. We anticipate that our results will inform investigations of DSB repair mechanisms as well as the design of CRISPR/Cas9 experiments for diverse applications including genome-wide screens, gene therapy, lineage tracing and molecular recording."
+  ],
+  "affiliation": [
+    "Molecular Engineering and Sciences Institute, University of Washington, Seattle, WA 98195, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K99 HG010152"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U41 HG002371"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG009136"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UM1 HG009408"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkz487"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6735782"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6735782?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR63091"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-11-17"
+  ],
+  "firstPublicationDate": [
+    "2019-09-01"
+  ]
+}

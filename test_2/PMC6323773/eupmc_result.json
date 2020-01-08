@@ -1,0 +1,622 @@
+{
+  "id": [
+    "30616512"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30616512"
+  ],
+  "pmcid": [
+    "PMC6323773"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5415-1"
+  ],
+  "title": [
+    "RNA-seq analysis of hepatic gene expression of common Pekin, Muscovy, mule and hinny ducks fed ad libitum or overfed."
+  ],
+  "authorString": [
+    "Hérault F, Houée-Bigot M, Baéza E, Bouchez O, Esquerré D, Klopp C, Diot C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hérault F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Hérault"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "PEGASE, INRA, Agrocampus Ouest, 16 Le Clos, 35590, Saint-Gilles, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Houée-Bigot M"
+          ],
+          "firstName": [
+            "Magalie"
+          ],
+          "lastName": [
+            "Houée-Bigot"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Mathématiques Appliquées, Agrocampus Ouest, 35042, Rennes, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Baéza E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Baéza"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "BOA, INRA, Université de Tours, 37380, Nouzilly, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bouchez O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Bouchez"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "GENPhySE, INRA, ENVT, ENSAT, 31326, Castanet-Tolosan, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Esquerré D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Esquerré"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "GENPhySE, INRA, ENVT, ENSAT, 31326, Castanet-Tolosan, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Klopp C"
+          ],
+          "firstName": [
+            "Christophe"
+          ],
+          "lastName": [
+            "Klopp"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Bioinformatics facility, INRA, Genotoul, 31326, Castanet-Tolosan, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Diot C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Diot"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9525-6401",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "PEGASE, INRA, Agrocampus Ouest, 16 Le Clos, 35590, Saint-Gilles, France. christian.diot@inra.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9525-6401",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2766486"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13"
+  ],
+  "abstractText": [
+    "BACKGROUND:Duck species are known to have different susceptibility to fatty liver production in response to overfeeding. In order to better describe mechanisms involved in the development of hepatic steatosis and differences between species, transcriptome analyses were conducted on RNAs extracted from the livers of Pekin and Muscovy duck species and of their reciprocal hybrids, Mule and Hinny ducks fed ad libitum or overfed to identify differentially expressed genes and associated functions. RESULTS:After extraction from the liver of ducks from the four genetic types, RNAs were sequenced and sequencing data were analyzed. Hierarchic clustering and principal component analyses of genes expression levels indicated that differences between individuals lie primarily in feeding effect, differences between genetic types being less important. However, Muscovy ducks fed ad libitum and overfed were clustered together. Interestingly, Hinny and Mule hybrid ducks could not be differentiated from each other, according to feeding. Many genes with expression differences between overfed and ad libitum fed ducks were identified in each genetic type. Functional annotation analyses of these differentially expressed genes highlighted some expected functions (carbohydrate and lipid metabolisms) but also some unexpected ones (cell proliferation and immunity). CONCLUSIONS:These analyses evidence differences in response to overfeeding between different genetic types and help to better characterize functions involved in hepatic steatosis in ducks."
+  ],
+  "affiliation": [
+    "PEGASE, INRA, Agrocampus Ouest, 16 Le Clos, 35590, Saint-Gilles, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liver"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ducks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Liver"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poultry Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animal Feed"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lipid Metabolism"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Differentially expressed genes",
+        "DUCKS",
+        "hepatic steatosis",
+        "Rna Sequencing",
+        "Overfeeding"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323773?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323773"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5415-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "gca"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-09"
+  ],
+  "firstIndexDate": [
+    "2019-01-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-07"
+  ]
+}

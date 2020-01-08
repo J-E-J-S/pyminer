@@ -1,0 +1,381 @@
+{
+  "id": [
+    "30271296"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30271296"
+  ],
+  "pmcid": [
+    "PMC6148597"
+  ],
+  "doi": [
+    "10.5195/jmla.2018.500"
+  ],
+  "title": [
+    "\"Plutchik\": artificial intelligence chatbot for searching NCBI databases."
+  ],
+  "authorString": [
+    "Bohle S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bohle S"
+          ],
+          "firstName": [
+            "Shannon"
+          ],
+          "lastName": [
+            "Bohle"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0761-3961",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Owner and President, Archivopedia, Lima, OH 45805."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0761-3961",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "106"
+      ],
+      "journalIssueId": [
+        "2732315"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Medical Library Association : JMLA"
+          ],
+          "ISOAbbreviation": [
+            "J Med Libr Assoc"
+          ],
+          "medlineAbbreviation": [
+            "J Med Libr Assoc"
+          ],
+          "NLMid": [
+            "101132728"
+          ],
+          "ISSN": [
+            "1536-5050"
+          ],
+          "ESSN": [
+            "1558-9439"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "501-503"
+  ],
+  "abstractText": [
+    "As genetic testing gains ground in medicine, the ability to search across the suite of biomedical and clinical care databases offered through the National Library of Medicine/National Center for Biotechnology Information (NCBI)-such as PubMed, GENE, Structure, the Genetic Testing Registry, and others-holds the potential to enhance quality of clinical care best practices. \"Plutchik\" is a voice-enabled, embodied artificial intelligence (AI) chatbot that can perform highly technical medical searches in and across the NCBI suite of databases."
+  ],
+  "affiliation": [
+    "Owner and President, Archivopedia, Lima, OH 45805."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "National Library of Medicine (U.S.)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Artificial Intelligence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Information Storage and Retrieval"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6148597?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6148597"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5195/jmla.2018.500"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-18"
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "firstIndexDate": [
+    "2018-10-01"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-01"
+  ],
+  "firstPublicationDate": [
+    "2018-10-01"
+  ],
+  "embargoDate": [
+    "2018-10-01"
+  ]
+}

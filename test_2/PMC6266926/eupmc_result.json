@@ -1,0 +1,666 @@
+{
+  "id": [
+    "30400232"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30400232"
+  ],
+  "pmcid": [
+    "PMC6266926"
+  ],
+  "doi": [
+    "10.3390/genes9110531"
+  ],
+  "title": [
+    "Nucleotide Modifications Decrease Innate Immune Response Induced by Synthetic Analogs of snRNAs and snoRNAs."
+  ],
+  "authorString": [
+    "Stepanov G, Zhuravlev E, Shender V, Nushtaeva A, Balakhonova E, Mozhaeva E, Kasakin M, Koval V, Lomzov A, Pavlyukov M, Malyants I, Zhorov M, Kabilova T, Chernolovskaya E, Govorun V, Kuligina E, Semenov D, Richter V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stepanov G"
+          ],
+          "firstName": [
+            "Grigory"
+          ],
+          "lastName": [
+            "Stepanov"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3393-3192",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. stepanovga@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhuravlev E"
+          ],
+          "firstName": [
+            "Evgenii"
+          ],
+          "lastName": [
+            "Zhuravlev"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. evgenijur@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shender V"
+          ],
+          "firstName": [
+            "Victoria"
+          ],
+          "lastName": [
+            "Shender"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9156-2938",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, 117997 Moscow, Russia. victoria.shender@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Nushtaeva A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Nushtaeva"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. nushtaeva.anna@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Balakhonova E"
+          ],
+          "firstName": [
+            "Evgenia"
+          ],
+          "lastName": [
+            "Balakhonova"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. zendriya-87@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Mozhaeva E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Mozhaeva"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. mozhaevaalena@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasakin M"
+          ],
+          "firstName": [
+            "Marat"
+          ],
+          "lastName": [
+            "Kasakin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0069-0040",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. kassakinm@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Koval V"
+          ],
+          "firstName": [
+            "Vladimir"
+          ],
+          "lastName": [
+            "Koval"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2577-2184",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. koval@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Lomzov A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Lomzov"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. lomzov@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavlyukov M"
+          ],
+          "firstName": [
+            "Marat"
+          ],
+          "lastName": [
+            "Pavlyukov"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry of the Russian Academy of Sciences, 117997 Moscow, Russia. marat.pav@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Malyants I"
+          ],
+          "firstName": [
+            "Irina"
+          ],
+          "lastName": [
+            "Malyants"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical-Biological Agency, 119435 Moscow, Russia. iricam@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhorov M"
+          ],
+          "firstName": [
+            "Mikhail"
+          ],
+          "lastName": [
+            "Zhorov"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. zhorovlbnk@yandex.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Kabilova T"
+          ],
+          "firstName": [
+            "Tatyana"
+          ],
+          "lastName": [
+            "Kabilova"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. kabilova@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Chernolovskaya E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Chernolovskaya"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. elena_ch@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Govorun V"
+          ],
+          "firstName": [
+            "Vadim"
+          ],
+          "lastName": [
+            "Govorun"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical-Biological Agency, 119435 Moscow, Russia. vgovorun@yandex.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuligina E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Kuligina"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3145-1878",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. kuligina@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Semenov D"
+          ],
+          "firstName": [
+            "Dmitry"
+          ],
+          "lastName": [
+            "Semenov"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. semenov@niboch.nsc.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Richter V"
+          ],
+          "firstName": [
+            "Vladimir"
+          ],
+          "lastName": [
+            "Richter"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. richter@niboch.nsc.ru."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0069-0040",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2577-2184",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3145-1878",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9156-2938",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3393-3192",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2746537"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes"
+          ],
+          "ISOAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "NLMid": [
+            "101551097"
+          ],
+          "ISSN": [
+            "2073-4425"
+          ],
+          "ESSN": [
+            "2073-4425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Short nuclear regulatory RNAs play a key role in the main stages of maturation of the precursors of the major RNA species. Small nuclear RNAs (snRNAs) form the core of the spliceosome and are responsible for the splicing of pre-mRNA molecules. Small nucleolar RNAs (snoRNAs) direct post-transcriptional modification of pre-rRNAs. A promising strategy for the development of non-coding RNA (ncRNAs) mimicking molecules is the introduction of modified nucleotides, which are normally present in natural ncRNAs, into the structure of synthetic RNAs. We have created a set of snoRNAs and snRNA analogs and studied the effect of base modifications, specifically, pseudouridine (Ψ) and 5-methylcytidine (m⁵C), on the immune-stimulating and cytotoxic properties of these RNAs. Here, we performed a whole-transcriptome study of the influence of synthetic snoRNA analogs with various modifications on gene expression in human cells. Moreover, we confirmed the role of PKR in the recognition of snoRNA and snRNA analogs using the short hairpin RNA (shRNA) technique. We believe that the data obtained will contribute to the understanding of the role of nucleotide modification in ncRNA functions, and can be useful for creating the agents for gene regulation based on the structure of natural snoRNAs and snRNAs."
+  ],
+  "affiliation": [
+    "Institute of Chemical Biology and Fundamental Medicine, Siberian Branch, Russian Academy of Sciences, 630090 Novosibirsk, Russia. stepanovga@niboch.nsc.ru."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16-04-01414_a, 16-34-60136_mol_а_dk and 17-29-06056"
+          ],
+          "agency": [
+            "Russian Foundation for Basic Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "16-14-10284 and 16-15-10105"
+          ],
+          "agency": [
+            "Russian Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "6196.2018.4"
+          ],
+          "agency": [
+            "the grant of the President of the Russian Federation for young researchers"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "innate immune response",
+        "Rna-seq",
+        "Pkr",
+        "Rna Modification",
+        "Small Nuclear Rnas",
+        "Small Nucleolar Rnas",
+        "Synthetic Rna Analogs"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/genes9110531"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6266926"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6266926?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-11-08"
+  ],
+  "firstIndexDate": [
+    "2018-11-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-18"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-02"
+  ],
+  "firstPublicationDate": [
+    "2018-11-02"
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": [
+    "29567741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29567741"
+  ],
+  "pmcid": [
+    "PMC5864939"
+  ],
+  "doi": [
+    "10.1128/genomeA.00181-18"
+  ],
+  "title": [
+    "Next-Generation Sequencing of Haematococcus lacustris Reveals an Extremely Large 1.35-Megabase Chloroplast Genome."
+  ],
+  "authorString": [
+    "Bauman N, Akella S, Hann E, Morey R, Schwartz AS, Brown R, Richardson TH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bauman N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Bauman"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA nbauman@syntheticgenomics.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Akella S"
+          ],
+          "firstName": [
+            "Srividya"
+          ],
+          "lastName": [
+            "Akella"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hann E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Hann"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Morey R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Morey"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz AS"
+          ],
+          "firstName": [
+            "Ariel S"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown R"
+          ],
+          "firstName": [
+            "Rob"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Richardson TH"
+          ],
+          "firstName": [
+            "Toby H"
+          ],
+          "lastName": [
+            "Richardson"
+          ],
+          "initials": [
+            "TH"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, California, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2664210"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome announcements"
+          ],
+          "ISOAbbreviation": [
+            "Genome Announc"
+          ],
+          "medlineAbbreviation": [
+            "Genome Announc"
+          ],
+          "NLMid": [
+            "101595808"
+          ],
+          "ISSN": [
+            "2169-8287"
+          ],
+          "ESSN": [
+            "2169-8287"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Haematococcus lacustris is an industrially relevant microalga that is used for the production of the carotenoid astaxanthin. Here, we report the use of PacBio long-read sequencing to assemble the chloroplast genome of H. lacustris strain UTEX:2505. At 1.35 Mb, this is the largest assembled chloroplast of any plant or alga known to date."
+  ],
+  "affiliation": [
+    "Synthetic Genomics, Inc., La Jolla, California, USA nbauman@syntheticgenomics.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/genomeA.00181-18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5864939"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5864939?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-03-24"
+  ],
+  "firstIndexDate": [
+    "2018-03-24"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-09"
+  ],
+  "dateOfRevision": [
+    "2018-03-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-22"
+  ],
+  "firstPublicationDate": [
+    "2018-03-22"
+  ]
+}

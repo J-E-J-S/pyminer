@@ -1,0 +1,939 @@
+{
+  "id": [
+    "31120885"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31120885"
+  ],
+  "pmcid": [
+    "PMC6550410"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008174"
+  ],
+  "title": [
+    "An Arabidopsis FANCJ helicase homologue is required for DNA crosslink repair and rDNA repeat stability."
+  ],
+  "authorString": [
+    "Dorn A, Feller L, Castri D, Röhrig S, Enderle J, Herrmann NJ, Block-Schmidt A, Trapp O, Köhler L, Puchta H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dorn A"
+          ],
+          "firstName": [
+            "Annika"
+          ],
+          "lastName": [
+            "Dorn"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0749-8425",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Feller L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Feller"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Castri D"
+          ],
+          "firstName": [
+            "Dominique"
+          ],
+          "lastName": [
+            "Castri"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Röhrig S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Röhrig"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Enderle J"
+          ],
+          "firstName": [
+            "Janina"
+          ],
+          "lastName": [
+            "Enderle"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7016-0064",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Herrmann NJ"
+          ],
+          "firstName": [
+            "Natalie J"
+          ],
+          "lastName": [
+            "Herrmann"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Block-Schmidt A"
+          ],
+          "firstName": [
+            "Astrid"
+          ],
+          "lastName": [
+            "Block-Schmidt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Trapp O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Trapp"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6679-9631",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Köhler L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Köhler"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9781-5713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Puchta H"
+          ],
+          "firstName": [
+            "Holger"
+          ],
+          "lastName": [
+            "Puchta"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1073-8546",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1073-8546",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0749-8425",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7016-0064",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9781-5713",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6679-9631",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2810856"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008174"
+  ],
+  "abstractText": [
+    "Proteins of the Fanconi Anemia (FA) complementation group are required for crosslink (CL) repair in humans and their loss leads to severe pathological phenotypes. Here we characterize a homolog of the Fe-S cluster helicase FANCJ in the model plant Arabidopsis, AtFANCJB, and show that it is involved in interstrand CL repair. It acts at a presumably early step in concert with the nuclease FAN1 but independently of the nuclease AtMUS81, and is epistatic to both error-prone and error-free post-replicative repair in Arabidopsis. The simultaneous knock out of FANCJB and the Fe-S cluster helicase RTEL1 leads to induced cell death in root meristems, indicating an important role of the enzymes in replicative DNA repair. Surprisingly, we found that AtFANCJB is involved in safeguarding rDNA stability in plants. In the absence of AtRTEL1 and AtFANCJB, we detected a synergetic reduction to about one third of the original number of 45S rDNA copies. It is tempting to speculate that the detected rDNA instability might be due to deficiencies in G-quadruplex structure resolution and might thus contribute to pathological phenotypes of certain human genetic diseases."
+  ],
+  "affiliation": [
+    "Botanical Institute, Molecular Biology and Biochemistry, Karlsruhe Institute of Technology, Karlsruhe, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "741306"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meristem"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fanconi Anemia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Damage"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomic Instability"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Helicases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA Helicases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Ribosomal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Repair"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Replication"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Basic-Leucine Zipper Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fanconi Anemia Complementation Group Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Ribosomal"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Arabidopsis Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Basic-Leucine Zipper Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fanconi Anemia Complementation Group Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA Helicases"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.-"
+          ]
+        },
+        {
+          "name": [
+            "RNA Helicases"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.13"
+          ]
+        },
+        {
+          "name": [
+            "RTEL1 protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "EC 3.6.4.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008174"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6550410"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6550410?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-26"
+  ],
+  "dateOfCreation": [
+    "2019-05-24"
+  ],
+  "firstIndexDate": [
+    "2019-05-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-23"
+  ],
+  "firstPublicationDate": [
+    "2019-05-23"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": [
+    "31717488"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31717488"
+  ],
+  "pmcid": [
+    "PMC6888406"
+  ],
+  "doi": [
+    "10.3390/ijms20225600"
+  ],
+  "title": [
+    "MicroRNA-Based Therapeutic Perspectives in Myotonic Dystrophy."
+  ],
+  "authorString": [
+    "López Castel A, Overby SJ, Artero R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "López Castel A"
+          ],
+          "firstName": [
+            "Arturo"
+          ],
+          "lastName": [
+            "López Castel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Translational Genomics Group, Incliva Health Research Institute, Burjassot, 46100 Valencia, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Overby SJ"
+          ],
+          "firstName": [
+            "Sarah Joann"
+          ],
+          "lastName": [
+            "Overby"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8195-9456",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Translational Genomics Group, Incliva Health Research Institute, Burjassot, 46100 Valencia, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Artero R"
+          ],
+          "firstName": [
+            "Rubén"
+          ],
+          "lastName": [
+            "Artero"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Translational Genomics Group, Incliva Health Research Institute, Burjassot, 46100 Valencia, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8195-9456",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2879513"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Myotonic dystrophy involves two types of chronically debilitating rare neuromuscular diseases: type 1 (DM1) and type 2 (DM2). Both share similarities in molecular cause, clinical signs, and symptoms with DM2 patients usually displaying milder phenotypes. It is well documented that key clinical symptoms in DM are associated with a strong mis-regulation of RNA metabolism observed in patient's cells. This mis-regulation is triggered by two leading DM-linked events: the sequestration of Muscleblind-like proteins (MBNL) and the mis-regulation of the CUGBP RNA-Binding Protein Elav-Like Family Member 1 (CELF1) that cause significant alterations to their important functions in RNA processing. It has been suggested that DM1 may be treatable through endogenous modulation of the expression of MBNL and CELF1 proteins. In this study, we analyzed the recent identification of the involvement of microRNA (miRNA) molecules in DM and focus on the modulation of these miRNAs to therapeutically restore normal MBNL or CELF1 function. We also discuss additional prospective miRNA targets, the use of miRNAs as disease biomarkers, and additional promising miRNA-based and miRNA-targeting drug development strategies. This review provides a unifying overview of the dispersed data on miRNA available in the context of DM."
+  ],
+  "affiliation": [
+    "Translational Genomics Group, Incliva Health Research Institute, Burjassot, 46100 Valencia, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HR17-00268"
+          ],
+          "agency": [
+            "La Caixa Banking Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antisense oligonucleotides",
+        "Alternative splicing",
+        "Myotonic dystrophy",
+        "MicroRNA",
+        "Celf1",
+        "Mbnl Proteins",
+        "Mirna-based Drug",
+        "Mirna-targeting Drug"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20225600"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6888406"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6888406?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-11"
+  ],
+  "dateOfRevision": [
+    "2019-11-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-09"
+  ],
+  "firstPublicationDate": [
+    "2019-11-09"
+  ]
+}

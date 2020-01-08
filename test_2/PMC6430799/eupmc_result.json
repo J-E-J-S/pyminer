@@ -1,0 +1,623 @@
+{
+  "id": [
+    "30902988"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30902988"
+  ],
+  "pmcid": [
+    "PMC6430799"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09272-0"
+  ],
+  "title": [
+    "Chiral DNA sequences as commutable controls for clinical genomics."
+  ],
+  "authorString": [
+    "Deveson IW, Madala BS, Blackburn J, Barker C, Wong T, Barton KM, Smith MA, Watkins DN, Mercer TR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Deveson IW"
+          ],
+          "firstName": [
+            "Ira W"
+          ],
+          "lastName": [
+            "Deveson"
+          ],
+          "initials": [
+            "IW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3861-0472",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia. i.deveson@garvan.org.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Madala BS"
+          ],
+          "firstName": [
+            "Bindu Swapna"
+          ],
+          "lastName": [
+            "Madala"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Blackburn J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Blackburn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5216-8815",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barker C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Barker"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong T"
+          ],
+          "firstName": [
+            "Ted"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Barton KM"
+          ],
+          "firstName": [
+            "Kirston M"
+          ],
+          "lastName": [
+            "Barton"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith MA"
+          ],
+          "firstName": [
+            "Martin A"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2259-1713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Watkins DN"
+          ],
+          "firstName": [
+            "D Neil"
+          ],
+          "lastName": [
+            "Watkins"
+          ],
+          "initials": [
+            "DN"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mercer TR"
+          ],
+          "firstName": [
+            "Tim R"
+          ],
+          "lastName": [
+            "Mercer"
+          ],
+          "initials": [
+            "TR"
+          ],
+          "affiliation": [
+            "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia. tmercer@altius.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2259-1713",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5216-8815",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3861-0472",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2787934"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1342"
+  ],
+  "abstractText": [
+    "Chirality is a property describing any object that is inequivalent to its mirror image. Due to its 5'-3' directionality, a DNA sequence is distinct from a mirrored sequence arranged in reverse nucleotide-order, and is therefore chiral. A given sequence and its opposing chiral partner sequence share many properties, such as nucleotide composition and sequence entropy. Here we demonstrate that chiral DNA sequence pairs also perform equivalently during molecular and bioinformatic techniques that underpin genetic analysis, including PCR amplification, hybridization, whole-genome, target-enriched and nanopore sequencing, sequence alignment and variant detection. Given these shared properties, synthetic DNA sequences mirroring clinically relevant or analytically challenging regions of the human genome are ideal controls for clinical genomics. The addition of synthetic chiral sequences (sequins) to patient tumor samples can prevent false-positive and false-negative mutation detection to improve diagnosis. Accordingly, we propose that sequins can fulfill the need for commutable internal controls in precision medicine."
+  ],
+  "affiliation": [
+    "Garvan Institute of Medical Research, Sydney, 2010, NSW, Australia. i.deveson@garvan.org.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymerase Chain Reaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Alignment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microsatellite Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nanopores"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA"
+          ],
+          "registryNumber": [
+            "9007-49-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6430799?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6430799"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09272-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2019-03-24"
+  ],
+  "firstIndexDate": [
+    "2019-03-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-22"
+  ],
+  "firstPublicationDate": [
+    "2019-03-22"
+  ]
+}

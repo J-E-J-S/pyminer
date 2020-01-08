@@ -1,0 +1,430 @@
+{
+  "id": [
+    "31736924"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31736924"
+  ],
+  "pmcid": [
+    "PMC6838018"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02499"
+  ],
+  "title": [
+    "A Cautionary Report for Pathogen Identification Using Shotgun Metagenomics; A Comparison to Aerobic Culture and Polymerase Chain Reaction for Salmonella enterica Identification."
+  ],
+  "authorString": [
+    "Doster E, Rovira P, Noyes NR, Burgess BA, Yang X, Weinroth MD, Linke L, Magnuson R, Boucher C, Belk KE, Morley PS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Doster E"
+          ],
+          "firstName": [
+            "Enrique"
+          ],
+          "lastName": [
+            "Doster"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Microbiology, Immunology and Pathology, Colorado State University, Fort Collins, CO, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Rovira P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Rovira"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Instituto Nacional de Investigacion Agropecuaria, Treinta y Tres, Uruguay."
+          ]
+        },
+        {
+          "fullName": [
+            "Noyes NR"
+          ],
+          "firstName": [
+            "Noelle R"
+          ],
+          "lastName": [
+            "Noyes"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "affiliation": [
+            "Department of Veterinary Population Medicine, University of Minnesota, St. Paul, MN, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Burgess BA"
+          ],
+          "firstName": [
+            "Brandy A"
+          ],
+          "lastName": [
+            "Burgess"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Department of Population Health, University of Georgia, Athens, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Animal Science, University of California, Davis, Davis, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Weinroth MD"
+          ],
+          "firstName": [
+            "Margaret D"
+          ],
+          "lastName": [
+            "Weinroth"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Department of Animal Sciences, Colorado State University, Fort Collins, CO, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Linke L"
+          ],
+          "firstName": [
+            "Lyndsey"
+          ],
+          "lastName": [
+            "Linke"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Clinical Sciences, Colorado State University, Fort Collins, CO, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Magnuson R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Magnuson"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Clinical Sciences, Colorado State University, Fort Collins, CO, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Boucher C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Boucher"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Belk KE"
+          ],
+          "firstName": [
+            "Keith E"
+          ],
+          "lastName": [
+            "Belk"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Department of Animal Sciences, Colorado State University, Fort Collins, CO, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Morley PS"
+          ],
+          "firstName": [
+            "Paul S"
+          ],
+          "lastName": [
+            "Morley"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Veterinary Education, Research, and Outreach Center, West Texas A&M University, Canyon, TX, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2499"
+  ],
+  "abstractText": [
+    "This study was conducted to compare aerobic culture, polymerase chain reaction (PCR), lateral flow immunoassay (LFI), and shotgun metagenomics for identification of Salmonella enterica in feces collected from feedlot cattle. Samples were analyzed in parallel using all four tests. Results from aerobic culture and PCR were 100% concordant and indicated low S. enterica prevalence (3/60 samples positive). Although low S. enterica prevalence restricted formal statistical comparisons, LFI and deep metagenomic sequencing results were discordant with these results. Specifically, metagenomic analysis using k-mer-based classification against the RefSeq database indicated that 11/60 of samples contained sequence reads that matched to the S. enterica genome and uniquely identified this species of bacteria within the sample. However, further examination revealed that plasmid sequences were often included with bacterial genomic sequence data submitted to NCBI, which can lead to incorrect taxonomic classification. To circumvent this classification problem, we separated all plasmid sequences included in bacterial RefSeq genomes and reassigned them to a unique taxon so that they would not be uniquely associated with specific bacterial species such as S. enterica. Using this revised database and taxonomic structure, we found that only 6/60 samples contained sequences specific for S. enterica, suggesting increased relative specificity. Reads identified as S. enterica in these six samples were further evaluated using BLAST and NCBI's nr/nt database, which identified that only 2/60 samples contained reads exclusive to S. enterica chromosomal genomes. These two samples were culture- and PCR-negative, suggesting that even deep metagenomic sequencing suffers from lower sensitivity and specificity in comparison to more traditional pathogen detection methods. Additionally, no sample reads were taxonomically classified as S. enterica with two other metagenomic tools, Metagenomic Intra-species Diversity Analysis System (MIDAS) and Metagenomic Phylogenetic Analysis 2 (MetaPhlAn2). This study re-affirmed that the traditional techniques of aerobic culture and PCR provide similar results for S. enterica identification in cattle feces. On the other hand, metagenomic results are highly influenced by the classification method and reference database employed. These results highlight the nuances of computational detection of species-level sequences within short-read metagenomic sequence data, and emphasize the need for cautious interpretation of such results."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Immunology and Pathology, Colorado State University, Fort Collins, CO, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Culture",
+        "PCR",
+        "Pathogen identification",
+        "Salmonella Enterica",
+        "Shotgun Metagenomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02499"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838018"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838018?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

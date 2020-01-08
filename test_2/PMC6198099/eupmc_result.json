@@ -1,0 +1,358 @@
+{
+  "id": [
+    "30343252"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30343252"
+  ],
+  "pmcid": [
+    "PMC6198099"
+  ],
+  "doi": [
+    "10.1016/j.omtn.2018.09.005"
+  ],
+  "title": [
+    "Improving the Angiogenic Potential of EPCs via Engineering with Synthetic Modified mRNAs."
+  ],
+  "authorString": [
+    "Steinle H, Golombek S, Behring A, Schlensak C, Wendel HP, Avci-Adali M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Steinle H"
+          ],
+          "firstName": [
+            "Heidrun"
+          ],
+          "lastName": [
+            "Steinle"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Golombek S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Golombek"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Behring A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Behring"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schlensak C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Schlensak"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wendel HP"
+          ],
+          "firstName": [
+            "Hans Peter"
+          ],
+          "lastName": [
+            "Wendel"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Avci-Adali M"
+          ],
+          "firstName": [
+            "Meltem"
+          ],
+          "lastName": [
+            "Avci-Adali"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4008-4272",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany. Electronic address: meltem.avci-adali@uni-tuebingen.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4008-4272",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2730150"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular therapy. Nucleic acids"
+          ],
+          "ISOAbbreviation": [
+            "Mol Ther Nucleic Acids"
+          ],
+          "medlineAbbreviation": [
+            "Mol Ther Nucleic Acids"
+          ],
+          "NLMid": [
+            "101581621"
+          ],
+          "ISSN": [
+            "2162-2531"
+          ],
+          "ESSN": [
+            "2162-2531"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "387-398"
+  ],
+  "abstractText": [
+    "The application of endothelial progenitor cells (EPCs) for the revascularization of ischemic tissues, such as after myocardial infarction, stroke, and acute limb ischemia, has a huge clinical potential. However, the low retention and engraftment of EPCs as well as the poor survival of migrated stem cells in ischemic tissues still hamper the successful clinical application. Thus, in this study, we engineered, for the first time, murine EPCs with synthetic mRNAs to transiently produce proangiogenic factors vascular endothelial growth factor-A (VEGF-A), stromal cell-derived factor-1α (SDF-1α), and angiopoietin-1 (ANG-1). After the transfection of cells with synthetic mRNAs, significantly increased VEGF-A, SDF-1α, and ANG-1 protein levels were detected compared to untreated EPCs. Thereby, mRNA-engineered EPCs showed significantly increased chemotactic activity versus untreated EPCs and resulted in significantly improved attraction of EPCs. Furthermore, ANG-1 mRNA-transfected EPCs displayed a strong wound-healing capacity. Already after 12 hr, 94% of the created wound area in the scratch assay was closed compared to approximately 45% by untreated EPCs. Moreover, the transfection of EPCs with ANG-1 or SDF-1α mRNA also significantly improved the in vitro tube formation capacity; however, the strongest effect could be detected with EPCs simultaneously transfected with VEGF-A, SDF-1α, and ANG-1 mRNA. In the in vivo chicken chorioallantoic membrane (CAM) assay, EPCs transfected with ANG-1 mRNA revealed the strongest angiogenetic potential with significantly elevated vessel density and total vessel network length. In conclusion, this study demonstrated that EPCs can be successfully engineered with synthetic mRNAs encoding proangiogenic factors to improve their therapeutic angiogenetic potential in patients experiencing chronic or acute ischemic disease."
+  ],
+  "affiliation": [
+    "University Hospital Tuebingen, Department of Thoracic and Cardiovascular Surgery, Calwerstraße 7/1, 72076 Tuebingen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Angiogenesis",
+        "Ischemia",
+        "Epcs",
+        "Proangiogenic Factors",
+        "Synthetic Mrna"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.omtn.2018.09.005"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6198099"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6198099?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-22"
+  ],
+  "firstIndexDate": [
+    "2018-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-30"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-13"
+  ],
+  "firstPublicationDate": [
+    "2018-09-13"
+  ]
+}

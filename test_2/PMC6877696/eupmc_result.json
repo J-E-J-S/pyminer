@@ -1,0 +1,397 @@
+{
+  "id": [
+    "31803072"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31803072"
+  ],
+  "pmcid": [
+    "PMC6877696"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.01427"
+  ],
+  "title": [
+    "Selection of Reference Genes for RT-qPCR Analysis Under Intrinsic Conditions in the Hawthorn Spider Mite, Amphitetranychus viennensis (Acarina: Tetranychidae)."
+  ],
+  "authorString": [
+    "Yang J, Gao Y, Liu Z, Lu J, Zhang Y, Zhang P, Fan J, Zhou X, Fan R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhongfang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu J"
+          ],
+          "firstName": [
+            "Junjiao"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuying"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Pengjiu"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan J"
+          ],
+          "firstName": [
+            "Jianbin"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou X"
+          ],
+          "firstName": [
+            "Xuguo"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Entomology, University of Kentucky, Lexington, KY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan R"
+          ],
+          "firstName": [
+            "Renjun"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1427"
+  ],
+  "abstractText": [
+    "Hawthorn spider mite, Amphitetranychus viennensis Zacher, is one of the most devastating pests of deciduous fruit trees. The overall goal of this research is to develop a standardized protocol for real-time quantitative reverse transcription PCR (RT-qPCR) analysis in A. viennensis following the MIQE (minimum information for publication of Quantitative real time PCR experiments) guidelines. Based on the previous knowledge, we hypothesized that internal references for RT-qPCR analysis reside in housekeeping genes (HKGs). To test this hypothesis, we examined the stability of nine HKGs from A. viennensis, including 18S ribosomal RNA (18S), 28S ribosomal RNA (28S), Elongation factor 1-alpha (EF1A), Actin3, V-ATP vacuolar-type H+-ATPase (V-ATPase), α-tubulin (α-tubulin), Ribosomal protein L13 (RPL13), 40S ribosomal protein S9 (RPS9), and Glyceraldehyde 3-phosphate dehydrogenase (GAPDH). The expression profile of these candidates under intrinsic conditions was evaluated by a panel of computational programs, including geNorm, Normfinder, BestKeeper, and ΔCt method. Based on RefFinder, a comprehensive software integrating all four above-mentioned algorithms, V-ATPase, Actin3, and GAPDH are the top three reference genes, which are stably expressed across all the intrinsic conditions, including developmental stage, sex, and diapause. In addition, we compared reference genes recommended for different developmental stages among the nine cell-content feeding arthropods, including four spider mites, A. viennensis, Tetranychus urticae, Tetranychus cinnabarinus, and Panonychus citri, and five hemipterans, Myzus persicae, Aphis gossypii, Toxoptera citricida, Lipaphis erysimi, and Sogatella furcifera. Not surprisingly, rRNAs and ribosomal proteins, the most abundant RNA species, is the top choice, and follows by EF1A, Actin, GAPDH, and tubulin. Information present here lays the foundation for the genomic and functional genomic research in cell-content feeding arthropods in general and A. viennensis in particular."
+  ],
+  "affiliation": [
+    "Shanxi Key Laboratory of Integrated Pest Management in Agriculture (IPMA), Institute of Plant Protection, Shanxi Academy of Agricultural Sciences, Taiyuan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hawthorn spider mites",
+        "Rt-qpcr",
+        "Housekeeping Genes",
+        "Reference Genes",
+        "Amphitetranychus Viennensis",
+        "Cell-content Feeding"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.01427"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6877696"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6877696?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-06"
+  ],
+  "firstIndexDate": [
+    "2019-12-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-19"
+  ],
+  "firstPublicationDate": [
+    "2019-11-19"
+  ]
+}

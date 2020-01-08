@@ -1,0 +1,579 @@
+{
+  "id": [
+    "31347500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31347500"
+  ],
+  "pmcid": [
+    "PMC6660238"
+  ],
+  "doi": [
+    "10.7554/eLife.46454"
+  ],
+  "title": [
+    "Combinations of Spok genes create multiple meiotic drivers in Podospora."
+  ],
+  "authorString": [
+    "Vogan AA, Ament-Velásquez SL, Granger-Farbos A, Svedberg J, Bastiaans E, Debets AJ, Coustou V, Yvanne H, Clavé C, Saupe SJ, Johannesson H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vogan AA"
+          ],
+          "firstName": [
+            "Aaron A"
+          ],
+          "lastName": [
+            "Vogan"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2013-7445",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Organismal biology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Ament-Velásquez SL"
+          ],
+          "firstName": [
+            "S Lorena"
+          ],
+          "lastName": [
+            "Ament-Velásquez"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3371-9292",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Organismal biology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Granger-Farbos A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Granger-Farbos"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Svedberg J"
+          ],
+          "firstName": [
+            "Jesper"
+          ],
+          "lastName": [
+            "Svedberg"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Organismal biology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Bastiaans E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Bastiaans"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Wageningen University, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Debets AJ"
+          ],
+          "firstName": [
+            "Alfons Jm"
+          ],
+          "lastName": [
+            "Debets"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Wageningen University, Wageningen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Coustou V"
+          ],
+          "firstName": [
+            "Virginie"
+          ],
+          "lastName": [
+            "Coustou"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "University of Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Yvanne H"
+          ],
+          "firstName": [
+            "Hélène"
+          ],
+          "lastName": [
+            "Yvanne"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "University of Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Clavé C"
+          ],
+          "firstName": [
+            "Corinne"
+          ],
+          "lastName": [
+            "Clavé"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "University of Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Saupe SJ"
+          ],
+          "firstName": [
+            "Sven J"
+          ],
+          "lastName": [
+            "Saupe"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "University of Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Johannesson H"
+          ],
+          "firstName": [
+            "Hanna"
+          ],
+          "lastName": [
+            "Johannesson"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6359-9856",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Organismal biology, Uppsala University, Uppsala, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6359-9856",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2013-7445",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3371-9292",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2832743"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Meiotic drive is the preferential transmission of a particular allele during sexual reproduction. The phenomenon is observed as spore killing in multiple fungi. In natural populations of Podospora anserina, seven spore killer types (Psks) have been identified through classical genetic analyses. Here we show that the Spok gene family underlies the Psks. The combination of Spok genes at different chromosomal locations defines the spore killer types and creates a killing hierarchy within a population. We identify two novel Spok homologs located within a large (74-167 kbp) region (the Spok block) that resides in different chromosomal locations in different strains. We confirm that the SPOK protein performs both killing and resistance functions and show that these activities are dependent on distinct domains, a predicted nuclease and kinase domain. Genomic and phylogenetic analyses across ascomycetes suggest that the Spok genes disperse through cross-species transfer, and evolve by duplication and diversification within lineages."
+  ],
+  "affiliation": [
+    "Organismal biology, Uppsala University, Uppsala, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Podospora genomics"
+          ],
+          "agency": [
+            "Royal Physiographic Society in Lund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Podospora genomics"
+          ],
+          "agency": [
+            "Lars Hierta Memorial Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ERC-2014-CoG"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Spore killer genomics"
+          ],
+          "agency": [
+            "Swedish Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "648143"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fungi",
+        "Genetics",
+        "Genomics",
+        "Evolutionary Biology",
+        "Gene Drive",
+        "Genomic Conflict",
+        "Selfish Genetic Element",
+        "Spore Killer",
+        "Podospora"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.46454"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6660238"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6660238?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR71869"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-27"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-10-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-26"
+  ],
+  "firstPublicationDate": [
+    "2019-07-26"
+  ]
+}

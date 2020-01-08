@@ -1,0 +1,381 @@
+{
+  "id": [
+    "31710622"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31710622"
+  ],
+  "pmcid": [
+    "PMC6872169"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1007451"
+  ],
+  "title": [
+    "Uncovering the subtype-specific temporal order of cancer pathway dysregulation."
+  ],
+  "authorString": [
+    "Khakabimamaghani S, Ding D, Snow O, Ester M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khakabimamaghani S"
+          ],
+          "firstName": [
+            "Sahand"
+          ],
+          "lastName": [
+            "Khakabimamaghani"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5178-0188",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Computing Science, Simon Fraser University, Burnaby, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding D"
+          ],
+          "firstName": [
+            "Dujian"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8436-209X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Computing Science, Simon Fraser University, Burnaby, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Snow O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Snow"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5051-1771",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Computing Science, Simon Fraser University, Burnaby, British Columbia, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ester M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Ester"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Computing Science, Simon Fraser University, Burnaby, British Columbia, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5051-1771",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5178-0188",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8436-209X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2876048"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1007451"
+  ],
+  "abstractText": [
+    "Cancer is driven by genetic mutations that dysregulate pathways important for proper cell function. Therefore, discovering these cancer pathways and their dysregulation order is key to understanding and treating cancer. However, the heterogeneity of mutations between different individuals makes this challenging and requires that cancer progression is studied in a subtype-specific way. To address this challenge, we provide a mathematical model, called Subtype-specific Pathway Linear Progression Model (SPM), that simultaneously captures cancer subtypes and pathways and order of dysregulation of the pathways within each subtype. Experiments with synthetic data indicate the robustness of SPM to problem specifics including noise compared to an existing method. Moreover, experimental results on glioblastoma multiforme and colorectal adenocarcinoma show the consistency of SPM's results with the existing knowledge and its superiority to an existing method in certain cases. The implementation of our method is available at https://github.com/Dalton386/SPM."
+  ],
+  "affiliation": [
+    "School of Computing Science, Simon Fraser University, Burnaby, British Columbia, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1007451"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6872169"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6872169?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR77843"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-12"
+  ],
+  "firstIndexDate": [
+    "2019-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-09"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-11"
+  ],
+  "firstPublicationDate": [
+    "2019-11-11"
+  ]
+}

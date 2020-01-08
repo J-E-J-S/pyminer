@@ -1,0 +1,612 @@
+{
+  "id": [
+    "30857530"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30857530"
+  ],
+  "pmcid": [
+    "PMC6410612"
+  ],
+  "doi": [
+    "10.1186/s12934-019-1102-4"
+  ],
+  "title": [
+    "SCRaMbLE generates evolved yeasts with increased alkali tolerance."
+  ],
+  "authorString": [
+    "Ma L, Li Y, Chen X, Ding M, Wu Y, Yuan YJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yunxiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xinyu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ding M"
+          ],
+          "firstName": [
+            "Mingzhu"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2539-9228",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China. yi.wu@tju.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan YJ"
+          ],
+          "firstName": [
+            "Ying-Jin"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2539-9228",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2791119"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "52"
+  ],
+  "abstractText": [
+    "BACKGROUND:Strains with increased alkali tolerance have a broad application in industrial, especially for bioremediation, biodegradation, biocontrol and production of bio-based chemicals. A novel synthetic chromosome recombination and modification by LoxP-mediated evolution (SCRaMbLE) system has been introduced in the synthetic yeast genome (Sc 2.0), which enables generation of a yeast library with massive structural variations and potentially drives phenotypic evolution. The structural variations including deletion, inversion and duplication have been detected within synthetic yeast chromosomes. RESULTS:Haploid yeast strains harboring either one (synV) or two (synV and synX) synthetic chromosomes were subjected to SCRaMbLE. Seven of evolved strains with increased alkali tolerance at pH 8.0 were generated through multiple independent SCRaMbLE experiments. Various of structural variations were detected in evolved yeast strains by PCRTag analysis and whole genome sequencing including two complex structural variations. One possessed an inversion of 20,743 base pairs within which YEL060C (PRB1) was deleted simultaneously, while another contained a duplication region of 9091 base pairs in length with a deletion aside. Moreover, a common deletion region with length of 11,448 base pairs was mapped in four of the alkali-tolerant strains. We further validated that the deletion of YER161C (SPT2) within the deleted region could increase alkali tolerance in Saccharomyces cerevisiae. CONCLUSIONS:SCRaMbLE system provides a simple and efficient way to generate evolved yeast strains with enhanced alkali tolerance. Deletion of YER161C (SPT2) mapped by SCRaMbLE can improve alkali tolerance in S. cerevisiae. This study enriches our understanding of alkali tolerance in yeast and provides a standard workflow for the application of SCRaMbLE system to generate various phenotypes that may be interesting for industry and extend understanding of phenotype-genotype relationship."
+  ],
+  "affiliation": [
+    "Frontier Science Center for Synthetic Biology and Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin University, Tianjin, 300072, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21750001"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018QNRC001"
+          ],
+          "agency": [
+            "Young Elite Scientist Sponsorship Program by CAST"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "21621004"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes, Artificial, Yeast"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alkalies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Deletion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recombination, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Synthetic Biology",
+        "Scramble",
+        "Alkali Tolerance",
+        "Spt2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Alkalies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Saccharomyces cerevisiae Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6410612?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6410612"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-019-1102-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-29"
+  ],
+  "dateOfCreation": [
+    "2019-03-13"
+  ],
+  "firstIndexDate": [
+    "2019-03-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-11"
+  ],
+  "firstPublicationDate": [
+    "2019-03-11"
+  ]
+}

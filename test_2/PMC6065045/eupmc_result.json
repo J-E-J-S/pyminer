@@ -1,0 +1,697 @@
+{
+  "id": [
+    "29987047"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29987047"
+  ],
+  "pmcid": [
+    "PMC6065045"
+  ],
+  "doi": [
+    "10.1073/pnas.1718193115"
+  ],
+  "title": [
+    "Unrestrained markerless trait stacking in Nannochloropsis gaditana through combined genome editing and marker recycling technologies."
+  ],
+  "authorString": [
+    "Verruto J, Francis K, Wang Y, Low MC, Greiner J, Tacke S, Kuzminov F, Lambert W, McCarren J, Ajjawi I, Bauman N, Kalb R, Hannum G, Moellering ER."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Verruto J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Verruto"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Francis K"
+          ],
+          "firstName": [
+            "Kristie"
+          ],
+          "lastName": [
+            "Francis"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yingjun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Low MC"
+          ],
+          "firstName": [
+            "Melisa C"
+          ],
+          "lastName": [
+            "Low"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Greiner J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Greiner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Tacke S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Tacke"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuzminov F"
+          ],
+          "firstName": [
+            "Fedor"
+          ],
+          "lastName": [
+            "Kuzminov"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Lambert W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Lambert"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "McCarren J"
+          ],
+          "firstName": [
+            "Jay"
+          ],
+          "lastName": [
+            "McCarren"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Ajjawi I"
+          ],
+          "firstName": [
+            "Imad"
+          ],
+          "lastName": [
+            "Ajjawi"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Bauman N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Bauman"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Kalb R"
+          ],
+          "firstName": [
+            "Ryan"
+          ],
+          "lastName": [
+            "Kalb"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Hannum G"
+          ],
+          "firstName": [
+            "Gregory"
+          ],
+          "lastName": [
+            "Hannum"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037."
+          ]
+        },
+        {
+          "fullName": [
+            "Moellering ER"
+          ],
+          "firstName": [
+            "Eric R"
+          ],
+          "lastName": [
+            "Moellering"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Synthetic Genomics, Inc., La Jolla, CA 92037 emoeller@syntheticgenomics.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "30"
+      ],
+      "volume": [
+        "115"
+      ],
+      "journalIssueId": [
+        "2709747"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "E7015-E7022"
+  ],
+  "abstractText": [
+    "Robust molecular tool kits in model and industrial microalgae are key to efficient targeted manipulation of endogenous and foreign genes in the nuclear genome for basic research and, as importantly, for the development of algal strains to produce renewable products such as biofuels. While Cas9-mediated gene knockout has been demonstrated in a small number of algal species with varying efficiency, the ability to stack traits or generate knockout mutations in two or more loci are often severely limited by selectable agent availability. This poses a critical hurdle in developing production strains, which require stacking of multiple traits, or in probing functionally redundant gene families. Here, we combine Cas9 genome editing with an inducible Cre recombinase in the industrial alga Nannochloropsis gaditana to generate a strain, NgCas9+Cre+, in which the potentially unlimited stacking of knockouts and addition of new genes is readily achievable. Cre-mediated marker recycling is first demonstrated in the removal of the selectable marker and GFP reporter transgenes associated with the Cas9/Cre construct in NgCas9+Cre+ Next, we show the proof-of-concept generation of a markerless knockout in a gene encoding an acyl-CoA oxidase (Aco1), as well as the markerless recapitulation of a 2-kb insert in the ZnCys gene 5'-UTR, which results in a doubling of wild-type lipid productivity. Finally, through an industrially oriented process, we generate mutants that exhibit up to ∼50% reduction in photosynthetic antennae size by markerless knockout of seven genes in the large light-harvesting complex gene family."
+  ],
+  "affiliation": [
+    "Synthetic Genomics, Inc., La Jolla, CA 92037."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light-Harvesting Protein Complexes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acyl-CoA Oxidase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lipids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait, Heritable"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stramenopiles"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cas9",
+        "Genome Editing",
+        "Algal Biotechnology"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Lipids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Light-Harvesting Protein Complexes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Acyl-CoA Oxidase"
+          ],
+          "registryNumber": [
+            "EC 1.3.3.6"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1718193115"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6065045"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6065045?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-17"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-05"
+  ],
+  "dateOfRevision": [
+    "2018-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-09"
+  ],
+  "firstPublicationDate": [
+    "2018-07-09"
+  ]
+}

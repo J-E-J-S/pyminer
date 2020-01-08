@@ -1,0 +1,596 @@
+{
+  "id": [
+    "31448322"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31448322"
+  ],
+  "pmcid": [
+    "PMC6691555"
+  ],
+  "doi": [
+    "10.1126/sciadv.aaw3307"
+  ],
+  "title": [
+    "Genomic determinants of speciation and spread of the Mycobacterium tuberculosis complex."
+  ],
+  "authorString": [
+    "Chiner-Oms Á, Sánchez-Busó L, Corander J, Gagneux S, Harris SR, Young D, González-Candelas F, Comas I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chiner-Oms Á"
+          ],
+          "firstName": [
+            "Á"
+          ],
+          "lastName": [
+            "Chiner-Oms"
+          ],
+          "initials": [
+            "Á"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0463-0101",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad Mixta \"Infección y Salud Pública\" FISABIO-CSISP/Universidad de Valencia, Instituto de Biología Integrativa de Sistemas (ISysBio), Valencia, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez-Busó L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Sánchez-Busó"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4162-0228",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pathogen Genomics, Wellcome Trust Sanger Institute, Cambridge CB10 1SA, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Corander J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Corander"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7752-1942",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pathogen Genomics, Wellcome Trust Sanger Institute, Cambridge CB10 1SA, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gagneux S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Gagneux"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7783-9048",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Swiss Tropical and Public Health Institute, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Harris SR"
+          ],
+          "firstName": [
+            "S R"
+          ],
+          "lastName": [
+            "Harris"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1512-6194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Microbiotica, BioData Innovation Centre, Wellcome Genome Campus, Cambridge CB10 1DR, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Young D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Young"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "The Francis Crick Institute, 1 Midland Road, London NW1 1AT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "González-Candelas F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "González-Candelas"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0879-5798",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad Mixta \"Infección y Salud Pública\" FISABIO-CSISP/Universidad de Valencia, Instituto de Biología Integrativa de Sistemas (ISysBio), Valencia, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Comas I"
+          ],
+          "firstName": [
+            "I"
+          ],
+          "lastName": [
+            "Comas"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5504-9408",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CIBER en Epidemiología y Salud Pública, Valencia, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4162-0228",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0463-0101",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7752-1942",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7783-9048",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1512-6194",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5504-9408",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0879-5798",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2826455"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "eaaw3307"
+  ],
+  "abstractText": [
+    "Models on how bacterial lineages differentiate increase our understanding of early bacterial speciation events and the genetic loci involved. Here, we analyze the population genomics events leading to the emergence of the tuberculosis pathogen. The emergence is characterized by a combination of recombination events involving core pathogenesis functions and purifying selection on early diverging loci. We identify the phoR gene, the sensor kinase of a two-component system involved in virulence, as a key functional player subject to pervasive positive selection after the divergence of the Mycobacterium tuberculosis complex from its ancestor. Previous evidence showed that phoR mutations played a central role in the adaptation of the pathogen to different host species. Now, we show that phoR mutations have been under selection during the early spread of human tuberculosis, during later expansions, and in ongoing transmission events. Our results show that linking pathogen evolution across evolutionary and epidemiological time scales points to past and present virulence determinants."
+  ],
+  "affiliation": [
+    "Unidad Mixta \"Infección y Salud Pública\" FISABIO-CSISP/Universidad de Valencia, Instituto de Biología Integrativa de Sistemas (ISysBio), Valencia, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "170834"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "310030"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "309540"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "164171"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "166687"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "177163"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "638553"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aaw3307"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6691555"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6691555?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR13433"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-27"
+  ],
+  "firstIndexDate": [
+    "2019-08-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-25"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-12"
+  ],
+  "firstPublicationDate": [
+    "2019-06-12"
+  ]
+}

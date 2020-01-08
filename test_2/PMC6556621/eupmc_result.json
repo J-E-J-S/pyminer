@@ -1,0 +1,308 @@
+{
+  "id": [
+    "31198860"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31198860"
+  ],
+  "pmcid": [
+    "PMC6556621"
+  ],
+  "doi": [
+    "10.1016/j.synbio.2019.05.001"
+  ],
+  "title": [
+    "Genomic and transcriptional changes in response to pinene tolerance and overproduction in evolved Escherichia coli."
+  ],
+  "authorString": [
+    "Niu FX, Huang YB, Ji LN, Liu JZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Niu FX"
+          ],
+          "firstName": [
+            "Fu-Xing"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "FX"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang YB"
+          ],
+          "firstName": [
+            "Yuan-Bin"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ji LN"
+          ],
+          "firstName": [
+            "Liang-Nian"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "LN"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu JZ"
+          ],
+          "firstName": [
+            "Jian-Zhong"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "JZ"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2828283"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic and Systems Biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "NLMid": [
+            "101694371"
+          ],
+          "ISSN": [
+            "2405-805X"
+          ],
+          "ESSN": [
+            "2405-805X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "113-119"
+  ],
+  "abstractText": [
+    "α-Pinene is an important monoterpene, which is widely used as a flavoring agent and in fragrances, pharmaceuticals and biofuels. Although an evolved strain Escherichia coli YZFP, which had higher tolerance to pinene and titer, has been successfully used to produce high levels of pinene, the pinene titer is much lower than that of hemiterpene (isoprene) and sesquiterpenes (farnesene) to date. Moreover, the overall cellular physiological and metabolic changes caused by higher tolerance to pinene and overproduction of pinene remains unclear. To reveal the mechanism of Escherichia coli YZFP with the higher tolerance to pinene and titer, a comparative genomics and transcriptional level analyses combining with CRISPR activation (CRISPRa) and interference (CRISPRi) were carried out. The results show that the tolerance to pinene and the overproduction of pinene in E. coli may be associated with: 1) the mutations of the DXP pathway genes, the rpoA and some membrane protein genes, and their upregulations of transcription levels; and 2) the mutations of some genes and their downregulation of transcriptional levels. These comparative omics analyses provided some genetic modification strategies to further improve pinene production. Overexpression of the mutated cbpA, tabA, pitA, rpoA, sufBCDS, mutS, ispH, oppF, dusB, dnaK, dxs, dxr and flgFGH genes further improved pinene production. This study also demonstrated that combining comparative omics analysis with CRISPRa and CRISPRi is an efficient technology to quickly find a new metabolic engineering strategy."
+  ],
+  "affiliation": [
+    "Institute of Synthetic Biology, MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biosynthesis",
+        "Escherichia Coli",
+        "Pinene",
+        "Crispri",
+        "Crispra",
+        "Comparative Omics Analysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.synbio.2019.05.001"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6556621"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6556621?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-15"
+  ],
+  "firstIndexDate": [
+    "2019-06-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-05"
+  ],
+  "firstPublicationDate": [
+    "2019-06-05"
+  ]
+}

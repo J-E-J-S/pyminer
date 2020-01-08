@@ -1,0 +1,485 @@
+{
+  "id": [
+    "30453880"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30453880"
+  ],
+  "pmcid": [
+    "PMC6245711"
+  ],
+  "doi": [
+    "10.1186/s12859-018-2440-7"
+  ],
+  "title": [
+    "Comparing the performance of selected variant callers using synthetic data and genome segmentation."
+  ],
+  "authorString": [
+    "Bian X, Zhu B, Wang M, Hu Y, Chen Q, Nguyen C, Hicks B, Meerzaman D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bian X"
+          ],
+          "firstName": [
+            "Xiaopeng"
+          ],
+          "lastName": [
+            "Bian"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA. bianxi@mail.nih.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Cancer Genomics Research Laboratory(CGR), Division of Cancer Epidemiology and Genetics, Frederick National Laboratory for Cancer Research sponsored by the National Cancer Institute, 8717 Grovemont Circle, Gaithersburg, MD, 20877, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Mingyi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Cancer Genomics Research Laboratory(CGR), Division of Cancer Epidemiology and Genetics, Frederick National Laboratory for Cancer Research sponsored by the National Cancer Institute, 8717 Grovemont Circle, Gaithersburg, MD, 20877, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qingrong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nguyen C"
+          ],
+          "firstName": [
+            "Cu"
+          ],
+          "lastName": [
+            "Nguyen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hicks B"
+          ],
+          "firstName": [
+            "Belynda"
+          ],
+          "lastName": [
+            "Hicks"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Cancer Genomics Research Laboratory(CGR), Division of Cancer Epidemiology and Genetics, Frederick National Laboratory for Cancer Research sponsored by the National Cancer Institute, 8717 Grovemont Circle, Gaithersburg, MD, 20877, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Meerzaman D"
+          ],
+          "firstName": [
+            "Daoud"
+          ],
+          "lastName": [
+            "Meerzaman"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA. meerzamd@mail.nih.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743406"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "429"
+  ],
+  "abstractText": [
+    "BACKGROUND:High-throughput sequencing has rapidly become an essential part of precision cancer medicine. But validating results obtained from analyzing and interpreting genomic data remains a rate-limiting factor. The gold standard, of course, remains manual validation by expert panels, which is not without its weaknesses, namely high costs in both funding and time as well as the necessarily selective nature of manual validation. But it may be possible to develop more economical, complementary means of validation. In this study we employed four synthetic data sets (variants with known mutations spiked into specific genomic locations) of increasing complexity to assess the sensitivity, specificity, and balanced accuracy of five open-source variant callers: FreeBayes v1.0, VarDict v11.5.1, MuTect v1.1.7, MuTect2, and MuSE v1.0rc. FreeBayes, VarDict, and MuTect were run in bcbio-next gen, and the results were integrated into a single Ensemble call set. The known mutations provided a level of \"ground truth\" against which we evaluated variant-caller performance. We further facilitated the comparison and evaluation by segmenting the whole genome into 10,000,000 base-pair fragments which yielded 316 segments. RESULTS:Differences among the numbers of true positives were small among the callers, but the numbers of false positives varied much more when the tools were used to analyze sets one through three. Both FreeBayes and VarDict produced strikingly more false positives than did the others, although VarDict, somewhat paradoxically also produced the highest number of true positives. The Ensemble approach yielded results characterized by higher specificity and balanced accuracy and fewer false positives than did any of the five tools used alone. Sensitivity and specificity, however, declined for all five callers as the complexity of the data sets increased, but we did not uncover anything more than limited, weak correlations between caller performance and certain DNA structural features: gene density and guanine-cytosine content. Altogether, MuTect2 performed the best among the callers tested, followed by MuSE and MuTect. CONCLUSIONS:Spiking data sets with specific mutations -single-nucleotide variations (SNVs), single-nucleotide polymorphisms (SNPs), or structural variations (SVs) in this study-at known locations in the genome provides an effective and economical way to compare data analyzed by variant callers with ground truth. The method constitutes a viable alternative to the prolonged, expensive, and noncomprehensive assessment by expert panels. It should be further developed and refined, as should other comparatively \"lightweight\" methods of assessing accuracy. Given that the scientific community has not yet established gold standards for validating NGS-related technologies such as variant callers, developing multiple alternative means for verifying variant-caller accuracy will eventually lead to the establishment of higher-quality standards than could be achieved by prematurely limiting the range of innovative methods explored by members of the community."
+  ],
+  "affiliation": [
+    "Center for Biomedical Informatics and Information Technology, National Cancer Institute, Rockville, MD, 20850, USA. bianxi@mail.nih.gov."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Sequence Annotation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Precision Medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245711?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6245711"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-018-2440-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-17"
+  ],
+  "dateOfCreation": [
+    "2018-11-21"
+  ],
+  "firstIndexDate": [
+    "2018-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-30"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-19"
+  ],
+  "firstPublicationDate": [
+    "2018-11-19"
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "id": [
+    "30545005"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30545005"
+  ],
+  "pmcid": [
+    "PMC6315939"
+  ],
+  "doi": [
+    "10.3390/cells7120266"
+  ],
+  "title": [
+    "Accumulation of Ag(I) by Saccharomyces cerevisiae Cells Expressing Plant Metallothioneins."
+  ],
+  "authorString": [
+    "Ruta LL, Banu MA, Neagoe AD, Kissen R, Bones AM, Farcasanu IC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ruta LL"
+          ],
+          "firstName": [
+            "Lavinia L"
+          ],
+          "lastName": [
+            "Ruta"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9287-5485",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry, University of Bucharest, Sos. Panduri 90-92, 050663 Bucharest, Romania. lavinia.ruta@chimie.unibuc.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Banu MA"
+          ],
+          "firstName": [
+            "Melania A"
+          ],
+          "lastName": [
+            "Banu"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Bucharest, Splaiul Independentei 91-95, 050095 Bucharest, Romania. melania.banu@imt.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Neagoe AD"
+          ],
+          "firstName": [
+            "Aurora D"
+          ],
+          "lastName": [
+            "Neagoe"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Bucharest, Splaiul Independentei 91-95, 050095 Bucharest, Romania. auroradaniela.neagoe@g.unibuc.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Kissen R"
+          ],
+          "firstName": [
+            "Ralph"
+          ],
+          "lastName": [
+            "Kissen"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Cell, Molecular Biology and Genomics Group, Department of Biology, Norwegian University of Science and Technology, NO-7491 Trondheim, Norway. ralph.kissen@ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Bones AM"
+          ],
+          "firstName": [
+            "Atle M"
+          ],
+          "lastName": [
+            "Bones"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0544-7437",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cell, Molecular Biology and Genomics Group, Department of Biology, Norwegian University of Science and Technology, NO-7491 Trondheim, Norway. atle.bones@bio.ntnu.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Farcasanu IC"
+          ],
+          "firstName": [
+            "Ileana C"
+          ],
+          "lastName": [
+            "Farcasanu"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4901-7896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry, University of Bucharest, Sos. Panduri 90-92, 050663 Bucharest, Romania. ileana.farcasanu@chimie.unibuc.ro."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9287-5485",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4901-7896",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0544-7437",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2756867"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The various applications of Ag(I) generated the necessity to obtain Ag(I)-accumulating organisms for the removal of surplus Ag(I) from contaminated sites or for the concentration of Ag(I) from Ag(I)-poor environments. In this study we obtained Ag(I)-accumulating cells by expressing plant metallothioneins (MTs) in the model Saccharomyces cerevisiae. The cDNAs of seven Arabidopsis thaliana MTs (AtMT1a, AtMT1c, AtMT2a, AtMT2b, AtMT3, AtMT4a and AtMT4b) and four Noccaea caerulescens MTs (NcMT1, NcMT2a, NcMT2b and NcMT3) fused to myrGFP displaying an N-terminal myristoylation sequence for plasma membrane targeting were expressed in S. cerevisiae and checked for Ag(I)-related phenotype. The transgenic yeast cells were grown in copper-deficient media to ensure the expression of the plasma membrane high-affinity Cu(I) transporter Ctr1, and also to elude the copper-related inhibition of Ag(I) transport into the cell. All plant MTs expressed in S. cerevisiae conferred Ag(I) tolerance to the yeast cells. Among them, myrGFP-NcMT3 afforded Ag(I) accumulation under high concentration (10⁻50 μM), while myrGFP-AtMT1a conferred increased accumulation capacity under low (1 μM) or even trace Ag(I) (0.02⁻0.05 μM). The ability to tolerate high concentrations of Ag(I) coupled with accumulative characteristics and robust growth showed by some of the transgenic yeasts highlighted the potential of these strains for biotechnology applications."
+  ],
+  "affiliation": [
+    "Faculty of Chemistry, University of Bucharest, Sos. Panduri 90-92, 050663 Bucharest, Romania. lavinia.ruta@chimie.unibuc.ro."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "21 SEE/ 30.06.2014"
+          ],
+          "agency": [
+            "EEA Financial Mechanism 2009-2014"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "Metallothionein",
+        "Arabidopsis thaliana",
+        "Accumulation",
+        "Silver",
+        "Noccaea Caerulescens"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells7120266"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6315939"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6315939?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-01-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-11"
+  ],
+  "firstPublicationDate": [
+    "2018-12-11"
+  ]
+}

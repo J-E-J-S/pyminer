@@ -1,0 +1,265 @@
+{
+  "id": [
+    "31611500"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31611500"
+  ],
+  "pmcid": [
+    "PMC6819149"
+  ],
+  "doi": [
+    "10.2183/pjab.95.031"
+  ],
+  "title": [
+    "A Japanese history of the Human Genome Project."
+  ],
+  "authorString": [
+    "Sakaki Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sakaki Y"
+          ],
+          "firstName": [
+            "Yoshiyuki"
+          ],
+          "lastName": [
+            "Sakaki"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The University of Tokyo."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "95"
+      ],
+      "journalIssueId": [
+        "2871459"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the Japan Academy. Series B, Physical and biological sciences"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Jpn. Acad., Ser. B, Phys. Biol. Sci."
+          ],
+          "medlineAbbreviation": [
+            "Proc Jpn Acad Ser B Phys Biol Sci"
+          ],
+          "NLMid": [
+            "9318162"
+          ],
+          "ISSN": [
+            "0386-2208"
+          ],
+          "ESSN": [
+            "1349-2896"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "441-458"
+  ],
+  "abstractText": [
+    "The Human Genome Project (HGP) is one of the most important international achievements in life sciences, to which Japanese scientists made remarkable contributions. In the early 1980s, Akiyoshi Wada pioneered the first project for the automation of DNA sequencing technology. Ken-ichi Matsubara exhibited exceptional leadership to launch the comprehensive human genome program in Japan. Hideki Kambara made a major contribution by developing a key device for high-speed DNA sequencers, which enabled scientists to construct human genome draft sequences. The RIKEN team led by Yoshiyuki Sakaki (the author) played remarkable roles in the draft sequencing and completion of chromosomes 21, 18, and 11. Additionally, the Keio University team led by Nobuyoshi Shimizu made noteworthy contributions to the completion of chromosomes 22, 21, and 8. In April 2003, the Japanese team joined the international consortium in declaring the completion of the human genome sequence. Consistent with the HGP mandate, Japan has successfully developed a wide range of ambitious genomic sciences."
+  ],
+  "affiliation": [
+    "The University of Tokyo."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA sequencing",
+        "Human genome project",
+        "Chromosome 21",
+        "Human Genome Research Center",
+        "Riken Genomic Sciences Center",
+        "Genome Sciences"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2183/pjab.95.031"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819149"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819149?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-16"
+  ],
+  "firstIndexDate": [
+    "2019-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-05"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

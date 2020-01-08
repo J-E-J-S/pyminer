@@ -1,0 +1,751 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Oncol</journal-id><journal-id journal-id-type="iso-abbrev">Mol Oncol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1878-0261</journal-id><journal-id journal-id-type="publisher-id">MOL2</journal-id><journal-title-group><journal-title>Molecular Oncology</journal-title></journal-title-group><issn pub-type="ppub">1574-7891</issn><issn pub-type="epub">1878-0261</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6360376</article-id><article-id pub-id-type="doi">10.1002/1878-0261.12415</article-id><article-id pub-id-type="publisher-id">MOL212415</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>High&#x02010;throughput isolation of circulating tumor <styled-content style="fixed-case">DNA</styled-content>: a&#x000a0;comparison of automated platforms</article-title><alt-title alt-title-type="left-running-head">L. F. van Dessel <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="mol212415-cr-0001" contrib-type="author"><name><surname>van Dessel</surname><given-names>Lisanne F.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212415-cr-0002" contrib-type="author"><name><surname>Vitale</surname><given-names>Silvia R.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mol212415-cr-0003" contrib-type="author"><name><surname>Helmijr</surname><given-names>Jean C. A.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212415-cr-0004" contrib-type="author"><name><surname>Wilting</surname><given-names>Saskia M.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212415-cr-0005" contrib-type="author"><name><surname>van der Vlugt&#x02010;Daane</surname><given-names>Michelle</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212415-cr-0006" contrib-type="author"><name><surname>Oomen&#x02010;de Hoop</surname><given-names>Esther</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212415-cr-0007" contrib-type="author"><name><surname>Sleijfer</surname><given-names>Stefan</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mol212415-cr-0008" contrib-type="author"><name><surname>Martens</surname><given-names>John W. M.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212415-cr-0009" contrib-type="author"><name><surname>Jansen</surname><given-names>Maurice P. H. M.</given-names></name><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mol212415-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mol212415-cr-0010" contrib-type="author" corresp="yes"><name><surname>Lolkema</surname><given-names>Martijn P.</given-names></name><address><email>m.lolkema@erasmusmc.nl</email></address><xref ref-type="aff" rid="mol212415-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mol212415-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Medical Oncology</named-content>
+<named-content content-type="organisation-division">Erasmus MC Cancer Institute</named-content>
+<institution>University Medical Center Rotterdam</institution>
+<country country="NL">The Netherlands</country>
+</aff><aff id="mol212415-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Workgroup Cancer Genomics Netherlands</named-content>
+<named-content content-type="organisation-division">Erasmus MC Cancer Institute</named-content>
+<institution>University Medical Center Rotterdam</institution>
+<country country="NL">The Netherlands</country>
+</aff><aff id="mol212415-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Clinical and Experimental Medicine</named-content>
+<named-content content-type="organisation-division">Center for Experimental Oncology and Hematology</named-content>
+<institution>University of Catania</institution>
+<country country="IT">Italy</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+M.&#x000a0;P.&#x000a0;Lolkema, Department of Medical Oncology, Erasmus MC Cancer Institute, Room NT&#x02010;537, P.O. Box&#x000a0;2040, 3000 CA, Rotterdam, The Netherlands<break/>
+Tel: +31 10 704 19 06<break/>
+E&#x02010;mail: <email>m.lolkema@erasmusmc.nl</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>12</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2019</year></pub-date><volume>13</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/mol2.2019.13.issue-2</issue-id><fpage>392</fpage><lpage>402</lpage><history><date date-type="received"><day>20</day><month>8</month><year>2018</year></date><date date-type="rev-recd"><day>09</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>19</day><month>11</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 Federation of European Biochemical Societies <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by FEBS Press and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MOL2-13-392.pdf"/><abstract id="mol212415-abs-0001"><p>The emerging interest in circulating tumor <styled-content style="fixed-case">DNA</styled-content> (ct<styled-content style="fixed-case">DNA</styled-content>) analyses for clinical trials has necessitated the development of a high&#x02010;throughput method for fast, reproducible, and efficient isolation of ct<styled-content style="fixed-case">DNA</styled-content>. Currently, the majority of ct<styled-content style="fixed-case">DNA</styled-content> studies use the manual <styled-content style="fixed-case">QIA</styled-content>amp (<styled-content style="fixed-case">QA</styled-content>) platform to isolate <styled-content style="fixed-case">DNA</styled-content> from blood. The purpose of this study was to compare two competing automated <styled-content style="fixed-case">DNA</styled-content> isolation platforms [Maxwell (<styled-content style="fixed-case">MX</styled-content>) and <styled-content style="fixed-case">QIA</styled-content>symphony (<styled-content style="fixed-case">QS</styled-content>)] to the current &#x02018;gold standard&#x02019; <styled-content style="fixed-case">QA</styled-content> to facilitate high&#x02010;throughput processing of samples in prospective trials. We obtained blood samples from healthy blood donors and metastatic cancer patients for plasma isolation. Total cell&#x02010;free <styled-content style="fixed-case">DNA</styled-content> (cf<styled-content style="fixed-case">DNA</styled-content>) quantity was assessed by <styled-content style="fixed-case">TERT</styled-content> quantitative <styled-content style="fixed-case">PCR</styled-content>. Recovery efficiency was investigated by quantitative <styled-content style="fixed-case">PCR</styled-content> analysis of spiked&#x02010;in synthetic plant <styled-content style="fixed-case">DNA</styled-content>. In addition, a &#x003b2;&#x02010;actin fragmentation assay was performed to determine the amount of contamination by genomic <styled-content style="fixed-case">DNA</styled-content> from lysed leukocytes. ct<styled-content style="fixed-case">DNA</styled-content> quality was assessed by digital <styled-content style="fixed-case">PCR</styled-content> for somatic variant detection. cf<styled-content style="fixed-case">DNA</styled-content> quantity and recovery efficiency were lowest using the <styled-content style="fixed-case">MX</styled-content> platform, whereas <styled-content style="fixed-case">QA</styled-content> and <styled-content style="fixed-case">QS</styled-content> showed a comparable performance. All platforms preferentially isolated small (136&#x000a0;bp) <styled-content style="fixed-case">DNA</styled-content> fragments over large (420 and 2000&#x000a0;bp) <styled-content style="fixed-case">DNA</styled-content> fragments. Detection of the number variant and wild&#x02010;type molecules was most comparable between <styled-content style="fixed-case">QA</styled-content> and <styled-content style="fixed-case">QS</styled-content>. However, there was no significant difference in variant allele frequency comparing <styled-content style="fixed-case">QS</styled-content> and <styled-content style="fixed-case">MX</styled-content> to <styled-content style="fixed-case">QA</styled-content>. In summary, we show that the <styled-content style="fixed-case">QS</styled-content> platform has comparable performance to <styled-content style="fixed-case">QA</styled-content>, the &#x02018;gold standard&#x02019;, and outperformed the <styled-content style="fixed-case">MX</styled-content> platform depending on the readout used. We conclude that the <styled-content style="fixed-case">QS</styled-content> can replace the more laborious <styled-content style="fixed-case">QA</styled-content> platform, especially when high&#x02010;throughput cf<styled-content style="fixed-case">DNA</styled-content> isolation is needed.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mol212415-kwd-0001">automation</kwd><kwd id="mol212415-kwd-0002">cell&#x02010;free <styled-content style="fixed-case">DNA</styled-content></kwd><kwd id="mol212415-kwd-0003">circulating tumor <styled-content style="fixed-case">DNA</styled-content></kwd><kwd id="mol212415-kwd-0004">isolation</kwd></kwd-group><funding-group><award-group><funding-source>Netherlands Organization for Scientific Research (NWO)</funding-source></award-group><award-group><funding-source>Cancer Genomics Netherlands</funding-source></award-group><award-group><funding-source>KWF&#x02010;Alpe d'HuZes</funding-source><award-id>EMCR 2014&#x02010;6340</award-id><award-id>NKI 2014&#x02010;7080</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="11"/><word-count count="6360"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mol212415</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.8 mode:remove_FC converted:04.02.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="mol212415-ntgp-0001"><fn fn-type="equal" id="mol212415-note-1001"><p>Lisanne F. van Dessel and Silvia R. Vitale contributed equally to this article.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="mol212415-dl-0001"><title>Abbreviations</title><def-item><term>cfDNA</term><def><p>cell&#x02010;free DNA</p></def></def-item><def-item><term>cRNA</term><def><p>carrier RNA</p></def></def-item><def-item><term>ctDNA</term><def><p>circulating tumor DNA</p></def></def-item><def-item><term>dPCR</term><def><p>digital PCR</p></def></def-item><def-item><term>HBD</term><def><p>healthy blood donor</p></def></def-item><def-item><term>MX</term><def><p>Maxwell</p></def></def-item><def-item><term>QA</term><def><p>QIAamp</p></def></def-item><def-item><term>qPCR</term><def><p>quantitative PCR</p></def></def-item><def-item><term>QS</term><def><p>QIAsymphony</p></def></def-item><def-item><term>SNP</term><def><p>single nucleotide polymorphism</p></def></def-item><def-item><term>VAF</term><def><p>variant allele frequency</p></def></def-item></def-list><sec id="mol212415-sec-0002"><label>1</label><title>Introduction</title><p>With the discovery of cell&#x02010;free DNA (cfDNA), first described in 1948 by Mandel and Metais (<xref rid="mol212415-bib-0017" ref-type="ref">1948</xref>), and subsequently circulating tumor DNA (ctDNA; Stroun <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0026" ref-type="ref">1989</xref>), a novel biomarker in cancer research became available. Since then, many studies have shown its great potential for detecting minimal residual disease and evaluating treatment response (Bidard <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0002" ref-type="ref">2014</xref>; Dawson <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0003" ref-type="ref">2013</xref>; Diaz and Bardelli, <xref rid="mol212415-bib-0005" ref-type="ref">2014</xref>; Diehl <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0006" ref-type="ref">2008</xref>; Forshew <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0009" ref-type="ref">2012</xref>; Herbreteau <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0011" ref-type="ref">2018</xref>; Murtaza <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0018" ref-type="ref">2013</xref>; Pugh, <xref rid="mol212415-bib-0021" ref-type="ref">2018</xref>; Shinozaki <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0024" ref-type="ref">2007</xref>). However, to enable high&#x02010;throughput ctDNA analyses a fast, accurate, and efficient cfDNA isolation method is highly needed.Currently, the majority of ctDNA studies use Qiagen's QIAamp (QA) platform for cfDNA isolation (Oxnard <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0019" ref-type="ref">2014</xref>; Sefrioui <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0022" ref-type="ref">2015</xref>; Zill <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0030" ref-type="ref">2015</xref>). However, this manual platform is laborious and can only process up to 24 samples at a time rendering this method less suitable for large&#x02010;scale studies. Automation of cfDNA isolation represents a potential solution provided that it is able to (a) reduce hands&#x02010;on time; (b) simultaneously process large numbers of samples; (c) accurately and reproducibly isolate cfDNA with a reasonable recovery; and (d) preserve the quality of ctDNA for downstream analyses.Cell&#x02010;free DNA is naturally fragmented (140&#x02013;175&#x000a0;bp) and only present at low concentrations in the blood circulation (usually around 10&#x000a0;ng per mL plasma; Fleischhacker and Schmidt, <xref rid="mol212415-bib-0008" ref-type="ref">2007</xref>). In addition, the fraction of ctDNA relative to cfDNA can vary from extremely low (&#x0003c;&#x000a0;0.01%) to very high (60%), as it is dependent on tumor type and stage (Bettegowda <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0001" ref-type="ref">2014</xref>; Diehl <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0006" ref-type="ref">2008</xref>). Together these features make it imperative to carefully determine the efficacy of DNA isolation instead of merely investigating isolation yields. Furthermore, isolation of cfDNA and ctDNA therein is highly susceptible to genomic DNA contamination from lysed leukocytes (Elshimali <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0007" ref-type="ref">2013</xref>; Jahr <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0013" ref-type="ref">2001</xref>), resulting in a potential underestimation of the ctDNA fraction and decreasing the detection sensitivity. As potential differences in cfDNA recovery efficiency between isolation methods might affect downstream analysis results of ctDNA by decreasing its detection sensitivity, standardized comparison of the different methods for cfDNA isolation is important and highly needed.The purpose of this study was to compare two automated cfDNA isolation platforms, Maxwell (MX) and QIAsymphony (QS), to the current &#x02018;gold standard&#x02019; QA isolation kit to determine whether these automated platforms can facilitate high&#x02010;throughput processing of samples in prospective trials. Our analyses focused on both qualitative and quantitative parameters, including cfDNA yield, recovery efficiency, cfDNA fragmentation patterns, and ctDNA fraction retrieved, using optimally processed plasma samples of healthy blood donors (HBDs) and patients with metastatic cancer.</p></sec><sec id="mol212415-sec-0003"><label>2</label><title>Materials and methods</title><sec id="mol212415-sec-0004"><label>2.1</label><title>Subjects</title><p>Blood samples were obtained from a total of 10 HBDs and 10 metastatic cancer patients. HBDs were either laboratory volunteers or blood donors of the Sanquin Blood Bank South&#x02010;West Region, The Netherlands. Patients were enrolled in this study between September 2016 and September 2017 within the Erasmus MC Cancer Institute in Rotterdam, the Netherlands. Eligibility criteria for patients have been described previously (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). All patients provided written informed consent, and the institutional review board approved the protocols (Erasmus MC ID MEC 15&#x02010;616). The study methodologies conformed to the standards set by the Declaration of Helsinki. Patient and tumor characteristics are summarized in Table&#x000a0;<xref rid="mol212415-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="mol212415-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient and tumor characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient ID (#)</th><th align="left" valign="top" rowspan="1" colspan="1">Primary tumor</th><th align="left" valign="top" rowspan="1" colspan="1">Known somatic variant (nucleotide change)</th><th align="left" valign="top" rowspan="1" colspan="1">Variant allele frequency in tissue (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;001</td><td align="left" rowspan="1" colspan="1">NSCLC</td><td align="left" rowspan="1" colspan="1">KRAS p.G12C (c.34G&#x0003e;T)</td><td align="left" rowspan="1" colspan="1">32</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;003</td><td align="left" rowspan="1" colspan="1">Melanoma</td><td align="left" rowspan="1" colspan="1">NRAS p.Q61R (c.182A&#x0003e;G)</td><td align="left" rowspan="1" colspan="1">88</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;004</td><td align="left" rowspan="1" colspan="1">Melanoma</td><td align="left" rowspan="1" colspan="1">BRAF p.V600E (c.1799_1800delinsAA)</td><td align="left" rowspan="1" colspan="1">50</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;007</td><td align="left" rowspan="1" colspan="1">Melanoma</td><td align="left" rowspan="1" colspan="1">BRAF p.V600K (c.1798_1799delGTinsAA)</td><td align="left" rowspan="1" colspan="1">38</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;008</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">KRAS p.G12D (c.35G&#x0003e;A)</td><td align="left" rowspan="1" colspan="1">45</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;009</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">PIK3CA p.E545K (c.1633G&#x0003e;A)</td><td align="left" rowspan="1" colspan="1">45</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;015</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">KRAS p.G13D (c.38G&#x0003e;A)</td><td align="left" rowspan="1" colspan="1">40</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;016</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">KRAS p.G12V (c.35G&#x0003e;T)</td><td align="left" rowspan="1" colspan="1">Unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;023</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">KRAS p.G13D (c.38G&#x0003e;A)</td><td align="left" rowspan="1" colspan="1">Unknown</td></tr><tr><td align="left" rowspan="1" colspan="1">BP&#x02010;028</td><td align="left" rowspan="1" colspan="1">Melanoma</td><td align="left" rowspan="1" colspan="1">BRAF p.V600K (c.1798_1799delinsAA)</td><td align="left" rowspan="1" colspan="1">55</td></tr></tbody></table><table-wrap-foot><fn id="mol212415-note-0052"><p>CRC, colorectal cancer; NSCLC, non&#x02010;small&#x02010;cell lung cancer.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="mol212415-sec-0005"><label>2.2</label><title>Blood collection</title><p>Healthy blood donors donated 20&#x000a0;mL of blood, collected either in 2&#x000a0;&#x000d7;&#x000a0;10&#x000a0;mL CellSave preservative tubes (Janssen Diagnostics, Raritan, NJ, USA) or in 1&#x000a0;&#x000d7;&#x000a0;10&#x000a0;mL EDTA tube (Becton, Dickinson and Company, Franklin Lakes, NJ, USA) and 1&#x000a0;&#x000d7;&#x000a0;10&#x000a0;mL CellSave preservative tube. Patients donated 3&#x000a0;&#x000d7;&#x000a0;10&#x000a0;mL of blood collected in CellSave preservative tubes. Blood samples were stored at room temperature until further processing. After blood draw, samples in EDTA tubes were processed within 24&#x000a0;h, whereas samples in CellSave tubes were processed within 96&#x000a0;h for plasma isolation as previously described (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>).</p></sec><sec id="mol212415-sec-0006"><label>2.3</label><title>cfDNA isolation</title><p>Cell&#x02010;free DNA was isolated from 2&#x000a0;mL of plasma and eluted in 60&#x000a0;&#x003bc;L of the provided elution buffer. Three isolation platforms were evaluated (Table&#x000a0;<xref rid="mol212415-tbl-0002" ref-type="table">2</xref>):</p><p>
+<list list-type="bullet" id="mol212415-list-0001"><list-item><p>QIAamp&#x000ae; (QA) Circulating Nucleic Acid Kit (Qiagen, Hilden, North Rhine&#x02010;Westphalia, Germany);</p></list-item><list-item><p>QIAsymphony&#x000ae; (QS) SP Circulating DNA Kit (Qiagen);</p></list-item><list-item><p>Maxwell&#x000ae; (MX) RSC LV ccfDNA Plasma Custom Kit (Promega, Madison, WI, USA).</p></list-item></list>
+</p><table-wrap id="mol212415-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Specifications of cell&#x02010;free DNA isolation platforms</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Platform</th><th align="left" valign="top" rowspan="1" colspan="1">Manufacturer</th><th align="left" valign="top" rowspan="1" colspan="1">Protocol</th><th align="left" valign="top" rowspan="1" colspan="1">cfDNA isolation kit</th><th align="left" valign="top" rowspan="1" colspan="1">Plasma input (mL)</th><th align="left" valign="top" rowspan="1" colspan="1">Number of samples per run</th><th align="left" valign="top" rowspan="1" colspan="1">Handling time per run (min)</th><th align="left" valign="top" rowspan="1" colspan="1">Technique</th><th align="left" valign="top" rowspan="1" colspan="1">Cost (&#x020ac;) per sample</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">QIAamp (QA)</td><td align="left" rowspan="1" colspan="1">Qiagen</td><td align="left" rowspan="1" colspan="1">Manual</td><td align="left" rowspan="1" colspan="1">QIAamp&#x000ae; Circulating Nucleic Acid Kit</td><td align="left" rowspan="1" colspan="1">1.0&#x02013;5.0</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">180&#x02013;240</td><td align="left" rowspan="1" colspan="1">Vacuum&#x02010;column&#x02010;based</td><td align="left" rowspan="1" colspan="1">20</td></tr><tr><td align="left" rowspan="1" colspan="1">QIAsymphony (QS)</td><td align="left" rowspan="1" colspan="1">Qiagen</td><td align="left" rowspan="1" colspan="1">Automatic</td><td align="left" rowspan="1" colspan="1">QIAsymphony&#x000ae; Circulating DNA Kit</td><td align="left" rowspan="1" colspan="1">2.0&#x02013;8.0<xref ref-type="fn" rid="mol212415-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">Magnetic&#x02010;bead&#x02010;based</td><td align="left" rowspan="1" colspan="1">24</td></tr><tr><td align="left" rowspan="1" colspan="1">Maxwell (MX)</td><td align="left" rowspan="1" colspan="1">Promega</td><td align="left" rowspan="1" colspan="1">Automatic</td><td align="left" rowspan="1" colspan="1">Maxwell&#x000ae; RSC LV ccfDNA Plasma Custom Kit</td><td align="left" rowspan="1" colspan="1">2.0&#x02013;4.0<xref ref-type="fn" rid="mol212415-note-0002">a</xref>
+</td><td align="left" rowspan="1" colspan="1">16<xref ref-type="fn" rid="mol212415-note-0003">b</xref>
+</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">Magnetic&#x02010;bead&#x02010;based</td><td align="left" rowspan="1" colspan="1">20</td></tr></tbody></table><table-wrap-foot><fn id="mol212415-note-0002"><label>a</label><p>Upon request, the manufacturer is able to adjust system settings and protocols for lower/higher plasma input volumes.</p></fn><fn id="mol212415-note-0003"><label>b</label><p>The Maxwell RSC 48 Instrument can process up to 48 samples per run.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>All cfDNA isolations were performed according to the manufacturer's protocol, with some minor modifications. In more detail, cfDNA was isolated with QA as previously described (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). The QS isolation was adapted by adding 1&#x000a0;&#x003bc;g of carrier RNA (cRNA, Qiagen) to the plasma sample preceding isolation. Using the MX platform, a third plasma centrifugation step at 2000&#x000a0;<italic><bold>g</bold></italic> for 10&#x000a0;min at room temperature was performed after thawing to eliminate residual leukocytes, as recommended by the manufacturer. The custom Maxwell&#x000ae; RSC ccfDNA Plasma Kit for large plasma volume protocol was used. In brief, 2&#x000a0;mL of plasma was added to an equal amount of binding buffer and 140&#x000a0;&#x003bc;L of magnetic beads. This mixture was incubated under rotation for 45&#x000a0;min at room temperature and subsequently centrifuged at 2000&#x000a0;<italic><bold>g</bold></italic> for 1&#x000a0;min at room temperature. The pelleted mix of beads and cfDNA was then transferred to the cartridge and run on the MX instrument (Promega) according to the manufacturer's protocol.</p></sec><sec id="mol212415-sec-0007"><label>2.4</label><title>Testing of cRNA addition to the automated platforms</title><p>Plasma samples from several HBDs were pooled and divided into aliquots of 2&#x000a0;mL each. To each aliquot, we added different amounts of cRNA, ranging from 0.25 up to 4&#x000a0;&#x003bc;g. As a control, plasma samples without cRNA were included. To allow determination of the recovery efficiency, synthetic plant DNA was added to plasma samples (see below).</p></sec><sec id="mol212415-sec-0008"><label>2.5</label><title>cfDNA quantification</title><p>All cfDNA samples were quantified by both Qubit&#x02122; fluorometric quantitation (Invitrogen, Life Technologies, Carlsbad, CA, USA) and human TaqMan&#x000ae; copy number reference assay TERT (Applied Biosystems, Life Technologies, Foster City, CA, USA) by quantitative PCR (qPCR). The Qubit&#x02122; measurement was performed on 2&#x000a0;&#x003bc;L of each cfDNA sample using the Quant&#x02010;iT dsDNA high&#x02010;sensitivity assay (Invitrogen), according to the manufacturer's protocol. TERT qPCRs contained 5&#x000a0;&#x003bc;L cfDNA, 3.13&#x000a0;&#x003bc;L SensiFAST&#x02122; SYBR&#x000ae; Lo&#x02010;Rox mix (Bioline, London, UK), and 0.62&#x000a0;&#x003bc;L TERT assay in a total reaction volume of 12.5&#x000a0;&#x003bc;L. The qPCR was performed on an Mx3000P Real&#x02010;Time PCR System (Agilent, Santa Clara, CA, USA) with a pre&#x02010;incubation at 95&#x000a0;&#x000b0;C for 10&#x000a0;min, followed by 45 cycles of 95&#x000a0;&#x000b0;C for 10&#x000a0;s and 60&#x000a0;&#x000b0;C for 22&#x000a0;s. cfDNA was quantified using a standard curve of human genomic DNA.</p></sec><sec id="mol212415-sec-0009"><label>2.6</label><title>Synthetic plant DNA and plant DNA qPCR assay</title><p>The synthetic plant DNA assay developed by Kang <italic>et&#x000a0;al</italic>. (<xref rid="mol212415-bib-0014" ref-type="ref">2016</xref>) was used as an exogenous control to calculate the recovery efficiency of each cfDNA isolation method. In short, 250&#x000a0;ng of a 150&#x02010;bp gBlocks&#x000ae; gene fragment (Integrated DNA Technologies Incorporation (IDT), Coralville, IA, USA) was resuspended in LoTE buffer to a final concentration of 1.64x10<sup>0</sup>&#x000a0;ng&#x000b7;&#x003bc;L<sup>&#x02212;1</sup>. The stock sample was serially diluted to a final concentration of 1.64&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;6</sup>&#x000a0;ng&#x000b7;&#x003bc;L<sup>&#x02212;1</sup> of which 5&#x000a0;&#x003bc;L was spiked into plasma preceding cfDNA isolation. Plant DNA qPCRs were essentially performed as described above, using 900&#x000a0;n<sc>m</sc> of both forward and reverse primer and 250&#x000a0;n<sc>m</sc> of a FAM&#x02010;labeled probe (Table&#x000a0;<xref rid="mol212415-sup-0005" ref-type="supplementary-material">S1</xref>). Recovery efficiency was determined using a standard curve including the amount of spiked&#x02010;in plant DNA. Samples with a recovery efficiency &#x0003c;&#x000a0;5% or &#x0003e;&#x000a0;100% were excluded from further analysis as this strongly suggested an operator failure. This was further supported by the fact that recovery efficiency was not strongly correlated (&#x003c1;&#x000a0;=&#x000a0;0.45) with cfDNA concentration (Fig.&#x000a0;<xref rid="mol212415-sup-0001" ref-type="supplementary-material">S1</xref>).</p></sec><sec id="mol212415-sec-0010"><label>2.7</label><title>Digital PCR TaqMan&#x000ae; SNP genotyping and &#x003b2;&#x02010;actin fragmentation assay</title><p>The presence of somatic tumor&#x02010;specific variants and wild&#x02010;type DNA molecules was determined using standard and custom&#x02010;made TaqMan&#x000ae; single nucleotide polymorphism (SNP) genotyping assays (Thermo Fisher Scientific, Waltham, MA, USA), according to the manufacturer's instructions (Tables <xref rid="mol212415-sup-0005" ref-type="supplementary-material">S2</xref> and <xref rid="mol212415-sup-0005" ref-type="supplementary-material">S3</xref>). The TaqMan&#x000ae; &#x003b2;&#x02010;actin assay was used to investigate the fragment size distribution as an indication of leukocyte DNA contamination of the cfDNA, as previously reported (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). In short, a standard amount of 2&#x000a0;ng of cfDNA was used to detect one small (136&#x000a0;bp) and two long (420 and 2000&#x000a0;bp) &#x003b2;&#x02010;actin fragments within a single reaction. The used primers and probes are indicated in Table&#x000a0;<xref rid="mol212415-sup-0005" ref-type="supplementary-material">S1</xref>. The digital PCR (dPCR) was performed as previously described (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). In short, a maximum volume input of 7.8&#x000a0;&#x003bc;L of the final cfDNA eluate was added to the dPCR; the dPCR run was performed on the chip&#x02010;based QuantStudio 3D Digital PCR System (Thermo Fisher Scientific) according to the manufacturer's protocol. SNP genotyping assays were run at 56&#x000a0;&#x000b0;C; the &#x003b2;&#x02010;actin assay was run at 60&#x000a0;&#x000b0;C. A negative control (H<sub>2</sub>O) and a positive control (cell genomic DNA with known variant) were added to every experiment.</p></sec><sec id="mol212415-sec-0011"><label>2.8</label><title>Sample size</title><p>To test whether QS and MX were comparable to QA, we assumed a Cohen's effect size of 0.8, to be able to detect relevant differences. With a two&#x02010;sided type I error probability (&#x003b1;) of 0.025 and a type II error probability (&#x003b2;) of 0.2, a power calculation determined that 18 subjects were needed for paired comparisons. Based on the foregoing, 20 subjects were included (10 HBDs and 10 patients).</p></sec><sec id="mol212415-sec-0012"><label>2.9</label><title>Calculations and statistical analysis</title><p>All assay results were corrected for variations in plasma input and eluate volume, as previously described (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>), and expressed as either ng&#x000b7;mL<sup>&#x02212;1</sup> plasma or as mutant/wild&#x02010;type/&#x003b2;&#x02010;actin copy number per mL of plasma. The variant allele frequency (VAF) was calculated as follows: VAF&#x000a0;=&#x000a0;total variant copy number/(total variant copy number&#x000a0;+&#x000a0;total wild&#x02010;type copy number).The statistical analyses and figure plotting were performed in R version 3.2.3. The Friedman test was used to test the difference between matched QA, MX, and QS samples. Significant differences were post hoc analyzed using the Wilcoxon signed&#x02010;rank test. To correct for multiple testing, we adjusted the <italic>P</italic> value for significance by subsequently applying the Bonferroni correction. The Wilcoxon signed&#x02010;rank test was used to test the difference between matched EDTA and CellSave samples. Correlations were determined by Spearman's rank correlation coefficient.</p></sec></sec><sec id="mol212415-sec-0013"><label>3</label><title>Results</title><sec id="mol212415-sec-0014"><label>3.1</label><title>Optimization of cfDNA isolation using automated isolation platforms</title><p>In a small pilot study, we had previously observed a beneficial effect of cRNA addition to HBD plasma during isolation with the QS protocol on the cfDNA yield as determined by Qubit (Fig.&#x000a0;<xref rid="mol212415-sup-0002" ref-type="supplementary-material">S2</xref>). Therefore, cRNA addition was implemented in our standard QS protocol. However, it has been reported that cRNA might interfere with Qubit&#x02010;based DNA quantification and might not be a reliable readout (Invitrogen, <xref rid="mol212415-bib-0012" ref-type="ref">2016</xref>). Therefore, we tested whether cfDNA isolation on the automated platforms (QS/MX) was beneficially or adversely affected by the addition of cRNA using multiple readouts. We added varying amounts of cRNA to the plasma samples and measured the resulting cfDNA concentration by Qubit and TERT qPCR for both automated platforms<bold>.</bold> Using Qubit as readout, the addition of cRNA increased the total amount of cfDNA extracted on both platforms (MX <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; QS <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; Fig.&#x000a0;<xref rid="mol212415-fig-0001" ref-type="fig">1</xref>A). However, using TERT qPCR as readout, this increase could not be reproduced (Fig.&#x000a0;<xref rid="mol212415-fig-0001" ref-type="fig">1</xref>B). Next, we assessed the impact of cRNA on the recovery of spiked&#x02010;in synthetic plant DNA. Addition of cRNA affected the recovery efficiency of plant DNA (MX <italic>P</italic>&#x000a0;=&#x000a0;0.02; QS <italic>P</italic>&#x000a0;=&#x000a0;0.04; Fig.&#x000a0;<xref rid="mol212415-fig-0001" ref-type="fig">1</xref>C). Independent of cRNA input, recovery of plant DNA was ~&#x000a0;30% higher with QS (58.37&#x000a0;&#x000b1;&#x000a0;9.52) than with MX (28.22&#x000a0;&#x000b1;&#x000a0;6.67; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001). To assess whether the addition of cRNA biased the isolation of particular cfDNA fragment sizes, we performed the &#x003b2;&#x02010;actin fragmentation assay (Fig.&#x000a0;<xref rid="mol212415-fig-0001" ref-type="fig">1</xref>D). For both methods, increasing amounts of cRNA reduced the number of small fragments (136&#x000a0;bp; MX <italic>P</italic>&#x000a0;=&#x000a0;0.001; QS <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001), while no effect on larger fragments was observed. For all post hoc analyses, paired testing of samples with and without addition of cRNA (0&#x000a0;&#x003bc;g) did not reveal any significant differences.</p><fig fig-type="Figure" xml:lang="en" id="mol212415-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Effect of increasing <styled-content style="fixed-case">cRNA</styled-content> input (0&#x02013;4&#x000a0;&#x003bc;g) on cf<styled-content style="fixed-case">DNA</styled-content> quantity and quality using the Maxwell and <styled-content style="fixed-case">QIA</styled-content>symphony platforms. The effect on cf<styled-content style="fixed-case">DNA</styled-content> concentration (ng&#x000b7;<styled-content style="fixed-case">mL</styled-content>
+<sup>&#x02212;1</sup> plasma) was measured by Qubit (A) and <styled-content style="fixed-case">TERT qPCR</styled-content> (B). The recovery efficiency of each platform was analyzed by <styled-content style="fixed-case">qPCR</styled-content> using spiked&#x02010;in synthetic plant <styled-content style="fixed-case">DNA</styled-content> (C). Differences in cf<styled-content style="fixed-case">DNA</styled-content> fragment size, expressed as number of &#x003b2;&#x02010;actin fragments for each fragment size (136, 420 and 2000&#x000a0;bp), were analyzed by <styled-content style="fixed-case">dPCR</styled-content> (D). Boxes (interquartile ranges; <styled-content style="fixed-case">IQR</styled-content>) and whiskers (1.5&#x000d7; <styled-content style="fixed-case">IQR</styled-content>) are shown together with the median (black horizontal line). Outliers are indicated as single black points. Symbols &#x025cf; and &#x025b2; are mean values shown with whiskers (standard deviation). The Friedman test was used to test the group difference between Maxwell and <styled-content style="fixed-case">QIA</styled-content>symphony samples. Significant differences were post hoc analyzed using the Wilcoxon signed&#x02010;rank test. <italic>N</italic>&#x000a0;=&#x000a0;5.</p></caption><graphic id="nlm-graphic-3" xlink:href="MOL2-13-392-g001"/></fig></sec><sec id="mol212415-sec-0015"><label>3.2</label><title>Compatibility of CellSave preservative tubes with different isolation platforms</title><p>Previously, we have demonstrated the good performance of CellSave preservative tubes for ctDNA analysis (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). However, the manufacturers of both automated platforms recommend to use plasma isolated from blood collected in EDTA tubes. To allow for a fair comparison with our CellSave QA results, we therefore first determined whether the automated platforms (QS/MX) were compatible with CellSave tubes by assessing the cfDNA quantity and quality.Figure&#x000a0;<xref rid="mol212415-fig-0002" ref-type="fig">2</xref>A shows cfDNA concentrations as measured by TERT qPCR analysis. For the MX platform, the median cfDNA concentration was 5.59&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma from EDTA tubes and was 2.19&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma from CellSave tubes (IQR: 5.06&#x02013;6.21 and 2.07&#x02013;3.37&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma, respectively; <italic>P</italic>&#x000a0;=&#x000a0;0.008). For the QS platform, the median cfDNA concentration was 17.17&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma from EDTA tubes and 11.13&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma from CellSave tubes (IQR: 7.81&#x02013;22.12 and 9.02&#x02013;14.14&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> plasma, respectively). Although this was comparable, EDTA samples displayed a larger range in yielded cfDNA concentration. The potential effect of CellSave tubes on the recovery of synthetic plant DNA was determined as well. Comparable recovery efficiencies were observed in plasma collected in EDTA and CellSave tubes for both platforms (39.92% vs. 44.27% in MX and 67.92% vs. 66.19% in QS; Fig.&#x000a0;<xref rid="mol212415-fig-0002" ref-type="fig">2</xref>B). Finally, we used the &#x003b2;&#x02010;actin fragmentation assay to evaluate cfDNA fragmentation patterns as a readout for general sample quality (Fig.&#x000a0;<xref rid="mol212415-fig-0002" ref-type="fig">2</xref>C). EDTA tubes yielded a higher number of large cfDNA fragments (2000&#x000a0;bp) irrespective of the platform used (median number of &#x003b2;&#x02010;actin fragments and IQR MX: 33.08 (14.28&#x02013;44.59); QS: 32.46 (25.53&#x02013;55.44)) than CellSave tubes (median number of &#x003b2;&#x02010;actin fragments and IQR MX: 5.15 (2.42&#x02013;9.17); QS: 13.80 (7.01&#x02013;18.18); <italic>P</italic>&#x000a0;=&#x000a0;0.008). The number of small DNA fragments (136&#x000a0;bp) did not differ between EDTA and CellSave tubes for MX, but was slightly higher for EDTA tubes on the QS platform (median number of &#x003b2;&#x02010;actin fragments and IQR EDTA: 142.71 (110.28&#x02013;198.18); CellSave: 89.71 (80.22&#x02013;102.64); <italic>P</italic>&#x000a0;=&#x000a0;0.04). Based on these results, we deemed CellSave tubes are compatible with both automated platforms and used them for all further experiments.</p><fig fig-type="Figure" xml:lang="en" id="mol212415-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Compatibility of <styled-content style="fixed-case">EDTA</styled-content> and CellSave blood collection tubes with the Maxwell and <styled-content style="fixed-case">QIA</styled-content>symphony platforms. The effects on cf<styled-content style="fixed-case">DNA</styled-content> concentration (ng&#x000b7;<styled-content style="fixed-case">mL</styled-content>
+<sup>&#x02212;1</sup> plasma) measured by <styled-content style="fixed-case">TERT qPCR</styled-content> (A), recovery efficiency measured by plant <styled-content style="fixed-case">DNA qPCR</styled-content> (B), and &#x003b2;&#x02010;actin fragmentation assay analyzed with <styled-content style="fixed-case">dPCR</styled-content> are shown (C). Boxes (interquartile ranges; <styled-content style="fixed-case">IQR</styled-content>) and whiskers (1.5&#x000d7; <styled-content style="fixed-case">IQR</styled-content>) are shown together with the median (black horizontal line). Outliers are indicated as single black points. Symbols &#x025cf; and &#x025b2; are mean values shown with whiskers (standard deviation). The Wilcoxon signed&#x02010;rank test was used to test the difference between blood collection tubes for each platform. <italic>N</italic>&#x000a0;=&#x000a0;9.</p></caption><graphic id="nlm-graphic-5" xlink:href="MOL2-13-392-g002"/></fig></sec><sec id="mol212415-sec-0016"><label>3.3</label><title>Comparison of the performance of automated platforms on downstream cfDNA and ctDNA analyses</title><p>Next, we compared the quantity and quality of the obtained cfDNA using the current &#x02018;gold standard&#x02019; manual QA platform to the automated QS and MX platforms using samples from 10 HBDs and 10 metastatic cancer patients. In HBDs, cfDNA concentrations measured by TERT qPCR analysis were comparable for all three isolation platforms (Fig.&#x000a0;<xref rid="mol212415-fig-0003" ref-type="fig">3</xref>A). In patients, the MX retrieved significantly less cfDNA compared to both QA (<italic>P</italic>&#x000a0;=&#x000a0;0.002) and QS (<italic>P</italic>&#x000a0;=&#x000a0;0.002; median cfDNA concentration and IQR QA: 15.84 (12.64&#x02013;65.11); MX: 6.00 (3.80&#x02013;20.43); QS: 14.50 (11.99&#x02013;57.65) ng&#x000b7;mL<sup>&#x02212;1</sup> plasma; Fig.&#x000a0;<xref rid="mol212415-fig-0003" ref-type="fig">3</xref>A). To determine the recovery efficiency of the three different platforms, 5&#x000a0;&#x003bc;L of synthetic plant DNA was added to each plasma sample preceding cfDNA isolation. The average recovery efficiency using QA (51.95&#x000a0;&#x000b1;&#x000a0;12.02%) was similar to QS (43.45&#x000a0;&#x000b1;&#x000a0;8.21%). However, MX performed worse (18.61&#x000a0;&#x000b1;&#x000a0;5.81%; <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001; Fig.&#x000a0;<xref rid="mol212415-fig-0003" ref-type="fig">3</xref>B). In HBDs, we did not observe cfDNA fragment size differences between either of the evaluated platforms (Fig.&#x000a0;<xref rid="mol212415-fig-0003" ref-type="fig">3</xref>C). In patients, MX isolated fewer small &#x003b2;&#x02010;actin fragments (136&#x000a0;bp) than QA (median number of &#x003b2;&#x02010;actin fragments and IQR for MX: 57.45 (53.17&#x02013;66.72); and for QA: 83.18 (70.36&#x02013;101.63); <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01) and fewer large fragments (2000&#x000a0;bp) than QS (median number of &#x003b2;&#x02010;actin fragments and IQR for MX: 2.08 (0.00&#x02013;5.21); and for QS: 10.06 (6.70&#x02013;13.72); <italic>P</italic>&#x000a0;=&#x000a0;0.002).</p><fig fig-type="Figure" xml:lang="en" id="mol212415-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effect of the different isolation platforms (<styled-content style="fixed-case">QIA</styled-content>amp, Maxwell, and <styled-content style="fixed-case">QIA</styled-content>symphony) on downstream cf<styled-content style="fixed-case">DNA</styled-content> analysis. cf<styled-content style="fixed-case">DNA</styled-content> was isolated from 2 <styled-content style="fixed-case">mL</styled-content> matched plasma samples of HBDs (<italic>N</italic>&#x000a0;=&#x000a0;10) and patients with metastatic cancer (<italic>N</italic>&#x000a0;=&#x000a0;10) and analyzed by <styled-content style="fixed-case">TERT qPCR</styled-content> assay for cf<styled-content style="fixed-case">DNA</styled-content> concentration (ng&#x000b7;<styled-content style="fixed-case">mL</styled-content>
+<sup>&#x02212;1</sup> plasma) (A), plant <styled-content style="fixed-case">DNA qPCR</styled-content> assay to determine recovery efficiency (B), and <styled-content style="fixed-case">dPCR</styled-content> &#x003b2;&#x02010;actin fragmentation assay to evaluate cf<styled-content style="fixed-case">DNA</styled-content> fragment sizes (C). Boxes (interquartile ranges; <styled-content style="fixed-case">IQR</styled-content>) and whiskers (1.5&#x000d7; <styled-content style="fixed-case">IQR</styled-content>) are shown together with the median (black horizontal line). Outliers are indicated as single black points. Symbols &#x025a0;, &#x025cf;, and &#x025b2; are mean values shown with whiskers (standard deviation). The Friedman test was used to test the group difference between matched samples processed by the three platforms. Significant differences were post hoc analyzed using the Wilcoxon signed&#x02010;rank test.</p></caption><graphic id="nlm-graphic-7" xlink:href="MOL2-13-392-g003"/></fig><p>Finally, we compared somatic variant detection in ctDNA isolated by the different platforms. For this purpose, we used previously generated diagnostic sequencing results on the somatic variant status in the primary and/or metastatic lesions of the corresponding patients (Table&#x000a0;<xref rid="mol212415-tbl-0001" ref-type="table">1</xref>). We detected the expected somatic variants in all patients for all isolation methods. QS results were most comparable to QA (Fig.&#x000a0;<xref rid="mol212415-fig-0004" ref-type="fig">4</xref>). In MX, fewer mutant molecules, though not significant, and significantly fewer wild&#x02010;type molecules were isolated (Fig.&#x000a0;<xref rid="mol212415-fig-0004" ref-type="fig">4</xref>A,B). However, this did not result in a significantly different VAF (Fig.&#x000a0;<xref rid="mol212415-fig-0004" ref-type="fig">4</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="mol212415-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Somatic variant detection in patients with metastatic cancer on samples isolated with the three different isolation platforms (<styled-content style="fixed-case">QIA</styled-content>amp, Maxwell, and <styled-content style="fixed-case">QIA</styled-content>symphony). Somatic variant status had been assessed in patients&#x02019; primary and/or metastatic lesion as part of the standard of care. In all patients (<italic>N</italic>&#x000a0;=&#x000a0;10), the known somatic variant was detected in plasma isolated from the three platforms. The ratios of the mutant copy number (A), wild&#x02010;type copy number (B), and variant allele frequency (<styled-content style="fixed-case">VAF</styled-content>) measured in the Maxwell and <styled-content style="fixed-case">QIA</styled-content>symphony vs. <styled-content style="fixed-case">QIA</styled-content>amp are shown (C). The dashed line (ratio of 1) resembles the situation when platforms have similar results. The Wilcoxon signed&#x02010;rank test was used to test the difference between the platforms.</p></caption><graphic id="nlm-graphic-9" xlink:href="MOL2-13-392-g004"/></fig></sec></sec><sec id="mol212415-sec-0017"><label>4</label><title>Discussion</title><p>Up to now, several studies have investigated the effect of manual and automated cfDNA isolation platforms on ctDNA quantity and quality (Devonshire <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0004" ref-type="ref">2014</xref>; Perez&#x02010;Barrios <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0020" ref-type="ref">2016</xref>; Sorber <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0025" ref-type="ref">2017</xref>). However, differences in pre&#x02010;analytical conditions, including plasma processing time, type of blood collection tube used, and storage conditions, hamper direct comparisons and straightforward conclusions. Here, we presented a study in which we have systematically optimized and compared automated isolation of cfDNA using QS and MX with the &#x02018;gold standard&#x02019; QA.The addition of carrier molecules like cRNA to plasma preceding cfDNA isolation increases the amount of cfDNA recovered during isolation by precipitating and binding of small molecules (Kishore <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0015" ref-type="ref">2006</xref>; Shaw <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0023" ref-type="ref">2009</xref>). The manual QA platform requires addition of cRNA for the standard protocol, whereas the manufacturer's protocol of both the QS and MX does not require this. In a small pilot study, we observed that the addition of cRNA to the QS protocol improved cfDNA yield, so cRNA was implemented into our standard QS protocol. However, Invitrogen has reported that cRNA might interfere with Qubit&#x02010;based DNA quantification. Indeed, our findings suggest that the increase in cfDNA concentration as measured by Qubit for QS and MX is, at least in part, affected by the presence of cRNA. Data obtained from the TERT and plant DNA qPCR did not reveal any added value of cRNA to either of the automated platforms. Moreover, our fragmentation assay suggests that increasing amounts of cRNA reduce the amount of small fragments. Together, our results demonstrate that addition of cRNA to plasma does not improve cfDNA yields using these automated bead&#x02010;based platforms.In our previous study using the manual QA platform, we demonstrated the superiority of CellSave tubes over EDTA tubes for collecting plasma for cfDNA/ctDNA analysis as it ensures optimal ctDNA quality when processed within 96&#x000a0;h after blood draw compared to only 24&#x000a0;h for EDTA tubes, enabling its use in multicenter clinical studies (van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>). Therefore, we investigated the compatibility of CellSave tubes with QS and MX. On both platforms, we observed an increase in the isolation of large cfDNA fragments (2000&#x000a0;bp) in EDTA samples. This relates to the release of intact DNA from lysed leukocytes and a subsequent increase in cfDNA concentration, which we also observed here. As the recovery efficiency was not affected in CellSave tubes and the plasma samples were not contaminated with additional DNA from leukocytes, we recommend the use of CellSave tubes in combination with the QS or MX platform.Currently, QA is widely used for cfDNA/ctDNA isolations, but its manual laborious and time&#x02010;consuming protocol renders this method unsuitable for high&#x02010;throughput isolations. The competing automated platforms QS and MX both use magnetic&#x02010;bead&#x02010;based protocols and have comparable hands&#x02010;on times. However, costs and number of samples that can be processed per run differ (Table&#x000a0;<xref rid="mol212415-tbl-0002" ref-type="table">2</xref>). In HBDs, cfDNA quantity and quality were similar on all platforms. However, in patients we saw for all assays that QA and QS yielded more cfDNA than MX. As this might suggest that higher amounts of cfDNA are less efficiently isolated by the MX platform, we spiked high amounts of fragmented DNA in HBD plasma and isolated this with MX (Fig.&#x000a0;<xref rid="mol212415-sup-0003" ref-type="supplementary-material">S3</xref>). However, these high DNA amounts were isolated efficiently by MX. Another potential explanation for the difference in performance might be the absence of proteinase K incubation step in the MX protocol. Proteinase K is used in both the QA and QS protocols and can improve cfDNA yield by inhibiting nucleases and the release of protein&#x02010;bound cfDNA. Moreover, recovery efficiency of plant DNA was lowest in MX. Altogether, this explains the lower yield of mutant and wild&#x02010;type molecules isolated by MX, which may be a concern in samples with low frequent somatic variants. However, importantly, this lower yield did not translate into a significant difference in detected VAF (Figs 4C and <xref rid="mol212415-sup-0004" ref-type="supplementary-material">S4</xref>). These data underline the importance of taking the used isolation method and readout (mutant molecules&#x000b7;mL<sup>&#x02212;1</sup> plasma or VAF) into consideration when comparing results between studies as well as for the diagnostic use of ctDNA. QS and QA performed comparable in detection of absolute numbers of mutant and wild&#x02010;type molecules. Of note, other publications have observed similar performances of QA and MX in a head&#x02010;to&#x02010;head comparison (Perez&#x02010;Barrios <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0020" ref-type="ref">2016</xref>; Sorber <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0025" ref-type="ref">2017</xref>). This could be related to differences in pre&#x02010;analytical conditions (e.g., type of blood collection tube, plasma volume used as input), as multiple publications have demonstrated its relation to cfDNA quantity and quality (Haselmann <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0010" ref-type="ref">2018</xref>; van Dessel <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0027" ref-type="ref">2017</xref>; Volckmar <italic>et&#x000a0;al</italic>., <xref rid="mol212415-bib-0029" ref-type="ref">2018</xref>). In addition, we have optimized our QA protocol by re&#x02010;eluting three times and thereby improving our cfDNA quantity. For automated magnetic&#x02010;bead&#x02010;based systems, this is not possible.</p></sec><sec id="mol212415-sec-0018"><label>5</label><title>Conclusion</title><p>The results of this study show that the QS automated platform has comparable performance to the &#x02018;gold standard&#x02019; QA and outperformed the MX platform depending on the readout used. The QS platform is congruent with all our predefined goals as it (a) reduces hands&#x02010;on time from 180&#x02013;240 to 30&#x000a0;min per run; (b) is able to process larger numbers of samples (96 instead of 24 at a time); (c) isolates comparable cfDNA yield with similar efficiency; and (d) has comparable ctDNA quantity and quality to QA. Therefore, the QS can replace the more laborious QA platform, especially when high&#x02010;throughput cfDNA isolation is needed.</p></sec><sec id="mol212415-sec-0922"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec id="mol212415-sec-0020"><title>Author contributions</title><p>LFD and SRV acquired data, analyzed and interpreted data, and drafted and revised the manuscript; JCAH and MVD acquired data and revised the manuscript; SMW analyzed and interpreted data and revised the manuscript; EOH carried out statistical analyses and revised the manuscript; SS, JWMM, and MPL conceived the project and revised the manuscript; MPHMJ analyzed and interpreted data, conceived the project, and revised the manuscript; and all authors read, critically revised, and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="mol212415-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1.</bold> Overview of the recovery efficiency of synthetic plant DNA in all samples isolated with the different platforms (QA, MX, and QS). (A) Dot plot of the recovery efficiency for each isolation platform, as analyzed by plant qPCR using spiked&#x02010;in synthetic plant DNA. Samples with a recovery efficiency &#x0003c;&#x000a0;5% or &#x0003e;&#x000a0;100% (black horizontal lines) were excluded from the analyses. (B) Correlation between recovery efficiency and cfDNA concentration (ng&#x000b7;mL<sup>&#x02212;1</sup> plasma) measured by TERT qPCR assay. Correlations were tested by Spearman's rank correlation coefficient. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><media xlink:href="MOL2-13-392-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mol212415-sup-0002"><caption><p>
+<bold>Fig.&#x000a0;S2.</bold> Effect of cRNA addition on cfDNA quantity using the QS platform. cfDNA concentration (ng&#x000b7;mL<sup>&#x02212;1</sup> plasma) was determined by Qubit after adding increasing amounts of cRNA (0&#x02013;4&#x000a0;&#x003bc;g) before start of the plasma isolation. Boxes (interquartile ranges; IQR) and whiskers (1.5&#x000d7; IQR) are shown together with the median (black horizontal line).</p></caption><media xlink:href="MOL2-13-392-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mol212415-sup-0003"><caption><p>
+<bold>Fig.&#x000a0;S3.</bold> Performance of the MX platform using increasing DNA input (0, 15, and 60&#x000a0;ng&#x000b7;mL<sup>&#x02212;1</sup> fragmented cell line DNA has been spiked in HBD plasma). The effects on (A) cfDNA concentration (ng&#x000b7;mL<sup>&#x02212;1</sup> plasma) measured by TERT qPCR, (B) recovery efficiency measured by plant DNA qPCR, (C) total number of mutant molecules, and (D) VAF are shown. Boxes (interquartile ranges; IQR) and whiskers (1.5&#x000d7; IQR) are shown together with the median (black horizontal line). Outliers are indicated as single black points. Symbol &#x025cf; is mean value shown with whiskers (standard deviation). <italic>N</italic>&#x000a0;=&#x000a0;5.</p></caption><media xlink:href="MOL2-13-392-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mol212415-sup-0004"><caption><p>
+<bold>Fig.&#x000a0;S4.</bold> Representative data images of SNP genotyping dPCR assay isolated with the different platforms (QA, MX, and QS). A subject with an intermediate (A), high (B) and low (C) VAF are shown. On the <italic>Y</italic>&#x02010;axis, positive FAM signal represents mutant molecules (blue dots); on the <italic>X</italic>&#x02010;axis, positive VIC signal represents wild&#x02010;type molecules (red dots). Green dots reflect the presence of a mutant and a wild&#x02010;type molecule in a single well.</p></caption><media xlink:href="MOL2-13-392-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="mol212415-sup-0005"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Custom primer and probe sequences used for qPCR.</p><p>
+<bold>Table&#x000a0;S2.</bold> Standard SNP genotyping assays.</p><p>
+<bold>Table&#x000a0;S3.</bold> Custom SNP genotyping assays.</p></caption><media xlink:href="MOL2-13-392-s005.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mol212415-sec-0019"><title>Acknowledgements</title><p>This work was supported in part by KWF&#x02010;Alpe d'HuZes projects [EMCR 2014&#x02010;6340 and NKI 2014&#x02010;7080] and in part by a grant from Cancer Genomics Netherlands (CGC.nl)/Netherlands Organization for Scientific Research (NWO).</p></ack><ref-list content-type="cited-references" id="mol212415-bibl-0001"><title>References</title><ref id="mol212415-bib-0001"><mixed-citation publication-type="journal" id="mol212415-cit-0001">
+<string-name>
+<surname>Bettegowda</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sausen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Leary</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Kinde</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bartlett</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Luber</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Alani</surname>
+<given-names>RM</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Detection of circulating tumor DNA in early&#x02010; and late&#x02010;stage human malignancies</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<volume>6</volume>, <fpage>224ra24</fpage>.</mixed-citation></ref><ref id="mol212415-bib-0002"><mixed-citation publication-type="journal" id="mol212415-cit-0002">
+<string-name>
+<surname>Bidard</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name>
+<surname>Madic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mariani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Piperno&#x02010;Neumann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rampanou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Servois</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Cassoux</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Desjardins</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Milder</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vaucher</surname>
+<given-names>I</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Detection rate and prognostic value of circulating tumor cells and circulating tumor DNA in metastatic uveal melanoma</article-title>. <source xml:lang="en">Int J Cancer</source>
+<volume>134</volume>, <fpage>1207</fpage>&#x02013;<lpage>1213</lpage>.<pub-id pub-id-type="pmid">23934701</pub-id></mixed-citation></ref><ref id="mol212415-bib-0003"><mixed-citation publication-type="journal" id="mol212415-cit-0003">
+<string-name>
+<surname>Dawson</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Tsui</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Murtaza</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Biggs</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rueda</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Dunning</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Gale</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Forshew</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mahler&#x02010;Araujo</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Analysis of circulating tumor DNA to monitor metastatic breast cancer</article-title>. <source xml:lang="en">N Engl J Med</source>
+<volume>368</volume>, <fpage>1199</fpage>&#x02013;<lpage>1209</lpage>.<pub-id pub-id-type="pmid">23484797</pub-id></mixed-citation></ref><ref id="mol212415-bib-0004"><mixed-citation publication-type="journal" id="mol212415-cit-0004">
+<string-name>
+<surname>Devonshire</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Whale</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Gutteridge</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cowen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Foy</surname>
+<given-names>CA</given-names>
+</string-name> and <string-name>
+<surname>Huggett</surname>
+<given-names>JF</given-names>
+</string-name> (<year>2014</year>) <article-title>Towards standardisation of cell&#x02010;free DNA measurement in plasma: controls for extraction efficiency, fragment size bias and quantification</article-title>. <source xml:lang="en">Anal Bioanal Chem</source>
+<volume>406</volume>, <fpage>6499</fpage>&#x02013;<lpage>6512</lpage>.<pub-id pub-id-type="pmid">24853859</pub-id></mixed-citation></ref><ref id="mol212415-bib-0005"><mixed-citation publication-type="journal" id="mol212415-cit-0005">
+<string-name>
+<surname>Diaz</surname>
+<given-names>LA</given-names>
+<suffix>Jr</suffix>
+</string-name> and <string-name>
+<surname>Bardelli</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>) <article-title>Liquid biopsies: genotyping circulating tumor DNA</article-title>. <source xml:lang="en">J Clin Oncol</source>
+<volume>32</volume>, <fpage>579</fpage>&#x02013;<lpage>586</lpage>.<pub-id pub-id-type="pmid">24449238</pub-id></mixed-citation></ref><ref id="mol212415-bib-0006"><mixed-citation publication-type="journal" id="mol212415-cit-0006">
+<string-name>
+<surname>Diehl</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Choti</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Romans</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thornton</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Agrawal</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sokoll</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Szabo</surname>
+<given-names>SA</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>Circulating mutant DNA to assess tumor dynamics</article-title>. <source xml:lang="en">Nat Med</source>
+<volume>14</volume>, <fpage>985</fpage>&#x02013;<lpage>990</lpage>.<pub-id pub-id-type="pmid">18670422</pub-id></mixed-citation></ref><ref id="mol212415-bib-0007"><mixed-citation publication-type="journal" id="mol212415-cit-0007">
+<string-name>
+<surname>Elshimali</surname>
+<given-names>YI</given-names>
+</string-name>, <string-name>
+<surname>Khaddour</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sarkissyan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name> and <string-name>
+<surname>Vadgama</surname>
+<given-names>JV</given-names>
+</string-name> (<year>2013</year>) <article-title>The clinical utilization of circulating cell free DNA (CCFDNA) in blood of cancer patients</article-title>. <source xml:lang="en">Int J Mol Sci</source>
+<volume>14</volume>, <fpage>18925</fpage>&#x02013;<lpage>18958</lpage>.<pub-id pub-id-type="pmid">24065096</pub-id></mixed-citation></ref><ref id="mol212415-bib-0008"><mixed-citation publication-type="journal" id="mol212415-cit-0008">
+<string-name>
+<surname>Fleischhacker</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Schmidt</surname>
+<given-names>B</given-names>
+</string-name> (<year>2007</year>) <article-title>Circulating nucleic acids (CNAs) and cancer&#x02013;a survey</article-title>. <source xml:lang="en">Biochim Biophys Acta</source>
+<volume>1775</volume>, <fpage>181</fpage>&#x02013;<lpage>232</lpage>.<pub-id pub-id-type="pmid">17137717</pub-id></mixed-citation></ref><ref id="mol212415-bib-0009"><mixed-citation publication-type="journal" id="mol212415-cit-0009">
+<string-name>
+<surname>Forshew</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Murtaza</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Parkinson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gale</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tsui</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Kaper</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Piskorz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Linan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bentley</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Noninvasive identification and monitoring of cancer mutations by targeted deep sequencing of plasma DNA</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<volume>4</volume>, <fpage>136ra168</fpage>.</mixed-citation></ref><ref id="mol212415-bib-0010"><mixed-citation publication-type="journal" id="mol212415-cit-0010">
+<string-name>
+<surname>Haselmann</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ahmad&#x02010;Nejad</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Geilenkeuser</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Duda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gabor</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eichner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Patton</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Neumaier</surname>
+<given-names>M</given-names>
+</string-name> (<year>2018</year>) <article-title>Results of the first external quality assessment scheme (EQA) for isolation and analysis of circulating tumour DNA (ctDNA)</article-title>. <source xml:lang="en">Clin Chem Lab Med</source>
+<volume>56</volume>, <fpage>220</fpage>&#x02013;<lpage>228</lpage>.<pub-id pub-id-type="pmid">28841569</pub-id></mixed-citation></ref><ref id="mol212415-bib-0011"><mixed-citation publication-type="journal" id="mol212415-cit-0011">
+<string-name>
+<surname>Herbreteau</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vallee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Knol</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Theoleyre</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quereux</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Varey</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Khammari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dreno</surname>
+<given-names>B</given-names>
+</string-name> and <string-name>
+<surname>Denis</surname>
+<given-names>MG</given-names>
+</string-name> (<year>2018</year>) <article-title>Quantitative monitoring of circulating tumor DNA predicts response of cutaneous metastatic melanoma to anti&#x02010;PD1 immunotherapy</article-title>. <source xml:lang="en">Oncotarget</source>
+<volume>9</volume>, <fpage>25265</fpage>&#x02013;<lpage>25276</lpage>.<pub-id pub-id-type="pmid">29861869</pub-id></mixed-citation></ref><ref id="mol212415-bib-0012"><mixed-citation publication-type="miscellaneous" id="mol212415-cit-0012">
+<collab collab-type="authors">Invitrogen</collab>
+(<year>2016</year>) <article-title>Qubit dsDNA assay specificity in the presence of single&#x02010;stranded DNA</article-title>. Application note.</mixed-citation></ref><ref id="mol212415-bib-0013"><mixed-citation publication-type="journal" id="mol212415-cit-0013">
+<string-name>
+<surname>Jahr</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hentze</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Englisch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hardt</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fackelmayer</surname>
+<given-names>FO</given-names>
+</string-name>, <string-name>
+<surname>Hesch</surname>
+<given-names>RD</given-names>
+</string-name> and <string-name>
+<surname>Knippers</surname>
+<given-names>R</given-names>
+</string-name> (<year>2001</year>) <article-title>DNA fragments in the blood plasma of cancer patients: quantitations and evidence for their origin from apoptotic and necrotic cells</article-title>. <source xml:lang="en">Cancer Res</source>
+<volume>61</volume>, <fpage>1659</fpage>&#x02013;<lpage>1665</lpage>.<pub-id pub-id-type="pmid">11245480</pub-id></mixed-citation></ref><ref id="mol212415-bib-0014"><mixed-citation publication-type="journal" id="mol212415-cit-0014">
+<string-name>
+<surname>Kang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Henry</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Paoletti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Vats</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chinnaiyan</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Merajver</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Rae</surname>
+<given-names>JM</given-names>
+</string-name> and <string-name>
+<surname>Tewari</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Comparative analysis of circulating tumor DNA stability In K3EDTA, Streck, and Cell Save blood collection tubes</article-title>. <source xml:lang="en">Clin Biochem</source>
+<volume>49</volume>, <fpage>1354</fpage>&#x02013;<lpage>1360</lpage>.<pub-id pub-id-type="pmid">27129799</pub-id></mixed-citation></ref><ref id="mol212415-bib-0015"><mixed-citation publication-type="journal" id="mol212415-cit-0015">
+<string-name>
+<surname>Kishore</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Reef Hardy</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>
+<given-names>NA</given-names>
+</string-name> and <string-name>
+<surname>Buoncristiani</surname>
+<given-names>MR</given-names>
+</string-name> (<year>2006</year>) <article-title>Optimization of DNA extraction from low&#x02010;yield and degraded samples using the BioRobot EZ1 and BioRobot M48</article-title>. <source xml:lang="en">J Forensic Sci</source>
+<volume>51</volume>, <fpage>1055</fpage>&#x02013;<lpage>1061</lpage>.<pub-id pub-id-type="pmid">17018081</pub-id></mixed-citation></ref><ref id="mol212415-bib-0017"><mixed-citation publication-type="journal" id="mol212415-cit-0017">
+<string-name>
+<surname>Mandel</surname>
+<given-names>P</given-names>
+</string-name> and <string-name>
+<surname>Metais</surname>
+<given-names>P</given-names>
+</string-name> (<year>1948</year>) <article-title>Les acides nucleiques du plasma sanguin chez l'homme</article-title>. <source xml:lang="en">C R Seances Soc Biol Fil</source>
+<volume>142</volume>, <fpage>241</fpage>&#x02013;<lpage>243</lpage>.<pub-id pub-id-type="pmid">18875018</pub-id></mixed-citation></ref><ref id="mol212415-bib-0018"><mixed-citation publication-type="journal" id="mol212415-cit-0018">
+<string-name>
+<surname>Murtaza</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Tsui</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Gale</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Forshew</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Piskorz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Parkinson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Kingsbury</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>AS</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Non&#x02010;invasive analysis of acquired resistance to cancer therapy by sequencing of plasma DNA</article-title>. <source xml:lang="en">Nature</source>
+<volume>497</volume>, <fpage>108</fpage>&#x02013;<lpage>112</lpage>.<pub-id pub-id-type="pmid">23563269</pub-id></mixed-citation></ref><ref id="mol212415-bib-0019"><mixed-citation publication-type="journal" id="mol212415-cit-0019">
+<string-name>
+<surname>Oxnard</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Paweletz</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Kuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mach</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Messineo</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Luke</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Butaney</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kirschmeier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jackman</surname>
+<given-names>DM</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Noninvasive detection of response and resistance in EGFR&#x02010;mutant lung cancer using quantitative next&#x02010;generation genotyping of cell&#x02010;free plasma DNA</article-title>. <source xml:lang="en">Clin Cancer Res</source>
+<volume>20</volume>, <fpage>1698</fpage>&#x02013;<lpage>1705</lpage>.<pub-id pub-id-type="pmid">24429876</pub-id></mixed-citation></ref><ref id="mol212415-bib-0020"><mixed-citation publication-type="journal" id="mol212415-cit-0020">
+<string-name>
+<surname>Perez&#x02010;Barrios</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nieto&#x02010;Alcolado</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Torrente</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jimenez&#x02010;Sanchez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Calvo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez&#x02010;Sanz</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Palka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Donoso&#x02010;Navarro</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Provencio</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Romero</surname>
+<given-names>A</given-names>
+</string-name> (<year>2016</year>) <article-title>Comparison of methods for circulating cell&#x02010;free DNA isolation using blood from cancer patients: impact on biomarker testing</article-title>. <source xml:lang="en">Transl Lung Cancer Res</source>
+<volume>5</volume>, <fpage>665</fpage>&#x02013;<lpage>672</lpage>.<pub-id pub-id-type="pmid">28149760</pub-id></mixed-citation></ref><ref id="mol212415-bib-0021"><mixed-citation publication-type="journal" id="mol212415-cit-0021">
+<string-name>
+<surname>Pugh</surname>
+<given-names>TJ</given-names>
+</string-name> (<year>2018</year>) <article-title>Circulating tumour DNA for detecting minimal residual disease in multiple myeloma</article-title>. <source xml:lang="en">Semin Hematol</source>
+<volume>55</volume>, <fpage>38</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">29759151</pub-id></mixed-citation></ref><ref id="mol212415-bib-0022"><mixed-citation publication-type="journal" id="mol212415-cit-0022">
+<string-name>
+<surname>Sefrioui</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sarafan&#x02010;Vasseur</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Beaussire</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Baretti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gangloff</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Clatot</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sabourin</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Sesboue</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Frebourg</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Clinical value of chip&#x02010;based digital&#x02010;PCR platform for the detection of circulating DNA in metastatic colorectal cancer</article-title>. <source xml:lang="en">Dig Liver Dis</source>
+<volume>47</volume>, <fpage>884</fpage>&#x02013;<lpage>890</lpage>.<pub-id pub-id-type="pmid">26160500</pub-id></mixed-citation></ref><ref id="mol212415-bib-0023"><mixed-citation publication-type="journal" id="mol212415-cit-0023">
+<string-name>
+<surname>Shaw</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Thain</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Docker</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Greenman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Greenway</surname>
+<given-names>GM</given-names>
+</string-name> and <string-name>
+<surname>Haswell</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2009</year>) <article-title>The use of carrier RNA to enhance DNA extraction from microfluidic&#x02010;based silica monoliths</article-title>. <source xml:lang="en">Anal Chim Acta</source>
+<volume>652</volume>, <fpage>231</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">19786185</pub-id></mixed-citation></ref><ref id="mol212415-bib-0024"><mixed-citation publication-type="journal" id="mol212415-cit-0024">
+<string-name>
+<surname>Shinozaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>O'Day</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kitago</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Amersi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kuo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>HJ</given-names>
+</string-name> and <string-name>
+<surname>Hoon</surname>
+<given-names>DS</given-names>
+</string-name> (<year>2007</year>) <article-title>Utility of circulating B&#x02010;RAF DNA mutation in serum for monitoring melanoma patients receiving biochemotherapy</article-title>. <source xml:lang="en">Clin Cancer Res</source>
+<volume>13</volume>, <fpage>2068</fpage>&#x02013;<lpage>2074</lpage>.<pub-id pub-id-type="pmid">17404088</pub-id></mixed-citation></ref><ref id="mol212415-bib-0025"><mixed-citation publication-type="journal" id="mol212415-cit-0025">
+<string-name>
+<surname>Sorber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zwaenepoel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Deschoolmeester</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Roeyen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lardon</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rolfo</surname>
+<given-names>C</given-names>
+</string-name> and <string-name>
+<surname>Pauwels</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>A comparison of cell&#x02010;free DNA isolation kits: isolation and quantification of cell&#x02010;free DNA in plasma</article-title>. <source xml:lang="en">J Mol Diagn</source>
+<volume>19</volume>, <fpage>162</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">27865784</pub-id></mixed-citation></ref><ref id="mol212415-bib-0026"><mixed-citation publication-type="journal" id="mol212415-cit-0026">
+<string-name>
+<surname>Stroun</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Maurice</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lyautey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lederrey</surname>
+<given-names>C</given-names>
+</string-name> and <string-name>
+<surname>Beljanski</surname>
+<given-names>M</given-names>
+</string-name> (<year>1989</year>) <article-title>Neoplastic characteristics of the DNA found in the plasma of cancer patients</article-title>. <source xml:lang="en">Oncology</source>
+<volume>46</volume>, <fpage>318</fpage>&#x02013;<lpage>322</lpage>.<pub-id pub-id-type="pmid">2779946</pub-id></mixed-citation></ref><ref id="mol212415-bib-0027"><mixed-citation publication-type="journal" id="mol212415-cit-0027">
+<string-name>
+<surname>van Dessel</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name>
+<surname>Beije</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Helmijr</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Kraan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Look</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>de Wit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sleijfer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Martens</surname>
+<given-names>JW</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Application of circulating tumor DNA in prospective clinical oncology trials &#x02010; standardization of preanalytical conditions</article-title>. <source xml:lang="en">Mol Oncol</source>
+<volume>11</volume>, <fpage>295</fpage>&#x02013;<lpage>304</lpage>.<pub-id pub-id-type="pmid">28164427</pub-id></mixed-citation></ref><ref id="mol212415-bib-0029"><mixed-citation publication-type="journal" id="mol212415-cit-0029">
+<string-name>
+<surname>Volckmar</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Sultmann</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Riediger</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fioretos</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schirmacher</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Endris</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Stenzinger</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Dietz</surname>
+<given-names>S</given-names>
+</string-name> (<year>2018</year>) <article-title>A field guide for cancer diagnostics using cell&#x02010;free DNA: From principles to practice and clinical applications</article-title>. <source xml:lang="en">Genes Chromosom Cancer</source>
+<volume>57</volume>, <fpage>123</fpage>&#x02013;<lpage>139</lpage>.<pub-id pub-id-type="pmid">29205637</pub-id></mixed-citation></ref><ref id="mol212415-bib-0030"><mixed-citation publication-type="journal" id="mol212415-cit-0030">
+<string-name>
+<surname>Zill</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sebisanovic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Siew</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Leng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hendifar</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Atreya</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>
+<given-names>RK</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Cell&#x02010;free DNA next&#x02010;generation sequencing in pancreatobiliary carcinomas</article-title>. <source xml:lang="en">Cancer Discov</source>
+<volume>5</volume>, <fpage>1040</fpage>&#x02013;<lpage>1048</lpage>.<pub-id pub-id-type="pmid">26109333</pub-id></mixed-citation></ref></ref-list></back></article>

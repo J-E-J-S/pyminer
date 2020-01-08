@@ -1,0 +1,429 @@
+{
+  "id": [
+    "31504566"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31504566"
+  ],
+  "pmcid": [
+    "PMC6857194"
+  ],
+  "doi": [
+    "10.1093/jac/dkz367"
+  ],
+  "title": [
+    "Phenotypic and genotypic characterization of linezolid-resistant Enterococcus faecium from the USA and Pakistan."
+  ],
+  "authorString": [
+    "Wardenburg KE, Potter RF, D'Souza AW, Hussain T, Wallace MA, Andleeb S, Burnham CD, Dantas G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wardenburg KE"
+          ],
+          "firstName": [
+            "Kate E"
+          ],
+          "lastName": [
+            "Wardenburg"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Potter RF"
+          ],
+          "firstName": [
+            "Robert F"
+          ],
+          "lastName": [
+            "Potter"
+          ],
+          "initials": [
+            "RF"
+          ],
+          "affiliation": [
+            "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Souza AW"
+          ],
+          "firstName": [
+            "Alaric W"
+          ],
+          "lastName": [
+            "D'Souza"
+          ],
+          "initials": [
+            "AW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8744-8136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hussain T"
+          ],
+          "firstName": [
+            "Tahir"
+          ],
+          "lastName": [
+            "Hussain"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wallace MA"
+          ],
+          "firstName": [
+            "Meghan A"
+          ],
+          "lastName": [
+            "Wallace"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Pathology and Immunology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Andleeb S"
+          ],
+          "firstName": [
+            "Saadia"
+          ],
+          "lastName": [
+            "Andleeb"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Atta ur Rahman School of Applied Biosciences, National University of Sciences and Technology, Islamabad, Pakistan."
+          ]
+        },
+        {
+          "fullName": [
+            "Burnham CD"
+          ],
+          "firstName": [
+            "Carey-Ann D"
+          ],
+          "lastName": [
+            "Burnham"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Department of Pathology and Immunology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dantas G"
+          ],
+          "firstName": [
+            "Gautam"
+          ],
+          "lastName": [
+            "Dantas"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8744-8136",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "74"
+      ],
+      "journalIssueId": [
+        "2882437"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of antimicrobial chemotherapy"
+          ],
+          "ISOAbbreviation": [
+            "J. Antimicrob. Chemother."
+          ],
+          "medlineAbbreviation": [
+            "J Antimicrob Chemother"
+          ],
+          "NLMid": [
+            "7513617"
+          ],
+          "ISSN": [
+            "0305-7453"
+          ],
+          "ESSN": [
+            "1460-2091"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3445-3452"
+  ],
+  "abstractText": [
+    "OBJECTIVES:Linezolid is an important therapeutic option for the treatment of infections caused by VRE. Linezolid is a synthetic antimicrobial and resistance to this antimicrobial agent remains relatively rare. As a result, data on the comparative genomics of linezolid resistance determinants in Enterococcus faecium are relatively sparse. METHODS:To address this knowledge gap in E. faecium, we deployed phenotypic antibiotic susceptibility testing and Illumina WGS on hospital surface (environmental) and clinical isolates from the USA and Pakistan. RESULTS:We found complete concordance between isolate source country and mechanism of linezolid resistance, with all the US isolates possessing a 23S rRNA gene mutation and the Pakistan isolates harbouring two to three acquired antibiotic resistance genes. These resistance genes include the recently elucidated efflux-pump genes optrA and poxtA and a novel cfr-like variant. Although there was no difference in the linezolid MIC between the US and Pakistan isolates, there was a significant difference in the geometric mean of the MIC between the Pakistan isolates that had two versus three of the acquired antibiotic resistance genes. In five of the Pakistan E. faecium that possessed all three of the resistance genes, we found no difference in the local genetic context of poxtA and the cfr-like gene, but we identified different genetic contexts surrounding optrA. CONCLUSIONS:These results demonstrate that E. faecium from different geographical regions employ alternative strategies to counter selective pressure of increasing clinical linezolid use."
+  ],
+  "affiliation": [
+    "The Edison Family Center for Genome Sciences & Systems Biology, Washington University in St Louis School of Medicine, St Louis, MO, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HD092414"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AI123394"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/jac/dkz367"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857194"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857194?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-11"
+  ],
+  "firstIndexDate": [
+    "2019-09-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-22"
+  ],
+  "firstPublicationDate": [
+    "2019-12-01"
+  ]
+}

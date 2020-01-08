@@ -1,0 +1,470 @@
+{
+  "id": [
+    "31720214"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31720214"
+  ],
+  "pmcid": [
+    "PMC6838509"
+  ],
+  "doi": [
+    "10.1016/j.mec.2019.e00098"
+  ],
+  "title": [
+    "Omics-driven identification and elimination of valerolactam catabolism in Pseudomonas putida KT2440 for increased product titer."
+  ],
+  "authorString": [
+    "Thompson MG, Valencia LE, Blake-Hedges JM, Cruz-Morales P, Velasquez AE, Pearson AN, Sermeno LN, Sharpless WA, Benites VT, Chen Y, Baidoo EEK, Petzold CJ, Deutschbauer AM, Keasling JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thompson MG"
+          ],
+          "firstName": [
+            "Mitchell G"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Valencia LE"
+          ],
+          "firstName": [
+            "Luis E"
+          ],
+          "lastName": [
+            "Valencia"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Blake-Hedges JM"
+          ],
+          "firstName": [
+            "Jacquelyn M"
+          ],
+          "lastName": [
+            "Blake-Hedges"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cruz-Morales P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Cruz-Morales"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Velasquez AE"
+          ],
+          "firstName": [
+            "Alexandria E"
+          ],
+          "lastName": [
+            "Velasquez"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pearson AN"
+          ],
+          "firstName": [
+            "Allison N"
+          ],
+          "lastName": [
+            "Pearson"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sermeno LN"
+          ],
+          "firstName": [
+            "Lauren N"
+          ],
+          "lastName": [
+            "Sermeno"
+          ],
+          "initials": [
+            "LN"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharpless WA"
+          ],
+          "firstName": [
+            "William A"
+          ],
+          "lastName": [
+            "Sharpless"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Benites VT"
+          ],
+          "firstName": [
+            "Veronica T"
+          ],
+          "lastName": [
+            "Benites"
+          ],
+          "initials": [
+            "VT"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Baidoo EEK"
+          ],
+          "firstName": [
+            "Edward E K"
+          ],
+          "lastName": [
+            "Baidoo"
+          ],
+          "initials": [
+            "EEK"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Petzold CJ"
+          ],
+          "firstName": [
+            "Christopher J"
+          ],
+          "lastName": [
+            "Petzold"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Deutschbauer AM"
+          ],
+          "firstName": [
+            "Adam M"
+          ],
+          "lastName": [
+            "Deutschbauer"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Keasling JD"
+          ],
+          "firstName": [
+            "Jay D"
+          ],
+          "lastName": [
+            "Keasling"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2807917"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Metabolic engineering communications"
+          ],
+          "ISOAbbreviation": [
+            "Metab Eng Commun"
+          ],
+          "medlineAbbreviation": [
+            "Metab Eng Commun"
+          ],
+          "NLMid": [
+            "101642117"
+          ],
+          "ISSN": [
+            "2214-0301"
+          ],
+          "ESSN": [
+            "2214-0301"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e00098"
+  ],
+  "abstractText": [
+    "Pseudomonas putida is a promising bacterial chassis for metabolic engineering given its ability to metabolize a wide array of carbon sources, especially aromatic compounds derived from lignin. However, this omnivorous metabolism can also be a hindrance when it can naturally metabolize products produced from engineered pathways. Herein we show that P. putida is able to use valerolactam as a sole carbon source, as well as degrade caprolactam. Lactams represent important nylon precursors, and are produced in quantities exceeding one million tons per year (Zhang et al., 2017). To better understand this metabolism we use a combination of Random Barcode Transposon Sequencing (RB-TnSeq) and shotgun proteomics to identify the oplBA locus as the likely responsible amide hydrolase that initiates valerolactam catabolism. Deletion of the oplBA genes prevented P. putida from growing on valerolactam, prevented the degradation of valerolactam in rich media, and dramatically reduced caprolactam degradation under the same conditions. Deletion of oplBA, as well as pathways that compete for precursors L-lysine or 5-aminovalerate, increased the titer of valerolactam from undetectable after 48 h of production to ~90 mg/L. This work may serve as a template to rapidly eliminate undesirable metabolism in non-model hosts in future metabolic engineering efforts."
+  ],
+  "affiliation": [
+    "Joint BioEnergy Institute, 5885 Hollis Street, Emeryville, CA, 94608, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.mec.2019.e00098"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838509"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838509?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-10"
+  ],
+  "firstPublicationDate": [
+    "2019-08-10"
+  ]
+}

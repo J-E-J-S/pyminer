@@ -1,0 +1,628 @@
+{
+  "id": [
+    "30979905"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30979905"
+  ],
+  "pmcid": [
+    "PMC6461651"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09575-2"
+  ],
+  "title": [
+    "Platanus-allee is a de novo haplotype assembler enabling a comprehensive access to divergent heterozygous regions."
+  ],
+  "authorString": [
+    "Kajitani R, Yoshimura D, Okuno M, Minakuchi Y, Kagoshima H, Fujiyama A, Kubokawa K, Kohara Y, Toyoda A, Itoh T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kajitani R"
+          ],
+          "firstName": [
+            "Rei"
+          ],
+          "lastName": [
+            "Kajitani"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5013-0052",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Tokyo Institute of Technology, Meguro-ku, Tokyo, 152-8550, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshimura D"
+          ],
+          "firstName": [
+            "Dai"
+          ],
+          "lastName": [
+            "Yoshimura"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Tokyo Institute of Technology, Meguro-ku, Tokyo, 152-8550, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okuno M"
+          ],
+          "firstName": [
+            "Miki"
+          ],
+          "lastName": [
+            "Okuno"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Tokyo Institute of Technology, Meguro-ku, Tokyo, 152-8550, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Minakuchi Y"
+          ],
+          "firstName": [
+            "Yohei"
+          ],
+          "lastName": [
+            "Minakuchi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Comparative Genomics Laboratory, National Institute of Genetics, Mishima, Shizuoka, 411-8540, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kagoshima H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Kagoshima"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0653-2393",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka, 411-8540, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujiyama A"
+          ],
+          "firstName": [
+            "Asao"
+          ],
+          "lastName": [
+            "Fujiyama"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka, 411-8540, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kubokawa K"
+          ],
+          "firstName": [
+            "Kaoru"
+          ],
+          "lastName": [
+            "Kubokawa"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Ocean Alliance, The University of Tokyo, Bunkyo-ku, Tokyo, 113-0033, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kohara Y"
+          ],
+          "firstName": [
+            "Yuji"
+          ],
+          "lastName": [
+            "Kohara"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Advanced Genomics Center, National Institute of Genetics, Mishima, Shizuoka, 411-8540, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Toyoda A"
+          ],
+          "firstName": [
+            "Atsushi"
+          ],
+          "lastName": [
+            "Toyoda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0728-7548",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Comparative Genomics Laboratory, National Institute of Genetics, Mishima, Shizuoka, 411-8540, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Itoh T"
+          ],
+          "firstName": [
+            "Takehiko"
+          ],
+          "lastName": [
+            "Itoh"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6113-557X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Tokyo Institute of Technology, Meguro-ku, Tokyo, 152-8550, Japan. takehiko@bio.titech.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6113-557X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5013-0052",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0653-2393",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0728-7548",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2799472"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1702"
+  ],
+  "abstractText": [
+    "The ultimate goal for diploid genome determination is to completely decode homologous chromosomes independently, and several phasing programs from consensus sequences have been developed. These methods work well for lowly heterozygous genomes, but the manifold species have high heterozygosity. Additionally, there are highly divergent regions (HDRs), where the haplotype sequences differ considerably. Because HDRs are likely to direct various interesting biological phenomena, many genomic analysis targets fall within these regions. However, they cannot be accessed by existing phasing methods, and we have to adopt costly traditional methods. Here, we develop a de novo haplotype assembler, Platanus-allee ( http://platanus.bio.titech.ac.jp/platanus2 ), which initially constructs each haplotype sequence and then untangles the assembly graphs utilizing sequence links and synteny information. A comprehensive benchmark analysis reveals that Platanus-allee exhibits high recall and precision, particularly for HDRs. Using this approach, previously unknown HDRs are detected in the human genome, which may uncover novel aspects of genome variability."
+  ],
+  "affiliation": [
+    "School of Life Science and Technology, Tokyo Institute of Technology, Meguro-ku, Tokyo, 152-8550, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Butterflies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caenorhabditis elegans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schistosoma japonicum"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poisson Distribution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Contig Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Heterozygote"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Alleles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benchmarking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6461651?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6461651"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09575-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-09"
+  ],
+  "dateOfCreation": [
+    "2019-04-14"
+  ],
+  "firstIndexDate": [
+    "2019-04-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-17"
+  ],
+  "dateOfRevision": [
+    "2019-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-12"
+  ],
+  "firstPublicationDate": [
+    "2019-04-12"
+  ]
+}

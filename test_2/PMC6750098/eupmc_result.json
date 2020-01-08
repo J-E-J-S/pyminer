@@ -1,0 +1,300 @@
+{
+  "id": [
+    "31549070"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31549070"
+  ],
+  "pmcid": [
+    "PMC6750098"
+  ],
+  "doi": [
+    "10.34133/2019/5641746"
+  ],
+  "title": [
+    "Mechanism of DNA Lesion Homing and Recognition by the Uvr Nucleotide Excision Repair System."
+  ],
+  "authorString": [
+    "Lee SJ, Sung RJ, Verdine GL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee SJ"
+          ],
+          "firstName": [
+            "Seung-Joo"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5916-9888",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sung RJ"
+          ],
+          "firstName": [
+            "Rou-Jia"
+          ],
+          "lastName": [
+            "Sung"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Verdine GL"
+          ],
+          "firstName": [
+            "Gregory L"
+          ],
+          "lastName": [
+            "Verdine"
+          ],
+          "initials": [
+            "GL"
+          ],
+          "affiliation": [
+            "Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5916-9888",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2861650"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Research (Washington, D.C.)"
+          ],
+          "ISOAbbreviation": [
+            "Research (Wash D C)"
+          ],
+          "medlineAbbreviation": [
+            "Research (Wash D C)"
+          ],
+          "NLMid": [
+            "101747148"
+          ],
+          "ESSN": [
+            "2639-5274"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5641746"
+  ],
+  "abstractText": [
+    "Nucleotide excision repair (NER) is an essential DNA repair system distinguished from other such systems by its extraordinary versatility. NER removes a wide variety of structurally dissimilar lesions having only their bulkiness in common. NER can also repair several less bulky nucleobase lesions, such as 8-oxoguanine. Thus, how a single DNA repair system distinguishes such a diverse array of structurally divergent lesions from undamaged DNA has been one of the great unsolved mysteries in the field of genome maintenance. Here we employ a synthetic crystallography approach to obtain crystal structures of the pivotal NER enzyme UvrB in complex with duplex DNA, trapped at the stage of lesion-recognition. These structures coupled with biochemical studies suggest that UvrB integrates the ATPase-dependent helicase/translocase and lesion-recognition activities. Our work also conclusively establishes the identity of the lesion-containing strand and provides a compelling insight to how UvrB recognizes a diverse array of DNA lesions."
+  ],
+  "affiliation": [
+    "Department of Stem Cell and Regenerative Biology, Harvard University, Cambridge, MA 02138, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6750098?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6750098"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.34133/2019/5641746"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-28"
+  ],
+  "firstPublicationDate": [
+    "2019-08-28"
+  ]
+}

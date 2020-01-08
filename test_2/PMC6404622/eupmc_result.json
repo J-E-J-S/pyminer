@@ -1,0 +1,239 @@
+{
+  "id": [
+    "PMC6404622"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6404622"
+  ],
+  "doi": [
+    "10.1534/g3.118.201003"
+  ],
+  "title": [
+    "Meeting Report: Experimental and Evolutionary Approaches to Yeast and Other Organisms 2018."
+  ],
+  "authorString": [
+    "Gresham D, Rancati G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gresham D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Gresham"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Center for Genomics and Systems Biology, Department of Biology, New York University, 10012 and"
+          ]
+        },
+        {
+          "fullName": [
+            "Rancati G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Rancati"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2791540"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "635-638"
+  ],
+  "abstractText": [
+    "The 2018 European Molecular Biology Laboratory (EMBL) Experimental and Evolutionary Approaches to Yeast and Other Organisms conference brought together researchers addressing fundamental questions in microbial evolutionary systems biology. Topics spanning evolution in the wild and the lab to molecular mechanisms of adaptation and ecological interactions between species were covered."
+  ],
+  "affiliation": [
+    "Center for Genomics and Systems Biology, Department of Biology, New York University, 10012 and"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "meeting-report",
+        "Meeting Report"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6404622/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6404622"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-13"
+  ],
+  "firstIndexDate": [
+    "2019-03-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-09-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-12"
+  ],
+  "firstPublicationDate": [
+    "2019-02-12"
+  ]
+}

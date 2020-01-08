@@ -1,0 +1,412 @@
+{
+  "id": [
+    "30936940"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30936940"
+  ],
+  "pmcid": [
+    "PMC6427891"
+  ],
+  "doi": [
+    "10.1186/s13029-019-0072-6"
+  ],
+  "title": [
+    "IPCAPS: an R package for iterative pruning to capture population structure."
+  ],
+  "authorString": [
+    "Chaichoompu K, Abegaz F, Tongsima S, Shaw PJ, Sakuntabhai A, Pereira L, Van Steen K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chaichoompu K"
+          ],
+          "firstName": [
+            "Kridsadakorn"
+          ],
+          "lastName": [
+            "Chaichoompu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8123-3409",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1GIGA-R Medical Genomics - BIO3, University of Liege, Avenue de l'Hôpital 11, 4000 Liege, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Abegaz F"
+          ],
+          "firstName": [
+            "Fentaw"
+          ],
+          "lastName": [
+            "Abegaz"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "1GIGA-R Medical Genomics - BIO3, University of Liege, Avenue de l'Hôpital 11, 4000 Liege, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Tongsima S"
+          ],
+          "firstName": [
+            "Sissades"
+          ],
+          "lastName": [
+            "Tongsima"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "2Genome Technology Research Unit, National Center for Genetic Engineering and Biotechnology, 113 Thailand Science Park, Phahonyothin Road, Khlong Neung, Khlong Luang, Pathum Thani 12120 Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Shaw PJ"
+          ],
+          "firstName": [
+            "Philip James"
+          ],
+          "lastName": [
+            "Shaw"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "3Medical Molecular Biology Research Unit, National Center for Genetic Engineering and Biotechnology, 113 Thailand Science Park, Phahonyothin Road, Khlong Neung, Khlong Luang, Pathum Thani 12120 Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakuntabhai A"
+          ],
+          "firstName": [
+            "Anavaj"
+          ],
+          "lastName": [
+            "Sakuntabhai"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "4Functional Genetics of Infectious Diseases Unit, Institut Pasteur, 25-28, rue du Docteur Roux, 75015 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pereira L"
+          ],
+          "firstName": [
+            "Luísa"
+          ],
+          "lastName": [
+            "Pereira"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4271-1527",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "6Instituto de Investigação e Inovação em Saúde, Universidade do Porto, Rua Alfredo Allen, 208, 4200-135 Porto, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Steen K"
+          ],
+          "firstName": [
+            "Kristel"
+          ],
+          "lastName": [
+            "Van Steen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "1GIGA-R Medical Genomics - BIO3, University of Liege, Avenue de l'Hôpital 11, 4000 Liege, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4271-1527",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8123-3409",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2779773"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Source code for biology and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Source Code Biol Med"
+          ],
+          "medlineAbbreviation": [
+            "Source Code Biol Med"
+          ],
+          "NLMid": [
+            "101276533"
+          ],
+          "ISSN": [
+            "1751-0473"
+          ],
+          "ESSN": [
+            "1751-0473"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2"
+  ],
+  "abstractText": [
+    "Background:Resolving population genetic structure is challenging, especially when dealing with closely related or geographically confined populations. Although Principal Component Analysis (PCA)-based methods and genomic variation with single nucleotide polymorphisms (SNPs) are widely used to describe shared genetic ancestry, improvements can be made especially when fine-scale population structure is the target. Results:This work presents an R package called IPCAPS, which uses SNP information for resolving possibly fine-scale population structure. The IPCAPS routines are built on the iterative pruning Principal Component Analysis (ipPCA) framework that systematically assigns individuals to genetically similar subgroups. In each iteration, our tool is able to detect and eliminate outliers, hereby avoiding severe misclassification errors. Conclusions:IPCAPS supports different measurement scales for variables used to identify substructure. Hence, panels of gene expression and methylation data can be accommodated as well. The tool can also be applied in patient sub-phenotyping contexts. IPCAPS is developed in R and is freely available from http://bio3.giga.ulg.ac.be/ipcaps."
+  ],
+  "affiliation": [
+    "1GIGA-R Medical Genomics - BIO3, University of Liege, Avenue de l'Hôpital 11, 4000 Liege, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Population genetics",
+        "Outlier Detection",
+        "Population Clustering",
+        "Fine-scale Structure",
+        "Iterative Pruning"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13029-019-0072-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6427891"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6427891?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR25273"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-03"
+  ],
+  "firstIndexDate": [
+    "2019-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

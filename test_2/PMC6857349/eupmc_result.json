@@ -1,0 +1,497 @@
+{
+  "id": [
+    "31727120"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31727120"
+  ],
+  "pmcid": [
+    "PMC6857349"
+  ],
+  "doi": [
+    "10.1186/s13024-019-0343-3"
+  ],
+  "title": [
+    "Application of CRISPR genetic screens to investigate neurological diseases."
+  ],
+  "authorString": [
+    "So RWL, Chung SW, Lau HHC, Watts JJ, Gaudette E, Al-Azzawi ZAM, Bishay J, Lin LT, Joung J, Wang X, Schmitt-Ulms G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "So RWL"
+          ],
+          "firstName": [
+            "Raphaella W L"
+          ],
+          "lastName": [
+            "So"
+          ],
+          "initials": [
+            "RWL"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung SW"
+          ],
+          "firstName": [
+            "Sai Wai"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lau HHC"
+          ],
+          "firstName": [
+            "Heather H C"
+          ],
+          "lastName": [
+            "Lau"
+          ],
+          "initials": [
+            "HHC"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Watts JJ"
+          ],
+          "firstName": [
+            "Jeremy J"
+          ],
+          "lastName": [
+            "Watts"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1751-5409",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacology & Toxicology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaudette E"
+          ],
+          "firstName": [
+            "Erin"
+          ],
+          "lastName": [
+            "Gaudette"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Azzawi ZAM"
+          ],
+          "firstName": [
+            "Zaid A M"
+          ],
+          "lastName": [
+            "Al-Azzawi"
+          ],
+          "initials": [
+            "ZAM"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bishay J"
+          ],
+          "firstName": [
+            "Jossana"
+          ],
+          "lastName": [
+            "Bishay"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin LT"
+          ],
+          "firstName": [
+            "Lilian Tsai-Wei"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "LT"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Joung J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Joung"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Departments of Biological Engineering and Brain and Cognitive Science, and McGovern Institute for Brain Research at MIT, Cambridge, MA, 02139, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xinzhu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmitt-Ulms G"
+          ],
+          "firstName": [
+            "Gerold"
+          ],
+          "lastName": [
+            "Schmitt-Ulms"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6962-0919",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada. g.schmittulms@utoronto.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1751-5409",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6962-0919",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2877909"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular neurodegeneration"
+          ],
+          "ISOAbbreviation": [
+            "Mol Neurodegener"
+          ],
+          "medlineAbbreviation": [
+            "Mol Neurodegener"
+          ],
+          "NLMid": [
+            "101266600"
+          ],
+          "ISSN": [
+            "1750-1326"
+          ],
+          "ESSN": [
+            "1750-1326"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "41"
+  ],
+  "abstractText": [
+    "The adoption of CRISPR-Cas9 technology for functional genetic screens has been a transformative advance. Due to its modular nature, this technology can be customized to address a myriad of questions. To date, pooled, genome-scale studies have uncovered genes responsible for survival, proliferation, drug resistance, viral susceptibility, and many other functions. The technology has even been applied to the functional interrogation of the non-coding genome. However, applications of this technology to neurological diseases remain scarce. This shortfall motivated the assembly of a review that will hopefully help researchers moving in this direction find their footing. The emphasis here will be on design considerations and concepts underlying this methodology. We will highlight groundbreaking studies in the CRISPR-Cas9 functional genetics field and discuss strengths and limitations of this technology for neurological disease applications. Finally, we will provide practical guidance on navigating the many choices that need to be made when implementing a CRISPR-Cas9 functional genetic screen for the study of neurological diseases."
+  ],
+  "affiliation": [
+    "Department of Laboratory Medicine & Pathobiology, University of Toronto, Medical Sciences Building, 6th Floor, 1 King's College Circle, Toronto, Ontario, M5S 1A8, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "N/A"
+          ],
+          "agency": [
+            "Krembil Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neurodegenerative diseases",
+        "Neurological Diseases",
+        "Functional Genetics",
+        "Crispr-cas9",
+        "Sgrna",
+        "Crispri",
+        "Crispra",
+        "Survival Screens",
+        "Crisipr Ko",
+        "Marker Selection Screens"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13024-019-0343-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857349"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857349?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-16"
+  ],
+  "firstIndexDate": [
+    "2019-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-14"
+  ],
+  "firstPublicationDate": [
+    "2019-11-14"
+  ]
+}

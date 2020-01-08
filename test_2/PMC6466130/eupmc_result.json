@@ -1,0 +1,360 @@
+{
+  "id": [
+    "30889807"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30889807"
+  ],
+  "pmcid": [
+    "PMC6466130"
+  ],
+  "doi": [
+    "10.3390/v11030268"
+  ],
+  "title": [
+    "Phage-Derived Antibacterials: Harnessing the Simplicity, Plasticity, and Diversity of Phages."
+  ],
+  "authorString": [
+    "Kim BO, Kim ES, Yoo YJ, Bae HW, Chung IY, Cho YH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim BO"
+          ],
+          "firstName": [
+            "Bi-O"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "BO"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. ayumm82@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim ES"
+          ],
+          "firstName": [
+            "Eun Sook"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "ES"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. eskim@cha.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo YJ"
+          ],
+          "firstName": [
+            "Yeon-Ji"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. roouge@naver.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Bae HW"
+          ],
+          "firstName": [
+            "Hee-Won"
+          ],
+          "lastName": [
+            "Bae"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. whitebb0412@cha.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung IY"
+          ],
+          "firstName": [
+            "In-Young"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "IY"
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. iychung@cha.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho YH"
+          ],
+          "firstName": [
+            "You-Hee"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7942-5893",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. youhee@cha.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7942-5893",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2787693"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Viruses"
+          ],
+          "ISOAbbreviation": [
+            "Viruses"
+          ],
+          "medlineAbbreviation": [
+            "Viruses"
+          ],
+          "NLMid": [
+            "101509722"
+          ],
+          "ISSN": [
+            "1999-4915"
+          ],
+          "ESSN": [
+            "1999-4915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Despite the successful use of antibacterials, the emergence of multidrug-resistant bacteria has become a serious threat to global healthcare. In this era of antibacterial crisis, bacteriophages (phages) are being explored as an antibacterial treatment option since they possess a number of advantages over conventional antibacterials, especially in terms of specificity and biosafety; phages specifically lyse target bacteria while not affecting normal and/or beneficial bacteria and display little or no toxicity in that they are mainly composed of proteins and nucleic acids, which consequently significantly reduces the time and cost involved in antibacterial development. However, these benefits also create potential issues regarding antibacterial spectra and host immunity; the antibacterial spectra being very narrow when compared to those of chemicals, with the phage materials making it possible to trigger host immune responses, which ultimately disarm antibacterial efficacy upon successive treatments. In addition, phages play a major role in horizontal gene transfer between bacterial populations, which poses serious concerns for the potential of disastrous consequences regarding antibiotic resistance. Fortunately, however, recent advancements in synthetic biology tools and the speedy development of phage genome resources have allowed for research on methods to circumvent the potentially disadvantageous aspects of phages. These novel developments empower research which goes far beyond traditional phage therapy approaches, opening up a new chapter for phage applications with new antibacterial platforms. Herein, we not only highlight the most recent synthetic phage engineering and phage product engineering studies, but also discuss a new proof-of-concept for phage-inspired antibacterial design based on the studies undertaken by our group."
+  ],
+  "affiliation": [
+    "Department of Pharmacy, College of Pharmacy and Institute of Pharmaceutical Sciences, CHA University, Gyeonggi-do 13488, Korea. ayumm82@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Life cycle",
+        "Phage",
+        "Engineering",
+        "Lysin",
+        "Pyocin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6466130?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6466130"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/v11030268"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "firstIndexDate": [
+    "2019-03-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-20"
+  ],
+  "dateOfRevision": [
+    "2019-08-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-18"
+  ],
+  "firstPublicationDate": [
+    "2019-03-18"
+  ]
+}

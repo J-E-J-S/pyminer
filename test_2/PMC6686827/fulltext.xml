@@ -1,0 +1,375 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="letter"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Syst Biol</journal-id><journal-id journal-id-type="iso-abbrev">Mol. Syst. Biol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1744-4292</journal-id><journal-id journal-id-type="publisher-id">MSB</journal-id><journal-id journal-id-type="hwp">msb</journal-id><journal-title-group><journal-title>Molecular Systems Biology</journal-title></journal-title-group><issn pub-type="epub">1744-4292</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6686827</article-id><article-id pub-id-type="doi">10.15252/msb.20199059</article-id><article-id pub-id-type="publisher-id">MSB199059</article-id><article-categories><subj-group subj-group-type="overline"><subject>Correspondence</subject></subj-group><subj-group subj-group-type="heading"><subject>Correspondence</subject></subj-group></article-categories><title-group><article-title>Reply to &#x0201c;CRISPR screens are feasible in <italic>TP53</italic> wild&#x02010;type cells&#x0201d;</article-title><alt-title alt-title-type="left-running-head">Emma Haapaniemi <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="msb199059-cr-0001" contrib-type="author"><name><surname>Haapaniemi</surname><given-names>Emma</given-names></name><xref ref-type="aff" rid="msb199059-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="msb199059-cr-0002" contrib-type="author"><name><surname>Botla</surname><given-names>Sandeep</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9937-0455</contrib-id><xref ref-type="aff" rid="msb199059-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="msb199059-cr-0005" contrib-type="author"><name><surname>Persson</surname><given-names>Jenna</given-names></name><xref ref-type="aff" rid="msb199059-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="msb199059-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="msb199059-cr-0003" contrib-type="author"><name><surname>Schmierer</surname><given-names>Bernhard</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9082-7022</contrib-id><xref ref-type="aff" rid="msb199059-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="msb199059-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="msb199059-cr-0004" contrib-type="author" corresp="yes"><name><surname>Taipale</surname><given-names>Jussi</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4204-0951</contrib-id><address><email>ajt208@cam.ac.uk</email></address><xref ref-type="aff" rid="msb199059-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="msb199059-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="msb199059-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="msb199059-aff-0001">
+<label><sup>1</sup></label>
+<institution>Karolinska Institutet</institution>
+<named-content content-type="city">Stockholm</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="msb199059-aff-0002">
+<label><sup>2</sup></label>
+<institution>Science for Life Laboratory</institution>
+<named-content content-type="city">Stockholm</named-content>
+<country country="SE">Sweden</country>
+</aff><aff id="msb199059-aff-0003">
+<label><sup>3</sup></label>
+<institution>University of Helsinki</institution>
+<named-content content-type="city">Helsinki</named-content>
+<country country="FI">Finland</country>
+</aff><aff id="msb199059-aff-0004">
+<label><sup>4</sup></label>
+<institution>University of Cambridge</institution>
+<named-content content-type="city">Cambridge</named-content>
+<country country="GB">UK</country>
+</aff><pub-date pub-type="epub"><day>08</day><month>8</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2019</year></pub-date><volume>15</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/msb.v15.8</issue-id><elocation-id>e9059</elocation-id><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 EMBO <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Published under the terms of the CC BY 4.0 license</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MSB-15-e9059.pdf"/><abstract abstract-type="toc" id="msb199059-abs-0001"><p>Haapaniemi <italic>et&#x000a0;al</italic> address the issues raised by Brown <italic>et&#x000a0;al</italic> and discuss several differences between the analyses performed by the two groups.
+<boxed-text position="anchor" content-type="graphic" id="msb199059-blkfxd-0001" orientation="portrait"><graphic xlink:href="MSB-15-e9059-g001.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Chromatin, Epigenetics, Genomics &#x00026; Functional Genomics</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="3"/><word-count count="2775"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>msb199059</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.7 mode:remove_FC converted:08.08.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="msb199059-cit-1001">
+<source xml:lang="en">Mol Syst Biol</source>. (<year>2019</year>) <volume>15</volume>: <elocation-id>e9059</elocation-id>
+</mixed-citation>
+</p><fn-group id="msb198864-ntgp-0001"><fn id="msb199059-note-1001"><p>Reply to: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15252/msb.20188679">KR Brown <italic>et al</italic></ext-link> (August 2019)</p></fn></fn-group></notes></front><body><p>Our paper &#x0201c;CRISPR/Cas9 genome editing induces a p53&#x02010;mediated DNA damage response&#x0201d; (Haapaniemi <italic>et al</italic>, <xref rid="msb199059-bib-0101" ref-type="ref">2018</xref>) in <italic>Nature Medicine</italic> demonstrated that the efficiency of precision gene editing by homologous recombination is impaired in the presence of functional p53. We provided evidence that Cas9 nuclease activity causes a p53&#x02010;dependent, transient G1&#x02010;phase arrest, which we hypothesized to cause the observed p53&#x02010;dependent decrease in precise, template&#x02010;mediated gene editing. Based on these results, we advised caution in therapeutic gene editing, where selecting cells that edit well could lead to inadvertent co&#x02010;selection of cells with a suboptimal DNA damage checkpoint. Selection (or use) of such cells should be avoided in a clinical setting, as they may be at an increased risk for malignant transformation. In a co&#x02010;submitted manuscript, Ihry <italic>et&#x000a0;al</italic> (<xref rid="msb199059-bib-0003" ref-type="ref">2018</xref>) reported similar findings in another cell line. These results have since been independently reproduced by several groups using RPE&#x02010;1 cells and other normal human cell types (Li <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0006" ref-type="ref">2018</xref>; Cullot <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0001" ref-type="ref">2019</xref>; preprint: Geisinger &#x00026; Stearns, <xref rid="msb199059-bib-0002" ref-type="ref">2019</xref>; Schiroli <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0008" ref-type="ref">2019</xref>; preprint: van den Berg <italic>et al</italic>, <xref rid="msb199059-bib-0102" ref-type="ref">2019</xref>). The significant attention that our work received was due to the relevance of our conclusions for genome editing in normal human cells and for the development of cell&#x02010;based therapies. Many investigators have since taken a constructive approach to the challenge posed by p53 activation in their respective systems and have taken major steps in designing reagents and protocols that decrease the p53 response in clinically relevant cells (Schiroli <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0008" ref-type="ref">2019</xref>).</p><p>The correspondence by Brown <italic>et&#x000a0;al</italic> creates the impression that the main topic of our paper was CRISPR loss&#x02010;of&#x02010;function screening and that we had argued that such screening is not feasible in p53 wild&#x02010;type cells. This is incorrect. We had originally discovered the p53 effect when comparing the CRISPR knock&#x02010;out screening performance of several Cas9 expressing tumor cell lines and the normal, hTERT immortalized human cell line RPE&#x02010;1. To demonstrate the motivation for our study, we included our initial genetic screening experiment in RPE&#x02010;1 cells. This screen identified the p53/p21/pRB pathway, but did not show the clear &#x0201c;drop&#x02010;out&#x0201d; of guides against essential genes that we had observed in a set of tumor cell lines. Follow&#x02010;up experiments indicated that the drop&#x02010;out performance of a p53 null RPE&#x02010;1 line was superior to that of the wild&#x02010;type, which provided a first clue that Cas9 might induce a p53&#x02010;mediated DNA damage response. We then continued to analyze the effect of p53 down&#x02010;regulation on precision genome editing, which was the actual topic of our paper.</p><p>Due to our main focus, the medium of publication, and the very brief format, we did not extensively discuss the implications of our work on applications of Cas9 in basic research in general and in CRISPR &#x0201c;drop&#x02010;out&#x0201d; screening in particular, only adding two short sentences within the main text: &#x0201c;<italic>DSBs introduced by CRISPR&#x02013;Cas9 trigger a <underline underline-style="single">transient</underline>, p53&#x02010;dependent cell cycle arrest mediated through p21 and pRB, irrespective of the locus targeted. This generic penalty of DNA cutting masks guide&#x02010;specific effects, <underline underline-style="single">hampering</underline> guide dropout screens that are aimed at identifying genes whose loss leads to cell death or decreased cell proliferation</italic>.&#x0201d;</p><p>In their correspondence, Brown <italic>et&#x000a0;al</italic> first misinterpret and then object to this statement, and put forward two main lines of argument: (i) CRISPR drop&#x02010;out screens are feasible in p53WT cells and the induction of a p53 response is &#x0201c;not a major concern&#x0201d;, and (ii) screening should always be performed in a specific way that includes pre&#x02010;selection of cell lines or clones that perform exceptionally well in screening.</p><p>Our statement about drop&#x02010;out screening being &#x0201c;hampered&#x0201d;, i.e., being made more difficult, referred to p53WT RPE&#x02010;1 hTERT cells only, and not to tumor cells, many of which display no p53&#x02010;mediated DNA damage response, or a weaker response than that observed in RPE1 cells (preprint: Geisinger &#x00026; Stearns, <xref rid="msb199059-bib-0002" ref-type="ref">2019</xref>). We agree with Brown <italic>et&#x000a0;al</italic> that drop&#x02010;out screening using Cas9 nuclease can be feasible in p53WT cells under conditions that are different from those used in our work; this is in fact what our original transient arrest model (above in italic typeface) predicts, and we have never claimed otherwise.</p><p>What our data do show is increased noise caused by the DNA damage checkpoint in RPE&#x02010;1 p53WT cells. This result was obtained in a direct side&#x02010;by&#x02010;side comparison of screening performance of RPE&#x02010;1 WT and RPE&#x02010;1 p53<sup>&#x02212;/&#x02212;</sup> cells using the same virus library&#x02014;an experiment which Brown <italic>et&#x000a0;al</italic> notably have not performed. Although definite conclusions cannot be made based on the evidence they provide due to this lack of paired data with the same library, the performance of the Brown <italic>et&#x000a0;al</italic> p53 null and WT screens is in fact consistent with the p53 response also hampering their screens: In a MAGeCK analysis (Li <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0005" ref-type="ref">2014</xref>) of Brown <italic>et&#x000a0;al</italic>'s raw data, the p53 null screen recovers approx. three times as many hits as the p53 WT screen at an FDR&#x000a0;&#x0003c;&#x000a0;0.05 (533 vs. 170, average of two replicates), despite the fact that the p53 null screen was performed using inferior experimental design and a less advanced library (see below). We believe that the difference between our analysis with standard statistical tools and Brown <italic>et&#x000a0;al</italic>'s complex machine&#x02010;learning measure is due to an unfair comparison between RPE&#x02010;1 p53 null and wild type. In their analyses, one out of three WT experiments (&#x0201c;UBC&#x0201d;, using TKOv3) outperforms their single p53 null experiment (done with TKOv2), likely because (i) it uses more partial replicates, (ii) the experimental design is more advanced, using a bottleneck after transduction to decrease clonal variance (Michlits <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0007" ref-type="ref">2017</xref>; Schmierer <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0009" ref-type="ref">2017</xref>), (iii) it uses better guide&#x02010;RNA library, and (iv) the measure used selectively exaggerates its performance due to overfitting (the guides for TKOv3 but not TKOv2 were designed based on the essential gene set they use to test performance). In contrast, our simpler analysis using the same number of replicates for null and wild&#x02010;type and eliminating potential for overfitting leads to a result that is converse to that reported by Brown <italic>et&#x000a0;al</italic>, and consistent with the model presented in our original publication.</p><p>In addition to not having performed the same side&#x02010;by&#x02010;side experiment using a fair measure of performance, the design principles of Brown <italic>et&#x000a0;al</italic>'s screens are materially different from ours: Our screen was designed to be robust to clonal variation and thus allows more sensitive comparison of assay performance between cell types (Brown <italic>et&#x000a0;al</italic> panel E). The design by Brown <italic>et&#x000a0;al</italic> seeks to decrease variation between cells in order to optimize detection of drop&#x02010;outs in all cell types (panel B). Their process involves separate and careful optimization of screening performance for each cell line, making comparisons of screening performance between cell types very difficult, if not impossible. Both design principles are compromises, and as a consequence, the screens do not perform equally well in detecting the converse features. Brown <italic>et&#x000a0;al</italic> accept that p53 loss is selected for, but argue that p53 activation does not have major effects on the performance of CRISPR knock&#x02010;out screens in their analyses. We believe that their failure to detect the p53 effect is in large part because, to optimize screening performance, they selected clonal cell lines that edit efficiently or &#x0201c;screen well&#x0201d;, used excessive normalization procedures, and focused on thresholded calls and (overfit) measures that are too lenient to detect the underlying differences in performance. Under such synthetic tests, the true extent of the variance caused by p53 is normalized away.</p><p>Thus, consistent with a p53 response hampering screens in normal (untransformed) human cells, MAGeCK analysis of the raw data reveals that under both our and Brown <italic>et&#x000a0;al</italic>'s screen designs the performance of the p53 null RPE&#x02010;1 is higher than that of RPE&#x02010;1 p53 WT. If one makes the unsafe assumption that the clonal cell lines used in Brown <italic>et&#x000a0;al</italic> are fully representative of parental RPE&#x02010;1 cells, the observation that the overall drop&#x02010;out performance in their screens is higher is explained most parsimoniously by the model we proposed in Haapaniemi <italic>et&#x000a0;al</italic>. The key variable is the rate of Cas9&#x02010;induced mutagenesis relative to the cell cycle time. If the mutation rate is much faster than the cell cycle time, all cells will be edited within one cell cycle, and p53WT cells will arrest temporarily during the same cycle. In this case, the p53&#x02010;dependent increase in noise is expected to be at its minimum and can be missed by investigators if only highly processed data are analyzed, or if single cell clones of different cell lines are compared with each other. If cutting is slower than the cell cycle time, there is little difference for a p53 null cell. For a p53 wild&#x02010;type cell, however, division of cells that contain DSBs will be slowed by p53 (preprint: Geisinger &#x00026; Stearns, <xref rid="msb199059-bib-0002" ref-type="ref">2019</xref>), whereas cells that happen to edit poorly will divide. This will still allow efficient detection of enriched guides, but lead to a runaway loss of precision in the drop&#x02010;out part of the screen. The RPE1&#x02010;Cas9 cells Brown <italic>et&#x000a0;al</italic> use seem to heavily overexpress Cas9 (Zimmermann <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0010" ref-type="ref">2018</xref>). This is expected to lead to very fast kinetics of DNA cutting, and more persistent binding of Cas9 to its target site after the cut (preprint: Geisinger &#x00026; Stearns, <xref rid="msb199059-bib-0002" ref-type="ref">2019</xref>). Thus, the very high Cas9 expression in their cells (Zimmermann <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0010" ref-type="ref">2018</xref>) is a plausible explanation for why both screens detected the positive selection for loss of p53, but only our screens clearly distinguished between the drop&#x02010;out performance of p53 wild&#x02010;type and p53 null cells. We would like to note that it is our discovery of differences in the responses of normal and tumor cells to genome editing that attracted attention to our work, not the failure to find drop&#x02010;outs.</p><p>We wish to reiterate that selection of cells that perform well in CRISPR/Cas9 experiments is not without risk. Cas9 cutting introduces a low level of a very genotoxic form of DNA damage, induces a DNA damage response, and can lead to severe chromosomal aberrations or large deletions (Kosicki <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0004" ref-type="ref">2018</xref>; Cullot <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0001" ref-type="ref">2019</xref>); at least in primary human cells, the frequency of occurrence of the large deletions is p53 dependent (Cullot <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0001" ref-type="ref">2019</xref>). The DNA damage response varies as a function of experimental conditions and cell types and can induce cell cycle arrest or cell death. As p53 integrates many cellular stresses, the magnitude of the response will also depend on the targeted site (preprint: van den Berg <italic>et al,</italic>
+<xref rid="msb199059-bib-0102" ref-type="ref">2019</xref>), the delivery method and other experimental design parameters. The measured variables (e.g., fitness, cell cycle) will interact differentially with DNA damage and p53. Irrespective of the screen, all hit genes must thus be formally considered synthetic with the DNA damage response, which is a confounding variable in CRISPR nuclease&#x02010;based screens. The effect can be mitigated to some extent in screens targeting single coding regions as highly specific guides can be selected; much larger amount of DNA damage is expected to occur in screens where less optimal guides are needed (e.g., those targeting non&#x02010;coding regions), or where multiple genes are targeted simultaneously.</p><p>Selection of cells that perform well in CRISPR screens can help to identify clones with fast editing kinetics, partially mitigate the effect of p53, and increase technical precision. However, it can also easily lead to selection of cells that are unrepresentative of the whole population, or inadvertent selection of cells that have qualitative or quantitative defects in sensing or repairing DNA damage&#x02014;potential issues that Brown <italic>et&#x000a0;al</italic> have not addressed. Selection of clones is particularly problematic when analyzing genetic interactions or studying highly aneuploid or genetically unstable cancer cells. The biologically most relevant results are obtained by using populations of cells, optimally in combination with lineage tracing by UMIs to sample the range of cellular heterogeneity (Michlits <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0007" ref-type="ref">2017</xref>; Schmierer <italic>et&#x000a0;al</italic>, <xref rid="msb199059-bib-0009" ref-type="ref">2017</xref>). We realize that in some experimental settings, clones are still preferable; in such case, we would advocate careful genetic analysis of the clones (e.g., karyotyping), and systematic labeling of clonal lines in publications to avoid confusion.</p><p>Even though we agree with most of the advice given by Brown <italic>et&#x000a0;al</italic> on how to design CRISPR screens to optimize technical performance in a clone derived from a given cell line, we disagree with the broader implication that a particular type of experiment must always be performed in a particular way. Design of experiments must be based on the scientific question addressed and cannot blindly follow rules designed for other purposes. It is admittedly counterintuitive that even changes to experimental design that seem universally beneficial and completely harmless&#x02014;such as optimizing technical performance within a given framework&#x02014;can sometimes hamper scientific discovery. Imposing blanket &#x0201c;quality control standards&#x0201d; and dismissing experiments that apparently fall short of them can lead to failure to detect variables that affect &#x0201c;quality&#x0201d; (Brown <italic>et&#x000a0;al</italic> panels A&#x02013;D) and to failure to ask the question: Why does experiment A have lower &#x0201c;quality&#x0201d; than experiment B? Had we diligently followed Brown <italic>et&#x000a0;al</italic>'s advice to avoid &#x0201c;pitfalls&#x0201d;, made high&#x02010;performing cell lines, and emphasized their preferred variable (technical precision) over the variable that was of more concern to us (variation within and between cell lines), we would in all likelihood have failed to perform the very measurement that ultimately led us to the actual scientific findings of our original paper. Finally, although our original work was focused on the implications of Cas9&#x02010;induced p53 activation for precision editing and for cell&#x02010;based therapies, we would like to take this opportunity to also strongly advise against ignoring p53&#x02014;the guardian of the genome&#x02014;in any study that makes use of reagents that introduce double&#x02010;strand DNA breaks.</p><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Review Process File</p></caption><media xlink:href="MSB-15-e9059-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="msb199059-bibl-0001"><title>References</title><ref id="msb199059-bib-0001"><mixed-citation publication-type="journal" id="msb199059-cit-0001">
+<string-name>
+<surname>Cullot</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Boutin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Toutain</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Prat</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pennamen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rooryck</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Teichmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rousseau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lamrissi&#x02010;Garcia</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Guyonnet&#x02010;Duperat</surname>
+<given-names>V</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2019</year>) <article-title>CRISPR&#x02010;Cas9 genome editing induces megabase&#x02010;scale chromosomal truncations</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>10</volume>: <fpage>1136</fpage>
+<pub-id pub-id-type="pmid">30850590</pub-id></mixed-citation></ref><ref id="msb199059-bib-0002"><mixed-citation publication-type="miscellaneous" id="msb199059-cit-0002">
+<string-name>
+<surname>Geisinger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Stearns</surname>
+<given-names>T</given-names>
+</string-name> (<year>2019</year>) <article-title>CRISPR/Cas9 treatment causes Extended TP53&#x02010;dependent cell cycle arrest in human cells</article-title>. <italic>bioRxiv</italic>
+<pub-id pub-id-type="doi">10.1101/604538</pub-id> [PREPRINT]</mixed-citation></ref><ref id="msb199059-bib-0101"><mixed-citation publication-type="journal" id="msb199059-cit-0101">
+<string-name>
+<surname>Haapaniemi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Botla</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Persson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schmierer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Taipale</surname>
+<given-names>J</given-names>
+</string-name> (<year>2018</year>) <article-title>CRISPR&#x02013;Cas9 genome editing&#x000a0;induces a p53&#x02010;mediated DNA damage response</article-title>. <source xml:lang="en">Nat Med</source>
+<volume>24</volume>: <fpage>927</fpage>&#x02013;<lpage>930</lpage>
+<pub-id pub-id-type="pmid">29892067</pub-id></mixed-citation></ref><ref id="msb199059-bib-0003"><mixed-citation publication-type="journal" id="msb199059-cit-0003">
+<string-name>
+<surname>Ihry</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Worringer</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Salick</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Frias</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Theriault</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kommineni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sondey</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title> p53 inhibits CRISPR&#x02010;Cas9 engineering in human pluripotent stem cells</article-title>. <source xml:lang="en">Nat Med</source>
+<volume>24</volume>: <fpage>939</fpage>&#x02013;<lpage>946</lpage>
+<pub-id pub-id-type="pmid">29892062</pub-id></mixed-citation></ref><ref id="msb199059-bib-0004"><mixed-citation publication-type="journal" id="msb199059-cit-0004">
+<string-name>
+<surname>Kosicki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tomberg</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bradley</surname>
+<given-names>A</given-names>
+</string-name> (<year>2018</year>) <article-title>Repair of double&#x02010;strand breaks induced by CRISPR&#x02010;Cas9 leads to large deletions and complex rearrangements</article-title>. <source xml:lang="en">Nat Biotechnol</source>
+<volume>36</volume>: <fpage>765</fpage>&#x02013;<lpage>771</lpage>
+<pub-id pub-id-type="pmid">30010673</pub-id></mixed-citation></ref><ref id="msb199059-bib-0005"><mixed-citation publication-type="journal" id="msb199059-cit-0005">
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Cong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Love</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Irizarry</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>XS</given-names>
+</string-name> (<year>2014</year>) <article-title>MAGeCK enables robust identification of essential genes from genome&#x02010;scale CRISPR/Cas9 knockout screens</article-title>. <source xml:lang="en">Genome Biol</source>
+<volume>15</volume>:&#x000a0;<fpage>554</fpage>
+<pub-id pub-id-type="pmid">25476604</pub-id></mixed-citation></ref><ref id="msb199059-bib-0006"><mixed-citation publication-type="journal" id="msb199059-cit-0006">
+<string-name>
+<surname>Li</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Arakaki</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Highly efficient genome editing via CRISPR&#x02010;Cas9 in human pluripotent stem cells is achieved by transient BCL&#x02010;XL overexpression</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>46</volume>: <fpage>10195</fpage>&#x02013;<lpage>10215</lpage>
+<pub-id pub-id-type="pmid">30239926</pub-id></mixed-citation></ref><ref id="msb199059-bib-0007"><mixed-citation publication-type="journal" id="msb199059-cit-0007">
+<string-name>
+<surname>Michlits</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hubmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Vainorius</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Budusan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zhuk</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Burkard</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Novatchkova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aichinger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>CRISPR&#x02010;UMI:&#x000a0;single&#x02010;cell lineage tracing of pooled CRISPR&#x02010;Cas9 screens</article-title>. <source xml:lang="en">Nat Methods</source>
+<volume>14</volume>: <fpage>1191</fpage>&#x02013;<lpage>1197</lpage>
+<pub-id pub-id-type="pmid">29039415</pub-id></mixed-citation></ref><ref id="msb199059-bib-0008"><mixed-citation publication-type="journal" id="msb199059-cit-0008">
+<string-name>
+<surname>Schiroli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Conti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ferrari</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Della Volpe</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jacob</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Albano</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Beretta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Calabria</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vavassori</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gasparini</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2019</year>) <article-title>Precise gene editing preserves hematopoietic stem cell function following transient p53&#x02010;mediated DNA damage response</article-title>. <source xml:lang="en">Cell Stem Cell</source>
+<volume>24</volume>: <fpage>551</fpage>&#x02013;<lpage>565</lpage>.e558<pub-id pub-id-type="pmid">30905619</pub-id></mixed-citation></ref><ref id="msb199059-bib-0009"><mixed-citation publication-type="journal" id="msb199059-cit-0009">
+<string-name>
+<surname>Schmierer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Botla</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Turunen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kivioja</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Taipale</surname>
+<given-names>J</given-names>
+</string-name> (<year>2017</year>) <article-title>CRISPR/Cas9 screening using unique molecular identifiers</article-title>. <source xml:lang="en">Mol Syst Biol</source>
+<volume>13</volume>: <fpage>945</fpage>
+<pub-id pub-id-type="pmid">28993443</pub-id></mixed-citation></ref><ref id="msb199059-bib-0102"><mixed-citation publication-type="miscellaneous" id="msb199059-cit-0102">
+<string-name>
+<surname>van den Berg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Joosten</surname>
+<given-names>SEP</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Manj&#x000f3;n</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Krenning</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Koob</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Feringa</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Klompmaker</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>van den Broek</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Jalink</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2019</year>) <article-title>DNA end&#x02010;resection in highly accessible chromatin produces a toxic break</article-title>. <italic>bioRxiv</italic>
+<pub-id pub-id-type="doi">10.1101/691857</pub-id> [PREPRINT]</mixed-citation></ref><ref id="msb199059-bib-0010"><mixed-citation publication-type="journal" id="msb199059-cit-0010">
+<string-name>
+<surname>Zimmermann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Murina</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Reijns</surname>
+<given-names>MAM</given-names>
+</string-name>, <string-name>
+<surname>Agathanggelou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Challis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tarnauskait&#x02250;</surname>
+<given-names>&#x0017d;</given-names>
+</string-name>, <string-name>
+<surname>Muir</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fluteau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Aregger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>McEwan</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>CRISPR screens identify genomic ribonucleotides as a source of PARP&#x02010;trapping lesions</article-title>. <source xml:lang="en">Nature</source>
+<volume>559</volume>: <fpage>285</fpage>&#x02013;<lpage>289</lpage>
+<pub-id pub-id-type="pmid">29973717</pub-id></mixed-citation></ref></ref-list></back></article>

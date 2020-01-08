@@ -1,0 +1,279 @@
+{
+  "id": [
+    "30626175"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30626175"
+  ],
+  "pmcid": [
+    "PMC6323895"
+  ],
+  "doi": [
+    "10.1093/nar/gky1267"
+  ],
+  "title": [
+    "The 26th annual Nucleic Acids Research database issue and Molecular Biology Database Collection."
+  ],
+  "authorString": [
+    "Rigden DJ, Fernández XM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rigden DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Rigden"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool L69 7ZB, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernández XM"
+          ],
+          "firstName": [
+            "Xosé M"
+          ],
+          "lastName": [
+            "Fernández"
+          ],
+          "initials": [
+            "XM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7139-6215",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Curie, 25 rue d'Ulm, 75005 Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7139-6215",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "D1"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2769746"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "D1-D7"
+  ],
+  "abstractText": [
+    "The 2019 Nucleic Acids Research (NAR) Database Issue contains 168 papers spanning molecular biology. Among them, 64 are new and another 92 are updates describing resources that appeared in the Issue previously. The remaining 12 are updates on databases most recently published elsewhere. This Issue contains two Breakthrough articles, on the Virtual Metabolic Human (VMH) database which links human and gut microbiota metabolism with diet and disease, and Vibrism DB, a database of mouse brain anatomy and gene (co-)expression with sophisticated visualization and session sharing. Major returning nucleic acid databases include RNAcentral, miRBase and LncRNA2Target. Protein sequence databases include UniProtKB, InterPro and Pfam, while wwPDB and RCSB cover protein structure. STRING and KEGG update in the section on metabolism and pathways. Microbial genomes are covered by IMG/M and resources for human and model organism genomics include Ensembl, UCSC Genome Browser, GENCODE and Flybase. Genomic variation and disease are well-covered by GWAS Catalog, PopHumanScan, OMIM and COSMIC, CADD being another major newcomer. Major new proteomics resources reporting here include iProX and jPOSTdb. The entire database issue is freely available online on the NAR website (https://academic.oup.com/nar). The NAR online Molecular Biology Database Collection has been updated, reviewing 506 entries, adding 66 new resources and eliminating 147 discontinued URLs, bringing the current total to 1613 databases. It is available at http://www.oxfordjournals.org/nar/database/c."
+  ],
+  "affiliation": [
+    "Institute of Integrative Biology, University of Liverpool, Crown Street, Liverpool L69 7ZB, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323895?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323895"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gky1267"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-11"
+  ],
+  "firstIndexDate": [
+    "2019-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-01-13"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

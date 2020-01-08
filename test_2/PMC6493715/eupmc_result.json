@@ -1,0 +1,461 @@
+{
+  "id": [
+    "31042716"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31042716"
+  ],
+  "pmcid": [
+    "PMC6493715"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0215077"
+  ],
+  "title": [
+    "Chromosomal genome assembly of the ethanol production strain CBS 11270 indicates a highly dynamic genome structure in the yeast species Brettanomyces bruxellensis."
+  ],
+  "authorString": [
+    "Tiukova IA, Pettersson ME, Hoeppner MP, Olsen RA, Käller M, Nielsen J, Dainat J, Lantz H, Söderberg J, Passoth V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tiukova IA"
+          ],
+          "firstName": [
+            "Ievgeniia A"
+          ],
+          "lastName": [
+            "Tiukova"
+          ],
+          "initials": [
+            "IA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0408-3515",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chalmers University of Technology, Department of Biology and Biological Engineering, Systems and Synthetic Biology, Göteborg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Pettersson ME"
+          ],
+          "firstName": [
+            "Mats E"
+          ],
+          "lastName": [
+            "Pettersson"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7372-9076",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Uppsala University, Department of Medical Biochemistry and Microbiology, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoeppner MP"
+          ],
+          "firstName": [
+            "Marc P"
+          ],
+          "lastName": [
+            "Hoeppner"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Uppsala University, Department of Medical Biochemistry and Microbiology, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Olsen RA"
+          ],
+          "firstName": [
+            "Remi-Andre"
+          ],
+          "lastName": [
+            "Olsen"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Science for Life Laboratory, Division of Gene Technology, School of Biotechnology, Royal Institute of Technology (KTH), Solna, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Käller M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Käller"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6813-3051",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Royal Institute of Technology, Biotechnology and Health, School of Engineering Sciences in Chemistry, SciLifeLab, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Chalmers University of Technology, Department of Biology and Biological Engineering, Systems and Synthetic Biology, Göteborg, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Dainat J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Dainat"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Uppsala University, Department of Medical Biochemistry and Microbiology, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Lantz H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Lantz"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Uppsala University, Department of Medical Biochemistry and Microbiology, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Söderberg J"
+          ],
+          "firstName": [
+            "Jonas"
+          ],
+          "lastName": [
+            "Söderberg"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Uppsala University, Department of Cell and Molecular Biology, Molecular Evolution, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Passoth V"
+          ],
+          "firstName": [
+            "Volkmar"
+          ],
+          "lastName": [
+            "Passoth"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Swedish University of Agricultural Sciences, Department of Molecular Sciences, Uppsala, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0408-3515",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7372-9076",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6813-3051",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2839730"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0215077"
+  ],
+  "abstractText": [
+    "Here, we present the genome of the industrial ethanol production strain Brettanomyces bruxellensis CBS 11270. The nuclear genome was found to be diploid, containing four chromosomes with sizes of ranging from 2.2 to 4.0 Mbp. A 75 Kbp mitochondrial genome was also identified. Comparing the homologous chromosomes, we detected that 0.32% of nucleotides were polymorphic, i.e. formed single nucleotide polymorphisms (SNPs), 40.6% of them were found in coding regions (i.e. 0.13% of all nucleotides formed SNPs and were in coding regions). In addition, 8,538 indels were found. The total number of protein coding genes was 4897, of them, 4,284 were annotated on chromosomes; and the mitochondrial genome contained 18 protein coding genes. Additionally, 595 genes, which were annotated, were on contigs not associated with chromosomes. A number of genes was duplicated, most of them as tandem repeats, including a six-gene cluster located on chromosome 3. There were also examples of interchromosomal gene duplications, including a duplication of a six-gene cluster, which was found on both chromosomes 1 and 4. Gene copy number analysis suggested loss of heterozygosity for 372 genes. This may reflect adaptation to relatively harsh but constant conditions of continuous fermentation. Analysis of gene topology showed that most of these losses occurred in clusters of more than one gene, the largest cluster comprising 33 genes. Comparative analysis against the wine isolate CBS 2499 revealed 88,534 SNPs and 8,133 indels. Moreover, when the scaffolds of the CBS 2499 genome assembly were aligned against the chromosomes of CBS 11270, many of them aligned completely, some have chunks aligned to different chromosomes, and some were in fact rearranged. Our findings indicate a highly dynamic genome within the species B. bruxellensis and a tendency towards reduction of gene number in long-term continuous cultivation."
+  ],
+  "affiliation": [
+    "Chalmers University of Technology, Department of Biology and Biological Engineering, Systems and Synthetic Biology, Göteborg, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0215077"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6493715"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6493715?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-03"
+  ],
+  "firstIndexDate": [
+    "2019-05-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-21"
+  ],
+  "dateOfRevision": [
+    "2020-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-01"
+  ],
+  "firstPublicationDate": [
+    "2019-05-01"
+  ]
+}

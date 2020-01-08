@@ -1,0 +1,502 @@
+{
+  "id": [
+    "26272997"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26272997"
+  ],
+  "pmcid": [
+    "PMC4574254"
+  ],
+  "doi": [
+    "10.1534/genetics.115.176370"
+  ],
+  "title": [
+    "Freedom and Responsibility in Synthetic Genomics: The Synthetic Yeast Project."
+  ],
+  "authorString": [
+    "Sliva A, Yang H, Boeke JD, Mathews DJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sliva A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Sliva"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Human Genetics Program, Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205 Institute of Systems Genetics, NYU Langone Medical Center, New York University, New York, New York 10016."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Huanming"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Beishan Industrial Zone, Yantian District, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Boeke JD"
+          ],
+          "firstName": [
+            "Jef D"
+          ],
+          "lastName": [
+            "Boeke"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Institute of Systems Genetics, NYU Langone Medical Center, New York University, New York, New York 10016."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathews DJ"
+          ],
+          "firstName": [
+            "Debra J H"
+          ],
+          "lastName": [
+            "Mathews"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4897-7617",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Berman Institute of Bioethics, Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205 dmathews@jhu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4897-7617",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "200"
+      ],
+      "journalIssueId": [
+        "2314238"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genetics"
+          ],
+          "ISOAbbreviation": [
+            "Genetics"
+          ],
+          "medlineAbbreviation": [
+            "Genetics"
+          ],
+          "NLMid": [
+            "0374636"
+          ],
+          "ISSN": [
+            "0016-6731"
+          ],
+          "ESSN": [
+            "1943-2631"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1021-1028"
+  ],
+  "abstractText": [
+    "First introduced in 2011, the Synthetic Yeast Genome (Sc2.0) PROJECT is a large international synthetic genomics project that will culminate in the first eukaryotic cell (Saccharomyces cerevisiae) with a fully synthetic genome. With collaborators from across the globe and from a range of institutions spanning from do-it-yourself biology (DIYbio) to commercial enterprises, it is important that all scientists working on this project are cognizant of the ethical and policy issues associated with this field of research and operate under a common set of principles. In this commentary, we survey the current ethics and regulatory landscape of synthetic biology and present the Sc2.0 Statement of Ethics and Governance to which all members of the project adhere. This statement focuses on four aspects of the Sc2.0 PROJECT: societal benefit, intellectual property, safety, and self-governance. We propose that such project-level agreements are an important, valuable, and flexible model of self-regulation for similar global, large-scale synthetic biology projects in order to maximize the benefits and minimize potential harms."
+  ],
+  "affiliation": [
+    "Human Genetics Program, Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205 Institute of Systems Genetics, NYU Langone Medical Center, New York University, New York, New York 10016."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 GM007814"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ES"
+                  ],
+                  "qualifierName": [
+                    "ethics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Safety"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Control, Formal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Freedom"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intellectual Property"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Responsibility"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ES"
+                  ],
+                  "qualifierName": [
+                    "ethics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yeast",
+        "Ethics",
+        "Oversight",
+        "Governance",
+        "Synthetic Biology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4574254?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4574254"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/genetics.115.176370"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-18"
+  ],
+  "dateOfCreation": [
+    "2015-08-15"
+  ],
+  "firstIndexDate": [
+    "2015-08-16"
+  ],
+  "fullTextReceivedDate": [
+    "2015-09-23"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "firstPublicationDate": [
+    "2015-08-01"
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "id": [
+    "31674908"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31674908"
+  ],
+  "pmcid": [
+    "PMC6855806"
+  ],
+  "doi": [
+    "10.7554/eLife.51539"
+  ],
+  "title": [
+    "An efficient CRISPR-based strategy to insert small and large fragments of DNA using short homology arms."
+  ],
+  "authorString": [
+    "Kanca O, Zirin J, Garcia-Marques J, Knight SM, Yang-Zhou D, Amador G, Chung H, Zuo Z, Ma L, He Y, Lin WW, Fang Y, Ge M, Yamamoto S, Schulze KL, Hu Y, Spradling AC, Mohr SE, Perrimon N, Bellen HJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kanca O"
+          ],
+          "firstName": [
+            "Oguz"
+          ],
+          "lastName": [
+            "Kanca"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5438-0879",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zirin J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Zirin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Garcia-Marques J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Garcia-Marques"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Knight SM"
+          ],
+          "firstName": [
+            "Shannon Marie"
+          ],
+          "lastName": [
+            "Knight"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang-Zhou D"
+          ],
+          "firstName": [
+            "Donghui"
+          ],
+          "lastName": [
+            "Yang-Zhou"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Amador G"
+          ],
+          "firstName": [
+            "Gabriel"
+          ],
+          "lastName": [
+            "Amador"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung H"
+          ],
+          "firstName": [
+            "Hyunglok"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zuo Z"
+          ],
+          "firstName": [
+            "Zhongyuan"
+          ],
+          "lastName": [
+            "Zuo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Liwen"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "He Y"
+          ],
+          "firstName": [
+            "Yuchun"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin WW"
+          ],
+          "firstName": [
+            "Wen-Wen"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "WW"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto S"
+          ],
+          "firstName": [
+            "Shinya"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Schulze KL"
+          ],
+          "firstName": [
+            "Karen L"
+          ],
+          "lastName": [
+            "Schulze"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1368-729X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yanhui"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Spradling AC"
+          ],
+          "firstName": [
+            "Allan C"
+          ],
+          "lastName": [
+            "Spradling"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5251-1801",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Embryology, Howard Hughes Medical Institute, Carnegie Institution for Science, Baltimore, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohr SE"
+          ],
+          "firstName": [
+            "Stephanie E"
+          ],
+          "lastName": [
+            "Mohr"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9639-7708",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Perrimon N"
+          ],
+          "firstName": [
+            "Norbert"
+          ],
+          "lastName": [
+            "Perrimon"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7542-472X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Howard Hughes Medical Institute, Harvard Medical School, Boston, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellen HJ"
+          ],
+          "firstName": [
+            "Hugo J"
+          ],
+          "lastName": [
+            "Bellen"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5992-5989",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1368-729X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5992-5989",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5251-1801",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5438-0879",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7542-472X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9639-7708",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2875828"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "We previously reported a CRISPR-mediated knock-in strategy into introns of Drosophila genes, generating an attP-FRT-SA-T2A-GAL4-polyA-3XP3-EGFP-FRT-attP transgenic library for multiple uses (Lee et al., 2018a). The method relied on double stranded DNA (dsDNA) homology donors with ~1 kb homology arms. Here, we describe three new simpler ways to edit genes in flies. We create single stranded DNA (ssDNA) donors using PCR and add 100 nt of homology on each side of an integration cassette, followed by enzymatic removal of one strand. Using this method, we generated GFP-tagged proteins that mark organelles in S2 cells. We then describe two dsDNA methods using cheap synthesized donors flanked by 100 nt homology arms and gRNA target sites cloned into a plasmid. Upon injection, donor DNA (1 to 5 kb) is released from the plasmid by Cas9. The cassette integrates efficiently and precisely in vivo. The approach is fast, cheap, and scalable."
+  ],
+  "affiliation": [
+    "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 GM084947"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P41 GM132087"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HD083092"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM067858"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM067858"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM067858"
+          ],
+          "agency": [
+            "NIH Office of the Director"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM067761"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R24 OD019847"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Drosophila",
+        "Genomics",
+        "Homologous Recombination",
+        "D. Melanogaster",
+        "Crispr",
+        "Drop-in",
+        "Crimic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.51539"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6855806"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6855806?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR91875"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-02"
+  ],
+  "firstIndexDate": [
+    "2019-11-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

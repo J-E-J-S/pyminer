@@ -1,0 +1,687 @@
+{
+  "id": [
+    "30102688"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30102688"
+  ],
+  "pmcid": [
+    "PMC6107254"
+  ],
+  "doi": [
+    "10.1371/journal.pbio.2006031"
+  ],
+  "title": [
+    "Provenance and risk in transfer of biological materials."
+  ],
+  "authorString": [
+    "Nielsen J, Bubela T, Chalmers DRC, Johns A, Kahl L, Kamens J, Lawson C, Liddicoat J, McWhirter R, Monotti A, Scheibner J, Whitton T, Nicol D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nielsen J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3005-0047",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bubela T"
+          ],
+          "firstName": [
+            "Tania"
+          ],
+          "lastName": [
+            "Bubela"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0807-2899",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Health Sciences, Simon Fraser University, Burnaby, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Chalmers DRC"
+          ],
+          "firstName": [
+            "Don R C"
+          ],
+          "lastName": [
+            "Chalmers"
+          ],
+          "initials": [
+            "DRC"
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Johns A"
+          ],
+          "firstName": [
+            "Amber"
+          ],
+          "lastName": [
+            "Johns"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Cancer Division, Garvan Institute of Medical Research, Darlinghurst, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Kahl L"
+          ],
+          "firstName": [
+            "Linda"
+          ],
+          "lastName": [
+            "Kahl"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "BioBricks Foundation, San Francisco, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamens J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Kamens"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7000-1477",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Addgene, Cambridge, Massachusetts, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawson C"
+          ],
+          "firstName": [
+            "Charles"
+          ],
+          "lastName": [
+            "Lawson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Griffith Law School and Australian Centre for Intellectual Property in Agriculture, Griffith University, Gold Coast, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Liddicoat J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Liddicoat"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Law, University of Cambridge, Cambridge, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "McWhirter R"
+          ],
+          "firstName": [
+            "Rebekah"
+          ],
+          "lastName": [
+            "McWhirter"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Monotti A"
+          ],
+          "firstName": [
+            "Ann"
+          ],
+          "lastName": [
+            "Monotti"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Law, Monash University, Clayton, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Scheibner J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Scheibner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Whitton T"
+          ],
+          "firstName": [
+            "Tess"
+          ],
+          "lastName": [
+            "Whitton"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicol D"
+          ],
+          "firstName": [
+            "Dianne"
+          ],
+          "lastName": [
+            "Nicol"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6553-2839",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6553-2839",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0807-2899",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3005-0047",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7000-1477",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2711583"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Biol"
+          ],
+          "NLMid": [
+            "101183755"
+          ],
+          "ISSN": [
+            "1544-9173"
+          ],
+          "ESSN": [
+            "1545-7885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e2006031"
+  ],
+  "abstractText": [
+    "Whereas biological materials were once transferred freely, there has been a marked shift in the formalisation of exchanges involving these materials, primarily through the use of Material Transfer Agreements (MTAs). This paper considers how risk aversion dominates MTA negotiations and the impact it may have on scientific progress. Risk aversion is often based on unwarranted fears of incurring liability through the use of a material or loss of control or missing out on commercialisation opportunities. Evidence to date has suggested that complexity tends to permeate even straightforward transactions despite extensive efforts to implement simple, standard MTAs. We argue that in most cases, MTAs need do little more than establish provenance, and any attempt to extend MTAs beyond this simple function constitutes stifling behaviour. Drawing on available examples of favourable practice, we point to a number of strategies that may usefully be employed to reduce risk-averse tendencies, including the promotion of simplicity, education of those engaged in the MTA process, and achieving a cultural shift in the way in which technology transfer office (TTO) success is measured in institutions employing MTAs."
+  ],
+  "affiliation": [
+    "Centre for Law and Genetics, Faculty of Law, University of Tasmania, Hobart, Tasmania, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Laboratory Chemicals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SD"
+                  ],
+                  "qualifierName": [
+                    "supply & distribution"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liability, Legal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ownership"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ES"
+                  ],
+                  "qualifierName": [
+                    "ethics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Laboratory Chemicals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pbio.2006031"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6107254"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6107254?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-31"
+  ],
+  "dateOfCreation": [
+    "2018-08-14"
+  ],
+  "firstIndexDate": [
+    "2018-08-14"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-02"
+  ],
+  "dateOfRevision": [
+    "2019-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-13"
+  ],
+  "firstPublicationDate": [
+    "2018-08-13"
+  ]
+}

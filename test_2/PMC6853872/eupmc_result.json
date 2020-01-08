@@ -1,0 +1,415 @@
+{
+  "id": [
+    "31787963"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31787963"
+  ],
+  "pmcid": [
+    "PMC6853872"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02596"
+  ],
+  "title": [
+    "Multiomic Fermentation Using Chemically Defined Synthetic Hydrolyzates Revealed Multiple Effects of Lignocellulose-Derived Inhibitors on Cell Physiology and Xylose Utilization in Zymomonas mobilis."
+  ],
+  "authorString": [
+    "Zhang Y, Vera JM, Xie D, Serate J, Pohlmann E, Russell JD, Hebert AS, Coon JJ, Sato TK, Landick R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yaoping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Vera JM"
+          ],
+          "firstName": [
+            "Jessica M"
+          ],
+          "lastName": [
+            "Vera"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Serate J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Serate"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Pohlmann E"
+          ],
+          "firstName": [
+            "Edward"
+          ],
+          "lastName": [
+            "Pohlmann"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Russell JD"
+          ],
+          "firstName": [
+            "Jason D"
+          ],
+          "lastName": [
+            "Russell"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hebert AS"
+          ],
+          "firstName": [
+            "Alexander S"
+          ],
+          "lastName": [
+            "Hebert"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Coon JJ"
+          ],
+          "firstName": [
+            "Joshua J"
+          ],
+          "lastName": [
+            "Coon"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sato TK"
+          ],
+          "firstName": [
+            "Trey K"
+          ],
+          "lastName": [
+            "Sato"
+          ],
+          "initials": [
+            "TK"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Landick R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Landick"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2596"
+  ],
+  "abstractText": [
+    "Utilization of both C5 and C6 sugars to produce biofuels and bioproducts is a key goal for the development of integrated lignocellulosic biorefineries. Previously we found that although engineered Zymomonas mobilis 2032 was able to ferment glucose to ethanol when fermenting highly concentrated hydrolyzates such as 9% glucan-loading AFEX-pretreated corn stover hydrolyzate (9% ACSH), xylose conversion after glucose depletion was greatly impaired. We hypothesized that impaired xylose conversion was caused by lignocellulose-derived inhibitors (LDIs) in hydrolyzates. To investigate the effects of LDIs on the cellular physiology of Z. mobilis during fermentation of hydrolyzates, including impacts on xylose utilization, we generated synthetic hydrolyzates (SynHs) that contained nutrients and LDIs at concentrations found in 9% ACSH. Comparative fermentations of Z. mobilis 2032 using SynH with or without LDIs were performed, and samples were collected for end product, transcriptomic, metabolomic, and proteomic analyses. Several LDI-specific effects were observed at various timepoints during fermentation including upregulation of sulfur assimilation and cysteine biosynthesis, upregulation of RND family efflux pump systems (ZMO0282-0285) and ZMO1429-1432, downregulation of a Type I secretion system (ZMO0252-0255), depletion of reduced glutathione, and intracellular accumulation of mannose-1P and mannose-6P. Furthermore, when grown in SynH containing LDIs, Z. mobilis 2032 only metabolized ∼50% of xylose, compared to ∼80% in SynH without LDIs, recapitulating the poor xylose utilization observed in 9% ACSH. Our metabolomic data suggest that the overall flux of xylose metabolism is reduced in the presence of LDIs. However, the expression of most genes involved in glucose and xylose assimilation was not affected by LDIs, nor did we observe blocks in glucose and xylose metabolic pathways. Accumulations of intracellular xylitol and xylonic acid was observed in both SynH with and without LDIs, which decreased overall xylose-to-ethanol conversion efficiency. Our results suggest that xylose metabolism in Z. mobilis 2032 may not be able to support the cellular demands of LDI mitigation and detoxification during fermentation of highly concentrated lignocellulosic hydrolyzates with elevated levels of LDIs. Together, our findings identify several cellular responses to LDIs and possible causes of impaired xylose conversion that will enable future strain engineering of Z. mobilis."
+  ],
+  "affiliation": [
+    "DOE-Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, Madison, WI, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ethanol Production",
+        "Xylose Utilization",
+        "Lignocellulose-derived Inhibitors",
+        "Synthetic Hydrolyzates",
+        "Multiomic Fermentation",
+        "Rnd Family Efflux Pump Systems"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02596"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6853872"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6853872?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-03"
+  ],
+  "firstIndexDate": [
+    "2019-12-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-07"
+  ],
+  "firstPublicationDate": [
+    "2019-11-07"
+  ]
+}

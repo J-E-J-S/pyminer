@@ -1,0 +1,364 @@
+{
+  "id": [
+    "31393941"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31393941"
+  ],
+  "pmcid": [
+    "PMC6687161"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0220860"
+  ],
+  "title": [
+    "CRISPR-Cas9 mediated CD133 knockout inhibits colon cancer invasion through reduced epithelial-mesenchymal transition."
+  ],
+  "authorString": [
+    "Li W, Cho MY, Lee S, Jang M, Park J, Park R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Wanlu"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Pathology, Yonsei University Wonju College of Medicine, Wonju, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho MY"
+          ],
+          "firstName": [
+            "Mee-Yon"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7955-4211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pathology, Yonsei University Wonju College of Medicine, Wonju, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Suji"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Pathology, Yonsei University Wonju College of Medicine, Wonju, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jang M"
+          ],
+          "firstName": [
+            "Mirae"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pathology, Yonsei University Wonju College of Medicine, Wonju, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park J"
+          ],
+          "firstName": [
+            "Junsoo"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Biological Science and Technology, Yonsei University, Wonju, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park R"
+          ],
+          "firstName": [
+            "Rackhyun"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Division of Biological Science and Technology, Yonsei University, Wonju, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7955-4211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2843511"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0220860"
+  ],
+  "abstractText": [
+    "We previously reported that CD133, as a putative cancer stem cell marker, plays an important role in cell proliferation and invasion in colon cancer. To understand the role of CD133 expression in colon cancer, we evaluated the inhibitory effect of CD133 in colon cancer cells. In this study, we generated CD133knockout colon cancer cells (LoVo) using the CRISPR-Cas9 gene editing system. CD133+ colon cancer cells (LoVo) were infected with the lentiviral vector carrying CD133 gRNA and purified cell by culturing single cell colonies. CD133knockout cells was validated by western blot and flow cytometry analysis. In functional study, we observed a significant reduction in cell proliferation and colony formation in CRISPR-Cas9 mediated CD133 knockout cells in compare with control (P < 0.001). We also found the anticancer effect of stattic was dependent on CD133 expression in colon cancer cells. Although CD133knockout cells could not completely block the tumorigenic property, they showed remarkable inhibitory effects on the ability of cell migration and invasion (P < 0.001). In addition, we examined the epithelial mesenchymal transition (EMT)-related protein expression by western blot. The result clearly showed a loss of vimentin expression in CD133knockout cells. Therefore, CRISPR-Cas9 mediated CD133knockout can be an effective treatment modality for CD133+ colon cancer through reducing the characteristics of cancer stem cells."
+  ],
+  "affiliation": [
+    "Department of Pathology, Yonsei University Wonju College of Medicine, Wonju, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6687161?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6687161"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0220860"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-09"
+  ],
+  "firstIndexDate": [
+    "2019-08-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-17"
+  ],
+  "dateOfRevision": [
+    "2019-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-08"
+  ],
+  "firstPublicationDate": [
+    "2019-08-08"
+  ]
+}

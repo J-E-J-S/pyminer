@@ -1,0 +1,655 @@
+{
+  "id": [
+    "29367403"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29367403"
+  ],
+  "pmcid": [
+    "PMC5887153"
+  ],
+  "doi": [
+    "10.1534/genetics.117.300589"
+  ],
+  "title": [
+    "A Perfect Match Genomic Landscape Provides a Unified Framework for the Precise Detection of Variation in Natural and Synthetic Haploid Genomes."
+  ],
+  "authorString": [
+    "Palacios-Flores K, García-Sotelo J, Castillo A, Uribe C, Aguilar L, Morales L, Gómez-Romero L, Reyes J, Garciarubio A, Boege M, Dávila G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Palacios-Flores K"
+          ],
+          "firstName": [
+            "Kim"
+          ],
+          "lastName": [
+            "Palacios-Flores"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3308-2714",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México kimpalaciosflores@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "García-Sotelo J"
+          ],
+          "firstName": [
+            "Jair"
+          ],
+          "lastName": [
+            "García-Sotelo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9462-2737",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Castillo A"
+          ],
+          "firstName": [
+            "Alejandra"
+          ],
+          "lastName": [
+            "Castillo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Uribe C"
+          ],
+          "firstName": [
+            "Carina"
+          ],
+          "lastName": [
+            "Uribe"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Aguilar L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Aguilar"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Morales L"
+          ],
+          "firstName": [
+            "Lucía"
+          ],
+          "lastName": [
+            "Morales"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9511-5067",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Gómez-Romero L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Gómez-Romero"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Reyes J"
+          ],
+          "firstName": [
+            "José"
+          ],
+          "lastName": [
+            "Reyes"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Garciarubio A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "Garciarubio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos 62210, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Boege M"
+          ],
+          "firstName": [
+            "Margareta"
+          ],
+          "lastName": [
+            "Boege"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        },
+        {
+          "fullName": [
+            "Dávila G"
+          ],
+          "firstName": [
+            "Guillermo"
+          ],
+          "lastName": [
+            "Dávila"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9462-2737",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3308-2714",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9206-7522",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9511-5067",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "208"
+      ],
+      "journalIssueId": [
+        "2668809"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genetics"
+          ],
+          "ISOAbbreviation": [
+            "Genetics"
+          ],
+          "medlineAbbreviation": [
+            "Genetics"
+          ],
+          "NLMid": [
+            "0374636"
+          ],
+          "ISSN": [
+            "0016-6731"
+          ],
+          "ESSN": [
+            "1943-2631"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1631-1641"
+  ],
+  "abstractText": [
+    "We present a conceptually simple, sensitive, precise, and essentially nonstatistical solution for the analysis of genome variation in haploid organisms. The generation of a Perfect Match Genomic Landscape (PMGL), which computes intergenome identity with single nucleotide resolution, reveals signatures of variation wherever a query genome differs from a reference genome. Such signatures encode the precise location of different types of variants, including single nucleotide variants, deletions, insertions, and amplifications, effectively introducing the concept of a general signature of variation. The precise nature of variants is then resolved through the generation of targeted alignments between specific sets of sequence reads and known regions of the reference genome. Thus, the perfect match logic decouples the identification of the location of variants from the characterization of their nature, providing a unified framework for the detection of genome variation. We assessed the performance of the PMGL strategy via simulation experiments. We determined the variation profiles of natural genomes and of a synthetic chromosome, both in the context of haploid yeast strains. Our approach uncovered variants that have previously escaped detection. Moreover, our strategy is ideally suited for further refining high-quality reference genomes. The source codes for the automated PMGL pipeline have been deposited in a public repository."
+  ],
+  "affiliation": [
+    "Laboratorio Internacional de Investigación sobre el Genoma Humano, Universidad Nacional Autónoma de México, Querétaro, Querétaro 76230, México kimpalaciosflores@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chromosomes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Yeasts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Haploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Testing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome sequencing",
+        "Yeast Genomics",
+        "Genome Variation",
+        "Synthetic Genomics",
+        "Reference Genomes"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/genetics.117.300589"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5887153"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5887153?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-02"
+  ],
+  "dateOfCreation": [
+    "2018-01-26"
+  ],
+  "firstIndexDate": [
+    "2018-01-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-24"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-24"
+  ],
+  "firstPublicationDate": [
+    "2018-01-24"
+  ]
+}

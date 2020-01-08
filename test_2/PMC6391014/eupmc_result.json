@@ -1,0 +1,625 @@
+{
+  "id": [
+    "30807598"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30807598"
+  ],
+  "pmcid": [
+    "PMC6391014"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0212774"
+  ],
+  "title": [
+    "Characteristics of the tree shrew gut virome."
+  ],
+  "authorString": [
+    "Chen L, Gu W, Liu C, Wang W, Li N, Chen Y, Lu C, Sun X, Han Y, Kuang D, Tong P, Dai J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Linxia"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gu W"
+          ],
+          "firstName": [
+            "Wenpeng"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chenxiu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Wenguang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li N"
+          ],
+          "firstName": [
+            "Na"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "MOE Key Laboratory of Bioinformatics and Bioinformatics Division, Center for Synthetic and System Biology, TNLIST/Department of Automation, Tsinghua University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu C"
+          ],
+          "firstName": [
+            "Caixia"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun X"
+          ],
+          "firstName": [
+            "Xiaomei"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuang D"
+          ],
+          "firstName": [
+            "Dexuan"
+          ],
+          "lastName": [
+            "Kuang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tong P"
+          ],
+          "firstName": [
+            "Pinfen"
+          ],
+          "lastName": [
+            "Tong"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dai J"
+          ],
+          "firstName": [
+            "Jiejie"
+          ],
+          "lastName": [
+            "Dai"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3981-2164",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3981-2164",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2776759"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0212774"
+  ],
+  "abstractText": [
+    "The tree shrew (Tupaia belangeri) has been proposed as an alternative laboratory animal to primates in biomedical research in recent years. However, characteristics of the tree shrew gut virome remain unclear. In this study, the metagenomic analysis method was used to identify the features of gut virome from fecal samples of this animal. Results showed that 5.80% of sequence reads in the libraries exhibited significant similarity to sequences deposited in the viral reference database (NCBI non-redundant nucleotide databases, viral protein databases and ACLAME database), and these reads were further classified into three major orders: Caudovirales (58.0%), Picornavirales (16.0%), and Herpesvirales (6.0%). Siphoviridae (46.0%), Myoviridae (45.0%), and Podoviridae (8.0%) comprised most Caudovirales. Picornaviridae (99.9%) and Herpesviridae (99.0%) were the primary families of Picornavirales and Herpesvirales, respectively. According to the host types and nucleic acid classifications, all of the related viruses in this study were divided into bacterial phage (61.83%), animal-specific virus (34.50%), plant-specific virus (0.09%), insect-specific virus (0.08%) and other viruses (3.50%). The dsDNA virus accounted for 51.13% of the total, followed by ssRNA (33.51%) and ssDNA virus (15.36%). This study provides an initial understanding of the community structure of the gut virome of tree shrew and a baseline for future tree shrew virus investigation."
+  ],
+  "affiliation": [
+    "Center of Tree Shrew Germplasm Resources, Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Yunnan Key Laboratory of Vaccine Research and Development on Severe Infectious Diseases, Yunnan Innovation Team of Standardization and Application Research in Tree Shrew, Kunming, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intestines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tupaiidae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Viruses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Protein"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0212774"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6391014"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6391014?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-11-19"
+  ],
+  "dateOfCreation": [
+    "2019-02-27"
+  ],
+  "firstIndexDate": [
+    "2019-02-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2019-02-26"
+  ]
+}

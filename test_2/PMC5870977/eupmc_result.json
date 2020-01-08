@@ -1,0 +1,626 @@
+{
+  "id": [
+    "29584782"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29584782"
+  ],
+  "pmcid": [
+    "PMC5870977"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0194253"
+  ],
+  "title": [
+    "Genomic diversity of Taylorella equigenitalis introduced into the United States from 1978 to 2012."
+  ],
+  "authorString": [
+    "Hicks J, Stuber T, Lantz K, Erdman M, Robbe-Austerman S, Huang X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hicks J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Hicks"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1306-6917",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Diagnostic Bacteriology and Pathology Laboratory, National Veterinary Services Laboratories (NVSL), USDA, Ames, IA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Stuber T"
+          ],
+          "firstName": [
+            "Tod"
+          ],
+          "lastName": [
+            "Stuber"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Diagnostic Bacteriology and Pathology Laboratory, National Veterinary Services Laboratories (NVSL), USDA, Ames, IA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Lantz K"
+          ],
+          "firstName": [
+            "Kristina"
+          ],
+          "lastName": [
+            "Lantz"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Diagnostic Bacteriology and Pathology Laboratory, National Veterinary Services Laboratories (NVSL), USDA, Ames, IA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Erdman M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Erdman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Policy Evaluation and Licensing Section, Center for Veterinary Biologics, USDA, Ames, IA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Robbe-Austerman S"
+          ],
+          "firstName": [
+            "Suelee"
+          ],
+          "lastName": [
+            "Robbe-Austerman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Diagnostic Bacteriology and Pathology Laboratory, National Veterinary Services Laboratories (NVSL), USDA, Ames, IA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xiaoqiu"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Iowa State University, Ames, Iowa, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1306-6917",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2656076"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0194253"
+  ],
+  "abstractText": [
+    "Contagious equine metritis is a disease of worldwide concern in equids. The United States is considered to be free of the disease although sporadic outbreaks have occurred over the last few decades that were thought to be associated with the importation of horses. The objective of this study was to create finished, reference quality genomes that characterize the diversity of Taylorella equigenitalis isolates introduced into the USA, and identify their differences. Five isolates of T. equigenitalis associated with introductions into the USA from unique sources were sequenced using both short and long read chemistries allowing for complete assembly and annotation. These sequences were compared to previously published genomes as well as the short read sequences of the 200 isolates in the National Veterinary Services Laboratories' diagnostic repository to identify unique regions and genes, potential virulence factors, and characterize diversity. The 5 genomes varied in size by up to 100,000 base pairs, but averaged 1.68 megabases. The majority of that diversity in size can be explained by repeat regions and 4 main regions of difference, which ranged in size from 15,000 to 45,000 base pairs. The first region of difference contained mostly hypothetical proteins, the second contained the CRISPR, the third contained primarily hemagglutinin proteins, and the fourth contained primarily segments of a type IV secretion system. As expected and previously reported, little evidence of recombination was found within these genomes. Several additional areas of interest were also observed including a mechanism for streptomycin resistance and other virulence factors. A SNP distance comparison of the T. equigenitalis isolates and Mycobacterium tuberculosis complex (MTBC) showed that relatively, T. equigenitalis was a more diverse species than the entirety of MTBC."
+  ],
+  "affiliation": [
+    "Diagnostic Bacteriology and Pathology Laboratory, National Veterinary Services Laboratories (NVSL), USDA, Ames, IA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Horses"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Taylorella equigenitalis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Horse Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Bacterial Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Resistance, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Introduced Species"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anti-Bacterial Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0194253"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5870977"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5870977?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-07-02"
+  ],
+  "dateOfCreation": [
+    "2018-03-28"
+  ],
+  "firstIndexDate": [
+    "2018-03-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-24"
+  ],
+  "dateOfRevision": [
+    "2018-07-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-27"
+  ],
+  "firstPublicationDate": [
+    "2018-03-27"
+  ]
+}

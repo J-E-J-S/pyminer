@@ -1,0 +1,439 @@
+{
+  "id": [
+    "31626626"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31626626"
+  ],
+  "pmcid": [
+    "PMC6821140"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008223"
+  ],
+  "title": [
+    "Local adaptation drives the diversification of effectors in the fungal wheat pathogen Parastagonospora nodorum in the United States."
+  ],
+  "authorString": [
+    "Richards JK, Stukenbrock EH, Carpenter J, Liu Z, Cowger C, Faris JD, Friesen TL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Richards JK"
+          ],
+          "firstName": [
+            "Jonathan K"
+          ],
+          "lastName": [
+            "Richards"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology and Crop Physiology, Louisiana State University Agricultural Center, Baton Rouge, Louisiana, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Stukenbrock EH"
+          ],
+          "firstName": [
+            "Eva H"
+          ],
+          "lastName": [
+            "Stukenbrock"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8590-3345",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Genomics, Christian-Albrechts University of Kiel, Kiel, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Carpenter J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Carpenter"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, North Dakota State University, Fargo, North Dakota, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Z"
+          ],
+          "firstName": [
+            "Zhaohui"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, North Dakota State University, Fargo, North Dakota, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Cowger C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Cowger"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6950-2541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Science Research Unit, USDA-ARS, Raleigh, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Faris JD"
+          ],
+          "firstName": [
+            "Justin D"
+          ],
+          "lastName": [
+            "Faris"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Cereal Crops Research Unit, Edward T. Schaefer Agricultural Research Center, USDA-ARS, Fargo, North Dakota, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Friesen TL"
+          ],
+          "firstName": [
+            "Timothy L"
+          ],
+          "lastName": [
+            "Friesen"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5634-2200",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, North Dakota State University, Fargo, North Dakota, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8590-3345",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5634-2200",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6950-2541",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2867618"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008223"
+  ],
+  "abstractText": [
+    "Filamentous fungi rapidly evolve in response to environmental selection pressures in part due to their genomic plasticity. Parastagonospora nodorum, a fungal pathogen of wheat and causal agent of septoria nodorum blotch, responds to selection pressure exerted by its host, influencing the gain, loss, or functional diversification of virulence determinants, known as effector genes. Whole genome resequencing of 197 P. nodorum isolates collected from spring, durum, and winter wheat production regions of the United States enabled the examination of effector diversity and genomic regions under selection specific to geographically discrete populations. 1,026,859 SNPs/InDels were used to identify novel loci, as well as SnToxA and SnTox3 as factors in disease. Genes displaying presence/absence variation, predicted effector genes, and genes localized on an accessory chromosome had significantly higher pN/pS ratios, indicating a higher rate of sequence evolution. Population structure analyses indicated two P. nodorum populations corresponding to the Upper Midwest (Population 1) and Southern/Eastern United States (Population 2). Prevalence of SnToxA varied greatly between the two populations which correlated with presence of the host sensitivity gene Tsn1 in the most prevalent cultivars in the corresponding regions. Additionally, 12 and 5 candidate effector genes were observed to be under diversifying selection among isolates from Population 1 and 2, respectively, but under purifying selection or neutrally evolving in the opposite population. Selective sweep analysis revealed 10 and 19 regions that had recently undergone positive selection in Population 1 and 2, respectively, involving 92 genes in total. When comparing genes with and without presence/absence variation, those genes exhibiting this variation were significantly closer to transposable elements. Taken together, these results indicate that P. nodorum is rapidly adapting to distinct selection pressures unique to spring and winter wheat production regions by rapid adaptive evolution and various routes of genomic diversification, potentially facilitated through transposable element activity."
+  ],
+  "affiliation": [
+    "Department of Plant Pathology and Crop Physiology, Louisiana State University Agricultural Center, Baton Rouge, Louisiana, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008223"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821140"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821140?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR80985"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-19"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-18"
+  ],
+  "firstPublicationDate": [
+    "2019-10-18"
+  ]
+}

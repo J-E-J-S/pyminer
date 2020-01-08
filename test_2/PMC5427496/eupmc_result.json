@@ -1,0 +1,524 @@
+{
+  "id": [
+    "28341701"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28341701"
+  ],
+  "pmcid": [
+    "PMC5427496"
+  ],
+  "doi": [
+    "10.1534/g3.117.040055"
+  ],
+  "title": [
+    "From Pine Cones to Read Clouds: Rescaffolding the Megagenome of Sugar Pine (Pinus lambertiana)."
+  ],
+  "authorString": [
+    "Crepeau MW, Langley CH, Stevens KA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Crepeau MW"
+          ],
+          "firstName": [
+            "Marc W"
+          ],
+          "lastName": [
+            "Crepeau"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3639-3921",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Evolution and Ecology, University of California, Davis, California 95616."
+          ]
+        },
+        {
+          "fullName": [
+            "Langley CH"
+          ],
+          "firstName": [
+            "Charles H"
+          ],
+          "lastName": [
+            "Langley"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Department of Evolution and Ecology, University of California, Davis, California 95616."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevens KA"
+          ],
+          "firstName": [
+            "Kristian A"
+          ],
+          "lastName": [
+            "Stevens"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Department of Evolution and Ecology, University of California, Davis, California 95616 kastevens@ucdavis.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3639-3921",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2554572"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1563-1568"
+  ],
+  "abstractText": [
+    "We investigate the utility and scalability of new read cloud technologies to improve the draft genome assemblies of the colossal, and largely repetitive, genomes of conifers. Synthetic long read technologies have existed in various forms as a means of reducing complexity and resolving repeats since the outset of genome assembly. Recently, technologies that combine subhaploid pools of high molecular weight DNA with barcoding on a massive scale have brought new efficiencies to sample preparation and data generation. When combined with inexpensive light shotgun sequencing, the resulting data can be used to scaffold large genomes. The protocol is efficient enough to consider routinely for even the largest genomes. Conifers represent the largest reference genome projects executed to date. The largest of these is that of the conifer Pinus lambertiana (sugar pine), with a genome size of 31 billion bp. In this paper, we report on the molecular and computational protocols for scaffolding the P. lambertiana genome using the library technology from 10× Genomics. At 247,000 bp, the NG50 of the existing reference sequence is the highest scaffold contiguity among the currently published conifer assemblies; this new assembly's NG50 is 1.94 million bp, an eightfold increase."
+  ],
+  "affiliation": [
+    "Department of Evolution and Ecology, University of California, Davis, California 95616."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pinus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Balsams"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Contig Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Plant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reference Standards"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome Assembly",
+        "Conifer Genomes",
+        "Sugar Pine",
+        "10× Genomics"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Pinus lambertiana sap"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Balsams"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.117.040055"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5427496"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5427496?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-02-01"
+  ],
+  "dateOfCreation": [
+    "2017-03-26"
+  ],
+  "firstIndexDate": [
+    "2017-03-25"
+  ],
+  "fullTextReceivedDate": [
+    "2017-05-14"
+  ],
+  "dateOfRevision": [
+    "2018-06-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-05"
+  ],
+  "firstPublicationDate": [
+    "2017-05-05"
+  ]
+}

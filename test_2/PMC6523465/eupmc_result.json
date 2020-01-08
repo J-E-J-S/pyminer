@@ -1,0 +1,302 @@
+{
+  "id": [
+    "30960595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30960595"
+  ],
+  "pmcid": [
+    "PMC6523465"
+  ],
+  "doi": [
+    "10.3390/polym11040612"
+  ],
+  "title": [
+    "Highly Toughened and Transparent Biobased Epoxy Composites Reinforced with Cellulose Nanofibrils."
+  ],
+  "authorString": [
+    "Nair SS, Dartiailh C, Levin DB, Yan N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nair SS"
+          ],
+          "firstName": [
+            "Sandeep S"
+          ],
+          "lastName": [
+            "Nair"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Faculty of Forestry, University of Toronto, 33 Willcocks Street, Toronto, ON M5S 3B3, Canada. sandeep.sudhakarannair@utoronto.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Dartiailh C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Dartiailh"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biosystems Engineering, University of Manitoba, E2-376 Engineering and Information Technology Complex (EITC), 75 Chancellors Circle, Winnipeg, MB R3T 5V6, Canada. umdartia@myumanitoba.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Levin DB"
+          ],
+          "firstName": [
+            "David B"
+          ],
+          "lastName": [
+            "Levin"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Department of Biosystems Engineering, University of Manitoba, E2-376 Engineering and Information Technology Complex (EITC), 75 Chancellors Circle, Winnipeg, MB R3T 5V6, Canada. david.levin@umanitoba.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan N"
+          ],
+          "firstName": [
+            "Ning"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Faculty of Forestry, University of Toronto, 33 Willcocks Street, Toronto, ON M5S 3B3, Canada. ning.yan@utoronto.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2803902"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Polymers"
+          ],
+          "ISOAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Polymers (Basel)"
+          ],
+          "NLMid": [
+            "101545357"
+          ],
+          "ISSN": [
+            "2073-4360"
+          ],
+          "ESSN": [
+            "2073-4360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Biobased nanofillers, such as cellulose nanofibrils (CNFs), have been widely used as reinforcing fillers for various polymers due to their high mechanical properties and potential for sustainable production. In this study, CNF-based composites with a commercial biobased epoxy resin were prepared and characterized to determine the morphology, mechanical, thermal, and barrier properties. The addition of 18⁻23 wt % of CNFs to epoxy significantly increased the modulus, strength and strain of the resulting composites. The addition of fibrils led to an overall increase in strain energy density or modulus of toughness by almost 184 times for the composites compared to the neat epoxy. The addition of CNFs did not affect the high thermal stability of epoxy. The presence of nanofibrils had a strong reinforcing effect in both glassy and glass transition region of the composites. A significant decrease in intensity in tan δ peak for the epoxy matrix occurred with the addition of CNFs, indicating a high interaction between fibrils and epoxy during the phase transition. The presence of highly crystalline and high aspect ratio CNFs (23 wt %) decreased the water vapour permeability of the neat epoxy resin by more than 50%."
+  ],
+  "affiliation": [
+    "Faculty of Forestry, University of Toronto, 33 Willcocks Street, Toronto, ON M5S 3B3, Canada. sandeep.sudhakarannair@utoronto.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cellulose Nanofibrils",
+        "Biobased Epoxy",
+        "Composite Toughness"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523465?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523465"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/polym11040612"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-10"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-03"
+  ],
+  "firstPublicationDate": [
+    "2019-04-03"
+  ]
+}

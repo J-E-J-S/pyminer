@@ -1,0 +1,338 @@
+{
+  "id": [
+    "31391037"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31391037"
+  ],
+  "pmcid": [
+    "PMC6686563"
+  ],
+  "doi": [
+    "10.1186/s12920-019-0566-8"
+  ],
+  "title": [
+    "Discovery of stroke-related blood biomarkers from gene expression network models."
+  ],
+  "authorString": [
+    "Theofilatos K, Korfiati A, Mavroudi S, Cowperthwaite MC, Shpak M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Theofilatos K"
+          ],
+          "firstName": [
+            "Konstantinos"
+          ],
+          "lastName": [
+            "Theofilatos"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "InSyBio: Intelligent Systems Biology, Austin, TX, USA. k.theofilatos@insybio.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Korfiati A"
+          ],
+          "firstName": [
+            "Aigli"
+          ],
+          "lastName": [
+            "Korfiati"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "InSyBio: Intelligent Systems Biology, Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mavroudi S"
+          ],
+          "firstName": [
+            "Seferina"
+          ],
+          "lastName": [
+            "Mavroudi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "InSyBio: Intelligent Systems Biology, Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cowperthwaite MC"
+          ],
+          "firstName": [
+            "Matthew C"
+          ],
+          "lastName": [
+            "Cowperthwaite"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "St. David's Medical Center, Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shpak M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Shpak"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Systems and Synthetic Biology, University of Texas at Austin, Austin, TX, USA. shpak.max@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2844602"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "118"
+  ],
+  "abstractText": [
+    "BACKGROUND:Identifying molecular biomarkers characteristic of ischemic stroke has the potential to aid in distinguishing stroke cases from stroke mimicking symptoms, as well as advancing the understanding of the physiological changes that underlie the body's response to stroke. This study uses machine learning-based analysis of gene co-expression to identify transcription patterns characteristic of patients with acute ischemic stroke. METHODS:Mutual information values for the expression levels among 13,243 quantified transcripts were computed for blood samples from 82 stroke patients and 68 controls to construct a co-expression network of genes (separately) for stroke and control samples. Page rank centrality scores were computed for every gene; a gene's significance in the network was assessed according to the differences in their network's pagerank centrality between stroke and control expression patterns. A hybrid genetic algorithm - support vector machine learning tool was used to classify samples based on gene centrality in order to identify an optimal set of predictor genes for stroke while minimizing the number of genes in the model. RESULTS:A predictive model with 89.6% accuracy was identified using 6 network-central and differentially expressed genes (ID3, MBTPS1, NOG, SFXN2, BMX, SLC22A1), characterized by large differences in association network connectivity between stroke and control samples. In contrast, classification models based solely on individual genes identified by significant fold-changes in expression level provided lower predictive accuracies: < 71% for any single gene, and even models with larger (10-25) numbers of gene transcript biomarkers gave lower predictive accuracies (≤ 82%) than the 6 network-based gene signature classification. miRNA:mRNA target prediction computational analysis revealed 8 differentially expressed micro-RNAs (miRNAs) that are significantly associated with at least 2 of the 6 network-central genes. CONCLUSIONS:Network-based models have the potential to identify a more statistically robust pattern of gene expression typical of acute ischemic stroke and to generate hypotheses about possible interactions among functionally relevant genes, leading to the identification of more informative biomarkers."
+  ],
+  "affiliation": [
+    "InSyBio: Intelligent Systems Biology, Austin, TX, USA. k.theofilatos@insybio.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene networks",
+        "Biomarkers",
+        "Stroke",
+        "Gene Expression"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-019-0566-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6686563"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6686563?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-09"
+  ],
+  "firstIndexDate": [
+    "2019-08-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-14"
+  ],
+  "dateOfRevision": [
+    "2019-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-07"
+  ],
+  "firstPublicationDate": [
+    "2019-08-07"
+  ]
+}

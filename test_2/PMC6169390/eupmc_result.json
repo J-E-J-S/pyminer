@@ -1,0 +1,648 @@
+{
+  "id": [
+    "30097473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30097473"
+  ],
+  "pmcid": [
+    "PMC6169390"
+  ],
+  "doi": [
+    "10.1534/g3.118.200461"
+  ],
+  "title": [
+    "Double Selection Enhances the Efficiency of Target-AID and Cas9-Based Genome Editing in Yeast."
+  ],
+  "authorString": [
+    "Després PC, Dubé AK, Nielly-Thibault L, Yachie N, Landry CR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Després PC"
+          ],
+          "firstName": [
+            "Philippe C"
+          ],
+          "lastName": [
+            "Després"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1407-0643",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Département de Biochimie, Microbiologie et Bio-informatique, Faculté de sciences et genie, Université Laval, Québec, Québec, G1V 0A6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubé AK"
+          ],
+          "firstName": [
+            "Alexandre K"
+          ],
+          "lastName": [
+            "Dubé"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Département de Biochimie, Microbiologie et Bio-informatique, Faculté de sciences et genie, Université Laval, Québec, Québec, G1V 0A6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielly-Thibault L"
+          ],
+          "firstName": [
+            "Lou"
+          ],
+          "lastName": [
+            "Nielly-Thibault"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3236-651X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "PROTEO, The Québec Research Network on Protein Function, Structure and Engineering, Université Laval, Québec, Québec, G1V 0A6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Yachie N"
+          ],
+          "firstName": [
+            "Nozomu"
+          ],
+          "lastName": [
+            "Yachie"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1582-6027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Center for Advanced Science and Technology, Synthetic Biology Division, University of Tokyo, Tokyo, 4-6-1 Komaba, Meguro-ku, 153-8904, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Landry CR"
+          ],
+          "firstName": [
+            "Christian R"
+          ],
+          "lastName": [
+            "Landry"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3028-6866",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Département de Biochimie, Microbiologie et Bio-informatique, Faculté de sciences et genie, Université Laval, Québec, Québec, G1V 0A6, Canada christian.landry@bio.ulaval.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1407-0643",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3028-6866",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3236-651X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1582-6027",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2734068"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "G3 (Bethesda, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "medlineAbbreviation": [
+            "G3 (Bethesda)"
+          ],
+          "NLMid": [
+            "101566598"
+          ],
+          "ISSN": [
+            "2160-1836"
+          ],
+          "ESSN": [
+            "2160-1836"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3163-3171"
+  ],
+  "abstractText": [
+    "CRISPR-Cas9 loss of function (LOF) and base editing screens are powerful tools in genetics and genomics. Yeast is one of the main models in these fields, but has only recently started to adopt this new toolkit for high throughput experiments. We developed a double selection strategy based on co-selection that increases LOF mutation rates using the Target-AID base editor. We constructed the pDYSCKO vector, which is amenable to high throughput double selection experiments, and show that the improvement in Target-AID efficiency generalizes across loci. Using modeling, we show that this improvement in efficiency provides the required increased in detection power to measure the fitness effects of thousands of mutations in typical yeast pooled screens. We show that double selection can also improve Cas9 mediated LOF rates, but that this multiplex genome editing causes programmable chromosomal translocations at high frequency. This suggests that multiplex LOF editing should be performed with caution and that base-editors could be preferable tools for some screens in yeast. Base editing using double selection is simple and straightforward and provides an alternative to homology directed repair based high throughput variant strain construction methods."
+  ],
+  "affiliation": [
+    "Département de Biochimie, Microbiologie et Bio-informatique, Faculté de sciences et genie, Université Laval, Québec, Québec, G1V 0A6, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "299432"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "324265 "
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "387697 "
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "384483 "
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "364920"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Yeasts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Targeting"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Order"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Loci"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Crispr-cas9",
+        "Loss Of Function Screens",
+        "Chromosomal Fusions",
+        "Target-aid Base Editing",
+        "Yeast Genome Editing"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1534/g3.118.200461"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6169390"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6169390?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR18294"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-18"
+  ],
+  "dateOfCreation": [
+    "2018-08-12"
+  ],
+  "firstIndexDate": [
+    "2018-08-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-03"
+  ],
+  "firstPublicationDate": [
+    "2018-10-03"
+  ]
+}

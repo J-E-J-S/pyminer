@@ -1,0 +1,478 @@
+{
+  "id": [
+    "28693474"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28693474"
+  ],
+  "pmcid": [
+    "PMC5502489"
+  ],
+  "doi": [
+    "10.1186/s12864-017-3918-9"
+  ],
+  "title": [
+    "Assembling metagenomes, one community at a time."
+  ],
+  "authorString": [
+    "van der Walt AJ, van Goethem MW, Ramond JB, Makhalanyane TP, Reva O, Cowan DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van der Walt AJ"
+          ],
+          "firstName": [
+            "Andries Johannes"
+          ],
+          "lastName": [
+            "van der Walt"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "van Goethem MW"
+          ],
+          "firstName": [
+            "Marc Warwick"
+          ],
+          "lastName": [
+            "van Goethem"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramond JB"
+          ],
+          "firstName": [
+            "Jean-Baptiste"
+          ],
+          "lastName": [
+            "Ramond"
+          ],
+          "initials": [
+            "JB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4790-6232",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Makhalanyane TP"
+          ],
+          "firstName": [
+            "Thulani Peter"
+          ],
+          "lastName": [
+            "Makhalanyane"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8173-1678",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Reva O"
+          ],
+          "firstName": [
+            "Oleg"
+          ],
+          "lastName": [
+            "Reva"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Centre for Bioinformatics and Computational Biology, Department of Biochemistry, University of Pretoria, Pretoria, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Cowan DA"
+          ],
+          "firstName": [
+            "Don Arthur"
+          ],
+          "lastName": [
+            "Cowan"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa. don.cowan@up.ac.za."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8173-1678",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4790-6232",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2572181"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "521"
+  ],
+  "abstractText": [
+    "Metagenomics allows unprecedented access to uncultured environmental microorganisms. The analysis of metagenomic sequences facilitates gene prediction and annotation, and enables the assembly of draft genomes, including uncultured members of a community. However, while several platforms have been developed for this critical step, there is currently no clear framework for the assembly of metagenomic sequence data.To assist with selection of an appropriate metagenome assembler we evaluated the capabilities of nine prominent assembly tools on nine publicly-available environmental metagenomes, as well as three simulated datasets. Overall, we found that SPAdes provided the largest contigs and highest N50 values across 6 of the 9 environmental datasets, followed by MEGAHIT and metaSPAdes. MEGAHIT emerged as a computationally inexpensive alternative to SPAdes, assembling the most complex dataset using less than 500 GB of RAM and within 10 hours.We found that assembler choice ultimately depends on the scientific question, the available resources and the bioinformatic competence of the researcher. We provide a concise workflow for the selection of the best assembly tool."
+  ],
+  "affiliation": [
+    "Centre for Microbial Ecology and Genomics (CMEG), Department of Genetics, University of Pretoria, Natural Sciences Building 2, Lynnwood Road, Pretoria, 0028, South Africa."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benchmarking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metagenomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioinformatics",
+        "Microbial ecology",
+        "Assembler",
+        "Metagenome Assembly",
+        "Ilumina Hiseq"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-017-3918-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5502489"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5502489?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR26596"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-03-06"
+  ],
+  "dateOfCreation": [
+    "2017-07-12"
+  ],
+  "firstIndexDate": [
+    "2017-07-12"
+  ],
+  "fullTextReceivedDate": [
+    "2017-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-03-20"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-10"
+  ],
+  "firstPublicationDate": [
+    "2017-07-10"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": [
+    "31640753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31640753"
+  ],
+  "pmcid": [
+    "PMC6805649"
+  ],
+  "doi": [
+    "10.1186/s13073-019-0680-4"
+  ],
+  "title": [
+    "Mapping genetic interactions in cancer: a road to rational combination therapies."
+  ],
+  "authorString": [
+    "Tutuncuoglu B, Krogan NJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tutuncuoglu B"
+          ],
+          "firstName": [
+            "Beril"
+          ],
+          "lastName": [
+            "Tutuncuoglu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, 16th Street, Mission Bay Campus, San Francisco, CA, 94158-2140, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krogan NJ"
+          ],
+          "firstName": [
+            "Nevan J"
+          ],
+          "lastName": [
+            "Krogan"
+          ],
+          "initials": [
+            "NJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4902-337X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, 16th Street, Mission Bay Campus, San Francisco, CA, 94158-2140, USA. nevan.krogan@ucsf.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4902-337X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2869951"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome medicine"
+          ],
+          "ISOAbbreviation": [
+            "Genome Med"
+          ],
+          "medlineAbbreviation": [
+            "Genome Med"
+          ],
+          "NLMid": [
+            "101475844"
+          ],
+          "ISSN": [
+            "1756-994X"
+          ],
+          "ESSN": [
+            "1756-994X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "62"
+  ],
+  "abstractText": [
+    "The discovery of synthetic lethal interactions between poly (ADP-ribose) polymerase (PARP) inhibitors and BRCA genes, which are involved in homologous recombination, led to the approval of PARP inhibition as a monotherapy for patients with BRCA1/2-mutated breast or ovarian cancer. Studies following the initial observation of synthetic lethality demonstrated that the reach of PARP inhibitors is well beyond just BRCA1/2 mutants. Insights into the mechanisms of action of anticancer drugs are fundamental for the development of targeted monotherapies or rational combination treatments that will synergize to promote cancer cell death and overcome mechanisms of resistance. The development of targeted therapeutic agents is premised on mapping the physical and functional dependencies of mutated genes in cancer. An important part of this effort is the systematic screening of genetic interactions in a variety of cancer types. Until recently, genetic-interaction screens have relied either on the pairwise perturbations of two genes or on the perturbation of genes of interest combined with inhibition by commonly used anticancer drugs. Here, we summarize recent advances in mapping genetic interactions using targeted, genome-wide, and high-throughput genetic screens, and we discuss the therapeutic insights obtained through such screens. We further focus on factors that should be considered in order to develop a robust analysis pipeline. Finally, we discuss the integration of functional interaction data with orthogonal methods and suggest that such approaches will increase the reach of genetic-interaction screens for the development of rational combination therapies."
+  ],
+  "affiliation": [
+    "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, 16th Street, Mission Bay Campus, San Francisco, CA, 94158-2140, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F32 CA-0135551"
+          ],
+          "agency": [
+            "National Cancer Institute (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "F32 CA239336"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA209891"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13073-019-0680-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805649"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805649?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-24"
+  ],
+  "firstIndexDate": [
+    "2019-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2019-10-22"
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": [
+    "31321235"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31321235"
+  ],
+  "pmcid": [
+    "PMC6607711"
+  ],
+  "doi": [
+    "10.1155/2019/4824909"
+  ],
+  "title": [
+    "Common Core Bacterial Biomarkers of Bladder Cancer Based on Multiple Datasets."
+  ],
+  "authorString": [
+    "Mai G, Chen L, Li R, Liu Q, Zhang H, Ma Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mai G"
+          ],
+          "firstName": [
+            "Guoqin"
+          ],
+          "lastName": [
+            "Mai"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1463-7152",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Limei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Ran"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Haoran"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yingfei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2563-5390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1463-7152",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2563-5390",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777678"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4824909"
+  ],
+  "abstractText": [
+    "Recent studies have shown that microorganisms may be associated with the onset and development of bladder cancer. The purpose of this study is to identify the common core bacteria associated with bladder cancer. We characterized the urinary microbial profile of the individuals with bladder cancer by 16S rRNA gene sequencing, and the results of 24 bladder cancer samples collected in our laboratory reveal 31 common core bacteria at genera level. In addition, the abundance of four common core bacteria is significantly higher in bladder cancer samples than in samples from nondiseased people analyzed by LEfSe, based on two previous datasets. In particular, the abundance of Acinetobacter is much higher in bladder cancer samples. It has been reported that Acinetobacter is involved not only in biofilm formation but also in the adhesion and invasion of epithelial cells, the spread of bacteria caused by the degradation of phospholipids in the mucosal barrier, and the escape of the host immune response. Thus, Acinetobacter may be related to bladder cancer and is a potential microbial marker of bladder cancer. However, due to the limited number of participants, further studies are needed to better understand the role of microorganisms in bladder cancer to provide novel biomarkers for diagnosis, prognosis, and therapy."
+  ],
+  "affiliation": [
+    "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6607711?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6607711"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/4824909"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-20"
+  ],
+  "firstIndexDate": [
+    "2019-07-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-19"
+  ],
+  "firstPublicationDate": [
+    "2019-06-19"
+  ]
+}

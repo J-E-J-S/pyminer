@@ -1,0 +1,348 @@
+{
+  "id": [
+    "31774811"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31774811"
+  ],
+  "pmcid": [
+    "PMC6880984"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008404"
+  ],
+  "title": [
+    "Eukaryote hybrid genomes."
+  ],
+  "authorString": [
+    "Runemark A, Vallejo-Marin M, Meier JI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Runemark A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Runemark"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8976-5530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Lund University, Lund, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Vallejo-Marin M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Vallejo-Marin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5663-8025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biological and Environmental Sciences, University of Stirling, Stirling, Scotland, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Meier JI"
+          ],
+          "firstName": [
+            "Joana I"
+          ],
+          "lastName": [
+            "Meier"
+          ],
+          "initials": [
+            "JI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7726-2875",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "St John's College, Cambridge, Cambridge, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5663-8025",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7726-2875",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8976-5530",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2876047"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008404"
+  ],
+  "abstractText": [
+    "Interspecific hybridization is the process where closely related species mate and produce offspring with admixed genomes. The genomic revolution has shown that hybridization is common, and that it may represent an important source of novel variation. Although most interspecific hybrids are sterile or less fit than their parents, some may survive and reproduce, enabling the transfer of adaptive variants across the species boundary, and even result in the formation of novel evolutionary lineages. There are two main variants of hybrid species genomes: allopolyploid, which have one full chromosome set from each parent species, and homoploid, which are a mosaic of the parent species genomes with no increase in chromosome number. The establishment of hybrid species requires the development of reproductive isolation against parental species. Allopolyploid species often have strong intrinsic reproductive barriers due to differences in chromosome number, and homoploid hybrids can become reproductively isolated from the parent species through assortment of genetic incompatibilities. However, both types of hybrids can become further reproductively isolated, gaining extrinsic isolation barriers, by exploiting novel ecological niches, relative to their parents. Hybrids represent the merging of divergent genomes and thus face problems arising from incompatible combinations of genes. Thus hybrid genomes are highly dynamic and undergo rapid evolutionary change, including genome stabilization in which selection against incompatible combinations results in fixation of compatible ancestry block combinations within the hybrid species. The potential for rapid adaptation or speciation makes hybrid genomes a particularly exciting subject of in evolutionary biology. Here we summarize how introgressed alleles or hybrid species can establish and how the resulting hybrid genomes evolve."
+  ],
+  "affiliation": [
+    "Department of Biology, Lund University, Lund, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008404"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6880984"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6880984?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-11"
+  ],
+  "dateOfRevision": [
+    "2019-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-27"
+  ],
+  "firstPublicationDate": [
+    "2019-11-27"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": [
+    "31366153"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31366153"
+  ],
+  "pmcid": [
+    "PMC6721553"
+  ],
+  "doi": [
+    "10.3390/cells8080796"
+  ],
+  "title": [
+    "How to Choose the Right Inducible Gene Expression System for Mammalian Studies?"
+  ],
+  "authorString": [
+    "Kallunki T, Barisic M, Jäättelä M, Liu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kallunki T"
+          ],
+          "firstName": [
+            "Tuula"
+          ],
+          "lastName": [
+            "Kallunki"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8571-383X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cell Death and Metabolism, Center for Autophagy, Recycling and Disease, Danish Cancer Society Research Center, 2100 Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Barisic M"
+          ],
+          "firstName": [
+            "Marin"
+          ],
+          "lastName": [
+            "Barisic"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7587-3867",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cell Division and Cytoskeleton, Danish Cancer Society Research Center, 2100 Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Jäättelä M"
+          ],
+          "firstName": [
+            "Marja"
+          ],
+          "lastName": [
+            "Jäättelä"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Cell Death and Metabolism, Center for Autophagy, Recycling and Disease, Danish Cancer Society Research Center, 2100 Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Cell Death and Metabolism, Center for Autophagy, Recycling and Disease, Danish Cancer Society Research Center, 2100 Copenhagen, Denmark. liu@cancer.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7587-3867",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8571-383X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2841684"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Inducible gene expression systems are favored over stable expression systems in a wide variety of basic and applied research areas, including functional genomics, gene therapy, tissue engineering, biopharmaceutical protein production and drug discovery. This is because they are mostly reversible and thus more flexible to use. Furthermore, compared to constitutive expression, they generally exhibit a higher efficiency and have fewer side effects, such as cell death and delayed growth or development. Empowered by decades of development of inducible gene expression systems, researchers can now efficiently activate or suppress any gene, temporarily and quantitively at will, depending on experimental requirements and designs. Here, we review a number of most commonly used mammalian inducible expression systems and provide basic standards and criteria for the selection of the most suitable one."
+  ],
+  "affiliation": [
+    "Cell Death and Metabolism, Center for Autophagy, Recycling and Disease, Danish Cancer Society Research Center, 2100 Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R215-2015-4081"
+          ],
+          "agency": [
+            "Lundbeck Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cumate 2",
+        "Light-switchable 3",
+        "Tamoxifen 4",
+        "Tetracycline 1"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells8080796"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6721553"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6721553?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-02"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-12-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-30"
+  ],
+  "firstPublicationDate": [
+    "2019-07-30"
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": [
+    "PMC6343059"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6343059"
+  ],
+  "doi": [
+    "10.1002/advs.201970008"
+  ],
+  "title": [
+    "Breast Cancer Diagnosis: Cascade Reaction in Human Live Tissue Allows Clinically Applicable Diagnosis of Breast Cancer Morphology (Adv. Sci. 2/2019)."
+  ],
+  "authorString": [
+    "Tanei T, Pradipta AR, Morimoto K, Fujii M, Arata M, Ito A, Yoshida M, Saigitbatalova E, Kurbangalieva A, Ikeda J, Morii E, Noguchi S, Tanaka K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tanei T"
+          ],
+          "firstName": [
+            "Tomonori"
+          ],
+          "lastName": [
+            "Tanei"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Osaka University2‐2‐E10 Yamadaoka Suita Osaka 565‐0871 2‐1 Hirosawa Wako Saitama 351‐0198 3‐8‐1 Kasugaoka Fujiidera Osaka 583‐8558 2‐1 Hirosawa Wako Saitama 351‐0198 1432‐1 Horinouchi Hachioji Tokyo 192‐0392 18 Kremlyovskaya Street Kazan 420008 2‐2 Yamadaoka Suita Osaka 565‐0871 2‐1 Hirosawa Wako Saitama 351‐0198 Japan"
+          ]
+        },
+        {
+          "fullName": [
+            "Pradipta AR"
+          ],
+          "firstName": [
+            "Ambara R."
+          ],
+          "lastName": [
+            "Pradipta"
+          ],
+          "initials": [
+            "AR"
+          ]
+        },
+        {
+          "fullName": [
+            "Morimoto K"
+          ],
+          "firstName": [
+            "Koji"
+          ],
+          "lastName": [
+            "Morimoto"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Fujii M"
+          ],
+          "firstName": [
+            "Motoko"
+          ],
+          "lastName": [
+            "Fujii"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Arata M"
+          ],
+          "firstName": [
+            "Mayumi"
+          ],
+          "lastName": [
+            "Arata"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Ito A"
+          ],
+          "firstName": [
+            "Akihiro"
+          ],
+          "lastName": [
+            "Ito"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida M"
+          ],
+          "firstName": [
+            "Minoru"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Saigitbatalova E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Saigitbatalova"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Kurbangalieva A"
+          ],
+          "firstName": [
+            "Almira"
+          ],
+          "lastName": [
+            "Kurbangalieva"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Ikeda J"
+          ],
+          "firstName": [
+            "Jun‐ichiro"
+          ],
+          "lastName": [
+            "Ikeda"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Morii E"
+          ],
+          "firstName": [
+            "Eiichi"
+          ],
+          "lastName": [
+            "Morii"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Noguchi S"
+          ],
+          "firstName": [
+            "Shinzaburo"
+          ],
+          "lastName": [
+            "Noguchi"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Tanaka K"
+          ],
+          "firstName": [
+            "Katsunori"
+          ],
+          "lastName": [
+            "Tanaka"
+          ],
+          "initials": [
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2775235"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Advanced Science"
+          ],
+          "medlineAbbreviation": [
+            "Advanced science"
+          ],
+          "ISSN": [
+            "2198-3844"
+          ],
+          "ESSN": [
+            "2198-3844"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "In article number 1801479, Shinzaburo Noguchi, Katsunori Tanaka, and co‐workers use a click‐to‐sense probe to detect acrolein, which is universally produced by cancer cells under oxidative stress, within five minutes at room temperature. All cancer types tested are imaged and discriminated through multiple cascade reactions in the living tissue of human patients. This probe can be used to quickly and accurately diagnose cancer morphology during breast‐conserving surgery, by reforming the conventional pathological methods."
+  ],
+  "affiliation": [
+    "Osaka University2‐2‐E10 Yamadaoka Suita Osaka 565‐0871 2‐1 Hirosawa Wako Saitama 351‐0198 3‐8‐1 Kasugaoka Fujiidera Osaka 583‐8558 2‐1 Hirosawa Wako Saitama 351‐0198 1432‐1 Horinouchi Hachioji Tokyo 192‐0392 18 Kremlyovskaya Street Kazan 420008 2‐2 Yamadaoka Suita Osaka 565‐0871 2‐1 Hirosawa Wako Saitama 351‐0198 Japan"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Other"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Breast cancer",
+        "Imaging",
+        "Acrolein",
+        "Breast‐conserving Surgery",
+        "Tamra Phenyl Azide"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6343059/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343059"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-31"
+  ],
+  "firstIndexDate": [
+    "2019-01-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-31"
+  ],
+  "dateOfRevision": [
+    "2019-09-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-22"
+  ],
+  "firstPublicationDate": [
+    "2019-01-22"
+  ]
+}

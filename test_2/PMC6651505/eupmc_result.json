@@ -1,0 +1,390 @@
+{
+  "id": [
+    "31261848"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31261848"
+  ],
+  "pmcid": [
+    "PMC6651505"
+  ],
+  "doi": [
+    "10.3390/ijms20133188"
+  ],
+  "title": [
+    "Lipidomics Conquers a Niche, Consolidates Growth."
+  ],
+  "authorString": [
+    "Touboul D, Ollero M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Touboul D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Touboul"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2751-774X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Chimie des Substances Naturelles, CNRS UPR 2301, Univ. Paris-Sud, Université Paris-Saclay, 8 Avenue de la Terrasse, 91198 Gif-sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ollero M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Ollero"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3590-706X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Mondor de Recherche Biomédicale, INSERM, U955 EQ21, 8, rue du Général Sarrail, 94010 Créteil, France. Mario.ollero@inserm.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3590-706X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2751-774X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2831562"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Sixteen years after the first published article in which the term \"lipidomics\" was stated [...]."
+  ],
+  "affiliation": [
+    "Institut de Chimie des Substances Naturelles, CNRS UPR 2301, Univ. Paris-Sud, Université Paris-Saclay, 8 Avenue de la Terrasse, 91198 Gif-sur-Yvette, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Introductory Journal Article",
+        "Editorial"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Lipid Metabolism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20133188"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651505"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6651505?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-12-03"
+  ],
+  "dateOfCreation": [
+    "2019-07-03"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-12-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-29"
+  ],
+  "firstPublicationDate": [
+    "2019-06-29"
+  ]
+}

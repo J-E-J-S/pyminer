@@ -1,0 +1,546 @@
+{
+  "id": [
+    "30936302"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30936302"
+  ],
+  "pmcid": [
+    "PMC6475421"
+  ],
+  "doi": [
+    "10.1073/pnas.1818259116"
+  ],
+  "title": [
+    "Chemical synthesis rewriting of a bacterial genome to achieve design flexibility and biological functionality."
+  ],
+  "authorString": [
+    "Venetz JE, Del Medico L, Wölfle A, Schächle P, Bucher Y, Appert D, Tschan F, Flores-Tinoco CE, van Kooten M, Guennoun R, Deutsch S, Christen M, Christen B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Venetz JE"
+          ],
+          "firstName": [
+            "Jonathan E"
+          ],
+          "lastName": [
+            "Venetz"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Del Medico L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Del Medico"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8248-5299",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Wölfle A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Wölfle"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schächle P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Schächle"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bucher Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Bucher"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Appert D"
+          ],
+          "firstName": [
+            "Donat"
+          ],
+          "lastName": [
+            "Appert"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Tschan F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Tschan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Flores-Tinoco CE"
+          ],
+          "firstName": [
+            "Carlos E"
+          ],
+          "lastName": [
+            "Flores-Tinoco"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "van Kooten M"
+          ],
+          "firstName": [
+            "Mariëlle"
+          ],
+          "lastName": [
+            "van Kooten"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Guennoun R"
+          ],
+          "firstName": [
+            "Rym"
+          ],
+          "lastName": [
+            "Guennoun"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Deutsch S"
+          ],
+          "firstName": [
+            "Samuel"
+          ],
+          "lastName": [
+            "Deutsch"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Energy Joint Genome Institute, Walnut Creek, CA 94598."
+          ]
+        },
+        {
+          "fullName": [
+            "Christen M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Christen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7724-4562",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland; matthias.christen@imsb.biol.ethz.ch beat.christen@imsb.biol.ethz.ch."
+          ]
+        },
+        {
+          "fullName": [
+            "Christen B"
+          ],
+          "firstName": [
+            "Beat"
+          ],
+          "lastName": [
+            "Christen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9528-3685",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland; matthias.christen@imsb.biol.ethz.ch beat.christen@imsb.biol.ethz.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8248-5299",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9528-3685",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7724-4562",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "16"
+      ],
+      "volume": [
+        "116"
+      ],
+      "journalIssueId": [
+        "2806983"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8070-8079"
+  ],
+  "abstractText": [
+    "Understanding how to program biological functions into artificial DNA sequences remains a key challenge in synthetic genomics. Here, we report the chemical synthesis and testing of Caulobacter ethensis-2.0 (C. eth-2.0), a rewritten bacterial genome composed of the most fundamental functions of a bacterial cell. We rebuilt the essential genome of Caulobacter crescentus through the process of chemical synthesis rewriting and studied the genetic information content at the level of its essential genes. Within the 785,701-bp genome, we used sequence rewriting to reduce the number of encoded genetic features from 6,290 to 799. Overall, we introduced 133,313 base substitutions, resulting in the rewriting of 123,562 codons. We tested the biological functionality of the genome design in C. crescentus by transposon mutagenesis. Our analysis revealed that 432 essential genes of C. eth-2.0, corresponding to 81.5% of the design, are equal in functionality to natural genes. These findings suggest that neither changing mRNA structure nor changing the codon context have significant influence on biological functionality of synthetic genomes. Discovery of 98 genes that lost their function identified essential genes with incorrect annotation, including a limited set of 27 genes where we uncovered noncoding control features embedded within protein-coding sequences. In sum, our results highlight the promise of chemical synthesis rewriting to decode fundamental genome functions and its utility toward the design of improved organisms for industrial purposes and health benefits."
+  ],
+  "affiliation": [
+    "Institute of Molecular Systems Biology, Eidgenössische Technische Hochschule Zürich, CH-8093 Zürich, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "166476"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Caulobacter Crescentus",
+        "De Novo Dna Synthesis",
+        "Genome Rewriting",
+        "Synonymous Recoding",
+        "Chemical Genome Synthesis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475421?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6475421"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1818259116"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-03"
+  ],
+  "firstIndexDate": [
+    "2019-04-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-28"
+  ],
+  "dateOfRevision": [
+    "2019-09-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-01"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

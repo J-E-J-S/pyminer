@@ -1,0 +1,290 @@
+{
+  "id": [
+    "31572328"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31572328"
+  ],
+  "pmcid": [
+    "PMC6753640"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02122"
+  ],
+  "title": [
+    "Comprehensive Analysis of Replication Origins in Saccharomyces cerevisiae Genomes."
+  ],
+  "authorString": [
+    "Wang D, Gao F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Physics, School of Science, Tianjin University, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9563-3841",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, School of Science, Tianjin University, Tianjin, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9563-3841",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2122"
+  ],
+  "abstractText": [
+    "DNA replication initiates from multiple replication origins (ORIs) in eukaryotes. Discovery and characterization of replication origins are essential for a better understanding of the molecular mechanism of DNA replication. In this study, the features of autonomously replicating sequences (ARSs) in Saccharomyces cerevisiae have been comprehensively analyzed as follows. Firstly, we carried out the analysis of the ARSs available in S. cerevisiae S288C. By evaluating the sequence similarity of experimentally established ARSs, we found that 94.32% of ARSs are unique across the whole genome of S. cerevisiae S288C and those with high sequence similarity are prone to locate in subtelomeres. Subsequently, we built a non-redundant dataset with a total of 520 ARSs, which are based on ARSs annotation of S. cerevisiae S288C from SGD and then supplemented with those from OriDB and DeOri databases. We conducted a large-scale comparison of ORIs among the diverse budding yeast strains from a population genomics perspective. We found that 82.7% of ARSs are not only conserved in genomic sequence but also relatively conserved in chromosomal position. The non-conserved ARSs tend to distribute in the subtelomeric regions. We also conducted a pan-genome analysis of ARSs among the S. cerevisiae strains, and a total of 183 core ARSs existing in all yeast strains were determined. We extracted the genes adjacent to replication origins among the 104 yeast strains to examine whether there are differences in their gene functions. The result showed that the genes involved in the initiation of DNA replication, such as orc3, mcm2, mcm4, mcm6, and cdc45, are conservatively located adjacent to the replication origins. Furthermore, we found the genes adjacent to conserved ARSs are significantly enriched in DNA binding, enzyme activity, transportation, and energy, whereas for the genes adjacent to non-conserved ARSs are significantly enriched in response to environmental stress, metabolites biosynthetic process and biosynthesis of antibiotics. In general, we characterized the replication origins from the genome-wide and population genomics perspectives, which would provide new insights into the replication mechanism of S. cerevisiae and facilitate the design of algorithms to identify genome-wide replication origins in yeast."
+  ],
+  "affiliation": [
+    "Department of Physics, School of Science, Tianjin University, Tianjin, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Saccharomyces cerevisiae",
+        "DNA replication",
+        "Replication origin",
+        "Genome-wide Analysis",
+        "Autonomously Replicating Sequence"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02122"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753640"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753640?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-02"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-13"
+  ],
+  "firstPublicationDate": [
+    "2019-09-13"
+  ]
+}

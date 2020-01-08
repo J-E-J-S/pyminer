@@ -1,0 +1,297 @@
+{
+  "id": [
+    "31681188"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681188"
+  ],
+  "pmcid": [
+    "PMC6798054"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02248"
+  ],
+  "title": [
+    "From Cyanobacteria to Human, MAPEG-Type Glutathione-S-Transferases Operate in Cell Tolerance to Heat, Cold, and Lipid Peroxidation."
+  ],
+  "authorString": [
+    "Kammerscheit X, Chauvat F, Cassier-Chauvat C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kammerscheit X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Kammerscheit"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, University of Paris-Sud, Université Paris-Saclay, Gif-sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chauvat F"
+          ],
+          "firstName": [
+            "Franck"
+          ],
+          "lastName": [
+            "Chauvat"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, University of Paris-Sud, Université Paris-Saclay, Gif-sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cassier-Chauvat C"
+          ],
+          "firstName": [
+            "Corinne"
+          ],
+          "lastName": [
+            "Cassier-Chauvat"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, University of Paris-Sud, Université Paris-Saclay, Gif-sur-Yvette, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2248"
+  ],
+  "abstractText": [
+    "The MAPEG2 sub-family of glutathione-S-transferase proteins (GST) has been poorly investigated in vivo, even in prokaryotes such as cyanobacteria the organisms that are regarded as having developed glutathione-dependent enzymes to protect themselves against the reactive oxygen species (ROS) often produced by their powerful photosynthesis. We report the first in vivo analysis of a cyanobacterial MAPEG2-like protein (Sll1147) in the model cyanobacterium Synechocystis PCC 6803. While Sll1147 is dispensable to cell growth in standard photo-autotrophic conditions, it plays an important role in the resistance to heat and cold, and to n-tertbutyl hydroperoxide (n-tBOOH) that induces lipid peroxidation. These findings suggest that Sll1147 could be involved in membrane fluidity, which is critical for photosynthesis. Attesting its sensitivity to these stresses, the Δsll1147 mutant lacking Sll1147 challenged by heat, cold, or n-tBOOH undergoes transient accumulation of peroxidized lipids and then of reduced and oxidized glutathione. These results are welcome because little is known concerning the signaling and/or protection mechanisms used by cyanobacteria to cope with heat and cold, two inevitable environmental stresses that limit their growth, and thus their production of biomass for our food chain and of biotechnologically interesting chemicals. Also interestingly, the decreased resistance to heat, cold and n-tBOOH of the Δsll1147 mutant could be rescued back to normal (wild-type) levels upon the expression of synthetic MAPEG2-encoding human genes adapted to the cyanobacterial codon usage. These synthetic hmGST2 and hmGST3 genes were also able to increase the Escherichia coli tolerance to heat and n-tBOOH. Collectively, these finding indicate that the activity of the MAPEG2 proteins have been conserved, at least in part, during evolution from (cyano)bacteria to human."
+  ],
+  "affiliation": [
+    "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, University of Paris-Sud, Université Paris-Saclay, Gif-sur-Yvette, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Knockout Mutant",
+        "Synechocystis Pcc 6803",
+        "Membrane Stress",
+        "Mgst2",
+        "Mgst3",
+        "Microsomal Glutathione Transferase",
+        "Temperature Stresses",
+        "Heterologous Complementation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02248"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6798054"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6798054?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-27"
+  ],
+  "firstPublicationDate": [
+    "2019-09-27"
+  ]
+}

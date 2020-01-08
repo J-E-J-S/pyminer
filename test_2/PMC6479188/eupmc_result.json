@@ -1,0 +1,355 @@
+{
+  "id": [
+    "31057585"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31057585"
+  ],
+  "pmcid": [
+    "PMC6479188"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.00483"
+  ],
+  "title": [
+    "RNAi-Based Biocontrol of Wheat Nematodes Using Natural Poly-Component Biostimulants."
+  ],
+  "authorString": [
+    "Blyuss KB, Fatehi F, Tsygankova VA, Biliavska LO, Iutynska GO, Yemets AI, Blume YB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blyuss KB"
+          ],
+          "firstName": [
+            "Konstantin B"
+          ],
+          "lastName": [
+            "Blyuss"
+          ],
+          "initials": [
+            "KB"
+          ],
+          "affiliation": [
+            "Department of Mathematics, University of Sussex, Brighton, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Fatehi F"
+          ],
+          "firstName": [
+            "Farzad"
+          ],
+          "lastName": [
+            "Fatehi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Mathematics, University of Sussex, Brighton, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsygankova VA"
+          ],
+          "firstName": [
+            "Victoria A"
+          ],
+          "lastName": [
+            "Tsygankova"
+          ],
+          "initials": [
+            "VA"
+          ],
+          "affiliation": [
+            "Department of Chemistry of Bioactive Nitrogen-Containing Heterocyclic Compounds, Institute of Bioorganic Chemistry and Petrochemistry, National Academy of Sciences of Ukraine, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Biliavska LO"
+          ],
+          "firstName": [
+            "Liudmyla O"
+          ],
+          "lastName": [
+            "Biliavska"
+          ],
+          "initials": [
+            "LO"
+          ],
+          "affiliation": [
+            "Department of General and Soil Microbiology, Zabolotny Institute of Microbiology and Virology, National Academy of Sciences of Ukraine, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Iutynska GO"
+          ],
+          "firstName": [
+            "Galyna O"
+          ],
+          "lastName": [
+            "Iutynska"
+          ],
+          "initials": [
+            "GO"
+          ],
+          "affiliation": [
+            "Department of General and Soil Microbiology, Zabolotny Institute of Microbiology and Virology, National Academy of Sciences of Ukraine, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Yemets AI"
+          ],
+          "firstName": [
+            "Alla I"
+          ],
+          "lastName": [
+            "Yemets"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "affiliation": [
+            "Department of Cell Biology and Biotechnology, Institute of Food Biotechnology and Genomics, National Academy of Sciences of Ukraine, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Blume YB"
+          ],
+          "firstName": [
+            "Yaroslav B"
+          ],
+          "lastName": [
+            "Blume"
+          ],
+          "initials": [
+            "YB"
+          ],
+          "affiliation": [
+            "Department of Genomics and Molecular Biotechnology, Institute of Food Biotechnology and Genomics, National Academy of Sciences of Ukraine, Kyiv, Ukraine."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "483"
+  ],
+  "abstractText": [
+    "With the growing global demands on sustainable food production, one of the biggest challenges to agriculture is associated with crop losses due to parasitic nematodes. While chemical pesticides have been quite successful in crop protection and mitigation of damage from parasites, their potential harm to humans and environment, as well as the emergence of nematode resistance, have necessitated the development of viable alternatives to chemical pesticides. One of the most promising and targeted approaches to biocontrol of parasitic nematodes in crops is that of RNA interference (RNAi). In this study we explore the possibility of using biostimulants obtained from metabolites of soil streptomycetes to protect wheat (Triticum aestivum L.) against the cereal cyst nematode Heterodera avenae by means of inducing RNAi in wheat plants. Theoretical models of uptake of organic compounds by plants, and within-plant RNAi dynamics, have provided us with useful insights regarding the choice of routes for delivery of RNAi-inducing biostimulants into plants. We then conducted in planta experiments with several streptomycete-derived biostimulants, which have demonstrated the efficiency of these biostimulants at improving plant growth and development, as well as in providing resistance against the cereal cyst nematode. Using dot blot hybridization we demonstrate that biostimulants trigger a significant increase of the production in plant cells of si/miRNA complementary with plant and nematode mRNA. Wheat germ cell-free experiments show that these si/miRNAs are indeed very effective at silencing the translation of nematode mRNA having complementary sequences, thus reducing the level of nematode infestation and improving plant resistance to nematodes. Thus, we conclude that natural biostimulants produced from metabolites of soil streptomycetes provide an effective tool for biocontrol of wheat nematode."
+  ],
+  "affiliation": [
+    "Department of Mathematics, University of Sussex, Brighton, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat (Triticum aestivum L.)",
+        "RNA interference",
+        "Cereal Cyst Nematode (Heterodera Avenae)",
+        "Crop Protection Against Nematodes",
+        "Streptomycete-derived Biostimulants"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6479188?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6479188"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.00483"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-07"
+  ],
+  "firstIndexDate": [
+    "2019-05-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-15"
+  ],
+  "dateOfRevision": [
+    "2019-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-17"
+  ],
+  "firstPublicationDate": [
+    "2019-04-17"
+  ]
+}

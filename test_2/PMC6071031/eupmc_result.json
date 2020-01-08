@@ -1,0 +1,335 @@
+{
+  "id": [
+    "29996548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29996548"
+  ],
+  "pmcid": [
+    "PMC6071031"
+  ],
+  "doi": [
+    "10.3390/genes9070348"
+  ],
+  "title": [
+    "The Multiplanetary Future of Plant Synthetic Biology."
+  ],
+  "authorString": [
+    "Llorente B, Williams TC, Goold HD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Llorente B"
+          ],
+          "firstName": [
+            "Briardo"
+          ],
+          "lastName": [
+            "Llorente"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3727-1395",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney NSW 2109, Australia. briardo.llorente@mq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams TC"
+          ],
+          "firstName": [
+            "Thomas C"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0594-3441",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney NSW 2109, Australia. tom.williams@mq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Goold HD"
+          ],
+          "firstName": [
+            "Hugh D"
+          ],
+          "lastName": [
+            "Goold"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2888-3549",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Sciences, Macquarie University, Sydney NSW 2109, Australia. hugh.goold@mq.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2888-3549",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3727-1395",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0594-3441",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2702702"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes"
+          ],
+          "ISOAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "NLMid": [
+            "101551097"
+          ],
+          "ISSN": [
+            "2073-4425"
+          ],
+          "ESSN": [
+            "2073-4425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The interest in human space journeys to distant planets and moons has been re-ignited in recent times and there are ongoing plans for sending the first manned missions to Mars in the near future. In addition to generating oxygen, fixing carbon, and recycling waste and water, plants could play a critical role in producing food and biomass feedstock for the microbial manufacture of materials, chemicals, and medicines in long-term interplanetary outposts. However, because life on Earth evolved under the conditions of the terrestrial biosphere, plants will not perform optimally in different planetary habitats. The construction or transportation of plant growth facilities and the availability of resources, such as sunlight and liquid water, may also be limiting factors, and would thus impose additional challenges to efficient farming in an extraterrestrial destination. Using the framework of the forthcoming human missions to Mars, here we discuss a series of bioengineering endeavors that will enable us to take full advantage of plants in the context of a Martian greenhouse. We also propose a roadmap for research on adapting life to Mars and outline our opinion that synthetic biology efforts towards this goal will contribute to solving some of the main agricultural and industrial challenges here on Earth."
+  ],
+  "affiliation": [
+    "Department of Molecular Sciences, Macquarie University, Sydney NSW 2109, Australia. briardo.llorente@mq.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plants",
+        "Synthetic Biology",
+        "Mars",
+        "Habitability Of Extraterrestrial Environments",
+        "Multiplanetary Life"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/genes9070348"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071031"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6071031?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-13"
+  ],
+  "firstIndexDate": [
+    "2018-07-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-12"
+  ],
+  "dateOfRevision": [
+    "2018-08-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-10"
+  ],
+  "firstPublicationDate": [
+    "2018-07-10"
+  ]
+}

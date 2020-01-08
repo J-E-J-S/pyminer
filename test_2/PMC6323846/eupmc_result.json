@@ -1,0 +1,707 @@
+{
+  "id": [
+    "30621576"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30621576"
+  ],
+  "pmcid": [
+    "PMC6323846"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5375-5"
+  ],
+  "title": [
+    "Comprehensive investigation of the gene expression system regulated by an Aspergillus oryzae transcription factor XlnR using integrated mining of gSELEX-Seq and microarray data."
+  ],
+  "authorString": [
+    "Oka H, Kojima T, Ihara K, Kobayashi T, Nakano H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oka H"
+          ],
+          "firstName": [
+            "Hiroya"
+          ],
+          "lastName": [
+            "Oka"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kojima T"
+          ],
+          "firstName": [
+            "Takaaki"
+          ],
+          "lastName": [
+            "Kojima"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7282-121X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8601, Japan. kojimat@agr.nagoya-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Ihara K"
+          ],
+          "firstName": [
+            "Kunio"
+          ],
+          "lastName": [
+            "Ihara"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Center for Gene Research, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8602, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kobayashi T"
+          ],
+          "firstName": [
+            "Tetsuo"
+          ],
+          "lastName": [
+            "Kobayashi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4008-454X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakano H"
+          ],
+          "firstName": [
+            "Hideo"
+          ],
+          "lastName": [
+            "Nakano"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8601, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7282-121X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4008-454X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2766486"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16"
+  ],
+  "abstractText": [
+    "BACKGROUND:Transcription factors (TFs) specifically bind to DNA sequences and control the expression of target genes. AoXlnR is a key TF involved in the expression of xylanolytic and cellulolytic enzymes in the filamentous fungi, Aspergillus oryzae. Genomic SELEX-Seq (gSELEX-Seq) can reveal the in vitro binding sites of a TF in a genome. To date, the gene expression network controlled by AoXlnR in A. oryzae is not fully explored. In this study, the data from gSELEX-Seq analysis and data mining were applied toward a comprehensive investigation of the AoXlnR-regulated transcriptional network in A. oryzae. RESULTS:Around 2000 promoters were selected as AoXlnR-binding DNAs using gSELEX-Seq, consequently identifying the genes downstream of them. On the other hand, 72 differentially expressed genes (DEGs) related to AoXlnR had been determined by microarray analysis. The intersecting set of genes, that were found using the gSELEX-Seq and the microarray analysis, had 51 genes. Further, the canonical AoXlnR-binding motifs, 5'-GGCT(A/G) A-3', were successfully identified in gSELEX-Seq. The motif numbers in each promoter of the DEGs and differential expression levels were correlated by in silico analysis. The analysis showed that the presence of both 5'-GGCTAA-3' and 5'-GGCTGA-3' motif has significantly high correlation with the differential expression levels of the genes. CONCLUSIONS:Genes regulated directly by AoXlnR were identified by integrated mining of data obtained from gSELEX-Seq and microarray. The data mining of the promoters of differentially expressed genes revealed the close relation between the presence of the AoXlnR-binding motifs and the expression levels of the downstream genes. The knowledge obtained in this study can contribute greatly to the elucidation of AoXlnR-mediated cellulose and xylan metabolic network in A. oryzae. The pipeline, which is based on integrated mining of data consisting of both in vitro characterization of the DNA-binding sites and TF phenotype, can be a robust platform for comprehensive analysis of the gene expression network via the TFs."
+  ],
+  "affiliation": [
+    "Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya, 464-8601, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16K18297"
+          ],
+          "agency": [
+            "Ministry of Education, Culture, Sports, Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aspergillus oryzae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cellulose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Xylans"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trans-Activators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fungal Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microarray Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Fungal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Binding Sites"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "SELEX Aptamer Technique"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolic Networks and Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Promoter Regions, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aspergillus oryzae",
+        "Transcriptome",
+        "Xlnr",
+        "Gselex-seq (Genomic Selex-seq)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "XlnR protein, Aspergillus"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cellulose"
+          ],
+          "registryNumber": [
+            "9004-34-6"
+          ]
+        },
+        {
+          "name": [
+            "Fungal Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Trans-Activators"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Xylans"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323846?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6323846"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5375-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-09"
+  ],
+  "dateOfCreation": [
+    "2019-01-10"
+  ],
+  "firstIndexDate": [
+    "2019-01-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-08"
+  ],
+  "firstPublicationDate": [
+    "2019-01-08"
+  ]
+}

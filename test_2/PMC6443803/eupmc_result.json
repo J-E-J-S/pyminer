@@ -1,0 +1,330 @@
+{
+  "id": [
+    "30931958"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30931958"
+  ],
+  "pmcid": [
+    "PMC6443803"
+  ],
+  "doi": [
+    "10.1038/s41598-019-41699-9"
+  ],
+  "title": [
+    "Prevention of mitochondrial genomic instability in yeast by the mitochondrial recombinase Mhr1."
+  ],
+  "authorString": [
+    "Ling F, Bradshaw E, Yoshida M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ling F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Ling"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6082-0463",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Genomics Research Group, RIKEN Center for Sustainable Resource Science, Hirosawa 2-1, Wako, Saitama, 351-0198, Japan. ling@postman.riken.go.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Bradshaw E"
+          ],
+          "firstName": [
+            "Elliot"
+          ],
+          "lastName": [
+            "Bradshaw"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Chemical Genomics Research Group, RIKEN Center for Sustainable Resource Science, Hirosawa 2-1, Wako, Saitama, 351-0198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida M"
+          ],
+          "firstName": [
+            "Minoru"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4376-5674",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Genomics Research Group, RIKEN Center for Sustainable Resource Science, Hirosawa 2-1, Wako, Saitama, 351-0198, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4376-5674",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6082-0463",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2799475"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5433"
+  ],
+  "abstractText": [
+    "Mitochondrial (mt) DNA encodes factors essential for cellular respiration, therefore its level and integrity are crucial. ABF2 encodes a mitochondrial DNA-binding protein and its null mutation (Δabf2) induces mtDNA instability in Saccharomyces cerevisiae. Mhr1 is a mitochondrial recombinase that mediates the predominant form of mtDNA replication and acts in mtDNA segregation and the repair of mtDNA double-stranded breaks (DSBs). However, the involvement of Mhr1 in prevention of mtDNA deletion mutagenesis is unknown. In this study we used Δabf2 mhr1-1 double-mutant cells, which lose mitochondrial function in media containing fermentable carbon sources, to investigate whether Mhr1 is a suppressor of mtDNA deletion mutagenesis. We used a suppresivity assay and Southern blot analysis to reveal that the Δabf2 mutation causes mtDNA deletions rather than an mtDNA-lacking (ρ0) phenotype, and observed that mtDNA deletions are exacerbated by an additional mhr1-1 mutation. Loss of respiratory function due to mtDNA fragmentation occurred in ∆mhr1 and ∆abf2 mhr1-1 cells. However, exogenous introduction of Mhr1 into Δabf2 mhr1-1 cells significantly rescued respiratory growth, suggesting that Mhr1-driven homologous mtDNA recombination prevents mtDNA instability."
+  ],
+  "affiliation": [
+    "Chemical Genomics Research Group, RIKEN Center for Sustainable Resource Science, Hirosawa 2-1, Wako, Saitama, 351-0198, Japan. ling@postman.riken.go.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "No. 17K07294"
+          ],
+          "agency": [
+            "MEXT | Japan Science and Technology Agency (JST)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6443803?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6443803"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-41699-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-02"
+  ],
+  "firstIndexDate": [
+    "2019-04-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-08"
+  ],
+  "dateOfRevision": [
+    "2019-04-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-01"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

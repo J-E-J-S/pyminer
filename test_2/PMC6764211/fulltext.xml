@@ -1,0 +1,425 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Cent Sci</journal-id><journal-id journal-id-type="iso-abbrev">ACS Cent Sci</journal-id><journal-id journal-id-type="publisher-id">oc</journal-id><journal-id journal-id-type="coden">acscii</journal-id><journal-title-group><journal-title>ACS Central Science</journal-title></journal-title-group><issn pub-type="ppub">2374-7943</issn><issn pub-type="epub">2374-7951</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6764211</article-id><article-id pub-id-type="pmid">31572777</article-id><article-id pub-id-type="doi">10.1021/acscentsci.9b00403</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Characterization of Reactive Organometallic Species via
+MicroED</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Jones</surname><given-names>Christopher G.</given-names></name><xref rid="aff100" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">$</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Asay</surname><given-names>Matthew</given-names></name><xref rid="aff100" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">$</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Kim</surname><given-names>Lee Joon</given-names></name><xref rid="aff100" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Kleinsasser</surname><given-names>Jack F.</given-names></name><xref rid="aff2" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Saha</surname><given-names>Ambarneil</given-names></name><xref rid="aff100" ref-type="aff">&#x02020;</xref><xref rid="aff100" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Fulton</surname><given-names>Tyler J.</given-names></name><xref rid="aff400" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Berkley</surname><given-names>Kevin R.</given-names></name><xref rid="aff2" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Cascio</surname><given-names>Duilio</given-names></name><xref rid="aff100" ref-type="aff">&#x02020;</xref><xref rid="aff100" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Malyutin</surname><given-names>Andrey G.</given-names></name><xref rid="aff400" ref-type="aff">+</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Conley</surname><given-names>Matthew P.</given-names></name><xref rid="aff2" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><name><surname>Stoltz</surname><given-names>Brian M.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff400" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><name><surname>Lavallo</surname><given-names>Vincent</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><name><surname>Rodr&#x000ed;guez</surname><given-names>Jos&#x000e9; A.</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff100" ref-type="aff">&#x02020;</xref><xref rid="aff100" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath14"><name><surname>Nelson</surname><given-names>Hosea M.</given-names></name><xref rid="cor4" ref-type="other">*</xref><xref rid="aff100" ref-type="aff">&#x02020;</xref></contrib><aff id="aff100"><sup>&#x02020;</sup>Department of Chemistry and Biochemistry and
+<sup>&#x02021;</sup>UCLA-DOE Institute for Genomics &#x00026; Proteomics,
+<institution>University of California</institution>, Los Angeles, California 90095,
+<country>United States</country></aff><aff id="aff2"><label>#</label>Department of Chemistry, <institution>University of
+California</institution>, Riverside, California 92521, <country>United
+States</country></aff><aff id="aff400"><sup>&#x000a7;</sup>The Warren and Katharine Schlinger Laboratory for
+Chemistry and Chemical Engineering, Division of Chemistry and Chemical Engineering and
+<sup>+</sup>Beckman Institute, <institution>California Institute of
+Technology</institution>, Pasadena, California 91125, <country>United
+States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>stoltz@caltech.edu</email>.
+(B.M.S.)</corresp><corresp id="cor2"><label>*</label>E-mail: <email>vincent.lavallo@ucr.edu</email>.
+(V.L.)</corresp><corresp id="cor3"><label>*</label>E-mail: <email>jrodriguez@mbi.ucla.edu</email>.
+(J.A.R.)</corresp><corresp id="cor4"><label>*</label>E-mail: <email>hosea@chem.ucla.edu</email>.
+(H.M.N.)</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>09</month><year>2019</year></pub-date><pub-date pub-type="ppub"><day>25</day><month>09</month><year>2019</year></pub-date><volume>5</volume><issue>9</issue><fpage>1507</fpage><lpage>1513</lpage><history><date date-type="received"><day>19</day><month>04</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any
+adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_0005" id="ab-tgr1"/></p><p>Here we apply microcrystal electron diffraction (MicroED) to the structural
+determination of transition-metal complexes. We find that the simultaneous use of 300
+keV electrons, very low electron doses, and an ultrasensitive camera allows for the
+collection of data without cryogenic cooling of the stage. This technique reveals the
+first crystal structures of the classic zirconocene hydride, colloquially known as
+&#x0201c;Schwartz&#x02019;s reagent&#x0201d;, a novel Pd(II) complex not amenable to
+solution-state NMR or X-ray crystallography, and five other paramagnetic and diamagnetic
+transition-metal complexes.</p></abstract><abstract abstract-type="short"><p>Electrons Meet Metals: Microcrystal electron diffraction
+reveals the structures of several transition-metal complexes including
+the elusive Schwartz&#x02019;s complex, a privileged hydrozirconation
+reagent.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>oc9b00403</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>oc9b00403</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>For over a century, crystallography has fueled developments in modern chemistry. Within the
+chemical enterprise, crystallography has played a particularly special role in
+organometallic chemistry. Here, NMR-silent nuclei, paramagnetic spin, diversity of bonding
+and coordination environments, and poor reactivity profiles hinder the application of many
+solution-state characterization techniques. However, the need for carefully prepared single
+crystals with dimensions on the order of 0.1 mm<sup>3</sup> can also limit the application
+of X-ray crystallography. Moreover, neutron diffraction can be limited by the requirement of
+even larger crystals (&#x0223c;0.5 mm<sup>3</sup>) and incompatibility with boron-containing
+compounds, as a result of destructive nuclear reactions.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Electron
+diffraction, as opposed to X-ray diffraction, offers several benefits, primarily the ability
+to circumvent the need for such large crystals for successful structural analysis of
+molecular compounds. Since earlier work by Kolb et al.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> and Mugnaioli et
+al.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> to adapt 3D electron diffraction techniques for structural
+analysis, several studies using a variety of electron diffraction techniques have been
+employed to structurally characterize inorganic and organic&#x02013;inorganic hybrid
+materials such as metal organic frameworks.<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> Although these
+studies demonstrate the power of such techniques, we aim to adapt this method as a routine
+structural characterization tool for inorganic and organometallic chemists who often rely on
+traditional X-ray analysis as their primary means of characterization for highly reactive
+and unstable compounds. Here we employ the electron diffraction technique MicroED under
+ambient temperature using a 300 keV TEM to structurally characterize several organometallic
+compounds, reactive intermediates, and transition-metal coordination complexes, which are of
+interest to the practicing chemist and are often employed as catalytic reagents for a
+variety of important synthetic transformations. Despite there being several different
+methods for the collection of electron diffraction data, we found that the
+continuous-rotation technique used for MicroED is readily implemented on currently available
+instruments, and data obtained from this method is easily processed using standard, freely
+available, crystallographic software.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> The MicroED method itself, which
+has typically been employed for large macromolecular structure analysis, is often performed
+under cryogenic conditions to preserve the hydration state of such biomolecules. However,
+prior studies have shown that by leveraging sensitive detectors, it is possible to use low
+electron doses to collect diffraction for small molecule structure determination under
+ambient temperatures, even for compounds that are particularly beam
+sensitive.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> Using ambient temperature MicroED, we successfully resolve
+the first crystal structure of the privileged hydrozirconation reagent
+chloridobis(&#x003b7;<sup>5</sup>-cyclopentadienyl)hydridozirconium, colloquially known as
+Schwartz&#x02019;s reagent, which was obtained from bulk powder utilized as purchased and
+determined by direct methods. We also report an ab initio structure of a Pd(II)
+1,2-dipallidated alkyl species, obtained as a precipitant from the reaction mixture of
+ethylene with a pseudo-low-coordinate Pd(I) dimer. As a demonstration of the broad
+applicability of MicroED, we also determine the structures of five other transition-metal
+complexes.</p></sec><sec id="sec2"><title>Results and Discussion</title><p>Having recently reported the application of the CryoEM method MicroED to determine
+structures of several complex organic molecules,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> we now evaluated the
+facility with which MicroED could interrogate complex organometallic species. We were
+particularly interested in chemical entities that failed to yield structures by conventional
+structural elucidation methods&#x02014;crystallography or solution-state characterization. We
+first interrogated the structure of
+chloridobis(&#x003b7;<sup>5</sup>-cyclopentadienyl)hydridozirconium <bold>1</bold> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A),<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> a well-known
+industrial catalyst colloquially referred to as Schwartz&#x02019;s reagent. Schwartz&#x02019;s
+reagent sees widespread use in modern organic synthesis and is useful for a number of unique
+transformations mediated via hydrozirconation intermediates.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> However, despite its synthetic relevance and the countervailing fact
+that half a century has transpired since Wailes and Weigold first discovered this
+species,<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> no
+single crystal structure of this canonical zirconocene complex has been obtained. This gap
+in crystallographic data has been attributed to the low solubility of the complex in
+hydrocarbon and ethereal solvents and its reactivity with polar chlorinated solvents,<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> precluding its crystallization and hindering NMR studies. As such, the
+currently accepted structure of Schwartz&#x02019;s reagent, a centrosymmetric dimer doubly
+linked by two bridging hydride ligands, represents a reconstruction from a combination of
+FTIR spectroscopy,<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup>
+solid-state <sup>35</sup>Cl NMR studies,<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and X-ray diffraction of
+related complexes.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> To confirm this inferred structure, we subjected
+commercially acquired Schwartz&#x02019;s reagent to ambient temperature MicroED.
+Continuous-rotation data was collected from three crystals (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_002.mp4">Movie S1</ext-link>) at ambient temperature (ca. 23 &#x000b0;C), using a low-flux 300 keV
+electron beam (e.g., below 0.01 e<sup>&#x02013;</sup>/&#x000c5;<sup>2</sup> per second) and a
+TVIPS XF-416 camera in rolling shutter mode (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). The resulting diffraction was reduced and merged to obtain a
+high-completeness (90.6%) data set resolved at 1.15 &#x000c5;. The room temperature
+Schwartz&#x02019;s structure was then determined ab initio by direct methods and refined to
+reveal the expected centrosymmetric dimer. Importantly, refinement proceeded smoothly and
+required no ex post facto corrections, calculations, or molecular replacement
+procedures.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> The structure with riding hydrogens on the
+cyclopentadienyl ligands refined with anisotropic displacement parameters to an
+<italic>R</italic><sub>1</sub> value of 14.9%. Critically, we had already observed
+suggestive regions of electron density consistent with bridging hydrides in the initial
+difference Fourier map (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). To trace this
+more explicitly, we tracked peaks in the screened Coulomb potential within the unit cell,
+representing atomic locations. A sampling of consecutive two-dimensional slices in real
+space along the <italic>a</italic>-axis at the central mirror plane, which runs orthogonal
+to the cyclopentadienyl rings but bisects the zirconium, chlorine, and hydrogen atoms (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_003.mp4">Movie S2</ext-link>) shows two hydrides emerging from the void space of the noise floor,
+thus corroborating the hydride positions observed during structural refinement (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>D).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Proposed structure of Schwartz&#x02019;s reagent and the refined structure with
+potential map overlay (<italic>R</italic><sub>1</sub> = 14.9%, GooF = 2.254,
+completeness = 90.6%, resolution = 1.15 &#x000c5;). (B) Prerefinement difference Fourier
+map generated using default X-ray scattering factors. Isolated green lobes indicate
+diagnostic regions of electron density geometrically consistent with doubly bridging
+hydrides. (C) Unit cell of the refined crystal structure generated by applying electron
+scattering parameters, viewed at a slight tilt along the a-axis. Highlighted slice in
+dark blue corresponds to the (0 0 2) Bragg plane. (D) Contour map of the central mirror
+plane depicted in (C) with the screened Coulomb potential of hydrides clearly
+visible.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_0001" id="gr1" position="float"/></fig><p>Concurrent to our study of the application of MicroED to organometallic species, we sought
+to apply this powerful technique to active research problems in our groups including the
+reactivity of dimeric Pd(I) complexes. Dimeric palladium(I) species featuring Pd&#x02013;Pd
+bonds have been previously reported to react with a variety of small molecules to give
+homolytic cleavage<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> or insertion products.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Pd(I)
+dimer <bold>2</bold> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>), synthesized by
+thermolysis or UV irradiation of the methyl palladium phosphine precursor,<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> was fully characterized by single crystal XRD (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B) and multinuclear NMR (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">Supporting Information</ext-link>). To study the reactivity of this species
+(<bold>2</bold>), a THF solution was treated with ethylene gas, which interestingly led to
+a dramatic color change and precipitation of a yellow solid (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A). Efforts to characterize this solid, however, were frustrated by
+the lack of solubility and fragile nature of the putative ethylene adduct, as treatment of
+the precipitant with a variety of crystallization and/or NMR solvents led to rapid gas
+release and reformation of starting material <bold>2</bold>. Typically, such physical
+properties of a reactive intermediate would preclude definitive structural characterization.
+The yellow precipitate was instead taken directly from the reaction mix and deposited on an
+EM grid for characterization by MicroED. Remarkably, under high magnification, the
+apparently amorphous solid proved to have nanocrystalline domains that yielded the electron
+diffraction patterns shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">Figure S2</ext-link>. Diffraction movies were reduced to yield a high-completeness data
+set that produced an ab initio solution, which during refinement led to the definitive
+structural assignment of the species as the unexpected oxidative insertion product
+<bold>3</bold>. Such ethylene insertion products have been reported but remain
+rare.<sup><xref ref-type="bibr" rid="ref30">30</xref>&#x02212;<xref ref-type="bibr" rid="ref32">32</xref></sup> This structure features
+two Pd(II) phosphine moieties linked by the reduced ethylene linker (<xref rid="fig2" ref-type="fig">Figure
+<xref rid="fig2" ref-type="fig">2</xref></xref>C, D). The extended linker precludes ipso-&#x003c0;-arene
+interactions of the phosphines, and therefore, one equivalent of THF completes the
+coordination sphere of each palladium center. The solid-state <sup>13</sup>C{<sup>1</sup>H}
+cross-polarization magic angle spinning (CPMAS) NMR spectrum of <bold>3</bold> contains a
+signal at 37 ppm assigned to the reduced ethylene fragment (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">Figure S16</ext-link>). The <sup>11</sup>B{<sup>1</sup>H} and
+<sup>31</sup>P{<sup>1</sup>H} CPMAS NMR spectroscopy (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">Figures S17 and S18</ext-link>) are also consistent with the structure of <bold>3</bold>
+obtained from microED measurements. These NMR spectra also demonstrate the homogeneity of
+the sample.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(A) Reaction of Pd(I) dimer <bold>2</bold> to form ethylene insertion product
+<bold>3</bold>. (B) X-ray crystal structure of complex <bold>2</bold>. (C) Ambient
+temperature electron diffraction structure of the ethylene insertion product
+<bold>3</bold>. (D) Coulomb potential map overlaid on the structure of <bold>3</bold>.
+(The hydrogen atoms and solvents of crystallization omitted for clarity).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_0002" id="gr2" position="float"/></fig><p>To establish the generality of our approach we went on to determine structures of five
+additional commonly used organometallic compounds and transition-metal coordination
+complexes (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>).
+The structures of tris(acetylacetonato)iron(III) [Fe(acac)<sub>3</sub>] (<bold>4</bold>),
+benzylidene-bis(tricyclohexylphosphino)-dichlororuthenium (Grubbs&#x02019; first generation
+catalyst) (<bold>5</bold>), [1,1-bis(diphenylphosphino)ferrocene]dichloronickel(II)
+(<bold>6</bold>),
+Pd(dibenzylideneacetone)((<italic>S</italic>)-4-<italic>tert</italic>-butyl-2-[2-(diphenylphosphino)phenyl]-2-oxazoline)
+(Pd(dba)(PHOX)) (<bold>7</bold>), and carbonyl(hydrido)tris(triphenylphosphane)rhodium(I)
+[HRh(CO)(PPh<sub>3</sub>)<sub>3</sub>] (<bold>8</bold>), (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A), were all determined using direct methods from data collected at
+noncryogenic temperatures. Together, this set of molecular structures demonstrates the
+utility of ambient temperature electron diffraction for the study of transition-metal
+complexes. Bulk powders of these compounds were analyzed by MicroED as described above, and
+data collected from one or more crystals were merged resulting in the assignment of space
+group and unit cell parameters that closely matched published values for XRD structures of
+these compounds, with the exception of compounds <bold>6</bold> and <bold>7</bold>, which
+are new polymorphs.<sup><xref ref-type="bibr" rid="ref33">33</xref><xref ref-type="bibr" rid="ref36">36</xref></sup> For a direct comparison, electron diffraction structures of
+compounds <bold>4</bold>, <bold>5</bold>, and <bold>8</bold> were overlaid with previously
+reported X-ray structures.<sup><xref ref-type="bibr" rid="ref37">37</xref><xref ref-type="bibr" rid="ref39">39</xref></sup> Root-mean-square (RMS)
+values were calculated based on the deviation of atomic position resulting in RMS values of
+0.0514, 0.1311, 0.1733 &#x000c5; and a maximum deviation of 0.1140, 0.2270, and 0.3289 &#x000c5;
+for compounds <bold>4</bold>, <bold>5</bold>, and <bold>8</bold>, respectively (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). On the basis of the overlaid structures, the
+position of the observed hydride in the case of the Rh&#x02013;H complex (<bold>5</bold>) is
+both geometrically and symmetrically consistent with the published X-ray crystallographic
+data with a deviation of 0.164 &#x000c5;.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> Although the published
+structures of these compounds are associated with lower statistical errors in general, our
+ambient temperature MicroED structures were determined from bulk powders (i.e., no formal
+recrystallization) and maintain sufficiently accurate statistical parameters (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C) to unambiguously characterize the
+connectivity of these compounds. These considerations render electron diffraction a powerful
+alternative for structural determination of transition-metal hydride structures.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Structures obtained by ambient temperature MicroED method. (A) Chemical structures and
+Coulomb potential maps of common-use transition-metal complexes. ORTEP diagram of
+Fe(acac)<sub>3</sub> is provided. For ORTEP diagrams of other organometallic
+compounds, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">Figures S1&#x02013;S7</ext-link>. (B) Example of an electron diffraction pattern
+obtained from submicron scale crystals. Grid holes are 1 &#x003bc;m in diameter. (C) Data
+and statistics obtained by ambient temperature MicroED.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Overlay of ambient temperature ED (red) and previously reported X-ray diffraction
+(blue) structures for compounds <bold>4</bold>, <bold>5</bold>, and <bold>8</bold> with
+calculated root-mean-square deviation (&#x000c5;) and maximum deviation (&#x000c5;) of atomic
+coordinates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_0004" id="gr4" position="float"/></fig><p>Several previous studies use electron diffraction data for the determination of hydrogen
+atom positions<sup><xref ref-type="bibr" rid="ref41">41</xref>&#x02212;<xref ref-type="bibr" rid="ref44">44</xref></sup> in metal hydrides, which are capable of exhibiting
+different chemical, electronic, and bonding properties in comparison to typical hydrogen
+atoms, and thus, the current quality of electron diffraction data obtained in this study
+does not allow for their unambiguous placement with high-enough precision to facilitate
+accurate discussion of bond lengths and angles. Although collecting data in
+continuous-rotation mode helps reduce dynamical scattering, residual dynamical scattering
+present in the data limits the accuracy of refinements based on a kinematical scattering
+approximation, and therefore, bond distances derived in this way can potentially be
+chemically inconsistent.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> This problem has been well-analyzed by several
+other groups including Palatinus et al., who have used dynamical refinement on electron
+diffraction data collected in precession mode to help reduce statistical errors in atomic
+placement and bonding.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> It is expected that such statistics
+of hydride localization as well as bond lengths and angles for all atomic constituents will
+improve with subsequent amelioration of microscopes and detectors. Furthermore, improvements
+in refinement software such as Jana, which has previously been used for processing of
+precession data, may now allow the possibility of applying dynamical refinements to
+continuous-rotation data, further reducing statistical error.<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup></p></sec><sec id="sec3"><title>Conclusions</title><p>Ambient temperature electron diffraction is an advantageous step toward the routine
+determination of organometallic species and potentially applicable to a wide array of small
+molecule organometallic and inorganic solids. The ability to routinely solve structures from
+nanocrystalline material and unambiguously determine the position of all atoms, including
+historically challenging hydrides attached to heavy atoms, presents chemists with a potent
+tool for the broad identification and characterization of elusive, but relevant, complexes.
+Armed with this method, we have determined structures of a diverse series of organometallic
+compounds and transition-metal coordination complexes, including those obtained from both
+commercial and laboratory synthesis. Importantly, each of these structures was determined ab
+initio by direct methods and refined using methods common to XRD. Our application of ambient
+temperature MicroED to the structure determination of Schwartz&#x02019;s reagent, obtained
+directly from the commercial seemingly amorphous powder, highlights the power of this new
+approach. Despite the importance of this molecule in synthetic chemistry, no previous
+high-resolution crystal structures have been obtained, as a result of the seemingly
+amorphous nature of the white powder obtained by precipitation during its preparation. Our
+ambient temperature MicroED structure not only confirms the dimeric nature of the reagent
+but more remarkably identifies the likely locations of bridging hydrides that are visible in
+electrostatic potential maps and can be refined freely. This method also allows for the
+determination of an unusual Pd(II) intermediate that was not amenable to structure
+determination by solution-state NMR or single crystal X-ray diffraction. Moreover, neutron
+diffraction would be incompatible with this compound because of destructive boron neutron
+capture nuclear reactions. Importantly, although several protein structures have been
+determined by MicroED using molecular replacement, and structures of small molecules and
+polypeptides of known connectivity have been determined from MicroED data via direct
+methods, the reported Pd(II) complex (<bold>3</bold>) is a rare example of a novel complex
+small molecule identified by MicroED without prior knowledge of the structure or other
+corroborating solution-state spectroscopic methods. Although our data does not facilitate
+extensive discussions of bond lengths or angles because of higher-than-expected statistical
+errors in refinement compared to traditional XRD, the fact that cryogenic temperatures are
+not required to obtain structural information from reactive metal complexes is
+ground-breaking, as many research institutions can make rapid use of readily available TEM
+facilities. Moreover, utilization of a more sensitive and faster detector, with shorter
+dead-time,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> reduces peak overlap between frames as well. Ambient
+temperature measurements also dramatically simplify sample preparation and loading,
+eliminating issues typically associated with cryogenic cooling that often complicate crystal
+screening and data collection (e.g., ice deposition). We envision that microelectron
+diffraction will continue to improve and find new applications in the molecular sciences.
+Efforts directed toward a multitude of new frontiers in small molecule electron diffraction
+are already underway. These efforts are expected to bring new horizons for small molecule
+structure determination over the coming months and years.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acscentsci.9b00403">10.1021/acscentsci.9b00403</ext-link>.<list id="silist" list-type="simple"><list-item><p>Procedures, chemical suppliers, crystallographic data, and
+spectrographic data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>Continuous-rotation MicroED data
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_002.mp4">MP4</ext-link>)</p></list-item><list-item><p>Contour plot for Schwartz&#x02019;s
+reagent (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_003.mp4">MP4</ext-link>)</p></list-item><list-item><p>CCDC 1908168 = Compound 1 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_004.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908169 = Compound 2 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_005.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908170 = Compound 3 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_006.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908171 = Compound 4 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_007.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908172 = Compound 5 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_008.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908173 = Compound 6 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_009.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908174 = Compound 7 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_010.cif">CIF</ext-link>)</p></list-item><list-item><p>CCDC 1908175 = Compound 8 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acscentsci.9b00403/suppl_file/oc9b00403_si_011.cif">CIF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_001.pdf"><caption><p>oc9b00403_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_002.mp4"><caption><p>oc9b00403_si_002.mp4</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_003.mp4"><caption><p>oc9b00403_si_003.mp4</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile4"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_004.cif"><caption><p>oc9b00403_si_004.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile5"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_005.cif"><caption><p>oc9b00403_si_005.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile6"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_006.cif"><caption><p>oc9b00403_si_006.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile7"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_007.cif"><caption><p>oc9b00403_si_007.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile8"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_008.cif"><caption><p>oc9b00403_si_008.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile9"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_009.cif"><caption><p>oc9b00403_si_009.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile10"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_010.cif"><caption><p>oc9b00403_si_010.cif</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile11"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc9b00403_si_011.cif"><caption><p>oc9b00403_si_011.cif</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>$</sup> C.G.J. and M.A. contributed equally. C.G.J. performed experiments, developed the sample
+preparation techniques, processed and refined structural data, prepared figures, and
+assisted with manuscript preparation. M.A. prepared samples, refined structural data, and
+assisted with manuscript and figure preparation. L.J.K. performed experiments, processed
+structural data, prepared figures, and assisted with manuscript preparation. J.F.K. prepared
+isolated and characterized compounds. A.S. processed and refined data, wrote and executed
+MATLAB code, prepared figures, and assisted in manuscript preparation. T.J.F. performed
+experiments and assisted with manuscript preparation. K.R.B. prepared isolated and
+characterized compounds. D.C. assisted in processing and refining structural data and
+provided crystallographic expertise. A.G.M. assisted in data collection. M.P.C. performed
+solid-state NMR experiments. B.M.S. designed experiments and assisted with manuscript
+preparation. V.L. designed experiments and assisted with manuscript preparation. J.A.R.
+performed experiments, developed sample preparation techniques, maintained the microscope,
+analyzed data, and assisted with manuscript preparation. H.M.N. conceived of the project,
+designed experiments, performed experiments, developed the sample preparation techniques,
+and assisted with manuscript and figure preparation.</p></notes><notes notes-type="COI-statement" id="notes4"><p>The authors declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>The authors thank Michael R. Sawaya, Michael K. Takase, Michael J. Collazo, Marcus
+Gallagher-Jones, and Chih-Te Zee (University of California, Los Angeles) for technical
+expertise and inspirational discussions. This material is based upon work supported by the
+National Science Foundation Graduate Research Fellowship (to C.G.J. and A.S.) under Grant
+No. DGE-1650604. This work is funded by STROBE, an NSF STC under Grant No. DMR 1548924. This
+work was supported by the University of California, Riverside. The solid-state NMR
+measurements at 14.1 T were recorded on an instrument supported by the National Science
+Foundation (CHE-1626673). V.L. acknowledges support from the National Science Foundation
+(CHE-1455348). J.A.R. acknowledges support from the Arnold and Mabel Beckman Foundation, the
+Pew Charitable Trusts, the Searle Scholars Program, the U.S. Department of Energy (Grant No.
+DE-FC02-02ER63421), and the National Institutes of Health&#x02014;National Institute of
+General Medical Sciences (Grant Nos. P41 GM102403 and R35 GM128867). H.M.N. acknowledges
+support from the David and Lucile Packard Foundation, the Alfred P. Sloan Foundation, and
+the Pew Charitable Trusts. The authors thank the Beckman Institute Resource Center for
+Transmission Electron Microscopy at Caltech.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Nedunchezhian</surname><given-names>K.</given-names></name>; <name><surname>Aswath</surname><given-names>N.</given-names></name>; <name><surname>Thiruppathy</surname><given-names>M.</given-names></name>; <name><surname>Thirugnanamurthy</surname><given-names>S.</given-names></name>
+<article-title>Boron neutron capture therapy - A literature review</article-title>. <source>J. Clin. Diagn. Res.</source>
+<year>2016</year>, <volume>10</volume>, <fpage>ZE01</fpage>&#x02013;<lpage>ZE04</lpage>. <pub-id pub-id-type="doi">10.7860/JCDR/2016/19890.9024</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Kolb</surname><given-names>U.</given-names></name>; <name><surname>Gorelik</surname><given-names>T.</given-names></name>; <name><surname>K&#x000fc;bel</surname><given-names>C.</given-names></name>; <name><surname>Otten</surname><given-names>M. T.</given-names></name>; <name><surname>Hubert</surname><given-names>D.</given-names></name>
+<article-title>Towards automated diffraction tomography: Part I&#x02014;Data
+acquisition</article-title>. <source>Ultramicroscopy</source>
+<year>2007</year>, <volume>107</volume>, <fpage>507</fpage>&#x02013;<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1016/j.ultramic.2006.10.007</pub-id>.<pub-id pub-id-type="pmid">17234347</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Gorelik</surname><given-names>T.</given-names></name>; <name><surname>Kolb</surname><given-names>U.</given-names></name>
+<article-title>&#x0201c;Ab initio&#x0201d; structure solution from electron diffraction data
+obtained by a combination of automated diffraction tomography and precession
+technique</article-title>. <source>Ultramicroscopy</source>
+<year>2009</year>, <volume>109</volume>, <fpage>758</fpage>&#x02013;<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1016/j.ultramic.2009.01.011</pub-id>.<pub-id pub-id-type="pmid">19269095</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Portol&#x000e9;s-Gil</surname><given-names>N.</given-names></name>; <name><surname>Lanza</surname><given-names>A.</given-names></name>; <name><surname>Aliaga-Alcalde</surname><given-names>N.</given-names></name>; <name><surname>Ayll&#x000f3;n</surname><given-names>J. A.</given-names></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>L&#x000f3;pez-Periago</surname><given-names>A. M.</given-names></name>; <name><surname>Domingo</surname><given-names>C.</given-names></name>
+<article-title>Crystalline curcumin bioMOF obtained by precipitation in supercritical
+CO<sub>2</sub> and structural determination by electron diffraction
+tomography</article-title>. <source>ACS Sustainable Chem. Eng.</source>
+<year>2018</year>, <volume>6</volume>, <fpage>12309</fpage>&#x02013;<lpage>12319</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.8b02738</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Yuan</surname><given-names>S.</given-names></name>; <name><surname>Qin</surname><given-names>J.-S.</given-names></name>; <name><surname>Xu</surname><given-names>H.-Q.</given-names></name>; <name><surname>Su</surname><given-names>J.</given-names></name>; <name><surname>Rossi</surname><given-names>D.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Lollar</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Jiang</surname><given-names>H.-L.</given-names></name>; <name><surname>Son</surname><given-names>D. H.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Zou</surname><given-names>X.</given-names></name>; <name><surname>Zhou</surname><given-names>H.-C.</given-names></name>
+<article-title>[Ti<sub>8</sub>Zr<sub>2</sub>O<sub>12</sub>(COO)<sub>16</sub>] cluster: An
+ideal inorganic building unit for photoactive metal&#x02013;organic
+frameworks</article-title>. <source>ACS Cent. Sci.</source>
+<year>2018</year>, <volume>4</volume>, <fpage>105</fpage>&#x02013;<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.7b00497</pub-id>.<pub-id pub-id-type="pmid">29392182</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Denysenko</surname><given-names>D.</given-names></name>; <name><surname>Grzywa</surname><given-names>M.</given-names></name>; <name><surname>Tonigold</surname><given-names>M.</given-names></name>; <name><surname>Streppel</surname><given-names>B.</given-names></name>; <name><surname>Krkljus</surname><given-names>I.</given-names></name>; <name><surname>Hirscher</surname><given-names>M.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Kolb</surname><given-names>U.</given-names></name>; <name><surname>Hanss</surname><given-names>J.</given-names></name>; <name><surname>Volkmer</surname><given-names>D.</given-names></name>
+<article-title>Elucidating gating effects for hydrogen sorption in MFU-4-type
+triazolate-based metal&#x02013;organic frameworks featuring different pore
+sizes</article-title>. <source>Chem. - Eur. J.</source>
+<year>2011</year>, <volume>17</volume>, <fpage>1837</fpage>&#x02013;<lpage>1848</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201001872</pub-id>.<pub-id pub-id-type="pmid">21274935</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Feyand</surname><given-names>M.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Vermoortele</surname><given-names>F.</given-names></name>; <name><surname>Bueken</surname><given-names>B.</given-names></name>; <name><surname>Dieterich</surname><given-names>J. M.</given-names></name>; <name><surname>Reimer</surname><given-names>T.</given-names></name>; <name><surname>Kolb</surname><given-names>U.</given-names></name>; <name><surname>de Vos</surname><given-names>D.</given-names></name>; <name><surname>Stock</surname><given-names>N.</given-names></name>
+<article-title>Automated diffraction tomography for the structure elucidation of twinned,
+sub-micrometer crystals of a highly porous, catalytically active bismuth
+metal&#x02013;organic framework</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>10373</fpage>&#x02013;<lpage>10376</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201204963</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Rhauderwiek</surname><given-names>T.</given-names></name>; <name><surname>Inge</surname><given-names>A. K.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>T.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Stock</surname><given-names>N.</given-names></name>; <name><surname>Zou</surname><given-names>X.</given-names></name>
+<article-title>A porous cobalt tetraphosphonate metal&#x02013;organic framework: Accurate
+structure and guest molecule location determined by continuous-rotation electron
+diffraction</article-title>. <source>Chem. - Eur. J.</source>
+<year>2018</year>, <volume>24</volume>, <fpage>17429</fpage>&#x02013;<lpage>17433</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201804133</pub-id>.<pub-id pub-id-type="pmid">30288800</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Bellussi</surname><given-names>G.</given-names></name>; <name><surname>Montanari</surname><given-names>E.</given-names></name>; <name><surname>Di Paola</surname><given-names>E.</given-names></name>; <name><surname>Millini</surname><given-names>R.</given-names></name>; <name><surname>Carati</surname><given-names>A.</given-names></name>; <name><surname>Rizzo</surname><given-names>C.</given-names></name>; <name><surname>O'Neil Parker</surname><given-names>W.</given-names><suffix>Jr.</suffix></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Kolb</surname><given-names>U.</given-names></name>; <name><surname>Zanardi</surname><given-names>S.</given-names></name>
+<article-title>ECS-3: A crystalline hybrid organic&#x02013;inorganic aluminosilicate with
+open porosity</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>666</fpage>&#x02013;<lpage>669</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201105496</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Yun</surname><given-names>Y.</given-names></name>; <name><surname>Zou</surname><given-names>X.</given-names></name>; <name><surname>Hovmoller</surname><given-names>S.</given-names></name>; <name><surname>Wan</surname><given-names>W.</given-names></name>
+<article-title>Three-dimensional electron diffraction as a complementary technique to
+powder X-ray diffraction for phase identification and structure solution of
+powders</article-title>. <source>IUCrJ</source>
+<year>2015</year>, <volume>2</volume>, <fpage>267</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1107/S2052252514028188</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>La Placa</surname><given-names>M. G. I.</given-names></name>; <name><surname>Galanis</surname><given-names>A. S.</given-names></name>; <name><surname>Rauch</surname><given-names>E. F.</given-names></name>; <name><surname>Nicolopoulos</surname><given-names>S.</given-names></name>
+<article-title>Fast electron diffraction tomography</article-title>. <source>J. Appl. Crystallogr.</source>
+<year>2015</year>, <volume>48</volume>, <fpage>718</fpage>&#x02013;<lpage>727</lpage>. <pub-id pub-id-type="doi">10.1107/S1600576715004604</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Gorelik</surname><given-names>T. E.</given-names></name>; <name><surname>van de Streek</surname><given-names>J.</given-names></name>; <name><surname>Kilbinger</surname><given-names>A. F. M.</given-names></name>; <name><surname>Brunklaus</surname><given-names>G.</given-names></name>; <name><surname>Kolb</surname><given-names>U.</given-names></name>
+<article-title>Ab-initio crystal structure analysis and refinement approaches of oligo
+p-benzamides based on electron diffraction data</article-title>. <source>Acta Crystallogr., Sect. B: Struct. Sci.</source>
+<year>2012</year>, <volume>68</volume>, <fpage>171</fpage>&#x02013;<lpage>181</lpage>. <pub-id pub-id-type="doi">10.1107/S0108768112003138</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>van Genderen</surname><given-names>E.</given-names></name>; <name><surname>Clabbers</surname><given-names>M. T. B.</given-names></name>; <name><surname>Das</surname><given-names>P. P.</given-names></name>; <name><surname>Stewart</surname><given-names>A.</given-names></name>; <name><surname>Nederlof</surname><given-names>I.</given-names></name>; <name><surname>Barentsen</surname><given-names>K. C.</given-names></name>; <name><surname>Portillo</surname><given-names>Q.</given-names></name>; <name><surname>Pannu</surname><given-names>N. S.</given-names></name>; <name><surname>Nicolopoulos</surname><given-names>S.</given-names></name>; <name><surname>Gruene</surname><given-names>T.</given-names></name>; <name><surname>Abrahams</surname><given-names>J. P.</given-names></name>
+<article-title>Ab initio structure determination of nanocrystals of organic pharmaceutical
+compounds by electron diffraction at room temperature using a Timepix quantum area
+direct electron detector</article-title>. <source>Acta Crystallogr., Sect. A: Found. Adv.</source>
+<year>2016</year>, <volume>72</volume>, <fpage>236</fpage>&#x02013;<lpage>242</lpage>. <pub-id pub-id-type="doi">10.1107/S2053273315022500</pub-id>.<pub-id pub-id-type="pmid">26919375</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Das</surname><given-names>P. P.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Nicolopoulos</surname><given-names>S.</given-names></name>; <name><surname>Tossi</surname><given-names>C.</given-names></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>Galanis</surname><given-names>A.</given-names></name>; <name><surname>Borodi</surname><given-names>G.</given-names></name>; <name><surname>Pop</surname><given-names>M. M.</given-names></name>
+<article-title>Crystal structures of two important pharmaceuticals solved by 3D precession
+electron diffraction tomography</article-title>. <source>Org. Process Res. Dev.</source>
+<year>2018</year>, <volume>22</volume>, <fpage>1365</fpage>&#x02013;<lpage>1372</lpage>. <pub-id pub-id-type="doi">10.1021/acs.oprd.8b00149</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Das</surname><given-names>P. P.</given-names></name>; <name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Nicolopoulos</surname><given-names>S.</given-names></name>; <name><surname>Tossi</surname><given-names>C.</given-names></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>Galanis</surname><given-names>A.</given-names></name>; <name><surname>Borodi</surname><given-names>G.</given-names></name>; <name><surname>Pop</surname><given-names>M. M.</given-names></name>
+<article-title>Crystal structures of two important pharmaceuticals solved by 3D precession
+electron diffraction tomography</article-title>. <source>Org. Process Res. Dev.</source>
+<year>2018</year>, <volume>22</volume>, <fpage>1365</fpage>&#x02013;<lpage>1372</lpage>. <pub-id pub-id-type="doi">10.1021/acs.oprd.8b00149</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Jones</surname><given-names>C. G.</given-names></name>; <name><surname>Martynowycz</surname><given-names>M. W.</given-names></name>; <name><surname>Hattne</surname><given-names>J.</given-names></name>; <name><surname>Fulton</surname><given-names>T. J.</given-names></name>; <name><surname>Stoltz</surname><given-names>B. M.</given-names></name>; <name><surname>Rodriguez</surname><given-names>J. A.</given-names></name>; <name><surname>Nelson</surname><given-names>H. M.</given-names></name>; <name><surname>Gonen</surname><given-names>T.</given-names></name>
+<article-title>The cryoEM method microED as a powerful tool for small molecule structure
+determination</article-title>. <source>ACS Cent. Sci.</source>
+<year>2018</year>, <volume>4</volume>, <fpage>1587</fpage>&#x02013;<lpage>1592</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.8b00760</pub-id>.<pub-id pub-id-type="pmid">30555912</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Hart</surname><given-names>D. W.</given-names></name>; <name><surname>Schwartz</surname><given-names>J.</given-names></name>
+<article-title>Hydrozirconation. Organic synthesis via organozirconium intermediates.
+Synthesis and rearrangement of alkylzirconium(IV) complexes and their reaction with
+electrophiles</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1974</year>, <volume>96</volume>, <fpage>8115</fpage>&#x02013;<lpage>8116</lpage>. <pub-id pub-id-type="doi">10.1021/ja00833a048</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Schwartz</surname><given-names>J.</given-names></name>; <name><surname>Labinger</surname><given-names>J. A.</given-names></name>
+<article-title>Hydrozirconation: A new transition metal reagent for organic
+synthesis</article-title>. <source>Angew. Chem., Int. Ed. Engl.</source>
+<year>1976</year>, <volume>15</volume>, <fpage>333</fpage>&#x02013;<lpage>340</lpage>. <pub-id pub-id-type="doi">10.1002/anie.197603331</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Wieclaw</surname><given-names>M. M.</given-names></name>; <name><surname>Stecko</surname><given-names>S.</given-names></name>
+<article-title>Hydrozirconation of C = X functionalities with Schwartz&#x02019;s
+reagent</article-title>. <source>Eur. J. Org. Chem.</source>
+<year>2018</year>, <volume>2018</volume>, <fpage>6601</fpage>&#x02013;<lpage>6623</lpage>. <pub-id pub-id-type="doi">10.1002/ejoc.201701537</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Pinheiro</surname><given-names>D. L. J.</given-names></name>; <name><surname>de Castro</surname><given-names>P. P.</given-names></name>; <name><surname>Amarante</surname><given-names>G. W.</given-names></name>
+<article-title>Recent developments and synthetic applications of nucleophilic zirconocene
+complexes from Schwartz&#x02019;s reagent</article-title>. <source>Eur. J. Org. Chem.</source>
+<year>2018</year>, <volume>2018</volume>, <fpage>4828</fpage>&#x02013;<lpage>4844</lpage>. <pub-id pub-id-type="doi">10.1002/ejoc.201800852</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Kautzner</surname><given-names>B.</given-names></name>; <name><surname>Wailes</surname><given-names>P. C.</given-names></name>; <name><surname>Weigold</surname><given-names>H.</given-names></name>
+<article-title>Hydrides of bis(cyclopentadienyl)zirconium</article-title>. <source>J. Chem. Soc. D</source>
+<year>1969</year>, <fpage>1105a</fpage><pub-id pub-id-type="doi">10.1039/c2969001105a</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Wailes</surname><given-names>P. C.</given-names></name>; <name><surname>Weigold</surname><given-names>H.</given-names></name>
+<article-title>Hydrido complexes of zirconium I. Preparation</article-title>. <source>J. Organomet. Chem.</source>
+<year>1970</year>, <volume>24</volume>, <fpage>405</fpage>&#x02013;<lpage>411</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-328X(00)80281-8</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><person-group person-group-type="allauthors"><name><surname>Takahashi</surname><given-names>T.</given-names></name>;
+<name><surname>Suzuki</surname><given-names>N.</given-names></name>;
+<name><surname>Jayasuriya</surname><given-names>N.</given-names></name>;
+<name><surname>Wipf</surname><given-names>P.</given-names></name></person-group><article-title>Chlorobis(cyclopentadienyl)hydridozirconium</article-title>.
+<source>Encyclopedia of Reagents for Organic Synthesis</source><year>2006</year>.<pub-id pub-id-type="doi">10.1002/047084289X.rc074.pub2</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Rossini</surname><given-names>A. J.</given-names></name>; <name><surname>Mills</surname><given-names>R. W.</given-names></name>; <name><surname>Briscoe</surname><given-names>G. A.</given-names></name>; <name><surname>Norton</surname><given-names>E. L.</given-names></name>; <name><surname>Geier</surname><given-names>S. J.</given-names></name>; <name><surname>Hung</surname><given-names>I.</given-names></name>; <name><surname>Zheng</surname><given-names>S.</given-names></name>; <name><surname>Autschbach</surname><given-names>J.</given-names></name>; <name><surname>Schurko</surname><given-names>R. W.</given-names></name>
+<article-title>Solid-state chlorine NMR of group IV transition metal organometallic
+complexes</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2009</year>, <volume>131</volume>, <fpage>3317</fpage>&#x02013;<lpage>3330</lpage>. <pub-id pub-id-type="doi">10.1021/ja808390a</pub-id>.<pub-id pub-id-type="pmid">19256569</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Harlan</surname><given-names>C. J.</given-names></name>; <name><surname>Bott</surname><given-names>S. G.</given-names></name>; <name><surname>Barron</surname><given-names>A. R.</given-names></name>
+<article-title>Methyl&#x02013;hydride metathesis between [Zr(cp)<sub>2</sub>Me<sub>2</sub>]
+and [HAl(&#x003bc;<sub>3</sub>-NBut)]<sub>4</sub>: molecular structures of
+[Me<sub>1-x</sub>HxAl(&#x003bc;<sub>3</sub>-NBu<sup>t</sup>)]4 (x = 0, 0.78 or 1) and
+[(cp)<sub>2</sub>ZrMe(&#x003bc;-H)]<sub>2</sub> (cp =
+&#x003b7;<sup>5</sup>-C<sub>5</sub>H<sub>5</sub>)</article-title>. <source>J. Chem. Soc., Dalton Trans.</source>
+<year>1997</year>, <fpage>637</fpage>&#x02013;<lpage>642</lpage>. <pub-id pub-id-type="doi">10.1039/a604292i</pub-id>.</mixed-citation></ref><ref id="ref26"><note><p>The appropriate electron scattering factors were used; see:</p></note><mixed-citation publication-type="journal" id="cit26"><name><surname>Peng</surname><given-names>L. M.</given-names></name>
+<article-title>Electron atomic scattering factors and scattering potentials of
+crystals</article-title>. <source>Micron</source>
+<year>1999</year>, <volume>30</volume>, <fpage>625</fpage>&#x02013;<lpage>648</lpage>. <pub-id pub-id-type="doi">10.1016/S0968-4328(99)00033-5</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Fafard</surname><given-names>C. M.</given-names></name>; <name><surname>Adhikari</surname><given-names>D.</given-names></name>; <name><surname>Foxman</surname><given-names>B. M.</given-names></name>; <name><surname>Mindiola</surname><given-names>D. J.</given-names></name>; <name><surname>Ozerov</surname><given-names>O. V.</given-names></name>
+<article-title>Addition of ammonia, water, and dihydrogen across a single Pd&#x02013;Pd
+bond</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2007</year>, <volume>129</volume>, <fpage>10318</fpage>&#x02013;<lpage>10319</lpage>. <pub-id pub-id-type="doi">10.1021/ja0731571</pub-id>.<pub-id pub-id-type="pmid">17685527</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Huacuja</surname><given-names>R.</given-names></name>; <name><surname>Graham</surname><given-names>D. J.</given-names></name>; <name><surname>Fafard</surname><given-names>C. M.</given-names></name>; <name><surname>Chen</surname><given-names>C.-H.</given-names></name>; <name><surname>Foxman</surname><given-names>B. M.</given-names></name>; <name><surname>Herbert</surname><given-names>D. E.</given-names></name>; <name><surname>Alliger</surname><given-names>G.</given-names></name>; <name><surname>Thomas</surname><given-names>C. M.</given-names></name>; <name><surname>Ozerov</surname><given-names>O. V.</given-names></name>
+<article-title>Reactivity of a Pd(I)&#x02013;Pd(I) dimer with O<sub>2</sub>: monohapto Pd
+superoxide and dipalladiumperoxide in equilibrium</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2011</year>, <volume>133</volume>, <fpage>3820</fpage>&#x02013;<lpage>3823</lpage>. <pub-id pub-id-type="doi">10.1021/ja200346a</pub-id>.<pub-id pub-id-type="pmid">21351769</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Kleinsasser</surname><given-names>J. F.</given-names></name>; <name><surname>Reinhart</surname><given-names>E. D.</given-names></name>; <name><surname>Estrada</surname><given-names>J.</given-names></name>; <name><surname>Jordan</surname><given-names>R. F.</given-names></name>; <name><surname>Lavallo</surname><given-names>V.</given-names></name>
+<article-title>Ethylene oligomerization and polymerization by palladium(II) methyl
+complexes supported by phosphines bearing a perchlorinated 10-vertex
+<italic>closo</italic>-carborane anion substituent</article-title>. <source>Organometallics</source>
+<year>2018</year>, <volume>37</volume>, <fpage>4773</fpage>&#x02013;<lpage>4783</lpage>. <pub-id pub-id-type="doi">10.1021/acs.organomet.8b00772</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Hetterscheid</surname><given-names>D. G. H.</given-names></name>; <name><surname>Kaiser</surname><given-names>J.</given-names></name>; <name><surname>Reijerse</surname><given-names>E.</given-names></name>; <name><surname>Peters</surname><given-names>T. P. J.</given-names></name>; <name><surname>Thewissen</surname><given-names>S.</given-names></name>; <name><surname>Blok</surname><given-names>A. N. J.</given-names></name>; <name><surname>Smits</surname><given-names>J. M. M.</given-names></name>; <name><surname>de Gelder</surname><given-names>R.</given-names></name>; <name><surname>de Bruin</surname><given-names>B.</given-names></name>
+<article-title>IrII(ethene): Metal or carbon radical?</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2005</year>, <volume>127</volume>, <fpage>1895</fpage>&#x02013;<lpage>1905</lpage>. <pub-id pub-id-type="doi">10.1021/ja0439470</pub-id>.<pub-id pub-id-type="pmid">15701024</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Van Voorhees</surname><given-names>S. L.</given-names></name>; <name><surname>Wayland</surname><given-names>B. B.</given-names></name>
+<article-title>Formation of metallo hydride, formyl, and alkyl complexes of
+Rh(TMTAA)</article-title>. <source>Organometallics</source>
+<year>1987</year>, <volume>6</volume>, <fpage>204</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1021/om00144a044</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="thesis" id="cit32"><person-group person-group-type="allauthors"><name><surname>Huacuja</surname><given-names>R.</given-names></name></person-group><article-title>Synthesis and reactivity of unusual palladium (II) complexes supported by a
+diarylamido/BIS(phosphine) PNP pincer ligand</article-title>. Ph.D. Dissertation,
+<publisher-name>Texas A&#x00026;M University</publisher-name>, <year>2014</year>; available
+electronically from <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://hdl.handle.net/1969.1/152457">http://hdl.handle.net/1969.1/152457</uri>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Weng</surname><given-names>S.-S.</given-names></name>; <name><surname>Ke</surname><given-names>C.-S.</given-names></name>; <name><surname>Chen</surname><given-names>F.-K.</given-names></name>; <name><surname>Lyu</surname><given-names>Y.-F.</given-names></name>; <name><surname>Lin</surname><given-names>G.-Y.</given-names></name>
+<article-title>Transesterification catalyzed by iron(III) &#x003b2;-diketonate
+species</article-title>. <source>Tetrahedron</source>
+<year>2011</year>, <volume>67</volume>, <fpage>1640</fpage>&#x02013;<lpage>1648</lpage>. <pub-id pub-id-type="doi">10.1016/j.tet.2011.01.009</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Torker</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>A.</given-names></name>; <name><surname>Sigrist</surname><given-names>R.</given-names></name>; <name><surname>Chen</surname><given-names>P.</given-names></name>
+<article-title>Tuning the steric properties of a metathesis catalyst for copolymerization
+of norbornene and cyclooctene toward complete alternation</article-title>. <source>Organometallics</source>
+<year>2010</year>, <volume>29</volume>, <fpage>2735</fpage>&#x02013;<lpage>2751</lpage>. <pub-id pub-id-type="doi">10.1021/om100185g</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Casellato</surname><given-names>U.</given-names></name>; <name><surname>Aj&#x000f3;</surname><given-names>D.</given-names></name>; <name><surname>Valle</surname><given-names>G.</given-names></name>; <name><surname>Corain</surname><given-names>B.</given-names></name>; <name><surname>Longato</surname><given-names>B.</given-names></name>; <name><surname>Graziani</surname><given-names>R.</given-names></name>
+<article-title>Heteropolymetallic complexes of 1,1&#x02019;-bis(diphenylphosphino)
+ferrocene (dppf). II. Crystal structure of dppf and
+NiCl<sub>2</sub>(dppf)</article-title>. <source>J. Crystallogr. Spectrosc. Res.</source>
+<year>1988</year>, <volume>18</volume>, <fpage>583</fpage>&#x02013;<lpage>590</lpage>. <pub-id pub-id-type="doi">10.1007/BF01161151</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Sherden</surname><given-names>N. H.</given-names></name>; <name><surname>Behenna</surname><given-names>D. C.</given-names></name>; <name><surname>Virgil</surname><given-names>S. C.</given-names></name>; <name><surname>Stoltz</surname><given-names>B. M.</given-names></name>
+<article-title>Unusual allylpalladium carboxylate complexes: identification of the resting
+state of catalytic enantioselective decarboxylative allylic alkylation reactions of
+ketones</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2009</year>, <volume>48</volume>, <fpage>6840</fpage>&#x02013;<lpage>6843</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200902575</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="thesis" id="cit37"><person-group person-group-type="allauthors"><name><surname>Trnka</surname><given-names>T. M.</given-names></name></person-group><article-title>Catalyst for olefin metathesis: ruthenium alkylidene complexes with
+phosphine and <italic>N</italic>-heterocyclic ligands</article-title>. Ph.D.
+Dissertation, <publisher-name>California Institute of Technology</publisher-name>,
+<publisher-loc>Pasadena, CA</publisher-loc>, <year>2002</year>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Iball</surname><given-names>J.</given-names></name>; <name><surname>Morgan</surname><given-names>C. H.</given-names></name>
+<article-title>A refinement of the crystal structure of ferric
+acetylacetonate</article-title>. <source>Acta Crystallogr.</source>
+<year>1967</year>, <volume>23</volume>, <fpage>239</fpage>&#x02013;<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1107/S0365110X67002531</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>La Placa</surname><given-names>S. J.</given-names></name>; <name><surname>Ibers</surname><given-names>J. A.</given-names></name>
+<article-title>Crystal and molecular structure of tritriphenylphosphine rhodium carbonyl
+hydride</article-title>. <source>Acta Crystallogr.</source>
+<year>1965</year>, <volume>18</volume>, <fpage>511</fpage>&#x02013;<lpage>519</lpage>. <pub-id pub-id-type="doi">10.1107/S0365110X65001093</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Babra</surname><given-names>I. S.</given-names></name>; <name><surname>Morley</surname><given-names>L. S.</given-names></name>; <name><surname>Nyburg</surname><given-names>S. C.</given-names></name>; <name><surname>Parkins</surname><given-names>A. W.</given-names></name>
+<article-title>The crystal and molecular structure of a new polymorph of
+carbonylhydridotris(triphenylphosphine)rhodium(I) having a Rh-H stretching absorption at
+2013 cm<sup>&#x02013;1</sup></article-title>. <source>J. Crystallogr. Spectrosc. Res.</source>
+<year>1993</year>, <volume>23</volume>, <fpage>997</fpage>&#x02013;<lpage>1000</lpage>. <pub-id pub-id-type="doi">10.1007/BF01185550</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Mugnaioli</surname><given-names>E.</given-names></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>
+<article-title>Single-crystal analysis of nanodomains by electron diffraction tomography:
+mineralogy at the order-disorder borderline</article-title>. <source>Z. Kristallogr. - Cryst. Mater.</source>
+<year>2018</year>, <volume>233</volume>, <fpage>163</fpage>&#x02013;<lpage>178</lpage>. <pub-id pub-id-type="doi">10.1515/zkri-2017-2130</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Hynek</surname><given-names>J.</given-names></name>; <name><surname>Br&#x000e1;zda</surname><given-names>P.</given-names></name>; <name><surname>Rohl&#x000ed;&#x0010d;ek</surname><given-names>J.</given-names></name>; <name><surname>Londesborough</surname><given-names>M. G. S.</given-names></name>; <name><surname>Demel</surname><given-names>J.</given-names></name>
+<article-title>Phosphinic acid based linkers: Building blocks in metal&#x02013;organic
+framework chemistry</article-title>. <source>Angew. Chem.</source>
+<year>2018</year>, <volume>130</volume>, <fpage>5110</fpage>&#x02013;<lpage>5113</lpage>. <pub-id pub-id-type="doi">10.1002/ange.201800884</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Palatinus</surname><given-names>L.</given-names></name>; <name><surname>Br&#x000e1;zda</surname><given-names>P.</given-names></name>; <name><surname>Boullay</surname><given-names>P.</given-names></name>; <name><surname>Perez</surname><given-names>O.</given-names></name>; <name><surname>Klementov&#x000e1;</surname><given-names>M.</given-names></name>; <name><surname>Petit</surname><given-names>S.</given-names></name>; <name><surname>Eigner</surname><given-names>V.</given-names></name>; <name><surname>Zaarour</surname><given-names>M.</given-names></name>; <name><surname>Mintova</surname><given-names>S.</given-names></name>
+<article-title>Hydrogen positions in single nanocrystals revealed by electron
+diffraction</article-title>. <source>Science</source>
+<year>2017</year>, <volume>355</volume>, <fpage>166</fpage>&#x02013;<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1126/science.aak9652</pub-id>.<pub-id pub-id-type="pmid">28082587</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Clabbers</surname><given-names>M. T. B.</given-names></name>; <name><surname>Gruene</surname><given-names>T.</given-names></name>; <name><surname>van Genderen</surname><given-names>E.</given-names></name>; <name><surname>Abrahams</surname><given-names>J. P.</given-names></name>
+<article-title>Reducing dynamical electron scattering reveals hydrogen
+atoms</article-title>. <source>Acta Crystallogr., Sect. A: Found. Adv.</source>
+<year>2019</year>, <volume>75</volume>, <fpage>82</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1107/S2053273318013918</pub-id>.<pub-id pub-id-type="pmid">30575586</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Palatinus</surname><given-names>L.</given-names></name>; <name><surname>Jacob</surname><given-names>D.</given-names></name>; <name><surname>Cuvillier</surname><given-names>P.</given-names></name>; <name><surname>Klementova</surname><given-names>M.</given-names></name>; <name><surname>Sinkler</surname><given-names>W.</given-names></name>; <name><surname>Marks</surname><given-names>L. D.</given-names></name>
+<article-title>Structure refinement from precession electron diffraction
+data</article-title>. <source>Acta Crystallogr., Sect. A: Found. Crystallogr.</source>
+<year>2013</year>, <volume>69</volume>, <fpage>171</fpage>&#x02013;<lpage>188</lpage>. <pub-id pub-id-type="doi">10.1107/S010876731204946X</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Palatinus</surname><given-names>L.</given-names></name>; <name><surname>Petricek</surname><given-names>V.</given-names></name>; <name><surname>Correa</surname><given-names>C. A.</given-names></name>
+<article-title>Structure refinement using precession electron diffraction tomography and
+dynamical diffraction: theory and implementation</article-title>. <source>Acta Crystallogr., Sect. A: Found. Adv.</source>
+<year>2015</year>, <volume>71</volume>, <fpage>235</fpage>&#x02013;<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1107/S2053273315001266</pub-id>.<pub-id pub-id-type="pmid">25727873</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Palatinus</surname><given-names>L.</given-names></name>; <name><surname>Correa</surname><given-names>C. A.</given-names></name>; <name><surname>Steciuk</surname><given-names>G.</given-names></name>; <name><surname>Jacob</surname><given-names>D.</given-names></name>; <name><surname>Roussel</surname><given-names>P.</given-names></name>; <name><surname>Boullay</surname><given-names>P.</given-names></name>; <name><surname>Klementova</surname><given-names>M.</given-names></name>; <name><surname>Gemmi</surname><given-names>M.</given-names></name>; <name><surname>Kopecek</surname><given-names>J.</given-names></name>; <name><surname>Domeneghetti</surname><given-names>M. C.</given-names></name>; <name><surname>Camara</surname><given-names>F.</given-names></name>; <name><surname>Petricek</surname><given-names>V.</given-names></name>
+<article-title>Structure refinement using precession electron diffraction tomography and
+dynamical diffraction: tests on experimental data</article-title>. <source>Acta Crystallogr., Sect. B: Struct. Sci., Cryst. Eng. Mater.</source>
+<year>2015</year>, <volume>71</volume>, <fpage>740</fpage>&#x02013;<lpage>751</lpage>. <pub-id pub-id-type="doi">10.1107/S2052520615017023</pub-id>.</mixed-citation></ref></ref-list></back></article>

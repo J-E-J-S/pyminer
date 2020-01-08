@@ -1,0 +1,515 @@
+{
+  "id": [
+    "30460506"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30460506"
+  ],
+  "pmcid": [
+    "PMC6403206"
+  ],
+  "doi": [
+    "10.1007/s10295-018-2101-x"
+  ],
+  "title": [
+    "Efficient transposition of Tn4556 by alterations in inverted repeats using a delivery vector carrying a counter-selectable marker for Streptomyces."
+  ],
+  "authorString": [
+    "Sota M, Sakoda A, Ikeda H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sota M"
+          ],
+          "firstName": [
+            "Masahiro"
+          ],
+          "lastName": [
+            "Sota"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "NAGASE R&D CENTER, NAGASE & CO., LTD., Kobe, Hyogo, 651-2241, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakoda A"
+          ],
+          "firstName": [
+            "Akiko"
+          ],
+          "lastName": [
+            "Sakoda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "NAGASE R&D CENTER, NAGASE & CO., LTD., Kobe, Hyogo, 651-2241, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ikeda H"
+          ],
+          "firstName": [
+            "Haruo"
+          ],
+          "lastName": [
+            "Ikeda"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Kitasato Institute for Life Sciences, Kitasato University, Sagamihara, Kanagawa, 252-0373, Japan. ikeda@ls.kitasato-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3-4"
+      ],
+      "volume": [
+        "46"
+      ],
+      "journalIssueId": [
+        "2791039"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of industrial microbiology & biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "J. Ind. Microbiol. Biotechnol."
+          ],
+          "medlineAbbreviation": [
+            "J Ind Microbiol Biotechnol"
+          ],
+          "NLMid": [
+            "9705544"
+          ],
+          "ISSN": [
+            "1367-5435"
+          ],
+          "ESSN": [
+            "1476-5535"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "477-482"
+  ],
+  "abstractText": [
+    "A 6625-base pair transposon, Tn4556, was initially isolated from a Streptomyces strain and a sequence analysis was performed; however, its annotation data remain incomplete. At least three positions were identified as frameshift and base-exchange errors by resequencing. The revised sequence revealed that Tn4556 contains four open reading frames that encode transposase, methyltransferase, isoprenyl diphosphate transferase, and resolvase, respectively. Thirty-eight-base pair inverted repeat (IR) sequences at both ends contained a 1-bp mismatch flanked by a target duplication site, and transposition efficiency was improved by the replacement of imperfectly matched IR-L to perfectly matched IR-L. The detection of Tn4556 transposition was markedly facilitated using a delivery vector carrying a strictly counter-selectable marker for Streptomyces strains."
+  ],
+  "affiliation": [
+    "NAGASE R&D CENTER, NAGASE & CO., LTD., Kobe, Hyogo, 651-2241, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Streptomyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transposases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Transposable Elements"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Open Reading Frames"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plasmids"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Streptomyces",
+        "Counter Selection",
+        "Class-ii Transposon",
+        "Phenylalanyl-t-rna Synthetase"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA, Bacterial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA Transposable Elements"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transposases"
+          ],
+          "registryNumber": [
+            "EC 2.7.7.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6403206?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6403206"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10295-018-2101-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-07"
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-29"
+  ],
+  "dateOfRevision": [
+    "2019-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-20"
+  ],
+  "firstPublicationDate": [
+    "2018-11-20"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": [
+    "30713599"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30713599"
+  ],
+  "pmcid": [
+    "PMC6343757"
+  ],
+  "doi": [
+    "10.18632/oncotarget.26535"
+  ],
+  "title": [
+    "Simplifying checkpoint inhibitor delivery through in vivo generation of synthetic DNA-encoded monoclonal antibodies (DMAbs)."
+  ],
+  "authorString": [
+    "Perales-Puchalt A, Duperret EK, Muthumani K, Weiner DB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Perales-Puchalt A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Perales-Puchalt"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Duperret EK"
+          ],
+          "firstName": [
+            "Elizabeth K"
+          ],
+          "lastName": [
+            "Duperret"
+          ],
+          "initials": [
+            "EK"
+          ],
+          "affiliation": [
+            "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Muthumani K"
+          ],
+          "firstName": [
+            "Kar"
+          ],
+          "lastName": [
+            "Muthumani"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weiner DB"
+          ],
+          "firstName": [
+            "David B"
+          ],
+          "lastName": [
+            "Weiner"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777634"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncotarget"
+          ],
+          "ISOAbbreviation": [
+            "Oncotarget"
+          ],
+          "medlineAbbreviation": [
+            "Oncotarget"
+          ],
+          "NLMid": [
+            "101532965"
+          ],
+          "ISSN": [
+            "1949-2553"
+          ],
+          "ESSN": [
+            "1949-2553"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13-16"
+  ],
+  "abstractText": [
+    "Checkpoint inhibitors (CPI) have revolutionized the treatment of many solid tumors. However, difficulties in production, stability, the requirement of frequent high doses for antibody administration and long intravenous administration are recurring issues. Synthetically designed DNA-encoded monoclonal antibodies (DMAbs) are a novel delivery method for antibody therapy which could potentially address many of these issues, simplifying design and implementation of MAb-based therapies. DMAbs delivered through plasmid DNA injection and electroporation have been used in preclinical models for the treatment or prophylaxis of infectious diseases, cancer and cardiovascular disease. Our group has recently reported that immune checkpoint blockers can be optimized and delivered in vivo advancing further DMAb technology by optimization, expression and in vivo functional characterization of anti-CTLA4 antibodies. Here we report optimization, expression and binding of DMAbs based on anti-PD1 CPI and discuss the potential of DMAbs in checkpoint immunotherapy."
+  ],
+  "affiliation": [
+    "Vaccine and Immunotherapy Center, The Wistar Institute, Philadelphia, PA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 CA010815"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Monoclonal antibody",
+        "Immunotherapy",
+        "Dmab",
+        "Immune Checkpoints"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343757?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343757"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/oncotarget.26535"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-05"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-15"
+  ],
+  "dateOfRevision": [
+    "2019-06-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-01"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

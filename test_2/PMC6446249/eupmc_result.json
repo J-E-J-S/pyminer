@@ -1,0 +1,582 @@
+{
+  "id": [
+    "30942867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30942867"
+  ],
+  "pmcid": [
+    "PMC6446249"
+  ],
+  "doi": [
+    "10.1093/gigascience/giz020"
+  ],
+  "title": [
+    "MGS-Fast: Metagenomic shotgun data fast annotation using microbial gene catalogs."
+  ],
+  "authorString": [
+    "Brown SM, Chen H, Hao Y, Laungani BP, Ali TA, Dong C, Lijeron C, Kim B, Wultsch C, Pei Z, Krampis K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brown SM"
+          ],
+          "firstName": [
+            "Stuart M"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0906-9907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "New York University Langonne Medical Center, 333 E 38th St, New York, NY, 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "New York University Langonne Medical Center, 333 E 38th St, New York, NY, 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao Y"
+          ],
+          "firstName": [
+            "Yuhan"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "New York University Langonne Medical Center, 333 E 38th St, New York, NY, 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Laungani BP"
+          ],
+          "firstName": [
+            "Bobby P"
+          ],
+          "lastName": [
+            "Laungani"
+          ],
+          "initials": [
+            "BP"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        },
+        {
+          "fullName": [
+            "Ali TA"
+          ],
+          "firstName": [
+            "Thahmina A"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong C"
+          ],
+          "firstName": [
+            "Changsu"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        },
+        {
+          "fullName": [
+            "Lijeron C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Lijeron"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim B"
+          ],
+          "firstName": [
+            "Baekdoo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        },
+        {
+          "fullName": [
+            "Wultsch C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Wultsch"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Research Foundation of The City University of New York, 333 E 38th St, New York, NY, 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pei Z"
+          ],
+          "firstName": [
+            "Zhiheng"
+          ],
+          "lastName": [
+            "Pei"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8570-6747",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Veterans Affairs New York Harbor Healthcare System, 333 E 38th St, New York, NY, 10016, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krampis K"
+          ],
+          "firstName": [
+            "Konstantinos"
+          ],
+          "lastName": [
+            "Krampis"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Center for Translational and Basic Research, Belfer Research Building, Hunter College of The City University of New York, 333 E 38th St, New York, NY, 10016, US."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0906-9907",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8570-6747",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2799115"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "BACKGROUND:Current methods used for annotating metagenomics shotgun sequencing (MGS) data rely on a computationally intensive and low-stringency approach of mapping each read to a generic database of proteins or reference microbial genomes. RESULTS:We developed MGS-Fast, an analysis approach for shotgun whole-genome metagenomic data utilizing Bowtie2 DNA-DNA alignment of reads that is an alternative to using the integrated catalog of reference genes database of well-annotated genes compiled from human microbiome data. This method is rapid and provides high-stringency matches (>90% DNA sequence identity) of the metagenomics reads to genes with annotated functions. We demonstrate the use of this method with data from a study of liver disease and synthetic reads, and Human Microbiome Project shotgun data, to detect differentially abundant Kyoto Encyclopedia of Genes and Genomes gene functions in these experiments. This rapid annotation method is freely available as a Galaxy workflow within a Docker image. CONCLUSIONS:MGS-Fast can confidently transfer functional annotations from gene databases to metagenomic reads, with speed and accuracy."
+  ],
+  "affiliation": [
+    "New York University Langonne Medical Center, 333 E 38th St, New York, NY, 10016, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U01 CA182370"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UH3 CA140233"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 DE025352"
+          ],
+          "agency": [
+            "NIDCR NIH HHS"
+          ],
+          "acronym": [
+            "DE"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA221705"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G12 MD007599"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR000457"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA159036"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AI110372"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metagenomics",
+        "Annotation",
+        "Cloud Computing",
+        "Galaxy",
+        "Docker"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giz020"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446249"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446249?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-13"
+  ],
+  "dateOfRevision": [
+    "2019-07-03"
+  ],
+  "firstPublicationDate": [
+    "2019-04-01"
+  ]
+}

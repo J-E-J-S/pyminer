@@ -1,0 +1,363 @@
+{
+  "id": [
+    "28713559"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28713559"
+  ],
+  "pmcid": [
+    "PMC5499785"
+  ],
+  "doi": [
+    "10.12688/f1000research.11859.2"
+  ],
+  "title": [
+    "Draft genome sequencing of the sugarcane hybrid SP80-3280."
+  ],
+  "authorString": [
+    "Riaño-Pachón DM, Mattiello L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Riaño-Pachón DM"
+          ],
+          "firstName": [
+            "Diego Mauricio"
+          ],
+          "lastName": [
+            "Riaño-Pachón"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9803-3465",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Regulatory Systems Biology, Department of Biochemistry, Institute of Chemistry, University of São Paulo, São Paulo, SP, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Mattiello L"
+          ],
+          "firstName": [
+            "Lucia"
+          ],
+          "lastName": [
+            "Mattiello"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Functional Genome Laboratory, Department of Genetics, Evolution and Bioagents, Institute of Biology, State University of Campinas, Campinas, SP, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9803-3465",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2520313"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "F1000Research"
+          ],
+          "ISOAbbreviation": [
+            "F1000Res"
+          ],
+          "medlineAbbreviation": [
+            "F1000Res"
+          ],
+          "NLMid": [
+            "101594320"
+          ],
+          "ISSN": [
+            "2046-1402"
+          ],
+          "ESSN": [
+            "2046-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "861"
+  ],
+  "abstractText": [
+    "Sugarcane commercial cultivar SP80-3280 has been used as a model for genomic analyses in Brazil. Here we present a draft genome sequence employing Illumina TruSeq Synthetic Long reads. The dataset is available from NCBI BioProject with accession PRJNA272769."
+  ],
+  "affiliation": [
+    "Laboratory of Regulatory Systems Biology, Department of Biochemistry, Institute of Chemistry, University of São Paulo, São Paulo, SP, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "data-paper",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Polyploid",
+        "Sugarcane",
+        "Genomics",
+        "Long Reads"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.11859.2"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.11859.1"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.12688/f1000research.11859.1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5499785"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5499785?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR41003"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "gca",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-07-19"
+  ],
+  "firstIndexDate": [
+    "2017-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2017-07-15"
+  ],
+  "dateOfRevision": [
+    "2017-07-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-09"
+  ],
+  "firstPublicationDate": [
+    "2017-06-09"
+  ]
+}

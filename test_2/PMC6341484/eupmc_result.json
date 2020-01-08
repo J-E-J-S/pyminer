@@ -1,0 +1,726 @@
+{
+  "id": [
+    "30013044"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30013044"
+  ],
+  "pmcid": [
+    "PMC6341484"
+  ],
+  "doi": [
+    "10.1038/s41592-018-0054-7"
+  ],
+  "title": [
+    "A synthetic-diploid benchmark for accurate variant-calling evaluation."
+  ],
+  "authorString": [
+    "Li H, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B, MacArthur D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li H"
+          ],
+          "firstName": [
+            "Heng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4874-2874",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA. hengli@broadinstitute.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloom JM"
+          ],
+          "firstName": [
+            "Jonathan M"
+          ],
+          "lastName": [
+            "Bloom"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8497-1434",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Farjoun Y"
+          ],
+          "firstName": [
+            "Yossi"
+          ],
+          "lastName": [
+            "Farjoun"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7002-2868",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleharty M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Fleharty"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gauthier L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Gauthier"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Neale B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Neale"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1513-6077",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA. bneale@broadinstitute.org."
+          ]
+        },
+        {
+          "fullName": [
+            "MacArthur D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "MacArthur"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5771-2290",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Broad Institute of Harvard and MIT, Cambridge, MA, USA. danmac@broadinstitute.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8497-1434",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4874-2874",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7002-2868",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1513-6077",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5771-2290",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2711204"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature methods"
+          ],
+          "ISOAbbreviation": [
+            "Nat. Methods"
+          ],
+          "medlineAbbreviation": [
+            "Nat Methods"
+          ],
+          "NLMid": [
+            "101215604"
+          ],
+          "ISSN": [
+            "1548-7091"
+          ],
+          "ESSN": [
+            "1548-7105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "595-597"
+  ],
+  "abstractText": [
+    "Existing benchmark datasets for use in evaluating variant-calling accuracy are constructed from a consensus of known short-variant callers, and they are thus biased toward easy regions that are accessible by these algorithms. We derived a new benchmark dataset from the de novo PacBio assemblies of two fully homozygous human cell lines, which provides a relatively more accurate and less biased estimate of small-variant-calling error rates in a realistic context."
+  ],
+  "affiliation": [
+    "Broad Institute of Harvard and MIT, Cambridge, MA, USA. hengli@broadinstitute.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HG010040"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 HG009088"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 DK105566"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydatidiform Mole"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Uterine Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Homozygote"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diploidy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benchmarking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Whole Genome Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41592-018-0054-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6341484"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6341484?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR23456"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS970889"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-28"
+  ],
+  "dateOfCreation": [
+    "2018-07-18"
+  ],
+  "firstIndexDate": [
+    "2018-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-28"
+  ],
+  "dateOfRevision": [
+    "2019-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-16"
+  ],
+  "firstPublicationDate": [
+    "2018-07-16"
+  ]
+}

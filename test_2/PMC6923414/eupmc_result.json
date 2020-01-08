@@ -1,0 +1,383 @@
+{
+  "id": [
+    "31857603"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31857603"
+  ],
+  "pmcid": [
+    "PMC6923414"
+  ],
+  "doi": [
+    "10.1038/s41598-019-55351-z"
+  ],
+  "title": [
+    "OutCyte: a novel tool for predicting unconventional protein secretion."
+  ],
+  "authorString": [
+    "Zhao L, Poschmann G, Waldera-Lupa D, Rafiee N, Kollmann M, Stühler K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Linlin"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Molecular Medicine, Medical Faculty, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Poschmann G"
+          ],
+          "firstName": [
+            "Gereon"
+          ],
+          "lastName": [
+            "Poschmann"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Molecular Medicine, Medical Faculty, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Waldera-Lupa D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Waldera-Lupa"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Molecular Medicine, Medical Faculty, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rafiee N"
+          ],
+          "firstName": [
+            "Nima"
+          ],
+          "lastName": [
+            "Rafiee"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Mathematical Modelling of Biological Systems, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kollmann M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Kollmann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Mathematical Modelling of Biological Systems, Heinrich-Heine-University, Düsseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stühler K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Stühler"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Molecular Medicine, Medical Faculty, Heinrich-Heine-University, Düsseldorf, Germany. kai.stuehler@hhu.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2887502"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "19448"
+  ],
+  "abstractText": [
+    "The prediction of protein localization, such as in the extracellular space, from high-throughput data is essential for functional downstream inference. It is well accepted that some secreted proteins go through the classic endoplasmic reticulum-Golgi pathway with the guidance of a signal peptide. However, a large number of proteins have been found to reach the extracellular space by following unconventional secretory pathways. There remains a demand for reliable prediction of unconventional protein secretion (UPS). Here, we present OutCyte, a fast and accurate tool for the prediction of UPS, which for the first time has been built upon experimentally determined UPS proteins. OutCyte mediates the prediction of protein secretion in two steps: first, proteins with N-terminal signals are accurately filtered out; second, proteins without N-terminal signals are classified as UPS or intracellular proteins based on physicochemical features directly generated from their amino acid sequences. We are convinced that OutCyte will play a relevant role in the annotation of experimental data and will therefore contribute to further characterization of the extracellular nature of proteins by considering the commonly neglected UPS proteins.OutCyte has been implemented as a web server at www.outcyte.com."
+  ],
+  "affiliation": [
+    "Institute of Molecular Medicine, Medical Faculty, Heinrich-Heine-University, Düsseldorf, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FoKo"
+          ],
+          "agency": [
+            "Heinrich Heine University Düsseldorf | Medizinische Fakultät, Heinrich-Heine-Universität Düsseldorf (Medical Faculty, Heinrich-Heine-University)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Foko"
+          ],
+          "agency": [
+            "Heinrich Heine University Düsseldorf | Medizinische Fakultät, Heinrich-Heine-Universität Düsseldorf (Medical Faculty, Heinrich-Heine-University)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CRC1208"
+          ],
+          "agency": [
+            "Heinrich Heine University Düsseldorf | Medizinische Fakultät, Heinrich-Heine-Universität Düsseldorf (Medical Faculty, Heinrich-Heine-University)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-55351-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6923414"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6923414?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-21"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-19"
+  ],
+  "firstPublicationDate": [
+    "2019-12-19"
+  ]
+}

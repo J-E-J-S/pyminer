@@ -1,0 +1,330 @@
+{
+  "id": [
+    "30753279"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30753279"
+  ],
+  "pmcid": [
+    "PMC6748727"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/btz064"
+  ],
+  "title": [
+    "Variational infinite heterogeneous mixture model for semi-supervised clustering of heart enhancers."
+  ],
+  "authorString": [
+    "Mehdi TF, Singh G, Mitchell JA, Moses AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mehdi TF"
+          ],
+          "firstName": [
+            "Tahmid F"
+          ],
+          "lastName": [
+            "Mehdi"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "affiliation": [
+            "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh G"
+          ],
+          "firstName": [
+            "Gurdeep"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Cell & Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitchell JA"
+          ],
+          "firstName": [
+            "Jennifer A"
+          ],
+          "lastName": [
+            "Mitchell"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Department of Cell & Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Moses AM"
+          ],
+          "firstName": [
+            "Alan M"
+          ],
+          "lastName": [
+            "Moses"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "18"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2859904"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3232-3239"
+  ],
+  "abstractText": [
+    "MOTIVATION:Mammalian genomes can contain thousands of enhancers but only a subset are actively driving gene expression in a given cellular context. Integrated genomic datasets can be harnessed to predict active enhancers. One challenge in integration of large genomic datasets is the increasing heterogeneity: continuous, binary and discrete features may all be relevant. Coupled with the typically small numbers of training examples, semi-supervised approaches for heterogeneous data are needed; however, current enhancer prediction methods are not designed to handle heterogeneous data in the semi-supervised paradigm. RESULTS:We implemented a Dirichlet Process Heterogeneous Mixture model that infers Gaussian, Bernoulli and Poisson distributions over features. We derived a novel variational inference algorithm to handle semi-supervised learning tasks where certain observations are forced to cluster together. We applied this model to enhancer candidates in mouse heart tissues based on heterogeneous features. We constrained a small number of known active enhancers to appear in the same cluster, and 47 additional regions clustered with them. Many of these are located near heart-specific genes. The model also predicted 1176 active promoters, suggesting that it can discover new enhancers and promoters. AVAILABILITY AND IMPLEMENTATION:We created the 'dphmix' Python package: https://pypi.org/project/dphmix/. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Department of Computer Science, University of Toronto, Toronto, ON, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/btz064"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6748727"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6748727?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR58692"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-13"
+  ],
+  "firstIndexDate": [
+    "2019-02-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-24"
+  ],
+  "firstPublicationDate": [
+    "2019-09-01"
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": [
+    "31222035"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31222035"
+  ],
+  "pmcid": [
+    "PMC6586841"
+  ],
+  "doi": [
+    "10.1038/s41598-019-45301-0"
+  ],
+  "title": [
+    "Structure-preserving visualisation of high dimensional single-cell datasets."
+  ],
+  "authorString": [
+    "Szubert B, Cole JE, Monaco C, Drozdov I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Szubert B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Szubert"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Bering Limited, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Cole JE"
+          ],
+          "firstName": [
+            "Jennifer E"
+          ],
+          "lastName": [
+            "Cole"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, OX3 7FY, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Monaco C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Monaco"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1985-4914",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, OX3 7FY, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Drozdov I"
+          ],
+          "firstName": [
+            "Ignat"
+          ],
+          "lastName": [
+            "Drozdov"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Bering Limited, London, United Kingdom. idrozdov@beringresearch.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1985-4914",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2823394"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8914"
+  ],
+  "abstractText": [
+    "Single-cell technologies offer an unprecedented opportunity to effectively characterize cellular heterogeneity in health and disease. Nevertheless, visualisation and interpretation of these multi-dimensional datasets remains a challenge. We present a novel framework, ivis, for dimensionality reduction of single-cell expression data. ivis utilizes a siamese neural network architecture that is trained using a novel triplet loss function. Results on simulated and real datasets demonstrate that ivis preserves global data structures in a low-dimensional space, adds new data points to existing embeddings using a parametric mapping function, and scales linearly to hundreds of thousands of cells. ivis is made publicly available through Python and R interfaces on https://github.com/beringresearch/ivis ."
+  ],
+  "affiliation": [
+    "Bering Limited, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "HEALTH-F2-2013-602114"
+          ],
+          "agency": [
+            "European Commission (EC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-45301-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586841"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586841?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-22"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-29"
+  ],
+  "dateOfRevision": [
+    "2019-06-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

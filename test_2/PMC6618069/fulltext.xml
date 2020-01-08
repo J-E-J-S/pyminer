@@ -1,0 +1,927 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Ecol Resour</journal-id><journal-id journal-id-type="iso-abbrev">Mol Ecol Resour</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1755-0998</journal-id><journal-id journal-id-type="publisher-id">MEN</journal-id><journal-title-group><journal-title>Molecular Ecology Resources</journal-title></journal-title-group><issn pub-type="ppub">1755-098X</issn><issn pub-type="epub">1755-0998</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6618069</article-id><article-id pub-id-type="doi">10.1111/1755-0998.13020</article-id><article-id pub-id-type="publisher-id">MEN13020</article-id><article-categories><subj-group subj-group-type="overline"><subject>Resource Article</subject></subj-group><subj-group subj-group-type="heading"><subject>RESOURCE ARTICLES</subject><subj-group subj-group-type="heading"><subject>Permanent Genetic Resources</subject></subj-group></subj-group></article-categories><title-group><article-title>Improving Illumina assemblies with Hi&#x02010;C and long reads: An example with the North African dromedary</article-title><alt-title alt-title-type="left-running-head">ELBERS et al.</alt-title></title-group><contrib-group><contrib id="men13020-cr-0001" contrib-type="author" corresp="yes"><name><surname>Elbers</surname><given-names>Jean P.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5593-4447</contrib-id><address><email>jean.elbers@gmail.com</email></address><xref ref-type="aff" rid="men13020-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="men13020-cr-0002" contrib-type="author"><name><surname>Rogers</surname><given-names>Mark F.</given-names></name><xref ref-type="aff" rid="men13020-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="men13020-cr-0003" contrib-type="author"><name><surname>Perelman</surname><given-names>Polina L.</given-names></name><xref ref-type="aff" rid="men13020-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="men13020-cr-0004" contrib-type="author"><name><surname>Proskuryakova</surname><given-names>Anastasia A.</given-names></name><xref ref-type="aff" rid="men13020-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="men13020-cr-0005" contrib-type="author"><name><surname>Serdyukova</surname><given-names>Natalia A.</given-names></name><xref ref-type="aff" rid="men13020-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="men13020-cr-0006" contrib-type="author"><name><surname>Johnson</surname><given-names>Warren E.</given-names></name><xref ref-type="aff" rid="men13020-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="men13020-cr-0007" contrib-type="author"><name><surname>Horin</surname><given-names>Petr</given-names></name><xref ref-type="aff" rid="men13020-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="men13020-cr-0008" contrib-type="author"><name><surname>Corander</surname><given-names>Jukka</given-names></name><xref ref-type="aff" rid="men13020-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="men13020-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="men13020-cr-0009" contrib-type="author"><name><surname>Murphy</surname><given-names>David</given-names></name><xref ref-type="aff" rid="men13020-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="men13020-cr-0010" contrib-type="author" corresp="yes"><name><surname>Burger</surname><given-names>Pamela A.</given-names></name><address><email>pamela.burger@vetmeduni.ac.at</email></address><xref ref-type="aff" rid="men13020-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="men13020-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Integrative Biology and Evolution</named-content>
+<institution>Research Institute of Wildlife Ecology, Vetmeduni Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="men13020-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Intelligent Systems Laboratory</named-content>
+<institution>University of Bristol</institution>
+<named-content content-type="city">Bristol</named-content>
+<country country="GB">UK</country>
+</aff><aff id="men13020-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute of Molecular and Cellular Biology</named-content>
+<institution>SB RAS and Novosibirsk State University</institution>
+<named-content content-type="city">Novosibirsk</named-content>
+<country country="RU">Russia</country>
+</aff><aff id="men13020-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">The Walter Reed Biosystematics Unit, Smithsonian Institution</named-content>
+<institution>Museum Support Center MRC&#x02010;534</institution>
+<named-content content-type="city">Suitland</named-content>
+<named-content content-type="country-part">Maryland</named-content>
+</aff><aff id="men13020-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Animal Genetics, Faculty of Veterinary Medicine, Ceitec VFU, RG Animal Immunogenomics</named-content>
+<institution>University of Veterinary and Pharmaceutical Sciences</institution>
+<named-content content-type="city">Brno</named-content>
+<country country="CZ">Czech Republic</country>
+</aff><aff id="men13020-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Biostatistics</named-content>
+<institution>University of Oslo</institution>
+<named-content content-type="city">Oslo</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="men13020-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Mathematics and Statistics</named-content>
+<institution>University of Helsinki</institution>
+<named-content content-type="city">Helsinki</named-content>
+<country country="FI">Finland</country>
+</aff><aff id="men13020-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Bristol Medical School: Translational Health Sciences, Molecular Neuroendocrinology Research Group</named-content>
+<institution>University of Bristol</institution>
+<named-content content-type="city">Bristol</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Jean Elbers and Pamela Burger, Department of Integrative Biology and Evolution, Research Institute of Wildlife Ecology, Vetmeduni Vienna, Vienna, Austria.<break/>
+Emails: <email>jean.elbers@gmail.com</email>; <email>pamela.burger@vetmeduni.ac.at</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>5</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2019</year></pub-date><volume>19</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/men.2019.19.issue-4</issue-id><fpage>1015</fpage><lpage>1026</lpage><history><date date-type="received"><day>16</day><month>8</month><year>2018</year></date><date date-type="rev-recd"><day>24</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>25</day><month>3</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Molecular Ecology Resources</italic> Published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MEN-19-1015.pdf"/><abstract id="men13020-abs-0001"><title>Abstract</title><p>Researchers have assembled thousands of eukaryotic genomes using Illumina reads, but traditional mate&#x02010;pair libraries cannot span all repetitive elements, resulting in highly fragmented assemblies. However, both chromosome conformation capture techniques, such as Hi&#x02010;C and Dovetail Genomics Chicago libraries and long&#x02010;read sequencing, such as Pacific Biosciences and Oxford Nanopore, help span and resolve repetitive regions and therefore improve genome assemblies. One important livestock species of arid regions that does not have a high&#x02010;quality contiguous reference genome is the dromedary (<italic>Camelus dromedarius</italic>). Draft genomes exist but are highly fragmented, and a high&#x02010;quality reference genome is needed to understand adaptation to desert environments and artificial selection during domestication. Dromedaries are among the last livestock species to have been domesticated, and together with wild and domestic Bactrian camels, they are the only representatives of the Camelini tribe, which highlights their evolutionary significance. Here we describe our efforts to improve the North African dromedary genome. We used Chicago and Hi&#x02010;C sequencing libraries from Dovetail Genomics to resolve the order of previously assembled contigs, producing almost chromosome&#x02010;level scaffolds. Remaining gaps were filled with Pacific Biosciences long reads, and then scaffolds were comparatively mapped to chromosomes. Long reads added 99.32&#x000a0;Mbp to the total length of the new assembly. Dovetail Chicago and Hi&#x02010;C libraries increased the longest scaffold over 12&#x02010;fold, from 9.71&#x000a0;Mbp to 124.99&#x000a0;Mbp and the scaffold N50 over 50&#x02010;fold, from 1.48&#x000a0;Mbp to 75.02&#x000a0;Mbp. We demonstrate that Illumina de novo assemblies can be substantially upgraded by combining chromosome conformation capture and long&#x02010;read sequencing.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="men13020-kwd-0001">chromosome conformation capture</kwd><kwd id="men13020-kwd-0002">chromosome mapping</kwd><kwd id="men13020-kwd-0003">dromedary</kwd><kwd id="men13020-kwd-0004">genome annotation</kwd><kwd id="men13020-kwd-0005">genome assembly</kwd><kwd id="men13020-kwd-0006">scaffolding</kwd></kwd-group><funding-group><award-group><funding-source>Russian Science Foundation</funding-source><award-id>16-14-10009</award-id></award-group><award-group><funding-source>Russian Foundation for Basic Research</funding-source><award-id>17-00-00146</award-id></award-group><award-group><funding-source>Leverhulme Trust</funding-source><award-id>RPG-2017-287</award-id></award-group><award-group><funding-source>Austrian Science Fund</funding-source><award-id>P29623-B25</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="12"/><word-count count="9462"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>men13020</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.5 mode:remove_FC converted:10.07.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="men13020-cit-1001">
+<string-name>
+<surname>Elbers</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Perelman</surname>
+<given-names>PL</given-names>
+</string-name>, et al. <article-title>Improving Illumina assemblies with Hi&#x02010;C and long reads: An example with the North African dromedary</article-title>. <source xml:lang="en">Mol Ecol Resour</source>. <year>2019</year>;<volume>19</volume>:<fpage>1015</fpage>&#x02013;<lpage>1026</lpage>. <pub-id pub-id-type="doi">10.1111/1755-0998.13020</pub-id>
+<pub-id pub-id-type="pmid">30972949</pub-id></mixed-citation>
+</p><fn-group id="men13020-ntgp-0001"><fn fn-type="" id="men13020-note-0001"><p>
+<bold>Data Availability Statement:</bold> This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JWIN00000000. The version described in this paper is version JWIN02000000. Raw PacBio Sequel subread sequences are available from NCBI Sequence Read Archive (accession SRP050586). Read alignments (Dovetail Chicago and Dovetail Hi&#x02010;C reads mapped to original North African dromedary genome assembly, CamDro1) are available upon request. Dromedary RNA&#x02010;Seq sequences are from ; NCBI BioProject PRJNA543338. CamDro2 gene annotations, predicted mRNA and proteins, assembly for gene annotations, CamDro1 assembly improved by Dovetail Genomics Chicago and Hi&#x02010;C libraries, and RH <italic>V. pacos</italic> probe sequences are available from Dryad (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.6rp36b6">https://doi.org/10.5061/dryad.6rp36b6</ext-link>). Example scripts and code for analyses are available from Online <xref rid="men13020-sup-0001" ref-type="supplementary-material">Appendix </xref>S1<xref rid="men13020-sup-0001" ref-type="supplementary-material">: Methods </xref>S1 and also the Dryad repository. Note that annotations hosted by NCBI will differ from annotations on Dryad.</p></fn></fn-group></notes></front><body><sec id="men13020-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Technlogical advances in sequencing have enabled researchers to assemble thousands of eukaryotic genomes. More than 82% of the ~4,300 eukaryotic genomes in the National Center for Biotechnology and Information (NCBI) Assembly database with assembly reports have been assembled using short&#x02010; and/or long&#x02010;insert (mate&#x02010;pair) libraries sequenced with Solexa/Illumina's &#x0201c;Sequencing&#x02010;By&#x02010;Synthesis&#x0201d; technology (Bonetta, <xref rid="men13020-bib-0010" ref-type="ref">2006</xref>; Kitts et al., <xref rid="men13020-bib-0036" ref-type="ref">2016</xref>; Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S1</xref>). These genomes are typically in a draft form, consisting of tens of thousands of scaffolds that comprise the majority of the assembly. Long&#x02010;insert libraries greater than 8 Kbp are needed to span long interspersed nuclear elements (LINEs), some of the most common repetitive elements in eukaryotic genomes (Sotero&#x02010;Caio, Platt, Suh, &#x00026; Ray, <xref rid="men13020-bib-0057" ref-type="ref">2017</xref>; Treangen &#x00026; Salzberg, <xref rid="men13020-bib-0059" ref-type="ref">2011</xref>; van Heesch et al., <xref rid="men13020-bib-0061" ref-type="ref">2013</xref>). However, even 20&#x02013;25&#x000a0;Kbp long&#x02010;insert libraries cannot span and thus resolve repetitive elements such as long segmental duplications in eukaryotic genomes (Bailey, <xref rid="men13020-bib-0006" ref-type="ref">2004</xref>; Feng et al., <xref rid="men13020-bib-0022" ref-type="ref">2017</xref>; Treangen &#x00026; Salzberg, <xref rid="men13020-bib-0059" ref-type="ref">2011</xref>).</p><p>Newer high&#x02010;throughput laboratory methods are beginning to overcome the limitations of traditional long&#x02010;insert libraries, and these new libraries can extend across repetitive regions enabling the scaffolding and ordering of previously unscaffolded contigs. One method, Hi&#x02010;C, is a type of chromosome conformation capture or proximity ligation method. The method involves DNA regions that are in close proximity three&#x02010;dimensionally and cross&#x02010;linked in vivo, digested with restriction enzymes, repaired with biotinylated residues, and ligated together resulting in DNA regions that have various chromatin interactions but are located close together on the same synthetic molecule. These synthetic molecules can then be sheared, enriched for interacting regions using streptavidin beads, and ultimately sequenced using Illumina short&#x02010;insert libraries in a higher&#x02010;throughput fashion compared to laborious bacterial artificial chromosome (BAC) and fosmid end sequencing (Lieberman&#x02010;Aiden et al., <xref rid="men13020-bib-0041" ref-type="ref">2009</xref>). Resulting Hi&#x02010;C paired&#x02010;end reads can be mapped to de novo genome assemblies and used to scaffold and order contigs, creating super scaffolds in the size range of chromosomes (Bickhart et al., <xref rid="men13020-bib-0009" ref-type="ref">2017</xref>; Dudchenko et al., <xref rid="men13020-bib-0017" ref-type="ref">2017</xref>; Kaplan &#x00026; Dekker, <xref rid="men13020-bib-0032" ref-type="ref">2013</xref>; Korbel &#x00026; Lee, <xref rid="men13020-bib-0038" ref-type="ref">2013</xref>). Another proximity ligation method, Chicago libraries, has much in common with Hi&#x02010;C except Chicago libraries are constructed in vitro (Putnam et al., <xref rid="men13020-bib-0050" ref-type="ref">2016</xref>) and are available as a commercial service from Dovetail Genomics (Santa Cruz, California, USA). Both Hi&#x02010;C and Dovetail Chicago libraries have been successfully used in creating super scaffolds to improve the continuity of numerous eukaryotic genomes (Kaplan &#x00026; Dekker, <xref rid="men13020-bib-0032" ref-type="ref">2013</xref>; Korbel &#x00026; Lee, <xref rid="men13020-bib-0038" ref-type="ref">2013</xref>; Moll et al., <xref rid="men13020-bib-0045" ref-type="ref">2017</xref>).</p><p>Eukaryotic genome assemblies have been further enhanced by long&#x02010;read sequencing technologies from Pacific Biosciences (PacBio, Menlo Park, CA, USA; Eid et al., <xref rid="men13020-bib-0019" ref-type="ref">2009</xref>) and Oxford Nanopore Technologies (Oxford Nanopore, Oxford, UK; Venkatesan &#x00026; Bashir, <xref rid="men13020-bib-0062" ref-type="ref">2011</xref>). These technologies generate much longer sequences, but raw reads have higher error rates and are more prone to insertions/deletions (indels) than Illumina reads (Jain, Olsen, Paten, &#x00026; Akeson, <xref rid="men13020-bib-0029" ref-type="ref">2016</xref>; Salmela &#x00026; Rivals, <xref rid="men13020-bib-0053" ref-type="ref">2014</xref>). Both Oxford Nanopore and PacBio overcome the problems of error&#x02010;prone raw reads by generating a consensus sequence either on the level of the instrument whereby DNA molecules in PacBio sequencers are read multiple times (i.e., circular consensus sequences) or after the sequences have been generated by PacBio or Oxford Nanopore sequencers. Ultimately, these long&#x02010;read technologies generate longer sequences that can span repetitive regions, enabling the assembly of longer contigs that can be later error corrected and/or scaffolded into high&#x02010;quality eukaryotic genome assemblies using traditional long&#x02010;insert, Hi&#x02010;C, or Dovetail Chicago libraries (Jiao et al., <xref rid="men13020-bib-0030" ref-type="ref">2017</xref>; Miller et al., <xref rid="men13020-bib-0044" ref-type="ref">2017</xref>; Passera et al., <xref rid="men13020-bib-0047" ref-type="ref">2018</xref>).</p><p>High&#x02010;quality genomes resulting from long reads and/or Hi&#x02010;C libraries have improved gene sequence completeness for evolutionary studies and can be used to understand what genetic variation influences phenotypic traits to benefit evolutionary ecology and selective breeding. For example, the latest assembled goat genome has taken advantage of long&#x02010;read sequences and Hi&#x02010;C libraries in its assembly (Bickhart et al., <xref rid="men13020-bib-0009" ref-type="ref">2017</xref>). Additionally, long&#x02010;read sequence assembly of great ape genomes facilitated high&#x02010;resolution comparative analyses between humans and great apes (Kronenberg et al., <xref rid="men13020-bib-0039" ref-type="ref">2018</xref>). Genetic variation that influences phenotypic traits can be identified with genome&#x02010;wide association studies (GWAS) that benefit from more contiguous assemblies. Contiguous assemblies have more variants per scaffold, which can improve genotype imputation (i.e., filling in missing genotype data) in GWAS (Davies, Flint, Myers, &#x00026; Mott, <xref rid="men13020-bib-0016" ref-type="ref">2016</xref>), and contiguous assemblies also permit searching genomes for genes located nearby variants that are significantly associated with phenotypes. For example, GWAS with contiguous genome assemblies identified candidate loci associated with tuberculosis susceptibility and recombination hot spots in wild boar and Soay sheep, respectively (Johnston, B&#x000e9;r&#x000e9;nos, Slate, &#x00026; Pemberton, <xref rid="men13020-bib-0031" ref-type="ref">2016</xref>; Queir&#x000f3;s, Alves, Vicente, Gort&#x000e1;zar, &#x00026; de la Fuente, <xref rid="men13020-bib-0051" ref-type="ref">2018</xref>). GWAS and genomic selection are now routine approaches to improve selective breeding in agriculture and horticulture, for example to investigate beef and milk production traits in cattle (Sorbolini et al., <xref rid="men13020-bib-0056" ref-type="ref">2017</xref>; Yue et al., <xref rid="men13020-bib-0067" ref-type="ref">2017</xref>) and growth and fatness in pigs (Guo et al., <xref rid="men13020-bib-0026" ref-type="ref">2017</xref>).</p><p>A contiguous genome assembly is not available for the dromedary (<italic>Camelus dromedarius</italic>), an important livestock species especially for dry and marginal ecoagricultural parts of the world. Dromedaries are among the last livestock species to have been domesticated, only around 3,000&#x000a0;years ago (Almathen et al., <xref rid="men13020-bib-0003" ref-type="ref">2016</xref>; Uerpmann &#x00026; Uerpmann, <xref rid="men13020-bib-0060" ref-type="ref">2012</xref>). Traditionally, they have been bred as multi&#x02010;purpose animals (Abdussamad, Charruau, Kalla, &#x00026; Burger, <xref rid="men13020-bib-0001" ref-type="ref">2015</xref>), for milk, meat, hides and wool, and for endurance and transport; only recently stronger selection has begun for fast, narrow&#x02010;bellied racing camels (Faye, Abdallah, Almathen, Harzallah, &#x00026; Al&#x02010;Mutairi, <xref rid="men13020-bib-0021" ref-type="ref">2011</xref>). Thus, dromedaries present a very interesting model to study the &#x0201c;initial stages&#x0201d; of domestication, where potential signals of selection for tameness and tolerance of humans are not overlaid by stronger signatures of artificial selection for economic traits, as seen in specific meat and milk breeds from other livestock. In terms of evolutionary significance, dromedaries form together with their sister taxa, the domesticated Bactrian camel (<italic>Camelus bactrianus</italic>) and the highly&#x02010;endangered wild two&#x02010;humped camels (<italic>Camelus ferus</italic>), the tribe of Camelini (Old World camels). Next to the New World camels (Lamini) they are the only representatives of the suborder Tylopoda. Thus, dromedary breeders and evolutionary biologists would benefit from a high&#x02010;quality dromedary reference genome. Although draft genome assemblies from North African and Arabian dromedaries have been established, respectively (Fitak, Mohandesan, Corander, &#x00026; Burger, <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; Wu et al., <xref rid="men13020-bib-0065" ref-type="ref">2014</xref>); these genome assemblies are highly fragmented, and scaffolds are not assigned to chromosomes.</p><p>Here we describe our efforts to improve the North African dromedary reference genome. We used Chicago and Hi&#x02010;C sequencing libraries from Dovetail Genomics to resolve the placement and order of previously de novo assembled contigs from Illumina short&#x02010; and long&#x02010;insert libraries (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>), producing almost chromosome&#x02010;level scaffolds for which we filled in gaps using PacBio long reads, mapped scaffolds to chromosomes, and annotated the resulting assembly.</p></sec><sec sec-type="materials-and-methods" id="men13020-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="men13020-sec-0003"><label>2.1</label><title>Brief summary of the CamDro2 assembly process</title><p>We scaffolded the existing Illumina&#x02010;only assembly (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>) with Dovetail Chicago data, improved the Chicago assembly by scaffolding with Hi&#x02010;C data, filled in gaps in the Hi&#x02010;C assembly with PacBio reads, then filled in gaps and polished the assembly with Illumina reads used to de novo assemble <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>. An overview of the CamDro2 assembly process is given in Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="men13020-sec-0004"><label>2.2</label><title>The original North African dromedary genome assembly</title><p>The original North African dromedary genome assembly was created from a female dromedary &#x0201c;Waris&#x0201d; (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>) owned by the First Austrian Camel Riding School, stemming from the Canary Islands with North African ancestry. Briefly, two types of Illumina libraries were generated and sequenced from DNA extracted from whole blood, which was collected commensally during veterinary diagnostic treatment with the owner's consent: 500&#x000a0;bp (short&#x02010;insert, 100&#x000a0;bp paired&#x02010;end reads) and 5&#x000a0;Kbp (long&#x02010;insert/mate&#x02010;pair, 50&#x000a0;bp paired&#x02010;end reads) libraries. Short&#x02010; and long&#x02010;insert reads were trimmed with <sc>popoolation</sc> v. 1.2.2 (Kofler et al., <xref rid="men13020-bib-0037" ref-type="ref">2011</xref>), and short&#x02010;insert reads were error&#x02010;corrected with <sc>quake</sc> v 0.3.5 (Kelley, Schatz, &#x00026; Salzberg, <xref rid="men13020-bib-0033" ref-type="ref">2010</xref>). Short&#x02010; and long&#x02010;insert reads were simultaneously assembled with <sc>abyss</sc> v. 1.3.6 (Simpson et al., <xref rid="men13020-bib-0055" ref-type="ref">2009</xref>) with a k&#x02010;mer value of 64 resulting in the longest scaffold N50. Only scaffolds greater than 500&#x000a0;bp were retained for the final North African dromedary (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>) assembly, hereafter CamDro1.</p></sec><sec id="men13020-sec-0005"><label>2.3</label><title>Dovetail Chicago and Hi&#x02010;C libraries</title><p>Dovetail Genomics created Chicago and Dovetail Hi&#x02010;C libraries from a low&#x02010;passage cell culture line (Perelman, Pichler, Gaggl, &#x00026; Larkin, <xref rid="men13020-bib-0048" ref-type="ref">2018</xref>) derived from ear fibroblasts of the same dromedary &#x0201c;Waris&#x0201d; used in CamDro1. The fibroblast cells were retrieved from a diagnostic skin scraping for parasites, and the owner agreed on using the leftover material for research purposes. Dovetail Genomics created three Chicago and three Hi&#x02010;C libraries with the <italic>DpnII</italic> restriction enzyme, sequenced these libraries on six lanes of an Illumina HiSeq sequencer, and then scaffolded the CamDro1 assembly using the HiRise pipeline (Putnam et al., <xref rid="men13020-bib-0050" ref-type="ref">2016</xref>). To do so, first, the CamDro1 assembly was scaffolded using Dovetail Chicago data. The Chicago assembly was then improved by scaffolding with Hi&#x02010;C data creating a Hi&#x02010;C assembly.</p></sec><sec id="men13020-sec-0006"><label>2.4</label><title>PacBio long&#x02010;read sequencing</title><p>We extracted high molecular weight DNA from the same low&#x02010;passage cell line used to create Dovetail Chicago and Hi&#x02010;C libraries. Briefly, the high molecular weight DNA was extracted by lysing freshly harvested cells in lysis buffer, followed by phenol chloroform extraction and precipitation. Throughout the whole extraction process, the DNA was manipulated gently to preserve high molecular weight. From this DNA, the Vienna BioCenter Core Facilities NGS Unit (Vienna, Austria, <ext-link ext-link-type="uri" xlink:href="http://www.vbcf.ac.at">www.vbcf.ac.at</ext-link>) created a PacBio library for the PacBio Sequel sequencer and sequenced this library on five 1M v2 PacBio Sequel SMRT Cells using PacBio Sequel 2.1 sequencing reagents.</p></sec><sec id="men13020-sec-0007"><label>2.5</label><title>Additional assembly steps</title><p>We used <sc>bamtools</sc> v. 2.5.0 (Barnett, Garrison, Quinlan, Str&#x000f6;mberg, &#x00026; Marth, <xref rid="men13020-bib-0008" ref-type="ref">2011</xref>) to extract FASTQ sequences from PacBio Sequel subread BAM (binary alignment map) files. Because quality values for subreads from the PacBio Sequel are given a Phred quality score of 0, we artificially assigned a Phred score of 30 to all bases for input into <sc>pbjelly</sc> v. 15.8.24 (English et al., <xref rid="men13020-bib-0020" ref-type="ref">2012</xref>) to fill in gaps in the Hi&#x02010;C assembly. We polished the PBJelly assembly with <sc>pilon</sc> v. 1.22 (Walker et al., <xref rid="men13020-bib-0063" ref-type="ref">2014</xref>; see <xref rid="men13020-sup-0001" ref-type="supplementary-material">Supplementary Methods</xref> for settings) employing the same trimmed and error&#x02010;corrected Illumina short&#x02010;insert sequences used for the assembly of CamDro1 by Fitak et al. (<xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; Sequence Read Archive accession: SRR2002493) to correct SNPs and indels. Next, we filled in gaps present in the Pilon assembly with <sc>abyss</sc>
+<sc>sealer</sc> v. 2.0.2 (Jackman et al., <xref rid="men13020-bib-0028" ref-type="ref">2017</xref>) using the same error&#x02010;corrected Illumina reads and default settings except for a bloom filter size of 40&#x000a0;GB and multiple <italic>K</italic> values from 90 to 20 in increments of 10. Finally, we polished the <sc>abyss</sc> assembly with <sc>pilon</sc> (see <xref rid="men13020-sup-0001" ref-type="supplementary-material">Supplementary Methods</xref> for settings) once again with the same error&#x02010;corrected Illumina reads, fixing any SNPs and indels that were not accounted for in the first round of polishing but also filling in gaps. We refer to this as the CamDro2 assembly.</p></sec><sec id="men13020-sec-0008"><label>2.6</label><title>K&#x02010;mer analysis and dot plot</title><p>We compared 27&#x02010;mers present in the error&#x02010;corrected Illumina short&#x02010;insert sequences and the CamDro2 assembly using <sc>kat</sc> v. 2.3.4 (Mapleson, Garcia Accinelli, Kettleborough, Wright, &#x00026; Clavijo, <xref rid="men13020-bib-0043" ref-type="ref">2017</xref>; see <xref rid="men13020-sup-0001" ref-type="supplementary-material">Supplementary Methods</xref> for settings) to evaluate the proportion of the sequencing reads, duplication rates, and heterozygosity present in the CamDro1 and CamDro2 assemblies.</p><p>To assess the level of disagreement between CamDro1 and CamDro2, we made a whole&#x02010;genome alignment with <sc>minimap</sc>2 v. 2.15 (Li, <xref rid="men13020-bib-0040" ref-type="ref">2018</xref>) using the &#x0201c;asm5&#x0201d; preset. We then used <sc>d&#x02010;genies</sc> v. 1.2.0.1 (Cabanettes &#x00026; Klopp, <xref rid="men13020-bib-0013" ref-type="ref">2018</xref>) to generate a dot plot for the alignment by using the contig sorting function and filtering out matches with &#x02264;0.001% dot plot width and identity &#x02264;0.75.</p></sec><sec id="men13020-sec-0009"><label>2.7</label><title>RNA&#x02010;Seq mapping</title><p>To assess the quality of the new assembly, we aligned 10 sets of paired&#x02010;end RNA&#x02010;Seq reads (Alim et al., <xref rid="men13020-bib-0002" ref-type="ref">2019</xref>) to the original assembly (CamDro1), to the new assembly (CamDro2), and to several controls: <italic>C.&#x000a0;dromedarius</italic> (RefSeq version &#x02010; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000767585.1">GCA_000767585.1</ext-link>), <italic>C.&#x000a0;bactrianus</italic> (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000767855.1">GCA_000767855.1</ext-link>), <italic>C.&#x000a0;ferus</italic> (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000311805.2">GCA_000311805.2</ext-link>) and <italic>Bos taurus</italic> (cattle) (<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000003055.3">GCA_000003055.3</ext-link>). The 10 RNA&#x02010;Seq data sets comprise a 2&#x000a0;&#x000d7;&#x000a0;2 factorial experiment: summer versus winter seasons and supraoptic nucleus (SON) versus neurointermediate lobe (NIL) brain tissues, with <italic>n</italic>&#x000a0;=&#x000a0;3 replicates in each class. Tissue was homogenized and extracted using in Trizol/chloroform (ThermoFisher), and purified using the RNeasy MiniKit (Qiagen). The library template was prepared using a ribosome depletion protocol (Ribo&#x02010;Zero Gold; Illumina) and libraries prepared using TruSeq Stranded protocol (Illumina). Samples were multiplexed into lane pools with an 8&#x000a0;pm concentration and sequenced (100&#x000a0;bp paired&#x02010;end reads with an average 134&#x000a0;bp insert size) to a depth of&#x000a0;&#x0003e;&#x000a0;35 million reads using an Illumina HiSeq 2500. Two of the 12 replicates were rejected for insufficient quality. We used <sc>tophat</sc> v. 2.0.9 (Kim et al., <xref rid="men13020-bib-0035" ref-type="ref">2013</xref>) with default settings to align reads to each genome and report overall alignment rate (default output of Tophat) within each class.</p></sec><sec id="men13020-sec-0010"><label>2.8</label><title>Chromosome mapping</title><p>We used <sc>blastn</sc> v. 2.2.31+ (Altschul, <xref rid="men13020-bib-0004" ref-type="ref">1990</xref>) with an E value &#x02264;1e&#x02212;30 and max hsps 1 to map 4,981 RH (radiation&#x02010;hybrid) probe sequences assigned to <italic>Vicuna (Lama) pacos</italic> (alpaca) chromosomes (W. E. Johnson <italic>unpublished data</italic>; Avila et al., <xref rid="men13020-bib-0005" ref-type="ref">2014</xref>) to CamDro2 assembly scaffolds. Briefly, the unpublished RH probe sequences come from a range of sources: <italic>V.&#x000a0;pacos</italic> cDNA and microsatellite sequences, custom designed primers, oligos based on bioinformatic screening of 2&#x000d7; <italic>V. pacos</italic> genome, and homologous (<italic>V.&#x000a0;pacos</italic>) and heterologous (<italic>B.&#x000a0;taurus</italic>) oligos from SNP chips. Camelids (<italic>C.&#x000a0;dromedarius</italic>, <italic>C.&#x000a0;bactrianus</italic>, <italic>C.&#x000a0;ferus, Lama glama</italic>, <italic>L.&#x000a0;guanicoe, V.&#x000a0;pacos</italic>, and <italic>V.&#x000a0;vicuna</italic>) have highly conserved karyotypes and share the same diploid number (2<italic>n</italic>&#x000a0;=&#x000a0;74) and syntenic groups (Avila et al., <xref rid="men13020-bib-0005" ref-type="ref">2014</xref>; Balmus et al., <xref rid="men13020-bib-0007" ref-type="ref">2007</xref>). Balmus et al. (<xref rid="men13020-bib-0007" ref-type="ref">2007</xref>) used dromedary whole&#x02010;chromosome painting probes to look for differences in dromedary, <italic>L.&#x000a0;guanicoe</italic>, and <italic>C.&#x000a0;bactrianus</italic> chromosome sets. They found each dromedary painting probe painted one single chromosome in <italic>L.&#x000a0;guanicoe</italic> and <italic>C.&#x000a0;bactrianus</italic> indicating intact syntenic groups with no fusion or fission events. They only found differences in the size and composition of heterochromatin blocks, which are repeats not associated with our alpaca RH probe markers. Avila et al. (<xref rid="men13020-bib-0005" ref-type="ref">2014</xref>) mapped alpaca BAC markers onto dromedary chromosomes and also found no fission or fusion events and stated exceptional conservation of syntenies between <italic>V.&#x000a0;pacos</italic> and dromedary. The <italic>V.&#x000a0;pacos</italic> BAC map of Avila et al. (<xref rid="men13020-bib-0005" ref-type="ref">2014</xref>) is integrated with the dromedary painting map of Balmus et al. (<xref rid="men13020-bib-0007" ref-type="ref">2007</xref>) meaning <italic>V.&#x000a0;pacos</italic> and dromedary maps have the same chromosome (syntenic group) order. Overall chromosome painting and BAC mapping provide sufficient physical mapping evidence to conclude that chromosomes of <italic>V.&#x000a0;pacos</italic> and dromedary (as well as of other camelids) have one&#x02010;to&#x02010;one correspondence and follow the same nomenclature and order. We inferred dromedary chromosome numbers by blasting RH probes for each <italic>V.&#x000a0;pacos</italic> chromosome against CamDro2 scaffolds, keeping only the highest E value hit for each RH probe, and assigning chromosome number based on the CamDro2 scaffold with the most blast hits for each <italic>V.&#x000a0;pacos</italic> chromosome RH probe set.</p><p>To further assess the validity of <italic>V.&#x000a0;pacos</italic> chromosome RH probe sets to infer dromedary chromosome numbers, we made a whole&#x02010;genome alignment between CamDro2 and a recently made public <italic>V.&#x000a0;pacos</italic> Hi&#x02010;C assembly (<ext-link ext-link-type="uri" xlink:href="https://www.dnazoo.org/assemblies/Vicugna_pacos">https://www.dnazoo.org/assemblies/Vicugna_pacos</ext-link>; hereafter Alpaca assembly; Dudchenko et al., <xref rid="men13020-bib-0017" ref-type="ref">2017</xref>, <xref rid="men13020-bib-0018" ref-type="ref">2018</xref>) with Minimap2 using the &#x0201c;asm5&#x0201d; preset. We used D&#x02010;GENIES to generate a dot plot for the alignment by using the contig sorting function and filtering out matches with &#x02264;0.001% dot plot width and identity &#x02264;0.5. Before alignment, we reverse complemented CamDro2 chromosomes 1, 3, 4, 6, 7&#x02013;10, 12&#x02013;14, 26, 35, and X as these chromosomes were in the opposite orientation to matching Alpaca assembly scaffolds.</p><p>We repeated blastn mapping of our <italic>V.&#x000a0;pacos</italic> RH probe sequences to the Alpaca assembly to assign putative chromosome numbers to this assembly.</p></sec><sec id="men13020-sec-0011"><label>2.9</label><title>Annotation</title><p>We annotated CamDro2 scaffolds greater than 10 Kbp with <sc>maker</sc> v. 2.31.9 (Cantarel et al., <xref rid="men13020-bib-0015" ref-type="ref">2008</xref>; Holt &#x00026; Yandell, <xref rid="men13020-bib-0027" ref-type="ref">2011</xref>). We performed two MAKER runs iteratively: the gene predictions from MAKER run 1 were used to train <sc>augustus</sc> v. 3.3 (Stanke et al., <xref rid="men13020-bib-0058" ref-type="ref">2006</xref>) for the MAKER run 2 using Augustus's autoAug.pl script (see <xref rid="men13020-sup-0001" ref-type="supplementary-material">Supplementary Methods</xref> for settings). For both MAKER runs, we masked repetitive regions with <sc>repeatmasker</sc> v. open&#x02010;4.0.7 (<ext-link ext-link-type="uri" xlink:href="http://www.repeatmasker.org">http://www.repeatmasker.org</ext-link>) against the entire Dfam_Consensus release 20170127 database. For each run, we included ab initio gene predictions from <sc>genemark&#x02010;es</sc> v. 4.33 (Lomsadze, <xref rid="men13020-bib-0042" ref-type="ref">2005</xref>), expressed sequence tag (EST) transcripts, and protein sequences.</p><p>For ESTs, we assembled transcripts from two dromedary RNA&#x02010;Seq experiments (Sequence Read Archive accession: SRP017619; Alim et al., <xref rid="men13020-bib-0002" ref-type="ref">2019</xref>). We performed adapter and quality trimming on raw demultiplexed paired&#x02010;end reads using <sc>bbduk</sc> v. 37.25 (<ext-link ext-link-type="uri" xlink:href="https://sourceforge.net/projects/bbmap/">https://sourceforge.net/projects/bbmap/</ext-link>), using the following settings: ktrim&#x000a0;=&#x000a0;r, k&#x000a0;=&#x000a0;23, mink&#x000a0;=&#x000a0;11, hdist&#x000a0;=&#x000a0;1, tpe, tbo, qtrim&#x000a0;=&#x000a0;rl, trimq&#x000a0;=&#x000a0;15. We then mapped quality and adapter trimmed reads to the CamDro2 assembly using <sc>hisat</sc> v. 2.1.0 (Kim, Langmead, &#x00026; Salzberg, <xref rid="men13020-bib-0034" ref-type="ref">2015</xref>) using a maximum intron length of 100,000. Reads were assembled into transcripts using <sc>stringtie</sc> v. 1.3.3b (Pertea et al., <xref rid="men13020-bib-0049" ref-type="ref">2015</xref>; see <xref rid="men13020-sup-0001" ref-type="supplementary-material">Supplementary Methods</xref> for settings) and extracted using <sc>gffread</sc> v. 0.9.9 (<ext-link ext-link-type="uri" xlink:href="https://github.com/gpertea/gffread">https://github.com/gpertea/gffread</ext-link>). For alternative ESTs, we processed transcriptome reads from <italic>C.&#x000a0;bactrianus</italic> (Sequence Read Archive accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="SRP014573">SRP014573</ext-link>) with HiSat, StringTie, and Gffread as before but mapped quality controlled reads to the <italic>C.&#x000a0;bactrianus</italic> genome (GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCF_000767855.1">GCF_000767855.1</ext-link>). For proteins, we combined predicted proteins from <italic>B.&#x000a0;taurus</italic>, <italic>C.&#x000a0;bactrianus</italic>, and <italic>V.&#x000a0;pacos</italic> (GenBank accessions [NCBI annotation release]: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCF_000003055.6">GCF_000003055.6</ext-link> [105], <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCF_000311805.1">GCF_000311805.1</ext-link> [100], and <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCF_000164845.2">GCF_000164845.2</ext-link> [101], respectively).</p><p>We also included MAKER predicted proteins with an annotation edit distance (AED) &#x0003c;0.75 from the CamDro1 assembly (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>). For the first MAKER run, we trained Augustus using <sc>busco</sc> v. 3.0.2 (Sim&#x000e3;o, Waterhouse, Ioannidis, Kriventseva, &#x00026; Zdobnov, <xref rid="men13020-bib-0054" ref-type="ref">2015</xref>) searching for Eukaroyota orthodb v. 9.1 genes (Zdobnov et al., <xref rid="men13020-bib-0068" ref-type="ref">2017</xref>) against CamDro2. For both MAKER runs, we used a dromedary specific repeat library created with <sc>repeatmodeler</sc> v. open&#x02010;1.0.10 (<ext-link ext-link-type="uri" xlink:href="http://www.repeatmasker.org">http://www.repeatmasker.org</ext-link>) with the CamDro2 assembly as input. We filtered the repeat library from RepeatModeler to remove known UniProt/Swiss&#x02010;Prot release 2017_10 (Boutet et al., <xref rid="men13020-bib-0011" ref-type="ref">2016</xref>) proteins using <sc>protexcluder</sc> v. 1.1 (Campbell et al., <xref rid="men13020-bib-0014" ref-type="ref">2014</xref>).</p><p>After the second MAKER run, we only retained genes, transcripts, and proteins with AED&#x000a0;&#x02264;&#x000a0;0.50. Next, we predicted putative gene function with <sc>diamond</sc> v. 0.9.19 (Buchfink, Xie, &#x00026; Huson, <xref rid="men13020-bib-0012" ref-type="ref">2015</xref>) searches against the UniProt/TrEMBL release 2018_04 database using an E value cutoff of 1e&#x02212;6. We also mapped proteins predicted by MAKER against the same UniProt/TrEMBL database using <sc>diamond</sc> and generated a frequency polygon of the query sequence length (predicted proteins) divided by the subject sequence length (UniProt/TrEMBL proteins) to assess if predicted proteins were truncated (query sequence length divided by the subject sequence length &#x0003c;1.0) due to uncorrected indels introduced by PacBio reads that might interrupt reading frames affecting protein translation (Watson &#x00026; Warr, <xref rid="men13020-bib-0064" ref-type="ref">2019</xref>). We also generated 75 random sets of 250 transcripts with AED&#x000a0;&#x02264;&#x000a0;0.25 to test the specificity and sensitivity of Augustus ab initio models used during the first and second MAKER runs.</p><p>As part of the assessment of CamDro2, we also annotated CamDro1 using the same MAKER settings and input files used for CamDro2&#x02019;s annotation. We then summarized annotations (i.e., length distributions of genes, mRNAs, exons, introns, and CDS [coding sequences]) with <sc>genome annotation generator</sc> (Geib et al., <xref rid="men13020-bib-0024" ref-type="ref">2018</xref>).</p></sec></sec><sec sec-type="results" id="men13020-sec-0012"><label>3</label><title>RESULTS</title><sec id="men13020-sec-0013"><label>3.1</label><title>Dovetail Chicago and Hi&#x02010;C libraries</title><p>There were 384 million read pairs (2&#x000a0;&#x000d7;&#x000a0;151&#x000a0;bp reads) from Chicago libraries with 56&#x000d7; physical coverage to CamDro1. Likewise, there were 413 million read pairs (2&#x000a0;&#x000d7;&#x000a0;151&#x000a0;bp reads) from Hi&#x02010;C libraries with 60&#x000d7; physical coverage to the Chicago assembly (i.e., the CamDro1 assembly scaffolded by Chicago data). The CamDro1 assembly had 35,752 scaffolds containing 133,158 contigs, and scaffold N50 and N90 were 1.482 Mbp and 0.260 Mbp, respectively (Table <xref rid="men13020-tbl-0001" ref-type="table">1</xref>). After applying Dovetail Chicago and then Dovetail Hi&#x02010;C data, the number of total scaffolds decreased from 35,752 to 24,424 (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>). The new scaffold N50 and N90 were 73.028&#x000a0;Mbp and 24.048&#x000a0;Mbp, respectively in the Hi&#x02010;C assembly (Chicago assembly scaffolded by Hi&#x02010;C data, Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>). Dovetail Genomics&#x02019; HiRise pipeline generated a Hi&#x02010;C linkage density plot between the Hi&#x02010;C assembly and the Hi&#x02010;C read pairs (Figure <xref rid="men13020-fig-0001" ref-type="fig">1</xref>). Considering super scaffolds &#x0003e;1&#x000a0;Mbp are allocated in separate shading blocks, this suggests the Hi&#x02010;C assembly is well assembled (Figure <xref rid="men13020-fig-0001" ref-type="fig">1</xref>).</p><table-wrap id="men13020-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Assembly statistics for the original North African dromedary assembly (CamDro1) (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>); the North African dromedary assembly after improvement (CamDro2) by Chicago and Dovetail Hi&#x02010;C sequencing libraries, followed by filling in gaps with 11x coverage PacBio Sequel reads using <sc>pbjelly</sc> (English et al., <xref rid="men13020-bib-0020" ref-type="ref">2012</xref>), next polishing with Illumina short&#x02010;insert libraries using <sc>pilon</sc> (Walker et al., <xref rid="men13020-bib-0063" ref-type="ref">2014</xref>), and then filling in gaps with Illumina short&#x02010;insert libraries using <sc>abyss sealer</sc> (Jackman et al., <xref rid="men13020-bib-0028" ref-type="ref">2017</xref>), and polishing again but also filling in gaps with Pilon; and for comparison the Arabian dromedary assembly (Wu et al., <xref rid="men13020-bib-0065" ref-type="ref">2014</xref>; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000767585.1">GCA_000767585.1</ext-link>)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">&#x000a0;</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Assembly</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Original North African Dromedary (CamDro1)</th><th align="left" valign="top" rowspan="1" colspan="1">Improved North African Dromedary (CamDro2)</th><th align="left" valign="top" rowspan="1" colspan="1">Arabian Dromedary</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total size</td><td align="left" rowspan="1" colspan="1">2,055,063,633</td><td align="left" rowspan="1" colspan="1">2,154,386,959</td><td align="left" rowspan="1" colspan="1">2,004,047,047</td></tr><tr><td align="left" rowspan="1" colspan="1">Gap length</td><td align="left" rowspan="1" colspan="1">53,035,436</td><td align="left" rowspan="1" colspan="1">20,341,506</td><td align="left" rowspan="1" colspan="1">22,407,814</td></tr><tr><td align="left" colspan="4" rowspan="1">Scaffolds</td></tr><tr><td align="left" rowspan="1" colspan="1">Number</td><td align="left" rowspan="1" colspan="1">35,752</td><td align="left" rowspan="1" colspan="1">23,439</td><td align="left" rowspan="1" colspan="1">32,572</td></tr><tr><td align="left" rowspan="1" colspan="1">Longest</td><td align="left" rowspan="1" colspan="1">9,719,801</td><td align="left" rowspan="1" colspan="1">124,992,380</td><td align="left" rowspan="1" colspan="1">23,736,781</td></tr><tr><td align="left" rowspan="1" colspan="1">N90<xref ref-type="fn" rid="men13020-note-0002">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">260,185</td><td align="left" rowspan="1" colspan="1">24,922,612</td><td align="left" rowspan="1" colspan="1">689,795</td></tr><tr><td align="left" rowspan="1" colspan="1">L90<xref ref-type="fn" rid="men13020-note-0003">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1,592</td><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">594</td></tr><tr><td align="left" rowspan="1" colspan="1">N50<xref ref-type="fn" rid="men13020-note-0002">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">1,482,444</td><td align="left" rowspan="1" colspan="1">75,021,453</td><td align="left" rowspan="1" colspan="1">4,188,677</td></tr><tr><td align="left" rowspan="1" colspan="1">L50<xref ref-type="fn" rid="men13020-note-0003">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">393</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">132</td></tr><tr><td align="left" colspan="4" rowspan="1">Contigs<xref ref-type="fn" rid="men13020-note-0004">
+<sup>c</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Number</td><td align="left" rowspan="1" colspan="1">133,158</td><td align="left" rowspan="1" colspan="1">45,969</td><td align="left" rowspan="1" colspan="1">93,701</td></tr><tr><td align="left" rowspan="1" colspan="1">Longest</td><td align="left" rowspan="1" colspan="1">413,938</td><td align="left" rowspan="1" colspan="1">9,491,684</td><td align="left" rowspan="1" colspan="1">896,174</td></tr><tr><td align="left" rowspan="1" colspan="1">N90</td><td align="left" rowspan="1" colspan="1">11,508</td><td align="left" rowspan="1" colspan="1">177,667</td><td align="left" rowspan="1" colspan="1">17,513</td></tr><tr><td align="left" rowspan="1" colspan="1">L90</td><td align="left" rowspan="1" colspan="1">42,697</td><td align="left" rowspan="1" colspan="1">1,944</td><td align="left" rowspan="1" colspan="1">25,175</td></tr><tr><td align="left" rowspan="1" colspan="1">N50</td><td align="left" rowspan="1" colspan="1">50,278</td><td align="left" rowspan="1" colspan="1">1,333,231</td><td align="left" rowspan="1" colspan="1">88,36</td></tr><tr><td align="left" rowspan="1" colspan="1">L50</td><td align="left" rowspan="1" colspan="1">11,378</td><td align="left" rowspan="1" colspan="1">423</td><td align="left" rowspan="1" colspan="1">6,074</td></tr><tr><td align="left" rowspan="1" colspan="1">Single&#x02010;copy BUSCOs<xref ref-type="fn" rid="men13020-note-0005">
+<sup>d</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">3,820</td><td align="left" rowspan="1" colspan="1">3,851</td><td align="left" rowspan="1" colspan="1">3,811</td></tr><tr><td align="left" rowspan="1" colspan="1">Duplicated BUSCOs</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">19</td></tr><tr><td align="left" rowspan="1" colspan="1">Fragmented BUSCOs</td><td align="left" rowspan="1" colspan="1">164</td><td align="left" rowspan="1" colspan="1">133</td><td align="left" rowspan="1" colspan="1">178</td></tr><tr><td align="left" rowspan="1" colspan="1">Missing BUSCOs</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">96</td></tr><tr><td align="left" rowspan="1" colspan="1">Proportion of complete BUSCOs</td><td align="left" rowspan="1" colspan="1">0.936</td><td align="left" rowspan="1" colspan="1">0.944</td><td align="left" rowspan="1" colspan="1">0.933</td></tr></tbody></table><table-wrap-foot><fn id="men13020-note-0002"><label><sup>a</sup></label><p>N90/N50 are the scaffold or contig lengths such that the sum of the lengths of all scaffolds or contigs of this size or larger is equal to 90/50% of the total assembly length.</p></fn><fn id="men13020-note-0003"><label><sup>b</sup></label><p>L90/L50 are the smallest number of scaffolds or contigs that make up at least 90/50% of the total assembly length.</p></fn><fn id="men13020-note-0004"><label><sup>c</sup></label><p>Using minimum gap length of 25&#x000a0;bp.</p></fn><fn id="men13020-note-0005"><label><sup>d</sup></label><p>BUSCOs: Benchmarking Universal Single&#x02010;Copy Orthologs (Sim&#x000e3;o et al., <xref rid="men13020-bib-0054" ref-type="ref">2015</xref>) are mammalian BUSCOs from orthodb v. 9.1 genes (Zdobnov et al., <xref rid="men13020-bib-0068" ref-type="ref">2017</xref>).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="men13020-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Dovetail Genomics&#x02019; Hi&#x02010;C linkage density plot for Hi&#x02010;C reads mapped to the Hi&#x02010;C assembly. X&#x02010; and Y&#x02010;axes give the cumulative mapping positions of the first and second read in a read pair respectively, grouped into bins. The colour of each square gives the number of reads pairs within that bin. Grey vertical and white horizontal lines separate borders between scaffolds. Only scaffolds &#x0003e;1&#x000a0;Mbp are shown [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://www.wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-1" xlink:href="MEN-19-1015-g001"/></fig></sec><sec id="men13020-sec-0014"><label>3.2</label><title>Pacbio long&#x02010;read sequencing</title><p>From the five PacBio Sequel SMRT Cells, we generated 1,773,715 subreads totalling 24,832,304,602 bases or approximately 10.94x physical coverage for the k&#x02010;mer based dromedary genome size estimate of 2.27 Gbp (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S3</xref>, Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>).</p></sec><sec id="men13020-sec-0015"><label>3.3</label><title>Additional assembly steps</title><p>In the PBJelly assembly (i.e., Hi&#x02010;C assembly plus PacBio reads), there were 34,504 gaps (74,277 fewer than the Hi&#x02010;C assembly) accounting for only 22,348,368 bases. The PBJelly assembly increased in size by 94,136,380 bases, and 985 scaffolds were merged (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>). PBJelly increased the genome size by so much because Dovetail Genomics&#x02019; HiRise scaffolding pipeline assigns gaps of 1,000 bases when contigs are joined during scaffolding and many of the gaps were actually over&#x02010;filled (i.e., a gap of 1,000 bases from the Hi&#x02010;C assembly was filled in with more than 1,000 bases of sequence in the PBJelly assembly). The contig N50 and N90 increased from 50.229&#x000a0;Kbp and 11.505&#x000a0;Kbp to 1.043&#x000a0;Mbp and 0.127&#x000a0;Mbp, respectively. In the first round of Pilon error correction, Pilon corrected 359,441 SNPs and 564,275 short indels representing 757,963 bases. ABySS Sealer filled in 10,043 gaps totalling 1,448,040 bases (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>). In the second round of Pilon error correction, Pilon corrected 125,448 SNPs and 101,228 short indels representing 146,165 bases and filled in 1,931 gaps totalling 558,822 bases (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>).</p><p>The longest scaffold in CamDro1 increased by 12&#x02010;fold in CamDro2, from 9.71&#x000a0;Mbp to 124.99&#x000a0;Mbp, and the scaffold N50 increased over 50&#x02010;fold, from 1.48&#x000a0;Mbp to 75.02&#x000a0;Mbp (Table <xref rid="men13020-tbl-0001" ref-type="table">1</xref>). Likewise the longest scaffold and N50 of CamDro2 are more than 5&#x02010; and 17&#x02010;fold greater than in the Arabian dromedary genome assembly (Table <xref rid="men13020-tbl-0001" ref-type="table">1</xref>). The improved contiguity of CamDro2 is evident when comparing the N50 and N90 values and cumulative length distributions of scaffolds from CamDro1, CamDro2, and the Arabian dromedary genome assemblies (Figure <xref rid="men13020-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="men13020-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cumulative assembly length for scaffolds of the original North African dromedary assembly (CamDro1; Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref>; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>); the North African dromedary assembly after improvement (CamDro2); and for the Arabian dromedary assembly (Wu et al., <xref rid="men13020-bib-0065" ref-type="ref">2014</xref>; <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000767585.1">GCA_000767585.1</ext-link>). Circles and triangles indicate L50 and L90 values, respectively. L50/L90 are the smallest number of scaffolds that make up at least 50/90% of the total assembly length [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://www.wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-3" xlink:href="MEN-19-1015-g002"/></fig></sec><sec id="men13020-sec-0016"><label>3.4</label><title>K&#x02010;MER analysis and dot plot</title><p>KAT k&#x02010;mer analysis indicated a low proportion of sequencing data missing (i.e., black histogram bars) from both the CamDro1 (Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>a) and CamDro2 (Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>b) assemblies, suggesting that most of the sequencing reads were accounted for in both assemblies. Both assemblies were also mostly haploid (i.e., red bars) with low heterozygosity (Figures <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>a and S2b; peak at k&#x02010;mer multiplicity of 15 for black bars). The CamDro2 assembly had a lower proportion of missing sequencing data than the CamDro1 assembly indicated by the lower amount of black shading between k&#x02010;mer multiplicity values 5 and 10, which is replaced by increased red shading at k&#x02010;mer multiplicity values near 1 (see panels below Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S2</xref>a and b for magnified views).</p><p>The dot plot for the whole&#x02010;genome alignment between CamDro1 and CamDro2 shows very good correspondence and agreement between the two assemblies with little to no structural variations (Figure <xref rid="men13020-fig-0003" ref-type="fig">3</xref>). We scoured the dot plot for signs of insertions, deletions, inversions, and repeats but could find very little evidence of structural variation even upon zooming into the plot. One example of structural variation between CamDro1 and CamDro2 is the 875 Kbp CamDro1 scaffold JWIN01032405.1, which was split and inverted relative to CamDro2 chromosome X (Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S3</xref>). JWIN01032405.1 was split by Dovetail Genomics&#x02019; HiRise pipeline during scaffolding with Dovetail Chicago reads. We are not aware of other major structural variation, suggesting that synteny is likely conserved between CamDro1 and CamDro2.</p><fig fig-type="Figure" xml:lang="en" id="men13020-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>D&#x02010;GENIES (Cabanettes &#x00026; Klopp, <xref rid="men13020-bib-0013" ref-type="ref">2018</xref>) dot plot made with Minimap2 (Li, <xref rid="men13020-bib-0040" ref-type="ref">2018</xref>) whole&#x02010;genome alignment between CamDro1 and CamDro2 assemblies. Contigs are sorted and matches are filtered out by size using &#x02264;0.001% dot plot width and identity &#x02264;0.75 [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://www.wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-5" xlink:href="MEN-19-1015-g003"/></fig></sec><sec id="men13020-sec-0017"><label>3.5</label><title>RNA&#x02010;SEQ mapping</title><p>CamDro2 yielded 68.3% overall alignment rate, while the original <italic>C. dromedarius</italic> (RefSeq) assembly yielded 56.9% overall alignment rate, and CamDro1 yielded just 54.1%, comparable to <italic>C.&#x000a0;ferus</italic>, also at 54.1% (Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S4</xref>). As expected, <italic>C.&#x000a0;bactrianus</italic> and <italic>B.&#x000a0;taurus</italic> fared worse, at 51.5% and 11.6%, respectively.</p></sec><sec id="men13020-sec-0018"><label>3.6</label><title>Chromosome mapping</title><p>Of 4,891 <italic>V.&#x000a0;pacos</italic> RH probes, 3,005 had hits with E values&#x000a0;&#x02264;&#x000a0;1e&#x02212;30 to CamDro2 scaffolds. For each chromosome set of <italic>V.&#x000a0;pacos</italic> RH probes, nearly all of the probes (96&#x000a0;&#x000b1;&#x000a0;7.7%; mean&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic>; Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S4</xref>) had best hits to a single CamDro2 scaffold, thus we were able to assign at least one super scaffold to each of the 37 chromosomes except the Y chromosome as the dromedary used in CamDro1 and CamDro2 was female. Chromosomes are denoted by numbers 1&#x02013;36 and X in the CamDro2 assembly. There were 101,628,251 bases in scaffolds not assigned to chromosomes accounting for 4.72% of the assembly.</p><p>We found strong correspondence between CamDro2 and Alpaca scaffolds through a dot plot of the whole&#x02010;genome alignment (Figure <xref rid="men13020-sup-0001" ref-type="supplementary-material">S5</xref>). There are inversions in chromosomes 9, 16, 30, and 35 between the two assemblies (Figures <xref rid="men13020-sup-0001" ref-type="supplementary-material">S6&#x02013;S9</xref>). These findings suggest there is strong conservation of chromosomal arrangement among CamDro2 and Alpaca assemblies. In summary, we were able to assign chromosomes 1&#x02013;36 and X to the Alpaca assembly (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S5</xref>). We could not assign the Y chromosome to the Alpaca assembly as we do not have an alpaca RH probe chromosome set for the Y chromosome.</p></sec><sec id="men13020-sec-0019"><label>3.7</label><title>Annotation</title><p>We predicted 22,534 genes that produced 34,024 proteins for the first MAKER run on the CamDro2 assembly, and there were 26,237 genes that produced 38,070 proteins for the second MAKER run on the CamDro2 assembly. There were 7.7% (1,730) of genes without an assigned annotation in the first MAKER run, whilst 21.5% (5,639) were unannotated in the second MAKER run. The Arabian dromedary assembly (NCBI Annotation Release 100) predicted 24,457 genes that produced 26,716 proteins. We assessed if predicted proteins were truncated due to uncorrected indels introduced by PacBio reads by comparing the predicted protein length hit distribution of the CamDro1 assembly (Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref> predicted protein sequences, Illumina&#x02010;only data, red line Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>), which should lack introduced indels, to that of the CamDro2 assembly after the first (green line Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>) and second MAKER runs (blue line Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>). Values near 1.0 are desired and indicate predicted proteins (query) have nearly the same length as proteins in the database (subject). First, predicted proteins from the CamDro1 assembly had 21,259 protein hits against the UniProt/TrEMBL database, and 11,631 (54%) hits were between 0.85 and 1.15 (query sequence length/ subject sequence length; Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>). Second, predicted proteins from the CamDro2 assembly for MAKER run 1 had 32,296 protein hits, and 17,267 (53%) were between 0.85 and 1.15 (Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>). Third, predicted proteins for MAKER run 2 had 32,415 protein hits, and 11,478 (35%) were between 0.85 and 1.15 (Figure <xref rid="men13020-fig-0004" ref-type="fig">4</xref>). AEDs were overall much higher in the second versus the first MAKER run (Figure <xref rid="men13020-fig-0005" ref-type="fig">5</xref>). For example, MAKER run 1 had AED values&#x000a0;&#x02264;&#x000a0;0.5 for 78.4% transcripts versus 39.2% transcripts for MAKER run 2. Lower AED values indicate a better fit to the provided evidence when annotating a genome (Yandell &#x00026; Ence, <xref rid="men13020-bib-0066" ref-type="ref">2012</xref>). Average sensitivity and specificity at the nucleotide&#x02010;, exon&#x02010;, and gene&#x02010;levels for the Augustus ab initio model used during the first MAKER run were higher than that for the ab initio model used during the second MAKER run (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S6</xref>). Considering the higher proportion of genes with unknown function, higher proportion of truncated proteins, and higher AEDs, we did not choose the predicted genes, proteins, and transcripts from the second MAKER run and instead chose the annotations from the first MAKER run as the final annotation.</p><fig fig-type="Figure" xml:lang="en" id="men13020-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Frequency polygons of query sequence length (predicted proteins) divided by subject (UniProt/TrEMBL) sequence length for <sc>diamond</sc> (Buchfink et al., <xref rid="men13020-bib-0012" ref-type="ref">2015</xref>) mapped <sc>maker</sc> (Holt &#x00026; Yandell, <xref rid="men13020-bib-0027" ref-type="ref">2011</xref>) predicted proteins against UniProt/TrEMBL release 2018_04 database for: (red line) the original North African dromedary genome (CamDro1; Fitak et al., <xref rid="men13020-bib-0023" ref-type="ref">2016</xref> predicted protein sequences; GenBank accession: <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="GCA_000803125.1">GCA_000803125.1</ext-link>); (green line) the North African dromedary genome after adding ~11&#x000d7; PacBio sequencing reads (CamDro2) for MAKER run 1; and (blue line) MAKER run 2. Values near 1.0 are desired, indicating untruncated proteins due to lack of indels from PacBio reads [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://www.wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-7" xlink:href="MEN-19-1015-g004"/></fig><fig fig-type="Figure" xml:lang="en" id="men13020-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Cumulative proportion of transcripts with specific or lower annotation edit distance (AED) for each MAKER run. MAKER run 1 (solid line) had AED &#x02264;0.50 for 78.4% transcripts, whilst MAKER run 2 (dashed line) had 39.2% transcripts with AED &#x02264;0.50. Grey vertical line indicates AED&#x000a0;=&#x000a0;0.50. Note that having a larger proportion of lower AED values indicates a genome annotation that is more congruent with the evidence used during the annotation process</p></caption><graphic id="nlm-graphic-9" xlink:href="MEN-19-1015-g005"/></fig><p>After annotating CamDro1 with the same MAKER inputs and settings used for CamDro2 annotation, CamDro2 had 820; 2,722; 35,052; 32,330; and 2,722 more genes, mRNAs, exons, introns, and CDS than CamDro1, respectively. There were similar mean and shortest gene, mRNA, exon, intron, and CDS lengths between CamDro1 and CamDro2 (Table <xref rid="men13020-sup-0001" ref-type="supplementary-material">S7</xref>); however, longest lengths (except longest intron length) were longer for CamDro2 than CamDro1. The mean mRNAs per gene (2 vs. 1), mean exons per mRNA (11 vs. 10), and mean introns per mRNA (10 vs. 9) were greater in CamDro2 versus CamDro1, respectively.</p></sec></sec><sec sec-type="discussion" id="men13020-sec-0020"><label>4</label><title>DISCUSSION</title><sec id="men13020-sec-0021"><label>4.1</label><title>Genome assembly</title><p>We were able to greatly improve the North African dromedary genome assembly by using a combination of chromosome conformation capture sequencing libraries for scaffolding, long reads to fill in gaps, and comparative chromosome mapping to assign super scaffolds to chromosomes. We demonstrate that data from existing Illumina de novo assemblies can be combined with the before&#x02010;mentioned techniques to produce high&#x02010;quality reference genomes.</p><p>Other genome assembly projects that began with Illumina short&#x02010; and long&#x02010;insert libraries have also taken advantage of chromosome conformation capture and/ or long&#x02010;read technologies to improve assemblies. For example, the AllMis1 assembly (American alligator, <italic>Alligator mississippiensis</italic>) was assembled with Illumina short&#x02010;insert libraries and scaffolded with mate&#x02010;pair and BAC libraries (Green et al., <xref rid="men13020-bib-0025" ref-type="ref">2014</xref>) and then subsequently improved with Dovetail Chicago libraries resulting in the AllMis2 assembly (Rice et al., <xref rid="men13020-bib-0052" ref-type="ref">2017</xref>). Further, the sooty manageby (<italic>Cercocebus atys</italic>) genome assembly was de novo assembled with Illumina short&#x02010;insert and mate&#x02010;pair libraries, and gaps were filled in with ~12X coverage of PacBio RS I and II reads (Palesch et al., <xref rid="men13020-bib-0046" ref-type="ref">2018</xref>).</p><p>Our assembly strategy to improve CamDro1 differed from that followed by other groups. Conventionally, researchers generate sufficient PacBio sequencing coverage to improve the scaffold N50 length, polish the assembly with Illumina short reads, and further use data from Dovetail Genomics Chicago and Hi&#x02010;C libraries to extend scaffolds to the chromosomal level. In contrast, this study scaffolded the CamDro1 Illumina&#x02010;only assembly using Dovetail Chicago data, improved the Chicago assembly with Hi&#x02010;C data, filled in gaps in the Hi&#x02010;C assembly with PacBio reads, and filled in gaps and polished the assembly with Illumina data. The advantage of our assembly strategy is cost, as PacBio long reads are expensive. For example, 50&#x000d7; PacBio Sequel coverage for a de novo PacBio dromedary assembly would cost approximately 35,000 euros at the time of writing. This is approximately five times more than the&#x000a0;~&#x000a0;11x coverage that we could afford. For this reason, we did not follow the conventional assembly improvement method because our method was much cheaper to use PacBio Sequel reads to fill in gaps. Alternatively, we could have used a hybrid assembler such as <sc>masurca</sc> (Zimin et al., <xref rid="men13020-bib-0069" ref-type="ref">2017</xref>) to de novo assemble the PacBio and Illumina reads simultaneously, but scaffolding CamDro1 was already completed before we performed PacBio sequencing. We note that, despite the cost constraints, our strategy has significantly improved upon the previous genome assembly.</p><p>We found strong conservation of chromosomal arrangement between the CamDro2 and Alpaca assemblies. Future comparisons with additional assemblies, can determine if the inversions and repeats identified in these genomes should be corrected or if they represent unique structural variation of the sequenced individuals. Further improvements (i.e., assembly iterations) to CamDro2 should focus on possible inversions in chromosome 9, 16, 30 and 35.</p></sec><sec id="men13020-sec-0022"><label>4.2</label><title>Genome annotation</title><p>There were more and longer annotation features and also more mRNAs per gene and exons and introns per mRNA in CamDro2 versus CamDro1 suggesting that CamDro2 has both improved assembly and annotation statistics relative to CamDro1. Details regarding our Augustus model choice are discussed in the Supplements (Appendix <xref rid="men13020-sup-0001" ref-type="supplementary-material">S1</xref>: Discussion).</p></sec></sec><sec sec-type="conclusions" id="men13020-sec-0023"><label>5</label><title>CONCLUSION</title><p>The CamDro2 reference should be of great value to evolutionary biologists and the camelid genetics community, especially researchers interested mammalian comparative genomics and in designing RNA&#x02010;Seq and GWAS experiments. In particular, the large scaffolds identified in CamDro2 will be useful in SNP imputation if hundreds of dromedaries are sequenced at low coverage using programs such as STITCH (Davies et al., <xref rid="men13020-bib-0016" ref-type="ref">2016</xref>).</p></sec><sec id="men13020-sec-0024"><title>AUTHOR CONTRIBUTION</title><p>J.P.E. performed bioinformatic analyses and wrote the manuscript. M.F.R. provided dromedary RNA&#x02010;Seq reads and revised the manuscript. P.L.P., A.P.A, N.A.S, and W.E.J extracted DNA, provided sequences for comparative chromosome mapping, and revised the manuscript. P.H. and D.M. revised the manuscript. J.C. provided computational resources and revised the manuscript. P.A.B. conceived and managed the project and revised the manuscript.</p></sec><sec id="men13020-sec-0026"><title>DATA ACCESSIBILITY</title><p>This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession JWIN00000000. The version described in this paper is version JWIN02000000. Raw PacBio Sequel subread sequences are available from NCBI Sequence Read Archive (accession SRP050586). Read alignments (Dovetail Chicago and Dovetail Hi&#x02010;C reads mapped to original North African dromedary genome assembly, CamDro1) are available upon request. Dromedary RNA&#x02010;Seq sequences are from Alim et al., <xref rid="men13020-bib-0002" ref-type="ref">2019</xref>; NCBI BioProject PRJNA543338. CamDro2 gene annotations, predicted mRNA and proteins, assembly for gene annotations, CamDro1 assembly improved by Dovetail Genomics Chicago and Hi&#x02010;C libraries, and RH <italic>V. pacos</italic> probe sequences are available from Dryad (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.6rp36b6">https://doi.org/10.5061/dryad.6rp36b6</ext-link>). Example scripts and code for analyses are available from Online <xref rid="men13020-sup-0001" ref-type="supplementary-material">Appendix </xref>S1<xref rid="men13020-sup-0001" ref-type="supplementary-material">: Methods </xref>S1 and also the Dryad repository. Note that annotations hosted by NCBI will differ from annotations on Dryad.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="men13020-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="MEN-19-1015-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="men13020-sec-0027"><title>ACKNOWLEDGEMENTS</title><p>We greatly thank G. Gassner from the First Camel Riding School in Eithental, Austria for allowing leftover diagnostic material from Waris the dromedary to be used for genome sequencing and cell line creation. We also wish to thank J. Oppelt and T. Swale for advice on bioinformatic analyses. We acknowledge CSC &#x02013; IT Centre for Science, Finland and LSU High Performance Computing (<ext-link ext-link-type="uri" xlink:href="http://www.hpc.lsu.edu">http://www.hpc.lsu.edu</ext-link>) for generous computational resources. This work and JPE were supported by the Austrian Science Foundation (FWF): P29623&#x02010;B25 to PAB. DM gratefully acknowledges the support of the Leverhulme Trust (RPG&#x02010;2017&#x02010;287). PLP's research was supported by RSF 16&#x02010;14&#x02010;10009 and RFBR 17&#x02010;00&#x02010;00146. This manuscript was prepared while WEJ held a National Research Council Research Associateship Award at the Walter Reed Army Institute of Research under a Memorandum of Understanding between the Walter Reed Army Institute of Research and the Smithsonian Institution, with institutional support provided by both organizations. The published material reflects the views of the authors and should not be construed to represent those of the Department of the Army or the Department of Defence.</p></ack><ref-list content-type="cited-references" id="men13020-bibl-0001"><title>REFERENCES</title><ref id="men13020-bib-0001"><mixed-citation publication-type="journal" id="men13020-cit-0001">
+<string-name>
+<surname>Abdussamad</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Charruau</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Kalla</surname>, <given-names>D. J. U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burger</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Validating local knowledge on camels: Colour phenotypes and genetic variation of dromedaries in the Nigeria&#x02010;Niger corridor</article-title>. <source xml:lang="en">Livestock Science</source>, <volume>181</volume>, <fpage>131</fpage>&#x02013;<lpage>136</lpage>.</mixed-citation></ref><ref id="men13020-bib-0002"><mixed-citation publication-type="journal" id="men13020-cit-0002">
+<string-name>
+<surname>Alim</surname>, <given-names>F. Z. D.</given-names>
+</string-name>, <string-name>
+<surname>Romanova</surname>, <given-names>E. V.</given-names>
+</string-name>, <string-name>
+<surname>Tay</surname>, <given-names>Y.&#x02010;L.</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>, <given-names>A. Y. B. A.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>K.&#x02010;G.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>K.&#x02010;W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hindmarch</surname>, <given-names>C. C. T.</given-names>
+</string-name> (<year>2019</year>). <article-title>Seasonal adaptations of the hypothalamo&#x02010;neurohypophyseal system of the dromedary camel</article-title>. <source xml:lang="en">PloS One</source>.</mixed-citation></ref><ref id="men13020-bib-0003"><mixed-citation publication-type="journal" id="men13020-cit-0003">
+<string-name>
+<surname>Almathen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Charruau</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mohandesan</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Mwacharo</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Orozco&#x02010;ter Wengel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pitt</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Burger</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Ancient and modern DNA reveal dynamics of domestication and cross&#x02010;continental dispersal of the dromedary</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>113</volume>, <fpage>6707</fpage>&#x02013;<lpage>6712</lpage>.<pub-id pub-id-type="pmid">27162355</pub-id></mixed-citation></ref><ref id="men13020-bib-0004"><mixed-citation publication-type="journal" id="men13020-cit-0004">
+<string-name>
+<surname>Altschul</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gish</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Meyers</surname>,<given-names>E. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lipman</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>1990</year>). <article-title>Basic local alignment search tool</article-title>. <source xml:lang="en">Journal of Molecular Biology</source>, <volume>215</volume>, <fpage>403</fpage>&#x02013;<lpage>410</lpage>.<pub-id pub-id-type="pmid">2231712</pub-id></mixed-citation></ref><ref id="men13020-bib-0005"><mixed-citation publication-type="journal" id="men13020-cit-0005">
+<string-name>
+<surname>Avila</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Baily</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Perelman</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Das</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Pontius</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chowdhary</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Raudsepp</surname>, <given-names>T.</given-names>
+</string-name> (<year>2014</year>). <article-title>A comprehensive whole&#x02010;genome integrated cytogenetic map for the alpaca (<italic>Lama pacos</italic>)</article-title>. <source xml:lang="en">Cytogenetic and Genome Research</source>, <volume>144</volume>, <fpage>196</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">25662411</pub-id></mixed-citation></ref><ref id="men13020-bib-0006"><mixed-citation publication-type="journal" id="men13020-cit-0006">
+<string-name>
+<surname>Bailey</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2004</year>). <article-title>Analysis of segmental duplications and genome assembly in the mouse</article-title>. <source xml:lang="en">Genome Research</source>, <volume>14</volume>, <fpage>789</fpage>&#x02013;<lpage>801</lpage>.<pub-id pub-id-type="pmid">15123579</pub-id></mixed-citation></ref><ref id="men13020-bib-0007"><mixed-citation publication-type="journal" id="men13020-cit-0007">
+<string-name>
+<surname>Balmus</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Trifonov</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Biltueva</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>, <given-names>P. C.</given-names>
+</string-name>, <string-name>
+<surname>Alkalaeva</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ferguson&#x02010;Smith</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Cross&#x02010;species chromosome painting among camel, cattle, pig and human: Further insights into the putative Cetartiodactyla ancestral karyotype</article-title>. <source xml:lang="en">Chromosome Research</source>, <volume>15</volume>, <fpage>499</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">17671843</pub-id></mixed-citation></ref><ref id="men13020-bib-0008"><mixed-citation publication-type="journal" id="men13020-cit-0008">
+<string-name>
+<surname>Barnett</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Garrison</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Quinlan</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Str&#x000f6;mberg</surname>, <given-names>M. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Marth</surname>, <given-names>G. T.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<sc>bamtools</sc>: A C++ API and toolkit for analyzing and managing BAM files</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>27</volume>, <fpage>1691</fpage>&#x02013;<lpage>1692</lpage>.<pub-id pub-id-type="pmid">21493652</pub-id></mixed-citation></ref><ref id="men13020-bib-0009"><mixed-citation publication-type="journal" id="men13020-cit-0009">
+<string-name>
+<surname>Bickhart</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sayre</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Hastie</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Smith</surname>, <given-names>T. P. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Single&#x02010;molecule sequencing and chromatin conformation capture enable de novo reference assembly of the domestic goat genome</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>49</volume>, <fpage>643</fpage>&#x02013;<lpage>650</lpage>.<pub-id pub-id-type="pmid">28263316</pub-id></mixed-citation></ref><ref id="men13020-bib-0010"><mixed-citation publication-type="journal" id="men13020-cit-0010">
+<string-name>
+<surname>Bonetta</surname>, <given-names>L.</given-names>
+</string-name> (<year>2006</year>). <article-title>Genome sequencing in the fast lane</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>3</volume>, <fpage>141</fpage>.</mixed-citation></ref><ref id="men13020-bib-0011"><mixed-citation publication-type="journal" id="men13020-cit-0011">
+<string-name>
+<surname>Boutet</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lieberherr</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Tognolli</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bansal</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bridge</surname>, <given-names>A. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Xenarios</surname>, <given-names>I.</given-names>
+</string-name> (<year>2016</year>). <article-title>UniProtKB/Swiss&#x02010;Prot, the manually annotated section of the UniProt KnowledgeBase: How to use the entry view</article-title>. <source xml:lang="en">Methods in Molecular Biology</source>, <volume>1374</volume>, <fpage>23</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">26519399</pub-id></mixed-citation></ref><ref id="men13020-bib-0012"><mixed-citation publication-type="journal" id="men13020-cit-0012">
+<string-name>
+<surname>Buchfink</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huson</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>2015</year>). <article-title>Fast and sensitive protein alignment using DIAMOND</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>12</volume>, <fpage>59</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1038/nmeth.3176</pub-id>
+<pub-id pub-id-type="pmid">25402007</pub-id></mixed-citation></ref><ref id="men13020-bib-0013"><mixed-citation publication-type="journal" id="men13020-cit-0013">
+<string-name>
+<surname>Cabanettes</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klopp</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>D&#x02010;GENIES: Dot plot large genomes in an interactive, efficient and simple way</article-title>. <source xml:lang="en">PeerJ</source>, <volume>6</volume>, <fpage>e4958</fpage>
+<pub-id pub-id-type="doi">10.7717/peerj.4958</pub-id>
+<pub-id pub-id-type="pmid">29888139</pub-id></mixed-citation></ref><ref id="men13020-bib-0014"><mixed-citation publication-type="journal" id="men13020-cit-0014">
+<string-name>
+<surname>Campbell</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Law</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Holt</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Moghe</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name>
+<surname>Hufnagel</surname>, <given-names>D. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yandell</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>MAKER&#x02010;P: A tool kit for the rapid creation, management, and quality control of plant genome annotations</article-title>. <source xml:lang="en">Plant Physiology</source>, <volume>164</volume>, <fpage>513</fpage>&#x02013;<lpage>524</lpage>. <pub-id pub-id-type="doi">10.1104/pp.113.230144</pub-id>
+<pub-id pub-id-type="pmid">24306534</pub-id></mixed-citation></ref><ref id="men13020-bib-0015"><mixed-citation publication-type="journal" id="men13020-cit-0015">
+<string-name>
+<surname>Cantarel</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Korf</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Robb</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Parra</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Yandell</surname>, <given-names>M.</given-names>
+</string-name> (<year>2008</year>). <article-title>
+<sc>maker</sc>: An easy&#x02010;to&#x02010;use annotation pipeline designed for emerging model organism genomes</article-title>. <source xml:lang="en">Genome Research</source>, <volume>18</volume>, <fpage>188</fpage>&#x02013;<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1101/gr.6743907</pub-id>
+<pub-id pub-id-type="pmid">18025269</pub-id></mixed-citation></ref><ref id="men13020-bib-0016"><mixed-citation publication-type="journal" id="men13020-cit-0016">
+<string-name>
+<surname>Davies</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Flint</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mott</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>). <article-title>Rapid genotype imputation from sequence without reference panels</article-title>. <source xml:lang="en">Nature Genetics</source>, <volume>48</volume>, <fpage>965</fpage>&#x02013;<lpage>969</lpage>. <pub-id pub-id-type="doi">10.1038/ng.3594</pub-id>
+<pub-id pub-id-type="pmid">27376236</pub-id></mixed-citation></ref><ref id="men13020-bib-0017"><mixed-citation publication-type="journal" id="men13020-cit-0017">
+<string-name>
+<surname>Dudchenko</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Batra</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Omer</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Nyquist</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Hoeger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>, <given-names>N. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Aiden</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>De novo assembly of the <italic>Aedes aegypti</italic> genome using Hi&#x02010;C yields chromosome&#x02010;length scaffolds</article-title>. <source xml:lang="en">Science</source>, <volume>356</volume>, <fpage>92</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">28336562</pub-id></mixed-citation></ref><ref id="men13020-bib-0018"><mixed-citation publication-type="journal" id="men13020-cit-0018">
+<string-name>
+<surname>Dudchenko</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Shamim</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Batra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>, <given-names>N. C.</given-names>
+</string-name>, <string-name>
+<surname>Musial</surname>, <given-names>N. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Aiden</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>The Juicebox Assembly Tools module facilitates de novo assembly of mammalian genomes with chromosome&#x02010;length scaffolds for under $1000</article-title>. <source xml:lang="en">bioRxiv</source>. <pub-id pub-id-type="doi">10.1101/254797</pub-id>
+</mixed-citation></ref><ref id="men13020-bib-0019"><mixed-citation publication-type="journal" id="men13020-cit-0019">
+<string-name>
+<surname>Eid</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Fehr</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Luong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Lyle</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Otto</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Turner</surname>, <given-names>S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Real&#x02010;time DNA sequencing from single polymerase molecules</article-title>. <source xml:lang="en">Science</source>, <volume>323</volume>, <fpage>133</fpage>&#x02013;<lpage>138</lpage>. <pub-id pub-id-type="doi">10.1126/science.1162986</pub-id>
+<pub-id pub-id-type="pmid">19023044</pub-id></mixed-citation></ref><ref id="men13020-bib-0020"><mixed-citation publication-type="journal" id="men13020-cit-0020">
+<string-name>
+<surname>English</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>Y. I.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Vee</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gibbs</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Mind the gap: Upgrading genomes with Pacific Biosciences RS long&#x02010;read sequencing technology</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>7</volume>, <fpage>e47768</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0047768</pub-id>
+<pub-id pub-id-type="pmid">23185243</pub-id></mixed-citation></ref><ref id="men13020-bib-0021"><mixed-citation publication-type="journal" id="men13020-cit-0021">
+<string-name>
+<surname>Faye</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Abdallah</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Almathen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Harzallah</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Al&#x02010;Mutairi</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Camel biodiversity</article-title>. Camel phenotypes in the Kingdom of Saudi Arabia. Camel Breeding, Protection and Improvement Center, project UTF/SAU/021/SAU, FAO publ., Riyadh (Saudi Arabia), <volume>78</volume>
+<fpage>p</fpage>.</mixed-citation></ref><ref id="men13020-bib-0022"><mixed-citation publication-type="journal" id="men13020-cit-0022">
+<string-name>
+<surname>Feng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Padhi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ning</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liu</surname>, <given-names>J.&#x02010;F.</given-names>
+</string-name> (<year>2017</year>). <article-title>Characterization of genome&#x02010;wide segmental duplications reveals a common genomic feature of association with immunity among domestic animals</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>18</volume>, <fpage>293</fpage>
+<pub-id pub-id-type="doi">10.1186/s12864-017-3690-x</pub-id>
+<pub-id pub-id-type="pmid">28403820</pub-id></mixed-citation></ref><ref id="men13020-bib-0023"><mixed-citation publication-type="journal" id="men13020-cit-0023">
+<string-name>
+<surname>Fitak</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<surname>Mohandesan</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Corander</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Burger</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>The de novo genome assembly and annotation of a female domestic dromedary of North African origin</article-title>. <source xml:lang="en">Molecular Ecology Resources</source>, <volume>16</volume>, <fpage>314</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">26178449</pub-id></mixed-citation></ref><ref id="men13020-bib-0024"><mixed-citation publication-type="journal" id="men13020-cit-0024">
+<string-name>
+<surname>Geib</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Derego</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Bremer</surname>, <given-names>F. T.</given-names>
+</string-name>, <string-name>
+<surname>Cannoles</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sim</surname>, <given-names>S. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Genome Annotation Generator: A simple tool for generating and correcting WGS annotation tables for NCBI submission</article-title>. <source xml:lang="en">GigaScience</source>, <volume>7</volume>, <fpage>giy018</fpage>
+<pub-id pub-id-type="doi">10.1093/gigascience/giy018</pub-id>
+</mixed-citation></ref><ref id="men13020-bib-0025"><mixed-citation publication-type="journal" id="men13020-cit-0025">
+<string-name>
+<surname>Green</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Braun</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Earl</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Hickey</surname>, <given-names>G.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ray</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2014</year>). <article-title>Three crocodilian genomes reveal ancestral patterns of evolution among archosaurs</article-title>. <source xml:lang="en">Science</source>, <volume>346</volume>, <fpage>1254449</fpage>
+<pub-id pub-id-type="doi">10.1126/science.1254449</pub-id>
+<pub-id pub-id-type="pmid">25504731</pub-id></mixed-citation></ref><ref id="men13020-bib-0026"><mixed-citation publication-type="journal" id="men13020-cit-0026">
+<string-name>
+<surname>Guo</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ai</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ren</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genome&#x02010;wide detection of genetic markers associated with growth and fatness in four pig populations using four approaches</article-title>. <source xml:lang="en">Genetics Selection Evolution</source>, <volume>49</volume>, <fpage>21</fpage>
+<pub-id pub-id-type="doi">10.1186/s12711-017-0295-4</pub-id>
+</mixed-citation></ref><ref id="men13020-bib-0027"><mixed-citation publication-type="journal" id="men13020-cit-0027">
+<string-name>
+<surname>Holt</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yandell</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<sc>maker</sc>2: An annotation pipeline and genome&#x02010;database management tool for second&#x02010;generation genome projects</article-title>. <source xml:lang="en">BMC Bioinformatics</source>, <volume>12</volume>, <fpage>491</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2105-12-491</pub-id>
+<pub-id pub-id-type="pmid">22192575</pub-id></mixed-citation></ref><ref id="men13020-bib-0028"><mixed-citation publication-type="journal" id="men13020-cit-0028">
+<string-name>
+<surname>Jackman</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Vandervalk</surname>, <given-names>B. P.</given-names>
+</string-name>, <string-name>
+<surname>Mohamadi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yeo</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hammond</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Birol</surname>, <given-names>I.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<sc>abyss</sc> 2.0: Resource&#x02010;efficient assembly of large genomes using a Bloom filter</article-title>. <source xml:lang="en">Genome Research</source>, <volume>27</volume>, <fpage>768</fpage>&#x02013;<lpage>777</lpage>. <pub-id pub-id-type="doi">10.1101/gr.214346.116</pub-id>
+<pub-id pub-id-type="pmid">28232478</pub-id></mixed-citation></ref><ref id="men13020-bib-0029"><mixed-citation publication-type="journal" id="men13020-cit-0029">
+<string-name>
+<surname>Jain</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>H. E.</given-names>
+</string-name>, <string-name>
+<surname>Paten</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Akeson</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>The Oxford Nanopore MinION: Delivery of nanopore sequencing to the genomics community</article-title>. <source xml:lang="en">Genome Biology</source>, <volume>17</volume>, <fpage>239</fpage>.<pub-id pub-id-type="pmid">27887629</pub-id></mixed-citation></ref><ref id="men13020-bib-0030"><mixed-citation publication-type="journal" id="men13020-cit-0030">
+<string-name>
+<surname>Jiao</surname>, <given-names>W.&#x02010;B.</given-names>
+</string-name>, <string-name>
+<surname>Accinelli</surname>, <given-names>G. G.</given-names>
+</string-name>, <string-name>
+<surname>Hartwig</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Kiefer</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Severing</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schneeberger</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <article-title>Improving and correcting the contiguity of long&#x02010;read genome assemblies of three plant species using optical mapping and chromosome conformation capture data</article-title>. <source xml:lang="en">Genome Research</source>, <volume>27</volume>, <fpage>778</fpage>&#x02013;<lpage>786</lpage>. <pub-id pub-id-type="doi">10.1101/gr.213652.116</pub-id>
+<pub-id pub-id-type="pmid">28159771</pub-id></mixed-citation></ref><ref id="men13020-bib-0031"><mixed-citation publication-type="journal" id="men13020-cit-0031">
+<string-name>
+<surname>Johnston</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;r&#x000e9;nos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Slate</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pemberton</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Conserved genetic architecture underlying individual recombination rate variation in a wild population of Soay sheep (<italic>Ovis aries</italic>)</article-title>. <source xml:lang="en">Genetics</source>, <volume>203</volume>, <fpage>583</fpage>&#x02013;<lpage>598</lpage>.<pub-id pub-id-type="pmid">27029733</pub-id></mixed-citation></ref><ref id="men13020-bib-0032"><mixed-citation publication-type="journal" id="men13020-cit-0032">
+<string-name>
+<surname>Kaplan</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dekker</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>High&#x02010;throughput genome scaffolding from in vivo DNA interaction frequency</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>31</volume>, <fpage>1143</fpage>&#x02013;<lpage>1147</lpage>.</mixed-citation></ref><ref id="men13020-bib-0033"><mixed-citation publication-type="journal" id="men13020-cit-0033">
+<string-name>
+<surname>Kelley</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Schatz</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>
+<sc>quake</sc>: Quality&#x02010;aware detection and correction of sequencing errors</article-title>. <source xml:lang="en">Genome Biology</source>, <volume>11</volume>, <fpage>R116</fpage>.<pub-id pub-id-type="pmid">21114842</pub-id></mixed-citation></ref><ref id="men13020-bib-0034"><mixed-citation publication-type="journal" id="men13020-cit-0034">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Langmead</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>
+<sc>hisat</sc>: A fast spliced aligner with low memory requirements</article-title>. <source xml:lang="en">Nature Methods</source>, <volume>12</volume>, <fpage>357</fpage>&#x02013;<lpage>360</lpage>.<pub-id pub-id-type="pmid">25751142</pub-id></mixed-citation></ref><ref id="men13020-bib-0035"><mixed-citation publication-type="journal" id="men13020-cit-0035">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Trapnell</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Pimentel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>TopHat2: Accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions</article-title>. <source xml:lang="en">Genome Biology</source>, <volume>14</volume>, <fpage>R36</fpage>.<pub-id pub-id-type="pmid">23618408</pub-id></mixed-citation></ref><ref id="men13020-bib-0036"><mixed-citation publication-type="journal" id="men13020-cit-0036">
+<string-name>
+<surname>Kitts</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name>
+<surname>Church</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Thibaud&#x02010;Nissen</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hem</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Sapojnikov</surname>, <given-names>V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kimchi</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Assembly: A resource for assembled genomes at NCBI</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>44</volume>, <fpage>D73</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">26578580</pub-id></mixed-citation></ref><ref id="men13020-bib-0037"><mixed-citation publication-type="journal" id="men13020-cit-0037">
+<string-name>
+<surname>Kofler</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Orozco&#x02010;terWengel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>De Maio</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>, <given-names>R. V.</given-names>
+</string-name>, <string-name>
+<surname>Nolte</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Futschik</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Schl&#x000f6;tterer</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>). <article-title>
+<sc>popoolation</sc>: A toolbox for population genetic analysis of next generation sequencing data from pooled individuals</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>, <fpage>e15925</fpage>.<pub-id pub-id-type="pmid">21253599</pub-id></mixed-citation></ref><ref id="men13020-bib-0038"><mixed-citation publication-type="journal" id="men13020-cit-0038">
+<string-name>
+<surname>Korbel</surname>, <given-names>J. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lee</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genome assembly and haplotyping with Hi&#x02010;C</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>31</volume>, <fpage>1099</fpage>&#x02013;<lpage>1101</lpage>.</mixed-citation></ref><ref id="men13020-bib-0039"><mixed-citation publication-type="journal" id="men13020-cit-0039">
+<string-name>
+<surname>Kronenberg</surname>, <given-names>Z. N.</given-names>
+</string-name>, <string-name>
+<surname>Fiddes</surname>, <given-names>I. T.</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Murali</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cantsilieris</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Meyerson</surname>, <given-names>O. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Eichler</surname>, <given-names>E. E.</given-names>
+</string-name> (<year>2018</year>). <article-title>High&#x02010;resolution comparative analysis of great ape genomes</article-title>. <source xml:lang="en">Science</source>, <volume>360</volume>, <fpage>eaar6343</fpage>.<pub-id pub-id-type="pmid">29880660</pub-id></mixed-citation></ref><ref id="men13020-bib-0040"><mixed-citation publication-type="journal" id="men13020-cit-0040">
+<string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Minimap2: Pairwise alignment for nucleotide sequences</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>34</volume>, <fpage>3094</fpage>&#x02013;<lpage>3100</lpage>.<pub-id pub-id-type="pmid">29750242</pub-id></mixed-citation></ref><ref id="men13020-bib-0041"><mixed-citation publication-type="journal" id="men13020-cit-0041">
+<string-name>
+<surname>Lieberman&#x02010;Aiden</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>van Berkum</surname>, <given-names>N. L.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Imakaev</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ragoczy</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Telling</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dekker</surname>, <given-names>J.</given-names>
+</string-name> (<year>2009</year>). <article-title>Comprehensive mapping of long&#x02010;range interactions reveals folding principles of the human genome</article-title>. <source xml:lang="en">Science</source>, <volume>326</volume>, <fpage>289</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">19815776</pub-id></mixed-citation></ref><ref id="men13020-bib-0042"><mixed-citation publication-type="journal" id="men13020-cit-0042">
+<string-name>
+<surname>Lomsadze</surname>, <given-names>A.</given-names>
+</string-name> (<year>2005</year>). <article-title>Gene identification in novel eukaryotic genomes by self&#x02010;training algorithm</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>33</volume>, <fpage>6494</fpage>&#x02013;<lpage>6506</lpage>.<pub-id pub-id-type="pmid">16314312</pub-id></mixed-citation></ref><ref id="men13020-bib-0043"><mixed-citation publication-type="journal" id="men13020-cit-0043">
+<string-name>
+<surname>Mapleson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Garcia Accinelli</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kettleborough</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clavijo</surname>, <given-names>B. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<sc>kat</sc>: A K&#x02010;mer analysis toolkit to quality control NGS datasets and genome assemblies</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>33</volume>, <fpage>574</fpage>&#x02013;<lpage>576</lpage>.<pub-id pub-id-type="pmid">27797770</pub-id></mixed-citation></ref><ref id="men13020-bib-0044"><mixed-citation publication-type="journal" id="men13020-cit-0044">
+<string-name>
+<surname>Miller</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Mudge</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gurtowski</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Ramaraj</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Silverstein</surname>, <given-names>K. A. T.</given-names>
+</string-name> (<year>2017</year>). <article-title>Hybrid assembly with long and short reads improves discovery of gene family expansions</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>18</volume>, <fpage>541</fpage>.<pub-id pub-id-type="pmid">28724409</pub-id></mixed-citation></ref><ref id="men13020-bib-0045"><mixed-citation publication-type="journal" id="men13020-cit-0045">
+<string-name>
+<surname>Moll</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ramaraj</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Fajardo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Devitt</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Sadowsky</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Mudge</surname>, <given-names>J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Strategies for optimizing BioNano and Dovetail explored through a second reference quality assembly for the legume model, <italic>Medicago truncatula</italic>
+</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>18</volume>, <fpage>578</fpage>.<pub-id pub-id-type="pmid">28778149</pub-id></mixed-citation></ref><ref id="men13020-bib-0046"><mixed-citation publication-type="journal" id="men13020-cit-0046">
+<string-name>
+<surname>Palesch</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bosinger</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Tharp</surname>, <given-names>G. K.</given-names>
+</string-name>, <string-name>
+<surname>Vanderford</surname>, <given-names>T. H.</given-names>
+</string-name>, <string-name>
+<surname>Paiardini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chahroudi</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Silvestri</surname>, <given-names>G.</given-names>
+</string-name> (<year>2018</year>). <article-title>Sooty mangabey genome sequence provides insight into AIDS resistance in a natural SIV host</article-title>. <source xml:lang="en">Nature</source>, <volume>553</volume>, <fpage>77</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">29300007</pub-id></mixed-citation></ref><ref id="men13020-bib-0047"><mixed-citation publication-type="journal" id="men13020-cit-0047">
+<string-name>
+<surname>Passera</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Marcolungo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Casati</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Brasca</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Quaglino</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Cantaloni</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Delledonne</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Hybrid genome assembly and annotation of <italic>Paenibacillus pasadenensis</italic> strain R16 reveals insights on endophytic life style and antifungal activity</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>13</volume>, <fpage>e0189993</fpage>.<pub-id pub-id-type="pmid">29351296</pub-id></mixed-citation></ref><ref id="men13020-bib-0048"><mixed-citation publication-type="journal" id="men13020-cit-0048">
+<string-name>
+<surname>Perelman</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Pichler</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gaggl</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Larkin</surname>, <given-names>D. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Construction of two whole genome radiation hybrid panels for dromedary (<italic>Camelus dromedarius</italic>): 5000 RAD and 15000 RAD</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>1982</fpage>.<pub-id pub-id-type="pmid">29386528</pub-id></mixed-citation></ref><ref id="men13020-bib-0049"><mixed-citation publication-type="journal" id="men13020-cit-0049">
+<string-name>
+<surname>Pertea</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pertea</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name>
+<surname>Antonescu</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>T.&#x02010;C.</given-names>
+</string-name>, <string-name>
+<surname>Mendell</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2015</year>). <article-title>StringTie enables improved reconstruction of a transcriptome from RNA&#x02010;Seq reads</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>33</volume>, <fpage>290</fpage>&#x02013;<lpage>295</lpage>.</mixed-citation></ref><ref id="men13020-bib-0050"><mixed-citation publication-type="journal" id="men13020-cit-0050">
+<string-name>
+<surname>Putnam</surname>, <given-names>N. H.</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Connell</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Stites</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Rice</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Blanchette</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Calef</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Green</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2016</year>). <article-title>Chromosome&#x02010;scale shotgun assembly using an in vitro method for long&#x02010;range linkage</article-title>. <source xml:lang="en">Genome Research</source>, <volume>26</volume>, <fpage>342</fpage>&#x02013;<lpage>350</lpage>.<pub-id pub-id-type="pmid">26848124</pub-id></mixed-citation></ref><ref id="men13020-bib-0051"><mixed-citation publication-type="journal" id="men13020-cit-0051">
+<string-name>
+<surname>Queir&#x000f3;s</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Alves</surname>, <given-names>P. C.</given-names>
+</string-name>, <string-name>
+<surname>Vicente</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gort&#x000e1;zar</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de la Fuente</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Genome&#x02010;wide associations identify novel candidate loci associated with genetic susceptibility to tuberculosis in wild boar</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>8</volume>, <fpage>1980</fpage>.<pub-id pub-id-type="pmid">29386541</pub-id></mixed-citation></ref><ref id="men13020-bib-0052"><mixed-citation publication-type="journal" id="men13020-cit-0052">
+<string-name>
+<surname>Rice</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name>
+<surname>Kohno</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>John</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Pham</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Howard</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lareau</surname>, <given-names>L. F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Green</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Improved genome assembly of American alligator genome reveals conserved architecture of estrogen signaling</article-title>. <source xml:lang="en">Genome Research</source>, <volume>27</volume>, <fpage>686</fpage>&#x02013;<lpage>696</lpage>.<pub-id pub-id-type="pmid">28137821</pub-id></mixed-citation></ref><ref id="men13020-bib-0053"><mixed-citation publication-type="journal" id="men13020-cit-0053">
+<string-name>
+<surname>Salmela</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rivals</surname>, <given-names>E.</given-names>
+</string-name> (<year>2014</year>). <article-title>LoRDEC: Accurate and efficient long read error correction</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>30</volume>(<issue>24</issue>), <fpage>3506</fpage>&#x02013;<lpage>3514</lpage>.<pub-id pub-id-type="pmid">25165095</pub-id></mixed-citation></ref><ref id="men13020-bib-0054"><mixed-citation publication-type="journal" id="men13020-cit-0054">
+<string-name>
+<surname>Sim&#x000e3;o</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name>
+<surname>Waterhouse</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kriventseva</surname>, <given-names>E. V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zdobnov</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2015</year>). <article-title>BUSCO: Assessing genome assembly and annotation completeness with single&#x02010;copy orthologs</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>31</volume>, <fpage>3210</fpage>&#x02013;<lpage>3212</lpage>.<pub-id pub-id-type="pmid">26059717</pub-id></mixed-citation></ref><ref id="men13020-bib-0055"><mixed-citation publication-type="journal" id="men13020-cit-0055">
+<string-name>
+<surname>Simpson</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jackman</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Schein</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>S. J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Birol</surname>, <given-names>&#x00130;.</given-names>
+</string-name> (<year>2009</year>). <article-title>ABySS: A parallel assembler for short read sequence data</article-title>. <source xml:lang="en">Genome Research</source>, <volume>19</volume>, <fpage>1117</fpage>&#x02013;<lpage>1123</lpage>.<pub-id pub-id-type="pmid">19251739</pub-id></mixed-citation></ref><ref id="men13020-bib-0056"><mixed-citation publication-type="journal" id="men13020-cit-0056">
+<string-name>
+<surname>Sorbolini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Bongiorni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cellesi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gaspa</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Dimauro</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Valentini</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Macciotta</surname>, <given-names>N. P. P.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genome wide association study on beef production traits in Marchigiana cattle breed</article-title>. <source xml:lang="en">Journal of Animal Breeding and Genetics</source>, <volume>134</volume>, <fpage>43</fpage>&#x02013;<lpage>48</lpage>.<pub-id pub-id-type="pmid">27329851</pub-id></mixed-citation></ref><ref id="men13020-bib-0057"><mixed-citation publication-type="journal" id="men13020-cit-0057">
+<string-name>
+<surname>Sotero&#x02010;Caio</surname>, <given-names>C. G.</given-names>
+</string-name>, <string-name>
+<surname>Platt</surname>, <given-names>R. N.</given-names>
+<suffix>II</suffix>
+</string-name>, <string-name>
+<surname>Suh</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ray</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Evolution and diversity of transposable elements in vertebrate genomes</article-title>. <source xml:lang="en">Genome Biology and Evolution</source>, <volume>9</volume>, <fpage>161</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">28158585</pub-id></mixed-citation></ref><ref id="men13020-bib-0058"><mixed-citation publication-type="journal" id="men13020-cit-0058">
+<string-name>
+<surname>Stanke</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Keller</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Gunduz</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Hayes</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Waack</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morgenstern</surname>, <given-names>B.</given-names>
+</string-name> (<year>2006</year>). <article-title>
+<sc>augustus</sc>: <italic>A</italic>
+<italic>b initio</italic> prediction of alternative transcripts</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>34</volume>, <fpage>W435</fpage>&#x02013;<lpage>W439</lpage>.<pub-id pub-id-type="pmid">16845043</pub-id></mixed-citation></ref><ref id="men13020-bib-0059"><mixed-citation publication-type="journal" id="men13020-cit-0059">
+<string-name>
+<surname>Treangen</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salzberg</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Repetitive DNA and next&#x02010;generation sequencing: Computational challenges and solutions</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>13</volume>, <fpage>36</fpage>&#x02013;<lpage>46</lpage>.</mixed-citation></ref><ref id="men13020-bib-0060"><mixed-citation publication-type="book" id="men13020-cit-0060">
+<string-name>
+<surname>Uerpmann</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Uerpman</surname>, <given-names>H. P.</given-names>
+</string-name> (<year>2012</year>). <chapter-title>Archeozoology of camels in South&#x02010;Eastern Arabia. Camels in Asia and North Africa</chapter-title> In <person-group person-group-type="editor"><name><surname>Knoll</surname><given-names>I. E.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Burger</surname><given-names>P.</given-names></name></person-group> (Eds.), <source xml:lang="en">Interdisciplinary perspectives on their significance in past and present</source> (pp. <fpage>109</fpage>&#x02013;<lpage>122</lpage>). <publisher-loc>Vienna</publisher-loc>: <publisher-name>Academy of Sciences Press</publisher-name>.</mixed-citation></ref><ref id="men13020-bib-0061"><mixed-citation publication-type="journal" id="men13020-cit-0061">
+<string-name>
+<surname>van Heesch</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kloosterman</surname>, <given-names>W. P.</given-names>
+</string-name>, <string-name>
+<surname>Lansu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ruzius</surname>, <given-names>F.&#x02010;P.</given-names>
+</string-name>, <string-name>
+<surname>Levandowsky</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>C. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Cuppen</surname>, <given-names>E.</given-names>
+</string-name> (<year>2013</year>). <article-title>Improving mammalian genome scaffolding using large insert mate&#x02010;pair next&#x02010;generation sequencing</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>14</volume>, <fpage>257</fpage>.<pub-id pub-id-type="pmid">23590730</pub-id></mixed-citation></ref><ref id="men13020-bib-0062"><mixed-citation publication-type="journal" id="men13020-cit-0062">
+<string-name>
+<surname>Venkatesan</surname>, <given-names>B. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bashir</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Nanopore sensors for nucleic acid analysis</article-title>. <source xml:lang="en">Nature Nanotechnology</source>, <volume>6</volume>, <fpage>615</fpage>&#x02013;<lpage>624</lpage>.</mixed-citation></ref><ref id="men13020-bib-0063"><mixed-citation publication-type="journal" id="men13020-cit-0063">
+<string-name>
+<surname>Walker</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Abeel</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Shea</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Priest</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Abouelliel</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sakthikumar</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Earl</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Pilon: An integrated tool for comprehensive microbial variant detection and genome assembly improvement</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>9</volume>, <fpage>e112963</fpage>.<pub-id pub-id-type="pmid">25409509</pub-id></mixed-citation></ref><ref id="men13020-bib-0064"><mixed-citation publication-type="journal" id="men13020-cit-0064">
+<string-name>
+<surname>Watson</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Warr</surname>, <given-names>A.</given-names>
+</string-name> (<year>2019</year>). <article-title>Errors in long&#x02010;read assemblies can critically affect protein prediction</article-title>. <source xml:lang="en">Nature Biotechnology</source>, <volume>37</volume>, <fpage>124</fpage>&#x02013;<lpage>126</lpage>.</mixed-citation></ref><ref id="men13020-bib-0065"><mixed-citation publication-type="journal" id="men13020-cit-0065">
+<string-name>
+<surname>Wu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Guang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Fageeh</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Camelid genomes reveal evolution and adaptation to desert environments</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>5</volume>, <fpage>5188</fpage>.</mixed-citation></ref><ref id="men13020-bib-0066"><mixed-citation publication-type="journal" id="men13020-cit-0066">
+<string-name>
+<surname>Yandell</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ence</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>A beginner&#x02019;s guide to eukaryotic genome annotation</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>13</volume>, <fpage>329</fpage>&#x02013;<lpage>342</lpage>.</mixed-citation></ref><ref id="men13020-bib-0067"><mixed-citation publication-type="journal" id="men13020-cit-0067">
+<string-name>
+<surname>Yue</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>Y. Q.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>X. R.</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Z. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shi</surname>, <given-names>K. R.</given-names>
+</string-name> (<year>2017</year>). <article-title>A genome&#x02010;wide association study suggests new candidate genes for milk production traits in Chinese Holstein cattle</article-title>. <source xml:lang="en">Animal Genetics</source>, <volume>48</volume>, <fpage>677</fpage>&#x02013;<lpage>681</lpage>.<pub-id pub-id-type="pmid">28857209</pub-id></mixed-citation></ref><ref id="men13020-bib-0068"><mixed-citation publication-type="journal" id="men13020-cit-0068">
+<string-name>
+<surname>Zdobnov</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Tegenfeldt</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Kuznetsov</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Waterhouse</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Sim&#x000e3;o</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>, <given-names>P.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kriventseva</surname>, <given-names>E. V.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<sc>orthodb</sc> v9.1: Cataloging evolutionary and functional annotations for animal, fungal, plant, archaeal, bacterial and viral orthologs</article-title>. <source xml:lang="en">Nucleic Acids Research</source>, <volume>45</volume>, <fpage>D744</fpage>&#x02013;<lpage>D749</lpage>.<pub-id pub-id-type="pmid">27899580</pub-id></mixed-citation></ref><ref id="men13020-bib-0069"><mixed-citation publication-type="journal" id="men13020-cit-0069">
+<string-name>
+<surname>Zimin</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Puiu</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mar&#x000e7;ais</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>&#x02026;. Salzberg, S. L.</surname>, </string-name> (<year>2017</year>). <article-title>Hybrid assembly of the large and highly repetitive genome of <italic>Aegilops tauschii</italic>, a progenitor of bread wheat, with the mega&#x02010;reads algorithm</article-title>. <source xml:lang="en">Genome Research</source>, <volume>27</volume>, <fpage>787</fpage>&#x02013;<lpage>792</lpage>.<pub-id pub-id-type="pmid">28130360</pub-id></mixed-citation></ref></ref-list></back></article>

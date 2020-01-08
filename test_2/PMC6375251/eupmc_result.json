@@ -1,0 +1,320 @@
+{
+  "id": [
+    "30792699"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30792699"
+  ],
+  "pmcid": [
+    "PMC6375251"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.00062"
+  ],
+  "title": [
+    "The CRISPR/Cas9 System for Targeted Genome Engineering in Free-Living Fungi: Advances and Opportunities for Lichenized Fungi."
+  ],
+  "authorString": [
+    "Shanmugam K, Ramalingam S, Venkataraman G, Hariharan GN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shanmugam K"
+          ],
+          "firstName": [
+            "Karthik"
+          ],
+          "lastName": [
+            "Shanmugam"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "M.S. Swaminathan Research Foundation, Chennai, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramalingam S"
+          ],
+          "firstName": [
+            "Sivaprakash"
+          ],
+          "lastName": [
+            "Ramalingam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Venkataraman G"
+          ],
+          "firstName": [
+            "Gayathri"
+          ],
+          "lastName": [
+            "Venkataraman"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "M.S. Swaminathan Research Foundation, Chennai, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Hariharan GN"
+          ],
+          "firstName": [
+            "G N"
+          ],
+          "lastName": [
+            "Hariharan"
+          ],
+          "initials": [
+            "GN"
+          ],
+          "affiliation": [
+            "M.S. Swaminathan Research Foundation, Chennai, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6926-3317",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "62"
+  ],
+  "abstractText": [
+    "Studies using whole genome sequencing, computational and gene expression, targeted genome engineering techniques for generating site-specific sequence alterations through non-homologous end joining (NHEJ) by genomic double-strand break (DSB) repair pathway with high precision, resulting in gene inactivation have elucidated the complexity of gene expression, and metabolic pathways in fungi. These tools and the data generated are crucial for precise generation of fungal products such as enzymes, secondary metabolites, antibiotics etc. Artificially engineered molecular scissors, zinc finger nucleases (ZFNs), Transcriptional activator-like effector nucleases (TALENs; that use protein motifs for DNA sequence recognition in the genome) and CRISPR associated protein 9 (Cas9;CRISPR/Cas9) system (RNA-DNA recognition) are being used in achieving targeted genome modifications for modifying traits in free-living fungal systems. Here, we discuss the recent research breakthroughs and developments which utilize CRISPR/Cas9 in the metabolic engineering of free-living fungi for the biosynthesis of secondary metabolites, enzyme production, antibiotics and to develop resistance against post-harvest browning of edible mushrooms and fungal pathogenesis. We also discuss the potential and advantages of using targeted genome engineering in lichenized fungal (mycobiont) cultures to enhance their growth and secondary metabolite production in vitro can be complemented by other molecular approaches."
+  ],
+  "affiliation": [
+    "M.S. Swaminathan Research Foundation, Chennai, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lichenized Fungi",
+        "Transcriptome Analysis",
+        "Crispr/cas9",
+        "Talens",
+        "Zfns",
+        "Ssns",
+        "Free-living Fungi",
+        "Mycobiont Culture"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6375251?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6375251"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00062"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-23"
+  ],
+  "firstIndexDate": [
+    "2019-02-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-07"
+  ],
+  "firstPublicationDate": [
+    "2019-02-07"
+  ]
+}

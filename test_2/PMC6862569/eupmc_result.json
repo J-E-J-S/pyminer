@@ -1,0 +1,417 @@
+{
+  "id": [
+    "31584803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31584803"
+  ],
+  "pmcid": [
+    "PMC6862569"
+  ],
+  "doi": [
+    "10.1021/acssynbio.9b00220"
+  ],
+  "title": [
+    "Design and Control of Extrachromosomal Elements in Methylorubrum extorquens AM1."
+  ],
+  "authorString": [
+    "Carrillo M, Wagner M, Petit F, Dransfeld A, Becker A, Erb TJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carrillo M"
+          ],
+          "firstName": [
+            "Martina"
+          ],
+          "lastName": [
+            "Carrillo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1861-9907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry & Synthetic Metabolism , Max Planck Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10 , 35043 Marburg , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wagner M"
+          ],
+          "firstName": [
+            "Marcel"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "LOEWE Center for Synthetic Microbiology , 35043 Marburg , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Petit F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Petit"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biochemistry & Synthetic Metabolism , Max Planck Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10 , 35043 Marburg , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Dransfeld A"
+          ],
+          "firstName": [
+            "Amelie"
+          ],
+          "lastName": [
+            "Dransfeld"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biochemistry & Synthetic Metabolism , Max Planck Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10 , 35043 Marburg , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Becker A"
+          ],
+          "firstName": [
+            "Anke"
+          ],
+          "lastName": [
+            "Becker"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4561-9184",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "LOEWE Center for Synthetic Microbiology , 35043 Marburg , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Erb TJ"
+          ],
+          "firstName": [
+            "Tobias J"
+          ],
+          "lastName": [
+            "Erb"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3685-0894",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry & Synthetic Metabolism , Max Planck Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10 , 35043 Marburg , Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4561-9184",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3685-0894",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1861-9907",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2882503"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS synthetic biology"
+          ],
+          "ISOAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "medlineAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "NLMid": [
+            "101575075"
+          ],
+          "ISSN": [
+            "2161-5063"
+          ],
+          "ESSN": [
+            "2161-5063"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2451-2456"
+  ],
+  "abstractText": [
+    "Genetic tools are a prerequisite to engineer cellular factories for synthetic biology and biotechnology. Methylorubrum extorquens AM1 is an important platform organism of a future C1-bioeconomy. However, its application is currently limited by the availability of genetic tools. Here we systematically tested repABC regions to maintain extrachromosomal DNA in M. extorquens. We used three elements to construct mini-chromosomes that are stably inherited at single copy number and can be shuttled between Escherichia coli and M. extorquens. These mini-chromosomes are compatible among each other and with high-copy number plasmids of M. extorquens. We also developed a set of inducible promoters of wide expression range, reaching levels exceeding those currently available, notably the PmxaF-promoter. In summary, we provide a set of tools to control the dynamic expression and copy number of genetic elements in M. extorquens, which opens new ways to unleash the metabolic and biotechnological potential of this organism for future applications."
+  ],
+  "affiliation": [
+    "Department of Biochemistry & Synthetic Metabolism , Max Planck Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10 , 35043 Marburg , Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "rapid-communication",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "637675"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alphaproteobacteria",
+        "Inducible Promoters",
+        "Repabc",
+        "Synthetic Chromosomes",
+        "Methylorubrum Extorquens"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acssynbio.9b00220"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6862569"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6862569?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-05"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-21"
+  ],
+  "firstPublicationDate": [
+    "2019-10-21"
+  ]
+}

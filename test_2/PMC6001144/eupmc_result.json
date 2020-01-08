@@ -1,0 +1,751 @@
+{
+  "id": [
+    "29898658"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29898658"
+  ],
+  "pmcid": [
+    "PMC6001144"
+  ],
+  "doi": [
+    "10.1186/s12864-018-4857-9"
+  ],
+  "title": [
+    "Two divergent Symbiodinium genomes reveal conservation of a gene cluster for sunscreen biosynthesis and recently lost genes."
+  ],
+  "authorString": [
+    "Shoguchi E, Beedessee G, Tada I, Hisata K, Kawashima T, Takeuchi T, Arakaki N, Fujie M, Koyanagi R, Roy MC, Kawachi M, Hidaka M, Satoh N, Shinzato C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shoguchi E"
+          ],
+          "firstName": [
+            "Eiichi"
+          ],
+          "lastName": [
+            "Shoguchi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan. eiichi@oist.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Beedessee G"
+          ],
+          "firstName": [
+            "Girish"
+          ],
+          "lastName": [
+            "Beedessee"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4397-7471",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tada I"
+          ],
+          "firstName": [
+            "Ipputa"
+          ],
+          "lastName": [
+            "Tada"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hisata K"
+          ],
+          "firstName": [
+            "Kanako"
+          ],
+          "lastName": [
+            "Hisata"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawashima T"
+          ],
+          "firstName": [
+            "Takeshi"
+          ],
+          "lastName": [
+            "Kawashima"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takeuchi T"
+          ],
+          "firstName": [
+            "Takeshi"
+          ],
+          "lastName": [
+            "Takeuchi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Arakaki N"
+          ],
+          "firstName": [
+            "Nana"
+          ],
+          "lastName": [
+            "Arakaki"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "DNA Sequencing Section, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujie M"
+          ],
+          "firstName": [
+            "Manabu"
+          ],
+          "lastName": [
+            "Fujie"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "DNA Sequencing Section, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Koyanagi R"
+          ],
+          "firstName": [
+            "Ryo"
+          ],
+          "lastName": [
+            "Koyanagi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9694-0288",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "DNA Sequencing Section, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Roy MC"
+          ],
+          "firstName": [
+            "Michael C"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Instrumental Analysis Section, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kawachi M"
+          ],
+          "firstName": [
+            "Masanobu"
+          ],
+          "lastName": [
+            "Kawachi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Environmental Biology and Ecosystem Studies, National Institute for Environmental Studies, Tsukuba, 305-8506, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hidaka M"
+          ],
+          "firstName": [
+            "Michio"
+          ],
+          "lastName": [
+            "Hidaka"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Biology and Marine Science, University of the Ryukyus, Nishihara, Okinawa, 903-0213, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Satoh N"
+          ],
+          "firstName": [
+            "Noriyuki"
+          ],
+          "lastName": [
+            "Satoh"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shinzato C"
+          ],
+          "firstName": [
+            "Chuya"
+          ],
+          "lastName": [
+            "Shinzato"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7843-3381",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan. c.shinzato@aori.u-tokyo.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9694-0288",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7843-3381",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4397-7471",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2691267"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC Genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "458"
+  ],
+  "abstractText": [
+    "BACKGROUND:The marine dinoflagellate, Symbiodinium, is a well-known photosynthetic partner for coral and other diverse, non-photosynthetic hosts in subtropical and tropical shallows, where it comprises an essential component of marine ecosystems. Using molecular phylogenetics, the genus Symbiodinium has been classified into nine major clades, A-I, and one of the reported differences among phenotypes is their capacity to synthesize mycosporine-like amino acids (MAAs), which absorb UV radiation. However, the genetic basis for this difference in synthetic capacity is unknown. To understand genetics underlying Symbiodinium diversity, we report two draft genomes, one from clade A, presumed to have been the earliest branching clade, and the other from clade C, in the terminal branch. RESULTS:The nuclear genome of Symbiodinium clade A (SymA) has more gene families than that of clade C, with larger numbers of organelle-related genes, including mitochondrial transcription terminal factor (mTERF) and Rubisco. While clade C (SymC) has fewer gene families, it displays specific expansions of repeat domain-containing genes, such as leucine-rich repeats (LRRs) and retrovirus-related dUTPases. Interestingly, the SymA genome encodes a gene cluster for MAA biosynthesis, potentially transferred from an endosymbiotic red alga (probably of bacterial origin), while SymC has completely lost these genes. CONCLUSIONS:Our analysis demonstrates that SymC appears to have evolved by losing gene families, such as the MAA biosynthesis gene cluster. In contrast to the conservation of genes related to photosynthetic ability, the terminal clade has suffered more gene family losses than other clades, suggesting a possible adaptation to symbiosis. Overall, this study implies that Symbiodinium ecology drives acquisition and loss of gene families."
+  ],
+  "affiliation": [
+    "Marine Genomics Unit, Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, 904-0495, Japan. eiichi@oist.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dinoflagellida"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cyclohexanols"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amino Acids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Symbiosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Deletion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Repetitive Sequences, Amino Acid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Symbiosis",
+        "Dinoflagellates",
+        "Mycosporine-like amino acids",
+        "Evolutionary genomics",
+        "Symbiodinium"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Amino Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cyclohexanols"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-4857-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6001144"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6001144?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-15"
+  ],
+  "firstIndexDate": [
+    "2018-06-15"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-30"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-14"
+  ],
+  "firstPublicationDate": [
+    "2018-06-14"
+  ]
+}

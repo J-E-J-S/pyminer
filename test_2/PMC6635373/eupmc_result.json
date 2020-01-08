@@ -1,0 +1,1251 @@
+{
+  "id": [
+    "31311938"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31311938"
+  ],
+  "pmcid": [
+    "PMC6635373"
+  ],
+  "doi": [
+    "10.1038/s41467-019-11004-3"
+  ],
+  "title": [
+    "Defective HNF4alpha-dependent gene expression as a driver of hepatocellular failure in alcoholic hepatitis."
+  ],
+  "authorString": [
+    "Argemi J, Latasa MU, Atkinson SR, Blokhin IO, Massey V, Gue JP, Cabezas J, Lozano JJ, Van Booven D, Bell A, Cao S, Vernetti LA, Arab JP, Ventura-Cots M, Edmunds LR, Fondevilla C, Stärkel P, Dubuquoy L, Louvet A, Odena G, Gomez JL, Aragon T, Altamirano J, Caballeria J, Jurczak MJ, Taylor DL, Berasain C, Wahlestedt C, Monga SP, Morgan MY, Sancho-Bru P, Mathurin P, Furuya S, Lackner C, Rusyn I, Shah VH, Thursz MR, Mann J, Avila MA, Bataller R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Argemi J"
+          ],
+          "firstName": [
+            "Josepmaria"
+          ],
+          "lastName": [
+            "Argemi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1696-7753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, Pittsburgh Liver Research Center, University of Pittsburgh Medical Center (UPMC), Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Latasa MU"
+          ],
+          "firstName": [
+            "Maria U"
+          ],
+          "lastName": [
+            "Latasa"
+          ],
+          "initials": [
+            "MU"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0878-1337",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hepatology Program, Center for Applied Medical Research (CIMA), University of Navarra, Pamplona, 31008, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Atkinson SR"
+          ],
+          "firstName": [
+            "Stephen R"
+          ],
+          "lastName": [
+            "Atkinson"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Division of Digestive Diseases, Department of Surgery and Cancer, Imperial College London, London, SW7 2AZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Blokhin IO"
+          ],
+          "firstName": [
+            "Ilya O"
+          ],
+          "lastName": [
+            "Blokhin"
+          ],
+          "initials": [
+            "IO"
+          ],
+          "affiliation": [
+            "Center for Therapeutic Innovation and Department of Psychiatry and Behavioral Sciences, University of Miami Miller School of Medicine, Miami, FL, 33136, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Massey V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Massey"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Departments of Medicine and Nutrition and Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27516, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gue JP"
+          ],
+          "firstName": [
+            "Joel P"
+          ],
+          "lastName": [
+            "Gue"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, Pittsburgh Liver Research Center, University of Pittsburgh Medical Center (UPMC), Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cabezas J"
+          ],
+          "firstName": [
+            "Joaquin"
+          ],
+          "lastName": [
+            "Cabezas"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0012-484X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Departments of Medicine and Nutrition and Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27516, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lozano JJ"
+          ],
+          "firstName": [
+            "Juan J"
+          ],
+          "lastName": [
+            "Lozano"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Centro de Investigacion Biomedica en Red, Enfermedades Hepáticas y Digestivas (CIBERehd), Madrid, 28029, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Booven D"
+          ],
+          "firstName": [
+            "Derek"
+          ],
+          "lastName": [
+            "Van Booven"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "John P. Hussman Institute of Human Genomics. Miller School of Medicine, University of Miami, Miami, FL, 33136, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bell A"
+          ],
+          "firstName": [
+            "Aaron"
+          ],
+          "lastName": [
+            "Bell"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6648-0834",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Pathology and Medicine, Pittsburgh Liver Research Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vernetti LA"
+          ],
+          "firstName": [
+            "Lawrence A"
+          ],
+          "lastName": [
+            "Vernetti"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "University of Pittsburgh Drug Discovery Institute, Department of Computational & Systems Biology, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Arab JP"
+          ],
+          "firstName": [
+            "Juan P"
+          ],
+          "lastName": [
+            "Arab"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8561-396X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ventura-Cots M"
+          ],
+          "firstName": [
+            "Meritxell"
+          ],
+          "lastName": [
+            "Ventura-Cots"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9513-2855",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, Pittsburgh Liver Research Center, University of Pittsburgh Medical Center (UPMC), Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Edmunds LR"
+          ],
+          "firstName": [
+            "Lia R"
+          ],
+          "lastName": [
+            "Edmunds"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Endocrinology and Metabolism, Center for Metabolic and Mitochondrial Medicine, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fondevilla C"
+          ],
+          "firstName": [
+            "Constantino"
+          ],
+          "lastName": [
+            "Fondevilla"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Liver Transplant Unit, Department of Surgery, Hospital Clinic, University of Barcelona, Barcelona, 08036, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Stärkel P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Stärkel"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2938-4442",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Service d'Hépato-gastroentérologie, Cliniques Universitaires Saint-Luc and Laboratory of Hepatogastroenterology, Institut de Recherche Expérimentale et Clinique, Université Catholique de Louvain, Brussels, 1200, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Dubuquoy L"
+          ],
+          "firstName": [
+            "Laurent"
+          ],
+          "lastName": [
+            "Dubuquoy"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3596-5497",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Service des Maladies de l'appareil digestif, CHU Lille. Inserm LIRIC - UMR995, University of Lille, Lille, 59000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Louvet A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Louvet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Service des Maladies de l'appareil digestif, CHU Lille. Inserm LIRIC - UMR995, University of Lille, Lille, 59000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Odena G"
+          ],
+          "firstName": [
+            "Gemma"
+          ],
+          "lastName": [
+            "Odena"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Departments of Medicine and Nutrition and Bowles Center for Alcohol Studies, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27516, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomez JL"
+          ],
+          "firstName": [
+            "Juan L"
+          ],
+          "lastName": [
+            "Gomez"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Departments of Pathology and Medicine, Pittsburgh Liver Research Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Aragon T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Aragon"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Gene Therapy and Regulation, Center for Applied Medical Research, University of Navarra, Pamplona, 31008, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Altamirano J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Altamirano"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Liver Unit, Department of Internal Medicine, Vall d'Hebron Institut de Recerca. Internal Medicine Department, Hospital Quiron Salud, Barcelona, 08035, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Caballeria J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Caballeria"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Centro de Investigacion Biomedica en Red, Enfermedades Hepáticas y Digestivas (CIBERehd), Madrid, 28029, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Jurczak MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Jurczak"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6335-6915",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Endocrinology and Metabolism, Center for Metabolic and Mitochondrial Medicine, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor DL"
+          ],
+          "firstName": [
+            "D Lansing"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "University of Pittsburgh Drug Discovery Institute, Department of Computational & Systems Biology, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Berasain C"
+          ],
+          "firstName": [
+            "Carmen"
+          ],
+          "lastName": [
+            "Berasain"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7075-2476",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hepatology Program, Center for Applied Medical Research (CIMA), University of Navarra, Pamplona, 31008, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Wahlestedt C"
+          ],
+          "firstName": [
+            "Claes"
+          ],
+          "lastName": [
+            "Wahlestedt"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4471-5916",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Therapeutic Innovation and Department of Psychiatry and Behavioral Sciences, University of Miami Miller School of Medicine, Miami, FL, 33136, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Monga SP"
+          ],
+          "firstName": [
+            "Satdarshan P"
+          ],
+          "lastName": [
+            "Monga"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8437-3378",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Pathology and Medicine, Pittsburgh Liver Research Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Morgan MY"
+          ],
+          "firstName": [
+            "Marsha Y"
+          ],
+          "lastName": [
+            "Morgan"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "UCL Institute for Liver and Digestive Health, Division of Medicine, Royal Free Campus, University College London, London, WC1E 6BT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sancho-Bru P"
+          ],
+          "firstName": [
+            "Pau"
+          ],
+          "lastName": [
+            "Sancho-Bru"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5569-9259",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centro de Investigacion Biomedica en Red, Enfermedades Hepáticas y Digestivas (CIBERehd), Madrid, 28029, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathurin P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Mathurin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Service des Maladies de l'appareil digestif, CHU Lille. Inserm LIRIC - UMR995, University of Lille, Lille, 59000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Furuya S"
+          ],
+          "firstName": [
+            "Shinji"
+          ],
+          "lastName": [
+            "Furuya"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Veterinary Integrative Biosciences, College of Veterinary Medicine and Biomedical Sciences, Texas A&M University, College Station, TX, 77845, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lackner C"
+          ],
+          "firstName": [
+            "Carolin"
+          ],
+          "lastName": [
+            "Lackner"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Medical University of Graz, Institute of Pathology, Graz, 8036, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Rusyn I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Rusyn"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Veterinary Integrative Biosciences, College of Veterinary Medicine and Biomedical Sciences, Texas A&M University, College Station, TX, 77845, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah VH"
+          ],
+          "firstName": [
+            "Vijay H"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "VH"
+          ],
+          "affiliation": [
+            "Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Thursz MR"
+          ],
+          "firstName": [
+            "Mark R"
+          ],
+          "lastName": [
+            "Thursz"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Division of Digestive Diseases, Department of Surgery and Cancer, Imperial College London, London, SW7 2AZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Mann J"
+          ],
+          "firstName": [
+            "Jelena"
+          ],
+          "lastName": [
+            "Mann"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Newcastle Fibrosis Research Group, Institute of Cellular Medicine, Faculty of Medical Sciences, Newcastle University, Newcastle upon Tyne, NE2 4HH, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Avila MA"
+          ],
+          "firstName": [
+            "Matias A"
+          ],
+          "lastName": [
+            "Avila"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Hepatology Program, Center for Applied Medical Research (CIMA), University of Navarra, Pamplona, 31008, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Bataller R"
+          ],
+          "firstName": [
+            "Ramon"
+          ],
+          "lastName": [
+            "Bataller"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6570-3557",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Gastroenterology, Hepatology and Nutrition, Pittsburgh Liver Research Center, University of Pittsburgh Medical Center (UPMC), Pittsburgh, PA, 15261, USA. bataller@pitt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0012-484X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6648-0834",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9513-2855",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7075-2476",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8437-3378",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5569-9259",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6570-3557",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2938-4442",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1696-7753",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0878-1337",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8561-396X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6335-6915",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3596-5497",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4471-5916",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2833191"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3126"
+  ],
+  "abstractText": [
+    "Alcoholic hepatitis (AH) is a life-threatening condition characterized by profound hepatocellular dysfunction for which targeted treatments are urgently needed. Identification of molecular drivers is hampered by the lack of suitable animal models. By performing RNA sequencing in livers from patients with different phenotypes of alcohol-related liver disease (ALD), we show that development of AH is characterized by defective activity of liver-enriched transcription factors (LETFs). TGFβ1 is a key upstream transcriptome regulator in AH and induces the use of HNF4α P2 promoter in hepatocytes, which results in defective metabolic and synthetic functions. Gene polymorphisms in LETFs including HNF4α are not associated with the development of AH. In contrast, epigenetic studies show that AH livers have profound changes in DNA methylation state and chromatin remodeling, affecting HNF4α-dependent gene expression. We conclude that targeting TGFβ1 and epigenetic drivers that modulate HNF4α-dependent gene expression could be beneficial to improve hepatocellular function in patients with AH."
+  ],
+  "affiliation": [
+    "Division of Gastroenterology, Hepatology and Nutrition, Pittsburgh Liver Research Center, University of Pittsburgh Medical Center (UPMC), Pittsburgh, PA, 15261, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 DK120531"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK116993"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AA018663"
+          ],
+          "agency": [
+            "NIAAA NIH HHS"
+          ],
+          "acronym": [
+            "AA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 AA021908"
+          ],
+          "agency": [
+            "NIAAA NIH HHS"
+          ],
+          "acronym": [
+            "AA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AA023781"
+          ],
+          "agency": [
+            "NIAAA NIH HHS"
+          ],
+          "acronym": [
+            "AA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UH3 TR000503"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 DK007052"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DK062277"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-11004-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6635373"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6635373?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-18"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-21"
+  ],
+  "dateOfRevision": [
+    "2019-11-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-16"
+  ],
+  "firstPublicationDate": [
+    "2019-07-16"
+  ]
+}

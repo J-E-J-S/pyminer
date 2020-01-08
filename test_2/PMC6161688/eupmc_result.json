@@ -1,0 +1,651 @@
+{
+  "id": [
+    "30223713"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30223713"
+  ],
+  "pmcid": [
+    "PMC6161688"
+  ],
+  "doi": [
+    "10.1080/15476286.2018.1514236"
+  ],
+  "title": [
+    "Evaluation of methodologies for microRNA biomarker detection by next generation sequencing."
+  ],
+  "authorString": [
+    "Coenen-Stass AML, Magen I, Brooks T, Ben-Dov IZ, Greensmith L, Hornstein E, Fratta P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Coenen-Stass AML"
+          ],
+          "firstName": [
+            "Anna M L"
+          ],
+          "lastName": [
+            "Coenen-Stass"
+          ],
+          "initials": [
+            "AML"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6949-0747",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Sobell Department of Neuromuscular Diseases , UCL Institute of Neurology , London , UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Magen I"
+          ],
+          "firstName": [
+            "Iddo"
+          ],
+          "lastName": [
+            "Magen"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "b Department of Molecular Genetics , Weizmann Institute of Science , Rehovot , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Brooks T"
+          ],
+          "firstName": [
+            "Tony"
+          ],
+          "lastName": [
+            "Brooks"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "c UCL Genomics , Institute of Child Health , London , UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ben-Dov IZ"
+          ],
+          "firstName": [
+            "Iddo Z"
+          ],
+          "lastName": [
+            "Ben-Dov"
+          ],
+          "initials": [
+            "IZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9180-3604",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "d Laboratory of Medical Transcriptomics, Department of Nephrology , Hadassah - Hebrew University Medical Center , Jerusalem , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Greensmith L"
+          ],
+          "firstName": [
+            "Linda"
+          ],
+          "lastName": [
+            "Greensmith"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "a Sobell Department of Neuromuscular Diseases , UCL Institute of Neurology , London , UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hornstein E"
+          ],
+          "firstName": [
+            "Eran"
+          ],
+          "lastName": [
+            "Hornstein"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "b Department of Molecular Genetics , Weizmann Institute of Science , Rehovot , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Fratta P"
+          ],
+          "firstName": [
+            "Pietro"
+          ],
+          "lastName": [
+            "Fratta"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "a Sobell Department of Neuromuscular Diseases , UCL Institute of Neurology , London , UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9180-3604",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6949-0747",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2731424"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "RNA biology"
+          ],
+          "ISOAbbreviation": [
+            "RNA Biol"
+          ],
+          "medlineAbbreviation": [
+            "RNA Biol"
+          ],
+          "NLMid": [
+            "101235328"
+          ],
+          "ISSN": [
+            "1547-6286"
+          ],
+          "ESSN": [
+            "1555-8584"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1133-1145"
+  ],
+  "abstractText": [
+    "In recent years, microRNAs (miRNAs) in tissues and biofluids have emerged as a new class of promising biomarkers for numerous diseases. Blood-based biomarkers are particularly desirable since serum or plasma is easily accessible and can be sampled repeatedly. To comprehensively explore the biomarker potential of miRNAs, sensitive, accurate and cost-efficient miRNA profiling techniques are required. Next generation sequencing (NGS) is emerging as the preferred method for miRNA profiling; offering high sensitivity, single-nucleotide resolution and the possibility to profile a considerable number of samples in parallel. Despite the excitement about miRNA biomarkers, challenges associated with insufficient characterization of the sequencing library preparation efficacy, precision and method-related quantification bias have not been addressed in detail and are generally underappreciated in the wider research community. Here, we have tested in parallel four commercially available small RNA sequencing kits against a cohort of samples comprised of human plasma, human serum, murine brain tissue and a reference library containing ~ 950 synthetic miRNAs. We discuss the advantages and limits of these methodologies for massive parallel microRNAs profiling. This work can serve as guideline for choosing an adequate library preparation method, based on sensitivity, specificity and accuracy of miRNA quantification, workflow convenience and potential for automation."
+  ],
+  "affiliation": [
+    "a Sobell Department of Neuromuscular Diseases , UCL Institute of Neurology , London , UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Greensmith/Apr15/839-791"
+          ],
+          "agency": [
+            "Motor Neurone Disease Association"
+          ],
+          "acronym": [
+            "MNDA_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/M008606/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Fratta/Jan15/946-795"
+          ],
+          "agency": [
+            "Motor Neurone Disease Association"
+          ],
+          "acronym": [
+            "MNDA_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Healthy Volunteers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarker",
+        "MicroRNA",
+        "Next-generation-sequencing",
+        "Small Rna Sequencing",
+        "Sequencing Library Preparation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/15476286.2018.1514236"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6161688"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6161688?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-26"
+  ],
+  "dateOfCreation": [
+    "2018-09-19"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-18"
+  ],
+  "firstPublicationDate": [
+    "2018-09-18"
+  ]
+}

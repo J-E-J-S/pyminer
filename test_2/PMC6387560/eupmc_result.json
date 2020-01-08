@@ -1,0 +1,463 @@
+{
+  "id": [
+    "30795817"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30795817"
+  ],
+  "pmcid": [
+    "PMC6387560"
+  ],
+  "doi": [
+    "10.1186/s40246-019-0194-6"
+  ],
+  "title": [
+    "vi-HMM: a novel HMM-based method for sequence variant identification in short-read data."
+  ],
+  "authorString": [
+    "Tang M, Hasan MS, Zhu H, Zhang L, Wu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang M"
+          ],
+          "firstName": [
+            "Man"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Statistics, Virginia Tech, 250 Drillfield Drive, Blacksburg, 24061, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hasan MS"
+          ],
+          "firstName": [
+            "Mohammad Shabbir"
+          ],
+          "lastName": [
+            "Hasan"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Virginia Tech, 225 Stanger Street, Blacksburg, 24060, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu H"
+          ],
+          "firstName": [
+            "Hongxiao"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Statistics, Virginia Tech, 250 Drillfield Drive, Blacksburg, 24061, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liqing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Virginia Tech, 225 Stanger Street, Blacksburg, 24060, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xiaowei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9916-3624",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Statistics, Virginia Tech, 250 Drillfield Drive, Blacksburg, 24061, VA, USA. xwwu@vt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9916-3624",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2781665"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Human genomics"
+          ],
+          "ISOAbbreviation": [
+            "Hum. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Hum Genomics"
+          ],
+          "NLMid": [
+            "101202210"
+          ],
+          "ISSN": [
+            "1473-9542"
+          ],
+          "ESSN": [
+            "1479-7364"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "9"
+  ],
+  "abstractText": [
+    "BACKGROUND:Accurate and reliable identification of sequence variants, including single nucleotide polymorphisms (SNPs) and insertion-deletion polymorphisms (INDELs), plays a fundamental role in next-generation sequencing (NGS) applications. Existing methods for calling these variants often make simplified assumptions of positional independence and fail to leverage the dependence between genotypes at nearby loci that is caused by linkage disequilibrium (LD). RESULTS AND CONCLUSION:We propose vi-HMM, a hidden Markov model (HMM)-based method for calling SNPs and INDELs in mapped short-read data. This method allows transitions between hidden states (defined as \"SNP,\" \"Ins,\" \"Del,\" and \"Match\") of adjacent genomic bases and determines an optimal hidden state path by using the Viterbi algorithm. The inferred hidden state path provides a direct solution to the identification of SNPs and INDELs. Simulation studies show that, under various sequencing depths, vi-HMM outperforms commonly used variant calling methods in terms of sensitivity and F1 score. When applied to the real data, vi-HMM demonstrates higher accuracy in calling SNPs and INDELs."
+  ],
+  "affiliation": [
+    "Department of Statistics, Virginia Tech, 250 Drillfield Drive, Blacksburg, 24061, VA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Markov Chains"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Haplotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linkage Disequilibrium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "INDEL Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "SNP",
+        "Viterbi algorithm",
+        "Indel",
+        "Hmm",
+        "Variant Calling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40246-019-0194-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6387560"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6387560?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-30"
+  ],
+  "dateOfCreation": [
+    "2019-02-24"
+  ],
+  "firstIndexDate": [
+    "2019-02-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-13"
+  ],
+  "firstPublicationDate": [
+    "2019-02-13"
+  ]
+}

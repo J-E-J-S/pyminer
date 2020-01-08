@@ -1,0 +1,899 @@
+{
+  "id": [
+    "30645582"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30645582"
+  ],
+  "pmcid": [
+    "PMC6333401"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0208237"
+  ],
+  "title": [
+    "CRISPR-Cas9 interrogation of a putative fetal globin repressor in human erythroid cells."
+  ],
+  "authorString": [
+    "Chung JE, Magis W, Vu J, Heo SJ, Wartiovaara K, Walters MC, Kurita R, Nakamura Y, Boffelli D, Martin DIK, Corn JE, DeWitt MA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chung JE"
+          ],
+          "firstName": [
+            "Jennifer E"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1332-6301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Innovative Genomics Institute, University of California, Berkeley, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Magis W"
+          ],
+          "firstName": [
+            "Wendy"
+          ],
+          "lastName": [
+            "Magis"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Vu J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Vu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4950-7967",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Innovative Genomics Institute, University of California, Berkeley, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Heo SJ"
+          ],
+          "firstName": [
+            "Seok-Jin"
+          ],
+          "lastName": [
+            "Heo"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wartiovaara K"
+          ],
+          "firstName": [
+            "Kirmo"
+          ],
+          "lastName": [
+            "Wartiovaara"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Walters MC"
+          ],
+          "firstName": [
+            "Mark C"
+          ],
+          "lastName": [
+            "Walters"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kurita R"
+          ],
+          "firstName": [
+            "Ryo"
+          ],
+          "lastName": [
+            "Kurita"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Cell Engineering Division, RIKEN BioResource Center, Tsukuba, Ibaraki, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura Y"
+          ],
+          "firstName": [
+            "Yukio"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Cell Engineering Division, RIKEN BioResource Center, Tsukuba, Ibaraki, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Boffelli D"
+          ],
+          "firstName": [
+            "Dario"
+          ],
+          "lastName": [
+            "Boffelli"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin DIK"
+          ],
+          "firstName": [
+            "David I K"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "DIK"
+          ],
+          "affiliation": [
+            "Children's Hospital Oakland Research Institute, UCSF Benioff Children's Hospital, Oakland, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Corn JE"
+          ],
+          "firstName": [
+            "Jacob E"
+          ],
+          "lastName": [
+            "Corn"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Innovative Genomics Institute, University of California, Berkeley, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "DeWitt MA"
+          ],
+          "firstName": [
+            "Mark A"
+          ],
+          "lastName": [
+            "DeWitt"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8784-0026",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Innovative Genomics Institute, University of California, Berkeley, CA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1332-6301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8784-0026",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4950-7967",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0208237"
+  ],
+  "abstractText": [
+    "Sickle Cell Disease and ß-thalassemia, which are caused by defective or deficient adult ß-globin (HBB) respectively, are the most common serious genetic blood diseases in the world. Persistent expression of the fetal ß-like globin, also known as 𝛾-globin, can ameliorate both disorders by serving in place of the adult ß-globin as a part of the fetal hemoglobin tetramer (HbF). Here we use CRISPR-Cas9 gene editing to explore a potential 𝛾-globin silencer region upstream of the δ-globin gene identified by comparison of naturally-occurring deletion mutations associated with up-regulated 𝛾-globin. We find that deletion of a 1.7 kb consensus element or select 350 bp sub-regions from bulk populations of cells increases levels of HbF. Screening of individual sgRNAs in one sub-region revealed three single guides that caused increases in 𝛾-globin expression. Deletion of the 1.7 kb region in HUDEP-2 clonal sublines, and in colonies derived from CD34+ hematopoietic stem/progenitor cells (HSPCs), does not cause significant up-regulation of 𝛾-globin. These data suggest that the 1.7 kb region is not an autonomous 𝛾-globin silencer, and thus by itself is not a suitable therapeutic target for gene editing treatment of ß-hemoglobinopathies."
+  ],
+  "affiliation": [
+    "Innovative Genomics Institute, University of California, Berkeley, CA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "S10 OD018174"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hematopoietic Stem Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Erythroid Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fetal Hemoglobin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Repressor Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA, Intergenic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Silencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Up-Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Deletion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "gamma-Globins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fetal Hemoglobin"
+          ],
+          "registryNumber": [
+            "9034-63-3"
+          ]
+        },
+        {
+          "name": [
+            "Repressor Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA, Intergenic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "gamma-Globins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6333401?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6333401"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0208237"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR10689"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "ensembl"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-09-24"
+  ],
+  "dateOfCreation": [
+    "2019-01-16"
+  ],
+  "firstIndexDate": [
+    "2019-01-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-15"
+  ],
+  "dateOfRevision": [
+    "2019-09-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-15"
+  ],
+  "firstPublicationDate": [
+    "2019-01-15"
+  ]
+}

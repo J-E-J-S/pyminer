@@ -1,0 +1,588 @@
+{
+  "id": [
+    "31246943"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31246943"
+  ],
+  "pmcid": [
+    "PMC6597035"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1006960"
+  ],
+  "title": [
+    "Modeling the temporal dynamics of the gut microbial community in adults and infants."
+  ],
+  "authorString": [
+    "Shenhav L, Furman O, Briscoe L, Thompson M, Silverman JD, Mizrahi I, Halperin E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shenhav L"
+          ],
+          "firstName": [
+            "Liat"
+          ],
+          "lastName": [
+            "Shenhav"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1708-6050",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Science, University of California Los Angeles, Los Angeles, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Furman O"
+          ],
+          "firstName": [
+            "Ori"
+          ],
+          "lastName": [
+            "Furman"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Life Sciences, Ben Gurion University, Be'er Sheva, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Briscoe L"
+          ],
+          "firstName": [
+            "Leah"
+          ],
+          "lastName": [
+            "Briscoe"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5827-5013",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of California Los Angeles, Los Angeles, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson M"
+          ],
+          "firstName": [
+            "Mike"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1546-0512",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of California Los Angeles, Los Angeles, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Silverman JD"
+          ],
+          "firstName": [
+            "Justin D"
+          ],
+          "lastName": [
+            "Silverman"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Center for Genomic and Computational Biology, Duke University, Durham, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Mizrahi I"
+          ],
+          "firstName": [
+            "Itzhak"
+          ],
+          "lastName": [
+            "Mizrahi"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Life Sciences, Ben Gurion University, Be'er Sheva, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Halperin E"
+          ],
+          "firstName": [
+            "Eran"
+          ],
+          "lastName": [
+            "Halperin"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Computer Science, University of California Los Angeles, Los Angeles, California, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1708-6050",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5827-5013",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1546-0512",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2823116"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1006960"
+  ],
+  "abstractText": [
+    "Given the highly dynamic and complex nature of the human gut microbial community, the ability to identify and predict time-dependent compositional patterns of microbes is crucial to our understanding of the structure and functions of this ecosystem. One factor that could affect such time-dependent patterns is microbial interactions, wherein community composition at a given time point affects the microbial composition at a later time point. However, the field has not yet settled on the degree of this effect. Specifically, it has been recently suggested that only a minority of taxa depend on the microbial composition in earlier times. To address the issue of identifying and predicting temporal microbial patterns we developed a new model, MTV-LMM (Microbial Temporal Variability Linear Mixed Model), a linear mixed model for the prediction of microbial community temporal dynamics. MTV-LMM can identify time-dependent microbes (i.e., microbes whose abundance can be predicted based on the previous microbial composition) in longitudinal studies, which can then be used to analyze the trajectory of the microbiome over time. We evaluated the performance of MTV-LMM on real and synthetic time series datasets, and found that MTV-LMM outperforms commonly used methods for microbiome time series modeling. Particularly, we demonstrate that the effect of the microbial composition in previous time points on the abundance of taxa at later time points is underestimated by a factor of at least 10 when applying previous approaches. Using MTV-LMM, we demonstrate that a considerable portion of the human gut microbiome, both in infants and adults, has a significant time-dependent component that can be predicted based on microbiome composition in earlier time points. This suggests that microbiome composition at a given time point is a major factor in defining future microbiome composition and that this phenomenon is considerably more common than previously reported for the human gut microbiome."
+  ],
+  "affiliation": [
+    "Department of Computer Science, University of California Los Angeles, Los Angeles, California, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 GM007171"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Microbiome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1006960"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6597035"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6597035?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR15028"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-12-02"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-27"
+  ],
+  "firstPublicationDate": [
+    "2019-06-27"
+  ]
+}

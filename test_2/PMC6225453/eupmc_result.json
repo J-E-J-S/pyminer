@@ -1,0 +1,309 @@
+{
+  "id": [
+    "30532650"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30532650"
+  ],
+  "pmcid": [
+    "PMC6225453"
+  ],
+  "doi": [
+    "10.2174/1389202919666180911144055"
+  ],
+  "title": [
+    "Metabolic Modeling of Microbial Community Interactions for Health, Environmental and Biotechnological Applications."
+  ],
+  "authorString": [
+    "Ang KS, Lakshmanan M, Lee NR, Lee DY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ang KS"
+          ],
+          "firstName": [
+            "Kok Siong"
+          ],
+          "lastName": [
+            "Ang"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "1Bioprocessing Technology Institute (BTI), ASTAR, Singapore 138668, Singapore; 2Department of Chemical and Biomolecular Engineering, and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), National University of Singapore, Singapore 117585, Singapore; 3School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do16419, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lakshmanan M"
+          ],
+          "firstName": [
+            "Meiyappan"
+          ],
+          "lastName": [
+            "Lakshmanan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Bioprocessing Technology Institute (BTI), ASTAR, Singapore 138668, Singapore; 2Department of Chemical and Biomolecular Engineering, and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), National University of Singapore, Singapore 117585, Singapore; 3School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do16419, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee NR"
+          ],
+          "firstName": [
+            "Na-Rae"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "NR"
+          ],
+          "affiliation": [
+            "1Bioprocessing Technology Institute (BTI), ASTAR, Singapore 138668, Singapore; 2Department of Chemical and Biomolecular Engineering, and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), National University of Singapore, Singapore 117585, Singapore; 3School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do16419, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee DY"
+          ],
+          "firstName": [
+            "Dong-Yup"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "1Bioprocessing Technology Institute (BTI), ASTAR, Singapore 138668, Singapore; 2Department of Chemical and Biomolecular Engineering, and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), National University of Singapore, Singapore 117585, Singapore; 3School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do16419, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2759700"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current genomics"
+          ],
+          "ISOAbbreviation": [
+            "Curr. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Curr Genomics"
+          ],
+          "NLMid": [
+            "100960527"
+          ],
+          "ISSN": [
+            "1389-2029"
+          ],
+          "ESSN": [
+            "1875-5488"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "712-722"
+  ],
+  "abstractText": [
+    "In nature, microbes do not exist in isolation but co-exist in a variety of ecological and biological environments and on various host organisms. Due to their close proximity, these microbes interact among themselves, and also with the hosts in both positive and negative manners. Moreover, these interactions may modulate dynamically upon external stimulus as well as internal community changes. This demands systematic techniques such as mathematical modeling to understand the intrinsic community behavior. Here, we reviewed various approaches for metabolic modeling of microbial communities. If detailed species-specific information is available, segregated models of individual organisms can be constructed and connected via metabolite exchanges; otherwise, the community may be represented as a lumped network of metabolic reactions. The constructed models can then be simulated to help fill knowledge gaps, and generate testable hypotheses for designing new experiments. More importantly, such community models have been developed to study microbial interactions in various niches such as host microbiome, biogeochemical and bioremediation, waste water treatment and synthetic consortia. As such, the metabolic modeling efforts have allowed us to gain new insights into the natural and synthetic microbial communities, and design interventions to achieve specific goals. Finally, potential directions for future development in metabolic modeling of microbial communities were also discussed."
+  ],
+  "affiliation": [
+    "1Bioprocessing Technology Institute (BTI), ASTAR, Singapore 138668, Singapore; 2Department of Chemical and Biomolecular Engineering, and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), National University of Singapore, Singapore 117585, Singapore; 3School of Chemical Engineering, Sungkyunkwan University, 2066 Seobu-ro, Jangan-gu, Suwon, Gyeonggi-do16419, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolism",
+        "Kinetic models",
+        "Microbial communities",
+        "Flux Balance Analysis",
+        "Genome-scale Metabolic Models",
+        "Community Modeling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6225453?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6225453"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1389202919666180911144055"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-05"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ],
+  "embargoDate": [
+    "2019-06-01"
+  ]
+}

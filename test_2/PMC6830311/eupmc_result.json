@@ -1,0 +1,354 @@
+{
+  "id": [
+    "31546660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31546660"
+  ],
+  "pmcid": [
+    "PMC6830311"
+  ],
+  "doi": [
+    "10.3390/cells8101123"
+  ],
+  "title": [
+    "Estrogen-Receptor Expression and Function in Female Reproductive Disease."
+  ],
+  "authorString": [
+    "Tang ZR, Zhang R, Lian ZX, Deng SL, Yu K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang ZR"
+          ],
+          "firstName": [
+            "Zi-Run"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "ZR"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory for Animal Genetic Improvement, National Engineering Laboratory for Animal Breeding, Key Laboratory of Animal Genetics and Breeding of the Ministry of Agriculture, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. S20183040519@cau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory for Animal Genetic Improvement, National Engineering Laboratory for Animal Breeding, Key Laboratory of Animal Genetics and Breeding of the Ministry of Agriculture, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. zr123@cau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Lian ZX"
+          ],
+          "firstName": [
+            "Zheng-Xing"
+          ],
+          "lastName": [
+            "Lian"
+          ],
+          "initials": [
+            "ZX"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory for Animal Genetic Improvement, National Engineering Laboratory for Animal Breeding, Key Laboratory of Animal Genetics and Breeding of the Ministry of Agriculture, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. lianzhx@cau.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng SL"
+          ],
+          "firstName": [
+            "Shou-Long"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1187-3037",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing 100101, China. popo84350746@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu K"
+          ],
+          "firstName": [
+            "Kun"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Beijing Key Laboratory for Animal Genetic Improvement, National Engineering Laboratory for Animal Breeding, Key Laboratory of Animal Genetics and Breeding of the Ministry of Agriculture, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. young137@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1187-3037",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2861428"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Estrogen receptors (ER) include ER alpha, ER beta and new membrane receptor G protein-coupled receptor 30 (GPR30). Estrogen receptors are key receptors to maintain ovarian granulosa cell differentiation, follicle and oocyte growth and development, and ovulation function. The abnormal functions of estrogen, its receptors, and estradiol synthesis-related enzymes are closely related to clinical reproductive endocrine diseases, such as polycystic ovary syndrome (PCOS) and endometriosis (EMS). At present, hormone therapy is the main treatment for ovarian-related diseases, and a stable hormone environment is established by regulating ovarian function. In recent years, some estrogen-related drugs have made great progress, such as clomiphene, which is a nonsteroidal antiestrogen drug in clinical application. This article elaborates on the regulatory role of estrogen and its nuclear receptors and membrane receptors in oocyte development, especially female reproductive diseases related to the abnormal expression of estrogen and its receptors. We also highlighted the latest advances of treatment strategy for these diseases and the application of related targeted small molecule drugs in clinical research and treatment, so as to provide reference for the treatment of female reproductive diseases."
+  ],
+  "affiliation": [
+    "Beijing Key Laboratory for Animal Genetic Improvement, National Engineering Laboratory for Animal Breeding, Key Laboratory of Animal Genetics and Breeding of the Ministry of Agriculture, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. S20183040519@cau.edu.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ovary",
+        "Estrogen receptor",
+        "Female Reproductive Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells8101123"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6830311"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6830311?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-21"
+  ],
+  "firstPublicationDate": [
+    "2019-09-21"
+  ]
+}

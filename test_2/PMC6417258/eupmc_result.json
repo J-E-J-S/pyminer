@@ -1,0 +1,552 @@
+{
+  "id": [
+    "30866806"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30866806"
+  ],
+  "pmcid": [
+    "PMC6417258"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5556-x"
+  ],
+  "title": [
+    "Linear models enable powerful differential activity analysis in massively parallel reporter assays."
+  ],
+  "authorString": [
+    "Myint L, Avramopoulos DG, Goff LA, Hansen KD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Myint L"
+          ],
+          "firstName": [
+            "Leslie"
+          ],
+          "lastName": [
+            "Myint"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2478-0331",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mathematics, Statistics, and Computer Science, Macalester College, 1600 Grand Ave, Saint Paul, MN 55105, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Avramopoulos DG"
+          ],
+          "firstName": [
+            "Dimitrios G"
+          ],
+          "lastName": [
+            "Avramopoulos"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins School of Medicine, Baltimore, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Goff LA"
+          ],
+          "firstName": [
+            "Loyal A"
+          ],
+          "lastName": [
+            "Goff"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2875-451X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins School of Medicine, Baltimore, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hansen KD"
+          ],
+          "firstName": [
+            "Kasper D"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0086-0687",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe St, E3527, Baltimore, MD 21212, USA. khansen@jhsph.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2478-0331",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2875-451X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0086-0687",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2789510"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "209"
+  ],
+  "abstractText": [
+    "BACKGROUND:Massively parallel reporter assays (MPRAs) have emerged as a popular means for understanding noncoding variation in a variety of conditions. While a large number of experiments have been described in the literature, analysis typically uses ad-hoc methods. There has been little attention to comparing performance of methods across datasets. RESULTS:We present the mpralm method which we show is calibrated and powerful, by analyzing its performance on multiple MPRA datasets. We show that it outperforms existing statistical methods for analysis of this data type, in the first comprehensive evaluation of statistical methods on several datasets. We investigate theoretical and real-data properties of barcode summarization methods and show an unappreciated impact of summarization method for some datasets. Finally, we use our model to conduct a power analysis for this assay and show substantial improvements in power by performing up to 6 replicates per condition, whereas sequencing depth has smaller impact; we recommend to always use at least 4 replicates. An R package is available from the Bioconductor project. CONCLUSIONS:Together, these results inform recommendations for differential analysis, general group comparisons, and power analysis and will help improve design and analysis of MPRA experiments."
+  ],
+  "affiliation": [
+    "Department of Mathematics, Statistics, and Computer Science, Macalester College, 1600 Grand Ave, Saint Paul, MN 55105, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U24CA180996"
+          ],
+          "agency": [
+            "National Cancer Institute (US)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 CA180996"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM121459"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM121459"
+          ],
+          "agency": [
+            "National Institute of General Medical Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linear Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Enhancer",
+        "Statistics",
+        "Massively Parallel Reporter Assays"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5556-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417258"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417258?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR18487"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "igsr"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-01"
+  ],
+  "dateOfCreation": [
+    "2019-03-15"
+  ],
+  "firstIndexDate": [
+    "2019-03-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-07-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-12"
+  ],
+  "firstPublicationDate": [
+    "2019-03-12"
+  ]
+}

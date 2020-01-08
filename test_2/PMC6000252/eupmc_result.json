@@ -1,0 +1,498 @@
+{
+  "id": [
+    "29474888"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29474888"
+  ],
+  "pmcid": [
+    "PMC6000252"
+  ],
+  "doi": [
+    "10.1016/j.gpb.2017.10.001"
+  ],
+  "title": [
+    "Preprocessing of 2-Dimensional Gel Electrophoresis Images Applied to Proteomic Analysis: A Review."
+  ],
+  "authorString": [
+    "Goez MM, Torres-Madroñero MC, Röthlisberger S, Delgado-Trejos E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goez MM"
+          ],
+          "firstName": [
+            "Manuel Mauricio"
+          ],
+          "lastName": [
+            "Goez"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Automatics, Electronics and Computer Science Research Group, Faculty of Engineering, Instituto Tecnologico Metropolitano, Medellin 050012, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "Torres-Madroñero MC"
+          ],
+          "firstName": [
+            "Maria Constanza"
+          ],
+          "lastName": [
+            "Torres-Madroñero"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Automatics, Electronics and Computer Science Research Group, Faculty of Engineering, Instituto Tecnologico Metropolitano, Medellin 050012, Colombia. Electronic address: mariatorres@itm.edu.co."
+          ]
+        },
+        {
+          "fullName": [
+            "Röthlisberger S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Röthlisberger"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Biomedical Innovation and Research Group, Faculty of Applied and Exact Sciences, Instituto Tecnologico Metropolitano, Medellin 050012, Colombia."
+          ]
+        },
+        {
+          "fullName": [
+            "Delgado-Trejos E"
+          ],
+          "firstName": [
+            "Edilson"
+          ],
+          "lastName": [
+            "Delgado-Trejos"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4840-478X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Quality, Metrology and Production Research Group, Faculty of Economic and Management Sciences, Instituto Tecnologico Metropolitano, Medellin 050012, Colombia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4840-478X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2665198"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genomics, proteomics & bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "Genomics Proteomics Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Genomics Proteomics Bioinformatics"
+          ],
+          "NLMid": [
+            "101197608"
+          ],
+          "ISSN": [
+            "1672-0229"
+          ],
+          "ESSN": [
+            "2210-3244"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "63-72"
+  ],
+  "abstractText": [
+    "Various methods and specialized software programs are available for processing two-dimensional gel electrophoresis (2-DGE) images. However, due to the anomalies present in these images, a reliable, automated, and highly reproducible system for 2-DGE image analysis has still not been achieved. The most common anomalies found in 2-DGE images include vertical and horizontal streaking, fuzzy spots, and background noise, which greatly complicate computational analysis. In this paper, we review the preprocessing techniques applied to 2-DGE images for noise reduction, intensity normalization, and background correction. We also present a quantitative comparison of non-linear filtering techniques applied to synthetic gel images, through analyzing the performance of the filters under specific conditions. Synthetic proteins were modeled into a two-dimensional Gaussian distribution with adjustable parameters for changing the size, intensity, and degradation. Three types of noise were added to the images: Gaussian, Rayleigh, and exponential, with signal-to-noise ratios (SNRs) ranging 8-20 decibels (dB). We compared the performance of wavelet, contourlet, total variation (TV), and wavelet-total variation (WTTV) techniques using parameters SNR and spot efficiency. In terms of spot efficiency, contourlet and TV were more sensitive to noise than wavelet and WTTV. Wavelet worked the best for images with SNR ranging 10-20 dB, whereas WTTV performed better with high noise levels. Wavelet also presented the best performance with any level of Gaussian noise and low levels (20-14 dB) of Rayleigh and exponential noise in terms of SNR. Finally, the performance of the non-linear filtering techniques was evaluated using a real 2-DGE image with previously identified proteins marked. Wavelet achieved the best detection rate for the real image."
+  ],
+  "affiliation": [
+    "Automatics, Electronics and Computer Science Research Group, Faculty of Engineering, Instituto Tecnologico Metropolitano, Medellin 050012, Colombia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrophoresis, Gel, Two-Dimensional"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Filtering",
+        "Background Correction",
+        "Preprocessing",
+        "Noise Reduction",
+        "2d Gel Electrophoresis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6000252?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6000252"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.gpb.2017.10.001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-22"
+  ],
+  "dateOfCreation": [
+    "2018-02-24"
+  ],
+  "firstIndexDate": [
+    "2018-02-24"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-16"
+  ],
+  "dateOfRevision": [
+    "2018-08-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-21"
+  ],
+  "firstPublicationDate": [
+    "2018-02-21"
+  ]
+}

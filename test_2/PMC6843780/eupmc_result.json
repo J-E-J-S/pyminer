@@ -1,0 +1,446 @@
+{
+  "id": [
+    "31546741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31546741"
+  ],
+  "pmcid": [
+    "PMC6843780"
+  ],
+  "doi": [
+    "10.3390/microorganisms7100379"
+  ],
+  "title": [
+    "Complete Genome Sequence and Characterization of a Polyethylene Biodegradation Strain, Streptomyces Albogriseolus LBX-2."
+  ],
+  "authorString": [
+    "Shao H, Chen M, Fei X, Zhang R, Zhong Y, Ni W, Tao X, He X, Zhang E, Yong B, Tan X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shao H"
+          ],
+          "firstName": [
+            "Huanhuan"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. wsshforget@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen M"
+          ],
+          "firstName": [
+            "Meiju"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. chenmeiju0480@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Fei X"
+          ],
+          "firstName": [
+            "Xueting"
+          ],
+          "lastName": [
+            "Fei"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. 18482195673@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang R"
+          ],
+          "firstName": [
+            "Ronglin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. zrl605172351@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. zy664882695@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ni W"
+          ],
+          "firstName": [
+            "Weimin"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. NWMsicnu@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tao X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. taoxiang@sicnu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "He X"
+          ],
+          "firstName": [
+            "XinYi"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. hexinyi64704748@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang E"
+          ],
+          "firstName": [
+            "Erliang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. erliang1074356205@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Yong B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yong"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. binyong1225@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Chengdu 610064, China. txmyyf@scu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2861421"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microorganisms"
+          ],
+          "ISOAbbreviation": [
+            "Microorganisms"
+          ],
+          "medlineAbbreviation": [
+            "Microorganisms"
+          ],
+          "NLMid": [
+            "101625893"
+          ],
+          "ISSN": [
+            "2076-2607"
+          ],
+          "ESSN": [
+            "2076-2607"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "A bacterial strain, Streptomyces albogriseolus LBX-2, was isolated from a soil sample in Chengdu, China. S. albogriseolus LBX-2 is an aerobic and Gram-positive microorganism that is capable of using the polyethylene as the sole carbon source. Results of scanning electron microscopy and tensile tests indicated that S. albogriseolus LBX-2 could cause the damages to polyethylene (PE). Suspension culture of LBX-2 resulted in the weight loss in the PE powder over a 15-day period. The bacterial growth curve assay clearly demonstrated the utilization of n-hexadecane and n-octadecane for the strain LBX-2. Phylogenetic analysis showed that it was grouped in the same clade as S. albogriseolus belonging to Streptomyces. The complete genome of strain LBX-2 consists of a chromosome of 7,210,477 bp and a linear plasmid of 336,677 bp. Compared with other strains of Streptomyces, the genome size of S. albogriseolus LBX-2 was smaller than the average but its guanine and cytosine content (72.47%) was higher than the others. The Non-Redundant Protein Database (NR), Kyoto Encyclopedia of Genes and Genomes (KEGG), SwissProt, Gene Ontology (GO) and Clusters of Orthologous Groups (COG) annotations provided information on the specific functions of encoded proteins. A total of 21 monooxygenase and 22 dioxygenase genes were found in its genome. Synteny comparison with the genome of Streptomyces coelicolor A3(2) revealed a low overall genetic diversity between them. This study provides valuable information to reveal the underlying mechanisms on PE degradation by S. albogriseolus LBX-2."
+  ],
+  "affiliation": [
+    "College of Life Sciences, Sichuan Normal University, Chengdu 610101, China. wsshforget@163.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "E031303"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome",
+        "Streptomyces Albogriseolus Lbx-2",
+        "Polyethylene Biodegradation",
+        "Synteny Comparison"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/microorganisms7100379"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6843780"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6843780?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-27"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-22"
+  ],
+  "firstPublicationDate": [
+    "2019-09-22"
+  ]
+}

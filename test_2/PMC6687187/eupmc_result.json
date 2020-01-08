@@ -1,0 +1,569 @@
+{
+  "id": [
+    "31356595"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31356595"
+  ],
+  "pmcid": [
+    "PMC6687187"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1007243"
+  ],
+  "title": [
+    "Spatially constrained tumour growth affects the patterns of clonal selection and neutral drift in cancer genomic data."
+  ],
+  "authorString": [
+    "Chkhaidze K, Heide T, Werner B, Williams MJ, Huang W, Caravagna G, Graham TA, Sottoriva A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chkhaidze K"
+          ],
+          "firstName": [
+            "Ketevan"
+          ],
+          "lastName": [
+            "Chkhaidze"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Heide T"
+          ],
+          "firstName": [
+            "Timon"
+          ],
+          "lastName": [
+            "Heide"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1386-7469",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Werner B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Werner"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams MJ"
+          ],
+          "firstName": [
+            "Marc J"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Evolution and Cancer Lab, Barts Cancer Institute, Queen Mary University of London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Weini"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Evolution and Cancer Lab, Barts Cancer Institute, Queen Mary University of London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Caravagna G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Caravagna"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4240-3265",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Graham TA"
+          ],
+          "firstName": [
+            "Trevor A"
+          ],
+          "lastName": [
+            "Graham"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9582-1597",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Evolution and Cancer Lab, Barts Cancer Institute, Queen Mary University of London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Sottoriva A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Sottoriva"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6709-9533",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6709-9533",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1386-7469",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4240-3265",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9582-1597",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2832866"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1007243"
+  ],
+  "abstractText": [
+    "Quantification of the effect of spatial tumour sampling on the patterns of mutations detected in next-generation sequencing data is largely lacking. Here we use a spatial stochastic cellular automaton model of tumour growth that accounts for somatic mutations, selection, drift and spatial constraints, to simulate multi-region sequencing data derived from spatial sampling of a neoplasm. We show that the spatial structure of a solid cancer has a major impact on the detection of clonal selection and genetic drift from both bulk and single-cell sequencing data. Our results indicate that spatial constrains can introduce significant sampling biases when performing multi-region bulk sampling and that such bias becomes a major confounding factor for the measurement of the evolutionary dynamics of human tumours. We also propose a statistical inference framework that incorporates spatial effects within a growing tumour and so represents a further step forwards in the inference of evolutionary dynamics from genomic data. Our analysis shows that measuring cancer evolution using next-generation sequencing while accounting for the numerous confounding factors remains challenging. However, mechanistic model-based approaches have the potential to capture the sources of noise and better interpret the data."
+  ],
+  "affiliation": [
+    "Evolutionary Genomics and Modelling Lab, Centre for Evolution and Cancer, The Institute of Cancer Research, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MR/P000789/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "acronym": [
+            "MRC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "A22909"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "202778/Z/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "105104/Z/14/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "A19771"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 CA217376"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "202778/B/16/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1007243"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6687187"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6687187?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR69644"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-17"
+  ],
+  "dateOfRevision": [
+    "2019-12-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-29"
+  ],
+  "firstPublicationDate": [
+    "2019-07-29"
+  ]
+}

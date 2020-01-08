@@ -1,0 +1,308 @@
+{
+  "id": [
+    "31475024"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31475024"
+  ],
+  "pmcid": [
+    "PMC6706459"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.01028"
+  ],
+  "title": [
+    "The Diversity of Nutritional Metabolites: Origin, Dissection, and Application in Crop Breeding."
+  ],
+  "authorString": [
+    "Fang C, Luo J, Wang S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fang C"
+          ],
+          "firstName": [
+            "Chuanying"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shouchuang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5568-816X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5568-816X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1028"
+  ],
+  "abstractText": [
+    "The chemical diversity of plants is very high, and plant-based foods provide almost all the nutrients necessary for human health, either directly or indirectly. With advancements in plant metabolomics studies, the concept of nutritional metabolites has been expanded and updated. Because the concentration of many nutrients is usually low in plant-based foods, especially those from crops, metabolome-assisted breeding techniques using molecular markers associated with the synthesis of nutritional metabolites have been developed and used to improve nutritional quality of crops. Here, we review the origins of the diversity of nutrient metabolites from a genomic perspective and the role of gene duplication and divergence. In addition, we systematically review recent advances in the metabolomic and genetic basis of metabolite production in major crops. With the development of genome sequencing and metabolic detection technologies, multi-omic integrative analysis of genomes, transcriptomes, and metabolomes has greatly facilitated the deciphering of the genetic basis of metabolic pathways and the diversity of nutrient metabolites. Finally, we summarize the application of nutrient diversity in crop breeding and discuss the future development of a viable alternative to metabolome-assisted breeding techniques that can be used to improve crop nutrient quality."
+  ],
+  "affiliation": [
+    "Hainan Key Laboratory for Sustainable Utilization of Tropical Bioresource, College of Tropical Crops, Hainan University, Haikou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Breeding",
+        "Crops",
+        "Metabolic Diversity",
+        "Nutritional Metabolites",
+        "Genetic Bases"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.01028"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6706459"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6706459?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-03"
+  ],
+  "firstIndexDate": [
+    "2019-09-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-01"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-16"
+  ],
+  "firstPublicationDate": [
+    "2019-08-16"
+  ]
+}

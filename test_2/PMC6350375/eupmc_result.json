@@ -1,0 +1,377 @@
+{
+  "id": [
+    "30696459"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30696459"
+  ],
+  "pmcid": [
+    "PMC6350375"
+  ],
+  "doi": [
+    "10.1186/s13073-019-0617-y"
+  ],
+  "title": [
+    "From genome integrity to cancer."
+  ],
+  "authorString": [
+    "Nik-Zainal S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nik-Zainal S"
+          ],
+          "firstName": [
+            "Serena"
+          ],
+          "lastName": [
+            "Nik-Zainal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medical Genetics, Addenbrooke's Treatment Centre, The Clinical School, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK. snz@mrc-cu.cam.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2767060"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome medicine"
+          ],
+          "ISOAbbreviation": [
+            "Genome Med"
+          ],
+          "medlineAbbreviation": [
+            "Genome Med"
+          ],
+          "NLMid": [
+            "101475844"
+          ],
+          "ISSN": [
+            "1756-994X"
+          ],
+          "ESSN": [
+            "1756-994X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4"
+  ],
+  "affiliation": [
+    "Department of Medical Genetics, Addenbrooke's Treatment Centre, The Clinical School, Cambridge Biomedical Campus, Cambridge, CB2 0QQ, UK. snz@mrc-cu.cam.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "Introductory Journal Article",
+        "Editorial"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "C60100/A23916"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "25274"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "C60100/A25274"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "23916"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "23433"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "acronym": [
+            "CRUK_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomic Instability"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6350375?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6350375"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13073-019-0617-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-13"
+  ],
+  "dateOfCreation": [
+    "2019-01-31"
+  ],
+  "firstIndexDate": [
+    "2019-02-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-16"
+  ],
+  "dateOfRevision": [
+    "2019-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

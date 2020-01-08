@@ -1,0 +1,312 @@
+{
+  "id": [
+    "30987386"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30987386"
+  ],
+  "pmcid": [
+    "PMC6523881"
+  ],
+  "doi": [
+    "10.3390/genes10040275"
+  ],
+  "title": [
+    "Uncovering Missing Heritability in Rare Diseases."
+  ],
+  "authorString": [
+    "Maroilley T, Tarailo-Graovac M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maroilley T"
+          ],
+          "firstName": [
+            "Tatiana"
+          ],
+          "lastName": [
+            "Maroilley"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Departments of Biochemistry, Molecular Biology and Medical Genetics, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4N1, Canada. tatiana.maroilley@ucalgary.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarailo-Graovac M"
+          ],
+          "firstName": [
+            "Maja"
+          ],
+          "lastName": [
+            "Tarailo-Graovac"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4472-8584",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Biochemistry, Molecular Biology and Medical Genetics, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4N1, Canada. maja.tarailograovac@ucalgary.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4472-8584",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2800799"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes"
+          ],
+          "ISOAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Genes (Basel)"
+          ],
+          "NLMid": [
+            "101551097"
+          ],
+          "ISSN": [
+            "2073-4425"
+          ],
+          "ESSN": [
+            "2073-4425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The problem of 'missing heritability' affects both common and rare diseases hindering: discovery, diagnosis, and patient care. The 'missing heritability' concept has been mainly associated with common and complex diseases where promising modern technological advances, like genome-wide association studies (GWAS), were unable to uncover the complete genetic mechanism of the disease/trait. Although rare diseases (RDs) have low prevalence individually, collectively they are common. Furthermore, multi-level genetic and phenotypic complexity when combined with the individual rarity of these conditions poses an important challenge in the quest to identify causative genetic changes in RD patients. In recent years, high throughput sequencing has accelerated discovery and diagnosis in RDs. However, despite the several-fold increase (from ~10% using traditional to ~40% using genome-wide genetic testing) in finding genetic causes of these diseases in RD patients, as is the case in common diseases-the majority of RDs are also facing the 'missing heritability' problem. This review outlines the key role of high throughput sequencing in uncovering genetics behind RDs, with a particular focus on genome sequencing. We review current advances and challenges of sequencing technologies, bioinformatics approaches, and resources."
+  ],
+  "affiliation": [
+    "Departments of Biochemistry, Molecular Biology and Medical Genetics, Cumming School of Medicine, University of Calgary, Calgary, AB T2N 4N1, Canada. tatiana.maroilley@ucalgary.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GP1-155868"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioinformatics",
+        "Genome sequencing",
+        "Rare Disease",
+        "Missing Heritability",
+        "Variant Annotation",
+        "Variant Detection",
+        "Long/short Read Sequencing",
+        "Variation Databases"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523881?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523881"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/genes10040275"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-17"
+  ],
+  "firstIndexDate": [
+    "2019-04-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-04"
+  ],
+  "firstPublicationDate": [
+    "2019-04-04"
+  ]
+}

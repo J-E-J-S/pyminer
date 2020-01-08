@@ -1,0 +1,366 @@
+{
+  "id": [
+    "31799432"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31799432"
+  ],
+  "pmcid": [
+    "PMC6874559"
+  ],
+  "doi": [
+    "10.1038/s42003-019-0679-9"
+  ],
+  "title": [
+    "Microbial biofilm formation and degradation of octocrylene, a UV absorber found in sunscreen."
+  ],
+  "authorString": [
+    "Suleiman M, Schröder C, Kuhn M, Simon A, Stahl A, Frerichs H, Antranikian G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Suleiman M"
+          ],
+          "firstName": [
+            "Marcel"
+          ],
+          "lastName": [
+            "Suleiman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Institute of Technical Microbiology, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schröder C"
+          ],
+          "firstName": [
+            "Carola"
+          ],
+          "lastName": [
+            "Schröder"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1Institute of Technical Microbiology, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuhn M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Kuhn"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "2Beiersdorf Aktiengesellschaft, 20245 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Simon A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Simon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "3Central Laboratory of Analytical Chemistry, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stahl A"
+          ],
+          "firstName": [
+            "Alina"
+          ],
+          "lastName": [
+            "Stahl"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "3Central Laboratory of Analytical Chemistry, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frerichs H"
+          ],
+          "firstName": [
+            "Heike"
+          ],
+          "lastName": [
+            "Frerichs"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "3Central Laboratory of Analytical Chemistry, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Antranikian G"
+          ],
+          "firstName": [
+            "Garabed"
+          ],
+          "lastName": [
+            "Antranikian"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "1Institute of Technical Microbiology, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2769223"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "430"
+  ],
+  "abstractText": [
+    "Octocrylene is a widely used synthetic UV absorber of sunscreens and found in several environments. Ecological consequences of the accumulation of UV filters are widely discussed. This is the first report revealing the microbial potential to transform octocrylene. A microbial community comprising four bacterial species was enriched from a landfill site using octocrylene as carbon source. From these microorganisms Mycobacterium agri and Gordonia cholesterolivorans were identified as most potent applying a new \"reverse discovery\" approach. This relies on the possibility that efficient strains that are already isolated and deposited can be identified through enrichment cultures. These strains formed massive biofilms on the octocrylene droplets. GC-MS analysis after cultivation for 10 days with M. agri revealed a decrease in octocrylene concentration of 19.1%. LC-MS/MS analysis was utilized in the detection and quantification of transformation products of octocrylene. M. agri thus represents an ideal candidate for bioremediation studies with octocrylene and related compounds."
+  ],
+  "affiliation": [
+    "1Institute of Technical Microbiology, Hamburg University of Technology (TUHH), 21073 Hamburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Applied Microbiology",
+        "Experimental Organisms"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-019-0679-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6874559"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6874559?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-05"
+  ],
+  "firstIndexDate": [
+    "2019-12-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-22"
+  ],
+  "firstPublicationDate": [
+    "2019-11-22"
+  ]
+}

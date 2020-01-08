@@ -1,0 +1,633 @@
+{
+  "id": [
+    "30526270"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30526270"
+  ],
+  "pmcid": [
+    "PMC6380391"
+  ],
+  "doi": [
+    "10.1080/19420862.2018.1550320"
+  ],
+  "title": [
+    "Effective binding to protein antigens by antibodies from antibody libraries designed with enhanced protein recognition propensities."
+  ],
+  "authorString": [
+    "Jian JW, Chen HS, Chiu YK, Peng HP, Tung CP, Chen IC, Yu CM, Tsou YL, Kuo WY, Hsu HJ, Yang AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jian JW"
+          ],
+          "firstName": [
+            "Jhih-Wei"
+          ],
+          "lastName": [
+            "Jian"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9870-0678",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen HS"
+          ],
+          "firstName": [
+            "Hong-Sen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu YK"
+          ],
+          "firstName": [
+            "Yi-Kai"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "YK"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng HP"
+          ],
+          "firstName": [
+            "Hung-Pin"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9398-8120",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tung CP"
+          ],
+          "firstName": [
+            "Chao-Ping"
+          ],
+          "lastName": [
+            "Tung"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8699-3167",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen IC"
+          ],
+          "firstName": [
+            "Ing-Chien"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu CM"
+          ],
+          "firstName": [
+            "Chung-Ming"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsou YL"
+          ],
+          "firstName": [
+            "Yueh-Liang"
+          ],
+          "lastName": [
+            "Tsou"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuo WY"
+          ],
+          "firstName": [
+            "Wei-Ying"
+          ],
+          "lastName": [
+            "Kuo"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8006-3594",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu HJ"
+          ],
+          "firstName": [
+            "Hung-Ju"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang AS"
+          ],
+          "firstName": [
+            "An-Suei"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4699-873X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8699-3167",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4699-873X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9870-0678",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9398-8120",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8006-3594",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2781541"
+      ],
+      "dateOfPublication": [
+        "2019 Feb/Mar"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mAbs"
+          ],
+          "ISOAbbreviation": [
+            "MAbs"
+          ],
+          "medlineAbbreviation": [
+            "MAbs"
+          ],
+          "NLMid": [
+            "101479829"
+          ],
+          "ISSN": [
+            "1942-0862"
+          ],
+          "ESSN": [
+            "1942-0870"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "373-387"
+  ],
+  "abstractText": [
+    "Antibodies provide immune protection by recognizing antigens of diverse chemical properties, but elucidating the amino acid sequence-function relationships underlying the specificity and affinity of antibody-antigen interactions remains challenging. We designed and constructed phage-displayed synthetic antibody libraries with enriched protein antigen-recognition propensities calculated with machine learning predictors, which indicated that the designed single-chain variable fragment variants were encoded with enhanced distributions of complementarity-determining region (CDR) hot spot residues with high protein antigen recognition propensities in comparison with those in the human antibody germline sequences. Antibodies derived directly from the synthetic antibody libraries, without affinity maturation cycles comparable to those in in vivo immune systems, bound to the corresponding protein antigen through diverse conformational or linear epitopes with specificity and affinity comparable to those of the affinity-matured antibodies from in vivo immune systems. The results indicated that more densely populated CDR hot spot residues were sustainable by the antibody structural frameworks and could be accompanied by enhanced functionalities in recognizing protein antigens. Our study results suggest that synthetic antibody libraries, which are not limited by the sequences found in antibodies in nature, could be designed with the guidance of the computational machine learning algorithms that are programmed to predict interaction propensities to molecules of diverse chemical properties, leading to antibodies with optimal characteristics pertinent to their medical applications."
+  ],
+  "affiliation": [
+    "a Genomics Research Center , Academia Sinica , Taipei , Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peptide Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Engineering"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibody Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibody Affinity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Structure-Activity Relationship"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Chain Antibodies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Machine Learning"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibody engineering",
+        "Synthetic antibody library",
+        "Affinity maturation",
+        "Anti-her2 Antibodies",
+        "Antibody-antigen Affinity Prediction",
+        "Hot Spot Residues For Antibody-protein Interactions"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Peptide Library"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Single-Chain Antibodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6380391?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6380391"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/19420862.2018.1550320"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-29"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-07-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

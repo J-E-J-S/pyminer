@@ -1,0 +1,612 @@
+{
+  "id": [
+    "30441889"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30441889"
+  ],
+  "pmcid": [
+    "PMC6435966"
+  ],
+  "doi": [
+    "10.3350/cmh.2018.1007"
+  ],
+  "title": [
+    "Radiomics and radiogenomics of primary liver cancers."
+  ],
+  "authorString": [
+    "Jeong WK, Jamshidi N, Felker ER, Raman SS, Lu DS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jeong WK"
+          ],
+          "firstName": [
+            "Woo Kyoung"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "WK"
+          ],
+          "affiliation": [
+            "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jamshidi N"
+          ],
+          "firstName": [
+            "Neema"
+          ],
+          "lastName": [
+            "Jamshidi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Felker ER"
+          ],
+          "firstName": [
+            "Ely Richard"
+          ],
+          "lastName": [
+            "Felker"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Raman SS"
+          ],
+          "firstName": [
+            "Steven Satish"
+          ],
+          "lastName": [
+            "Raman"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu DS"
+          ],
+          "firstName": [
+            "David Shinkuo"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2795627"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical and molecular hepatology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Mol Hepatol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Mol Hepatol"
+          ],
+          "NLMid": [
+            "101586730"
+          ],
+          "ISSN": [
+            "2287-2728"
+          ],
+          "ESSN": [
+            "2287-285X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "21-29"
+  ],
+  "abstractText": [
+    "Concurrent advancements in imaging and genomic biomarkers have created opportunities to identify non-invasive imaging surrogates of molecular phenotypes. In order to develop such imaging surrogates radiomics and radiogenomics/imaging genomics will be necessary; there has been consistent progress in these fields for primary liver cancers. In this article we evaluate the current status of the field specifically with regards to hepatocellular carcinoma and intrahepatic cholangiocarcinoma, highlighting some of the up and coming results that were presented at the annual Radiological Society of North America Conference in 2017. There are an increasing number of studies in this area with a bias towards quantitative feature measurement, which is expected to benefit reproducibility of the findings and portends well for the future development of biomarkers for diagnosis, prognosis, and treatment response assessment. We review some of the advancements and look forward to some of the exciting future applications that are anticipated as the field develops."
+  ],
+  "affiliation": [
+    "Department of Radiological Science, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoma, Hepatocellular"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cholangiocarcinoma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Liver Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tomography, X-Ray Computed"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins p21(ras)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ErbB Receptors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hepatocellular carcinoma",
+        "Genomics",
+        "Cholangiocarcinoma",
+        "computed tomography",
+        "Tumor Biomarker"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Proto-Oncogene Proteins p21(ras)"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "KRAS protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "EGFR protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "ErbB Receptors"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.1"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435966?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435966"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3350/cmh.2018.1007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-14"
+  ],
+  "dateOfCreation": [
+    "2018-11-17"
+  ],
+  "firstIndexDate": [
+    "2018-11-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-08-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-16"
+  ],
+  "firstPublicationDate": [
+    "2018-11-16"
+  ]
+}

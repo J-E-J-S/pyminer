@@ -1,0 +1,320 @@
+{
+  "id": [
+    "31284488"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31284488"
+  ],
+  "pmcid": [
+    "PMC6680445"
+  ],
+  "doi": [
+    "10.3390/microorganisms7070192"
+  ],
+  "title": [
+    "Overexpression of RAD51 Enables PCR-Based Gene Targeting in Lager Yeast."
+  ],
+  "authorString": [
+    "Bernardi B, Kayacan Y, Akan M, Wendland J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bernardi B"
+          ],
+          "firstName": [
+            "Beatrice"
+          ],
+          "lastName": [
+            "Bernardi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Biochemistry, Hochschule Geisenheim University, von-Lade Strasse 1, D-65366 Geisenheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kayacan Y"
+          ],
+          "firstName": [
+            "Yeseren"
+          ],
+          "lastName": [
+            "Kayacan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Research Group of Microbiology (MICR)-Functional Yeast Genomics, Vrije Universiteit Brussel, BE-1050 Brussels, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Akan M"
+          ],
+          "firstName": [
+            "Madina"
+          ],
+          "lastName": [
+            "Akan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Biochemistry, Hochschule Geisenheim University, von-Lade Strasse 1, D-65366 Geisenheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wendland J"
+          ],
+          "firstName": [
+            "Jürgen"
+          ],
+          "lastName": [
+            "Wendland"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Microbiology and Biochemistry, Hochschule Geisenheim University, von-Lade Strasse 1, D-65366 Geisenheim, Germany. juergen.wendland@hs-gm.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2835972"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microorganisms"
+          ],
+          "ISOAbbreviation": [
+            "Microorganisms"
+          ],
+          "medlineAbbreviation": [
+            "Microorganisms"
+          ],
+          "NLMid": [
+            "101625893"
+          ],
+          "ISSN": [
+            "2076-2607"
+          ],
+          "ESSN": [
+            "2076-2607"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Lager beer fermentations rely on specific polyploid hybrids between Saccharomyces cerevisiae and Saccharomyces eubayanus falling into the two groups of S. carlsbergensis/Saaz-type and S. pastorianus/Frohberg-type. These strains provide a terroir to lager beer as they have long traditional associations and local selection histories with specific breweries. Lager yeasts share, based on their common origin, several phenotypes. One of them is low transformability, hampering the gene function analyses required for proof-of-concept strain improvements. PCR-based gene targeting is a standard tool for manipulating S. cerevisiae and other ascomycetes. However, low transformability paired with the low efficiency of homologous recombination practically disable targeted gene function analyses in lager yeast strains. For genetic manipulations in lager yeasts, we employed a yeast transformation protocol based on lithium-acetate/PEG incubation combined with electroporation. We first introduced freely replicating CEN/ARS plasmids carrying ScRAD51 driven by a strong heterologous promoter into lager yeast. RAD51 overexpression in the Weihenstephan 34/70 lager yeast was necessary and sufficient in our hands for gene targeting using short-flanking homology regions of 50 bp added to a selection marker by PCR. We successfully targeted two independent loci, ScADE2/YOR128C and ScHSP104/YLL026W, and confirmed correct integration by diagnostic PCR. With these modifications, genetic alterations of lager yeasts can be achieved efficiently and the RAD51-containing episomal plasmid can be removed after successful strain construction."
+  ],
+  "affiliation": [
+    "Department of Microbiology and Biochemistry, Hochschule Geisenheim University, von-Lade Strasse 1, D-65366 Geisenheim, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "764364"
+          ],
+          "agency": [
+            "FP7 People: Marie-Curie Actions"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fermentation",
+        "Gene function analysis",
+        "Homologous Recombination",
+        "Hybrid Yeast"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/microorganisms7070192"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6680445"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6680445?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-10"
+  ],
+  "firstIndexDate": [
+    "2019-07-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-11"
+  ],
+  "dateOfRevision": [
+    "2019-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-05"
+  ],
+  "firstPublicationDate": [
+    "2019-07-05"
+  ]
+}

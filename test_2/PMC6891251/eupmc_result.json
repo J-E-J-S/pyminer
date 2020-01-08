@@ -1,0 +1,436 @@
+{
+  "id": [
+    "31280933"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31280933"
+  ],
+  "pmcid": [
+    "PMC6891251"
+  ],
+  "doi": [
+    "10.1016/j.jaut.2019.06.009"
+  ],
+  "title": [
+    "Predicting drug-free remission in rheumatoid arthritis: A prospective interventional cohort study."
+  ],
+  "authorString": [
+    "Baker KF, Skelton AJ, Lendrem DW, Scadeng A, Thompson B, Pratt AG, Isaacs JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baker KF"
+          ],
+          "firstName": [
+            "Kenneth F"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "KF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6735-2911",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Skelton AJ"
+          ],
+          "firstName": [
+            "Andrew J"
+          ],
+          "lastName": [
+            "Skelton"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Bioinformatics Support Unit, Newcastle University, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Lendrem DW"
+          ],
+          "firstName": [
+            "Dennis W"
+          ],
+          "lastName": [
+            "Lendrem"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Scadeng A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Scadeng"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Pratt AG"
+          ],
+          "firstName": [
+            "Arthur G"
+          ],
+          "lastName": [
+            "Pratt"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Isaacs JD"
+          ],
+          "firstName": [
+            "John D"
+          ],
+          "lastName": [
+            "Isaacs"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom. Electronic address: john.isaacs@ncl.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6735-2911",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "105"
+      ],
+      "journalIssueId": [
+        "2884702"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of autoimmunity"
+          ],
+          "ISOAbbreviation": [
+            "J. Autoimmun."
+          ],
+          "medlineAbbreviation": [
+            "J Autoimmun"
+          ],
+          "NLMid": [
+            "8812164"
+          ],
+          "ISSN": [
+            "0896-8411"
+          ],
+          "ESSN": [
+            "1095-9157"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "102298"
+  ],
+  "abstractText": [
+    "BACKGROUND:Many patients with rheumatoid arthritis (RA) achieve disease remission with modern treatment strategies. However, having achieved this state, there are no tests that predict when withdrawal of therapy will result in drug-free remission rather than flare. We aimed to identify predictors of drug-free remission in RA. METHODS:The Biomarkers of Remission in Rheumatoid Arthritis (BioRRA) Study was a unique, prospective, interventional cohort study of complete and abrupt cessation of conventional synthetic disease-modifying anti-rheumatic drugs (DMARDs). Patients with RA of at least 12 months duration and in clinical and ultrasound remission discontinued DMARDs and were monitored for six months. The primary outcome was time-to-flare, defined as disease activity score in 28 joints with C-reactive protein (DAS28-CRP) ≥ 2.4. Baseline clinical and ultrasound measures, circulating inflammatory biomarkers, and peripheral CD4+ T cell gene expression were assessed for their ability to predict time-to-flare and flare/remission status by Cox regression and receiver-operating characteristic (ROC) analysis respectively. RESULTS:23/44 (52%) eligible patients experienced an arthritis flare after a median (IQR) of 48 (31.5-86.5) days following DMARD cessation. A composite score incorporating five baseline variables (three transcripts [FAM102B, ENSG00000228010, ENSG00000227070], one cytokine [interleukin-27], one clinical [Boolean remission]) differentiated future flare from drug-free remission with an area under the ROC curve of 0.96 (95% CI 0.91-1.00), sensitivity 0.91 (0.78-1.00) and specificity 0.95 (0.84-1.00). CONCLUSION:We provide proof-of-concept evidence for predictors of drug-free remission in RA. If validated, these biomarkers could help to personalize immunosuppressant withdrawal: a therapy paradigm shift with ensuing patient and economic benefits."
+  ],
+  "affiliation": [
+    "Musculoskeletal Research Group, Institute of Cellular Medicine, Newcastle University, Newcastle upon Tyne, United Kingdom; Musculoskeletal Unit, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CL-2017-01-004"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "102595/Z/13/A"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rheumatoid arthritis",
+        "Biomarker",
+        "Cessation",
+        "Cd4(+) T Cell",
+        "Disease-modifying Anti-rheumatic Drug",
+        "Drug-free Remission"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jaut.2019.06.009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6891251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6891251?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "ensembl"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-09"
+  ],
+  "firstIndexDate": [
+    "2019-07-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-20"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-04"
+  ],
+  "firstPublicationDate": [
+    "2019-07-04"
+  ]
+}

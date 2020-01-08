@@ -1,0 +1,439 @@
+{
+  "id": [
+    "31806745"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31806745"
+  ],
+  "pmcid": [
+    "PMC6895305"
+  ],
+  "doi": [
+    "10.1128/MRA.01170-19"
+  ],
+  "title": [
+    "Draft Genome Sequence of Aspergillus terreus High-Itaconic-Acid-Productivity Mutant TN-484."
+  ],
+  "authorString": [
+    "Kanamasa S, Minami T, Okabe M, Park EY, Fujimoto T, Takahashi A, Murase M, Fukuyoshi S, Oda A, Satou K, Takahashi H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kanamasa S"
+          ],
+          "firstName": [
+            "Shin"
+          ],
+          "lastName": [
+            "Kanamasa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Graduate School of Bioscience and Biotechnology, Chubu University, Kasugai, Japan kanamasa@isc.chubu.ac.jp takahasi@p.kanazawa-u.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Minami T"
+          ],
+          "firstName": [
+            "Tomoyuki"
+          ],
+          "lastName": [
+            "Minami"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Graduate School of Bioscience and Biotechnology, Chubu University, Kasugai, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okabe M"
+          ],
+          "firstName": [
+            "Mitsuyasu"
+          ],
+          "lastName": [
+            "Okabe"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Aureo Co., Ltd., Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Park EY"
+          ],
+          "firstName": [
+            "Enoch Y"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "EY"
+          ],
+          "affiliation": [
+            "Research Institute of Green Science and Technology, Shizuoka University, Shizuoka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujimoto T"
+          ],
+          "firstName": [
+            "Tsukasa"
+          ],
+          "lastName": [
+            "Fujimoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Graduate School of Horticulture, Chiba University, Matsudo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takahashi A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Takahashi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Information Technologies and Control, Belarusian State University of Informatics and Radio Electronics, Minsk, Belarus."
+          ]
+        },
+        {
+          "fullName": [
+            "Murase M"
+          ],
+          "firstName": [
+            "Masataka"
+          ],
+          "lastName": [
+            "Murase"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Medical Sciences, Kanazawa University, Kanazawa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fukuyoshi S"
+          ],
+          "firstName": [
+            "Shuichi"
+          ],
+          "lastName": [
+            "Fukuyoshi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Medical, Pharmaceutical, and Health Sciences, Kanazawa University, Kanazawa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Oda A"
+          ],
+          "firstName": [
+            "Akifumi"
+          ],
+          "lastName": [
+            "Oda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Faculty of Pharmacy, Meijo University, Nagoya, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Satou K"
+          ],
+          "firstName": [
+            "Kenji"
+          ],
+          "lastName": [
+            "Satou"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Faculty of Biological Science and Technology, Institute of Science and Engineering, Kanazawa University, Kanazawa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takahashi H"
+          ],
+          "firstName": [
+            "Hiro"
+          ],
+          "lastName": [
+            "Takahashi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8230-9524",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Horticulture, Chiba University, Matsudo, Japan kanamasa@isc.chubu.ac.jp takahasi@p.kanazawa-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8230-9524",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "49"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2889699"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbiology resource announcements"
+          ],
+          "ISOAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "medlineAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "NLMid": [
+            "101728794"
+          ],
+          "ISSN": [
+            "2576-098X"
+          ],
+          "ESSN": [
+            "2576-098X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Itaconic acid is an important organic acid used in the chemical industry. Aspergillus terreus strain TN-484 is a high-itaconic-acid-productivity mutant derived from strain IFO6365. Here, we report the draft genome sequence of strain TN-484, advancing the understanding of the biosynthesis of itaconic acid in filamentous fungi."
+  ],
+  "affiliation": [
+    "Graduate School of Bioscience and Biotechnology, Chubu University, Kasugai, Japan kanamasa@isc.chubu.ac.jp takahasi@p.kanazawa-u.ac.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/MRA.01170-19"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895305"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895305?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-12-07"
+  ],
+  "firstIndexDate": [
+    "2019-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-05"
+  ],
+  "firstPublicationDate": [
+    "2019-12-05"
+  ]
+}

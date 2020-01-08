@@ -1,0 +1,392 @@
+{
+  "id": [
+    "30849961"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30849961"
+  ],
+  "pmcid": [
+    "PMC6408804"
+  ],
+  "doi": [
+    "10.1186/s12859-019-2698-4"
+  ],
+  "title": [
+    "JOA: Joint Overlap Analysis of multiple genomic interval sets."
+  ],
+  "authorString": [
+    "Otlu B, Can T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Otlu B"
+          ],
+          "firstName": [
+            "Burçak"
+          ],
+          "lastName": [
+            "Otlu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4931-7979",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Computer Engineering, Middle East Technical University, Ankara, 06800, Turkey. burcak@ceng.metu.edu.tr."
+          ]
+        },
+        {
+          "fullName": [
+            "Can T"
+          ],
+          "firstName": [
+            "Tolga"
+          ],
+          "lastName": [
+            "Can"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Computer Engineering, Middle East Technical University, Ankara, 06800, Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4931-7979",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2789512"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "121"
+  ],
+  "abstractText": [
+    "BACKGROUND:Next-generation sequencing (NGS) technologies have produced large volumes of genomic data. One common operation on heterogeneous genomic data is genomic interval intersection. Most of the existing tools impose restrictions such as not allowing nested intervals or requiring intervals to be sorted when finding overlaps in two or more interval sets. RESULTS:We proposed segment tree (ST) and indexed segment tree forest (ISTF) based solutions for intersection of multiple genomic interval sets in parallel. We developed these methods as a tool, Joint Overlap Analysis (JOA), which takes n interval sets and finds overlapping intervals with no constraints on the given intervals. The proposed indexed segment tree forest is a novel composite data structure, which leverages on indexing and natural binning of a segment tree. We also presented construction and search algorithms for this novel data structure. We compared JOA ST and JOA ISTF with each other, and with other interval intersection tools for verification of its correctness and for showing that it attains comparable execution times. CONCLUSIONS:We implemented JOA in Java using the fork/join framework which speeds up parallel processing by taking advantage of all available processor cores. We compared JOA ST with JOA ISTF and showed that segment tree and indexed segment tree forest methods are comparable with each other in terms of execution time and memory usage. We also carried out execution time comparison analysis for JOA and other tools and demonstrated that JOA has comparable execution time and is able to further reduce its running time by using more processors per node. JOA can be run using its GUI or as a command line tool. JOA is available with source code at https://github.com/burcakotlu/JOA/ . A user manual is provided at https://joa.readthedocs.org."
+  ],
+  "affiliation": [
+    "Department of Computer Engineering, Middle East Technical University, Ankara, 06800, Turkey. burcak@ceng.metu.edu.tr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome analysis",
+        "Genomic Interval Intersection",
+        "Indexed Segment Tree Forest",
+        "Interval Intersection",
+        "Interval Overlap",
+        "Joint Overlap Analysis",
+        "Segment Tree",
+        "Space Partitioning Algorithms"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6408804?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6408804"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-019-2698-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2019-03-10"
+  ],
+  "firstIndexDate": [
+    "2019-03-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-08"
+  ],
+  "firstPublicationDate": [
+    "2019-03-08"
+  ]
+}

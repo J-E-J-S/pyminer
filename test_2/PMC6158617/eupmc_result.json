@@ -1,0 +1,312 @@
+{
+  "id": [
+    "30386170"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30386170"
+  ],
+  "pmcid": [
+    "PMC6158617"
+  ],
+  "doi": [
+    "10.2174/1389202919666171229144807"
+  ],
+  "title": [
+    "Preterm Birth and the Risk of Neurodevelopmental Disorders - Is There a Role for Epigenetic Dysregulation?"
+  ],
+  "authorString": [
+    "Fitzgerald E, Boardman JP, Drake AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fitzgerald E"
+          ],
+          "firstName": [
+            "Eamon"
+          ],
+          "lastName": [
+            "Fitzgerald"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "1University/British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK; 2MRC Centre for Reproductive Health, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Boardman JP"
+          ],
+          "firstName": [
+            "James P"
+          ],
+          "lastName": [
+            "Boardman"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3904-8960",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1University/British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK; 2MRC Centre for Reproductive Health, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Drake AJ"
+          ],
+          "firstName": [
+            "Amanda J"
+          ],
+          "lastName": [
+            "Drake"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "1University/British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK; 2MRC Centre for Reproductive Health, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3904-8960",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743921"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current genomics"
+          ],
+          "ISOAbbreviation": [
+            "Curr. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Curr Genomics"
+          ],
+          "NLMid": [
+            "100960527"
+          ],
+          "ISSN": [
+            "1389-2029"
+          ],
+          "ESSN": [
+            "1875-5488"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "507-521"
+  ],
+  "abstractText": [
+    "Preterm Birth (PTB) accounts for approximately 11% of all births worldwide each year and is a profound physiological stressor in early life. The burden of neuropsychiatric and developmental impairment is high, with severity and prevalence correlated with gestational age at delivery. PTB is a major risk factor for the development of cerebral palsy, lower educational attainment and deficits in cognitive functioning, and individuals born preterm have higher rates of schizophrenia, autistic spectrum disorder and attention deficit/hyperactivity disorder. Factors such as gestational age at birth, systemic inflammation, respiratory morbidity, sub-optimal nutrition, and genetic vulnerability are associated with poor outcome after preterm birth, but the mechanisms linking these factors to adverse long term outcome are poorly understood. One potential mechanism linking PTB with neurodevelopmental effects is changes in the epigenome. Epigenetic processes can be defined as those leading to altered gene expression in the absence of a change in the underlying DNA sequence and include DNA methylation/hydroxymethylation and histone modifications. Such epigenetic modifications may be susceptible to environmental stimuli, and changes may persist long after the stimulus has ceased, providing a mechanism to explain the long-term consequences of acute exposures in early life. Many factors such as inflammation, fluctuating oxygenation and excitotoxicity which are known factors in PTB related brain injury, have also been implicated in epigenetic dysfunction. In this review, we will discuss the potential role of epigenetic dysregulation in mediating the effects of PTB on neurodevelopmental outcome, with specific emphasis on DNA methylation and the α-ketoglutarate dependent dioxygenase family of enzymes."
+  ],
+  "affiliation": [
+    "1University/British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK; 2MRC Centre for Reproductive Health, University of Edinburgh, The Queen's Medical Research Institute, 47 Little France Crescent, EdinburghEH16 4TJ, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA methylation",
+        "Preterm Birth",
+        "Epigenetic",
+        "Neurodevelopmental Disorders",
+        "Epigenetic Dysregulation",
+        "Α-ketoglutarate Dependent Dioxygenase"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1389202919666171229144807"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158617"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158617?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-03"
+  ],
+  "firstIndexDate": [
+    "2018-11-03"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-02"
+  ],
+  "dateOfRevision": [
+    "2019-05-01"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ],
+  "embargoDate": [
+    "2019-05-01"
+  ]
+}

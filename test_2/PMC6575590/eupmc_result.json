@@ -1,0 +1,436 @@
+{
+  "id": [
+    "31142650"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31142650"
+  ],
+  "pmcid": [
+    "PMC6575590"
+  ],
+  "doi": [
+    "10.1073/pnas.1903683116"
+  ],
+  "title": [
+    "NAD tagSeq reveals that NAD+-capped RNAs are mostly produced from a large number of protein-coding genes in Arabidopsis."
+  ],
+  "authorString": [
+    "Zhang H, Zhong H, Zhang S, Shao X, Ni M, Cai Z, Chen X, Xia Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Hailei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang S"
+          ],
+          "firstName": [
+            "Shoudong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao X"
+          ],
+          "firstName": [
+            "Xiaojian"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Environmental and Biological Analysis, Department of Chemistry, Hong Kong Baptist University, Hong Kong, HKSAR, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ni M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Ni"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai Z"
+          ],
+          "firstName": [
+            "Zongwei"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8724-7684",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Environmental and Biological Analysis, Department of Chemistry, Hong Kong Baptist University, Hong Kong, HKSAR, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5209-1157",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Botany and Plant Sciences, Institute of Integrative Genome Biology, University of California, Riverside, CA 92521 xuemei.chen@ucr.edu yxia@hkbu.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia Y"
+          ],
+          "firstName": [
+            "Yiji"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9543-8341",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China; xuemei.chen@ucr.edu yxia@hkbu.edu.hk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5209-1157",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8724-7684",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9543-8341",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7332-7627",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "24"
+      ],
+      "volume": [
+        "116"
+      ],
+      "journalIssueId": [
+        "2826665"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "12072-12077"
+  ],
+  "abstractText": [
+    "The 5' end of a eukaryotic mRNA transcript generally has a 7-methylguanosine (m7G) cap that protects mRNA from degradation and mediates almost all other aspects of gene expression. Some RNAs in Escherichia coli, yeast, and mammals were recently found to contain an NAD+ cap. Here, we report the development of the method NAD tagSeq for transcriptome-wide identification and quantification of NAD+-capped RNAs (NAD-RNAs). The method uses an enzymatic reaction and then a click chemistry reaction to label NAD-RNAs with a synthetic RNA tag. The tagged RNA molecules can be enriched and directly sequenced using the Oxford Nanopore sequencing technology. NAD tagSeq can allow more accurate identification and quantification of NAD-RNAs, as well as reveal the sequences of whole NAD-RNA transcripts using single-molecule RNA sequencing. Using NAD tagSeq, we found that NAD-RNAs in Arabidopsis were produced by at least several thousand genes, most of which are protein-coding genes, with the majority of these transcripts coming from <200 genes. For some Arabidopsis genes, over 5% of their transcripts were NAD capped. Gene ontology terms overrepresented in the 2,000 genes that produced the highest numbers of NAD-RNAs are related to photosynthesis, protein synthesis, and responses to cytokinin and stresses. The NAD-RNAs in Arabidopsis generally have the same overall sequence structures as the canonical m7G-capped mRNAs, although most of them appear to have a shorter 5' untranslated region (5' UTR). The identification and quantification of NAD-RNAs and revelation of their sequence features can provide essential steps toward understanding the functions of NAD-RNAs."
+  ],
+  "affiliation": [
+    "Department of Biology, Hong Kong Baptist University, Hong Kong, Hong Kong Special Administrative Region (HKSAR), China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Arabidopsis",
+        "Rna Cap",
+        "Nad+ Cap",
+        "Oxford Nanopore Sequencing",
+        "Nad Tagseq"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1903683116"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6575590"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6575590?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-31"
+  ],
+  "firstIndexDate": [
+    "2019-05-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-23"
+  ],
+  "dateOfRevision": [
+    "2019-06-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-29"
+  ],
+  "firstPublicationDate": [
+    "2019-05-29"
+  ]
+}

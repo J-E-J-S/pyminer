@@ -1,0 +1,520 @@
+{
+  "id": [
+    "28873439"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28873439"
+  ],
+  "pmcid": [
+    "PMC5584922"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0184281"
+  ],
+  "title": [
+    "CRISPR-FOCUS: A web server for designing focused CRISPR screening experiments."
+  ],
+  "authorString": [
+    "Cao Q, Ma J, Chen CH, Xu H, Chen Z, Li W, Liu XS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cao Q"
+          ],
+          "firstName": [
+            "Qingyi"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0644-1275",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Bioinformatics, School of Life Science and Technology, Tongji University, Shanghai, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CH"
+          ],
+          "firstName": [
+            "Chen-Hao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2163-7903",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu XS"
+          ],
+          "firstName": [
+            "X Shirley"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "XS"
+          ],
+          "affiliation": [
+            "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2163-7903",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0644-1275",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2591647"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0184281"
+  ],
+  "abstractText": [
+    "The recently developed CRISPR screen technology, based on the CRISPR/Cas9 genome editing system, enables genome-wide interrogation of gene functions in an efficient and cost-effective manner. Although many computational algorithms and web servers have been developed to design single-guide RNAs (sgRNAs) with high specificity and efficiency, algorithms specifically designed for conducting CRISPR screens are still lacking. Here we present CRISPR-FOCUS, a web-based platform to search and prioritize sgRNAs for CRISPR screen experiments. With official gene symbols or RefSeq IDs as the only mandatory input, CRISPR-FOCUS filters and prioritizes sgRNAs based on multiple criteria, including efficiency, specificity, sequence conservation, isoform structure, as well as genomic variations including Single Nucleotide Polymorphisms and cancer somatic mutations. CRISPR-FOCUS also provides pre-defined positive and negative control sgRNAs, as well as other necessary sequences in the construct (e.g., U6 promoters to drive sgRNA transcription and RNA scaffolds of the CRISPR/Cas9). These features allow users to synthesize oligonucleotides directly based on the output of CRISPR-FOCUS. Overall, CRISPR-FOCUS provides a rational and high-throughput approach for sgRNA library design that enables users to efficiently conduct a focused screen experiment targeting up to thousands of genes. (CRISPR-FOCUS is freely available at http://cistrome.org/crispr-focus/)."
+  ],
+  "affiliation": [
+    "State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HG008927"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Guide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "User-Computer Interface"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Testing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Guide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0184281"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5584922"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5584922?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-16"
+  ],
+  "dateOfCreation": [
+    "2017-09-06"
+  ],
+  "firstIndexDate": [
+    "2017-09-06"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-18"
+  ],
+  "dateOfRevision": [
+    "2019-11-06"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-05"
+  ],
+  "firstPublicationDate": [
+    "2017-09-05"
+  ]
+}

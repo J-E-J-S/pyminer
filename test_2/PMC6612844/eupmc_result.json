@@ -1,0 +1,297 @@
+{
+  "id": [
+    "31510682"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31510682"
+  ],
+  "pmcid": [
+    "PMC6612844"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/btz356"
+  ],
+  "title": [
+    "Large scale microbiome profiling in the cloud."
+  ],
+  "authorString": [
+    "Valdes C, Stebliankin V, Narasimhan G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Valdes C"
+          ],
+          "firstName": [
+            "Camilo"
+          ],
+          "lastName": [
+            "Valdes"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Bioinformatics Research Group (BioRG), School of Computing and Information Sciences, Florida International University, Miami, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stebliankin V"
+          ],
+          "firstName": [
+            "Vitalii"
+          ],
+          "lastName": [
+            "Stebliankin"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Bioinformatics Research Group (BioRG), School of Computing and Information Sciences, Florida International University, Miami, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Narasimhan G"
+          ],
+          "firstName": [
+            "Giri"
+          ],
+          "lastName": [
+            "Narasimhan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Bioinformatics Research Group (BioRG), School of Computing and Information Sciences, Florida International University, Miami, FL, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2838477"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "i13-i22"
+  ],
+  "abstractText": [
+    "MOTIVATION:Bacterial metagenomics profiling for metagenomic whole sequencing (mWGS) usually starts by aligning sequencing reads to a collection of reference genomes. Current profiling tools are designed to work against a small representative collection of genomes, and do not scale very well to larger reference genome collections. However, large reference genome collections are capable of providing a more complete and accurate profile of the bacterial population in a metagenomics dataset. In this paper, we discuss a scalable, efficient and affordable approach to this problem, bringing big data solutions within the reach of laboratories with modest resources. RESULTS:We developed Flint, a metagenomics profiling pipeline that is built on top of the Apache Spark framework, and is designed for fast real-time profiling of metagenomic samples against a large collection of reference genomes. Flint takes advantage of Spark's built-in parallelism and streaming engine architecture to quickly map reads against a large (170 GB) reference collection of 43 552 bacterial genomes from Ensembl. Flint runs on Amazon's Elastic MapReduce service, and is able to profile 1 million Illumina paired-end reads against over 40 K genomes on 64 machines in 67 s-an order of magnitude faster than the state of the art, while using a much larger reference collection. Streaming the sequencing reads allows this approach to sustain mapping rates of 55 million reads per hour, at an hourly cluster cost of $8.00 USD, while avoiding the necessity of storing large quantities of intermediate alignments. AVAILABILITY AND IMPLEMENTATION:Flint is open source software, available under the MIT License (MIT). Source code is available at https://github.com/camilo-v/flint. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Bioinformatics Research Group (BioRG), School of Computing and Information Sciences, Florida International University, Miami, FL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/btz356"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612844"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612844?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "metagenomics"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-13"
+  ],
+  "firstIndexDate": [
+    "2019-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-14"
+  ],
+  "dateOfRevision": [
+    "2019-09-15"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

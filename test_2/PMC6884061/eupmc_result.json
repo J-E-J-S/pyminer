@@ -1,0 +1,786 @@
+{
+  "id": [
+    "31782791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31782791"
+  ],
+  "pmcid": [
+    "PMC6884061"
+  ],
+  "doi": [
+    "10.1093/gigascience/giz129"
+  ],
+  "title": [
+    "Assembly of the 373k gene space of the polyploid sugarcane genome reveals reservoirs of functional diversity in the world's leading biomass crop."
+  ],
+  "authorString": [
+    "Souza GM, Van Sluys MA, Lembke CG, Lee H, Margarido GRA, Hotta CT, Gaiarsa JW, Diniz AL, Oliveira MM, Ferreira SS, Nishiyama MY, Ten-Caten F, Ragagnin GT, Andrade PM, de Souza RF, Nicastro GG, Pandya R, Kim C, Guo H, Durham AM, Carneiro MS, Zhang J, Zhang X, Zhang Q, Ming R, Schatz MC, Davidson B, Paterson AH, Heckerman D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Souza GM"
+          ],
+          "firstName": [
+            "Glaucia Mendes"
+          ],
+          "lastName": [
+            "Souza"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Sluys MA"
+          ],
+          "firstName": [
+            "Marie-Anne"
+          ],
+          "lastName": [
+            "Van Sluys"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, Rua do Matão, 277, São Paulo, SP 05508-090, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lembke CG"
+          ],
+          "firstName": [
+            "Carolina Gimiliani"
+          ],
+          "lastName": [
+            "Lembke"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee H"
+          ],
+          "firstName": [
+            "Hayan"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Cold Spring Harbor Laboratory, One Bungtown Road, Koch Building #1119, Cold Spring Harbor, NY11724, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Margarido GRA"
+          ],
+          "firstName": [
+            "Gabriel Rodrigues Alves"
+          ],
+          "lastName": [
+            "Margarido"
+          ],
+          "initials": [
+            "GRA"
+          ],
+          "affiliation": [
+            "Departamento de Genética, Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo, Avenida Pádua Dias, 11, Piracicaba, SP 13418-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Hotta CT"
+          ],
+          "firstName": [
+            "Carlos Takeshi"
+          ],
+          "lastName": [
+            "Hotta"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaiarsa JW"
+          ],
+          "firstName": [
+            "Jonas Weissmann"
+          ],
+          "lastName": [
+            "Gaiarsa"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, Rua do Matão, 277, São Paulo, SP 05508-090, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Diniz AL"
+          ],
+          "firstName": [
+            "Augusto Lima"
+          ],
+          "lastName": [
+            "Diniz"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Oliveira MM"
+          ],
+          "firstName": [
+            "Mauro de Medeiros"
+          ],
+          "lastName": [
+            "Oliveira"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferreira SS"
+          ],
+          "firstName": [
+            "Sávio de Siqueira"
+          ],
+          "lastName": [
+            "Ferreira"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishiyama MY"
+          ],
+          "firstName": [
+            "Milton Yutaka"
+          ],
+          "lastName": [
+            "Nishiyama"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ten-Caten F"
+          ],
+          "firstName": [
+            "Felipe"
+          ],
+          "lastName": [
+            "Ten-Caten"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ragagnin GT"
+          ],
+          "firstName": [
+            "Geovani Tolfo"
+          ],
+          "lastName": [
+            "Ragagnin"
+          ],
+          "initials": [
+            "GT"
+          ],
+          "affiliation": [
+            "Departamento de Botânica, Instituto de Biociências, Universidade de São Paulo, Rua do Matão, 277, São Paulo, SP 05508-090, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Andrade PM"
+          ],
+          "firstName": [
+            "Pablo de Morais"
+          ],
+          "lastName": [
+            "Andrade"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "de Souza RF"
+          ],
+          "firstName": [
+            "Robson Francisco"
+          ],
+          "lastName": [
+            "de Souza"
+          ],
+          "initials": [
+            "RF"
+          ],
+          "affiliation": [
+            "Departamento de Microbiologia, Instituto de Ciências Biomédicas, Universidade de São Paulo, Av.Professor Lineu Prestes, 1734, São Paulo, SP 05508-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicastro GG"
+          ],
+          "firstName": [
+            "Gianlucca Gonçalves"
+          ],
+          "lastName": [
+            "Nicastro"
+          ],
+          "initials": [
+            "GG"
+          ],
+          "affiliation": [
+            "Departamento de Microbiologia, Instituto de Ciências Biomédicas, Universidade de São Paulo, Av.Professor Lineu Prestes, 1734, São Paulo, SP 05508-900, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandya R"
+          ],
+          "firstName": [
+            "Ravi"
+          ],
+          "lastName": [
+            "Pandya"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Microsoft Research, One Microsoft Way, Redmond, WA 98052, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim C"
+          ],
+          "firstName": [
+            "Changsoo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Plant Genome Mapping Laboratory, University of Georgia, 120 Green Street, Athens, GA 30602-7223,United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Plant Genome Mapping Laboratory, University of Georgia, 120 Green Street, Athens, GA 30602-7223,United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Durham AM"
+          ],
+          "firstName": [
+            "Alan Mitchell"
+          ],
+          "lastName": [
+            "Durham"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Departamento de Ciências da Computação, Instituto de Matemática e Estatística, Universidade de São Paulo, Rua do Matão, 1010, São Paulo, SP 05508-090, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Carneiro MS"
+          ],
+          "firstName": [
+            "Monalisa Sampaio"
+          ],
+          "lastName": [
+            "Carneiro"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Departamento de Biotecnologia e Produção Vegetal e Animal, Centro de Ciências Agrárias, Universidade Federal de São Carlos, Rodovia Washington Luis km 235, Araras, SP 13.565-905, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jisen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "FAFU and UIUC-SIB Joint Center for Genomics and Biotechnology, Fujian Agriculture and Forestry University, Shangxiadian Road, Fuzhou 350002, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xingtan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "FAFU and UIUC-SIB Joint Center for Genomics and Biotechnology, Fujian Agriculture and Forestry University, Shangxiadian Road, Fuzhou 350002, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "FAFU and UIUC-SIB Joint Center for Genomics and Biotechnology, Fujian Agriculture and Forestry University, Shangxiadian Road, Fuzhou 350002, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ming R"
+          ],
+          "firstName": [
+            "Ray"
+          ],
+          "lastName": [
+            "Ming"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "FAFU and UIUC-SIB Joint Center for Genomics and Biotechnology, Fujian Agriculture and Forestry University, Shangxiadian Road, Fuzhou 350002, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Schatz MC"
+          ],
+          "firstName": [
+            "Michael C"
+          ],
+          "lastName": [
+            "Schatz"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Cold Spring Harbor Laboratory, One Bungtown Road, Koch Building #1119, Cold Spring Harbor, NY11724, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Davidson B"
+          ],
+          "firstName": [
+            "Bob"
+          ],
+          "lastName": [
+            "Davidson"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Microsoft Research, One Microsoft Way, Redmond, WA 98052, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Paterson AH"
+          ],
+          "firstName": [
+            "Andrew H"
+          ],
+          "lastName": [
+            "Paterson"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Plant Genome Mapping Laboratory, University of Georgia, 120 Green Street, Athens, GA 30602-7223,United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Heckerman D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Heckerman"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Microsoft Research, One Microsoft Way, Redmond, WA 98052, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2327-0201",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2886066"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "BACKGROUND:Sugarcane cultivars are polyploid interspecific hybrids of giant genomes, typically with 10-13 sets of chromosomes from 2 Saccharum species. The ploidy, hybridity, and size of the genome, estimated to have >10 Gb, pose a challenge for sequencing. RESULTS:Here we present a gene space assembly of SP80-3280, including 373,869 putative genes and their potential regulatory regions. The alignment of single-copy genes in diploid grasses to the putative genes indicates that we could resolve 2-6 (up to 15) putative homo(eo)logs that are 99.1% identical within their coding sequences. Dissimilarities increase in their regulatory regions, and gene promoter analysis shows differences in regulatory elements within gene families that are expressed in a species-specific manner. We exemplify these differences for sucrose synthase (SuSy) and phenylalanine ammonia-lyase (PAL), 2 gene families central to carbon partitioning. SP80-3280 has particular regulatory elements involved in sucrose synthesis not found in the ancestor Saccharum spontaneum. PAL regulatory elements are found in co-expressed genes related to fiber synthesis within gene networks defined during plant growth and maturation. Comparison with sorghum reveals predominantly bi-allelic variations in sugarcane, consistent with the formation of 2 \"subgenomes\" after their divergence ∼3.8-4.6 million years ago and reveals single-nucleotide variants that may underlie their differences. CONCLUSIONS:This assembly represents a large step towards a whole-genome assembly of a commercial sugarcane cultivar. It includes a rich diversity of genes and homo(eo)logous resolution for a representative fraction of the gene space, relevant to improve biomass and food production."
+  ],
+  "affiliation": [
+    "Departamento de Bioquímica, Instituto de Química, Universidade de São Paulo, Av. Prof. Lineu Prestes, 748, São Paulo, SP 05508-000, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HG006677"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome",
+        "Biomass",
+        "Polyploid",
+        "Allele",
+        "Bioenergy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giz129"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884061"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884061?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "geo",
+        "gen",
+        "rrid",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-30"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-13"
+  ],
+  "firstPublicationDate": [
+    "2019-12-01"
+  ]
+}

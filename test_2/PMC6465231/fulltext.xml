@@ -1,0 +1,442 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="article-commentary"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microb Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">Microb Biotechnol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1751-7915</journal-id><journal-id journal-id-type="publisher-id">MBT2</journal-id><journal-title-group><journal-title>Microbial Biotechnology</journal-title></journal-title-group><issn pub-type="epub">1751-7915</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6465231</article-id><article-id pub-id-type="doi">10.1111/1751-7915.13388</article-id><article-id pub-id-type="publisher-id">MBT213388</article-id><article-categories><subj-group subj-group-type="overline"><subject>Opinion</subject></subj-group><subj-group subj-group-type="heading"><subject>Opinion</subject></subj-group></article-categories><title-group><article-title>Dismantling the bacterial virulence program</article-title><alt-title alt-title-type="left-running-head">M. A. Alford, D. Pletzer and R. E. W. Hancock</alt-title></title-group><contrib-group><contrib id="mbt213388-cr-0001" contrib-type="author"><name><surname>Alford</surname><given-names>Morgan A.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4446-817X</contrib-id><xref ref-type="aff" rid="mbt213388-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mbt213388-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213388-cr-0002" contrib-type="author"><name><surname>Pletzer</surname><given-names>Daniel</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5750-7505</contrib-id><xref ref-type="aff" rid="mbt213388-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mbt213388-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mbt213388-cr-0003" contrib-type="author" corresp="yes"><name><surname>Hancock</surname><given-names>Robert E.W.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5989-8503</contrib-id><address><email>bob@hancocklab.com</email></address><xref ref-type="aff" rid="mbt213388-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mbt213388-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Centre for Microbial Diseases and Immunity Research</named-content>
+<named-content content-type="organisation-division">Department of Microbiology and Immunology</named-content>
+<institution>University of British Columbia</institution>
+<named-content content-type="city">Vancouver</named-content>
+<named-content content-type="country-part">BC</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence. E&#x02010;mail <email>bob@hancocklab.com</email>; Tel. 604 822 2682; Fax 604 827 5566.</corresp><fn fn-type="equal" id="mbt213388-note-1001"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2019</year></pub-date><volume>12</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/mbt2.2019.12.issue-3</issue-id><fpage>409</fpage><lpage>413</lpage><history><date date-type="received"><day>06</day><month>2</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 John Wiley & Sons Ltd and Society for Applied Microbiology <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Microbial Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd and Society for Applied Microbiology.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MBT2-12-409.pdf"/><abstract id="mbt213388-abs-0001"><title>Summary</title><p>In the face of rising antimicrobial resistance, there is an urgent need for the development of efficient and effective anti&#x02010;infective compounds. Adaptive resistance, a reversible bacterial phenotype characterized by the ability to surmount antibiotic challenge without mutation, is triggered to cope <italic>in&#x000a0;situ</italic> with several stressors and is very common clinically. Thus, it is important to target stress&#x02010;response effectors that contribute to in&#x000a0;vivo adaptations and associated lifestyles such as biofilm formation. Interfering with these proteins should provide a means of dismantling bacterial virulence for treating infectious diseases, in combination with conventional antibiotics.</p></abstract><funding-group><award-group><funding-source>Canadian Institutes for Health Research (CIHR)</funding-source><award-id>FDN&#x02010;154287</award-id></award-group><award-group><funding-source>Cystic Fibrosis (CF) Canada</funding-source><award-id>2585</award-id></award-group></funding-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="5"/><word-count count="3348"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mbt213388</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.2.1 mode:remove_FC converted:15.04.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbt213388-cit-1001">
+<source xml:lang="en">Microbial Biotechnology</source> (<year>2019</year>) <volume>12</volume>(<issue>3</issue>), <fpage>409</fpage>&#x02013;<lpage>413</lpage>
+</mixed-citation>
+</p><fn-group id="mbt213388-ntgp-0001"><fn fn-type="funding" id="mbt213388-note-1002"><p>
+<bold>Funding Information</bold>
+</p><p>Canadian Institutes for Health Research (CIHR) FDN&#x02010;154287 and the Cystic Fibrosis (CF) Canada Award Number 2585.</p></fn></fn-group></notes></front><body><p>Antibiotic resistance is one of the biggest threats to the modern medical system since it compromises our ability to perform major, and even minor, procedures without the chance of antagonistic infections. The virulence of opportunistic pathogens, in particular, is mitigated by their growth circumstances, whereby they rapidly adapt to the harsh environmental conditions of the human host. Associated lifestyle changes are dependent on these growth circumstances and trigger complex adaptation mechanisms including adaptive resistance to stressors that are particularly challenging to address. The host milieu is characterized by the presence of various stressors, including temperature changes, oxygen and nutrient (iron, weak nitrogen and suboptimal carbon source) limitations, hyperosmolarity and acidic pH, stress from host innate immune attacks including reactive oxygen and nitrogen species, cationic host defense peptides (de la Fuente&#x02010;Nunez <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0010" ref-type="ref">2013</xref>; Fang <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0009" ref-type="ref">2016</xref>), and eventually antibiotic&#x02010;induced stresses. A variety of stress responses are known, including the broadly conserved stringent stress response, the RpoS&#x02010;mediated general stress response, the SOS DNA damage stress response, the oxidative stress response, the cell wall stress response, quorum sensing, etc. (Poole, <xref rid="mbt213388-bib-0032" ref-type="ref">2012</xref>). The adaptation process frequently involves the formation of local biofilms as an alternative growth state to cope with such stresses.</p><p>Adaptation to the host environment by bacteria leads to recalcitrance to multiple therapeutic agents and thus requires novel treatment strategies in order to outsmart these complex survival strategies. Targeting effector proteins that are important in adaptation under host&#x02010;like conditions has the potential to allow us to overcome resistance towards host defenses and antibiotic treatment in such stressful environments (Dam <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0005" ref-type="ref">2018</xref>). Thus, pathogen vulnerability to antibiotics might be induced by blocking stress&#x02010;coping defenses, using strategies that can be applied adjunctively to block disease progression. We envision that a detailed understanding of microbial stress responses and their impact on virulence and resistance to anti&#x02010;infective strategies will enable novel, more efficient ways to fight bacterial pathogens in the years to come.</p><p>We previously showed that a broad range of pathogens can be targeted and sensitized to conventional antibiotic therapy, in a cutaneous mouse high density bacterial infection (abscess) model by attacking the bacterial stringent stress response using novel synthetic peptides (Mansour <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0023" ref-type="ref">2016</xref>; Pletzer <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0030" ref-type="ref">2017</xref>, <xref rid="mbt213388-bib-0031" ref-type="ref">2018</xref>). The highly conserved stringent stress response entails global redeployment of cellular and metabolic functions (reducing macromolecular synthesis and increasing stress coping) to promote bacterial adaptation to stress and starvation (Fang <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0009" ref-type="ref">2016</xref>). Accumulation of guanosine tetraphosphate and/or pentaphosphate ((p)ppGpp) is largely responsible for the induction of the stringent stress response (Pletzer <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0029" ref-type="ref">2016</xref>; Irving and Corrigan, <xref rid="mbt213388-bib-0014" ref-type="ref">2018</xref>). The stringent response also regulates a form of adaptive resistance termed persistence, based on the slow growth or stasis of such organisms in the presence of antibiotics (Cabral <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0002" ref-type="ref">2018</xref>,b). In addition, since the bacterial stringent stress response is conserved in prokaryotic organisms and not present in higher organisms, its interference could provide a route to disarm or prevent infectious diseases before they become life&#x02010;threatening. Although master regulators of virulence are promising drug targets, the effects of inhibiting them are unknown and in principle could even worsen disease prognosis. A detailed mechanistic understanding of the downstream consequences associated with blocking a master regulator during infection is warranted to fully justify the potential of this approach.</p><p>One possible direction forward would be to focus on identifying key effector proteins of bacterial stress responses, since relatively little is known about signalling that occurs downstream of key mediators, despite accumulating evidence that inhibition enhances antibiotic activity (Lee <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0020" ref-type="ref">2009</xref>; Tkachenko, <xref rid="mbt213388-bib-0038" ref-type="ref">2018</xref>). Such approaches might be limited if they are pathogen&#x02010;specific which, while novel, is counter to the general concept of relatively non&#x02010;specific antibiotics and would require ultra&#x02010;rapid diagnostics to enable their use given how rapidly most bacterial pathogens grow. Nevertheless, such compounds might be useful as adjuncts to conventional antibiotic therapy or in longer term infections where resistance arises over time.</p><p>An example of addressing stress effectors is based on the observation that mutants deficient in ppGpp production show reduced antioxidant activity in <italic>Escherichia coli</italic> and closely related Enterobacteriaceae (Dam <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0005" ref-type="ref">2018</xref>). Moreover, proteins that play a key role in oxidative processes are proposed to confer stringent response&#x02010;mediated multidrug tolerance. One of these, SodB, an iron co&#x02010;factored superoxide dismutase that detoxifies intracellular superoxide radicals to oxygen and hydrogen peroxide, is a newly identified effector protein of the stringent response (Martins <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0024" ref-type="ref">2018</xref>). Targeting SodB could lead to potentiation of a broad&#x02010;spectrum of antibiotics since its expression (likely increased in the presence of phagocytic cells <italic>in&#x000a0;vivo</italic>) mediates protection against gentamicin, ofloxacin and meropenem. Additionally, SodB represents an underexplored link between membrane permeability and antibiotic internalization across several clinically relevant pathogens such as <italic>Campylobacter jejuni</italic>,<italic> Staphylococcus aureus</italic> and <italic>Pseudomonas aeruginosa</italic> (Hwang <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0013" ref-type="ref">2013</xref>; Ladjouzi <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0019" ref-type="ref">2013</xref>; Martins <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0024" ref-type="ref">2018</xref>). Superoxide dismutase activity also correlates with expression of the phosphate&#x02010;responsive PhoB regulon, and functions to scavenge excess hydrogen peroxide in phosphate&#x02010;replete environments (Moreau <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0027" ref-type="ref">2001</xref>). Inadequate scavenging of reactive oxygen species such as hydrogen peroxide is proposed to lead to their interaction with reactive nitrogen species, resulting in the synthesis of highly toxic metabolites such as peroxynitrate. YtfK is a nitrate&#x02010;dependent regulator of the PhoB regulon that prevents the synthesis of such toxic molecules and a newly identified effector protein that abrogates bacterial stress during <italic>E.&#x000a0;coli</italic> infection (Iwadate and Kato, <xref rid="mbt213388-bib-0015" ref-type="ref">2017</xref>). YtfK deletion enhances the activity of the redox&#x02010;recycling drug menandione, which triggers intracellular production of reactive oxygen species and acts synergistically with antibiotics through membrane permeabilization (Garcia <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0011" ref-type="ref">2013</xref>). In addition to modulation of bacterial peroxidase activity, YtfK stimulates expression of metabolically important catalases such as KatG. Though more rigorous mechanistic analyses are warranted to determine the potential of these effector proteins as targets for therapeutic development and rule out host&#x02010;directed activity, their effects on susceptibility provide encouragement.</p><p>Recently, more global approaches have been identified for dismantling the bacterial virulence program, such as the disruption of microbial communication, that is, quorum sensing (QS). Bacteria use signalling molecules to inform community members of prospective environmental stressors including nutrient limitations created by increased bacterial density. The triggered signal cascade leads to rapid changes in expression of genes pertinent, for example, to virulence factor production and biofilm formation (Rutherford and Bassler, <xref rid="mbt213388-bib-0035" ref-type="ref">2012</xref>; Papenfort and Bassler, <xref rid="mbt213388-bib-0028" ref-type="ref">2016</xref>). Targeting QS regulatory systems, such as the autoinducer molecules acyl homoserine lactone (AHL), to out&#x02010;compete, inhibit or block signalling has been extensively studied (Givskov <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0012" ref-type="ref">1996</xref>). These studies exemplify the feasibility of developing anti&#x02010;virulence drugs that target bacterial QS systems. Drugs that have been examined include synthetic antibodies as well as agonists and antagonists of autoinducers (Rutherford and Bassler, <xref rid="mbt213388-bib-0035" ref-type="ref">2012</xref>; Reuter <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0034" ref-type="ref">2016</xref>; Maille <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0022" ref-type="ref">2017</xref>). Moreover, quorum quenching (QQ) enzymes that are able to degrade signalling molecules, such as AHL&#x02010;degrading lactonases and acylases, (Dong <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0008" ref-type="ref">2001</xref>; Lin <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0021" ref-type="ref">2003</xref>) reduce the production of harmful virulence factors thereby inducing antimicrobial vulnerability (Remy <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0033" ref-type="ref">2018</xref>). Despite extensive testing in animal models and promising results, only a few QS inhibitors have reached human trials (Remy <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0033" ref-type="ref">2018</xref>) with no approved drugs to date. Thus, it remains to be seen whether QQ enzymes or QS inhibitors are realistic candidate therapies for the prevention and treatment of infectious diseases.</p><p>Nevertheless, inhibition of select QS signalling pathways has interesting consequences. Terrein, a novel inhibitor of QS receptors LasR and RhlR, is associated with reduced production of virulence factors by <italic>P.&#x000a0;aeruginosa</italic>. Intriguingly, terrein also influences metabolism of 3,5&#x02010;cyclic diguanylic acid (c&#x02010;di&#x02010;GMP), which leads to reduced biofilm formation (Kim <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0017" ref-type="ref">2018</xref>). Unfortunately, terrein only showed moderate anti&#x02010;virulence efficacy in a murine airway infection model so it has limited therapeutic potential. M64, a non&#x02010;ligand&#x02010;based benzamide&#x02010;benzimidazole compound, was identified through whole&#x02010;cell high&#x02010;throughput screening and demonstrably binds to and inhibits the QS virulence regulator MvfR (PqsR) in <italic>P.&#x000a0;aeruginosa</italic> (Starkey <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0037" ref-type="ref">2014</xref>; Kitao <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0018" ref-type="ref">2018</xref>). Intriguingly, M64 also reduces virulence and persistence in a mouse burn and lung infection model (Starkey <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0037" ref-type="ref">2014</xref>). Additionally, M64, which has been further optimized by Spero Therapeutics, Inc. (Schutz and Empting, <xref rid="mbt213388-bib-0036" ref-type="ref">2018</xref>) interferes with the activity of PqsBC, thus with the synthesis of the QS molecules 4&#x02010;hydroxy&#x02010;2&#x02010;heptylquinoline (HHQ) and 2&#x02010;heptyl&#x02010;3,4&#x02010;dihydroxyquinoline (PQS, <italic>Pseudomonas</italic> quinolone signal). Since both HHQ and PQS are MvfR activator molecules, their depletion may also reduce biofilm formation (Maura and Rahme, <xref rid="mbt213388-bib-0025" ref-type="ref">2017</xref>; Maura <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0026" ref-type="ref">2017</xref>). A therapy that both dismantles virulence and prevents biofilm formation is particularly desirable since approximately 80% of infections involve biofilm&#x02010;forming bacteria (Belanger <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0001" ref-type="ref">2017</xref>; Jamal <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0016" ref-type="ref">2018</xref>).</p><p>With improved <italic>in silico</italic> modelling, it is now possible to analyse high&#x02010;throughput data efficiently, which accelerates identification of candidate drug targets. Dandela <italic>et&#x000a0;al</italic>. (<xref rid="mbt213388-bib-0006" ref-type="ref">2018</xref>) used an affinity&#x02010;based photo&#x02010;crosslinking probe to enable proteome&#x02010;wide mapping of quinolone binding proteins. Interestingly, their method identified several novel virulence factors that are part of a quinolone interactome in <italic>P.&#x000a0;aeruginosa</italic> including proteins involved in lipopolysaccharide biosynthesis, as effectors for c&#x02010;di&#x02010;GMP signalling, and in the Type VI secretion machinery. In another large&#x02010;scale screen of a molecular library containing 1,600 FDA&#x02010;approved drugs, clofoctol was found to inhibit the <italic>pqs</italic> system and <italic>P.&#x000a0;aeruginosa</italic> virulence program, most likely by targeting MvfR (D'Angelo <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0007" ref-type="ref">2018</xref>). Although further mechanistic investigation is warranted, clofoctol, which is an approved treatment for pulmonary infections by Gram&#x02010;positive bacteria, exhibits promise as an anti&#x02010;virulence agent against <italic>P.&#x000a0;aeruginosa</italic>.</p><p>Targeting effectors rather than signalling molecules of the QS system is a more specific means of fighting bacterial infections. Daly <italic>et&#x000a0;al</italic>. (<xref rid="mbt213388-bib-0004" ref-type="ref">2015</xref>) used a sub&#x02010;inhibitory concentration of &#x003a9;&#x02010;hydroxyemodin (OHM) to block the accessory gene regulator (<italic>agr</italic>) signalling pathway, which controls virulence factor production in <italic>S.&#x000a0;aureus</italic>. OHM bound to and inhibited the response regulator AgrA, which prevents activation of the <italic>agr</italic> operon. Reduced <italic>agr</italic> activation led to the attenuated expression of the <italic>agr</italic> effector RNA&#x02010;III that regulates a broad range of virulence factors in addition to phenol&#x02010;soluble modulin alpha (<italic>psm</italic>&#x003b1;) and &#x003b1;&#x02010;haemolysin, thereby ameliorating QS. OHM treatment also effectively reduced dermonecrosis, bacterial load, and cytokine transcription and expression in an <italic>in&#x000a0;vivo</italic> model of skin infection (Daly <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0004" ref-type="ref">2015</xref>). We have shown that we can directly sequester <italic>psm</italic>&#x003b1;, &#x003b1;&#x02010;haemolysin and other <italic>S.&#x000a0;aureus</italic> secreted toxins by treatment with sphingomyelin or a combination of cholesterol and sphingomyelin liposomes (Wolfmeier <italic>et&#x000a0;al</italic>., <xref rid="mbt213388-bib-0039" ref-type="ref">2018</xref>). We applied this liposomal therapy <italic>in&#x000a0;vivo</italic> in a <italic>S.&#x000a0;aureus</italic> skin infection model and found that our therapeutic intervention reduced tissue dermonecrosis without affecting bacterial growth. Therefore, neutralization of secreted toxins during infection has the potential to prevent disease progression.</p><p>Prior to serious consideration of compounds as candidate therapeutics, they must show <italic>in&#x000a0;vivo</italic> efficacy, slow or no resistance development, and minimal or no toxicity versus host systems. Compounds that do not meet these stringent criteria are prone to failure in the drug development pipeline. Dismantling bacterial virulence, especially under stressful conditions, is a worthwhile endeavour for future research. Future virulence&#x02010;directed therapeutic strategies may not serve as a stand&#x02010;alone antimicrobial regime but require the help of conventional antibiotics. Improving our understanding of the molecular mechanisms underlying these approaches is essential for full elucidation of their effects on the bacterial virulence program and, equally important, the human host.</p><sec sec-type="COI-statement" id="mbt213388-sec-0003"><title>Conflict of interest</title><p>Anti&#x02010;biofilm peptides including ones discussed here were invented in part by REWH, assigned to his employer the University of British Columbia, filed for patent protection and licenced to ABT Innovations Inc. in which Hancock has an ownership position</p></sec></body><back><ack id="mbt213388-sec-0002"><title>Acknowledgements</title><p>MAA received an Alexander Graham Bell Canada Graduate Scholarship, DP received a Cystic Fibrosis Canada postdoctoral fellowship and Michael Smith Foundation for Health Research Trainee Award, and REWH holds a Canada Research Chair in Health and Genomics and a UBC Killam Professorship. The authors research was supported by grants from the Canadian Institutes for Health Research (CIHR) FDN&#x02010;154287 and the Cystic Fibrosis (CF) Canada Award Number 2585. The content is solely the responsibility of the authors and does not necessarily represent the official views of the CIHR.</p></ack><ref-list content-type="cited-references" id="mbt213388-bibl-0001"><title>References</title><ref id="mbt213388-bib-0001"><mixed-citation publication-type="journal" id="mbt213388-cit-0001">
+<string-name>
+<surname>Belanger</surname>, <given-names>C.R.</given-names>
+</string-name>, <string-name>
+<surname>Mansour</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2017</year>) <article-title>Alternative strategies for the study and treatment of clinical bacterial biofilms</article-title>. <source xml:lang="en">Emerg Top Life Sci</source>
+<volume>1</volume>: <fpage>41</fpage>&#x02013;<lpage>53</lpage>.</mixed-citation></ref><ref id="mbt213388-bib-0002"><mixed-citation publication-type="journal" id="mbt213388-cit-0002">
+<string-name>
+<surname>Cabral</surname>, <given-names>D.J.</given-names>
+</string-name>, <string-name>
+<surname>Wurster</surname>, <given-names>J.I.</given-names>
+</string-name>, and <string-name>
+<surname>Belenky</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>a) <article-title>Antibiotic persistence as a metabolic adaptation: stress, metabolism, the host and new directions</article-title>. <source xml:lang="en">Pharmaceuticals</source>
+<volume>11</volume>: <fpage>14</fpage>.</mixed-citation></ref><ref id="mbt213388-bib-0004"><mixed-citation publication-type="journal" id="mbt213388-cit-0004">
+<string-name>
+<surname>Daly</surname>, <given-names>S.M.</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>, <given-names>B.O.</given-names>
+</string-name>, <string-name>
+<surname>Kavanaugh</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Triplett</surname>, <given-names>K.D.</given-names>
+</string-name>, <string-name>
+<surname>Figueroa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Raja</surname>, <given-names>H.A.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Omega&#x02010;Hydroxyemodin limits <italic>Staphylococcus aureus</italic> quorum sensing&#x02010;mediated pathogenesis and inflammation</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<volume>59</volume>: <fpage>2223</fpage>&#x02013;<lpage>2235</lpage>.<pub-id pub-id-type="pmid">25645827</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0005"><mixed-citation publication-type="journal" id="mbt213388-cit-0005">
+<string-name>
+<surname>Dam</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pages</surname>, <given-names>J.M.</given-names>
+</string-name>, and <string-name>
+<surname>Masi</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Stress responses, outer membrane permeability control and antimicrobial resistance in <italic>Enterobacteriaceae</italic>
+</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>164</volume>: <fpage>260</fpage>&#x02013;<lpage>267</lpage>.<pub-id pub-id-type="pmid">29458656</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0006"><mixed-citation publication-type="journal" id="mbt213388-cit-0006">
+<string-name>
+<surname>Dandela</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Mantin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Cravatt</surname>, <given-names>B.F.</given-names>
+</string-name>, <string-name>
+<surname>Rayo</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<surname>Meijler</surname>, <given-names>M.M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Proteome&#x02010;wide mapping of PQS&#x02010;interacting proteins in <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Chem Sci</source>
+<volume>9</volume>: <fpage>2290</fpage>&#x02013;<lpage>2294</lpage>.<pub-id pub-id-type="pmid">29719702</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0007"><mixed-citation publication-type="journal" id="mbt213388-cit-0007">
+<string-name>
+<surname>D'Angelo</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Baldelli</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Pantalone</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Polticelli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fiscarelli</surname>, <given-names>E.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Identification of FDA&#x02010;approved drugs as antivirulence agents targeting the <italic>pqs</italic> quorum&#x02010;sensing system of <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<volume>62</volume>: <fpage>e01296</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">30201815</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0008"><mixed-citation publication-type="journal" id="mbt213388-cit-0008">
+<string-name>
+<surname>Dong</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.F.</given-names>
+</string-name>, and <string-name>
+<surname>Zhang</surname>, <given-names>L.H.</given-names>
+</string-name> (<year>2001</year>) <article-title>Quenching quorum&#x02010;sensing&#x02010;dependent bacterial infection by an N&#x02010;acyl homoserine lactonase</article-title>. <source xml:lang="en">Nature</source>
+<volume>411</volume>: <fpage>813</fpage>&#x02013;<lpage>817</lpage>.<pub-id pub-id-type="pmid">11459062</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0009"><mixed-citation publication-type="journal" id="mbt213388-cit-0009">
+<string-name>
+<surname>Fang</surname>, <given-names>F.C.</given-names>
+</string-name>, <string-name>
+<surname>Frawley</surname>, <given-names>E.R.</given-names>
+</string-name>, <string-name>
+<surname>Tapscott</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<surname>Vazquez&#x02010;Torres</surname>, <given-names>A.</given-names>
+</string-name> (<year>2016</year>) <article-title>Bacterial stress responses during host infection</article-title>. <source xml:lang="en">Cell Host Microbe</source>
+<volume>20</volume>: <fpage>133</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">27512901</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0010"><mixed-citation publication-type="journal" id="mbt213388-cit-0010">
+<string-name>
+<surname>de la Fuente&#x02010;Nunez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Reffuveille</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2013</year>) <article-title>Bacterial biofilm development as a multicellular adaptation: antibiotic resistance and new therapeutic strategies</article-title>. <source xml:lang="en">Curr Opin Microbiol</source>
+<volume>16</volume>: <fpage>580</fpage>&#x02013;<lpage>589</lpage>.<pub-id pub-id-type="pmid">23880136</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0011"><mixed-citation publication-type="journal" id="mbt213388-cit-0011">
+<string-name>
+<surname>Garcia</surname>, <given-names>L.G.</given-names>
+</string-name>, <string-name>
+<surname>Lemaire</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kahl</surname>, <given-names>B.C.</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Proctor</surname>, <given-names>R.A.</given-names>
+</string-name>, <string-name>
+<surname>Denis</surname>, <given-names>O.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2013</year>) <article-title>Antibiotic activity against small&#x02010;colony variants of <italic>Staphylococcus aureus</italic>: review of <italic>in&#x000a0;vitro</italic>, animal and clinical data</article-title>. <source xml:lang="en">J Antimicrob Chemother</source>
+<volume>68</volume>: <fpage>1455</fpage>&#x02013;<lpage>1464</lpage>.<pub-id pub-id-type="pmid">23485724</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0012"><mixed-citation publication-type="journal" id="mbt213388-cit-0012">
+<string-name>
+<surname>Givskov</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>de Nys</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Manefield</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gram</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Maximilien</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Eberl</surname>, <given-names>L.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>1996</year>) <article-title>Eukaryotic interference with homoserine lactone&#x02010;mediated prokaryotic signalling</article-title>. <source xml:lang="en">J Bacteriol</source>
+<volume>178</volume>: <fpage>6618</fpage>&#x02013;<lpage>6622</lpage>.<pub-id pub-id-type="pmid">8932319</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0013"><mixed-citation publication-type="journal" id="mbt213388-cit-0013">
+<string-name>
+<surname>Hwang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<surname>Jeon</surname>, <given-names>B.</given-names>
+</string-name> (<year>2013</year>) <article-title>Roles of the superoxide dismutase SodB and the catalase KatA in the antibiotic resistance of <italic>Campylobacter jejuni</italic>
+</article-title>. <source xml:lang="en">J Antibiot (Tokyo)</source>
+<volume>66</volume>: <fpage>351</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">23549350</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0014"><mixed-citation publication-type="journal" id="mbt213388-cit-0014">
+<string-name>
+<surname>Irving</surname>, <given-names>S.E.</given-names>
+</string-name>, and <string-name>
+<surname>Corrigan</surname>, <given-names>R.M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Triggering the stringent response: signals responsible for activating (p)ppGpp synthesis in bacteria</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>164</volume>: <fpage>268</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">29493495</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0015"><mixed-citation publication-type="journal" id="mbt213388-cit-0015">
+<string-name>
+<surname>Iwadate</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<surname>Kato</surname>, <given-names>J.I.</given-names>
+</string-name> (<year>2017</year>) <article-title>Involvement of the <italic>ytfK</italic> gene from the PhoB regulon in stationary&#x02010;phase H2O2 stress tolerance in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Microbiology</source>
+<volume>163</volume>: <fpage>1912</fpage>&#x02013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">29148366</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0016"><mixed-citation publication-type="journal" id="mbt213388-cit-0016">
+<string-name>
+<surname>Jamal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ahmad</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Andleeb</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Jalil</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Imran</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nawaz</surname>, <given-names>M.A.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Bacterial biofilm and associated infections</article-title>. <source xml:lang="en">J Chin Med Assoc</source>
+<volume>81</volume>: <fpage>7</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">29042186</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0017"><mixed-citation publication-type="journal" id="mbt213388-cit-0017">
+<string-name>
+<surname>Kim</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>J.S.</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>, <given-names>H.Y.</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>, <given-names>S.S.</given-names>
+</string-name>, and <string-name>
+<surname>Kim</surname>, <given-names>W.G.</given-names>
+</string-name> (<year>2018</year>) <article-title>Terrein is an inhibitor of quorum sensing and c&#x02010;di&#x02010;GMP in <italic>Pseudomonas aeruginosa</italic>: a connection between quorum sensing and c&#x02010;di&#x02010;GMP</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>8</volume>: <fpage>8617</fpage>.<pub-id pub-id-type="pmid">29872101</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0018"><mixed-citation publication-type="journal" id="mbt213388-cit-0018">
+<string-name>
+<surname>Kitao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lepine</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Babloudi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Walte</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Steinbacher</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Maskos</surname>, <given-names>K.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Molecular insights into function and competitive inhibition of <italic>Pseudomonas aeruginosa</italic> multiple virulence factor regulator</article-title>. <source xml:lang="en">MBio</source>
+<volume>9</volume>: <fpage>e02158</fpage>&#x02013;<lpage>17</lpage>.</mixed-citation></ref><ref id="mbt213388-bib-0019"><mixed-citation publication-type="journal" id="mbt213388-cit-0019">
+<string-name>
+<surname>Ladjouzi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bizzini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lebreton</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sauvageot</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Rince</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Benachour</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Hartke</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>) <article-title>Analysis of the tolerance of pathogenic enterococci and <italic>Staphylococcus aureus</italic> to cell wall active antibiotics</article-title>. <source xml:lang="en">J Antimicrob Chemother</source>
+<volume>68</volume>: <fpage>2083</fpage>&#x02013;<lpage>2091</lpage>.<pub-id pub-id-type="pmid">23649229</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0020"><mixed-citation publication-type="journal" id="mbt213388-cit-0020">
+<string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hinz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bauerle</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Angermeyer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Juhaszova</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kaneko</surname>, <given-names>Y.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>Targeting a bacterial stress response to enhance antibiotic action</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>106</volume>: <fpage>14570</fpage>&#x02013;<lpage>14575</lpage>.<pub-id pub-id-type="pmid">19706543</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0021"><mixed-citation publication-type="journal" id="mbt213388-cit-0021">
+<string-name>
+<surname>Lin</surname>, <given-names>Y.H.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>J.L.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.H.</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Leadbetter</surname>, <given-names>J.R.</given-names>
+</string-name>, and <string-name>
+<surname>Zhang</surname>, <given-names>L.H.</given-names>
+</string-name> (<year>2003</year>) <article-title>Acyl&#x02010;homoserine lactone acylase from <italic>Ralstonia</italic> strain XJ12B represents a novel and potent class of quorum&#x02010;quenching enzymes</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>47</volume>: <fpage>849</fpage>&#x02013;<lpage>860</lpage>.<pub-id pub-id-type="pmid">12535081</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0022"><mixed-citation publication-type="journal" id="mbt213388-cit-0022">
+<string-name>
+<surname>Maille</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Ruffin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Adam</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Messaoud</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lafayette</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>G.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Quorum sensing down&#x02010;regulation counteracts the negative impact of <italic>Pseudomonas aeruginosa</italic> on CFTR channel expression, function and rescue in human airway epithelial cells</article-title>. <source xml:lang="en">Front Cell Infect Microbiol</source>
+<volume>7</volume>: <fpage>470</fpage>.<pub-id pub-id-type="pmid">29177135</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0023"><mixed-citation publication-type="journal" id="mbt213388-cit-0023">
+<string-name>
+<surname>Mansour</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>de la Fuente&#x02010;Nunez</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>G.Y.C.</given-names>
+</string-name>, <string-name>
+<surname>Joo</surname>, <given-names>H.S.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Bacterial abscess formation is controlled by the stringent stress response and can be targeted therapeutically</article-title>. <source xml:lang="en">EBioMedicine</source>
+<volume>12</volume>: <fpage>219</fpage>&#x02013;<lpage>226</lpage>.<pub-id pub-id-type="pmid">27658736</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0024"><mixed-citation publication-type="journal" id="mbt213388-cit-0024">
+<string-name>
+<surname>Martins</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Sampathkumar</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Khakimova</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>English</surname>, <given-names>A.M.</given-names>
+</string-name>, and <string-name>
+<surname>Nguyen</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>) <article-title>Superoxide dismutase activity confers (p)ppGpp&#x02010;mediated antibiotic tolerance to stationary&#x02010;phase <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>115</volume>: <fpage>9797</fpage>&#x02013;<lpage>9802</lpage>.<pub-id pub-id-type="pmid">30201715</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0025"><mixed-citation publication-type="journal" id="mbt213388-cit-0025">
+<string-name>
+<surname>Maura</surname>, <given-names>D.</given-names>
+</string-name> and <string-name>
+<surname>Rahme</surname>, <given-names>L.G.</given-names>
+</string-name> (<year>2017</year>) <article-title>Pharmacological inhibition of the <italic>Pseudomonas aeruginosa</italic> MvfR quorum&#x02010;sensing system interferes with biofilm formation and potentiates antibiotic&#x02010;mediated biofilm disruption</article-title>. <source xml:lang="en">Antimicrob Agents Chemother</source>
+<volume>61</volume>: <fpage>e01362</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">28923875</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0026"><mixed-citation publication-type="journal" id="mbt213388-cit-0026">
+<string-name>
+<surname>Maura</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Drees</surname>, <given-names>S.L.</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhaya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kitao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Negri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Starkey</surname>, <given-names>M.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Polypharmacology approaches against the <italic>Pseudomonas aeruginosa</italic> MvfR regulon and their application in blocking virulence and antibiotic tolerance</article-title>. <source xml:lang="en">ACS Chem Biol</source>
+<volume>12</volume>: <fpage>1435</fpage>&#x02013;<lpage>1443</lpage>.<pub-id pub-id-type="pmid">28379691</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0027"><mixed-citation publication-type="journal" id="mbt213388-cit-0027">
+<string-name>
+<surname>Moreau</surname>, <given-names>P.L.</given-names>
+</string-name>, <string-name>
+<surname>Gerard</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lutz</surname>, <given-names>N.W.</given-names>
+</string-name>, and <string-name>
+<surname>Cozzone</surname>, <given-names>P.</given-names>
+</string-name> (<year>2001</year>) <article-title>Non&#x02010;growing <italic>Escherichia coli</italic> cells starved for glucose or phosphate use different mechanisms to survive oxidative stress</article-title>. <source xml:lang="en">Mol Microbiol</source>
+<volume>39</volume>: <fpage>1048</fpage>&#x02013;<lpage>1060</lpage>.<pub-id pub-id-type="pmid">11251823</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0028"><mixed-citation publication-type="journal" id="mbt213388-cit-0028">
+<string-name>
+<surname>Papenfort</surname>, <given-names>K.</given-names>
+</string-name>, and <string-name>
+<surname>Bassler</surname>, <given-names>B.L.</given-names>
+</string-name> (<year>2016</year>) <article-title>Quorum sensing signal&#x02010;response systems in Gram&#x02010;negative bacteria</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<volume>14</volume>: <fpage>576</fpage>&#x02013;<lpage>588</lpage>.<pub-id pub-id-type="pmid">27510864</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0029"><mixed-citation publication-type="journal" id="mbt213388-cit-0029">
+<string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Coleman</surname>, <given-names>S.R.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2016</year>) <article-title>Anti&#x02010;biofilm peptides as a new weapon in antimicrobial warfare</article-title>. <source xml:lang="en">Curr Opin Microbiol</source>
+<volume>33</volume>: <fpage>35</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">27318321</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0030"><mixed-citation publication-type="journal" id="mbt213388-cit-0030">
+<string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wolfmeier</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bains</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2017</year>) <article-title>Synthetic peptides to target stringent response&#x02010;controlled virulence in a <italic>Pseudomonas aeruginosa</italic> murine cutaneous infection model</article-title>. <source xml:lang="en">Front Microbiol</source>
+<volume>8</volume>: <fpage>1867</fpage>.<pub-id pub-id-type="pmid">29021784</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0031"><mixed-citation publication-type="journal" id="mbt213388-cit-0031">
+<string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mansour</surname>, <given-names>S.C.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2018</year>) <article-title>Synergy between conventional antibiotics and anti&#x02010;biofilm peptides in a murine, sub&#x02010;cutaneous abscess model caused by recalcitrant ESKAPE pathogens</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>14</volume>: <fpage>e1007084</fpage>.<pub-id pub-id-type="pmid">29928049</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0032"><mixed-citation publication-type="journal" id="mbt213388-cit-0032">
+<string-name>
+<surname>Poole</surname>, <given-names>K.</given-names>
+</string-name> (<year>2012</year>) <article-title>Bacterial stress responses as determinants of antimicrobial resistance</article-title>. <source xml:lang="en">J Antimicrob Chemother</source>
+<volume>67</volume>: <fpage>2069</fpage>&#x02013;<lpage>2089</lpage>.<pub-id pub-id-type="pmid">22618862</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0033"><mixed-citation publication-type="journal" id="mbt213388-cit-0033">
+<string-name>
+<surname>Remy</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mion</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Plener</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Elias</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chabriere</surname>, <given-names>E.</given-names>
+</string-name>, and <string-name>
+<surname>Daude</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>) <article-title>Interference in bacterial quorum sensing: a biopharmaceutical perspective</article-title>. <source xml:lang="en">Front Pharmacol</source>
+<volume>9</volume>: <fpage>203</fpage>.<pub-id pub-id-type="pmid">29563876</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0034"><mixed-citation publication-type="journal" id="mbt213388-cit-0034">
+<string-name>
+<surname>Reuter</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Steinbach</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Helms</surname>, <given-names>V.</given-names>
+</string-name> (<year>2016</year>) <article-title>Interfering with bacterial quorum sensing</article-title>. <source xml:lang="en">Perspect Medicin Chem</source>
+<volume>8</volume>: <fpage>409</fpage>&#x02013;<lpage>15</lpage>.</mixed-citation></ref><ref id="mbt213388-bib-0035"><mixed-citation publication-type="journal" id="mbt213388-cit-0035">
+<string-name>
+<surname>Rutherford</surname>, <given-names>S.T.</given-names>
+</string-name> and <string-name>
+<surname>Bassler</surname>, <given-names>B.L.</given-names>
+</string-name> (<year>2012</year>) <article-title>Bacterial quorum sensing: its role in virulence and possibilities for its control</article-title>. <source xml:lang="en">Cold Spring Harb Perspect Med</source>
+<volume>2</volume>: <fpage>a012427</fpage>.<pub-id pub-id-type="pmid">23125205</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0036"><mixed-citation publication-type="journal" id="mbt213388-cit-0036">
+<string-name>
+<surname>Schutz</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<surname>Empting</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>) <article-title>Targeting the <italic>Pseudomonas</italic> quinolone signal quorum sensing system for the discovery of novel anti&#x02010;infective pathoblockers</article-title>. <source xml:lang="en">Beilstein J Org Chem</source>
+<volume>14</volume>: <fpage>2627</fpage>&#x02013;<lpage>2645</lpage>.<pub-id pub-id-type="pmid">30410625</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0037"><mixed-citation publication-type="journal" id="mbt213388-cit-0037">
+<string-name>
+<surname>Starkey</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lepine</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Maura</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Bandyopadhaya</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lesic</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>J.</given-names>
+</string-name>, <italic>et&#x000a0;al</italic> (<year>2014</year>) <article-title>Identification of anti&#x02010;virulence compounds that disrupt quorum&#x02010;sensing regulated acute and persistent pathogenicity</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>10</volume>: <fpage>e1004321</fpage>.<pub-id pub-id-type="pmid">25144274</pub-id></mixed-citation></ref><ref id="mbt213388-bib-0038"><mixed-citation publication-type="journal" id="mbt213388-cit-0038">
+<string-name>
+<surname>Tkachenko</surname>, <given-names>A.G.</given-names>
+</string-name> (<year>2018</year>) <article-title>Stress responses of bacterial cells as mechanism of development of antibiotic tolerance</article-title>. <source xml:lang="en">Appl Biochem Microbiol</source>
+<volume>54</volume>: <fpage>108</fpage>&#x02013;<lpage>127</lpage>.</mixed-citation></ref><ref id="mbt213388-bib-0039"><mixed-citation publication-type="journal" id="mbt213388-cit-0039">
+<string-name>
+<surname>Wolfmeier</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Mansour</surname>, <given-names>S.C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.T.</given-names>
+</string-name>, <string-name>
+<surname>Pletzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Draeger</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Babiychuk</surname>, <given-names>E.B.</given-names>
+</string-name>, and <string-name>
+<surname>Hancock</surname>, <given-names>R.E.W.</given-names>
+</string-name> (<year>2018</year>) <article-title>Liposomal therapy attenuates dermonecrosis induced by community&#x02010;associated methicillin&#x02010;resistant <italic>Staphylococcus aureus</italic> by targeting alpha&#x02010;type phenol&#x02010;soluble modulins and alpha&#x02010;hemolysin</article-title>. <source xml:lang="en">EBioMedicine</source>
+<volume>33</volume>: <fpage>211</fpage>&#x02013;<lpage>217</lpage>.<pub-id pub-id-type="pmid">29936135</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,687 @@
+{
+  "id": [
+    "31528835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31528835"
+  ],
+  "pmcid": [
+    "PMC6746181"
+  ],
+  "doi": [
+    "10.1200/PO.19.00176"
+  ],
+  "title": [
+    "Low Abundance of Circulating Tumor DNA in Localized Prostate Cancer."
+  ],
+  "authorString": [
+    "Hennigan ST, Trostel SY, Terrigino NT, Voznesensky OS, Schaefer RJ, Whitlock NC, Wilkinson S, Carrabba NV, Atway R, Shema S, Lake R, Sweet AR, Einstein DJ, Karzai F, Gulley JL, Chang P, Bubley GJ, Balk SP, Ye H, Sowalsky AG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hennigan ST"
+          ],
+          "firstName": [
+            "S Thomas"
+          ],
+          "lastName": [
+            "Hennigan"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Trostel SY"
+          ],
+          "firstName": [
+            "Shana Y"
+          ],
+          "lastName": [
+            "Trostel"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Terrigino NT"
+          ],
+          "firstName": [
+            "Nicholas T"
+          ],
+          "lastName": [
+            "Terrigino"
+          ],
+          "initials": [
+            "NT"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Voznesensky OS"
+          ],
+          "firstName": [
+            "Olga S"
+          ],
+          "lastName": [
+            "Voznesensky"
+          ],
+          "initials": [
+            "OS"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schaefer RJ"
+          ],
+          "firstName": [
+            "Rachel J"
+          ],
+          "lastName": [
+            "Schaefer"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Whitlock NC"
+          ],
+          "firstName": [
+            "Nichelle C"
+          ],
+          "lastName": [
+            "Whitlock"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilkinson S"
+          ],
+          "firstName": [
+            "Scott"
+          ],
+          "lastName": [
+            "Wilkinson"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Carrabba NV"
+          ],
+          "firstName": [
+            "Nicole V"
+          ],
+          "lastName": [
+            "Carrabba"
+          ],
+          "initials": [
+            "NV"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Atway R"
+          ],
+          "firstName": [
+            "Rayann"
+          ],
+          "lastName": [
+            "Atway"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Shema S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Shema"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Lake R"
+          ],
+          "firstName": [
+            "Ross"
+          ],
+          "lastName": [
+            "Lake"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Sweet AR"
+          ],
+          "firstName": [
+            "Amalia R"
+          ],
+          "lastName": [
+            "Sweet"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Einstein DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Einstein"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Karzai F"
+          ],
+          "firstName": [
+            "Fatima"
+          ],
+          "lastName": [
+            "Karzai"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Gulley JL"
+          ],
+          "firstName": [
+            "James L"
+          ],
+          "lastName": [
+            "Gulley"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bubley GJ"
+          ],
+          "firstName": [
+            "Glenn J"
+          ],
+          "lastName": [
+            "Bubley"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Balk SP"
+          ],
+          "firstName": [
+            "Steven P"
+          ],
+          "lastName": [
+            "Balk"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye H"
+          ],
+          "firstName": [
+            "Huihui"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Beth Israel Deaconess Medical Center, Boston, MA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sowalsky AG"
+          ],
+          "firstName": [
+            "Adam G"
+          ],
+          "lastName": [
+            "Sowalsky"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2760-1853",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institutes of Health, Bethesda, MD."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2760-1853",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2797352"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JCO precision oncology"
+          ],
+          "ISOAbbreviation": [
+            "JCO Precis Oncol"
+          ],
+          "medlineAbbreviation": [
+            "JCO Precis Oncol"
+          ],
+          "NLMid": [
+            "101705370"
+          ],
+          "ISSN": [
+            "2473-4284"
+          ],
+          "ESSN": [
+            "2473-4284"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "PURPOSE:Despite decreased screening-based detection of clinically insignificant tumors, most diagnosed prostate cancers are still indolent, indicating a need for better strategies for detection of clinically significant disease before treatment. We hypothesized that patients with detectable circulating tumor DNA (ctDNA) were more likely to harbor aggressive disease. METHODS:We applied ultra-low-pass whole-genome sequencing to profile cell-free DNA from 112 patients diagnosed with localized prostate cancer and performed targeted resequencing of plasma DNA for somatic mutations previously identified in matched solid tumor in nine cases. We also performed similar analyses of data from patients with metastatic prostate cancer. RESULTS:In all cases of localized prostate cancer, even in clinically high-risk patients who subsequently had recurrent disease, ultra-low-pass whole-genome sequencing and targeted resequencing did not detect ctDNA in plasma acquired before surgery or before recurrence. In contrast, using both approaches, ctDNA was detected in patients with metastatic prostate cancer. CONCLUSION:Our findings demonstrate clear differences between localized and advanced prostate cancer with respect to the dissemination and detectability of ctDNA. Because allele-specific alterations in ctDNA are below the threshold for detection in localized prostate cancer, other approaches to identify cell-free nucleic acids of tumor origin may demonstrate better specificity for aggressive disease."
+  ],
+  "affiliation": [
+    "National Institutes of Health, Bethesda, MD."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ZIA BC011838-01"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Z99 CA999999"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZIA BC011680-02"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZIA BC011680-03"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZIA BC011680-01"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZIA BC011679-03"
+          ],
+          "agency": [
+            "Intramural NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1200/PO.19.00176"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6746181"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6746181?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR80966"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS1049889"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "dbgap"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-19"
+  ],
+  "firstIndexDate": [
+    "2019-09-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-09"
+  ],
+  "firstPublicationDate": [
+    "2019-09-09"
+  ]
+}

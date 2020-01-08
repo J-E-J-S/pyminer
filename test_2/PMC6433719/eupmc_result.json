@@ -1,0 +1,408 @@
+{
+  "id": [
+    "30941154"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30941154"
+  ],
+  "pmcid": [
+    "PMC6433719"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.00304"
+  ],
+  "title": [
+    "Salinity and ABA Seed Responses in Pepper: Expression and Interaction of ABA Core Signaling Components."
+  ],
+  "authorString": [
+    "Ruggiero A, Landi S, Punzo P, Possenti M, Van Oosten MJ, Costa A, Morelli G, Maggio A, Grillo S, Batelli G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ruggiero A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Ruggiero"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Landi S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Landi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Punzo P"
+          ],
+          "firstName": [
+            "Paola"
+          ],
+          "lastName": [
+            "Punzo"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Possenti M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Possenti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Council for Agricultural Research and Economics, Research Centre for Genomics and Bioinformatics (CREA-GB), Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Oosten MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Van Oosten"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Agriculture, University of Naples \"Federico II\", Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Costa A"
+          ],
+          "firstName": [
+            "Antonello"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Morelli G"
+          ],
+          "firstName": [
+            "Giorgio"
+          ],
+          "lastName": [
+            "Morelli"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Council for Agricultural Research and Economics, Research Centre for Genomics and Bioinformatics (CREA-GB), Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Maggio A"
+          ],
+          "firstName": [
+            "Albino"
+          ],
+          "lastName": [
+            "Maggio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Agriculture, University of Naples \"Federico II\", Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Grillo S"
+          ],
+          "firstName": [
+            "Stefania"
+          ],
+          "lastName": [
+            "Grillo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Batelli G"
+          ],
+          "firstName": [
+            "Giorgia"
+          ],
+          "lastName": [
+            "Batelli"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "304"
+  ],
+  "abstractText": [
+    "Abscisic acid (ABA) plays an important role in various aspects of plant growth and development, including adaptation to stresses, fruit development and ripening. In seeds, ABA participates through its core signaling components in dormancy instauration, longevity determination, and inhibition of germination in unfavorable environmental conditions such as high soil salinity. Here, we show that seed germination in pepper was delayed but only marginally reduced by ABA or NaCl with respect to control treatments. Through a similarity search, pepper orthologs of ABA core signaling components PYL (PYRABACTIN RESISTANCE1-LIKE), PP2C (PROTEIN PHOSPHATASE2C), and SnRK2 (SUCROSE NONFERMENTING1 (SNF1)-RELATED PROTEIN KINASE2) genes were identified. Gene expression analyses of selected members showed a low abundance of PYL and SnRK2 transcripts in dry seeds compared to other tissues, and an up-regulation at high concentrations of ABA and/or NaCl for both positive and negative regulators of ABA signaling. As expected, in hydroponically-grown seedlings exposed to NaCl, only PP2C encoding genes were up-regulated. Yeast two hybrid assays performed among putative pepper core components and with Arabidopsis thaliana orthologs confirmed the ability of the identified proteins to function in ABA signaling cascade, with the exception of a CaABI isoform cloned from seeds. BiFC assay in planta confirmed some of the interactions obtained in yeast. Altogether, our results indicate that a low expression of perception and signaling components in pepper seeds might contribute to explain the observed high percentages of seed germination in the presence of ABA. These results might have direct implications on the improvement of seed longevity and vigor, a bottleneck in pepper breeding."
+  ],
+  "affiliation": [
+    "National Research Council of Italy, Institute of Biosciences and Bioresources (CNR-IBBR), Reaserch Division Portici, Portici, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Abscisic acid",
+        "Seed germination",
+        "Seed viability",
+        "Capsicum annuum L.",
+        "Pp2cs",
+        "Snrk2s",
+        "Pyr/pyl/rcars"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6433719?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6433719"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.00304"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-05"
+  ],
+  "dateOfRevision": [
+    "2019-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-19"
+  ],
+  "firstPublicationDate": [
+    "2019-03-19"
+  ]
+}

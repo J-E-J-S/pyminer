@@ -1,0 +1,680 @@
+{
+  "id": [
+    "31316073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316073"
+  ],
+  "pmcid": [
+    "PMC6637147"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10963-x"
+  ],
+  "title": [
+    "Pooled library screening with multiplexed Cpf1 library."
+  ],
+  "authorString": [
+    "Liu J, Srinivasan S, Li CY, Ho IL, Rose J, Shaheen M, Wang G, Yao W, Deem A, Bristow C, Hart T, Draetta G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jintan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6609-9777",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA. Jliu14@mdanderson.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Srinivasan S"
+          ],
+          "firstName": [
+            "Sanjana"
+          ],
+          "lastName": [
+            "Srinivasan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li CY"
+          ],
+          "firstName": [
+            "Chieh-Yuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ho IL"
+          ],
+          "firstName": [
+            "I-Lin"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "IL"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rose J"
+          ],
+          "firstName": [
+            "Johnathon"
+          ],
+          "lastName": [
+            "Rose"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shaheen M"
+          ],
+          "firstName": [
+            "MennatAllah"
+          ],
+          "lastName": [
+            "Shaheen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang G"
+          ],
+          "firstName": [
+            "Gang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao W"
+          ],
+          "firstName": [
+            "Wantong"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Deem A"
+          ],
+          "firstName": [
+            "Angela"
+          ],
+          "lastName": [
+            "Deem"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute for Applied Cancer Science, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bristow C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Bristow"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Applied Cancer Science, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hart T"
+          ],
+          "firstName": [
+            "Traver"
+          ],
+          "lastName": [
+            "Hart"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Bioinformatics and Computational Biology, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Draetta G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Draetta"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5225-9610",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA. GDraetta@mdanderson.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6609-9777",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5225-9610",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2833191"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3144"
+  ],
+  "abstractText": [
+    "Capitalizing on the inherent multiplexing capability of AsCpf1, we developed a multiplexed, high-throughput screening strategy that minimizes library size without sacrificing gene targeting efficiency. We demonstrated that AsCpf1 can be used for functional genomics screenings and that an AsCpf1-based multiplexed library performs similarly as compared to currently available monocistronic CRISPR/Cas9 libraries, with only one vector required for each gene. We construct the smallest whole-genome CRISPR knock-out library, Mini-human, for the human genome (n = 17,032 constructs targeting 16,977 protein-coding genes), which performs favorably compared to conventional Cas9 libraries."
+  ],
+  "affiliation": [
+    "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA. Jliu14@mdanderson.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R35 GM130119"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Guide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Guide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10963-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6637147"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6637147?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR62494"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-12-23"
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-21"
+  ],
+  "dateOfRevision": [
+    "2019-12-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-17"
+  ],
+  "firstPublicationDate": [
+    "2019-07-17"
+  ]
+}

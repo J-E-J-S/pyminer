@@ -1,0 +1,368 @@
+{
+  "id": [
+    "31350896"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31350896"
+  ],
+  "pmcid": [
+    "PMC6821272"
+  ],
+  "doi": [
+    "10.1093/nar/gkz661"
+  ],
+  "title": [
+    "Targeted short read sequencing and assembly of re-arrangements and candidate gene loci provide megabase diplotypes."
+  ],
+  "authorString": [
+    "Shin G, Greer SU, Xia LC, Lee H, Zhou J, Boles TC, Ji HP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shin G"
+          ],
+          "firstName": [
+            "GiWon"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Greer SU"
+          ],
+          "firstName": [
+            "Stephanie U"
+          ],
+          "lastName": [
+            "Greer"
+          ],
+          "initials": [
+            "SU"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia LC"
+          ],
+          "firstName": [
+            "Li C"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee H"
+          ],
+          "firstName": [
+            "HoJoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sage Science, Inc., Beverly, MA 01915, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Boles TC"
+          ],
+          "firstName": [
+            "T Christian"
+          ],
+          "lastName": [
+            "Boles"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Sage Science, Inc., Beverly, MA 01915, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ji HP"
+          ],
+          "firstName": [
+            "Hanlee P"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "HP"
+          ],
+          "affiliation": [
+            "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2875022"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e115"
+  ],
+  "abstractText": [
+    "The human genome is composed of two haplotypes, otherwise called diplotypes, which denote phased polymorphisms and structural variations (SVs) that are derived from both parents. Diplotypes place genetic variants in the context of cis-related variants from a diploid genome. As a result, they provide valuable information about hereditary transmission, context of SV, regulation of gene expression and other features which are informative for understanding human genetics. Successful diplotyping with short read whole genome sequencing generally requires either a large population or parent-child trio samples. To overcome these limitations, we developed a targeted sequencing method for generating megabase (Mb)-scale haplotypes with short reads. One selects specific 0.1-0.2 Mb high molecular weight DNA targets with custom-designed Cas9-guide RNA complexes followed by sequencing with barcoded linked reads. To test this approach, we designed three assays, targeting the BRCA1 gene, the entire 4-Mb major histocompatibility complex locus and 18 well-characterized SVs, respectively. Using an integrated alignment- and assembly-based approach, we generated comprehensive variant diplotypes spanning the entirety of the targeted loci and characterized SVs with exact breakpoints. Our results were comparable in quality to long read sequencing."
+  ],
+  "affiliation": [
+    "Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkz661"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821272"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6821272?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "gca"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-28"
+  ],
+  "firstIndexDate": [
+    "2019-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

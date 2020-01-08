@@ -1,0 +1,389 @@
+{
+  "id": [
+    "31220251"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31220251"
+  ],
+  "pmcid": [
+    "PMC6586197"
+  ],
+  "doi": [
+    "10.1093/gigascience/giz075"
+  ],
+  "title": [
+    "Carbon-based archiving: current progress and future prospects of DNA-based data storage."
+  ],
+  "authorString": [
+    "Ping Z, Ma D, Huang X, Chen S, Liu L, Guo F, Zhu SJ, Shen Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ping Z"
+          ],
+          "firstName": [
+            "Zhi"
+          ],
+          "lastName": [
+            "Ping"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7114-1124",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma D"
+          ],
+          "firstName": [
+            "Dongzhao"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xiaoluo"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shihong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu L"
+          ],
+          "firstName": [
+            "Longying"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu SJ"
+          ],
+          "firstName": [
+            "Sha Joe"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Big Data Institute, University of Oxford, Li Ka Shing Centre for Health Information and Discovery, Old Road Campus, Oxford OX3 7LF, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen Y"
+          ],
+          "firstName": [
+            "Yue"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7114-1124",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2821072"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The information explosion has led to a rapid increase in the amount of data requiring physical storage. However, in the near future, existing storage methods (i.e., magnetic and optical media) will be insufficient to store these exponentially growing data. Therefore, data scientists are continually looking for better, more stable, and space-efficient alternatives to store these huge datasets. Because of its unique biological properties, highly condensed DNA has great potential to become a storage material for the future. Indeed, DNA-based data storage has recently emerged as a promising approach for long-term digital information storage. This review summarizes state-of-the-art methods, including digital-to-DNA coding schemes and the media types used in DNA-based data storage, and provides an overview of recent progress achieved in this field and its exciting future."
+  ],
+  "affiliation": [
+    "Guangdong Provincial Key Laboratory of Genome Read and Write, Shenzhen Engineering Laboratory for Innovative Molecular Diagnostics, Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, BGI-Shenzhen, Shenzhen 518083, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "In Vitro Dna Digital Storage",
+        "In Vivo Dna Digital Storage",
+        "Dna Digital Storage",
+        "Binary-dna Encoding Scheme"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giz075"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586197"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586197?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-27"
+  ],
+  "dateOfRevision": [
+    "2019-08-21"
+  ],
+  "firstPublicationDate": [
+    "2019-06-01"
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "id": [
+    "29132309"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29132309"
+  ],
+  "pmcid": [
+    "PMC5683454"
+  ],
+  "doi": [
+    "10.1186/s12864-017-4248-7"
+  ],
+  "title": [
+    "Significant differences in terms of codon usage bias between bacteriophage early and late genes: a comparative genomics analysis."
+  ],
+  "authorString": [
+    "Mioduser O, Goz E, Tuller T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mioduser O"
+          ],
+          "firstName": [
+            "Oriah"
+          ],
+          "lastName": [
+            "Mioduser"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Tel-Aviv University, Ramat Aviv, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Goz E"
+          ],
+          "firstName": [
+            "Eli"
+          ],
+          "lastName": [
+            "Goz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Tel-Aviv University, Ramat Aviv, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuller T"
+          ],
+          "firstName": [
+            "Tamir"
+          ],
+          "lastName": [
+            "Tuller"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4194-7068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Tel-Aviv University, Ramat Aviv, Israel. tamirtul@post.tau.ac.il."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4194-7068",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2614076"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "866"
+  ],
+  "abstractText": [
+    "BACKGROUND:Viruses undergo extensive evolutionary selection for efficient replication which effects, among others, their codon distribution. In the current study, we aimed at understanding the way evolution shapes the codon distribution in early vs. late viral genes in terms of their expression during different stages in the viral replication cycle. To this end we analyzed 14 bacteriophages and 11 human viruses with available information about the expression phases of their genes. RESULTS:We demonstrated evidence of selection for distinct composition of synonymous codons in early and late viral genes in 50% of the analyzed bacteriophages. Among others, this phenomenon may be related to the time specific adaptation of the viral genes to the translation efficiency factors involved at different bacteriophage developmental stages. Specifically, we showed that the differences in codon composition in different temporal gene groups cannot be explained only by phylogenetic proximities between the analyzed bacteriophages, and can be partially explained by differences in the adaptation to the host tRNA pool, nucleotide bias, GC content and more. In contrast, no difference in temporal regulation of synonymous codon usage was observed in human viruses, possibly because of a stronger selection pressure due to a larger effective population size in bacteriophages and their bacterial hosts. CONCLUSIONS:The codon distribution in large fractions of bacteriophage genomes tend to be different in early and late genes. This phenomenon seems to be related to various aspects of the viral life cycle, and to various intracellular processes. We believe that the reported results should contribute towards better understanding of viral evolution and may promote the development of relevant procedures in synthetic virology."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Tel-Aviv University, Ramat Aviv, Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "non"
+          ],
+          "agency": [
+            "Minerva ARCHES award"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "non"
+          ],
+          "agency": [
+            "The Edmond J. Safra Center for Bioinformatics at Tel-Aviv University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacteriophages"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Codon"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Viral"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Viral Life Cycle",
+        "Viral Evolution",
+        "Codon Usage Bias (Cub)",
+        "Coding Regions",
+        "Synthetic Virology",
+        "Bacteriophage Genome Evolution"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Codon"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-017-4248-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5683454"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5683454?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-19"
+  ],
+  "dateOfCreation": [
+    "2017-11-15"
+  ],
+  "firstIndexDate": [
+    "2017-11-15"
+  ],
+  "fullTextReceivedDate": [
+    "2017-11-22"
+  ],
+  "dateOfRevision": [
+    "2019-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-13"
+  ],
+  "firstPublicationDate": [
+    "2017-11-13"
+  ]
+}

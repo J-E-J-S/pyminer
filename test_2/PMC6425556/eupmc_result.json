@@ -1,0 +1,521 @@
+{
+  "id": [
+    "30894153"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30894153"
+  ],
+  "pmcid": [
+    "PMC6425556"
+  ],
+  "doi": [
+    "10.1186/s12896-019-0509-7"
+  ],
+  "title": [
+    "Design of a generic CRISPR-Cas9 approach using the same sgRNA to perform gene editing at distinct loci."
+  ],
+  "authorString": [
+    "Najah S, Saulnier C, Pernodet JL, Bury-Moné S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Najah S"
+          ],
+          "firstName": [
+            "Soumaya"
+          ],
+          "lastName": [
+            "Najah"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Université Paris-Sud, Université Paris-Saclay, Gif-Sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Saulnier C"
+          ],
+          "firstName": [
+            "Corinne"
+          ],
+          "lastName": [
+            "Saulnier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Université Paris-Sud, Université Paris-Saclay, Gif-Sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pernodet JL"
+          ],
+          "firstName": [
+            "Jean-Luc"
+          ],
+          "lastName": [
+            "Pernodet"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Université Paris-Sud, Université Paris-Saclay, Gif-Sur-Yvette, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bury-Moné S"
+          ],
+          "firstName": [
+            "Stéphanie"
+          ],
+          "lastName": [
+            "Bury-Moné"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2535-2208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Université Paris-Sud, Université Paris-Saclay, Gif-Sur-Yvette, France. stephanie.bury-mone@i2bc.paris-saclay.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2535-2208",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2791991"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biotechnol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biotechnol"
+          ],
+          "NLMid": [
+            "101088663"
+          ],
+          "ISSN": [
+            "1472-6750"
+          ],
+          "ESSN": [
+            "1472-6750"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "BACKGROUND:The CRISPR/Cas (clustered regularly interspaced short palindromic repeat and CRISPR-associated nucleases) based technologies have revolutionized genome engineering. While their use for prokaryotic genome editing is expanding, some limitations remain such as possible off-target effects and design constraints. These are compounded when performing systematic genome editing at distinct loci or when targeting repeated sequences (e.g. multicopy genes or mobile genetic elements). To overcome these limitations, we designed an approach using the same sgRNA and CRISPR-Cas9 system to independently perform gene editing at different loci. RESULTS:We developed a two-step procedure based on the introduction by homologous recombination of 'bait' DNA at the vicinity of a gene copy of interest before inducing CRISPR-Cas9 activity. The introduction of a genetic tool encoding a CRISPR-Cas9 complex targeting this 'bait' DNA induces a double strand break near the copy of interest. Its repair by homologous recombination can lead either to reversion or gene copy-specific editing. The relative frequencies of these events are linked to the impact of gene editing on cell fitness. In our study, we used this technology to successfully delete the native copies of two xenogeneic silencers lsr2 paralogs in Streptomyces ambofaciens. We observed that one of these paralogs is a candidate-essential gene since its native locus can be deleted only in the presence of an extra copy. CONCLUSION:By targeting 'bait' DNA, we designed a 'generic' CRISPR-Cas9 toolkit that can be used to edit different loci. The differential action of this CRISPR-Cas9 system is exclusively based on the specific recombination between regions surrounding the gene copy of interest. This approach is suitable to edit multicopy genes. One such particular example corresponds to the mutagenesis of candidate-essential genes that requires the presence of an extra copy of the gene before gene disruption. This opens new insights to explore gene essentiality in bacteria and to limit off-target effects during systematic CRISPR-Cas9 based approaches."
+  ],
+  "affiliation": [
+    "Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Université Paris-Sud, Université Paris-Saclay, Gif-Sur-Yvette, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Streptomyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Guide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Homologous Recombination"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Streptomyces",
+        "Foreign DNA",
+        "Essential Gene",
+        "Crispr-cas9",
+        "Nucleoid-associated Proteins",
+        "Lsr2",
+        "Bait Dna",
+        "Generic Tool",
+        "Multicopy Gene",
+        "Xenogeneic Silencers"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA"
+          ],
+          "registryNumber": [
+            "9007-49-2"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Guide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425556?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425556"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12896-019-0509-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-30"
+  ],
+  "dateOfCreation": [
+    "2019-03-22"
+  ],
+  "firstIndexDate": [
+    "2019-03-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

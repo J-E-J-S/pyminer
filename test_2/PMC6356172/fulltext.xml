@@ -1,0 +1,693 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">FEBS Open Bio</journal-id><journal-id journal-id-type="iso-abbrev">FEBS Open Bio</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2211-5463</journal-id><journal-id journal-id-type="publisher-id">FEB4</journal-id><journal-title-group><journal-title>FEBS Open Bio</journal-title></journal-title-group><issn pub-type="epub">2211-5463</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6356172</article-id><article-id pub-id-type="doi">10.1002/2211-5463.12564</article-id><article-id pub-id-type="publisher-id">FEB412564</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Plasmodium palmitoylation machinery engineered in <italic>E.&#x000a0;coli</italic> for high&#x02010;throughput screening of palmitoyl acyl&#x02010;transferase inhibitors</article-title><alt-title alt-title-type="left-running-head">P. Yadav <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="feb412564-cr-0001" contrib-type="author"><name><surname>Yadav</surname><given-names>Preeti</given-names></name><xref ref-type="aff" rid="feb412564-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412564-cr-0002" contrib-type="author"><name><surname>Ayana</surname><given-names>R</given-names></name><xref ref-type="aff" rid="feb412564-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412564-cr-0003" contrib-type="author"><name><surname>Garg</surname><given-names>Swati</given-names></name><xref ref-type="aff" rid="feb412564-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412564-cr-0004" contrib-type="author"><name><surname>Jain</surname><given-names>Ravi</given-names></name><xref ref-type="aff" rid="feb412564-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412564-cr-0005" contrib-type="author"><name><surname>Sah</surname><given-names>Raj</given-names></name><xref ref-type="aff" rid="feb412564-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="feb412564-cr-0006" contrib-type="author"><name><surname>Joshi</surname><given-names>Nishant</given-names></name><xref ref-type="aff" rid="feb412564-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412564-cr-0007" contrib-type="author"><name><surname>Pati</surname><given-names>Soumya</given-names></name><xref ref-type="aff" rid="feb412564-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="feb412564-cr-0008" contrib-type="author" corresp="yes"><name><surname>Singh</surname><given-names>Shailja</given-names></name><address><email>shailjasingh@mail.jnu.ac.in</email><email>shailja.jnu@gmail.com</email></address><xref ref-type="aff" rid="feb412564-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="feb412564-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Special Centre for Molecular Medicine</named-content>
+<institution>Jawaharlal Nehru University</institution>
+<named-content content-type="city">New Delhi</named-content>
+<country country="IN">India</country>
+</aff><aff id="feb412564-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Life Sciences</named-content>
+<named-content content-type="organisation-division">School of Natural Sciences</named-content>
+<institution>Shiv Nadar University</institution>
+<named-content content-type="city">Greater Noida, Uttar Pradesh</named-content>
+<country country="IN">India</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+S.&#x000a0;Singh, Special Centre for Molecular Medicine, Jawaharlal Nehru University, New Delhi 110067, India<break/>
+Tel: +91 11 26704559 Ext&#x02010;2674<break/>
+E&#x02010;mails: <email>shailjasingh@mail.jnu.ac.in</email>, <email>shailja.jnu@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2019</year></pub-date><volume>9</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/feb4.2019.9.issue-2</issue-id><fpage>248</fpage><lpage>264</lpage><history><date date-type="received"><day>11</day><month>8</month><year>2018</year></date><date date-type="rev-recd"><day>21</day><month>10</month><year>2018</year></date><date date-type="accepted"><day>19</day><month>11</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Federation of European Biochemical Societies <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by FEBS Press and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:FEB4-9-248.pdf"/><abstract id="feb412564-abs-0001"><p>Lipid&#x02010;based palmitoylation is a post&#x02010;translation modification (<styled-content style="fixed-case">PTM</styled-content>) which acts as a biological rheostat in life cycle progression of a deadly human malaria parasite, <italic>Plasmodium&#x000a0;falciparum</italic>. <italic>P.&#x000a0;falciparum</italic> palmitoylation is catalyzed by 12 putative palmitoyl acyl&#x02010;transferase enzymes containing the conserved <styled-content style="fixed-case">DHHC</styled-content>&#x02010;<styled-content style="fixed-case">CRD</styled-content> (<styled-content style="fixed-case">DHHC</styled-content> motif within a cysteine&#x02010;rich domain) which can serve as a druggable target. However, the paucity of high&#x02010;throughput assays has impeded the design of drugs targeting palmitoylation. We have developed a novel strategy which involves engineering of <italic>Escherichia&#x000a0;coli</italic>, a <styled-content style="fixed-case">PTM</styled-content>&#x02010;null system, to enforce ectopic expression of palmitoyl acyl&#x02010;transferase in order to study <italic>Plasmodium</italic>&#x02010;specific palmitoylation and screening of inhibitors. In this study, we have developed three synthetic <italic>E.&#x000a0;coli</italic> strains expressing <italic>Plasmodium</italic>&#x02010;specific <styled-content style="fixed-case">DHHC</styled-content> proteins (Pf<styled-content style="fixed-case">DHHC</styled-content>7/8/9). These cells were used for validating acyl&#x02010;transferase activity via acyl&#x02010;biotin exchange (<styled-content style="fixed-case">ABE</styled-content>) and clickable chemistry methods. <italic>E.&#x000a0;coli</italic> proteome was found to be palmitoylated in Pf<styled-content style="fixed-case">DHHC</styled-content>&#x02010;expressing clones, suggesting that plasmodium <styled-content style="fixed-case">DHHC</styled-content> can catalyze palmitoylation of <italic>E.&#x000a0;coli</italic> proteins. Upon treatment with generic inhibitor 2&#x02010;bromopalmitate (2&#x02010;<styled-content style="fixed-case">BMP</styled-content>), a predominant reduction in palmitic acid incorporation is detected. Overall, these findings suggest that synthetic <italic>E.&#x000a0;coli</italic> strains expressing Pf<styled-content style="fixed-case">DHHC</styled-content>s can enforce global palmitoylation in the <italic>E.&#x000a0;coli</italic> proteome. Interestingly, this finding was corroborated by our <italic>in&#x000a0;silico</italic> palmitoylome profiling, which revealed that out of the total <italic>E.&#x000a0;coli</italic> proteome, 108 proteins were predicted to be palmitoylated as represented by the presence of three cysteine consensus motifs (cluster type I, <styled-content style="fixed-case">II</styled-content>,<styled-content style="fixed-case"> III</styled-content>). In summary, our study reports a proof of concept for screening of chemotherapeutics targeting the palmitoylation machinery using a high&#x02010;throughput screening platform.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="feb412564-kwd-0001">acyl&#x02010;biotin exchange</kwd><kwd id="feb412564-kwd-0002">click chemistry</kwd><kwd id="feb412564-kwd-0003">drug screening</kwd><kwd id="feb412564-kwd-0004"><italic>E.&#x000a0;coli</italic></kwd><kwd id="feb412564-kwd-0005">palmitoylation</kwd><kwd id="feb412564-kwd-0006">Pf<styled-content style="fixed-case">DHHC</styled-content>s</kwd></kwd-group><funding-group><award-group><funding-source>Department of Science and Technology (DST), Government of India</funding-source><award-id>EMR/2015/000843</award-id></award-group><award-group><funding-source>Shiv Nadar foundation</funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="17"/><word-count count="6769"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>feb412564</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.5.8 mode:remove_FC converted:01.02.2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations" id="feb412564-dl-0001"><title>Abbreviations</title><def-item><term>2&#x02010;BMP</term><def><p>2&#x02010;Bromo palmitate</p></def></def-item><def-item><term>ABE</term><def><p>acyl&#x02010;biotin exchange</p></def></def-item><def-item><term>DHHC domain</term><def><p>Asp&#x02010;His&#x02010;His&#x02010;Cys domain</p></def></def-item><def-item><term>GST</term><def><p>Glutathione&#x02010;S&#x02010;transferase</p></def></def-item><def-item><term>IPTG</term><def><p>Isopropyl &#x003b2;&#x02010;D&#x02010;1&#x02010;thiogalactopyranoside</p></def></def-item><def-item><term>MSA</term><def><p>multiple sequence alignment</p></def></def-item><def-item><term>ODYA</term><def><p>Octadecynoic Acid</p></def></def-item><def-item><term>OGA</term><def><p>Oregon green azide</p></def></def-item><def-item><term>PATs</term><def><p>palmitoyl acyl&#x02010;transferases</p></def></def-item><def-item><term>PfDHHC</term><def><p>
+<italic>Plasmodium&#x000a0;falciparum</italic> DHHC or palmitoyl acyl&#x02010;transferase enzyme</p></def></def-item><def-item><term>PTMs</term><def><p>post&#x02010;translational modifications</p></def></def-item><def-item><term>TCEP</term><def><p>Tris(2&#x02010;carboxy&#x02010;ethyl) phosphine</p></def></def-item></def-list><sec sec-type="opening-section" id="feb412564-sec-0002"><p>Post&#x02010;translational modifications (PTMs) play a crucial role in the biology of any cell by increasing the functional diversity of the proteome <xref rid="feb412564-bib-0001" ref-type="ref">1</xref>, <xref rid="feb412564-bib-0002" ref-type="ref">2</xref>. Such modifications can change the property of any protein according to the developmental stages and physiological conditions. These include covalent addition or removal of low&#x02010;molecular&#x02010;weight groups such as acetylation, amidation, biotinylation, glycosylation, myristoylation, palmitoylation, and phosphorylation. Among these, palmitoylation involves thioesterification of C&#x02010;16 fatty acyl moieties at specific cysteines and is known to act as a biological rheostat for cellular homeostasis, subcellular trafficking and protein&#x02013;protein interactions <xref rid="feb412564-bib-0003" ref-type="ref">3</xref>. This process is reversible and catalyzed by palmitoyl acyl&#x02010;transferases (PATs or termed as DHHCs), which contains the canonical Asp&#x02010;His&#x02010;His&#x02010;Cys (DHHC) domain.</p><p>Recent advances suggest PATs can be putative drug targets for parasitic diseases such <italic>Leishmaniasis</italic> and <italic>Toxoplasmosis</italic>
+<xref rid="feb412564-bib-0004" ref-type="ref">4</xref>, <xref rid="feb412564-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412564-bib-0006" ref-type="ref">6</xref>. However, among these protozoan parasitic diseases, malaria still remains to be the leading cause of death in tropical areas and increasing global incidence. Even though several established drugs are in clinical use for malaria treatment, there is an obstacle in therapy due to drug resistance.</p><p>
+<italic>Plasmodium&#x000a0;falciparum</italic>, an intracellular parasite belonging to phylum Apicomplexa, is responsible for the most severe form of malaria. Its ultrastructure comprises of a pellicle containing the plasma membrane and inner membrane complex (IMC). IMC is responsible for the gliding motility or locomotion of the parasite necessary for host cell invasion. Many proteins of IMC undergo several PTMs such as palmitoylation to regulate crucial biological processes including motility, localization, and stage&#x02010;specific activity. In case of <italic>Plasmodium&#x000a0;falciparum</italic>, the causative agent of malaria approximately 10% of the proteins has been identified to be palmitoylated in the schizont (infective) stage exclusively <xref rid="feb412564-bib-0007" ref-type="ref">7</xref>. This percentage might vary based on the data collation from other developmental stages of the parasite. Recent studies have shown that palmitoylation and DHHC enzymes can play crucial roles in both the intra&#x02010;erythrocytic and gametocytic stages <xref rid="feb412564-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412564-bib-0008" ref-type="ref">8</xref>. The parasite encodes for 12 DHHC (PfDHHC) proteins that are localized to different membrane compartments and facilitates transfer of palmitate group to target proteins. Based on the proteomics data from PlasmoDB and existing literature, it is evident that PfDHHC7 and PfDHHC9 have been characterized in the schizont stages <xref rid="feb412564-bib-0005" ref-type="ref">5</xref>, <xref rid="feb412564-bib-0008" ref-type="ref">8</xref>. While PfDHHC9 has been detected in the schizont stage and has implications in gametocytogenesis, PfDHHC7 has been found to be localized to the rhoptry organelles. However, schizont stage protein PfDHHC8 is yet to be fully characterized. Based on this, we have characterized PfDHHC7/8/9 and specifically emphasized on PfDHHC8 expression as a proof of concept for designing an assay system capable of screening novel small molecules against malaria.</p><p>Previous methods to quantify and detect palmitoylation are not foolproof. The most frequently used protein palmitoylation assays involve the metabolic labeling of cultured cells with radioactive forms of palmitate, such as [3&#x02010;H] palmitate which could detect dynamic palmitoylation/depalmitoylation of full&#x02010;length proteins based on pulse&#x02010;chase analyses <xref rid="feb412564-bib-0009" ref-type="ref">9</xref>. Due to handling of radioactivity involved in multiple steps, this method became obsolete. Another method known as acyl&#x02010;biotin exchange (ABE) is used to purify the palmitoylome and involves removal of lipid moiety from proteins following treatment with hydroxylamine. This shifts the mass of the depalmitoylated peptide thus, making it easy to detect palmitoylation <xref rid="feb412564-bib-0010" ref-type="ref">10</xref>. However, due to the tedious nature of the protocol, it is unfavorable for screening large compound libraries. An alternate method to study protein palmitoylation is fatty acyl exchange chemistry, wherein a fatty acid group on the palmitoylation site is exchanged for a more readily detectable label such as thiol&#x02010;specific reagents <xref rid="feb412564-bib-0011" ref-type="ref">11</xref>, <xref rid="feb412564-bib-0012" ref-type="ref">12</xref>. Due to its low&#x02010;throughput nature, it is not favorable for drug discovery assays. Another technique termed as <italic>in&#x000a0;vitro</italic> palmitoylation employs fluorescently labeled lipopeptides to the samples containing the enzyme source, and the reaction is initiated by the addition of unlabeled palmitoyl&#x02010;CoA. Although this assay is much faster than other palmitoylation assays, the use of high&#x02010;performance liquid chromatography (HPLC) for detection makes it less throughput for drug screening.</p><p>Toward this, we thought to innovate a simple, affordable, and high&#x02010;throughput DHHC enzyme&#x02010;specific platform which can revolutionize screening antiparasitic drugs. Since the prokaryotic cells inherently lack the palmitoylation machinery, we designed synthetic <italic>Escherichia&#x000a0;coli</italic> expressing PfDHHC7/8/9 to study their activity <italic>ex&#x000a0;vivo</italic>, mimicking the <italic>Plasmodium</italic>&#x02010;specific palmitoylation machinery. Interestingly, the <italic>E.&#x000a0;coli</italic> proteome demonstrated differential palmitoylation, as evident by both click chemistry and ABE&#x02010;based studies. We could further demonstrate that acyl&#x02010;transferase activity of PfDHHC8 is very specific and sensitive to 2&#x02010;Bromo palmitate (2&#x02010;BMP), a known inhibitor of palmitoylation. Further <italic>in&#x000a0;silico</italic> analysis of <italic>E.&#x000a0;coli</italic> proteome revealed cysteine specific palmitoylation sites in 108 proteins predicted to be palmitoylated. Overall, this study represents a novel high&#x02010;throughput platform for screening DHHCs of any organism (here we have shown <italic>P.&#x000a0;falciparum</italic>) or novel palmitoylation inhibitors using a relatively PTM&#x02010;null engineered bacterial system.</p></sec><sec id="feb412564-sec-0003"><title>Methods</title><sec id="feb412564-sec-0004"><title>Sequence analysis of PfDHHCs</title><p>Using various databases like the PlasmoDB, PiroplasmaDB, and UniProt, we extracted DHHC sequences of different organisms including <italic>Plasmodium&#x000a0;falciparum</italic>,<italic> Plasmodium&#x000a0;berghei Toxoplasma&#x000a0;gondii</italic>,<italic> Babesia&#x000a0;bovis</italic>,<italic> Theileria&#x000a0;parva</italic>,<italic> Cryptosporidium&#x000a0;muris,</italic> and <italic>Eimeria&#x000a0;tenella</italic>. This data exploration was done using different apicomplexan&#x02010;specific databases including plasmodium genomics resource database (PlasmoDB) <xref rid="feb412564-bib-0013" ref-type="ref">13</xref>, toxoplasma genomics resource database (ToxoDB) <xref rid="feb412564-bib-0014" ref-type="ref">14</xref>, piroplasma genomics resource database (PiroplasmaDB) <xref rid="feb412564-bib-0015" ref-type="ref">15</xref>, and UniProt <xref rid="feb412564-bib-0016" ref-type="ref">16</xref> for fetching other organism&#x02010;specific protein sequences. Using PlasmoDB, putative DHHC gene sequences in <italic>P.&#x000a0;falciparum</italic> (PfDHHC) were annotated based on conserved domain architecture. The domain architecture of protein sequences was assessed via SMART&#x02010;Batch and INTERPRO online servers <xref rid="feb412564-bib-0017" ref-type="ref">17</xref>, <xref rid="feb412564-bib-0018" ref-type="ref">18</xref>. We performed multiple sequence alignment (MSA) of the 12 annotated PfDHHCs using MUSCLE algorithm (implemented in <sc>jalview</sc> software, Elixir&#x02010;UK, <ext-link ext-link-type="uri" xlink:href="https://elixir-europe.org">https://elixir-europe.org</ext-link>) <xref rid="feb412564-bib-0019" ref-type="ref">19</xref>. These 12 PfDHHCs along with PAT sequences from six other organisms namely closer members <italic>P.&#x000a0;berghei</italic> and <italic>T.&#x000a0;gondii</italic>, and distant members of Apicomplexa namely <italic>B.&#x000a0;bovis</italic>,<italic> T.&#x000a0;parva</italic>,<italic> C.&#x000a0;muris,</italic> and <italic>E.&#x000a0;tenella</italic> were further used to construct a neighbor&#x02010;joining (NJ) tree. The bootstrap consensus tree inferred from 500 replicates finally represented the evolutionary history of the taxa analyzed using <sc>mega7</sc> software (Pennsylvania State University, University Park, PA, USA) <xref rid="feb412564-bib-0020" ref-type="ref">20</xref>. The evolutionary distances were computed using the Dayhoff matrix based method and are in the units of the number of amino acid substitutions per site.</p></sec><sec id="feb412564-sec-0005"><title>Docking studies of PfDHHCs</title><p>The sequences of 12 PfDHHCs were obtained from PlasmoDB and their structural models were constructed using the I&#x02010;TASSER web server using template as HsDHHC20 (PDB code: <ext-link ext-link-type="pdb" xlink:href="2BML">2BML</ext-link>) <xref rid="feb412564-bib-0021" ref-type="ref">21</xref>. Using <sc>modrefiner</sc> software (University of Michigan, Ann Arbor, MI, USA), the structures were further refined for docking with substrate palmitic acid (PA) and a known inhibitor of palmitoylation, 2&#x02010;BMP <xref rid="feb412564-bib-0022" ref-type="ref">22</xref>. Quality validation of the resultant models was done with RAMPAGE. The theoretical models were visualized with <sc>pymol</sc> Molecular Graphics System (Schr&#x000f6;dinger, LLC, New York, NY, USA), version 1.7.4 <xref rid="feb412564-bib-0023" ref-type="ref">23</xref>. Chemical structure of 2&#x02010;BMP was downloaded from PubChem database in SDF format, converted to standard PDB format and energy minimized using Chem3D Pro 12.0. Molecular docking was performed by using AutoDock Vina <xref rid="feb412564-bib-0024" ref-type="ref">24</xref> to rationalize the activity of PA and 2&#x02010;BMP against all 12 PfDHHCs. As per the already established 2&#x02010;BMP binding pocket in&#x000a0;PfDHHC homologue,&#x000a0;HsDHHC20 (PDB ID: <ext-link ext-link-type="pdb" xlink:href="6BML">6BML</ext-link>), we ensured that the active site residues were covered while constructing the virtual grid for docking. Incorporating the predicted ligand binding groove,&#x000a0;a virtual 3D grid of mean (20&#x000a0;&#x000c5;)&#x000a0;&#x000d7;&#x000a0;mean (20&#x000a0;&#x000c5;)&#x000a0;&#x000d7;&#x000a0;mean (20&#x000a0;&#x000c5;)&#x000a0;with varying <italic>x</italic>,<italic> y</italic>,<italic> z</italic> coordinates of the center of energy was constructed for individual PfDHHCs through the Autogrid module of AutoDock Tools <xref rid="feb412564-bib-0024" ref-type="ref">24</xref>. We performed molecular docking studies using AutoDock Vina with compounds to rationalize its activity <xref rid="feb412564-bib-0025" ref-type="ref">25</xref>. The top&#x02010;ranked conformations of compound&#x000a0;within the protein catalytic pocket were selected based on the lowest free binding energies. The stable conformations were visualized for polar contacts like hydrogen bonds. Top scoring docked conformations of the scaffold were selected based on the most negative free binding energies and visualized for polar contacts with the amino acid residues of PfDHHC1&#x02010;12 by using <sc>pymol</sc> Molecular Graphics System <xref rid="feb412564-bib-0023" ref-type="ref">23</xref>.</p></sec><sec id="feb412564-sec-0006"><title>Culture of <italic>E.&#x000a0;coli</italic> strain</title><p>
+<italic>Escherichia&#x000a0;coli</italic> strain C43 was used, and the primary culture was done at 37&#x000a0;&#x000b0;C, 16&#x000a0;h in LB (Himedia, Mumbai, India) media. Secondary culture was done in Terrific Broth (Sigma, Ronkonkoma, NY, USA) containing 50&#x000a0;&#x003bc;<sc>m</sc> ZnCl<sub>2</sub> (Sigma). Induction was given by 1&#x000a0;m<sc>m</sc> Isopropyl &#x003b2;&#x02010;D&#x02010;1&#x02010;thiogalactopyranoside (IPTG) (SRL) at 16&#x000a0;&#x000b0;C for 22&#x000a0;h. Octadecynoic acid (ODYA)&#x02010;palmitic acid (Cayman Chemicals, Ann Arbor, MI, USA) was added during induction in both uninduced and induced samples. In the inhibitor&#x02010;treated sample, 2&#x02010;BMP (Sigma) was added at the time of induction.</p></sec><sec id="feb412564-sec-0007"><title>Click chemistry</title><p>Palmitoylation was examined by labeling with Click Tag&#x02122; Palmitic Acid Alkyne, a 16&#x02010;carbon saturated fatty acid group combined with a specific azide dye&#x02010;Oregon Green&#x000ae; 488 (Invitrogen, Carlsbad, CA, USA) dye as described in our recently published article <xref rid="feb412564-bib-0006" ref-type="ref">6</xref>. Briefly, palmitic acid (Alk&#x02010;C16, Cayman Chemicals) was dissolved in DMSO to achieve final stock concentration of 50&#x000a0;m<sc>m</sc>. Bacteria were washed twice with cold PBS, fixed with chilled methanol for 5&#x000a0;min, and further permeabilized using 0.01% Triton X&#x02010;100 (Sigma) in water at RT for 5&#x000a0;min. These processed bacterial samples were subjected to a click labeling reaction in 100&#x000a0;&#x003bc;L of dye mix containing 0.1&#x000a0;m<sc>m</sc> azide dye (Oregon Green 488&#x02010;azide, Thermo Scientific, Waltham, MA, USA), 1&#x000a0;m<sc>m</sc> Tris&#x02010;(2&#x02010;carboxyethyl)&#x02010;phosphine hydrochloride (TCEP&#x02010;Sigma), and 1&#x000a0;m<sc>m</sc> CuSO<sub>4</sub> (Sigma) in PBS for 1&#x000a0;h. After incubation, bacteria were pelleted down and washed twice by 1X PBS. For microscopy, a smear was made which was mounted in antifade mounting solution. Images were acquired by fluorescence microscope (Zeiss, Oberkochen, Germany). Samples were also examined by flow cytometry (FACS&#x02010;BD LSR II Fortessa) by resuspending the final pellet in 1X PBS (200&#x000a0;&#x003bc;L). Analysis was done by <sc>flowjo</sc> software (FlowJo LLC, Ashland, OR, USA). Fluorometric estimation (100&#x000a0;&#x003bc;L sample in 1X PBS) using fluorimeter (Varioskan, Biotek Instruments, Winooski, VT, USA) was also done after normalization of O.D. at 600&#x000a0;nm.</p></sec><sec id="feb412564-sec-0008"><title>
+<italic>E.&#x000a0;coli</italic> palmitoylome purification using acyl&#x02010;biotin exchange method</title><p>Acyl&#x02010;biotin exchange purification of whole bacterial lysate was carried out using the established method as published by Wan and colleagues, with the following modifications <xref rid="feb412564-bib-0026" ref-type="ref">26</xref>. Bacteria were resuspended in 400&#x000a0;&#x003bc;L of lysis buffer containing 10&#x000a0;m<sc>m</sc> NEM. The rest of the procedure was performed as described <xref rid="feb412564-bib-0006" ref-type="ref">6</xref>, <xref rid="feb412564-bib-0026" ref-type="ref">26</xref>. Samples were run on 12% SDS gel, and bands were visualized by silver staining.</p></sec><sec id="feb412564-sec-0009"><title>PfDHHC7/8/9 specific cloning and expression</title><p>PfDHHC7 gene's 360&#x02010;bp domain was PCR&#x02010;amplified using primers: Fwd 5&#x02032;&#x02010;CGCGGATCCTTGAAGAGAGGAATTATTGAG &#x02010;3&#x02032; and Rev 5&#x02032;GTGCGTCGACTATTGAACAGTATATTAAAGATAACA &#x02010;3&#x02032;. Whole length of 942&#x02010;bp PfDHHC8 gene was truncated from N and C terminal by 26 and 25 nucleotides, respectively, resulting in a 789&#x02010;bp region. This was PCR&#x02010;amplified using primers: Fwd 5&#x02032;&#x02010;CGCGGATCCTGTAAAGGAAATATCATAACAGGGCCT&#x02010;3&#x02032; and Rev 5&#x02032;ATGCGTCGACTTACCATTCGACTTGGATTTTATCCACGG&#x02010;3&#x02032;. 882&#x02010;bp&#x02010;long PfDHHC9 was PCR&#x02010;amplified using following primers: Fwd 5&#x02032;&#x02010;CGCGGATCCATGAATAATTATTTGGCATTTATC&#x02010;3&#x02032; and Rev 5&#x02032;&#x02010;5&#x02032;ATGCGTCGACTTAATCTCCATCTTCCTTTATG&#x02010;3&#x02032;. These genes were cloned into pGEX&#x02010;4T&#x02010;1 vector (GE Healthcare, Chicago, IL, USA) at Bam&#x02010;HI and Sal&#x02010;I sites and expressed in <italic>E.&#x000a0;coli</italic> C43 cells. The resultant clones were labeled as PfDHHC8 and PfDHHC9, respectively. Transformed C43 cells were induced for expression of recombinant proteins tagged with Glutathione&#x02010;S&#x02010;transferase (GST) using 1&#x000a0;m<sc>m</sc> IPTG at 16&#x000a0;&#x000b0;C for 22&#x000a0;h. Supernatant and pellet were separated. Protein was obtained in the supernatant fraction.</p></sec><sec id="feb412564-sec-0010"><title>Immunoblotting</title><p>Supernatant was loaded onto polyacrylamide gel (12%), and western blotting was done using an anti&#x02010;GST antibody according to a standard protocol.</p></sec><sec id="feb412564-sec-0011"><title>
+<italic>In&#x000a0;vitro</italic> culture of <italic>P.&#x000a0;falciparum</italic>
+</title><p>Frozen stocks of <italic>P.&#x000a0;falciparum</italic> 3D7 strain were thawed and cultured using a modified method from Garg <italic>et&#x000a0;al</italic>. <xref rid="feb412564-bib-0027" ref-type="ref">27</xref>, <xref rid="feb412564-bib-0028" ref-type="ref">28</xref>. Parasites were maintained in complete RPMI (RPMI 1640, Invitrogen), supplemented with 50&#x000a0;mg&#x000b7;L<sup>&#x02212;1</sup> hypoxanthine (Sigma), 5&#x000a0;gm&#x000b7;L<sup>&#x02212;1</sup> Albumax I (Gibco, Invitrogen, Waltham, MA, USA), and 2&#x000a0;gm&#x000b7;L<sup>&#x02212;1</sup> sodium bicarbonate (Sigma) and O+ human erythrocytes, under mixed gas conditions (5% O<sub>2</sub>, 5% CO<sub>2,</sub> and 90% N<sub>2</sub>) at 37&#x000a0;&#x000b0;C.</p></sec><sec id="feb412564-sec-0012"><title>Growth inhibition assay in <italic>P.&#x000a0;falciparum</italic> using 2&#x02010;bromopalmitate</title><p>To assess the effect of 2&#x02010;BMP on growth rate of parasite, synchronized parasite culture at trophozoite stage was treated with increasing concentration of 2&#x02010;BMP (25&#x02013;200&#x000a0;&#x003bc;<sc>m</sc>) and allowed to grow over one cycle, that is, 48&#x000a0;h. After one cycle, the parasite was freeze&#x02010;thawed and processed for SYBR green staining. Briefly, equal volume of lysis buffer containing Tris (20&#x000a0;m<sc>m</sc>; pH 7.5), EDTA (5&#x000a0;m<sc>m</sc>), saponin (0.008%; W/V), and Triton X&#x02010;100 (0.08%; V/V) is added to parasite culture. 1X SYBR green dye (Invitrogen) was added to the parasite and incubated for 3&#x000a0;h at 37&#x000a0;&#x000b0;C. The plate was read by fluorimetry at excitation and emission wavelength of 485 and 530&#x000a0;nm, respectively. Percent growth inhibition was calculated using the following formula: <disp-formula id="feb412564-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mo>%</mml:mo><mml:mtext>Growth Inhibition</mml:mtext><mml:mo>=</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mtext>Control&#x02010;treated</mml:mtext><mml:mo stretchy="false">)</mml:mo><mml:mo stretchy="false">/</mml:mo><mml:mtext>Control</mml:mtext><mml:mrow/><mml:mo>&#x02217;</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:math></disp-formula>
+</p></sec><sec id="feb412564-sec-0013"><title>Colony&#x02010;forming unit assay</title><p>
+<italic>Escherichia&#x000a0;coli</italic> C43 strain containing the PfDHHC8 was cultured according to the conditions mentioned previously. Induction was done using 1&#x000a0;m<sc>m</sc> IPTG. After every 2&#x000a0;h, serial dilutions were made from uninduced, induced, and inhibitor&#x02010;treated sets. Only three dilutions were used for plating on the LB plates containing Ampicillin. For plating, 5&#x000a0;&#x003bc;L of culture was used.</p></sec><sec id="feb412564-sec-0014"><title>Prediction of global palmitoylome of <italic>Escherichia&#x000a0;coli</italic>
+</title><p>We used the <italic>E.&#x000a0;coli</italic> proteomics dataset deposited under Proteomics module of UniProt database <xref rid="feb412564-bib-0016" ref-type="ref">16</xref>. The total proteome was scanned for potential palmitoylation sites using a <sc>group&#x02010;based prediction system software</sc> (<sc>gps&#x02010;lipid 1.0</sc>, OmicX, Seine Innopolis, Le&#x02010;Petit&#x02010;Quevilly, France) <xref rid="feb412564-bib-0029" ref-type="ref">29</xref>. This updated stand&#x02010;alone software is based on integration of the particle swarm optimization with an aging leader and challengers (ALC&#x02010;PSO) algorithm <xref rid="feb412564-bib-0029" ref-type="ref">29</xref> which is optimized specifically for the prediction of four classes of lipid modifications namely, S&#x02010;palmitoylation, N&#x02010;myristoylation, farnesylation, and geranylgeranylation. Using a medium threshold cutoff for the palmitoylation predictor module of the software, we could correctly predict five sites as a positive score in individual proteins. To characterize the resultant palmitoylome, firstly we assessed the type of palmitoylation site in individual proteins and dissected them into three types of site clusters as described in the earlier published work from our laboratory <xref rid="feb412564-bib-0006" ref-type="ref">6</xref>. Furthermore, we analyzed the frequency of proteins having higher level of palmitoylation to predict the global palmitoylome of <italic>E.&#x000a0;coli</italic>.</p></sec><sec id="feb412564-sec-0015"><title>Gene ontology (GO) and cellular localization analysis</title><p>Gene ontology analysis of all 108 palmitoylated proteins was performed using the UniProt GO server <xref rid="feb412564-bib-0016" ref-type="ref">16</xref>. We looked for enriched biological processes and predicted the molecular function and cellular component. We further looked at the distribution of palmitoylated proteins in individual compartments of the <italic>E.&#x000a0;coli</italic> to ascertain their functional significance.</p></sec><sec id="feb412564-sec-0016"><title>Identification of potential molecular targets and Protein&#x02013;protein network analysis</title><p>Using STRING database, we searched for interacting protein partners to the highly palmitoylated proteins (&#x0003e;&#x000a0;1 palmitoylation site&#x000a0;=&#x000a0;108) <xref rid="feb412564-bib-0030" ref-type="ref">30</xref>. A stringent cutoff of 0.7 for interaction score was considered for building the primary protein&#x02013;protein interaction (PPI) network without clustering and no more than 10 primary interactor proteins. This combined confidence score was calculated on the basis of various parameters including phylogenetic co&#x02010;occurrence, gene fusion, homology, co&#x02010;expression, experimentally determined interaction, and neighborhood on any chromosome which is displayed by the line thickness of edge. Overall, this yielded a strongly enriched PPI network associated with various critical pathways in <italic>E.&#x000a0;coli</italic>.</p></sec></sec><sec id="feb412564-sec-0017"><title>Results</title><sec id="feb412564-sec-0018"><title>PfDHHC proteins exhibit organism&#x02010;level conservation within the apicomplexan family</title><p>To identify DHHC containing <italic>Plasmodium</italic>&#x02010;specific proteins, domain architecture analysis was performed for 12 identified PfDHHC sequences and variable lengths of Asp&#x02010;His&#x02010;His&#x02010;Cys domains (DHHC domains) were observed (Fig.&#x000a0;<xref rid="feb412564-fig-0001" ref-type="fig">1</xref>A). While numerous transmembrane regions were detected (2&#x02013;6) without any signal peptide sequences, two of the members, PfDHHC1 and PfDHHC5 proteins, were found to contain Ankyrin repeats (Fig.&#x000a0;<xref rid="feb412564-fig-0001" ref-type="fig">1</xref>A). MSA analysis showed that the signature DHHC motif is highly conserved in all 12 PfDHHC sequences (Fig.&#x000a0;<xref rid="feb412564-fig-0001" ref-type="fig">1</xref>B). In addition to the conservation scoring, we also evaluated the occupancy factor (values range from 0 to 1.0) of individual amino acids and found the D&#x02010;H&#x02010;H&#x02010;C sequence was positioned correctly (value&#x000a0;=&#x000a0;1.0; Fig.&#x000a0;<xref rid="feb412564-fig-0001" ref-type="fig">1</xref>B). Additionally, we superimposed the 3D structures of PfDHHC7, PfDHHC8, and PfDHHC9 with homologous human DHHC20 (<ext-link ext-link-type="pdb" xlink:href="2BML">2BML</ext-link>) to examine the structural similarity between individual DHHC domains (Fig.&#x000a0;<xref rid="feb412564-fig-0001" ref-type="fig">1</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>(A) Domain architecture of 12 <styled-content style="fixed-case">DHHC</styled-content> domain&#x02010;containing gene sequences. (B) MSA showing conservation between <italic>L.&#x000a0;donovani</italic> and <italic>T.&#x000a0;brucei</italic> palmitoyl acyl&#x02010;transferase sequences. (C) Structural alignment of candidate <italic>Plasmodium </italic>
+<styled-content style="fixed-case">DHHC</styled-content>s, namely Pf<styled-content style="fixed-case">DHHC</styled-content>7, Pf<styled-content style="fixed-case">DHHC</styled-content>8, and Pf<styled-content style="fixed-case">DHHC</styled-content>9 with template&#x02010;like structure of human <styled-content style="fixed-case">DHHC</styled-content>20.</p></caption><graphic id="nlm-graphic-3" xlink:href="FEB4-9-248-g001"/></fig><p>To understand the phylogenetic relationships within this group of proteins, we evaluated their evolutionary proximity to other apicomplexan parasites including closer members <italic>P.&#x000a0;berghei</italic> and <italic>T.&#x000a0;gondii</italic>, and distant members of Apicomplexa namely <italic>B.&#x000a0;bovis</italic>,<italic> T.&#x000a0;parva</italic>,<italic> C.&#x000a0;muris,</italic> and <italic>E.&#x000a0;tenella</italic> (Fig.&#x000a0;<xref rid="feb412564-sup-0001" ref-type="supplementary-material">S1</xref>A). The phylogenetic tree was constructed by a bootstrap NJ algorithm. The D&#x02010;H&#x02010;H&#x02010;C motif was found to be highly conserved among all the 61 sequences of DHHC proteins, whereas the whole protein sequences including PfDHHCs showed moderate conservation (Fig.&#x000a0;<xref rid="feb412564-sup-0001" ref-type="supplementary-material">S1</xref>A).</p></sec><sec id="feb412564-sec-0019"><title>Molecular docking revealed probable competitive binding of palmitic acid and 2&#x02010;BMP to catalytic core of PfDHHCs</title><p>In order to assess the preferential binding affinity of 2&#x02010;BMP/palmitic acid (PA) to each of the 12 <italic>Plasmodium</italic>&#x02010;specific DHHC proteins, the drug&#x02013;protein atomic interactions were examined. Firstly, we constructed structural models of 12 PfDHHCs and these structures were validated using RAMPAGE, with most of the residues were found to be restricted to the favored region (90%) in the Ramachandran plot. Notably, the binding affinity of 2&#x02010;BMP to the catalytic pocket was found to be varying from &#x02212;4.4 to &#x02212;6.5 kCal&#x000b7;mol<sup>&#x02212;1</sup>. The bound protein&#x02013;ligand complex revealed several strong hydrogen bonds specifically between H/H residues within the catalytic pocket and 2&#x02010;BMP/PA (2.7&#x02013;3.4&#x000a0;&#x000c5; bond lengths), respectively (Fig.&#x000a0;<xref rid="feb412564-fig-0002" ref-type="fig">2</xref>). In all the protein&#x02013;ligand models, 2&#x02010;BMP showed stronger binding affinity than PA toward PfDHHCs. Notably, an anomaly was observed in case of PfDHHC6 wherein the inhibitor 2&#x02010;BMP was observed to bind with lower affinity (&#x02212;4.4&#x000a0;kCal&#x000b7;mol<sup>&#x02212;1</sup>) than PA (&#x02212;5.7&#x000a0;kCal&#x000b7;mol<sup>&#x02212;1</sup>). Further analysis of bound structures of PfDHHC6 to PA, we found the H&#x02010;bond interaction could be detected proximal to the DHHC motif at ASN320 O1/O2 atoms, whereas 2&#x02010;BMP was found to be binding farther from the pocket (nonspecifically) to the ASP194 O1/O2 atoms via H&#x02010;bonds. We also analyzed the interaction between PfDHHC8 and the enzyme acyl&#x02010;intermediate palmitoyl&#x02010;CoA and found it to be docking to periphery of the catalytic pocket of the protein (Fig.&#x000a0;<xref rid="feb412564-sup-0001" ref-type="supplementary-material">S1</xref>B). The binding energy was recorded to be &#x02212;6.3&#x000a0;kCal&#x000b7;mol<sup>&#x02212;1</sup>, and the bulky CoA group was probably hindering the molecule from binding effectively to the DHHC motif area of the pocket.</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Docking studies of Pf<styled-content style="fixed-case">DHHC</styled-content>1&#x02013;12 with the ligand palmitic acid and classical inhibitor 2&#x02010;<styled-content style="fixed-case">BMP</styled-content>. The representative table shows the binding energy values between the compound and individual <styled-content style="fixed-case">DHHC</styled-content> protein.</p></caption><graphic id="nlm-graphic-5" xlink:href="FEB4-9-248-g002"/></fig></sec><sec id="feb412564-sec-0020"><title>
+<italic>E.&#x000a0;coli</italic> expressing PfDHHC proteins did not show significant morphological changes</title><p>The <italic>Plasmodium</italic>&#x02010;specific DHHC proteins (PfDHHC7, PfDHHC8, and PfDHHC9) were cloned and expressed in <italic>E.&#x000a0;coli</italic>. Using SDS/PAGE, we could detect the protein bands at 40, 60, and 55&#x000a0;kDa for PfDHHC7, PfDHHC8, and PfDHHC9, respectively, and verify their expression by western blot analysis (Fig.&#x000a0;<xref rid="feb412564-fig-0003" ref-type="fig">3</xref>A,B). Upon induction, no significant change in morphology was observed in case of either of three <italic>E.&#x000a0;coli</italic> systems expressing PfDHHC7/8/9 (Fig.&#x000a0;<xref rid="feb412564-fig-0003" ref-type="fig">3</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(A) <styled-content style="fixed-case">SDS</styled-content>/<styled-content style="fixed-case">PAGE</styled-content> analysis of two characterized Pf<styled-content style="fixed-case">DHHC</styled-content>s in recombinant <italic>E.&#x000a0;coli</italic>. (B) Western blot analysis of recombinantly expressed Pf<styled-content style="fixed-case">DHHC</styled-content>s. (C) Negligible morphological changes were observed in all three engineered <italic>E.&#x000a0;coli</italic> cells. Scale bar indicates 1&#x000a0;&#x003bc;m.</p></caption><graphic id="nlm-graphic-7" xlink:href="FEB4-9-248-g003"/></fig></sec><sec id="feb412564-sec-0021"><title>Probe&#x02010;based clickable chemistry demonstrated palmitoylation in <italic>E.&#x000a0;coli</italic> expressing PfDHHC proteins</title><p>As <italic>E.&#x000a0;coli</italic> is a PTM&#x02010;null system, we tried to visualize the dynamic palmitoylation process using click chemistry with PfDHHCs acting as molecular baits. These proteins enforced transfer of labeled palmitic acid analogues (C&#x02010;16 ODYA) to the susceptible cysteine clusters within the <italic>E.&#x000a0;coli</italic> proteome, thus quantifying the level of palmitoylation (Refer to Methods). Our results demonstrated increased incorporation of palmitic acid analogues into PfDHHC7 and 8 expressing <italic>E.&#x000a0;coli</italic> following induction, as evident by increased fluorescence intensity (Fig.&#x000a0;<xref rid="feb412564-fig-0004" ref-type="fig">4</xref>A). In case of PfDHHC9&#x02010;<italic>E.&#x000a0;coli</italic> system, upon induction the fluorescence intensity was found to be minimum thus, suggesting differential activity of PfDHHCs (Fig.&#x000a0;<xref rid="feb412564-fig-0004" ref-type="fig">4</xref>A). To further validate the acyl&#x02010;transferase activity of PfDHHC proteins, we used a known inhibitor of global palmitoylation, 2&#x02010;BMP. Upon inhibition, palmitoylation was found to be affected in PfDHHC8 as seen by reduced fluorescence intensity of Oregon green in fluorimetry analysis (Fig.&#x000a0;<xref rid="feb412564-fig-0004" ref-type="fig">4</xref>B). Based on the microscopy and fluorimetry results, it is confirmed that PfDHHC8 can efficiently induce palmitoylation within the <italic>E.&#x000a0;coli</italic> proteome.</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>(A) Click chemistry in recombinant Pf<styled-content style="fixed-case">DHHC</styled-content>&#x02010;<italic>E.&#x000a0;coli</italic> shows that there is an increase in palmitoylation upon induction, followed by a subsequent reduction upon inhibition. Scale bar indicates 1&#x000a0;&#x003bc;m. (B) Fluorimetry results of click chemistry in Pf<styled-content style="fixed-case">DHHC</styled-content>&#x02010;<italic>E.&#x000a0;coli</italic> systems (Pf<styled-content style="fixed-case">DHHC</styled-content>8). The data represent <styled-content style="fixed-case">SD</styled-content>.</p></caption><graphic id="nlm-graphic-9" xlink:href="FEB4-9-248-g004"/></fig></sec><sec id="feb412564-sec-0022"><title>Dynamic palmitoylation showed no detrimental effects on growth of <italic>E.&#x000a0;coli</italic> expressing PfDHHCs</title><p>We evaluated the effects of dynamic palmitoylation and impact of 2&#x02010;BMP inhibition on the <italic>E.&#x000a0;coli</italic> survival. The results demonstrated no considerable change in growth pattern of cells in both PfDHHC8/9&#x02010;<italic>E.&#x000a0;coli</italic> systems (Fig.&#x000a0;<xref rid="feb412564-fig-0005" ref-type="fig">5</xref>A). In case of PfDHHC7&#x02010;<italic>E.&#x000a0;coli</italic> system, a mild change in growth pattern of <italic>E.&#x000a0;coli</italic> was observed (Fig.&#x000a0;<xref rid="feb412564-fig-0005" ref-type="fig">5</xref>A). Further treatment with 2&#x02010;BMP at varying concentrations in induced <italic>E.&#x000a0;coli</italic>&#x02010;PfDHHC8 cells resulted in no drastic change in growth pattern up to 100&#x000a0;&#x003bc;<sc>m</sc>, beyond which CFUs were found to be drastically reduced at different titers and in a time&#x02010;dependent manner (Fig.&#x000a0;<xref rid="feb412564-fig-0005" ref-type="fig">5</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>(A) Impact of 2&#x02010;<styled-content style="fixed-case">BMP</styled-content> inhibition (50&#x000a0;&#x003bc;<sc>m</sc>) on growth pattern of Pf<styled-content style="fixed-case">DHHC</styled-content>&#x02010;<italic>E.&#x000a0;coli</italic> systems demonstrated no significant difference in none of the three Pf<styled-content style="fixed-case">DHHC</styled-content>&#x02010;<italic>E.&#x000a0;coli</italic> systems. (B) <styled-content style="fixed-case">CFU</styled-content> assay of <italic>E.&#x000a0;coli</italic>&#x02010;Pf<styled-content style="fixed-case">DHHC</styled-content>8 strains revealed drastic reduction in <styled-content style="fixed-case">CFU</styled-content>s at a concentration &#x02265;&#x000a0;100&#x000a0;&#x003bc;<sc>m</sc>.</p></caption><graphic id="nlm-graphic-11" xlink:href="FEB4-9-248-g005"/></fig></sec><sec id="feb412564-sec-0023"><title>Analysis of dynamic palmitoylation in 2&#x02010;BMP treated induced PfDHHC8&#x02010;<italic>E.&#x000a0;coli</italic> system demonstrated reduction in palmitic acid incorporation</title><p>We tested the alteration in dynamic palmitoylation upon treatment with 2&#x02010;BMP postinduction in order to validate the effect of inhibitor in <italic>E.&#x000a0;coli</italic> expressing PfDHHC8. The flow cytometric analysis revealed substantial changes in Oregon green intensity. We have also evaluated the changes in palmitoylation using fluorimetry analysis upon treatment with 2&#x02010;BMP following induction in the PfDHHC8&#x02010;<italic>E.&#x000a0;coli</italic> system. The findings revealed ~30% reduction in palmitoylation on treatment in case of the PfDHHC8&#x02010;<italic>E.&#x000a0;coli</italic> system (Fig.&#x000a0;<xref rid="feb412564-fig-0006" ref-type="fig">6</xref>A,B).</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>(A) Flow cytometric analysis of 2&#x02010;<styled-content style="fixed-case">BMP</styled-content>&#x02010;based inhibition on global palmitoylation of <italic>E.&#x000a0;coli</italic> expressing Pf<styled-content style="fixed-case">DHHC</styled-content>8. Reduction in uptake of palmitic acid analogue labeled with Oregon green was detected in <italic>E.&#x000a0;coli</italic> expressing Pf<styled-content style="fixed-case">DHHC</styled-content>8. The histograms represent absolute cell counts correlating Oregon green incorporation. (B) Fluorimetry analysis of 2&#x02010;<styled-content style="fixed-case">BMP</styled-content>&#x02010;based inhibition of palmitoylation in <italic>E.&#x000a0;coli</italic>&#x02010;Pf<styled-content style="fixed-case">DHHC</styled-content>8 system. (C) <styled-content style="fixed-case">SYBR</styled-content> green&#x02010;based growth inhibition assay of <italic>Plasmodium</italic> upon 2&#x02010;<styled-content style="fixed-case">BMP</styled-content> inhibition. Percent inhibition represented dose&#x02010;dependent inhibition of palmitoylation with 2&#x02010;<styled-content style="fixed-case">BMP</styled-content>. The data represent <styled-content style="fixed-case">SD</styled-content>.</p></caption><graphic id="nlm-graphic-13" xlink:href="FEB4-9-248-g006"/></fig></sec><sec id="feb412564-sec-0024"><title>2&#x02010;BMP&#x02010;based inhibition of global palmitoylation imposed drastic changes in parasite growth</title><p>To further evaluate the effects of 2&#x02010;BMP on growth progression of <italic>P.&#x000a0;falciparum</italic> 3D7, we performed growth inhibition assay. The results demonstrated 50% inhibition at 25&#x000a0;&#x003bc;m concentration of 2&#x02010;BMP according to the formula (as described in <xref rid="feb412564-sec-0002" ref-type="sec">Methods</xref>), as evident by change in SYBR green intensity (Fig.&#x000a0;<xref rid="feb412564-fig-0006" ref-type="fig">6</xref>C).</p></sec><sec id="feb412564-sec-0025"><title>
+<italic>In&#x000a0;silico</italic> prediction of a possible palmitoylome in <italic>E.&#x000a0;coli</italic>
+</title><p>To further establish the putative palmitoylome of <italic>E.&#x000a0;coli</italic>, we adopted a combinatorial approach comprising ABE and <italic>in&#x000a0;silico</italic> analyses. To achieve this, we have induced engineered <italic>E.&#x000a0;coli</italic> expressing PfDHHCs along with hydroxylamine (HA) treatment. This led to increased protein palmitoylation in <italic>E.&#x000a0;coli</italic> as evident in +HA samples as compared to the &#x02010;HA (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>A). Among the PfDHHC&#x02010;<italic>E.&#x000a0;coli</italic> systems, PfDHHC8 showed distinct changes in the palmitoylation profile. On the basis of these findings, we tried to characterize the putative palmitoylome in <italic>E.&#x000a0;coli</italic> using <italic>in&#x000a0;silico</italic> methods. The results ascertained the possible palmitoylome of <italic>E.&#x000a0;coli</italic> which comprised of only 108 proteins containing at least one site prone to palmitoylation using a GPS&#x02010;based algorithm (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>B). Upon further dissection, this set of proteins were found to contain palmitoylation clusters of three categories (I, II, and III) in varying proportions. The highest percentage of sites belonged to cluster II (46%), followed by 26% and 28% within the category of clusters I and III (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>C). Furthermore, the palmitoylome (<italic>n</italic>&#x000a0;=&#x000a0;108) was found to contain maximum of four sites per protein, and the highest number of proteins (<italic>n</italic>&#x000a0;=&#x000a0;96) contains only 1&#x02013;2 probable palmitoylated sites (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>D).</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>(A) ABE purification of whole proteome of individual Pf<styled-content style="fixed-case">DHHC</styled-content>s&#x02010;<italic>E.&#x000a0;coli</italic>. (B) Scheme&#x000a0;showing the <italic>in&#x000a0;silico</italic> strategy for elucidation of potential palmitoylome in <italic>E.&#x000a0;coli</italic>. (C) Pie chart showing the proportion of different palmitoylation site types in 108 proteins. (D) Histogram plot showing the frequency of palmitoylation per protein within the candidate palmitoylome (108). (E) <styled-content style="fixed-case">GO</styled-content> analysis plots showing enriched various important <styled-content style="fixed-case">GO</styled-content> biological process, cellular component, and molecular function terms among 108 proteins.</p></caption><graphic id="nlm-graphic-15" xlink:href="FEB4-9-248-g007"/></fig><p>To understand the role of palmitoylated protein clusters, we performed Gene Ontology analysis and found that the enriched GO Biological processes include metabolic pathways, membrane localization, biological regulation, etc. (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>E). The second category of GO Cellular component represented enriched majorly GO terms like cell and membrane parts. In case of the GO Molecular function module, GO terms like catalytic activity and transporter activity were enriched (Fig.&#x000a0;<xref rid="feb412564-fig-0007" ref-type="fig">7</xref>E). Further analysis of their subcellular localization of 108 proteins demonstrated 12 proteins to be located specifically in the cytoplasm, five in F&#x02010;complex, four in inner membrane, nucleoid, etc. (Fig.&#x000a0;<xref rid="feb412564-sup-0001" ref-type="supplementary-material">S1</xref>C).</p></sec><sec id="feb412564-sec-0026"><title>Downstream analyses predicted the involvement of critical protein clusters in <italic>E.&#x000a0;coli</italic>
+</title><p>We further analyzed the frequently palmitoylated protein clusters. Proteins containing three cysteine sites included flagella transcriptional regulator (flhC), rRNA methyltransferase (ksgA), sulfite reductase (cysI), mechanosensitive ion channel (moaC), and nucleases (sbcCD; Fig.&#x000a0;<xref rid="feb412564-fig-0008" ref-type="fig">8</xref>A). In case of the proteins containing four sites, other essential bacterial proteins like DNA&#x02010;dependent DNA polymerase, phosphotransferase and nitrite reductase were enriched (Fig.&#x000a0;<xref rid="feb412564-fig-0008" ref-type="fig">8</xref>A). These findings suggest that <italic>E.&#x000a0;coli</italic> contains essential proteins with specific cysteines which might be prone to palmitoylation.</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>(A) Analysis of specific cysteine sites prone to palmitoylation in proteins containing highest number sites like four sites and three sites. (B) Protein&#x02013;protein interaction network of highest confidence (&#x0003e;&#x000a0;0.9) showing first&#x02010;level interaction with crucial <italic>E.&#x000a0;coli</italic> proteins. (C) Cellular localization distribution of eight enriched proteins filtered out of the network analysis.</p></caption><graphic id="nlm-graphic-17" xlink:href="FEB4-9-248-g008"/></fig><p>Upon analyzing the putative protein interaction network (PPI) of the candidate list (<italic>n</italic>&#x000a0;=&#x000a0;108), eight highly palmitoylated proteins like translocase subunit (secY), flhC, sulfite reductase I (cysI), sbcC, acetate kinase (ackA), and moaC were found to be strongly interacting with primary neighborhood proteins like BL21_03106, flhD, cysD, and sbcD, respectively (Fig.&#x000a0;<xref rid="feb412564-fig-0008" ref-type="fig">8</xref>B). Among this set of eight proteins, flhD, SecY, and CysI were found to be specific to nucleoid, inner membrane and outer membrane complex of the <italic>E.&#x000a0;coli</italic> cell respectively, whereas proteins sbcC and ackA were found to be localized in the cytoplasm (Fig.&#x000a0;<xref rid="feb412564-fig-0008" ref-type="fig">8</xref>C). This renders more clarity on the type of proteins which could be affected by induction of palmitoylation in the synthetic <italic>E.&#x000a0;coli</italic> cells.</p></sec></sec><sec id="feb412564-sec-0027"><title>Discussion</title><p>Synthetic biology has provided a wider platform to exploit inherent biological processes for developing high&#x02010;throughput drug screening platforms <xref rid="feb412564-bib-0031" ref-type="ref">31</xref>. Lipid&#x02010;based PTMs are known to play an important role in eukaryotic parasites; however, they have not been exploited so far for designing novel chemotherapeutics <xref rid="feb412564-bib-0004" ref-type="ref">4</xref>, <xref rid="feb412564-bib-0032" ref-type="ref">32</xref>. In this study, we have engineered <italic>E.&#x000a0;coli</italic> for functional validation of three <italic>Plasmodium</italic>&#x02010;specific DHHC proteins (PfDHHCs).</p><p>Since these enzymes are responsible for transfer of acyl group to specific cysteine thiols in the proteins, we tried to enforce palmitoylation of the engineered <italic>E.&#x000a0;coli</italic> proteome by using their inherent palmitic acid metabolism. This system not only envisages a tool for functional validation of DHHCs, but also provides a proof of concept to further develop a high&#x02010;throughput synthetic platform for screening small molecule libraries.</p><p>Toward this, we extracted <italic>P.&#x000a0;falciparum</italic> specific 12 DHHC domain&#x02010;containing proteins from PlasmoDB. Assessment of phylogenetic relationship among all P.fDHHCs with other apicomplexan DHHC proteins suggested that the D&#x02010;H&#x02010;H&#x02010;C signature motif was highly conserved, while PfDHHCs demonstrated moderate interspecies conservation. These proteins were structurally modeled and their catalytic pockets were analyzed for molecular docking studies with 2&#x02010;BMP and PA. Our results suggest that both compounds can bind to PfDHHC proteins as evident by their binding energies and shared interacting residues within the common catalytic pocket. Among the PfDHHCs, 2&#x02010;BMP and PA showed the highest binding affinity to PfDHHC8 with binding energies of &#x02212;6.5 and &#x02212;6.3 kCal&#x000b7;mol<sup>&#x02212;1</sup>, respectively. However, 2&#x02010;BMP bound PfDHHC6 model demonstrated nonspecific distal binding from the defined DHHC pocket, while PA was found to be bound to the proximal region of the pocket. This discrepancy in binding energies can be attributed to generic nature of 2&#x02010;BMP. Interestingly, docking of its active substrate, palmitoyl&#x02010;CoA demonstrated its binding in close proximity to the D&#x02010;H&#x02010;H&#x02010;C motif <xref rid="feb412564-bib-0033" ref-type="ref">33</xref>.</p><p>Among the PfDHHCs, DHHC9 has been previously shown to play a crucial role in <italic>Plasmodium</italic> gametocytogenesis <xref rid="feb412564-bib-0008" ref-type="ref">8</xref>. Two other PfDHHCs (7 and 8) are known to be present in the asexual blood stage of the parasite. Specifically, DHHC7 has been reported to be crucial for invasion of its sister parasite, <italic>T.&#x000a0;gondii</italic> into the host <xref rid="feb412564-bib-0013" ref-type="ref">13</xref>, <xref rid="feb412564-bib-0034" ref-type="ref">34</xref>. Further we checked the expression of the cloned PfDHHCs (7, 8, and 9) and also functionally validated them in <italic>E.&#x000a0;coli</italic> using click chemistry. The findings suggest that upon induction, engineered <italic>E.&#x000a0;coli</italic> strains were likely to utilize their own palmitic acid and enforce palmitoylation of their proteome. To visualize palmitoylation in <italic>E.&#x000a0;coli</italic>, we performed click chemistry&#x02010;based metabolic labeling. The data suggest that PfDHHC7, PfDHHC8, and PfDHHC9 expressing <italic>E.&#x000a0;coli</italic> systems can dynamically incorporate palmitic acid analogues. Since protein palmitoylation is a foreign molecular mechanism in <italic>E.&#x000a0;coli</italic>, we thought to use a known inhibitor, 2&#x02010;BMP for studying the phenotypic effects. Notably, 2&#x02010;BMP could reverse the palmitoylation status of <italic>E.&#x000a0;coli</italic> without significant morphological changes. Furthermore, induced PfDHHC8&#x02010;<italic>E.&#x000a0;coli</italic> showed no changes in growth pattern upon 2&#x02010;BMP inhibition up to 100&#x000a0;&#x003bc;<sc>m</sc>, whereas at higher concentration up to 500&#x000a0;&#x003bc;<sc>m</sc>, there was drastic reduction in CFUs observed in a time&#x02010;dependent manner.</p><p>Since the <italic>E.&#x000a0;coli</italic> proteome comprises of 4156 proteins, we decided to evaluate its predictive palmitoylome using <italic>in&#x000a0;silico</italic> tools. Based on a Group prediction system&#x02010;based algorithm, we could predict palmitoylation sites and generate a catalog of 108 palmitoylated proteins. Analysis of these palmitoylation sites indicated the category of cysteine&#x02010;rich clusters. Albeit the highest number of palmitoylated sites were found to be four in three individual proteins, the majority of <italic>E.&#x000a0;coli</italic> proteins (96 out of 108) only contained 1&#x02013;2 palmitoylation sites. Therefore, there is a possibility that the impact of palmitoylation might not substantially affect growth of the bacteria. Furthermore, we propose that the development of a drug screening system based on this machinery would be an efficient tool to target the DHHC proteins of <italic>Plasmodium</italic> and can be subsequently extended to other pathogens (Fig. <xref rid="feb412564-fig-0009" ref-type="fig">9</xref>). In summary, our proposed model of engineered <italic>E.&#x000a0;coli</italic> mimicking <italic>Plasmodium</italic>&#x02010;specific palmitoylation can be utilized as a high&#x02010;throughput drug screening platform against tropical parasites.</p><fig fig-type="Figure" xml:lang="en" id="feb412564-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>Schematic model of <italic>Plasmodium falciparum</italic> palmitoylation machinery engineered <italic>E.coli</italic> drug screening system</p></caption><graphic id="nlm-graphic-19" xlink:href="FEB4-9-248-g009"/></fig></sec><sec id="feb412564-sec-0029"><title>Author contributions</title><p>SS conceptualized, designed all the experiments, and analyzed the data. RA and SP planned the computational strategy. RA performed all computational analyses, while RJ did the docking studies. RS conducted the growth inhibition experiments in <italic>P.&#x000a0;falciparum</italic>. PY characterized the recombinant protein, performed click chemistry and ABE assay in <italic>E.&#x000a0;coli</italic>. SG, NJ, and PY performed FACS and microscopy. SP, RA, SG, and SS wrote the manuscript with analytical input from SS.</p></sec><sec id="feb412564-sec-0030"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="feb412564-sup-0001"><caption><p>
+<bold>Fig.&#x000a0;S1.</bold> Evolutionary conservation analysis of PfDHHCs among apicomplexan family, structural analysis of ligandability of PfDHHCs toward palmitoyl&#x02010;CoA, and predicted palmitoylome of <italic>E.coli</italic>, the PTM&#x02010;null system. (A) Interspecies phylogenetic analysis showing moderate conservation across apicomplexan parasite protein families namely, <italic>Plasmodium&#x000a0;falciparum, Plasmodium&#x000a0;berghei, Toxoplasma&#x000a0;gondii, Babesia bovis</italic>,<italic> Theileria parva</italic>,<italic> Cryptosporidium muris</italic> and <italic>Eimeria tenella</italic>. (B) Molecular docking of substrate intermediate palmitoyl&#x02010;CoA and PfDHHC8 showed binding affinity to overall pocket but not specific to the DHHC motif of protein (Energy&#x000a0;=&#x000a0;&#x02212;6.3&#x000a0;kCal&#x000b7;mol<sup>&#x02212;1</sup>). (C) Cellular localization distribution of all 108 palmitoylated proteins.</p></caption><media xlink:href="FEB4-9-248-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="feb412564-sec-0028"><title>Acknowledgements</title><p>This work has been supported by an extramural grant from Department of Science and Technology (DST), Government of India (EMR/2016/005644) and National Institute of Health (NIH) &#x02010; Center for Complex Malaria, United States Government (5U19AI089676&#x02010;09) received by SS. To note, RA and NJ are supported by Shiv Nadar Foundation fellowship. PY, RS, and RJ are supported by Council of Scientific and Industrial Research&#x02010;Junior Research Fellowships. The Center for Informatics, Shiv Nadar University, is also duly acknowledged. SG is thankful for the funding support from DST&#x02010;INSPIRE grant. SP is grateful for the funding support from Shiv Nadar foundation.</p></ack><ref-list content-type="cited-references" id="feb412564-bibl-0001"><title>References</title><ref id="feb412564-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="feb412564-cit-0001">
+<string-name>
+<surname>Florens</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Washburn</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Raine</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Anthony</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Grainger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Haynes</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Moch</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Muster</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sacci</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Tabb</surname>
+<given-names>DL</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2002</year>) <article-title>A proteomic view of the <italic>Plasmodium falciparum</italic> life cycle</article-title>. <source xml:lang="en">Nature</source>
+<volume>419</volume>, <fpage>520</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">12368866</pub-id></mixed-citation></ref><ref id="feb412564-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="feb412564-cit-0002">
+<string-name>
+<surname>Wastling</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Krishna</surname>
+<given-names>R</given-names>
+</string-name> and <string-name>
+<surname>Xia</surname>
+<given-names>D</given-names>
+</string-name> (<year>2012</year>) <article-title>Parasites, proteomes and systems: has Descartes&#x02019; clock run out of time?</article-title>
+<source xml:lang="en">Parasitology</source>
+<volume>139</volume>, <fpage>1103</fpage>&#x02013;<lpage>1118</lpage>.<pub-id pub-id-type="pmid">22828391</pub-id></mixed-citation></ref><ref id="feb412564-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="feb412564-cit-0003">
+<string-name>
+<surname>Fra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yoboue</surname>
+<given-names>ED</given-names>
+</string-name> and <string-name>
+<surname>Sitia</surname>
+<given-names>R</given-names>
+</string-name> (<year>2017</year>) <article-title>Cysteines as redox molecular switches and targets of disease</article-title>. <source xml:lang="en">Front Mol Neurosci</source>
+<volume>10</volume>, <fpage>167</fpage>.<pub-id pub-id-type="pmid">28634440</pub-id></mixed-citation></ref><ref id="feb412564-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="feb412564-cit-0004">
+<string-name>
+<surname>Goldston</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>
+<given-names>KS</given-names>
+</string-name> and <string-name>
+<surname>Engman</surname>
+<given-names>DM</given-names>
+</string-name> (<year>2014</year>) <article-title>Acylation in trypanosomatids: an essential process and potential drug target</article-title>. <source xml:lang="en">Trends Parasitol</source>
+<volume>30</volume>, <fpage>350</fpage>&#x02013;<lpage>360</lpage>.<pub-id pub-id-type="pmid">24954795</pub-id></mixed-citation></ref><ref id="feb412564-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="feb412564-cit-0005">
+<string-name>
+<surname>Fr&#x000e9;nal</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tay</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bushell</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Graindorge</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Billker</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Rayner</surname>
+<given-names>JC</given-names>
+</string-name> and <string-name>
+<surname>Soldati&#x02010;Favre</surname>
+<given-names>D</given-names>
+</string-name> (<year>2013</year>) <article-title>Global analysis of apicomplexan protein S&#x02010;Acyl transferases reveals an enzyme essential for invasion</article-title>. <source xml:lang="en">Traffic</source>
+<volume>14</volume>, <fpage>895</fpage>&#x02013;<lpage>911</lpage>.<pub-id pub-id-type="pmid">23638681</pub-id></mixed-citation></ref><ref id="feb412564-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="feb412564-cit-0006">
+<string-name>
+<surname>Ayana</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yadav</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kumari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ramu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pati</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Singh</surname>
+<given-names>S</given-names>
+</string-name> (<year>2018</year>) <article-title>Identification and characterization of a novel palmitoyl acyltransferase as a druggable rheostat of dynamic palmitoylome in <italic>L. donovani</italic>
+</article-title>. <source xml:lang="en">Front Cell Infect Microbiol</source>
+<volume>8</volume>, <fpage>186</fpage>.<pub-id pub-id-type="pmid">29977865</pub-id></mixed-citation></ref><ref id="feb412564-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="feb412564-cit-0007">
+<string-name>
+<surname>Jones</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Goulding</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Choudhary</surname>
+<given-names>JS</given-names>
+</string-name> and <string-name>
+<surname>Rayner</surname>
+<given-names>JC</given-names>
+</string-name> (<year>2012</year>) <article-title>Analysis of protein palmitoylation reveals a pervasive role in Plasmodium development and pathogenesis</article-title>. <source xml:lang="en">Cell Host Microbe</source>
+<volume>12</volume>, <fpage>246</fpage>&#x02013;<lpage>258</lpage>.<pub-id pub-id-type="pmid">22901544</pub-id></mixed-citation></ref><ref id="feb412564-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="feb412564-cit-0008">
+<string-name>
+<surname>Tay</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Hodson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Theron</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Choudhary</surname>
+<given-names>JS</given-names>
+</string-name> and <string-name>
+<surname>Rayner</surname>
+<given-names>JC</given-names>
+</string-name> (<year>2016</year>) <article-title>Study of <italic>Plasmodium falciparum</italic> DHHC palmitoyl transferases identifies a role for PfDHHC9 in gametocytogenesis</article-title>. <source xml:lang="en">Cell Microbiol</source>
+<volume>18</volume>, <fpage>1596</fpage>&#x02013;<lpage>1610</lpage>.<pub-id pub-id-type="pmid">27060339</pub-id></mixed-citation></ref><ref id="feb412564-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="feb412564-cit-0009">
+<string-name>
+<surname>Drisdel</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Sayeed</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Green</surname>
+<given-names>WN</given-names>
+</string-name> (<year>2006</year>) <article-title>Assays of protein palmitoylation</article-title>. <source xml:lang="en">Methods</source>
+<volume>40</volume>, <fpage>127</fpage>&#x02013;<lpage>134</lpage>.<pub-id pub-id-type="pmid">17012024</pub-id></mixed-citation></ref><ref id="feb412564-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="feb412564-cit-0010">
+<string-name>
+<surname>Hensel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hintz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Karas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Linder</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Stahl</surname>
+<given-names>B</given-names>
+</string-name> and <string-name>
+<surname>Geyer</surname>
+<given-names>R</given-names>
+</string-name> (<year>1995</year>) <article-title>Localization of the palmitoylation site in the transmembrane protein p12E of Friend <italic>murine leukaemia virus</italic>
+</article-title>. <source xml:lang="en">Eur J Biochem</source>
+<volume>232</volume>, <fpage>373</fpage>&#x02013;<lpage>380</lpage>.<pub-id pub-id-type="pmid">7556184</pub-id></mixed-citation></ref><ref id="feb412564-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="feb412564-cit-0011">
+<string-name>
+<surname>Drisdel</surname>
+<given-names>RC</given-names>
+</string-name> and <string-name>
+<surname>Green</surname>
+<given-names>WN</given-names>
+</string-name> (<year>2004</year>) <article-title>Labeling and quantifying sites of protein palmitoylation</article-title>. <source xml:lang="en">Biotechniques</source>
+<volume>36</volume>, <fpage>276</fpage>&#x02013;<lpage>285</lpage>.<pub-id pub-id-type="pmid">14989092</pub-id></mixed-citation></ref><ref id="feb412564-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="feb412564-cit-0012">
+<string-name>
+<surname>Yang</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Ascano</surname>
+<given-names>JM</given-names>
+</string-name> and <string-name>
+<surname>Hang</surname>
+<given-names>HC</given-names>
+</string-name> (<year>2010</year>) <article-title>Bioorthogonal chemical reporters for monitoring protein acetylation</article-title>. <source xml:lang="en">J Am Chem Soc</source>
+<volume>132</volume>, <fpage>3640</fpage>&#x02013;<lpage>3641</lpage>.<pub-id pub-id-type="pmid">20192265</pub-id></mixed-citation></ref><ref id="feb412564-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="feb412564-cit-0013">
+<string-name>
+<surname>Aurrecoechea</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brestelli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brunk</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Dommer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gajria</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Gingle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Harb</surname>
+<given-names>OS</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>PlasmoDB: a functional genomic database for malaria parasites</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>37</volume>, <fpage>D539</fpage>&#x02013;<lpage>D543</lpage>.<pub-id pub-id-type="pmid">18957442</pub-id></mixed-citation></ref><ref id="feb412564-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="feb412564-cit-0014">
+<string-name>
+<surname>Gajria</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bahl</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brestelli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dommer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Heiges</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Iodice</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kissinger</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Mackey</surname>
+<given-names>AJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>ToxoDB: an integrated <italic>Toxoplasma gondii</italic> database resource</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>36</volume>, <fpage>D553</fpage>&#x02013;<lpage>D556</lpage>.<pub-id pub-id-type="pmid">18003657</pub-id></mixed-citation></ref><ref id="feb412564-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="feb412564-cit-0015">
+<string-name>
+<surname>Aurrecoechea</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brestelli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brunk</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gajria</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Gingle</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grant</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Harb</surname>
+<given-names>OS</given-names>
+</string-name>, <string-name>
+<surname>Heiges</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>EuPathDB: a portal to eukaryotic pathogen databases</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>38</volume>, <fpage>D415</fpage>&#x02013;<lpage>D419</lpage>.<pub-id pub-id-type="pmid">19914931</pub-id></mixed-citation></ref><ref id="feb412564-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="feb412564-cit-0016">
+<collab collab-type="authors">The UniProt Consortium</collab>
+(<year>2017</year>) <article-title>UniProt: the universal protein knowledgebase</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>45</volume>, <fpage>D158</fpage>&#x02013;<lpage>D169</lpage>.<pub-id pub-id-type="pmid">27899622</pub-id></mixed-citation></ref><ref id="feb412564-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="feb412564-cit-0017">
+<string-name>
+<surname>Letunic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Copley</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ciccarelli</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name>
+<surname>Doerks</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schultz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ponting</surname>
+<given-names>CP</given-names>
+</string-name> and <string-name>
+<surname>Bork</surname>
+<given-names>P</given-names>
+</string-name> (<year>2004</year>) <article-title>SMART 4.0: towards genomic data integration</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>32</volume>, <fpage>D142</fpage>&#x02013;<lpage>D144</lpage>.<pub-id pub-id-type="pmid">14681379</pub-id></mixed-citation></ref><ref id="feb412564-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="feb412564-cit-0018">
+<string-name>
+<surname>Mitchell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>H&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Daugherty</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fraser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hunter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>McAnulla</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McMenamin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nuka</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Pesseat</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>The InterPro protein&#x000a0;families database: the classification resource&#x000a0;after 15&#x000a0;years</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>43</volume>, <fpage>D213</fpage>&#x02013;<lpage>D221</lpage>.<pub-id pub-id-type="pmid">25428371</pub-id></mixed-citation></ref><ref id="feb412564-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="feb412564-cit-0019">
+<string-name>
+<surname>Waterhouse</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Procter</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>DMA</given-names>
+</string-name>, <string-name>
+<surname>Clamp</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Barton</surname>
+<given-names>GJ</given-names>
+</string-name> (<year>2009</year>) <article-title>Jalview Version 2&#x02014;a multiple sequence alignment editor and analysis workbench</article-title>. <source xml:lang="en">Bioinformatics</source>
+<volume>25</volume>, <fpage>1189</fpage>&#x02013;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">19151095</pub-id></mixed-citation></ref><ref id="feb412564-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="feb412564-cit-0020">
+<string-name>
+<surname>Tamura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Stecher</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Filipski</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>MEGA6: molecular evolutionary genetics analysis version 6.0</article-title>. <source xml:lang="en">Mol Biol Evol</source>
+<volume>30</volume>, <fpage>2725</fpage>&#x02013;<lpage>2729</lpage>.<pub-id pub-id-type="pmid">24132122</pub-id></mixed-citation></ref><ref id="feb412564-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="feb412564-cit-0021">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2008</year>) <article-title>I&#x02010;TASSER server for protein 3D structure prediction</article-title>. <source xml:lang="en">BMC Bioinformatics</source>
+<volume>9</volume>, <fpage>40</fpage>.<pub-id pub-id-type="pmid">18215316</pub-id></mixed-citation></ref><ref id="feb412564-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="feb412564-cit-0022">
+<string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name> and <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2011</year>) <article-title>Improving the physical realism and structural accuracy of protein models by a two&#x02010;step atomic&#x02010;level energy minimization</article-title>. <source xml:lang="en">Biophys J </source>
+<volume>101</volume>, <fpage>2525</fpage>&#x02013;<lpage>2534</lpage>.<pub-id pub-id-type="pmid">22098752</pub-id></mixed-citation></ref><ref id="feb412564-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="feb412564-cit-0023">
+<string-name>
+<surname>DeLano</surname>
+<given-names>WL</given-names>
+</string-name> (<year>2002</year>) &#x0201c;<article-title>The <sc>pymol</sc> molecular graphics system</article-title>.&#x0201d; Available from: <ext-link ext-link-type="uri" xlink:href="http://pymol.org/academic">http://pymol.org/academic</ext-link>.</mixed-citation></ref><ref id="feb412564-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="feb412564-cit-0024">
+<string-name>
+<surname>Morris</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Huey</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lindstrom</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sanner</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Belew</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Goodsell</surname>
+<given-names>DS</given-names>
+</string-name> and <string-name>
+<surname>Olson</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2009</year>) <article-title>AutoDock4 and AutoDockTools4: automated docking with selective receptor flexibility</article-title>. <source xml:lang="en">J Comput Chem</source>
+<volume>30</volume>, <fpage>2785</fpage>&#x02013;<lpage>2791</lpage>.<pub-id pub-id-type="pmid">19399780</pub-id></mixed-citation></ref><ref id="feb412564-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="feb412564-cit-0025">
+<string-name>
+<surname>Trott</surname>
+<given-names>O</given-names>
+</string-name> and <string-name>
+<surname>Olson</surname>
+<given-names>AJ</given-names>
+</string-name> (<year>2010</year>) <article-title>AutoDock Vina: improving the speed and accuracy of docking with a&#x000a0;new scoring function, efficient optimization, and&#x000a0;multithreading</article-title>. <source xml:lang="en">J Comput Chem</source>
+<volume>31</volume>, <fpage>455</fpage>&#x02013;<lpage>461</lpage>.<pub-id pub-id-type="pmid">19499576</pub-id></mixed-citation></ref><ref id="feb412564-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="feb412564-cit-0026">
+<string-name>
+<surname>Wan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>
+<given-names>AO</given-names>
+</string-name> and <string-name>
+<surname>Davis</surname>
+<given-names>NG</given-names>
+</string-name> (<year>2007</year>) <article-title>Palmitoylated proteins: purification and identification</article-title>. <source xml:lang="en">Nat Protoc</source>
+<volume>2</volume>, <fpage>1573</fpage>&#x02013;<lpage>1584</lpage>.<pub-id pub-id-type="pmid">17585299</pub-id></mixed-citation></ref><ref id="feb412564-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="feb412564-cit-0027">
+<string-name>
+<surname>Garg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Agarwal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shams Yazdani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chitnis</surname>
+<given-names>CE</given-names>
+</string-name> and <string-name>
+<surname>Singh</surname>
+<given-names>S</given-names>
+</string-name> (<year>2013</year>) <article-title>Calcium&#x02010;dependent permeabilization of erythrocytes by a perforin&#x02010;like protein during egress of malaria parasites</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>4</volume>, <fpage>1736</fpage>.<pub-id pub-id-type="pmid">23591903</pub-id></mixed-citation></ref><ref id="feb412564-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="feb412564-cit-0028">
+<string-name>
+<surname>Trager</surname>
+<given-names>W</given-names>
+</string-name> and <string-name>
+<surname>Jensen</surname>
+<given-names>JB</given-names>
+</string-name> (<year>1976</year>) <article-title>Human malaria parasites in continuous culture</article-title>. <source xml:lang="en">Science</source>
+<volume>193</volume>, <fpage>673</fpage>&#x02013;<lpage>675</lpage>.<pub-id pub-id-type="pmid">781840</pub-id></mixed-citation></ref><ref id="feb412564-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="feb412564-cit-0029">
+<string-name>
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zuo</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>GPS&#x02010;Lipid: a robust tool for the prediction of multiple lipid modification sites</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>6</volume>, <fpage>28249</fpage>.<pub-id pub-id-type="pmid">27306108</pub-id></mixed-citation></ref><ref id="feb412564-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="feb412564-cit-0030">
+<string-name>
+<surname>Szklarczyk</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wyder</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Simonovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Doncheva</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bork</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>The STRING database in 2017: quality&#x02010;controlled protein&#x02013;protein association networks, made broadly accessible</article-title>. <source xml:lang="en">Nucleic Acids Res</source>
+<volume>45</volume>, <fpage>D362</fpage>&#x02013;<lpage>D368</lpage>.<pub-id pub-id-type="pmid">27924014</pub-id></mixed-citation></ref><ref id="feb412564-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="feb412564-cit-0031">
+<string-name>
+<surname>Chen</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name>
+<surname>Galloway</surname>
+<given-names>KE</given-names>
+</string-name> and <string-name>
+<surname>Smolke</surname>
+<given-names>CD</given-names>
+</string-name> (<year>2012</year>) <article-title>Synthetic biology: advancing biological frontiers by building synthetic systems</article-title>. <source xml:lang="en">Genome Biol</source>
+<volume>13</volume>, <fpage>240</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">22348749</pub-id></mixed-citation></ref><ref id="feb412564-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="feb412564-cit-0032">
+<string-name>
+<surname>Wright</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Paape</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Storck</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Serwa</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>DF</given-names>
+</string-name> and <string-name>
+<surname>Tate</surname>
+<given-names>EW</given-names>
+</string-name> (<year>2015</year>) <article-title>Global analysis of protein N&#x02010;myristoylation and exploration of N&#x02010;myristoyltransferase as a drug target in the neglected human pathogen <italic>Leishmania donovani</italic>
+</article-title>. <source xml:lang="en">Chem Biol</source>
+<volume>22</volume>, <fpage>342</fpage>&#x02013;<lpage>354</lpage>.<pub-id pub-id-type="pmid">25728269</pub-id></mixed-citation></ref><ref id="feb412564-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="feb412564-cit-0033">
+<string-name>
+<surname>Rana</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Verardi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rajashankar</surname>
+<given-names>KR</given-names>
+</string-name> and <string-name>
+<surname>Banerjee</surname>
+<given-names>A</given-names>
+</string-name> (<year>2018</year>) <article-title>Fatty acyl recognition and transfer by an integral membrane S&#x02010;acyltransferase</article-title>. <source xml:lang="en">Science</source>
+<volume>359</volume>, <fpage>eaao6326</fpage>.<pub-id pub-id-type="pmid">29326245</pub-id></mixed-citation></ref><ref id="feb412564-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="feb412564-cit-0034">
+<string-name>
+<surname>Beck</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Straub</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Coppens</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Vashisht</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Wohlschlegel</surname>
+<given-names>JA</given-names>
+</string-name> and <string-name>
+<surname>Bradley</surname>
+<given-names>PJ</given-names>
+</string-name> (<year>2013</year>) <article-title>A Toxoplasma palmitoyl acyl transferase and the palmitoylated armadillo repeat protein TgARO govern apical rhoptry tethering and reveal a critical role for the rhoptries in host cell invasion but not egress</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>9</volume>, <fpage>e1003162</fpage>.<pub-id pub-id-type="pmid">23408890</pub-id></mixed-citation></ref></ref-list></back></article>

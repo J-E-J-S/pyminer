@@ -1,0 +1,362 @@
+{
+  "id": [
+    "31640550"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31640550"
+  ],
+  "pmcid": [
+    "PMC6805508"
+  ],
+  "doi": [
+    "10.1186/s12870-019-2058-6"
+  ],
+  "title": [
+    "Phenotypic and molecular characterization of Hessian fly resistance in diploid wheat, Aegilops tauschii."
+  ],
+  "authorString": [
+    "Nemacheck JA, Schemerhorn BJ, Scofield SR, Subramanyam S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nemacheck JA"
+          ],
+          "firstName": [
+            "Jill A"
+          ],
+          "lastName": [
+            "Nemacheck"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "USDA-ARS Crop Production and Pest Control Research Unit, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schemerhorn BJ"
+          ],
+          "firstName": [
+            "Brandon J"
+          ],
+          "lastName": [
+            "Schemerhorn"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "USDA-ARS Crop Production and Pest Control Research Unit, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Scofield SR"
+          ],
+          "firstName": [
+            "Steven R"
+          ],
+          "lastName": [
+            "Scofield"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "USDA-ARS Crop Production and Pest Control Research Unit, West Lafayette, IN, 47907, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Subramanyam S"
+          ],
+          "firstName": [
+            "Subhashree"
+          ],
+          "lastName": [
+            "Subramanyam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0979-6300",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "USDA-ARS Crop Production and Pest Control Research Unit, West Lafayette, IN, 47907, USA. subhashree.subramanyam@usda.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0979-6300",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2869163"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "439"
+  ],
+  "abstractText": [
+    "BACKGROUND:The Hessian fly (Mayetiola destructor), belonging to the gall midge family (Cecidomyiidae), is a devastating pest of wheat (Triticum aestivum) causing significant yield losses. Despite identification and characterization of numerous Hessian fly-responsive genes and associated biological pathways involved in wheat defense against this dipteran pest, their functional validation has been challenging. This is largely attributed to the large genome, polyploidy, repetitive DNA, and limited genetic resources in hexaploid wheat. The diploid progenitor Aegilops tauschii, D-genome donor of modern-day hexaploid wheat, offers an ideal surrogate eliminating the need to target all three homeologous chromosomes (A, B and D) individually, and thereby making the functional validation of candidate Hessian fly-responsive genes plausible. Furthermore, the well-annotated sequence of Ae. tauschii genome and availability of genetic resources amenable to manipulations makes the functional assays less tedious and time-consuming. However, prior to utilization of this diploid genome for downstream studies, it is imperative to characterize its physical and molecular responses to Hessian fly. RESULTS:In this study we screened five Ae. tauschii accessions for their response to the Hessian fly biotypes L and vH13. Two lines were identified that exhibited a homozygous resistance response to feeding by both Hessian fly biotypes. Studies using physical measurements and neutral red staining showed that the resistant Ae. tauschii accessions resembled hexaploid wheat in their phenotypic responses to Hessian fly, that included similarities in larval developmental stages, leaf and plant growth, and cell wall permeability. Furthermore, molecular responses, characterized by gene expression profiling using quantitative real-time PCR, in select resistant Ae. tauschii lines also revealed similarities with resistant hexaploid wheat. CONCLUSIONS:Phenotypic and molecular characterization of Ae. tauschii to Hessian fly infestation revealed resistant accessions that shared similarities to hexaploid wheat. Resembling the resistant hexaploid wheat, the Ae. tauschii accessions mount an early defense strategy involving defense proteins including lectins, secondary metabolites and reactive oxygen species (ROS) radicals. Our results reveal the suitability of the diploid progenitor for use as an ideal tool for functional genomics research in deciphering the wheat-Hessian fly molecular interactions."
+  ],
+  "affiliation": [
+    "USDA-ARS Crop Production and Pest Control Research Unit, West Lafayette, IN, 47907, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "5020-22000-022-00D"
+          ],
+          "agency": [
+            "USDA-ARS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Insect resistance",
+        "Oxidative stress",
+        "Secondary metabolites",
+        "Functional genomics",
+        "Permeability",
+        "biotic stress",
+        "lectins",
+        "Qrt-pcr",
+        "Surrogate"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-019-2058-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805508"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805508?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-24"
+  ],
+  "firstIndexDate": [
+    "2019-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2019-10-22"
+  ]
+}

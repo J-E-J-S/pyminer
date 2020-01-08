@@ -1,0 +1,458 @@
+{
+  "id": [
+    "28472230"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28472230"
+  ],
+  "pmcid": [
+    "PMC5860066"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/btx293"
+  ],
+  "title": [
+    "OMSim: a simulator for optical map data."
+  ],
+  "authorString": [
+    "Miclotte G, Plaisance S, Rombauts S, Van de Peer Y, Audenaert P, Fostier J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Miclotte G"
+          ],
+          "firstName": [
+            "Giles"
+          ],
+          "lastName": [
+            "Miclotte"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Information Technology, IDLab, Ghent University-IMEC, Ghent 9052, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Plaisance S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Plaisance"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1651-241X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nucleomics Core, VIB, Leuven 3000, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Rombauts S"
+          ],
+          "firstName": [
+            "Stephane"
+          ],
+          "lastName": [
+            "Rombauts"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3985-4981",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bioinformatics Institute Ghent, Ghent University, Ghent 9052, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Van de Peer Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Van de Peer"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Bioinformatics Institute Ghent, Ghent University, Ghent 9052, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Audenaert P"
+          ],
+          "firstName": [
+            "Pieter"
+          ],
+          "lastName": [
+            "Audenaert"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Information Technology, IDLab, Ghent University-IMEC, Ghent 9052, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Fostier J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Fostier"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Information Technology, IDLab, Ghent University-IMEC, Ghent 9052, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3985-4981",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1651-241X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "17"
+      ],
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2596718"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2740-2742"
+  ],
+  "abstractText": [
+    "The Bionano Genomics platform allows for the optical detection of short sequence patterns in very long DNA molecules (up to 2.5 Mbp). Molecules with overlapping patterns can be assembled to generate a consensus optical map of the entire genome. In turn, these optical maps can be used to validate or improve de novo genome assembly projects or to detect large-scale structural variation in genomes. Simulated optical map data can assist in the development and benchmarking of tools that operate on those data, such as alignment and assembly software. Additionally, it can help to optimize the experimental setup for a genome of interest. Such a simulator is currently not available.We have developed a simulator, OMSim, that produces synthetic optical map data that mimics real Bionano Genomics data. These simulated data have been tested for compatibility with the Bionano Genomics Irys software system and the Irys-scaffolding scripts. OMSim is capable of handling very large genomes (over 30 Gbp) with high throughput and low memory requirements.The Python simulation tool and a cross-platform graphical user interface are available as open source software under the GNU GPL v2 license ( http://www.bioinformatics.intec.ugent.be/omsim ).jan.fostier@ugent.be.Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Department of Information Technology, IDLab, Ghent University-IMEC, Ghent 9052, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/btx293"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5860066"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5860066?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-01"
+  ],
+  "dateOfCreation": [
+    "2017-05-05"
+  ],
+  "firstIndexDate": [
+    "2017-05-05"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-09"
+  ],
+  "dateOfRevision": [
+    "2018-06-01"
+  ],
+  "firstPublicationDate": [
+    "2017-09-01"
+  ]
+}

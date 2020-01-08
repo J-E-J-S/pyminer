@@ -1,0 +1,415 @@
+{
+  "id": [
+    "31651969"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31651969"
+  ],
+  "pmcid": [
+    "PMC6822089"
+  ],
+  "doi": [
+    "10.1001/jamanetworkopen.2019.14051"
+  ],
+  "title": [
+    "Trends and Focus of Machine Learning Applications for Health Research."
+  ],
+  "authorString": [
+    "Beaulieu-Jones B, Finlayson SG, Chivers C, Chen I, McDermott M, Kandola J, Dalca AV, Beam A, Fiterau M, Naumann T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Beaulieu-Jones B"
+          ],
+          "firstName": [
+            "Brett"
+          ],
+          "lastName": [
+            "Beaulieu-Jones"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Finlayson SG"
+          ],
+          "firstName": [
+            "Samuel G"
+          ],
+          "lastName": [
+            "Finlayson"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Harvard Medical School, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Chivers C"
+          ],
+          "firstName": [
+            "Corey"
+          ],
+          "lastName": [
+            "Chivers"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Predictive Health Care Group, University of Pennsylvania Health System, Philadelphia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "MIT Computer Science and Artificial Intelligence Lab, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "McDermott M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "McDermott"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "MIT Computer Science and Artificial Intelligence Lab, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Kandola J"
+          ],
+          "firstName": [
+            "Jaz"
+          ],
+          "lastName": [
+            "Kandola"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Dalca AV"
+          ],
+          "firstName": [
+            "Adrian V"
+          ],
+          "lastName": [
+            "Dalca"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Beam A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Beam"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Fiterau M"
+          ],
+          "firstName": [
+            "Madalina"
+          ],
+          "lastName": [
+            "Fiterau"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Information and Computer Sciences, University of Massachusetts, Amherst."
+          ]
+        },
+        {
+          "fullName": [
+            "Naumann T"
+          ],
+          "firstName": [
+            "Tristan"
+          ],
+          "lastName": [
+            "Naumann"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Microsoft Research, Redmond, Washington."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2866239"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JAMA network open"
+          ],
+          "ISOAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "medlineAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "NLMid": [
+            "101729235"
+          ],
+          "ISSN": [
+            "2574-3805"
+          ],
+          "ESSN": [
+            "2574-3805"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1914051"
+  ],
+  "abstractText": [
+    "Importance:The use of machine learning applications related to health is rapidly increasing and may have the potential to profoundly affect the field of health care. Objective:To analyze submissions to a popular machine learning for health venue to assess the current state of research, including areas of methodologic and clinical focus, limitations, and underexplored areas. Design, Setting, and Participants:In this data-driven qualitative analysis, 166 accepted manuscript submissions to the Third Annual Machine Learning for Health workshop at the 32nd Conference on Neural Information Processing Systems on December 8, 2018, were analyzed to understand research focus, progress, and trends. Experts reviewed each submission against a rubric to identify key data points, statistical modeling and analysis of submitting authors was performed, and research topics were quantitatively modeled. Finally, an iterative discussion of topics common in submissions and invited speakers at the workshop was held to identify key trends. Main Outcomes and Measures:Frequency and statistical measures of methods, topics, goals, and author attributes were derived from an expert review of submissions guided by a rubric. Results:Of the 166 accepted submissions, 58 (34.9%) had clinician involvement and 83 submissions (50.0%) that focused on clinical practice included clinical collaborators. A total of 97 data sets (58.4%) used in submissions were publicly available or required a standard registration process. Clinical practice was the most common application area (70 manuscripts [42.2%]), with brain and mental health (25 [15.1%]), oncology (21 [12.7%]), and cardiovascular (19 [11.4%]) being the most common specialties. Conclusions and Relevance:Trends in machine learning for health research indicate the importance of well-annotated, easily accessed data and the benefit from greater clinician involvement in the development of translational applications."
+  ],
+  "affiliation": [
+    "Department of Biomedical Informatics, Harvard Medical School, Boston, Massachusetts."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 HL141771"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1001/jamanetworkopen.2019.14051"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6822089"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-26"
+  ],
+  "firstIndexDate": [
+    "2019-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-16"
+  ],
+  "dateOfRevision": [
+    "2019-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-02"
+  ],
+  "firstPublicationDate": [
+    "2019-10-02"
+  ]
+}

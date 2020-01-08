@@ -1,0 +1,360 @@
+{
+  "id": [
+    "31181659"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31181659"
+  ],
+  "pmcid": [
+    "PMC6631971"
+  ],
+  "doi": [
+    "10.3390/plants8060158"
+  ],
+  "title": [
+    "Annotation and Expression of IDN2-like and FDM-like Genes in Sexual and Aposporous Hypericum perforatum L. accessions."
+  ],
+  "authorString": [
+    "Basso A, Barcaccia G, Galla G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Basso A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Basso"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6784-7271",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Genetics and Genomics, DAFNAE, University of Padova, Campus of Agripolis, Viale dell' Università, 1635020 Legnaro, Italy. andrea.basso@unipd.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Barcaccia G"
+          ],
+          "firstName": [
+            "Gianni"
+          ],
+          "lastName": [
+            "Barcaccia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7478-5048",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Genetics and Genomics, DAFNAE, University of Padova, Campus of Agripolis, Viale dell' Università, 1635020 Legnaro, Italy. gianni.barcaccia@unipd.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Galla G"
+          ],
+          "firstName": [
+            "Giulio"
+          ],
+          "lastName": [
+            "Galla"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0063-9229",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Genetics and Genomics, DAFNAE, University of Padova, Campus of Agripolis, Viale dell' Università, 1635020 Legnaro, Italy. giulio.galla@unipd.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7478-5048",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6784-7271",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0063-9229",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2823212"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plants (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Plants (Basel)"
+          ],
+          "NLMid": [
+            "101596181"
+          ],
+          "ISSN": [
+            "2223-7747"
+          ],
+          "ESSN": [
+            "2223-7747"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The protein IDN2, together with the highly similar interactors FDM1 and FDM2, is required for RNA-directed DNA methylation (RdDM) and siRNA production. Epigenetic regulation of gene expression is required to restrict cell fate determination in A. thaliana ovules. Recently, three transcripts sharing high similarity with the A. thaliana IDN2 and FDM1-2 were found to be differentially expressed in ovules of apomictic Hypericum perforatum L. accessions. To gain further insight into the expression and regulation of these genes in the context of apomixis, we investigated genomic, transcriptional and functional aspects of the gene family in this species. The H. perforatum genome encodes for two IDN2-like and 7 FDM-like genes. Differential and heterochronic expression of FDM4-like genes was found in H. perforatum pistils. The involvement of these genes in reproduction and seed development is consistent with the observed reduction of the seed set and high variability in seed size in A. thaliana IDN2 and FDM-like knockout lines. Differential expression of IDN2-like and FDM-like genes in H. perforatum was predicted to affect the network of potential interactions between these proteins. Furthermore, pistil transcript levels are modulated by cytokinin and auxin but the effect operated by the two hormones depends on the reproductive phenotype."
+  ],
+  "affiliation": [
+    "Laboratory of Genetics and Genomics, DAFNAE, University of Padova, Campus of Agripolis, Viale dell' Università, 1635020 Legnaro, Italy. andrea.basso@unipd.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "RBSl14K1ON"
+          ],
+          "agency": [
+            "Ministero dell'Istruzione, dell'Università e della Ricerca"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cytokinin",
+        "auxin",
+        "FDM",
+        "Rddm",
+        "Idn2",
+        "Hypericum Perforatum L., Aposporous Apomixis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/plants8060158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6631971"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6631971?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-12"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-08-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-07"
+  ],
+  "firstPublicationDate": [
+    "2019-06-07"
+  ]
+}

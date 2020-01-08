@@ -1,0 +1,271 @@
+{
+  "id": [
+    "31737027"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31737027"
+  ],
+  "pmcid": [
+    "PMC6838210"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.01433"
+  ],
+  "title": [
+    "A Fruitful Decade Using Synthetic Promoters in the Improvement of Transgenic Plants."
+  ],
+  "authorString": [
+    "Ali S, Kim WC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ali S"
+          ],
+          "firstName": [
+            "Sajid"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Applied Biosciences, Kyungpook National University, Daegu, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim WC"
+          ],
+          "firstName": [
+            "Won-Chan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "affiliation": [
+            "School of Applied Biosciences, Kyungpook National University, Daegu, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1433"
+  ],
+  "abstractText": [
+    "Advances in plant biotechnology provide various means to improve crop productivity and greatly contributing to sustainable agriculture. A significant advance in plant biotechnology has been the availability of novel synthetic promoters for precise spatial and temporal control of transgene expression. In this article, we review the development of various synthetic promotors and the rise of their use over the last several decades for regulating the transcription of various transgenes. Similarly, we provided a brief description of the structure and scope of synthetic promoters and the engineering of their cis-regulatory elements for different targets. Moreover, the functional characteristics of different synthetic promoters, their modes of regulating the expression of candidate genes in response to different conditions, and the resulting plant trait improvements reported in the past decade are discussed."
+  ],
+  "affiliation": [
+    "School of Applied Biosciences, Kyungpook National University, Daegu, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drought",
+        "Transgenes",
+        "Gene Expression",
+        "Synthetic Promoters",
+        "Plant Improvement"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.01433"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838210"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6838210?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": [
+    "31791340"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31791340"
+  ],
+  "pmcid": [
+    "PMC6889691"
+  ],
+  "doi": [
+    "10.1186/s12915-019-0724-7"
+  ],
+  "title": [
+    "Unlocking the origins and biology of domestic animals using ancient DNA and paleogenomics."
+  ],
+  "authorString": [
+    "McHugo GP, Dover MJ, MacHugh DE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McHugo GP"
+          ],
+          "firstName": [
+            "Gillian P"
+          ],
+          "lastName": [
+            "McHugo"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "affiliation": [
+            "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Dover MJ"
+          ],
+          "firstName": [
+            "Michael J"
+          ],
+          "lastName": [
+            "Dover"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "MacHugh DE"
+          ],
+          "firstName": [
+            "David E"
+          ],
+          "lastName": [
+            "MacHugh"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland. david.machugh@ucd.ie."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2887392"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biol"
+          ],
+          "NLMid": [
+            "101190720"
+          ],
+          "ISSN": [
+            "1741-7007"
+          ],
+          "ESSN": [
+            "1741-7007"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "98"
+  ],
+  "abstractText": [
+    "Animal domestication has fascinated biologists since Charles Darwin first drew the parallel between evolution via natural selection and human-mediated breeding of livestock and companion animals. In this review we show how studies of ancient DNA from domestic animals and their wild progenitors and congeners have shed new light on the genetic origins of domesticates, and on the process of domestication itself. High-resolution paleogenomic data sets now provide unprecedented opportunities to explore the development of animal agriculture across the world. In addition, functional population genomics studies of domestic and wild animals can deliver comparative information useful for understanding recent human evolution."
+  ],
+  "affiliation": [
+    "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12915-019-0724-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6889691"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6889691?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-04"
+  ],
+  "firstIndexDate": [
+    "2019-12-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-02"
+  ],
+  "firstPublicationDate": [
+    "2019-12-02"
+  ]
+}

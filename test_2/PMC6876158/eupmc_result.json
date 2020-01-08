@@ -1,0 +1,681 @@
+{
+  "id": [
+    "31694883"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31694883"
+  ],
+  "pmcid": [
+    "PMC6876158"
+  ],
+  "doi": [
+    "10.1073/pnas.1915326116"
+  ],
+  "title": [
+    "Identification of U11snRNA as an endogenous agonist of TLR7-mediated immune pathogenesis."
+  ],
+  "authorString": [
+    "Negishi H, Endo N, Nakajima Y, Nishiyama T, Tabunoki Y, Nishio J, Koshiba R, Matsuda A, Matsuki K, Okamura T, Negishi-Koga T, Ichinohe T, Takemura S, Ishiwata H, Iemura SI, Natsume T, Abe T, Kiyonari H, Doi T, Hangai S, Yanai H, Fujio K, Yamamoto K, Taniguchi T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Negishi H"
+          ],
+          "firstName": [
+            "Hideo"
+          ],
+          "lastName": [
+            "Negishi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Endo N"
+          ],
+          "firstName": [
+            "Nobuyasu"
+          ],
+          "lastName": [
+            "Endo"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakajima Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Nakajima"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishiyama T"
+          ],
+          "firstName": [
+            "Tatsuaki"
+          ],
+          "lastName": [
+            "Nishiyama"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Tokyo New Drug Research Laboratories, Pharmaceutical Division, Kowa Company, Ltd., 189-0022 Higashimurayama, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tabunoki Y"
+          ],
+          "firstName": [
+            "Yuichiro"
+          ],
+          "lastName": [
+            "Tabunoki"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Tokyo New Drug Research Laboratories, Pharmaceutical Division, Kowa Company, Ltd., 189-0022 Higashimurayama, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nishio J"
+          ],
+          "firstName": [
+            "Junko"
+          ],
+          "lastName": [
+            "Nishio"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Koshiba R"
+          ],
+          "firstName": [
+            "Ryuji"
+          ],
+          "lastName": [
+            "Koshiba"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuda A"
+          ],
+          "firstName": [
+            "Atsushi"
+          ],
+          "lastName": [
+            "Matsuda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuki K"
+          ],
+          "firstName": [
+            "Kosuke"
+          ],
+          "lastName": [
+            "Matsuki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okamura T"
+          ],
+          "firstName": [
+            "Tomohisa"
+          ],
+          "lastName": [
+            "Okamura"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Allergy and Rheumatology, Graduate School of Medicine, The University of Tokyo, 113-8655 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Negishi-Koga T"
+          ],
+          "firstName": [
+            "Takako"
+          ],
+          "lastName": [
+            "Negishi-Koga"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, School of Dentistry, Showa University, 142-8555 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ichinohe T"
+          ],
+          "firstName": [
+            "Takeshi"
+          ],
+          "lastName": [
+            "Ichinohe"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6376-2841",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Viral Infection, Department of Infectious Disease Control, International Research Center for Infectious Diseases, Institute of Medical Science, The University of Tokyo, 108-8639 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takemura S"
+          ],
+          "firstName": [
+            "Shunji"
+          ],
+          "lastName": [
+            "Takemura"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Tokyo New Drug Research Laboratories, Pharmaceutical Division, Kowa Company, Ltd., 189-0022 Higashimurayama, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ishiwata H"
+          ],
+          "firstName": [
+            "Hiroyuki"
+          ],
+          "lastName": [
+            "Ishiwata"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Tokyo New Drug Research Laboratories, Pharmaceutical Division, Kowa Company, Ltd., 189-0022 Higashimurayama, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Iemura SI"
+          ],
+          "firstName": [
+            "Shun-Ichiro"
+          ],
+          "lastName": [
+            "Iemura"
+          ],
+          "initials": [
+            "SI"
+          ],
+          "affiliation": [
+            "Molecular Profiling Research Center for Drug Discovery, National Institute of Advanced Industrial Science and Technology, 153-0064 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Natsume T"
+          ],
+          "firstName": [
+            "Tohru"
+          ],
+          "lastName": [
+            "Natsume"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Molecular Profiling Research Center for Drug Discovery, National Institute of Advanced Industrial Science and Technology, 153-0064 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Abe T"
+          ],
+          "firstName": [
+            "Takaya"
+          ],
+          "lastName": [
+            "Abe"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, 650-0047 Kobe, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kiyonari H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Kiyonari"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, 650-0047 Kobe, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Doi T"
+          ],
+          "firstName": [
+            "Takeshi"
+          ],
+          "lastName": [
+            "Doi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Tokyo New Drug Research Laboratories, Pharmaceutical Division, Kowa Company, Ltd., 189-0022 Higashimurayama, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hangai S"
+          ],
+          "firstName": [
+            "Sho"
+          ],
+          "lastName": [
+            "Hangai"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yanai H"
+          ],
+          "firstName": [
+            "Hideyuki"
+          ],
+          "lastName": [
+            "Yanai"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujio K"
+          ],
+          "firstName": [
+            "Keishi"
+          ],
+          "lastName": [
+            "Fujio"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Allergy and Rheumatology, Graduate School of Medicine, The University of Tokyo, 113-8655 Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto K"
+          ],
+          "firstName": [
+            "Kazuhiko"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Laboratory for Autoimmune Diseases, Center for Integrative Medical Sciences, RIKEN, 230-0045 Yokohama, Kanagawa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Taniguchi T"
+          ],
+          "firstName": [
+            "Tadatsugu"
+          ],
+          "lastName": [
+            "Taniguchi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan; tada@m.u-tokyo.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6376-2841",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "47"
+      ],
+      "volume": [
+        "116"
+      ],
+      "journalIssueId": [
+        "2883773"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "23653-23661"
+  ],
+  "abstractText": [
+    "The activation of innate immune receptors by pathogen-associated molecular patterns (PAMPs) is central to host defense against infections. On the other hand, these receptors are also activated by immunogenic damage-associated molecular patterns (DAMPs), typically released from dying cells, and the activation can evoke chronic inflammatory or autoimmune disorders. One of the best known receptors involved in the immune pathogenesis is Toll-like receptor 7 (TLR7), which recognizes RNA with single-stranded structure. However, the causative DAMP RNA(s) in the pathogenesis has yet to be identified. Here, we first developed a chemical compound, termed KN69, that suppresses autoimmunity in several established mouse models. A subsequent search for KN69-binding partners led to the identification of U11 small nuclear RNA (U11snRNA) as a candidate DAMP RNA involved in TLR7-induced autoimmunity. We then showed that U11snRNA robustly activated the TLR7 pathway in vitro and induced arthritis disease in vivo. We also found a correlation between high serum level of U11snRNA and autoimmune diseases in human subjects and established mouse models. Finally, by revealing the structural basis for U11snRNA's ability to activate TLR7, we developed more potent TLR7 agonists and TLR7 antagonists, which may offer new therapeutic approaches for autoimmunity or other immune-driven diseases. Thus, our study has revealed a hitherto unknown immune function of U11snRNA, providing insight into TLR7-mediated autoimmunity and its potential for further therapeutic applications."
+  ],
+  "affiliation": [
+    "Department of Molecular Immunology, Institute of Industrial Science, The University of Tokyo, 153-8505 Tokyo, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Autoimmune diseases",
+        "Damps",
+        "Type I Ifn",
+        "Tlr7",
+        "U11snrna"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1915326116"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6876158"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6876158?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-08"
+  ],
+  "firstIndexDate": [
+    "2019-11-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-06"
+  ],
+  "firstPublicationDate": [
+    "2019-11-06"
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": [
+    "30729182"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30729182"
+  ],
+  "pmcid": [
+    "PMC6355807"
+  ],
+  "doi": [
+    "10.1038/s42003-019-0291-z"
+  ],
+  "title": [
+    "Somatic mutation detection and classification through probabilistic integration of clonal population information."
+  ],
+  "authorString": [
+    "Dorri F, Jewell S, Bouchard-Côté A, Shah SP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dorri F"
+          ],
+          "firstName": [
+            "Fatemeh"
+          ],
+          "lastName": [
+            "Dorri"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "1Department of Computer Science, University of British Columbia, 201- 2366 Main Mall, V6T 1Z4 Vancouver, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Jewell S"
+          ],
+          "firstName": [
+            "Sean"
+          ],
+          "lastName": [
+            "Jewell"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "2Department of Statistics, University of Washington, B313 Padelford Hall, Northeast Stevens Way, Seattle, WA 24105 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bouchard-Côté A"
+          ],
+          "firstName": [
+            "Alexandre"
+          ],
+          "lastName": [
+            "Bouchard-Côté"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "3Department of Statistics, University of British Columbia, 3182 Earth Sciences Building, 2207 Main Mall, V6T 1Z4 Vancouver, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah SP"
+          ],
+          "firstName": [
+            "Sohrab P"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6402-523X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "4Department of Molecular Oncology, University of British Columbia, 675 West 10th Avenue, V5Z 1L3 Vancouver, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6402-523X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2769223"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "44"
+  ],
+  "abstractText": [
+    "Somatic mutations are a primary contributor to malignancy in human cells. Accurate detection of mutations is needed to define the clonal composition of tumours whereby clones may have distinct phenotypic properties. Although analysis of mutations over multiple tumour samples from the same patient has the potential to enhance identification of clones, few analytic methods exploit the correlation structure across samples. We posited that incorporating clonal information into joint analysis over multiple samples would improve mutation detection, particularly those with low prevalence. In this paper, we develop a new procedure called MuClone, for detection of mutations across multiple tumour samples of a patient from whole genome or exome sequencing data. In addition to mutation detection, MuClone classifies mutations into biologically meaningful groups and allows us to study clonal dynamics. We show that, on lung and ovarian cancer datasets, MuClone improves somatic mutation detection sensitivity over competing approaches without compromising specificity."
+  ],
+  "affiliation": [
+    "1Department of Computer Science, University of British Columbia, 201- 2366 Main Mall, V6T 1Z4 Vancouver, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "FDN 143246"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-019-0291-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355807"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6355807?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-08"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-19"
+  ],
+  "dateOfRevision": [
+    "2019-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

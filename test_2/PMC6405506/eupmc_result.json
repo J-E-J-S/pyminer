@@ -1,0 +1,410 @@
+{
+  "id": [
+    "30881956"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30881956"
+  ],
+  "pmcid": [
+    "PMC6405506"
+  ],
+  "doi": [
+    "10.3389/fmed.2019.00034"
+  ],
+  "title": [
+    "From Big Data to Precision Medicine."
+  ],
+  "authorString": [
+    "Hulsen T, Jamuar SS, Moody AR, Karnes JH, Varga O, Hedensted S, Spreafico R, Hafler DA, McKinney EF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hulsen T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Hulsen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0208-8443",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Professional Health Solutions and Services, Philips Research, Eindhoven, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Jamuar SS"
+          ],
+          "firstName": [
+            "Saumya S"
+          ],
+          "lastName": [
+            "Jamuar"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, KK Women's and Children's Hospital, and Paediatric Academic Clinical Programme, Duke-NUS Medical School, Singapore, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Moody AR"
+          ],
+          "firstName": [
+            "Alan R"
+          ],
+          "lastName": [
+            "Moody"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Department of Medical Imaging, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Karnes JH"
+          ],
+          "firstName": [
+            "Jason H"
+          ],
+          "lastName": [
+            "Karnes"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Pharmacy Practice and Science, College of Pharmacy, University of Arizona Health Sciences, Phoenix, AZ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Varga O"
+          ],
+          "firstName": [
+            "Orsolya"
+          ],
+          "lastName": [
+            "Varga"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Preventive Medicine, Faculty of Public Health, University of Debrecen, Debrecen, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Hedensted S"
+          ],
+          "firstName": [
+            "Stine"
+          ],
+          "lastName": [
+            "Hedensted"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular Medicine, Aarhus University Hospital, Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Spreafico R"
+          ],
+          "firstName": [
+            "Roberto"
+          ],
+          "lastName": [
+            "Spreafico"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Synthetic Genomics Inc., La Jolla, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hafler DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Hafler"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Departments of Neurology and Immunobiology, Yale School of Medicine, New Haven, CT, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "McKinney EF"
+          ],
+          "firstName": [
+            "Eoin F"
+          ],
+          "lastName": [
+            "McKinney"
+          ],
+          "initials": [
+            "EF"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Cambridge School of Clinical Medicine, Cambridge, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0208-8443",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2778734"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in medicine"
+          ],
+          "ISOAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "medlineAbbreviation": [
+            "Front Med (Lausanne)"
+          ],
+          "NLMid": [
+            "101648047"
+          ],
+          "ISSN": [
+            "2296-858X"
+          ],
+          "ESSN": [
+            "2296-858X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "34"
+  ],
+  "abstractText": [
+    "For over a decade the term \"Big data\" has been used to describe the rapid increase in volume, variety and velocity of information available, not just in medical research but in almost every aspect of our lives. As scientists, we now have the capacity to rapidly generate, store and analyse data that, only a few years ago, would have taken many years to compile. However, \"Big data\" no longer means what it once did. The term has expanded and now refers not to just large data volume, but to our increasing ability to analyse and interpret those data. Tautologies such as \"data analytics\" and \"data science\" have emerged to describe approaches to the volume of available information as it grows ever larger. New methods dedicated to improving data collection, storage, cleaning, processing and interpretation continue to be developed, although not always by, or for, medical researchers. Exploiting new tools to extract meaning from large volume information has the potential to drive real change in clinical practice, from personalized therapy and intelligent drug design to population screening and electronic health record mining. As ever, where new technology promises \"Big Advances,\" significant challenges remain. Here we discuss both the opportunities and challenges posed to biomedical research by our increasing ability to tackle large datasets. Important challenges include the need for standardization of data content, format, and clinical definitions, a heightened need for collaborative networks with sharing of both data and expertise and, perhaps most importantly, a need to reconsider how and when analytic methodology is taught to medical researchers. We also set \"Big data\" analytics in context: recent advances may appear to promise a revolution, sweeping away conventional approaches to medical science. However, their real promise lies in their synergy with, not replacement of, classical hypothesis-driven methods. The generation of novel, data-driven hypotheses based on interpretable models will always require stringent validation and experimental testing. Thus, hypothesis-generating research founded on large datasets adds to, rather than replaces, traditional hypothesis driven science. Each can benefit from the other and it is through using both that we can improve clinical practice."
+  ],
+  "affiliation": [
+    "Department of Professional Health Solutions and Services, Philips Research, Eindhoven, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Translational Medicine",
+        "Big Data",
+        "Precision Medicine",
+        "Big Data Analytics",
+        "Data Science"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmed.2019.00034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6405506"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6405506?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-19"
+  ],
+  "firstIndexDate": [
+    "2019-03-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-19"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-01"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "id": [
+    "31117955"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31117955"
+  ],
+  "pmcid": [
+    "PMC6532250"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5786-y"
+  ],
+  "title": [
+    "A genome-wide association study reveals specific transferases as candidate loci for bovine milk oligosaccharides synthesis."
+  ],
+  "authorString": [
+    "Poulsen NA, Robinson RC, Barile D, Larsen LB, Buitenhuis B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Poulsen NA"
+          ],
+          "firstName": [
+            "Nina A"
+          ],
+          "lastName": [
+            "Poulsen"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9983-9663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science, Aarhus University, Blichers Allé 20, P. O. Box 50, DK-8830, Tjele, Denmark. Nina.Poulsen@food.au.dk."
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson RC"
+          ],
+          "firstName": [
+            "Randall C"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology, University of California, Davis, One Shields Ave., Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Barile D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Barile"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Food Science and Technology, University of California, Davis, One Shields Ave., Davis, CA, 95616, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Larsen LB"
+          ],
+          "firstName": [
+            "Lotte B"
+          ],
+          "lastName": [
+            "Larsen"
+          ],
+          "initials": [
+            "LB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9674-0107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science, Aarhus University, Blichers Allé 20, P. O. Box 50, DK-8830, Tjele, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Buitenhuis B"
+          ],
+          "firstName": [
+            "Bart"
+          ],
+          "lastName": [
+            "Buitenhuis"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4953-3081",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Quantitative Genetics and Genomics, Department of Molecular Biology and Genetics, Aarhus University, Blichers Allé 20, P. O. Box 50, DK-8830, Tjele, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9674-0107",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9983-9663",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4953-3081",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2811812"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "404"
+  ],
+  "abstractText": [
+    "BACKGROUND:Human milk oligosaccharides (OS) play a key role in brain and gut microbiota development of the neonate, but the underlying biosynthetic steps of OS in the mammary gland are still largely unknown. As bovine milk contains OS with somewhat similar structures and functionalities there is increased interest in further understanding the genetic basis underlying the OS content of milk for eventual extraction and generation of value-added ingredients for infant formulas and nutraceuticals. The present study is the first to report on genetic parameter estimation as well as on a genome wide association study (GWAS) from the largest bovine milk OS dataset analyzed to date. RESULTS:In total 15 different bovine milk OS were monitored. Heritabilities ranged from 0 to 0.68 in Danish Holstein and from 0 to 0.92 in Danish Jersey. The GWAS identified in total 1770 SNPs (FDR < 0.10) for five different OS in Danish Holstein and 6913 SNPs (FDR < 0.10) for 11 OS in Danish Jersey. In Danish Holstein, a major overlapping QTL was identified on BTA1 for LNH and LNT explaining 24% of the variation in these OS. The most significant SNPs were associated with B3GNT5, a gene encoding a glycosyltransferase involved in glycan synthesis. In Danish Jersey, a very strong QTL was detected for the OS with composition 2 Hex 1 HexNAc (isomer 1) on BTA11. The most significant SNP had -log10(P-value) of 52.88 (BOVINEHD1100030300) and was assigned to ABO, a gene encoding ABO blood group glycosyltransferases. This SNP has been reported to be a missense mutation and explains 56% of the OS variation. Other candidate genes of interest identified for milk OS were ALG3, B3GALNT2, LOC520336, PIGV, MAN1C1, ST6GALNAC6, GLT6D1, GALNT14, GALNT17, COLGALT2, LFNG and SIGLEC. CONCLUSION:To our knowledge, this is the first study documenting a solid breeding potential for bovine milk OS and a strong indication of specific candidate genes related to OS synthesis underlying this genetic influence. This new information has the potential to guide breeding strategies to achieve production of milk with higher diversity and concentration of OS and ultimately facilitate large-scale extraction of bovine milk OS."
+  ],
+  "affiliation": [
+    "Department of Food Science, Aarhus University, Blichers Allé 20, P. O. Box 50, DK-8830, Tjele, Denmark. Nina.Poulsen@food.au.dk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Milk"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cattle"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transferases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oligosaccharides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait Loci"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Milk",
+        "Oligosaccharides",
+        "Gwas",
+        "Candidate Genes"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oligosaccharides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Transferases"
+          ],
+          "registryNumber": [
+            "EC 2.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5786-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6532250"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6532250?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-31"
+  ],
+  "dateOfCreation": [
+    "2019-05-24"
+  ],
+  "firstIndexDate": [
+    "2019-05-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-22"
+  ],
+  "firstPublicationDate": [
+    "2019-05-22"
+  ]
+}

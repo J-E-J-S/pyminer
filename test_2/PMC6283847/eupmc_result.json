@@ -1,0 +1,550 @@
+{
+  "id": [
+    "30523255"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30523255"
+  ],
+  "pmcid": [
+    "PMC6283847"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07618-8"
+  ],
+  "title": [
+    "Hierarchical and programmable one-pot synthesis of oligosaccharides."
+  ],
+  "authorString": [
+    "Cheng CW, Zhou Y, Pan WH, Dey S, Wu CY, Hsu WL, Wong CH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng CW"
+          ],
+          "firstName": [
+            "Cheng-Wei"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3491-8920",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bioinformatics Program, Taiwan International Graduate Program, Academia Sinica, Taipei, 11529, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yixuan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, 11529, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan WH"
+          ],
+          "firstName": [
+            "Wen-Harn"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Institute of Biomedical Sciences, Academia Sinica, Taipei, 11529, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Dey S"
+          ],
+          "firstName": [
+            "Supriya"
+          ],
+          "lastName": [
+            "Dey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, 11529, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu CY"
+          ],
+          "firstName": [
+            "Chung-Yi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, 11529, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu WL"
+          ],
+          "firstName": [
+            "Wen-Lian"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "WL"
+          ],
+          "affiliation": [
+            "Institute of Information Science, Academia Sinica, Taipei, 11529, Taiwan. hsu@iis.sinica.edu.tw."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong CH"
+          ],
+          "firstName": [
+            "Chi-Huey"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, 11529, Taiwan. chwong@gate.sinica.edu.tw."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3491-8920",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2756345"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5202"
+  ],
+  "abstractText": [
+    "The programmable one-pot oligosaccharide synthesis method was designed to enable the rapid synthesis of a large number of oligosaccharides, using the software Optimer to search Building BLocks (BBLs) with defined relative reactivity values (RRVs) to be used sequentially in the one-pot reaction. However, there were only about 50 BBLs with measured RRVs in the original library and the method could only synthesize small oligosaccharides due to the RRV ordering requirement. Here, we increase the library to include 154 validated BBLs and more than 50,000 virtual BBLs with predicted RRVs by machine learning. We also develop the software Auto-CHO to accommodate more data handling and support hierarchical one-pot synthesis using fragments as BBLs generated by the one-pot synthesis. This advanced programmable one-pot method provides potential synthetic solutions for complex glycans with four successful examples demonstrated in this work."
+  ],
+  "affiliation": [
+    "Bioinformatics Program, Taiwan International Graduate Program, Academia Sinica, Taipei, 11529, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polysaccharides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oligosaccharides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CS"
+                  ],
+                  "qualifierName": [
+                    "chemical synthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Structure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carbohydrate Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Chemical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Polysaccharides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Oligosaccharides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07618-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6283847"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6283847?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-02"
+  ],
+  "dateOfCreation": [
+    "2018-12-08"
+  ],
+  "firstIndexDate": [
+    "2018-12-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-14"
+  ],
+  "dateOfRevision": [
+    "2019-12-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-06"
+  ],
+  "firstPublicationDate": [
+    "2018-12-06"
+  ]
+}

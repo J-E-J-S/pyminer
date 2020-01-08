@@ -1,0 +1,273 @@
+{
+  "id": [
+    "29556534"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29556534"
+  ],
+  "pmcid": [
+    "PMC5850074"
+  ],
+  "doi": [
+    "10.1128/mSystems.00190-17"
+  ],
+  "title": [
+    "On the Road to Strain-Resolved Comparative Metagenomics."
+  ],
+  "authorString": [
+    "Segata N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Segata N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "Segata"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1583-5794",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Integrative Biology, University of Trento, Trento, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1583-5794",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2663292"
+      ],
+      "dateOfPublication": [
+        "2018 Mar-Apr"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mSystems"
+          ],
+          "ISOAbbreviation": [
+            "mSystems"
+          ],
+          "medlineAbbreviation": [
+            "mSystems"
+          ],
+          "NLMid": [
+            "101680636"
+          ],
+          "ISSN": [
+            "2379-5077"
+          ],
+          "ESSN": [
+            "2379-5077"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Metagenomics has transformed microbiology, but its potential has not been fully expressed yet. From computational methods for digging deeper into metagenomes to study designs for addressing specific hypotheses, the Segata Lab is pursuing an integrative metagenomic approach to describe and model human-associated microbial communities as collections of strains. Linking strain variants to host phenotypes and performing cultivation-free population genomics require large cohorts and meta-analysis strategies to synthesize available cohorts but can revolutionize our understanding of the personalized host-microbiome interface which is at the base of human health."
+  ],
+  "affiliation": [
+    "Centre for Integrative Biology, University of Trento, Trento, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "computational biology",
+        "Metagenomics",
+        "Human Microbiome",
+        "Comparative Microbial Genomics",
+        "Strain Profiling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5850074?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5850074"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/mSystems.00190-17"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-21"
+  ],
+  "firstIndexDate": [
+    "2018-03-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-13"
+  ],
+  "firstPublicationDate": [
+    "2018-03-13"
+  ]
+}

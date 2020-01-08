@@ -1,0 +1,440 @@
+{
+  "id": [
+    "31216637"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31216637"
+  ],
+  "pmcid": [
+    "PMC6630934"
+  ],
+  "doi": [
+    "10.3390/medicina55060283"
+  ],
+  "title": [
+    "Role of Key Micronutrients from Nutrigenetic and Nutrigenomic Perspectives in Cancer Prevention."
+  ],
+  "authorString": [
+    "Irimie AI, Braicu C, Pasca S, Magdo L, Gulei D, Cojocneanu R, Ciocan C, Olariu A, Coza O, Berindan-Neagoe I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Irimie AI"
+          ],
+          "firstName": [
+            "Alexandra Iulia"
+          ],
+          "lastName": [
+            "Irimie"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "affiliation": [
+            "Department of Prosthetic Dentistry and Dental Materials, Division Dental Propaedeutics, Aesthetic, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj-Napoca, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. irimie.alexandra@umfcluj.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Braicu C"
+          ],
+          "firstName": [
+            "Cornelia"
+          ],
+          "lastName": [
+            "Braicu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics and Translational Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. cornelia.braicu@umfcluj.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasca S"
+          ],
+          "firstName": [
+            "Sergiu"
+          ],
+          "lastName": [
+            "Pasca"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics and Translational Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. pasca.sergiu123@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Magdo L"
+          ],
+          "firstName": [
+            "Lorand"
+          ],
+          "lastName": [
+            "Magdo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics and Translational Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. lorand.magdo@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Gulei D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Gulei"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "MEDFUTURE-Research Center for Advanced Medicine, University of Medicine and Pharmacy Iuliu Hatieganu, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. diana.c.gulei@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cojocneanu R"
+          ],
+          "firstName": [
+            "Roxana"
+          ],
+          "lastName": [
+            "Cojocneanu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7450-9454",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics and Translational Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. cojocneanur@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ciocan C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Ciocan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "MEDFUTURE-Research Center for Advanced Medicine, University of Medicine and Pharmacy Iuliu Hatieganu, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. crisciocan@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Olariu A"
+          ],
+          "firstName": [
+            "Andrei"
+          ],
+          "lastName": [
+            "Olariu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nordlogic Software, 10-12, Rene Descartes Street 400486 Cluj-Napoca, Romania. andrei.olariu@nordlogic.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Coza O"
+          ],
+          "firstName": [
+            "Ovidiu"
+          ],
+          "lastName": [
+            "Coza"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8865-2913",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Radiotherapy with High Energies and Brachytherapy, Oncology Institute \"Prof. Dr. Ion Chiricuta\", Street Republicii, No. 34-36, 400015 Cluj-Napoca, Romania. coza.ovidiu@iocn.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Berindan-Neagoe I"
+          ],
+          "firstName": [
+            "Ioana"
+          ],
+          "lastName": [
+            "Berindan-Neagoe"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics and Translational Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. ioana.neagoe@umfcluj.ro."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8865-2913",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7450-9454",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2823205"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicina (Kaunas, Lithuania)"
+          ],
+          "ISOAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "medlineAbbreviation": [
+            "Medicina (Kaunas)"
+          ],
+          "NLMid": [
+            "9425208"
+          ],
+          "ISSN": [
+            "1010-660X"
+          ],
+          "ESSN": [
+            "1648-9144"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Regarding cancer as a genetic multi-factorial disease, a number of aspects need to be investigated and analyzed in terms of cancer's predisposition, development and prognosis. One of these multi-dimensional factors, which has gained increased attention in the oncological field due to its unelucidated role in risk assessment for cancer, is diet. Moreover, as studies advance, a clearer connection between diet and the molecular alteration of patients is becoming identifiable and quantifiable, thereby replacing the old general view associating specific phenotypical changes with the differential intake of nutrients. Respectively, there are two major fields concentrated on the interrelation between genome and diet: nutrigenetics and nutrigenomics. Nutrigenetics studies the effects of nutrition at the gene level, whereas nutrigenomics studies the effect of nutrients on genome and transcriptome patterns. By precisely evaluating the interaction between the genomic profile of patients and their nutrient intake, it is possible to envision a concept of personalized medicine encompassing nutrition and health care. The list of nutrients that could have an inhibitory effect on cancer development is quite extensive, with evidence in the scientific literature. The administration of these nutrients showed significant results in vitro and in vivo regarding cancer inhibition, although more studies regarding administration in effective doses in actual patients need to be done."
+  ],
+  "affiliation": [
+    "Department of Prosthetic Dentistry and Dental Materials, Division Dental Propaedeutics, Aesthetic, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj-Napoca, 23 Marinescu Street, 40015 Cluj-Napoca, Romania. irimie.alexandra@umfcluj.ro."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Chemoprevention",
+        "Nutrigenetics",
+        "Nutrigenomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicina55060283"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6630934"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6630934?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-21"
+  ],
+  "dateOfRevision": [
+    "2019-08-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-18"
+  ],
+  "firstPublicationDate": [
+    "2019-06-18"
+  ]
+}

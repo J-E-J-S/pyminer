@@ -1,0 +1,291 @@
+{
+  "id": [
+    "31781549"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31781549"
+  ],
+  "pmcid": [
+    "PMC6856225"
+  ],
+  "doi": [
+    "10.3389/fbioe.2019.00289"
+  ],
+  "title": [
+    "Enzymatic Bioremediation of Organophosphate Compounds-Progress and Remaining Challenges."
+  ],
+  "authorString": [
+    "Thakur M, Medintz IL, Walper SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thakur M"
+          ],
+          "firstName": [
+            "Meghna"
+          ],
+          "lastName": [
+            "Thakur"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Science, George Mason University, Fairfax, VA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Medintz IL"
+          ],
+          "firstName": [
+            "Igor L"
+          ],
+          "lastName": [
+            "Medintz"
+          ],
+          "initials": [
+            "IL"
+          ],
+          "affiliation": [
+            "Center for Bio/Molecular Sciences, U.S. Naval Research Laboratory, Washington, DC, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Walper SA"
+          ],
+          "firstName": [
+            "Scott A"
+          ],
+          "lastName": [
+            "Walper"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Center for Bio/Molecular Sciences, U.S. Naval Research Laboratory, Washington, DC, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2775597"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "289"
+  ],
+  "abstractText": [
+    "Organophosphate compounds are ubiquitously employed as agricultural pesticides and maintained as chemical warfare agents by several nations. These compounds are highly toxic, show environmental persistence and accumulation, and contribute to numerous cases of poisoning and death each year. While their use as weapons of mass destruction is rare, these never fully disappear into obscurity as they continue to be tools of fear and control by governments and terrorist organizations. Beyond weaponization, their wide-scale dissemination as agricultural products has led to environmental accumulation and intoxication of soil and water across the globe. Therefore, there is a dire need for rapid and safe agents for environmental bioremediation, personal decontamination, and as therapeutic detoxicants. Organophosphate hydrolyzing enzymes are emerging as appealing targets to satisfy decontamination needs owing to their ability to hydrolyze both pesticides and nerve agents using biologically-derived materials safe for both the environment and the individual. As the release of genetically modified organisms is not widely accepted practice, researchers are exploring alternative strategies of organophosphate bioremediation that focus on cell-free enzyme systems. In this review, we first discuss several of the more prevalent organophosphorus hydrolyzing enzymes along with research and engineering efforts that have led to an enhancement in their activity, substrate tolerance, and stability. In the later half we focus on advances achieved through research focusing on enhancing the catalytic activity and stability of phosphotriesterase, a model organophosphate hydrolase, using various approaches such as nanoparticle display, DNA scaffolding, and outer membrane vesicle encapsulation."
+  ],
+  "affiliation": [
+    "College of Science, George Mason University, Fairfax, VA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Catalysis",
+        "Enzyme",
+        "Bioremediation",
+        "Organophosphate",
+        "Decontamination",
+        "Chemical Warfare Agent",
+        "Outer Membrane Vesicle",
+        "Phosphotriesterase"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2019.00289"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6856225"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6856225?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-30"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-08"
+  ],
+  "firstPublicationDate": [
+    "2019-11-08"
+  ]
+}

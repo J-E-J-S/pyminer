@@ -1,0 +1,395 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="rapid-communication" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Synth Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Synth Biol</journal-id><journal-id journal-id-type="publisher-id">sb</journal-id><journal-id journal-id-type="coden">asbcd6</journal-id><journal-title-group><journal-title>ACS Synthetic Biology</journal-title></journal-title-group><issn pub-type="epub">2161-5063</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6862569</article-id><article-id pub-id-type="doi">10.1021/acssynbio.9b00220</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Design and Control of Extrachromosomal Elements in <italic>Methylorubrum extorquens</italic> AM1</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Carrillo</surname><given-names>Martina</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Wagner</surname><given-names>Marcel</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Petit</surname><given-names>Florian</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Dransfeld</surname><given-names>Amelie</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Becker</surname><given-names>Anke</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Erb</surname><given-names>Tobias J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Biochemistry &#x00026; Synthetic Metabolism, <institution>Max Planck Institute for Terrestrial Microbiology</institution>, Karl-von-Frisch-Str. 10, 35043 Marburg, <country>Germany</country></aff><aff id="aff2"><label>&#x02021;</label><institution>LOEWE
+Center for Synthetic Microbiology</institution>, 35043 Marburg, <country>Germany</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Phone: <phone>+49 6421 178 700</phone>. E-mail: <email>toerb@mpi-marburg.mpg.de</email>.</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>10</month><year>2019</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>11</month><year>2019</year></pub-date><volume>8</volume><issue>11</issue><fpage>2451</fpage><lpage>2456</lpage><history><date date-type="received"><day>21</day><month>05</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb9b00220_0005" id="ab-tgr1"/></p><p>Genetic
+tools are a prerequisite to engineer cellular factories
+for synthetic biology and biotechnology. <italic>Methylorubrum extorquens</italic> AM1 is an important platform organism of a future C<sub>1</sub>-bioeconomy.
+However, its application is currently limited by the availability
+of genetic tools. Here we systematically tested <italic>repABC</italic> regions to maintain extrachromosomal DNA in <italic>M.&#x000a0;extorquens</italic>. We used three elements to construct mini-chromosomes that are stably
+inherited at single copy number and can be shuttled between <italic>Escherichia coli</italic> and <italic>M.&#x000a0;extorquens</italic>. These mini-chromosomes are compatible among each other and with
+high-copy number plasmids of <italic>M.&#x000a0;extorquens</italic>.
+We also developed a set of inducible promoters of wide expression
+range, reaching levels exceeding those currently available, notably
+the <italic>P</italic><sub><italic>mxaF</italic></sub>-promoter. In
+summary, we provide a set of tools to control the dynamic expression
+and copy number of genetic elements in <italic>M.&#x000a0;extorquens</italic>, which opens new ways to unleash the metabolic and biotechnological
+potential of this organism for future applications.</p></abstract><kwd-group><kwd><italic>repABC</italic></kwd><kwd>inducible promoters</kwd><kwd>synthetic chromosomes</kwd><kwd><italic>Methylorubrum extorquens</italic></kwd><kwd>Alphaproteobacteria</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>sb9b00220</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>sb9b00220</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1"><italic>Methylorubrum extorquens</italic> AM1 (formerly <italic>Methylobacterium
+extorquens</italic>) has
+been used as a model organism to study methylotrophy, <italic>i.e.</italic>, growth on C<sub>1</sub> carbon sources, such as methanol and formate,
+since its isolation in 1961.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The genome
+of <italic>M.&#x000a0;extorquens</italic> AM1 has been fully sequenced,
+and a genome-scale metabolic network was reconstructed for rational
+engineering.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> The unique ability of <italic>M.&#x000a0;extorquens</italic> to grow on C<sub>1</sub>-units has made
+it an increasingly relevant organism for biotechnology in a methanol-
+and formate-based bioeconomy.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Production
+of bulk and value-added chemicals such as mevalonate, &#x003b1;-humulene,
+3-hydroxypropionate, and 1-butanol has already been realized in <italic>M.&#x000a0;extorquens</italic>.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> For the further development of <italic>M.&#x000a0;extorquens</italic> as a platform organism in C<sub>1</sub>-biotechnology, a broad set
+of genetic tools are required. Several basic tools are available:
+one replicative plasmid, <italic>cre-loxP</italic> and <italic>sacB</italic>-based suicide vectors for allelic replacement, and genetic parts
+including constitutive and, to a lesser extent, inducible promoters.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> Yet, this basic set of genetic tools is far from being complete,
+and many applications are challenged by the fact that more elaborate
+genetic tools are missing for this organism.</p><p>One particular
+challenge is the lack of dynamic control of gene
+expression in <italic>M.&#x000a0;extorquens</italic>. The P<sub><italic>lac</italic></sub> promoter and its derivatives, which are widely
+used in many bacteria, confer only weak or leaky expression in <italic>M.&#x000a0;extorquens</italic>.<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> As an alternative
+to P<sub><italic>lac</italic></sub>, cumate-inducible promoters have
+been created by combining the CuO-CymR system from <italic>Pseudomonas
+putida</italic> F1 to native P<sub><italic>mxaF</italic></sub> and
+P<sub><italic>META1p2148</italic></sub> promoters.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> While these hybrid promoters are strong upon induction, overexpression
+of the CymR repressor itself is toxic to the cells causing severe
+growth defects.</p><p>Another, equally important challenge is the
+availability and control
+over extrachromosomal genetic elements. Only one broad host range
+plasmid has been reported that replicates in <italic>M.&#x000a0;extorquens</italic> without causing severe growth defects.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> This plasmid
+(referred to as oriV-traJ&#x02032; henceforth) has several disadvantages:
+a multiple and varying copy number, limited compatibility with other
+extrachromosomal genetic elements, and the need for constant selective
+pressure, which restricts its application potential. Genomic integration
+would circumvent using a plasmid. However, the transformation efficiency
+is several orders of magnitude lower for genomic integration events,
+and neutral sites for integration have not been characterized in this
+organism. It also requires the construction of a suicide vector with
+the desired DNA cargo flanked by homologous regions (&#x02265;0.5 kb)
+and subsequent verification of integration at the desired locus. All
+of these steps are work intensive and time-consuming.</p><p>Many Alphaproteobacteria
+have multipartite genomes composed of
+a main chromosome and one or more megaplasmids. The replication of
+megaplasmids is integrated into the bacterial cell cycle and occurs
+once to ensure faithful transmission of genetic information.<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> A small region within these megaplasmids, termed the <italic>repABC</italic> cassette, drives vertical transmission of these secondary replicons. <italic>repA</italic> and <italic>repB</italic> encode for partitioning proteins
+analogous to the well-known ParA and ParB, while RepC is a replication
+initiator protein. The origin of replication resides within the <italic>repC</italic> coding sequence, whose expression is downregulated
+by a short, nontranslated counter-transcribed RNA (ctRNA) typically
+located in the <italic>repB</italic>/<italic>repC</italic> intergenic
+region.<sup><xref ref-type="bibr" rid="ref15">15</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> On the basis of this distinctive region, a new family
+of <italic>repABC</italic>-type shuttle vectors was successfully designed
+for <italic>Sinorhizobium meliloti</italic> mimicking the characteristic
+features of secondary replicons, <italic>i.e.</italic>, single copy
+number and stable propagation.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Four of
+these <italic>repABC</italic> regions were shown to be able to replicate
+in <italic>M.&#x000a0;extorquens</italic> but they affected the growth
+of the organism.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup></p><p>Here, to expand
+the limited genetic toolbox of <italic>M.&#x000a0;extorquens</italic> AM1, we developed a set of inducible, orthogonal promoters of different
+strengths, which can be dynamically controlled by IPTG. Furthermore,
+we systematically tested new <italic>repABC</italic> regions to establish
+a set of extrachromosomal elements (&#x0201c;mini-chromosomes&#x0201d;)
+that are faithfully inherited by daughter cells and compatible with
+each other. This work provides the tools for the extensive genetic
+engineering of <italic>M.&#x000a0;extorquens</italic> AM1 in the future.</p><sec id="sec2"><title>Results
+and Discussion</title><sec id="sec2.1"><title>Realization of Tight, IPTG-Inducible Promoters
+with a Dynamic
+Range</title><p>To overcome the problem of weak and leaky expression
+from IPTG-inducible promoters in <italic>M.&#x000a0;extorquens</italic>, we sought to develop different <italic>lacO</italic>-controlled
+promoters that are tight and show a wide range of expression levels
+after addition of the inducer.</p><p>The P<sub>A1/O4/O3</sub> promoter,<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> also known as P<sub>A1lacO-1</sub>, was functional in <italic>M.&#x000a0;extorquens</italic> with 27-fold induction of the fluorescence
+reporter gene mCherry (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C). The P<sub>A1/O4</sub> and P<sub>A1/O4s</sub> promoters<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> were also functional and showed 21- and 6-fold
+induction, respectively. A single point mutation within the O4s region
+of P<sub>A1/O4s</sub>, resulting in P<sub>A1/O4s_GA</sub>, showed
+increased mCherry expression at the expense of leakiness without inducer.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>IPTG-inducible
+promoters for <italic>M.&#x000a0;extorquens</italic>. Map of pIND4-derived
+plasmid for testing new promoters expressing
+mCherry (A). Sequence of hybrid promoters constructed and tested (B); <italic>lacO</italic> sequences are shown in red. The point mutation within
+the <italic>lacO4s</italic> region is underlined. Fluorescence/OD<sub>600</sub> before and after addition of 1 mM IPTG (C). The dashed
+line marks fluorescence/OD<sub>600</sub> signal obtained using the
+strong <italic>P</italic><sub><italic>mxaF</italic></sub> promoter.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb9b00220_0001" id="gr1" position="float"/></fig><p>The T5 promoter has been used for many years for
+protein overexpression
+in <italic>E.&#x000a0;coli</italic>.<sup><xref ref-type="bibr" rid="ref22">22</xref>&#x02212;<xref ref-type="bibr" rid="ref24">24</xref></sup> The P<sub>T5-lac</sub> promoter from pCA24N was weakly functional in <italic>M.&#x000a0;extorquens</italic>, but there was no difference in the fluorescent signal between uninduced
+and induced states (data not shown). We modified the upstream region
+and replaced <italic>lacO4</italic> for a <italic>lacO4s</italic> sequence
+resulting in promoter P<sub>T5s/A1</sub> that is tightly repressed
+but only weakly induced (11-fold). While P<sub>T5s/A1</sub> is not
+suitable for gene overexpression, it might be interesting for applications
+where a protein is toxic if expressed at high levels or constitutively
+within the cell.</p><p>We also created three P<sub>L-<italic>lacO</italic></sub> hybrid promoters, P<sub>L/O4</sub>, P<sub>L/O4/O3</sub>, and P<sub>L/O4/A1</sub>, which are all strongly repressed in the
+absence of
+inducer. Upon induction, P<sub>L/O4</sub> and P<sub>L/O4/A1</sub> exhibit
+15- and 23-fold induction of mCherry, respectively. Notably, these
+two promoters provide mCherry fluorescence levels that are approximately
+1.5-fold higher than those of the P<sub><italic>mxaF</italic></sub> promoter, which drives 9% of soluble protein expression in <italic>M.&#x000a0;extorquens</italic>(<xref ref-type="bibr" rid="ref25">25</xref>) (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C, dashed line shows
+P<sub><italic>mxaF</italic></sub> levels). The dynamic range of the
+P<sub>L/O4/A1</sub> promoter is given in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Figure S1</ext-link>. See <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S4 and S5</ext-link> for more
+details on all inducible promoters tested in this study.</p><p>In
+summary, we created and identified a set of IPTG-inducible promoters
+for <italic>M.&#x000a0;extorquens</italic> that range between 6- and
+36-fold induction (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S4</ext-link>). Additionally,
+our P<sub>A1</sub>- and P<sub>L</sub>-derived promoters range in maximum
+strength between 9% and 166% of the strong P<sub><italic>mxaF</italic></sub> promoter, which opens new possibilities for the controlled
+overexpression of proteins. Thus far, the highest expression level
+reported from an inducible promoter in <italic>M.&#x000a0;extorquens</italic> was 33% of the P<sub><italic>mxaF</italic></sub> promoter.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> To facilitate the use of these new promoters
+by the scientific community, we created empty vectors featuring the
+respective promoter and a multiple cloning site with an optional N-terminal
+Strep-II tag compatible with the Methylobrick system<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> and pET vectors (Novagen).</p></sec><sec id="sec2.2"><title>Identification of Suitable <italic>repABC</italic> Regions for
+Use in <italic>M.&#x000a0;extorquens</italic> AM1</title><p>To establish
+artificial mini-chromosomal elements in <italic>M.&#x000a0;extorquens</italic>, we tested 11 <italic>repABC</italic> regions from six different
+organisms. We introduced these regions into pK18mob2, which is a &#x0201c;suicide&#x0201d;
+vector unable to replicate in <italic>M.&#x000a0;extorquens</italic> (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">S2</ext-link>). All <italic>repABC</italic> regions were
+maintained as independent replicons in <italic>M.&#x000a0;extorquens.</italic> The <italic>repABC</italic>-based replicons were recovered for restriction
+analysis and sequencing of the <italic>repABC</italic> region to confirm
+their integrity. The only exception was Mnod-2 from <italic>Methylobacterium
+nodulans</italic>, for which no colonies were obtained after electroporation,
+likely due to incompatibility of the Mnod-2 <italic>repABC</italic> region with the native genomic system.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p><italic>repABC</italic> regions tested in <italic>M.&#x000a0;extorquens</italic>. (A) Size
+and operon organization. (B) Doubling time <italic>versus</italic> replicon stability (% of kanamycin resistant colonies) of <italic>repABC</italic> regions in the suicide vector pK18mob2. Mean and
+SD from three biological replicates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb9b00220_0002" id="gr2" position="float"/></fig><p>Next, we determined the growth behavior of <italic>M.&#x000a0;extorquens</italic> carrying each replicon under selective conditions, as well as replicon
+stability after 96 h under nonselective conditions (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B). We observed a general trend
+that replicon stability and growth behavior of <italic>M.&#x000a0;extorquens</italic> were correlated. Mnod-1, also from <italic>M.&#x000a0;nodulans</italic>, was very unstable, showed the lowest doubling time (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B) and a long lag phase (data
+not shown), suggesting that <italic>repABC</italic> cassettes from
+this organism are generally not well compatible with <italic>M.&#x000a0;extorquens</italic>. Similarly, Nham-2a and Nham-2b from <italic>Nitrobacter hamburgensis</italic> are very unstable and affected the growth. Replicons originating
+from <italic>Oligotropha carboxidovorans</italic> were also unstable
+in the absence of selective pressure, in particular Ocar-1 and Ocar-2a,
+discouraging the use of these elements for genetic manipulations of <italic>M.&#x000a0;extorquens</italic>.</p><p>The <italic>repABC</italic> cassette
+Mex-CM4 originating from <italic>M.&#x000a0;extorquens</italic> CM4 showed
+an interesting behavior. Mex-CM4
+allowed fast doubling of <italic>M.&#x000a0;extorquens</italic> AM1 under
+selective conditions, while cells quickly lost the replicon in the
+absence of antibiotic pressure (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">S4</ext-link>). The <italic>repABC</italic> cassettes of Mex-CM4 and Mex-DM4 (discussed below) are 98% identical
+to each other, except for the fact that Mex-DM4 has a longer region
+downstream of <italic>repC</italic> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Figure S2</ext-link>). It might be the case that Mex-CM4 lacks some <italic>parS</italic> sites required for a faithful transmission of the respective replicon
+to the daughter cells. This behavior makes Mex-CM4 an interesting
+system to establish CRISPR-Cas in <italic>M.&#x000a0;extorquens</italic> where transient expression followed by fast extinction of the genetic
+element is a desired feature.</p><p>The replicons Mex-DM4 (originating
+from <italic>M.&#x000a0;extorquens</italic> DM4), Mrad-JCM (from <italic>M.&#x000a0;radiotolerans</italic> JCM2831),
+and Nham-3 (from <italic>N.&#x000a0;hamburgensis</italic> X-14 plasmid
+3) showed the highest stability with 97%, 86%, and 77% of cells still
+harboring the plasmid after 96 h without antibiotic selection, respectively.
+The replicons were isolated from kanamycin resistant cells after 96
+h without selective pressure and their integrity was verified by restriction
+analysis (data not shown). These three replicons allowed fast doubling
+times of <italic>M.&#x000a0;extorquens</italic>, reaching almost wildtype-like
+growth behavior, and were present at a copy number of 1 (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>), indicating that
+they are good candidates for the construction of mini-chromosomes.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Copy Number of Stable <italic>repABC</italic> Cassettes
+in <italic>M.&#x000a0;extorquens</italic><xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">replicon</th><th style="border:none;" align="center">copy number (mean &#x000b1; SD)</th></tr></thead><tbody><tr><td style="border:none;" align="left">oriV-traJ&#x02032; (pTE101)</td><td style="border:none;" align="left">8&#x000a0;&#x000b1;&#x000a0;1.21</td></tr><tr><td style="border:none;" align="left">Mex-DM4 (pAD1)</td><td style="border:none;" align="left">1&#x000a0;&#x000b1;&#x000a0;0.17</td></tr><tr><td style="border:none;" align="left">Mrad-JCM (pAD3)</td><td style="border:none;" align="left">1&#x000a0;&#x000b1;&#x000a0;0.13</td></tr><tr><td style="border:none;" align="left">Nham-3 (pAD6)</td><td style="border:none;" align="left">1&#x000a0;&#x000b1;&#x000a0;0.09</td></tr></tbody></table><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>Mean &#x000b1; SD from three biological
+replicates.</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec2.3"><title>Assembly and
+Testing of Mini-Chromosomes in <italic>M.&#x000a0;extorquens</italic> AM1</title><p>Next, we used the stable <italic>repABC</italic> regions
+identified in the pK18mob2 system plus Mex-CM4 to construct mini-chromosomes
+that can be shuttled between <italic>M.&#x000a0;extorquens</italic> and <italic>E.&#x000a0;coli</italic>. The pABC vector concept and assembly strategy
+is based on four basic modules each with several standardized parts
+(see below). Each part is flanked by standardized linker sequences
+for ligase chain reaction LCR-based assembly. This enables a fast
+and convenient build-up of custom-made replicons for individual purposes.
+Additional modules, if necessary, can be implemented with ease. The
+position and orientation of each module (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>) was designed to minimize crosstalk from
+adjacent regions. The MCS and the promoter of the <italic>repABC</italic> operon are insulated by flanking transcriptional terminators. The
+antibiotic resistance cassette is located downstream and in the same
+orientation as the <italic>repABC</italic> transcriptional unit to
+avoid reverse transcriptional read-through.</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Modular
+Construction of <italic>repABC</italic>-Based Mini-Chromosomes<xref rid="t2fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb9b00220_0003" id="gr3" position="float"/><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Abbreviations: oriVMe, <italic>repABC</italic>-based
+origin of replication for <italic>M.&#x000a0;extorquens</italic> AM1;
+oriVEc, origin of replication for <italic>E.&#x000a0;coli</italic>; SynTer-MCS,
+multiple cloning site flanked by synthetic terminators.</p></fn></table-wrap-foot></table-wrap><p>We decided to assemble several mini-chromosomes
+from the four basic
+modules, <italic>i.e.</italic>, (1) a <italic>repABC</italic>-based
+origin for <italic>M.&#x000a0;extorquens</italic> AM1 (Mex-DM4, Nham-3,
+Mrad-JCM, Mex-CM4), (2) an <italic>E.&#x000a0;coli</italic> origin of
+replication (pMB1, p15A, or pSC101*), (3) a minimal antibiotic resistance
+cassette (Kanamycin, Gentamicin, Tetracycline), and (4) a multiple
+cloning site (MCS1, MCS2, MCS3) flanked by synthetic terminators (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>). When we assembled
+and tested the final mini-chromosomes, our constructs showed similar
+or higher growth rates of transformed <italic>M.&#x000a0;extorquens</italic> compared to replicative plasmids. Replicon stability of the mini-chromosomes
+was confirmed <italic>via</italic> flow cytometry, showing similar
+results as before (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Figure S3 and S4</ext-link>).&#x000a0;We
+also assembled pABC mini-chromosomes with a mob site for conjugation
+and the Cre recombinase under control of constitutive (PcoxB) and
+inducible (PL/O4/A1) promoters as additional fifth modules (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S2</ext-link>).</p><p>The modular construction of
+the mini-chromosomes allowed us to
+test intercompatibility of replicons while avoiding extended regions
+of high sequence identity, which could lead to homologous recombination
+events. Nham-3 was compatible with Mex-DM4 and Mrad-JCM, while the
+two latter were not compatible with each other (<xref rid="tbl2" ref-type="other">Tables <xref rid="tbl2" ref-type="other">2</xref></xref> and <xref rid="tbl3" ref-type="other">3</xref>). In addition,
+we also tested the compatibility of Mex-DM4, Mrad-JCM, and Nham-3
+with the pIND4 and pTE101 vectors, respectively. All three mini-chromosomes
+were fully compatible with those plasmids, further expanding the box
+of available and compatible extrachromosomal genetic elements in <italic>M.&#x000a0;extorquens</italic> AM1. Replicon integrity was verified
+by restriction analysis from single and double compatibility test
+of pABCs and/or replicative plasmids. There were no instances of recombination,
+proving all compatible replicons functioned autonomously (data not
+shown). In all cases tested, double transformations were possible,
+adding to the convenience of these tools for their use in genetic
+engineering of <italic>M.&#x000a0;extorquens</italic> AM1.</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Doubling Times (h) of <italic>M.&#x000a0;extorquens</italic> with <italic>repABC</italic>-Based Mini-Chromosomes in Single and
+Double Compatibility Tests<xref rid="t3fn1" ref-type="table-fn">a</xref></title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="center"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">origin of
+replication</th><th style="border:none;" align="center">Mex-CM4</th><th style="border:none;" align="center">Mex-DM4</th><th style="border:none;" align="center">Mrad-JCM</th><th style="border:none;" align="center">Nham-3</th><th style="border:none;" align="center">oriV-traJ&#x02032;</th><th style="border:none;" align="center">pMG160</th></tr></thead><tbody><tr><td style="border:none;" align="left">CM2720 (strain)</td><td style="border:none;" align="left">4.11&#x000a0;&#x000b1;&#x000a0;0.02</td><td style="border:none;" align="left">3.90&#x000a0;&#x000b1;&#x000a0;0.01</td><td style="border:none;" align="center">3.85&#x000a0;&#x000b1;&#x000a0;0.03</td><td style="border:none;" align="left">3.94&#x000a0;&#x000b1;&#x000a0;0.02</td><td style="border:none;" align="left">4.09&#x000a0;&#x000b1;&#x000a0;0.05</td><td style="border:none;" align="left">4.31&#x000a0;&#x000b1;&#x000a0;0.17</td></tr><tr><td style="border:none;" align="left">Mex-DM4</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="center">X</td><td style="border:none;" align="left">4.41&#x000a0;&#x000b1;&#x000a0;0.04</td><td style="border:none;" align="left">4.15&#x000a0;&#x000b1;&#x000a0;0.03</td><td style="border:none;" align="left">4.46&#x000a0;&#x000b1;&#x000a0;0.06</td></tr><tr><td style="border:none;" align="left">Mrad-JCM</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="center">&#x000a0;</td><td style="border:none;" align="left">5.44&#x000a0;&#x000b1;&#x000a0;0.31</td><td style="border:none;" align="left">4.68&#x000a0;&#x000b1;&#x000a0;0.21</td><td style="border:none;" align="left">5.48&#x000a0;&#x000b1;&#x000a0;0.27</td></tr><tr><td style="border:none;" align="left">Nham-3</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="center">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">4.43&#x000a0;&#x000b1;&#x000a0;0.04</td><td style="border:none;" align="left">4.49&#x000a0;&#x000b1;&#x000a0;0.03</td></tr><tr><td style="border:none;" align="left">oriV-traJ&#x02032;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="center">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">&#x000a0;</td><td style="border:none;" align="left">5.54&#x000a0;&#x000b1;&#x000a0;0.40</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><label>a</label><p>Mean &#x000b1; SD
+from three biological
+replicates. X = not compatible. pTE100/pTE101 = oriV-traJ&#x02032;,
+pIND4/pTE1841 = pMG160. Areas were left blank to avoid redundancy.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="sec3"><title>Conclusions</title><p>Here,
+we provide a set of novel promoters for <italic>M.&#x000a0;extorquens</italic> AM1 that are tight and show a dynamic range of different expression
+levels upon induction, even exceeding the promoter elements available
+thus far. We also identified a set of <italic>repABC</italic> regions
+that allowed us to construct different mini-chromosomal elements that
+can be stably maintained at single copy number and in different combinations
+with each other. In addition, we also provide <italic>repABC</italic> regions that allow transient expression in the absence of antibiotic
+selection, which is a prerequisite to establish CRISPR-Cas-based methods
+in this organism in the future. Altogether, these tools expand genetic
+tools available for the engineering of <italic>M.&#x000a0;extorquens</italic>, an important platform organism for a sustainable C<sub>1</sub>-biotechnology.
+The genetic tools developed in this study are freely available to
+the community and hopefully leverage the metabolic and biotechnological
+potential of <italic>M.&#x000a0;extorquens</italic> AM1.</p></sec><sec id="sec4"><title>Materials and
+Methods</title><sec id="sec4.1"><title>Strains and Cultivation Conditions</title><p><italic>M.&#x000a0;extorquens</italic> AM1 strains (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S1</ext-link>) were grown at
+30 &#x000b0;C in minimal medium with 123 mM methanol.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> Antibiotics were used accordingly: kanamycin 35 &#x003bc;g/mL
+for <italic>M.&#x000a0;extorquens</italic> or 50 &#x003bc;g/mL for <italic>E.&#x000a0;coli</italic>, gentamicin 7.5 &#x003bc;g/mL for <italic>M.&#x000a0;extorquens</italic> or 8&#x02013;15 &#x003bc;g/mL for <italic>E.&#x000a0;coli</italic>, tetracycline
+4&#x02013;10 &#x003bc;g/mL for both, chloramphenicol 34 &#x003bc;g/mL for <italic>E.&#x000a0;coli</italic>, ampicillin 100 &#x003bc;g/mL for <italic>E.&#x000a0;coli</italic>. <italic>E.&#x000a0;coli</italic> TOP10 &#x00394;<italic>dapA</italic> strains were supplemented with 0.3 &#x003bc;M diaminopimelic acid
+(DAP). <italic>E.&#x000a0;coli</italic> was grown at 37 &#x000b0;C in LB
+medium. <italic>E.&#x000a0;coli</italic> TOP10 and DH5&#x003b1; (Thermo
+Scientific) were used for construction and amplification of all plasmids
+in this study. Solid medium had 1.5% (w/v) select agar.</p></sec><sec id="sec4.2"><title>Strain Construction</title><p>Plasmids (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S2</ext-link>) were transferred into <italic>M</italic>. <italic>extorquens</italic> by electroporation or triparental mating.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> The <italic>dapA</italic> gene of <italic>E.&#x000a0;coli</italic> TOP10
+was disrupted by an FRT-flanked chloramphenicol resistance cassette,
+amplified from pKD3 with MC261 + MC262 primers, using the Quick and
+Easy <italic>E.&#x000a0;coli</italic> Gene Deletion kit (Gene Bridges
+K006-GVO-GB) according to manufacturer&#x02019;s instructions. In brief,
+20 &#x003bc;L of recipient <italic>M.&#x000a0;extorquens</italic> from
+a well-grown culture were spotted on nonselective medium and incubated
+at 30 &#x000b0;C for 24 h. Donor and helper <italic>E.&#x000a0;coli</italic> TOP10 &#x00394;<italic>dapA</italic> strains were spotted on top of
+the recipient cells and incubated at 30 &#x000b0;C for 24 h. pRK2013
+was used as helper plasmid. Spotted cells were recovered and plated
+at appropriate dilutions on selective medium. Donor and helper <italic>E.&#x000a0;coli</italic> TOP10 &#x00394;<italic>dapA</italic> cannot grow
+without DAP. Single colonies were screened for chromosomal integration
+of pTE1899 by colony PCR.</p></sec><sec id="sec4.3"><title>DNA Manipulation and Plasmid Construction</title><p>Refer to <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S2</ext-link> for detailed information
+on the construction
+of each plasmid (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Supporting Information</ext-link>). Standard molecular techniques were used for amplification, purification,
+cloning and transformation of DNA.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Point
+mutations were generated by QuickChange Site-Directed mutagenesis
+(Stratagene, La Jolla, USA). Ligase chain reaction (LCR) and primer
+hybridization reactions were performed as published before.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> T4 Polynucleotide Kinase, FastAP, and FastDigest
+restriction enzymes were obtained from Thermo Scientific, Q5 DNA polymerase
+was obtained from NEB, and used according to manufacturer&#x02019;s
+instructions. DNA oligos were obtained from Eurofins Genomics (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">Table S3</ext-link>). Plasmid isolation and PCR product
+purification was performed with NucleoSpin Plasmid and NucleoSpin
+Gel and PCR Clean-up kits (Macherey Nagel), E.Z.N.A. Plasmid Mini
+Kit (Omega Bio-Tek), or illustra GFX PCR DNA and Gel Band Purification
+Kit (GE Healthcare Life Sciences) according to manufacturer&#x02019;s
+instructions.</p></sec><sec id="sec4.4"><title>Growth in 96-Well Plates</title><p>Cultures
+were inoculated from
+a single colony or glycerol stocks into Erlenmeyer flasks with 20
+mL of the appropriate medium. Cells from late exponential phase were
+diluted in fresh medium at an OD<sub>600</sub> &#x02248; 0.05 and 180
+&#x003bc;L of cell suspension was aliquoted into Nunclon Delta Surface
+(Thermo Scientific #167008) 96-well plates. The temperature was kept
+constant at 30 &#x000b0;C and OD<sub>600</sub> was recorded every 30
+min using a Tecan Infinite M200Pro (Tecan, M&#x000e4;nnedorf, Switzerland).
+Data was analyzed using the GraphPad Prism 7 software.</p></sec><sec id="sec4.5"><title>qPCR-Based
+Copy Number Determination</title><p><italic>M.&#x000a0;extorquens</italic> strains were grown in selective medium until OD<sub>600</sub> 1.0,
+adjusted to 1.38 &#x000d7; 10<sup>6</sup> cells (&#x02259; 10 ng DNA/&#x003bc;L)
+and boiled at 95 &#x000b0;C for 15 min to serve as templates. qPCR was
+carried out in a qTOWER Thermal Cycler (Analytik Jena, Germany) using
+the Takyon No ROX SYBR 2X MasterMix blue dTTP. Reactions were performed
+according to the manufacturer&#x02019;s instructions in a 5 &#x003bc;L
+volume. <italic>M.&#x000a0;extorquens katA</italic>::pTE1179 was used
+as a reference strain. Replicon copy number was calculated according
+to Lee <italic>et al.</italic>, 2006<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> using
+primer sets JD253 + 254 and MC147 + 148.</p></sec><sec id="sec4.6"><title>Replicon Stability</title><p><italic>M.&#x000a0;extorquens</italic> carrying pK18mob2-<italic>repABC</italic> derivatives were grown
+until OD<sub>600</sub> = 1.0&#x02013;1.5 in selective medium. Cell
+suspensions were diluted every 24 h to an OD<sub>600</sub> &#x02248;
+0.02 in nonselective medium. Dilution series were plated on agar with
+and without kanamycin. Antibiotic resistance was correlated with the
+presence of the assessed plasmid. The inheritance stability of selected <italic>repABC</italic> replicons expressing mCherry as mini-chromosomes
+was assessed <italic>via</italic> flow cytometry on a BD LSRFortessaTM
+SORP flow-cytometer (BD Biosciences, NJ, USA). Fluorescence was detected
+using a 561 nm laser at 100 mW and a 610/20 bandpass filter.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> Forward and side scatter values were monitored using a 488 nm laser
+at 100 mW. The acquired data was analyzed using FACSDiva software
+v8.0 (BD Biosciences). The percentage of fluorescent and nonfluorescent
+cells was determined from 30&#x0202f;000 gated events each.</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00220">10.1021/acssynbio.9b00220</ext-link>.<list id="silist" list-type="simple"><list-item><p>Table S1: Strains
+used in this study; Table S2: Plasmids
+used in this study; Table S3: Primers used in this study; Table S4:
+Fold induction of IPTG-inducible promoters in <italic>M.&#x000a0;extorquens</italic> AM1; Figure S1: P<sub>L/O4/A1</sub> promoter in <italic>M.&#x000a0;extorquens</italic> AM1; Figure S2: Overview of the individual <italic>repABC</italic> regions tested in this study; Figure S3: Verification of flow cytometry
+sensitivity; Figure S4: Replicon stability measured by flow cytometry
+of mini-chromosomes; Table S5: DNA sequences of inducible promoters
+characterized in this study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00220/suppl_file/sb9b00220_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb9b00220_si_001.pdf"><caption><p>sb9b00220_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p>T.J.E., A.B.,
+M.W., and M.C. designed the research. M.C., M.W., F.P., and A.D. performed
+the experimental work. M.C. and M.W. analyzed or provided data. M.C.
+and T.J.E. wrote the manuscript.</p></notes><notes notes-type="COI-statement" id="notes4"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank S. Gonz&#x000e1;lez Sierra
+for supporting
+the FACS analysis and M. Seletskiy for technical assistance. We thank
+J. Armitage for providing us with pIND4 and S. Vuilleumier for providing
+us with <italic>M.&#x000a0;extorquens</italic> CM4 and <italic>M.&#x000a0;nodulans</italic> ORS 2060 strains. This work was created in the framework of the
+CHIRAMET program (German Ministry of Education and Research) and received
+support from the SYNMIKRO (LOEWE program, State of Hesse, Germany),
+TRR 174 (German Research Foundation), the European Research Council
+(Grant No. 637675&#x000a0;<italic>SYBORG</italic>), the European&#x000a0;Coordination
+and Support Action&#x000a0;on biological standardization <italic>BIOROBOOST</italic>&#x000a0;(EU Grant No. 820699), as well as the Max Planck Society.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>SD</term><def><p>standard
+deviation</p></def></def-item><def-item><term>h</term><def><p>hours</p></def></def-item><def-item><term>IPTG</term><def><p>isopropyl &#x003b2;-<sc>d</sc>-1-thiogalactopyranoside.</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Peel</surname><given-names>D.</given-names></name>; <name><surname>Quayle</surname><given-names>J. R.</given-names></name> (<year>1961</year>) <article-title>Microbial
+growth on C1 compounds. 1. Isolation and
+characterization of Pseudomonas AM1</article-title>. <source>Biochem.
+J.</source>
+<volume>81</volume>, <fpage>465</fpage>&#x02013;<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1042/bj0810465</pub-id>.<pub-id pub-id-type="pmid">14484877</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Peyraud</surname><given-names>R.</given-names></name>; <name><surname>Schneider</surname><given-names>K.</given-names></name>; <name><surname>Kiefer</surname><given-names>P.</given-names></name>; <name><surname>Massou</surname><given-names>S.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name>; <name><surname>Portais</surname><given-names>J. C.</given-names></name> (<year>2011</year>) <article-title>Genome-scale
+reconstruction and system level investigation
+of the metabolic network of Methylobacterium extorquens AM1</article-title>. <source>BMC Syst. Biol.</source>
+<volume>5</volume>, <fpage>189</fpage><pub-id pub-id-type="doi">10.1186/1752-0509-5-189</pub-id>.<pub-id pub-id-type="pmid">22074569</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Vuilleumier</surname><given-names>S.</given-names></name>; <name><surname>Chistoserdova</surname><given-names>L.</given-names></name>; <name><surname>Lee</surname><given-names>M. C.</given-names></name>; <name><surname>Bringel</surname><given-names>F.</given-names></name>; <name><surname>Lajus</surname><given-names>A.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Gourion</surname><given-names>B.</given-names></name>; <name><surname>Barbe</surname><given-names>V.</given-names></name>; <name><surname>Chang</surname><given-names>J.</given-names></name>; <name><surname>Cruveiller</surname><given-names>S.</given-names></name>; <name><surname>Dossat</surname><given-names>C.</given-names></name>; <name><surname>Gillett</surname><given-names>W.</given-names></name>; <name><surname>Gruffaz</surname><given-names>C.</given-names></name>; <name><surname>Haugen</surname><given-names>E.</given-names></name>; <name><surname>Hourcade</surname><given-names>E.</given-names></name>; <name><surname>Levy</surname><given-names>R.</given-names></name>; <name><surname>Mangenot</surname><given-names>S.</given-names></name>; <name><surname>Muller</surname><given-names>E.</given-names></name>; <name><surname>Nadalig</surname><given-names>T.</given-names></name>; <name><surname>Pagni</surname><given-names>M.</given-names></name>; <name><surname>Penny</surname><given-names>C.</given-names></name>; <name><surname>Peyraud</surname><given-names>R.</given-names></name>; <name><surname>Robinson</surname><given-names>D. G.</given-names></name>; <name><surname>Roche</surname><given-names>D.</given-names></name>; <name><surname>Rouy</surname><given-names>Z.</given-names></name>; <name><surname>Saenampechek</surname><given-names>C.</given-names></name>; <name><surname>Salvignol</surname><given-names>G.</given-names></name>; <name><surname>Vallenet</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Marx</surname><given-names>C. J.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name>; <name><surname>Olson</surname><given-names>M. V.</given-names></name>; <name><surname>Kaul</surname><given-names>R.</given-names></name>; <name><surname>Weissenbach</surname><given-names>J.</given-names></name>; <name><surname>Medigue</surname><given-names>C.</given-names></name>; <name><surname>Lidstrom</surname><given-names>M. E.</given-names></name> (<year>2009</year>) <article-title>Methylobacterium
+genome sequences: a reference blueprint to investigate microbial metabolism
+of C1 compounds from natural and industrial sources</article-title>. <source>PLoS One</source>
+<volume>4</volume>, <elocation-id>e5584</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0005584</pub-id>.<pub-id pub-id-type="pmid">19440302</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Ochsner</surname><given-names>A. M.</given-names></name>; <name><surname>Sonntag</surname><given-names>F.</given-names></name>; <name><surname>Buchhaupt</surname><given-names>M.</given-names></name>; <name><surname>Schrader</surname><given-names>J.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name> (<year>2015</year>) <article-title>Methylobacterium
+extorquens: methylotrophy and biotechnological applications</article-title>. <source>Appl. Microbiol. Biotechnol.</source>
+<volume>99</volume>, <fpage>517</fpage>&#x02013;<lpage>534</lpage>. <pub-id pub-id-type="doi">10.1007/s00253-014-6240-3</pub-id>.<pub-id pub-id-type="pmid">25432674</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Liang</surname><given-names>W. F.</given-names></name>; <name><surname>Cui</surname><given-names>L. Y.</given-names></name>; <name><surname>Cui</surname><given-names>J. Y.</given-names></name>; <name><surname>Yu</surname><given-names>K. W.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>T. M.</given-names></name>; <name><surname>Guan</surname><given-names>C. G.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Xing</surname><given-names>X. H.</given-names></name> (<year>2017</year>) <article-title>Biosensor-assisted
+transcriptional regulator engineering for Methylobacterium extorquens
+AM1 to improve mevalonate synthesis by increasing the acetyl-CoA supply</article-title>. <source>Metab. Eng.</source>
+<volume>39</volume>, <fpage>159</fpage>&#x02013;<lpage>168</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymben.2016.11.010</pub-id>.<pub-id pub-id-type="pmid">27919791</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Sonntag</surname><given-names>F.</given-names></name>; <name><surname>Kroner</surname><given-names>C.</given-names></name>; <name><surname>Lubuta</surname><given-names>P.</given-names></name>; <name><surname>Peyraud</surname><given-names>R.</given-names></name>; <name><surname>Horst</surname><given-names>A.</given-names></name>; <name><surname>Buchhaupt</surname><given-names>M.</given-names></name>; <name><surname>Schrader</surname><given-names>J.</given-names></name> (<year>2015</year>) <article-title>Engineering Methylobacterium
+extorquens
+for de novo synthesis of the sesquiterpenoid alpha-humulene from methanol</article-title>. <source>Metab. Eng.</source>
+<volume>32</volume>, <fpage>82</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymben.2015.09.004</pub-id>.<pub-id pub-id-type="pmid">26369439</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Hu</surname><given-names>B.</given-names></name>; <name><surname>Lidstrom</surname><given-names>M. E.</given-names></name> (<year>2014</year>) <article-title>Metabolic engineering of Methylobacterium extorquens
+AM1 for 1-butanol production</article-title>. <source>Biotechnol. Biofuels</source>
+<volume>7</volume>, <fpage>156</fpage><pub-id pub-id-type="doi">10.1186/s13068-014-0156-0</pub-id>.<pub-id pub-id-type="pmid">25349627</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Yang</surname><given-names>Y. M.</given-names></name>; <name><surname>Chen</surname><given-names>W. J.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>Y. M.</given-names></name>; <name><surname>Hu</surname><given-names>B.</given-names></name>; <name><surname>Zhang</surname><given-names>M.</given-names></name>; <name><surname>Zhu</surname><given-names>L. P.</given-names></name>; <name><surname>Wang</surname><given-names>G. Y.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name> (<year>2017</year>) <article-title>Production
+of 3-hydroxypropionic acid in engineered Methylobacterium extorquens
+AM1 and its reassimilation through a reductive route</article-title>. <source>Microb. Cell Fact.</source>
+<volume>16</volume>, <fpage>179</fpage><pub-id pub-id-type="doi">10.1186/s12934-017-0798-2</pub-id>.<pub-id pub-id-type="pmid">29084554</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Schada
+von Borzyskowski</surname><given-names>L.</given-names></name>; <name><surname>Remus-Emsermann</surname><given-names>M.</given-names></name>; <name><surname>Weishaupt</surname><given-names>R.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name>; <name><surname>Erb</surname><given-names>T. J.</given-names></name> (<year>2015</year>) <article-title>A set of versatile brick vectors
+and promoters for the assembly, expression, and integration of synthetic
+operons in Methylobacterium extorquens AM1 and other alphaproteobacteria</article-title>. <source>ACS Synth. Biol.</source>
+<volume>4</volume>, <fpage>430</fpage>&#x02013;<lpage>443</lpage>. <pub-id pub-id-type="doi">10.1021/sb500221v</pub-id>.<pub-id pub-id-type="pmid">25105793</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Marx</surname><given-names>C. J.</given-names></name>; <name><surname>Lidstrom</surname><given-names>M. E.</given-names></name> (<year>2001</year>) <article-title>Development of improved versatile broad-host-range
+vectors for use in methylotrophs and other Gram-negative bacteria</article-title>. <source>Microbiology</source>
+<volume>147</volume>, <fpage>2065</fpage>&#x02013;<lpage>2075</lpage>. <pub-id pub-id-type="doi">10.1099/00221287-147-8-2065</pub-id>.<pub-id pub-id-type="pmid">11495985</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Marx</surname><given-names>C. J.</given-names></name>; <name><surname>Lidstrom</surname><given-names>M. E.</given-names></name> (<year>2002</year>) <article-title>Broad-host-range cre-lox system for
+antibiotic marker
+recycling in gram-negative bacteria</article-title>. <source>BioTechniques</source>
+<volume>33</volume>, <fpage>1062</fpage>&#x02013;<lpage>1067</lpage>. <pub-id pub-id-type="doi">10.2144/02335rr01</pub-id>.<pub-id pub-id-type="pmid">12449384</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Kaczmarczyk</surname><given-names>A.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name>; <name><surname>Francez-Charlot</surname><given-names>A.</given-names></name> (<year>2013</year>) <article-title>Cumate-inducible
+gene expression
+system for sphingomonads and other Alphaproteobacteria</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>79</volume>, <fpage>6795</fpage>&#x02013;<lpage>6802</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02296-13</pub-id>.<pub-id pub-id-type="pmid">23995928</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Chubiz</surname><given-names>L. M.</given-names></name>; <name><surname>Purswani</surname><given-names>J.</given-names></name>; <name><surname>Carroll</surname><given-names>S. M.</given-names></name>; <name><surname>Marx</surname><given-names>C. J.</given-names></name> (<year>2013</year>) <article-title>A novel pair of
+inducible expression vectors for use in Methylobacterium extorquens</article-title>. <source>BMC Res. Notes</source>
+<volume>6</volume>, <fpage>183</fpage><pub-id pub-id-type="doi">10.1186/1756-0500-6-183</pub-id>.<pub-id pub-id-type="pmid">23648175</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Choi</surname><given-names>Y. J.</given-names></name>; <name><surname>Morel</surname><given-names>L.</given-names></name>; <name><surname>Bourque</surname><given-names>D.</given-names></name>; <name><surname>Mullick</surname><given-names>A.</given-names></name>; <name><surname>Massie</surname><given-names>B.</given-names></name>; <name><surname>Miguez</surname><given-names>C. B.</given-names></name> (<year>2006</year>) <article-title>Bestowing inducibility on the cloned methanol dehydrogenase
+promoter (PmxaF) of Methylobacterium extorquens by applying regulatory
+elements of Pseudomonas putida F1</article-title>. <source>Appl. Environ.
+Microbiol.</source>
+<volume>72</volume>, <fpage>7723</fpage>&#x02013;<lpage>7729</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.02002-06</pub-id>.<pub-id pub-id-type="pmid">17041156</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Pinto</surname><given-names>U. M.</given-names></name>; <name><surname>Pappas</surname><given-names>K. M.</given-names></name>; <name><surname>Winans</surname><given-names>S. C.</given-names></name> (<year>2012</year>) <article-title>The ABCs of plasmid replication and
+segregation</article-title>. <source>Nat. Rev. Microbiol.</source>
+<volume>10</volume>, <fpage>755</fpage>&#x02013;<lpage>765</lpage>. <pub-id pub-id-type="doi">10.1038/nrmicro2882</pub-id>.<pub-id pub-id-type="pmid">23070556</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Fournes</surname><given-names>F.</given-names></name>; <name><surname>Val</surname><given-names>M. E.</given-names></name>; <name><surname>Skovgaard</surname><given-names>O.</given-names></name>; <name><surname>Mazel</surname><given-names>D.</given-names></name> (<year>2018</year>) <article-title>Replicate Once Per
+Cell Cycle: Replication Control of Secondary Chromosomes</article-title>. <source>Front. Microbiol.</source>
+<volume>9</volume>, <fpage>1833</fpage><pub-id pub-id-type="doi">10.3389/fmicb.2018.01833</pub-id>.<pub-id pub-id-type="pmid">30131796</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Cevallos</surname><given-names>M. A.</given-names></name>; <name><surname>Cervantes-Rivera</surname><given-names>R.</given-names></name>; <name><surname>Gutierrez-Rios</surname><given-names>R. M.</given-names></name> (<year>2008</year>) <article-title>The repABC plasmid family</article-title>. <source>Plasmid</source>
+<volume>60</volume>, <fpage>19</fpage>&#x02013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1016/j.plasmid.2008.03.001</pub-id>.<pub-id pub-id-type="pmid">18433868</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>D&#x000f6;hlemann</surname><given-names>J.</given-names></name>; <name><surname>Wagner</surname><given-names>M.</given-names></name>; <name><surname>Happel</surname><given-names>C.</given-names></name>; <name><surname>Carrillo</surname><given-names>M.</given-names></name>; <name><surname>Sobetzko</surname><given-names>P.</given-names></name>; <name><surname>Erb</surname><given-names>T. J.</given-names></name>; <name><surname>Thanbichler</surname><given-names>M.</given-names></name>; <name><surname>Becker</surname><given-names>A.</given-names></name> (<year>2017</year>) <article-title>A Family of Single
+Copy repABC-Type Shuttle Vectors Stably Maintained in the Alpha-Proteobacterium
+Sinorhizobium meliloti</article-title>. <source>ACS Synth. Biol.</source>
+<volume>6</volume>, <fpage>968</fpage>&#x02013;<lpage>984</lpage>. <pub-id pub-id-type="doi">10.1021/acssynbio.6b00320</pub-id>.<pub-id pub-id-type="pmid">28264559</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Lutz</surname><given-names>R.</given-names></name>; <name><surname>Bujard</surname><given-names>H.</given-names></name> (<year>1997</year>) <article-title>Independent and tight
+regulation of transcriptional
+units in Escherichia coli <italic>via</italic> the LacR/O, the TetR/O
+and AraC/I1-I2 regulatory elements</article-title>. <source>Nucleic
+Acids Res.</source>
+<volume>25</volume>, <fpage>1203</fpage>&#x02013;<lpage>1210</lpage>. <pub-id pub-id-type="doi">10.1093/nar/25.6.1203</pub-id>.<pub-id pub-id-type="pmid">9092630</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Ind</surname><given-names>A. C.</given-names></name>; <name><surname>Porter</surname><given-names>S. L.</given-names></name>; <name><surname>Brown</surname><given-names>M. T.</given-names></name>; <name><surname>Byles</surname><given-names>E. D.</given-names></name>; <name><surname>de Beyer</surname><given-names>J. A.</given-names></name>; <name><surname>Godfrey</surname><given-names>S. A.</given-names></name>; <name><surname>Armitage</surname><given-names>J. P.</given-names></name> (<year>2009</year>) <article-title>Inducible-expression plasmid for
+Rhodobacter sphaeroides and Paracoccus denitrificans</article-title>. <source>Appl. Environ. Microbiol.</source>
+<volume>75</volume>, <fpage>6613</fpage>&#x02013;<lpage>6615</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.01587-09</pub-id>.<pub-id pub-id-type="pmid">19684165</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Lanzer</surname><given-names>M.</given-names></name>; <name><surname>Bujard</surname><given-names>H.</given-names></name> (<year>1988</year>) <article-title>Promoters largely determine
+the efficiency of repressor
+action</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>85</volume>, <fpage>8973</fpage>&#x02013;<lpage>8977</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.85.23.8973</pub-id>.<pub-id pub-id-type="pmid">3057497</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Bujard</surname><given-names>H.</given-names></name>; <name><surname>Gentz</surname><given-names>R.</given-names></name>; <name><surname>Lanzer</surname><given-names>M.</given-names></name>; <name><surname>Stueber</surname><given-names>D.</given-names></name>; <name><surname>Mueller</surname><given-names>M.</given-names></name>; <name><surname>Ibrahimi</surname><given-names>I.</given-names></name>; <name><surname>Haeuptle</surname><given-names>M. T.</given-names></name>; <name><surname>Dobberstein</surname><given-names>B.</given-names></name> (<year>1987</year>) <article-title>A T5 promoter-based
+transcription-translation system for the analysis of proteins in vitro
+and in vivo</article-title>. <source>Methods Enzymol.</source>
+<volume>155</volume>, <fpage>416</fpage>&#x02013;<lpage>433</lpage>. <pub-id pub-id-type="doi">10.1016/0076-6879(87)55028-5</pub-id>.<pub-id pub-id-type="pmid">2828874</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kitagawa</surname><given-names>M.</given-names></name>; <name><surname>Ara</surname><given-names>T.</given-names></name>; <name><surname>Arifuzzaman</surname><given-names>M.</given-names></name>; <name><surname>Ioka-Nakamichi</surname><given-names>T.</given-names></name>; <name><surname>Inamoto</surname><given-names>E.</given-names></name>; <name><surname>Toyonaga</surname><given-names>H.</given-names></name>; <name><surname>Mori</surname><given-names>H.</given-names></name> (<year>2006</year>) <article-title>Complete set
+of ORF clones of Escherichia coli ASKA library (a complete
+set of E.&#x000a0;coli K-12 ORF archive): unique resources for biological
+research</article-title>. <source>DNA Res.</source>
+<volume>12</volume>, <fpage>291</fpage>&#x02013;<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1093/dnares/dsi012</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Gentz</surname><given-names>R.</given-names></name>; <name><surname>Bujard</surname><given-names>H.</given-names></name> (<year>1985</year>) <article-title>Promoters recognized
+by Escherichia coli RNA polymerase
+selected by function: highly efficient promoters from bacteriophage
+T5</article-title>. <source>J. Bacteriol.</source>
+<volume>164</volume>, <fpage>70</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">3900050</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Kirchhoff</surname><given-names>J. R.</given-names></name>; <name><surname>Faehnle</surname><given-names>C. R.</given-names></name>; <name><surname>Viola</surname><given-names>R. E.</given-names></name>; <name><surname>Hudson</surname><given-names>R. A.</given-names></name> (<year>2006</year>) <article-title>A rapid
+method for the purification of methanol dehydrogenase from Methylobacterium
+extorquens</article-title>. <source>Protein Expression Purif.</source>
+<volume>46</volume>, <fpage>316</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1016/j.pep.2005.07.014</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Peyraud</surname><given-names>R.</given-names></name>; <name><surname>Kiefer</surname><given-names>P.</given-names></name>; <name><surname>Christen</surname><given-names>P.</given-names></name>; <name><surname>Massou</surname><given-names>S.</given-names></name>; <name><surname>Portais</surname><given-names>J. C.</given-names></name>; <name><surname>Vorholt</surname><given-names>J. A.</given-names></name> (<year>2009</year>) <article-title>Demonstration of
+the ethylmalonyl-CoA pathway by using
+13C metabolomics</article-title>. <source>Proc. Natl. Acad. Sci. U.
+S. A.</source>
+<volume>106</volume>, <fpage>4846</fpage>&#x02013;<lpage>4851</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0810932106</pub-id>.<pub-id pub-id-type="pmid">19261854</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Toyama</surname><given-names>H.</given-names></name>; <name><surname>Anthony</surname><given-names>C.</given-names></name>; <name><surname>Lidstrom</surname><given-names>M. E.</given-names></name> (<year>1998</year>) <article-title>Construction of insertion and deletion
+mxa mutants of Methylobacterium extorquens AM1 by electroporation</article-title>. <source>FEMS Microbiol. Lett.</source>
+<volume>166</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1111/j.1574-6968.1998.tb13175.x</pub-id>.<pub-id pub-id-type="pmid">9741078</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="book" id="cit28"><person-group person-group-type="allauthors"><name><surname>Sambook</surname><given-names>J.</given-names></name>, and <name><surname>Russel</surname><given-names>D. W.</given-names></name></person-group> (<year>2001</year>) <source>Molecular Cloning: A Laboratory Manual</source>, <publisher-name>Cold Spring Harbor Laboratory Press</publisher-name>, <publisher-loc>Cold Spring Harbor, NY</publisher-loc>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Lee</surname><given-names>C.</given-names></name>; <name><surname>Kim</surname><given-names>J.</given-names></name>; <name><surname>Shin</surname><given-names>S. G.</given-names></name>; <name><surname>Hwang</surname><given-names>S.</given-names></name> (<year>2006</year>) <article-title>Absolute and relative
+QPCR quantification
+of plasmid copy number in <italic>Escherichia coli</italic></article-title>. <source>J. Biotechnol.</source>
+<volume>123</volume>, <fpage>273</fpage>&#x02013;<lpage>280</lpage>. <pub-id pub-id-type="doi">10.1016/j.jbiotec.2005.11.014</pub-id>.<pub-id pub-id-type="pmid">16388869</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Piatkevich</surname><given-names>K. D.</given-names></name>; <name><surname>Verkhusha</surname><given-names>V. V.</given-names></name> (<year>2011</year>) <article-title>Guide to red fluorescent proteins
+and biosensors for
+flow cytometry</article-title>. <source>Methods Cell Biol.</source>
+<volume>102</volume>, <fpage>431</fpage>&#x02013;<lpage>461</lpage>. <pub-id pub-id-type="doi">10.1016/B978-0-12-374912-3.00017-1</pub-id>.<pub-id pub-id-type="pmid">21704849</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Telford</surname><given-names>W. G.</given-names></name>; <name><surname>Hawley</surname><given-names>T.</given-names></name>; <name><surname>Subach</surname><given-names>F.</given-names></name>; <name><surname>Verkhusha</surname><given-names>V.</given-names></name>; <name><surname>Hawley</surname><given-names>R. G.</given-names></name> (<year>2012</year>) <article-title>Flow cytometry of fluorescent proteins</article-title>. <source>Methods</source>
+<volume>57</volume>, <fpage>318</fpage>&#x02013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1016/j.ymeth.2012.01.003</pub-id>.<pub-id pub-id-type="pmid">22293036</pub-id></mixed-citation></ref></ref-list></back></article>

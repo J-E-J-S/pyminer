@@ -1,0 +1,403 @@
+{
+  "id": [
+    "30367575"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30367575"
+  ],
+  "pmcid": [
+    "PMC6101073"
+  ],
+  "doi": [
+    "10.1186/s12864-018-4922-4"
+  ],
+  "title": [
+    "Single cell RNA-seq data clustering using TF-IDF based methods."
+  ],
+  "authorString": [
+    "Moussa M, Măndoiu II."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moussa M"
+          ],
+          "firstName": [
+            "Marmar"
+          ],
+          "lastName": [
+            "Moussa"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "University of Connecticut, Storrs, 06269, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Măndoiu II"
+          ],
+          "firstName": [
+            "Ion I"
+          ],
+          "lastName": [
+            "Măndoiu"
+          ],
+          "initials": [
+            "II"
+          ],
+          "affiliation": [
+            "University of Connecticut, Storrs, 06269, CT, USA. ion.mandoiu@uconn.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 6"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2742031"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "569"
+  ],
+  "abstractText": [
+    "BACKGROUND:Single cell transcriptomics is critical for understanding cellular heterogeneity and identification of novel cell types. Leveraging the recent advances in single cell RNA sequencing (scRNA-Seq) technology requires novel unsupervised clustering algorithms that are robust to high levels of technical and biological noise and scale to datasets of millions of cells. RESULTS:We present novel computational approaches for clustering scRNA-seq data based on the Term Frequency - Inverse Document Frequency (TF-IDF) transformation that has been successfully used in the field of text analysis. CONCLUSIONS:Empirical experimental results show that TF-IDF methods consistently outperform commonly used scRNA-Seq clustering approaches."
+  ],
+  "affiliation": [
+    "University of Connecticut, Storrs, 06269, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 MH112739"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS073425"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Clustering",
+        "Single Cell Rna-seq",
+        "Tf-idf"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6101073?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6101073"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-4922-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-26"
+  ],
+  "dateOfCreation": [
+    "2018-10-28"
+  ],
+  "firstIndexDate": [
+    "2018-10-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-13"
+  ],
+  "firstPublicationDate": [
+    "2018-08-13"
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": [
+    "31276269"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31276269"
+  ],
+  "pmcid": [
+    "PMC6771848"
+  ],
+  "doi": [
+    "10.1002/anie.201906326"
+  ],
+  "title": [
+    "Genomics-Driven Discovery of NO-Donating Diazeniumdiolate Siderophores in Diverse Plant-Associated Bacteria."
+  ],
+  "authorString": [
+    "Hermenau R, Mehl JL, Ishida K, Dose B, Pidot SJ, Stinear TP, Hertweck C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hermenau R"
+          ],
+          "firstName": [
+            "Ron"
+          ],
+          "lastName": [
+            "Hermenau"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mehl JL"
+          ],
+          "firstName": [
+            "Jule L"
+          ],
+          "lastName": [
+            "Mehl"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ishida K"
+          ],
+          "firstName": [
+            "Keishi"
+          ],
+          "lastName": [
+            "Ishida"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Dose B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Dose"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pidot SJ"
+          ],
+          "firstName": [
+            "Sacha J"
+          ],
+          "lastName": [
+            "Pidot"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1202-6614",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology at the Doherty Institute, University of Melbourne, Melbourne, VIC, 3000, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Stinear TP"
+          ],
+          "firstName": [
+            "Timothy P"
+          ],
+          "lastName": [
+            "Stinear"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0150-123X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology and Immunology at the Doherty Institute, University of Melbourne, Melbourne, VIC, 3000, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hertweck C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Hertweck"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0367-337X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0367-337X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1202-6614",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0150-123X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "37"
+      ],
+      "volume": [
+        "58"
+      ],
+      "journalIssueId": [
+        "2855324"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Angewandte Chemie (International ed. in English)"
+          ],
+          "ISOAbbreviation": [
+            "Angew. Chem. Int. Ed. Engl."
+          ],
+          "medlineAbbreviation": [
+            "Angew Chem Int Ed Engl"
+          ],
+          "NLMid": [
+            "0370543"
+          ],
+          "ISSN": [
+            "1433-7851"
+          ],
+          "ESSN": [
+            "1521-3773"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13024-13029"
+  ],
+  "abstractText": [
+    "Siderophores are key players in bacteria-host interactions, with the main function to provide soluble iron for their producers. Gramibactin from rhizosphere bacteria expands siderophore function and diversity as it delivers iron to the host plant and features an unusual diazeniumdiolate moiety for iron chelation. By mutational analysis of the grb gene cluster, we identified genes (grbD and grbE) necessary for diazeniumdiolate formation. Genome mining using a GrbD-based network revealed a broad range of orthologous gene clusters in mainly plant-associated Burkholderia/Paraburkholderia species. Two new types of diazeniumdiolate siderophores, megapolibactins and plantaribactin were fully characterized. In vitro assays and in vivo monitoring experiments revealed that the iron chelators also liberate nitric oxide (NO) in plant roots. This finding is important since NO donors are considered as biofertilizers that maintain iron homeostasis and increase overall plant fitness."
+  ],
+  "affiliation": [
+    "Department of Biomolecular Chemistry, Leibniz Institute for Natural Product Chemistry and Infection Biology (HKI), Beutenbergstrasse 11a, 07745, Jena, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Leibniz Award"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SFB 1127 ChemBioSys"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Leibniz Award"
+          ],
+          "agency": [
+            "California Department of Fish and Game"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nitric oxide",
+        "Burkholderia",
+        "Siderophores",
+        "Non-ribosomal Peptide",
+        "Diazeniumdiolate"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/anie.201906326"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6771848"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6771848?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-06"
+  ],
+  "firstIndexDate": [
+    "2019-07-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-10"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-05"
+  ],
+  "firstPublicationDate": [
+    "2019-08-05"
+  ]
+}

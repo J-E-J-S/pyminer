@@ -1,0 +1,491 @@
+{
+  "id": [
+    "31647102"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31647102"
+  ],
+  "pmcid": [
+    "PMC6868425"
+  ],
+  "doi": [
+    "10.1093/nar/gkz940"
+  ],
+  "title": [
+    "Characterization and repurposing of the endogenous Type I-F CRISPR-Cas system of Zymomonas mobilis for genome engineering."
+  ],
+  "authorString": [
+    "Zheng Y, Han J, Wang B, Hu X, Li R, Shen W, Ma X, Ma L, Yi L, Yang S, Peng W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yanli"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han J"
+          ],
+          "firstName": [
+            "Jiamei"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang B"
+          ],
+          "firstName": [
+            "Baiyang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu X"
+          ],
+          "firstName": [
+            "Xiaoyun"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li R"
+          ],
+          "firstName": [
+            "Runxia"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma X"
+          ],
+          "firstName": [
+            "Xiangdong"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma L"
+          ],
+          "firstName": [
+            "Lixin"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yi L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang S"
+          ],
+          "firstName": [
+            "Shihui"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9394-9148",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng W"
+          ],
+          "firstName": [
+            "Wenfang"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9073-1509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9073-1509",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9394-9148",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "21"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2883935"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11461-11475"
+  ],
+  "abstractText": [
+    "Application of CRISPR-based technologies in non-model microorganisms is currently very limited. Here, we reported efficient genome engineering of an important industrial microorganism, Zymomonas mobilis, by repurposing the endogenous Type I-F CRISPR-Cas system upon its functional characterization. This toolkit included a series of genome engineering plasmids, each carrying an artificial self-targeting CRISPR and a donor DNA for the recovery of recombinants. Through this toolkit, various genome engineering purposes were efficiently achieved, including knockout of ZMO0038 (100% efficiency), cas2/3 (100%), and a genomic fragment of >10 kb (50%), replacement of cas2/3 with mCherry gene (100%), in situ nucleotide substitution (100%) and His-tagging of ZMO0038 (100%), and multiplex gene deletion (18.75%) upon optimal donor size determination. Additionally, the Type I-F system was further applied for CRISPRi upon Cas2/3 depletion, which has been demonstrated to successfully silence the chromosomally integrated mCherry gene with its fluorescence intensity reduced by up to 88%. Moreover, we demonstrated that genome engineering efficiency could be improved under a restriction-modification (R-M) deficient background, suggesting the perturbance of genome editing by other co-existing DNA targeting modules such as the R-M system. This study might shed light on exploiting and improving CRISPR-Cas systems in other microorganisms for genome editing and metabolic engineering practices."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Biocatalysis and Enzyme Engineering, Hubei Engineering Research Center for Bio-enzyme Catalysis, Environmental Microbial Technology Center of Hubei Province, Hubei Collaborative Innovation Center for Green Transformation of Bio-resources, School of Life Sciences, Hubei University, Wuhan 430062, P.R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gkz940"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6868425"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6868425?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR72960"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-25"
+  ],
+  "firstIndexDate": [
+    "2019-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-11-28"
+  ],
+  "firstPublicationDate": [
+    "2019-12-01"
+  ]
+}

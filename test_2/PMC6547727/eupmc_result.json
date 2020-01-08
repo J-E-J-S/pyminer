@@ -1,0 +1,737 @@
+{
+  "id": [
+    "31160569"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31160569"
+  ],
+  "pmcid": [
+    "PMC6547727"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10310-0"
+  ],
+  "title": [
+    "Bivariate causal mixture model quantifies polygenic overlap between complex traits beyond genetic correlation."
+  ],
+  "authorString": [
+    "Frei O, Holland D, Smeland OB, Shadrin AA, Fan CC, Maeland S, O'Connell KS, Wang Y, Djurovic S, Thompson WK, Andreassen OA, Dale AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Frei O"
+          ],
+          "firstName": [
+            "Oleksandr"
+          ],
+          "lastName": [
+            "Frei"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6427-2625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway. oleksandr.frei@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Holland D"
+          ],
+          "firstName": [
+            "Dominic"
+          ],
+          "lastName": [
+            "Holland"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Center for Multimodal Imaging and Genetics, University of California at San Diego, La Jolla, CA, 92037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smeland OB"
+          ],
+          "firstName": [
+            "Olav B"
+          ],
+          "lastName": [
+            "Smeland"
+          ],
+          "initials": [
+            "OB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3761-5215",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Shadrin AA"
+          ],
+          "firstName": [
+            "Alexey A"
+          ],
+          "lastName": [
+            "Shadrin"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan CC"
+          ],
+          "firstName": [
+            "Chun Chieh"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9437-2128",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Multimodal Imaging and Genetics, University of California at San Diego, La Jolla, CA, 92037, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Maeland S"
+          ],
+          "firstName": [
+            "Steffen"
+          ],
+          "lastName": [
+            "Maeland"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connell KS"
+          ],
+          "firstName": [
+            "Kevin S"
+          ],
+          "lastName": [
+            "O'Connell"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6865-8795",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yunpeng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Djurovic S"
+          ],
+          "firstName": [
+            "Srdjan"
+          ],
+          "lastName": [
+            "Djurovic"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8140-8061",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Genetics, Oslo University Hospital, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson WK"
+          ],
+          "firstName": [
+            "Wesley K"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "WK"
+          ],
+          "affiliation": [
+            "Department of Family Medicine and Public Health, University of California, San Diego, La Jolla, CA, 92093, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Andreassen OA"
+          ],
+          "firstName": [
+            "Ole A"
+          ],
+          "lastName": [
+            "Andreassen"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4461-3568",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Dale AM"
+          ],
+          "firstName": [
+            "Anders M"
+          ],
+          "lastName": [
+            "Dale"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Center for Multimodal Imaging and Genetics, University of California at San Diego, La Jolla, CA, 92037, USA. andersmdale@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3761-5215",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6865-8795",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4461-3568",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8140-8061",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6427-2625",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9437-2128",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2823392"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2417"
+  ],
+  "abstractText": [
+    "Accumulating evidence from genome wide association studies (GWAS) suggests an abundance of shared genetic influences among complex human traits and disorders, such as mental disorders. Here we introduce a statistical tool, MiXeR, which quantifies polygenic overlap irrespective of genetic correlation, using GWAS summary statistics. MiXeR results are presented as a Venn diagram of unique and shared polygenic components across traits. At 90% of SNP-heritability explained for each phenotype, MiXeR estimates that 8.3 K variants causally influence schizophrenia and 6.4 K influence bipolar disorder. Among these variants, 6.2 K are shared between the disorders, which have a high genetic correlation. Further, MiXeR uncovers polygenic overlap between schizophrenia and educational attainment. Despite a genetic correlation close to zero, the phenotypes share 8.3 K causal variants, while 2.5 K additional variants influence only educational attainment. By considering the polygenicity, discoverability and heritability of complex phenotypes, MiXeR analysis may improve our understanding of cross-trait genetic architectures."
+  ],
+  "affiliation": [
+    "NORMENT, KG Jebsen Centre for Psychosis Research, Institute of Clinical Medicine, University of Oslo, 0424, Oslo, Norway. oleksandr.frei@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "248778"
+          ],
+          "agency": [
+            "Norges Forskningsråd (Research Council of Norway)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM104400"
+          ],
+          "agency": [
+            "Foundation for the National Institutes of Health (Foundation for the National Institutes of Health, Inc.)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "223273"
+          ],
+          "agency": [
+            "Norges Forskningsråd (Research Council of Norway)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "225989"
+          ],
+          "agency": [
+            "Norges Forskningsråd (Research Council of Norway)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01MH100351"
+          ],
+          "agency": [
+            "Foundation for the National Institutes of Health (Foundation for the National Institutes of Health, Inc.)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bipolar Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schizophrenia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Frequency"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Multifactorial Inheritance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Linkage Disequilibrium"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10310-0"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6547727"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6547727?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR13112"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-06-24"
+  ],
+  "dateOfCreation": [
+    "2019-06-05"
+  ],
+  "firstIndexDate": [
+    "2019-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-20"
+  ],
+  "dateOfRevision": [
+    "2019-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-03"
+  ],
+  "firstPublicationDate": [
+    "2019-06-03"
+  ]
+}

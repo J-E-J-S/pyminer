@@ -1,0 +1,316 @@
+{
+  "id": [
+    "30733524"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30733524"
+  ],
+  "pmcid": [
+    "PMC6367407"
+  ],
+  "doi": [
+    "10.1038/s41598-018-38231-w"
+  ],
+  "title": [
+    "Functional random forest with applications in dose-response predictions."
+  ],
+  "authorString": [
+    "Rahman R, Dhruba SR, Ghosh S, Pal R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rahman R"
+          ],
+          "firstName": [
+            "Raziur"
+          ],
+          "lastName": [
+            "Rahman"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Texas Tech University, Department of Electrical and Computer Engineering, Lubbock, Texas, 79409, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dhruba SR"
+          ],
+          "firstName": [
+            "Saugato Rahman"
+          ],
+          "lastName": [
+            "Dhruba"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Texas Tech University, Department of Electrical and Computer Engineering, Lubbock, Texas, 79409, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghosh S"
+          ],
+          "firstName": [
+            "Souparno"
+          ],
+          "lastName": [
+            "Ghosh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Texas Tech University, Department of Mathematics and Statistics, Lubbock, Texas, 79409, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pal R"
+          ],
+          "firstName": [
+            "Ranadip"
+          ],
+          "lastName": [
+            "Pal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Texas Tech University, Department of Electrical and Computer Engineering, Lubbock, Texas, 79409, USA. ranadip.pal@ttu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2776943"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1628"
+  ],
+  "abstractText": [
+    "Drug sensitivity prediction for individual tumors is a significant challenge in personalized medicine. Current modeling approaches consider prediction of a single metric of the drug response curve such as AUC or IC50. However, the single summary metric of a dose-response curve fails to provide the entire drug sensitivity profile which can be used to design the optimal dose for a patient. In this article, we assess the problem of predicting the complete dose-response curve based on genetic characterizations. We propose an enhancement to the popular ensemble-based Random Forests approach that can directly predict the entire functional profile of a dose-response curve rather than a single summary metric. We design functional regression trees with node costs modified based on dose/response region dependence methodologies and response distribution based approaches. Our results relative to large pharmacological databases such as CCLE and GDSC show a higher accuracy in predicting dose-response curves of the proposed functional framework in contrast to univariate or multivariate Random Forest predicting sensitivities at different dose levels. Furthermore, we also considered the problem of predicting functional responses from functional predictors i.e., estimating the dose-response curves with a model built on dose-dependent expression data. The superior performance of Functional Random Forest using functional data as compared to existing approaches have been shown using the HMS-LINCS dataset. In summary, Functional Random Forest presents an enhanced predictive modeling framework to predict the entire functional response profile considering both static and functional predictors instead of predicting the summary metrics of the response curves."
+  ],
+  "affiliation": [
+    "Texas Tech University, Department of Electrical and Computer Engineering, Lubbock, Texas, 79409, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 GM122084"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-38231-w"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6367407"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6367407?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-09"
+  ],
+  "firstIndexDate": [
+    "2019-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-22"
+  ],
+  "dateOfRevision": [
+    "2019-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-07"
+  ],
+  "firstPublicationDate": [
+    "2019-02-07"
+  ]
+}

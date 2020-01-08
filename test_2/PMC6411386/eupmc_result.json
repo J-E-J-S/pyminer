@@ -1,0 +1,595 @@
+{
+  "id": [
+    "30664748"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30664748"
+  ],
+  "pmcid": [
+    "PMC6411386"
+  ],
+  "doi": [
+    "10.1038/s41586-019-0879-y"
+  ],
+  "title": [
+    "Commonality despite exceptional diversity in the baseline human antibody repertoire."
+  ],
+  "authorString": [
+    "Briney B, Inderbitzin A, Joyce C, Burton DR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Briney B"
+          ],
+          "firstName": [
+            "Bryan"
+          ],
+          "lastName": [
+            "Briney"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA. briney@scripps.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Inderbitzin A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Inderbitzin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Joyce C"
+          ],
+          "firstName": [
+            "Collin"
+          ],
+          "lastName": [
+            "Joyce"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Burton DR"
+          ],
+          "firstName": [
+            "Dennis R"
+          ],
+          "lastName": [
+            "Burton"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA. burton@scripps.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7744"
+      ],
+      "volume": [
+        "566"
+      ],
+      "journalIssueId": [
+        "2784302"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature"
+          ],
+          "ISOAbbreviation": [
+            "Nature"
+          ],
+          "medlineAbbreviation": [
+            "Nature"
+          ],
+          "NLMid": [
+            "0410462"
+          ],
+          "ISSN": [
+            "0028-0836"
+          ],
+          "ESSN": [
+            "1476-4687"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "393-397"
+  ],
+  "abstractText": [
+    "In principle, humans can produce an antibody response to any non-self-antigen molecule in the appropriate context. This flexibility is achieved by the presence of a large repertoire of naive antibodies, the diversity of which is expanded by somatic hypermutation following antigen exposure1. The diversity of the naive antibody repertoire in humans is estimated to be at least 1012 unique antibodies2. Because the number of peripheral blood B cells in a healthy adult human is on the order of 5 × 109, the circulating B cell population samples only a small fraction of this diversity. Full-scale analyses of human antibody repertoires have been prohibitively difficult, primarily owing to their massive size. The amount of information encoded by all of the rearranged antibody and T cell receptor genes in one person-the 'genome' of the adaptive immune system-exceeds the size of the human genome by more than four orders of magnitude. Furthermore, because much of the B lymphocyte population is localized in organs or tissues that cannot be comprehensively sampled from living subjects, human repertoire studies have focused on circulating B cells3. Here we examine the circulating B cell populations of ten human subjects and present what is, to our knowledge, the largest single collection of adaptive immune receptor sequences described to date, comprising almost 3 billion antibody heavy-chain sequences. This dataset enables genetic study of the baseline human antibody repertoire at an unprecedented depth and granularity, which reveals largely unique repertoires for each individual studied, a subpopulation of universally shared antibody clonotypes, and an exceptional overall diversity of the antibody repertoire."
+  ],
+  "affiliation": [
+    "Department of Immunology and Microbiology, The Scripps Research Institute, La Jolla, CA, USA. briney@scripps.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U19 AI135995"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UM1 AI100663"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "B-Lymphocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clone Cells"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antibodies"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antigens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antigens"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Antibodies"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41586-019-0879-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6411386"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6411386?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS1514269"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-08-12"
+  ],
+  "dateOfCreation": [
+    "2019-01-22"
+  ],
+  "firstIndexDate": [
+    "2019-01-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-22"
+  ],
+  "dateOfRevision": [
+    "2019-08-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-21"
+  ],
+  "firstPublicationDate": [
+    "2019-01-21"
+  ],
+  "embargoDate": [
+    "2019-07-21"
+  ]
+}

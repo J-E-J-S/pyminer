@@ -1,0 +1,421 @@
+{
+  "id": [
+    "31783869"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31783869"
+  ],
+  "pmcid": [
+    "PMC6884833"
+  ],
+  "doi": [
+    "10.1186/s12934-019-1259-x"
+  ],
+  "title": [
+    "Advances and opportunities in gene editing and gene regulation technology for Yarrowia lipolytica."
+  ],
+  "authorString": [
+    "Ganesan V, Spagnuolo M, Agrawal A, Smith S, Gao D, Blenner M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ganesan V"
+          ],
+          "firstName": [
+            "Vijaydev"
+          ],
+          "lastName": [
+            "Ganesan"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Spagnuolo M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Spagnuolo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Agrawal A"
+          ],
+          "firstName": [
+            "Ayushi"
+          ],
+          "lastName": [
+            "Agrawal"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith S"
+          ],
+          "firstName": [
+            "Spencer"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao D"
+          ],
+          "firstName": [
+            "Difeng"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Blenner M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Blenner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9274-3749",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA. blenner@clemson.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9274-3749",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2876257"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "208"
+  ],
+  "abstractText": [
+    "Yarrowia lipolytica has emerged as a biomanufacturing platform for a variety of industrial applications. It has been demonstrated to be a robust cell factory for the production of renewable chemicals and enzymes for fuel, feed, oleochemical, nutraceutical and pharmaceutical applications. Metabolic engineering of this non-conventional yeast started through conventional molecular genetic engineering tools; however, recent advances in gene/genome editing systems, such as CRISPR-Cas9, transposons, and TALENs, has greatly expanded the applications of synthetic biology, metabolic engineering and functional genomics of Y. lipolytica. In this review we summarize the work to develop these tools and their demonstrated uses in engineering Y. lipolytica, discuss important subtleties and challenges to using these tools, and give our perspective on important gaps in gene/genome editing tools in Y. lipolytica."
+  ],
+  "affiliation": [
+    "Department of Chemical and Biomolecular Engineering, Clemson University, 206 S. Palmetto Blvd., Clemson, SC, 29634, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1706134"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NNX15AU46G"
+          ],
+          "agency": [
+            "NASA Space Technology Research Grants"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NIH-R35GM133803"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transposon",
+        "Functional genomics",
+        "Yarrowia lipolytica",
+        "metabolic engineering",
+        "Synthetic Biology",
+        "Genome Editing",
+        "Genetic Tools",
+        "Crispr–cas9"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-019-1259-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884833"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884833?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-01"
+  ],
+  "firstIndexDate": [
+    "2019-12-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-29"
+  ],
+  "firstPublicationDate": [
+    "2019-11-29"
+  ]
+}

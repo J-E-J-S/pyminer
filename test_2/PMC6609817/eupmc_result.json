@@ -1,0 +1,577 @@
+{
+  "id": [
+    "31271967"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31271967"
+  ],
+  "pmcid": [
+    "PMC6609817"
+  ],
+  "doi": [
+    "10.1016/j.isci.2019.05.037"
+  ],
+  "title": [
+    "Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads."
+  ],
+  "authorString": [
+    "Darby CA, Fitch JR, Brennan PJ, Kelly BJ, Bir N, Magrini V, Leonard J, Cottrell CE, Gastier-Foster JM, Wilson RK, Mardis ER, White P, Langmead B, Schatz MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Darby CA"
+          ],
+          "firstName": [
+            "Charlotte A"
+          ],
+          "lastName": [
+            "Darby"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fitch JR"
+          ],
+          "firstName": [
+            "James R"
+          ],
+          "lastName": [
+            "Fitch"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brennan PJ"
+          ],
+          "firstName": [
+            "Patrick J"
+          ],
+          "lastName": [
+            "Brennan"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kelly BJ"
+          ],
+          "firstName": [
+            "Benjamin J"
+          ],
+          "lastName": [
+            "Kelly"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bir N"
+          ],
+          "firstName": [
+            "Natalie"
+          ],
+          "lastName": [
+            "Bir"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Magrini V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Magrini"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leonard J"
+          ],
+          "firstName": [
+            "Jeffrey"
+          ],
+          "lastName": [
+            "Leonard"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA; Department of Neurosurgery, Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cottrell CE"
+          ],
+          "firstName": [
+            "Catherine E"
+          ],
+          "lastName": [
+            "Cottrell"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gastier-Foster JM"
+          ],
+          "firstName": [
+            "Julie M"
+          ],
+          "lastName": [
+            "Gastier-Foster"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson RK"
+          ],
+          "firstName": [
+            "Richard K"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mardis ER"
+          ],
+          "firstName": [
+            "Elaine R"
+          ],
+          "lastName": [
+            "Mardis"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "White P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5218-5903",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Institute for Genomic Medicine, Nationwide Children's Hospital, Columbus, OH, USA; Department of Pediatrics, The Ohio State University College of Medicine, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Langmead B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Langmead"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA. Electronic address: langmea@cs.jhu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Schatz MC"
+          ],
+          "firstName": [
+            "Michael C"
+          ],
+          "lastName": [
+            "Schatz"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA; Department of Biology, Johns Hopkins University, Baltimore, MD, USA; Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA. Electronic address: mschatz@cs.jhu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5218-5903",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2852982"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "iScience"
+          ],
+          "ISOAbbreviation": [
+            "iScience"
+          ],
+          "medlineAbbreviation": [
+            "iScience"
+          ],
+          "NLMid": [
+            "101724038"
+          ],
+          "ISSN": [
+            "2589-0042"
+          ],
+          "ESSN": [
+            "2589-0042"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-10"
+  ],
+  "abstractText": [
+    "Linked-read sequencing enables greatly improves haplotype assembly over standard paired-end analysis. The detection of mosaic single-nucleotide variants benefits from haplotype assembly when the model is informed by the mapping between constituent reads and linked reads. Samovar evaluates haplotype-discordant reads identified through linked-read sequencing, thus enabling phasing and mosaic variant detection across the entire genome. Samovar trains a random forest model to score candidate sites using a dataset that considers read quality, phasing, and linked-read characteristics. Samovar calls mosaic single-nucleotide variants (SNVs) within a single sample with accuracy comparable with what previously required trios or matched tumor/normal pairs and outperforms single-sample mosaic variant callers at minor allele frequency 5%-50% with at least 30X coverage. Samovar finds somatic variants in both tumor and normal whole-genome sequencing from 13 pediatric cancer cases that can be corroborated with high recall with whole exome sequencing. Samovar is available open-source at https://github.com/cdarby/samovar under the MIT license."
+  ],
+  "affiliation": [
+    "Department of Computer Science, Johns Hopkins University, Baltimore, MD, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 CA220411"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 MH106884"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG006677"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM118568"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bioinformatics",
+        "Genomics",
+        "Biological sciences"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.isci.2019.05.037"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609817"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609817?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR71444"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-05"
+  ],
+  "firstIndexDate": [
+    "2019-07-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-19"
+  ],
+  "dateOfRevision": [
+    "2019-09-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-29"
+  ],
+  "firstPublicationDate": [
+    "2019-05-29"
+  ]
+}

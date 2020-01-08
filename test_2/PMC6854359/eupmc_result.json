@@ -1,0 +1,526 @@
+{
+  "id": [
+    "31625495"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31625495"
+  ],
+  "pmcid": [
+    "PMC6854359"
+  ],
+  "doi": [
+    "10.1192/bjo.2019.78"
+  ],
+  "title": [
+    "The association between health conditions and cannabis use in patients with opioid use disorder receiving methadone maintenance treatment."
+  ],
+  "authorString": [
+    "Shams I, Sanger N, Bhatt M, Rosic T, Luo C, Shahid H, Mouravska N, Tam SL, Hillmer A, Chawar C, D'Elia A, Hudson J, Marsh D, Thabane L, Samaan Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shams I"
+          ],
+          "firstName": [
+            "Ieta"
+          ],
+          "lastName": [
+            "Shams"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2263-0025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical student, Department of Psychiatry and Behavioural Neurosciences, McMaster University; and Faculty of Medicine, University of Ottawa, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanger N"
+          ],
+          "firstName": [
+            "Nitika"
+          ],
+          "lastName": [
+            "Sanger"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "PhD student, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhatt M"
+          ],
+          "firstName": [
+            "Meha"
+          ],
+          "lastName": [
+            "Bhatt"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Researcher, Department of Psychiatry and Behavioural Neurosciences, McMaster University; and Department of Health Research Methods, Evidence, and Impact, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosic T"
+          ],
+          "firstName": [
+            "Tea"
+          ],
+          "lastName": [
+            "Rosic"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7406-4056",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychiatry Resident, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo C"
+          ],
+          "firstName": [
+            "Candice"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Medical Student, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Shahid H"
+          ],
+          "firstName": [
+            "Hamnah"
+          ],
+          "lastName": [
+            "Shahid"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Psychology Graduate Program Student, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Mouravska N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Mouravska"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Psychiatry Resident, Department of Psychiatry, The Ottawa Hospital General Campus, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Tam SL"
+          ],
+          "firstName": [
+            "Sabrina Lue"
+          ],
+          "lastName": [
+            "Tam"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Resident, HHS McMaster Children's Hospital, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hillmer A"
+          ],
+          "firstName": [
+            "Alannah"
+          ],
+          "lastName": [
+            "Hillmer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Graduate student, Neuroscience Graduate Program, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Chawar C"
+          ],
+          "firstName": [
+            "Caroul"
+          ],
+          "lastName": [
+            "Chawar"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Graduate student, Neuroscience Graduate Program, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Elia A"
+          ],
+          "firstName": [
+            "Alessia"
+          ],
+          "lastName": [
+            "D'Elia"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Graduate student, Neuroscience Graduate Program, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hudson J"
+          ],
+          "firstName": [
+            "Jacqueline"
+          ],
+          "lastName": [
+            "Hudson"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Research Assistant, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Marsh D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Marsh"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Addiction Medicine Specialist, Northern Ontario School of Medicine, Laurentian University; and Researcher, Canadian Addiction Treatment Centres, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Thabane L"
+          ],
+          "firstName": [
+            "Lehana"
+          ],
+          "lastName": [
+            "Thabane"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Professor, Department of Health Research Methods, Evidence, and Impact, McMaster University; Father Sean O'Sullivan Research Centre, St. Joseph's Healthcare Hamilton; and Researcher, Centre for Evaluation of Medicines, Programs for Assessment of Technology in Health (PATH) Research Institute, McMaster University, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Samaan Z"
+          ],
+          "firstName": [
+            "Zainab"
+          ],
+          "lastName": [
+            "Samaan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Associate Professor, Department of Psychiatry and Behavioural Neurosciences, McMaster University; Psychiatrist, Department of Health Research Methods, Evidence, and Impact, McMaster University; and Researcher, Population Genomics Program, Chanchlani Research Centre, McMaster University, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2263-0025",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7406-4056",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2868420"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BJPsych open"
+          ],
+          "ISOAbbreviation": [
+            "BJPsych Open"
+          ],
+          "medlineAbbreviation": [
+            "BJPsych Open"
+          ],
+          "NLMid": [
+            "101667931"
+          ],
+          "ISSN": [
+            "2056-4724"
+          ],
+          "ESSN": [
+            "2056-4724"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e91"
+  ],
+  "abstractText": [
+    "BACKGROUND:Cannabis is the most commonly used substance among patients in methadone maintenance treatment (MMT) for opioid use disorder. Current treatment programmes neither screen nor manage cannabis use. The recent legalisation of cannabis in Canada incites consideration into how this may affect the current opioid crisis. AIMS:Investigate the health status of cannabis users in MMT. METHOD:Patients were recruited from addiction clinics in Ontario, Canada. Regression analyses were used to assess the association between adverse health conditions and cannabis use. Further analyses were used to assess sex differences and heaviness of cannabis use. RESULTS:We included 672 patients (49.9% cannabis users). Cannabis users were more likely to consume alcohol (odds ratio 1.46, 95% CI 1.04-2.06, P = 0.029) and have anxiety disorders (odds ratio 1.75, 95% CI 1.02-3.02, P = 0.043), but were less likely to use heroin (odds ratio 0.45, 95% CI 0.24-0.86, P = 0.016). There was no association between cannabis use and pain (odds ratio 0.98, 95% CI 0.94-1.03, P = 0.463). A significant association was seen between alcohol and cannabis use in women (odds ratio 1.79, 95% CI 1.06-3.02, P = 0.028), and anxiety disorders and cannabis use in men (odds ratio 2.59, 95% CI 1.21-5.53, P = 0.014). Heaviness of cannabis use was not associated with health outcomes. CONCLUSIONS:Our results suggest that cannabis use is common and associated with psychiatric comorbidities and substance use among patients in MMT, advocating for screening of cannabis use in this population. DECLARATION OF INTEREST:None."
+  ],
+  "affiliation": [
+    "Medical student, Department of Psychiatry and Behavioural Neurosciences, McMaster University; and Faculty of Medicine, University of Ottawa, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cannabis",
+        "Opioid Use Disorder",
+        "Drugs Of Dependence Disorders"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1192/bjo.2019.78"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6854359"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6854359?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-19"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-26"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-18"
+  ],
+  "firstPublicationDate": [
+    "2019-10-18"
+  ]
+}

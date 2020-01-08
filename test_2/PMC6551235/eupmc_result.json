@@ -1,0 +1,443 @@
+{
+  "id": [
+    "31167665"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31167665"
+  ],
+  "pmcid": [
+    "PMC6551235"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5701-6"
+  ],
+  "title": [
+    "Novel algorithms for LDD motif search."
+  ],
+  "authorString": [
+    "Xiao P, Schiller M, Rajasekaran S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xiao P"
+          ],
+          "firstName": [
+            "Peng"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, University of Connecticut, 371 Fairfield Road, Storrs, 06269, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schiller M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Schiller"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Life Sciences, University of Nevada, Las Vegas, NV, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajasekaran S"
+          ],
+          "firstName": [
+            "Sanguthevar"
+          ],
+          "lastName": [
+            "Rajasekaran"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Computer Science and Engineering, University of Connecticut, 371 Fairfield Road, Storrs, 06269, CT, USA. rajasek@engr.uconn.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 5"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2825039"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "424"
+  ],
+  "abstractText": [
+    "BACKGROUND:Motifs are crucial patterns that have numerous applications including the identification of transcription factors and their binding sites, composite regulatory patterns, similarity between families of proteins, etc. Several motif models have been proposed in the literature. The (l,d)-motif model is one of these that has been studied widely. However, this model will sometimes report too many spurious motifs than expected. We interpret a motif as a biologically significant entity that is evolutionarily preserved within some distance. It may be highly improbable that the motif undergoes the same number of changes in each of the species. To address this issue, in this paper, we introduce a new model which is more general than (l,d)-motif model. This model is called (l,d1,d2)-motif model (LDDMS) and is NP-hard as well. We present three elegant as well as efficient algorithms to solve the LDDMS problem, i.e., LDDMS1, LDDMS2 and LDDMS3. They are all exact algorithms. RESULTS:We did both theoretical analyses and empirical tests on these algorithms. Theoretical analyses demonstrate that our algorithms have less computational cost than the pattern driven approach. Empirical results on both simulated datasets and real datasets show that each of the three algorithms has some advantages on some (l,d1,d2) instances. CONCLUSIONS:We proposed LDDMS model which is more practically relevant. We also proposed three exact efficient algorithms to solve the problem. Besides, our algorithms can be nicely parallelized. We believe that the idea in this new model can also be extended to other motif search problems such as Edit-distance-based Motif Search (EMS) and Simple Motif Search (SMS)."
+  ],
+  "affiliation": [
+    "Department of Computer Science and Engineering, University of Connecticut, 371 Fairfield Road, Storrs, 06269, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P20 GM121325"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R15 GM107983"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Amino Acid Motifs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Nucleotide Motifs"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Motif Search",
+        "Radix Sort",
+        "Neighborhood Tree"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5701-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6551235"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6551235?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-06"
+  ],
+  "dateOfCreation": [
+    "2019-06-07"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-13"
+  ],
+  "dateOfRevision": [
+    "2019-11-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-06"
+  ],
+  "firstPublicationDate": [
+    "2019-06-06"
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "id": [
+    "31409230"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31409230"
+  ],
+  "pmcid": [
+    "PMC6731594"
+  ],
+  "doi": [
+    "10.1098/rsob.190116"
+  ],
+  "title": [
+    "Biochemical analysis of nucleosome targeting by Tn5 transposase."
+  ],
+  "authorString": [
+    "Sato S, Arimura Y, Kujirai T, Harada A, Maehara K, Nogami J, Ohkawa Y, Kurumizaka H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sato S"
+          ],
+          "firstName": [
+            "Shoko"
+          ],
+          "lastName": [
+            "Sato"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Arimura Y"
+          ],
+          "firstName": [
+            "Yasuhiro"
+          ],
+          "lastName": [
+            "Arimura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kujirai T"
+          ],
+          "firstName": [
+            "Tomoya"
+          ],
+          "lastName": [
+            "Kujirai"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Harada A"
+          ],
+          "firstName": [
+            "Akihito"
+          ],
+          "lastName": [
+            "Harada"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Transcriptomics, Medical Institute of Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Maehara K"
+          ],
+          "firstName": [
+            "Kazumitsu"
+          ],
+          "lastName": [
+            "Maehara"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Division of Transcriptomics, Medical Institute of Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nogami J"
+          ],
+          "firstName": [
+            "Jumpei"
+          ],
+          "lastName": [
+            "Nogami"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Transcriptomics, Medical Institute of Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ohkawa Y"
+          ],
+          "firstName": [
+            "Yasuyuki"
+          ],
+          "lastName": [
+            "Ohkawa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Transcriptomics, Medical Institute of Bioregulation, Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kurumizaka H"
+          ],
+          "firstName": [
+            "Hitoshi"
+          ],
+          "lastName": [
+            "Kurumizaka"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2846484"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Open biology"
+          ],
+          "ISOAbbreviation": [
+            "Open Biol"
+          ],
+          "medlineAbbreviation": [
+            "Open Biol"
+          ],
+          "NLMid": [
+            "101580419"
+          ],
+          "ISSN": [
+            "2046-2441"
+          ],
+          "ESSN": [
+            "2046-2441"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "190116"
+  ],
+  "abstractText": [
+    "Tn5 transposase is a bacterial enzyme that integrates a DNA fragment into genomic DNA, and is used as a tool for detecting nucleosome-free regions of genomic DNA in eukaryotes. However, in chromatin, the DNA targeting by Tn5 transposase has remained unclear. In the present study, we reconstituted well-positioned 601 dinucleosomes, in which two nucleosomes are connected with a linker DNA, and studied the DNA integration sites in the dinucleosomes by Tn5 transposase in vitro. We found that Tn5 transposase preferentially targets near the entry-exit DNA regions within the nucleosome. Tn5 transposase minimally cleaved the dinucleosome without a linker DNA, indicating that the linker DNA between two nucleosomes is important for the Tn5 transposase activity. In the presence of a 30 base-pair linker DNA, Tn5 transposase targets the middle of the linker DNA, in addition to the entry-exit sites of the nucleosome. Intriguingly, this Tn5-targeting characteristic is conserved in a dinucleosome substrate with a different DNA sequence from the 601 sequence. Therefore, the Tn5-targeting preference in the nucleosomal templates reported here provides important information for the interpretation of Tn5 transposase-based genomics methods, such as ATAC-seq."
+  ],
+  "affiliation": [
+    "Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nucleosome",
+        "chromatin",
+        "Nucleosome-free Region",
+        "Linker Dna",
+        "Tn5 Transposase"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1098/rsob.190116"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6731594"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6731594?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-15"
+  ],
+  "firstIndexDate": [
+    "2019-08-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-11"
+  ],
+  "dateOfRevision": [
+    "2020-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-14"
+  ],
+  "firstPublicationDate": [
+    "2019-08-14"
+  ]
+}

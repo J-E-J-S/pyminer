@@ -1,0 +1,583 @@
+{
+  "id": [
+    "31501426"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31501426"
+  ],
+  "pmcid": [
+    "PMC6734003"
+  ],
+  "doi": [
+    "10.1038/s41467-019-11713-9"
+  ],
+  "title": [
+    "Accurate detection of m6A RNA modifications in native RNA sequences."
+  ],
+  "authorString": [
+    "Liu H, Begik O, Lucas MC, Ramirez JM, Mason CE, Wiener D, Schwartz S, Mattick JS, Smith MA, Novoa EM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huanle"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Begik O"
+          ],
+          "firstName": [
+            "Oguzhan"
+          ],
+          "lastName": [
+            "Begik"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8663-4586",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Lucas MC"
+          ],
+          "firstName": [
+            "Morghan C"
+          ],
+          "lastName": [
+            "Lucas"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7654-9137",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramirez JM"
+          ],
+          "firstName": [
+            "Jose Miguel"
+          ],
+          "lastName": [
+            "Ramirez"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Mason CE"
+          ],
+          "firstName": [
+            "Christopher E"
+          ],
+          "lastName": [
+            "Mason"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1850-1642",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, 10021, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wiener D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Wiener"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz S"
+          ],
+          "firstName": [
+            "Schraga"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Mattick JS"
+          ],
+          "firstName": [
+            "John S"
+          ],
+          "lastName": [
+            "Mattick"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7680-7527",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Garvan Institute of Medical Research, Darlinghurst, New South Wales, 2010, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith MA"
+          ],
+          "firstName": [
+            "Martin A"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2259-1713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "St-Vincent's Clinical School, UNSW Sydney, Darlinghurst, New South Wales, 2010, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Novoa EM"
+          ],
+          "firstName": [
+            "Eva Maria"
+          ],
+          "lastName": [
+            "Novoa"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9367-6311",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain. eva.novoa@crg.eu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7654-9137",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9367-6311",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7680-7527",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8663-4586",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2259-1713",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1850-1642",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2853973"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4079"
+  ],
+  "abstractText": [
+    "The epitranscriptomics field has undergone an enormous expansion in the last few years; however, a major limitation is the lack of generic methods to map RNA modifications transcriptome-wide. Here, we show that using direct RNA sequencing, N6-methyladenosine (m6A) RNA modifications can be detected with high accuracy, in the form of systematic errors and decreased base-calling qualities. Specifically, we find that our algorithm, trained with m6A-modified and unmodified synthetic sequences, can predict m6A RNA modifications with ~90% accuracy. We then extend our findings to yeast data sets, finding that our method can identify m6A RNA modifications in vivo with an accuracy of 87%. Moreover, we further validate our method by showing that these 'errors' are typically not observed in yeast ime4-knockout strains, which lack m6A modifications. Our results open avenues to investigate the biological roles of RNA modifications in their native RNA context."
+  ],
+  "affiliation": [
+    "Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and Technology, 08003, Barcelona, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 MH117406"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 ES021006"
+          ],
+          "agency": [
+            "NIEHS NIH HHS"
+          ],
+          "acronym": [
+            "ES"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AI129851"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-11713-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6734003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6734003?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR67884"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-11"
+  ],
+  "firstIndexDate": [
+    "2019-09-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-17"
+  ],
+  "dateOfRevision": [
+    "2019-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-09"
+  ],
+  "firstPublicationDate": [
+    "2019-09-09"
+  ]
+}

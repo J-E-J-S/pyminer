@@ -1,0 +1,567 @@
+{
+  "id": [
+    "29694430"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29694430"
+  ],
+  "pmcid": [
+    "PMC5919020"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0195994"
+  ],
+  "title": [
+    "Genome comparison of different Zymomonas mobilis strains provides insights on conservation of the evolution."
+  ],
+  "authorString": [
+    "Chen C, Wu L, Cao Q, Shao H, Li X, Zhang Y, Wang H, Tan X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu L"
+          ],
+          "firstName": [
+            "Linfeng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Q"
+          ],
+          "firstName": [
+            "Qinghua"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shao H"
+          ],
+          "firstName": [
+            "Huanhuan"
+          ],
+          "lastName": [
+            "Shao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xuedan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yizheng"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Haiyan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2982-0988",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2982-0988",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2667071"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0195994"
+  ],
+  "abstractText": [
+    "Zymomonas mobilis has the special Entner-Doudoroff (ED) pathway and it has excellent industrial characteristics, including low cell mass formation, high-specific productivity,ethanol yield, notable ethanol tolerance and wide pH range, a relatively small genome size. In this study, the genome sequences of NRRL B-14023 and NRRL B-12526 were sequenced and compared with other strains to explore their evolutionary relationships and the genetic basis of Z. mobilis. The comparative genomic analyses revealed that the 8 strains share a conserved core chromosomal backbone. ZM4, NRRL B-12526, NRRL B-14023, NCIMB 11163 and NRRL B-1960 share 98% sequence identity across the whole genome sequences. Highly similar plasmids and CRISPR repeats were detected in these strains. A whole-genome phylogenetic tree of the 8 strains indicated that NRRL B-12526, NRRL B-14023 and ATCC 10988 had a close evolutionary relationship with the strain ZM4. Furthermore, strains ATCC29191 and ATCC29192 had distinctive CRISPR with a far distant relationship. The size of the pan-genome was 1945 genes, including 1428 core genes and 517 accessory genes. The genomes of Z. mobilis were highly conserved; particularly strains ZM4, NRRL B-12526, NRRL B-14023, NCIMB 11163 and NRRL B-1960 had a close genomic relationship. This comparative study of Z. mobilis presents a foundation for future functional analyses and applications."
+  ],
+  "affiliation": [
+    "College of Life Sciences, Sichuan University, Key Laboratory for Bio-Resources and Eco-Environment of Ministry of Education, Sichuan Key Laboratory of Molecular Biology and Biotechnology, Chengdu, PR China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zymomonas"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ethanol"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phylogeny"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrogen-Ion Concentration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome Size"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ethanol"
+          ],
+          "registryNumber": [
+            "3K9958V90M"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0195994"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5919020"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5919020?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-07-19"
+  ],
+  "dateOfCreation": [
+    "2018-04-26"
+  ],
+  "firstIndexDate": [
+    "2018-04-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-05-11"
+  ],
+  "dateOfRevision": [
+    "2018-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-25"
+  ],
+  "firstPublicationDate": [
+    "2018-04-25"
+  ]
+}

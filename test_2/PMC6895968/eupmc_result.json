@@ -1,0 +1,336 @@
+{
+  "id": [
+    "31731480"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31731480"
+  ],
+  "pmcid": [
+    "PMC6895968"
+  ],
+  "doi": [
+    "10.3390/cancers11111648"
+  ],
+  "title": [
+    "Genomic Perspective on Mouse Liver Cancer Models."
+  ],
+  "authorString": [
+    "Yim SY, Lee JS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yim SY"
+          ],
+          "firstName": [
+            "Sun Young"
+          ],
+          "lastName": [
+            "Yim"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Korea University College of Medicine, Seoul 136-701, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JS"
+          ],
+          "firstName": [
+            "Ju-Seog"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5666-9753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Systems Biology, Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5666-9753",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2874114"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Selecting the most appropriate mouse model that best recapitulates human hepatocellular carcinoma (HCC) allows translation of preclinical mouse studies into clinical studies. In the era of cancer genomics, comprehensive and integrative analysis of the human HCC genome has allowed categorization of HCC according to molecular subtypes. Despite the variety of mouse models that are available for preclinical research, there is a lack of evidence for mouse models that closely resemble human HCC. Therefore, it is necessary to identify the accurate mouse models that represent human HCC based on molecular subtype as well as histologic aggressiveness. In this review, we summarize the mouse models integrated with human HCC genomic data to provide information regarding the models that recapitulates the distinct aspect of HCC biology and prognosis based on molecular subtypes."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, Division of Gastroenterology and Hepatology, Korea University College of Medicine, Seoul 136-701, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "SINF2019"
+          ],
+          "agency": [
+            "University of Texas MD Anderson Cancer Center"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Seed Funding Program"
+          ],
+          "agency": [
+            "Duncan Family Institute for Cancer Prevention and Risk Assessment"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CA016672"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hepatocellular carcinoma",
+        "Genomics",
+        "SV40",
+        "Mouse Model",
+        "Hippo Pathway",
+        "Ctnnb1",
+        "Arid1a",
+        "Genomic Resemblance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11111648"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895968"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6895968?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-17"
+  ],
+  "firstIndexDate": [
+    "2019-11-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-25"
+  ],
+  "firstPublicationDate": [
+    "2019-10-25"
+  ]
+}

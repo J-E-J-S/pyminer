@@ -1,0 +1,287 @@
+{
+  "id": [
+    "30630265"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30630265"
+  ],
+  "pmcid": [
+    "PMC6361248"
+  ],
+  "doi": [
+    "10.3857/roj.2018.00381"
+  ],
+  "title": [
+    "Natural radioprotectors and their impact on cancer drug discovery."
+  ],
+  "authorString": [
+    "Kuruba V, Gollapalli P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kuruba V"
+          ],
+          "firstName": [
+            "Vinutha"
+          ],
+          "lastName": [
+            "Kuruba"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, NMAM Institute of Technology, Udupi, Karnataka, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gollapalli P"
+          ],
+          "firstName": [
+            "Pavan"
+          ],
+          "lastName": [
+            "Gollapalli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Vignan's Foundation for Science, Technology and Research (Deemed to be University), Guntur, Andhra Pradesh, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "2770102"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Radiation oncology journal"
+          ],
+          "ISOAbbreviation": [
+            "Radiat Oncol J"
+          ],
+          "medlineAbbreviation": [
+            "Radiat Oncol J"
+          ],
+          "NLMid": [
+            "101577577"
+          ],
+          "ISSN": [
+            "2234-1900"
+          ],
+          "ESSN": [
+            "2234-3164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "265-275"
+  ],
+  "abstractText": [
+    "Cancer is a complex multifaceted illness that affects different patients in discrete ways. For a number of cancers the use of chemotherapy has become standard practice. Chemotherapy is a use of cytostatic drugs to cure cancer. Cytostatic agents not only affect cancer cells but also affect the growth of normal cells; leading to side effects. Because of this, radiotherapy gained importance in treating cancer. Slaughtering of cancerous cells by radiotherapy depends on the radiosensitivity of the tumor cells. Efforts to improve the therapeutic ratio have resulted in the development of compounds that increase the radiosensitivity of tumor cells or protect the normal cells from the effects of radiation. Amifostine is the only chemical radioprotector approved by the US Food and Drug Administration (FDA), but due to its side effect and toxicity, use of this compound was also failed. Hence the use of herbal radioprotectors bearing pharmacological properties is concentrated due to their low toxicity and efficacy. Notably, in silico methods can expedite drug discovery process, to lessen the compounds with unfavorable pharmacological properties at an early stage of drug development. Hence a detailed perspective of these properties, in accordance with their prediction and measurement, are pivotal for a successful identification of radioprotectors by drug discovery process."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, NMAM Institute of Technology, Udupi, Karnataka, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Vignan's Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "drug discovery",
+        "Quantitative structure-activity relationship",
+        "Radioprotectors",
+        "Cancer Radiotherapy",
+        "Radiosensitizers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6361248?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6361248"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3857/roj.2018.00381"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-12"
+  ],
+  "firstIndexDate": [
+    "2019-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-22"
+  ],
+  "dateOfRevision": [
+    "2019-02-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-31"
+  ],
+  "firstPublicationDate": [
+    "2018-12-31"
+  ]
+}

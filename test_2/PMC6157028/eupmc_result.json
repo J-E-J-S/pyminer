@@ -1,0 +1,525 @@
+{
+  "id": [
+    "30255803"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30255803"
+  ],
+  "pmcid": [
+    "PMC6157028"
+  ],
+  "doi": [
+    "10.1186/s12920-018-0391-5"
+  ],
+  "title": [
+    "Indel sensitive and comprehensive variant/mutation detection from RNA sequencing data for precision medicine."
+  ],
+  "authorString": [
+    "Prodduturi N, Bhagwate A, Kocher JA, Sun Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Prodduturi N"
+          ],
+          "firstName": [
+            "Naresh"
+          ],
+          "lastName": [
+            "Prodduturi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhagwate A"
+          ],
+          "firstName": [
+            "Aditya"
+          ],
+          "lastName": [
+            "Bhagwate"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kocher JA"
+          ],
+          "firstName": [
+            "Jean-Pierre A"
+          ],
+          "lastName": [
+            "Kocher"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Z"
+          ],
+          "firstName": [
+            "Zhifu"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8461-7523",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, USA. sun.zhifu@mayo.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8461-7523",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 3"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2731084"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Genomics"
+          ],
+          "NLMid": [
+            "101319628"
+          ],
+          "ISSN": [
+            "1755-8794"
+          ],
+          "ESSN": [
+            "1755-8794"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "67"
+  ],
+  "abstractText": [
+    "BACKGROUND:RNA-seq is the most commonly used sequencing application. Not only does it measure gene expression but it is also an excellent media to detect important structural variants such as single nucleotide variants (SNVs), insertion/deletion (Indels) or fusion transcripts. However, detection of these variants is challenging and complex from RNA-seq. Here we describe a sensitive and accurate analytical pipeline which detects various mutations at once for translational precision medicine. METHODS:The pipeline incorporates most sensitive aligners for Indels in RNA-Seq, the best practice for data preprocessing and variant calling, and STAR-fusion is for chimeric transcripts. Variants/mutations are annotated, and key genes can be extracted for further investigation and clinical actions. Three datasets were used to evaluate the performance of the pipeline for SNVs, indels and fusion transcripts. RESULTS:For the well-defined variants from NA12878 by GIAB project, about 95% and 80% of sensitivities were obtained for SNVs and indels, respectively, in matching RNA-seq. Comparison with other variant specific tools showed good performance of the pipeline. For the lung cancer dataset with 41 known and oncogenic mutations, 39 were detected by the pipeline with STAR aligner and all by the GSNAP aligner. An actionable EML4 and ALK fusion was also detected in one of the tumors, which also demonstrated outlier ALK expression. For 9 fusions spiked-into RNA-seq libraries with different concentrations, the pipeline was able to detect all in unfiltered results although some at very low concentrations may be missed when filtering was applied. CONCLUSIONS:The new RNA-seq workflow is an accurate and comprehensive mutation profiler from RNA-seq. Key or actionable mutations are reliably detected from RNA-seq, which makes it a practical alternative source for personalized medicine."
+  ],
+  "affiliation": [
+    "Division of Biomedical Statistics and Informatics, Department of Health Sciences Research, Mayo Clinic, 200 First St SW, Rochester, MN, 55905, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adenocarcinoma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lung Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "INDEL Mutation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Precision Medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene Expression",
+        "Targeted Therapy",
+        "Rna Sequencing",
+        "Somatic Mutations",
+        "Fusion Transcript",
+        "Precision Medicine",
+        "Insertion/deletion"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12920-018-0391-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6157028"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6157028?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-08-01"
+  ],
+  "dateOfCreation": [
+    "2018-09-27"
+  ],
+  "firstIndexDate": [
+    "2018-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-09-29"
+  ],
+  "dateOfRevision": [
+    "2019-08-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-14"
+  ],
+  "firstPublicationDate": [
+    "2018-09-14"
+  ]
+}

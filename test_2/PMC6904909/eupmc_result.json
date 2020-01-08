@@ -1,0 +1,446 @@
+{
+  "id": [
+    "31778652"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31778652"
+  ],
+  "pmcid": [
+    "PMC6904909"
+  ],
+  "doi": [
+    "10.1016/j.cell.2019.11.009"
+  ],
+  "title": [
+    "Conversion of Escherichia coli to Generate All Biomass Carbon from CO2."
+  ],
+  "authorString": [
+    "Gleizer S, Ben-Nissan R, Bar-On YM, Antonovsky N, Noor E, Zohar Y, Jona G, Krieger E, Shamshoum M, Bar-Even A, Milo R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gleizer S"
+          ],
+          "firstName": [
+            "Shmuel"
+          ],
+          "lastName": [
+            "Gleizer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Ben-Nissan R"
+          ],
+          "firstName": [
+            "Roee"
+          ],
+          "lastName": [
+            "Ben-Nissan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Bar-On YM"
+          ],
+          "firstName": [
+            "Yinon M"
+          ],
+          "lastName": [
+            "Bar-On"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Antonovsky N"
+          ],
+          "firstName": [
+            "Niv"
+          ],
+          "lastName": [
+            "Antonovsky"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Noor E"
+          ],
+          "firstName": [
+            "Elad"
+          ],
+          "lastName": [
+            "Noor"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Zohar Y"
+          ],
+          "firstName": [
+            "Yehudit"
+          ],
+          "lastName": [
+            "Zohar"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Jona G"
+          ],
+          "firstName": [
+            "Ghil"
+          ],
+          "lastName": [
+            "Jona"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Krieger E"
+          ],
+          "firstName": [
+            "Eyal"
+          ],
+          "lastName": [
+            "Krieger"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Shamshoum M"
+          ],
+          "firstName": [
+            "Melina"
+          ],
+          "lastName": [
+            "Shamshoum"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Bar-Even A"
+          ],
+          "firstName": [
+            "Arren"
+          ],
+          "lastName": [
+            "Bar-Even"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Milo R"
+          ],
+          "firstName": [
+            "Ron"
+          ],
+          "lastName": [
+            "Milo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel. Electronic address: ron.milo@weizmann.ac.il."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "179"
+      ],
+      "journalIssueId": [
+        "2885890"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell"
+          ],
+          "ISOAbbreviation": [
+            "Cell"
+          ],
+          "medlineAbbreviation": [
+            "Cell"
+          ],
+          "NLMid": [
+            "0413066"
+          ],
+          "ISSN": [
+            "0092-8674"
+          ],
+          "ESSN": [
+            "1097-4172"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1255-1263.e12"
+  ],
+  "abstractText": [
+    "The living world is largely divided into autotrophs that convert CO2 into biomass and heterotrophs that consume organic compounds. In spite of widespread interest in renewable energy storage and more sustainable food production, the engineering of industrially relevant heterotrophic model organisms to use CO2 as their sole carbon source has so far remained an outstanding challenge. Here, we report the achievement of this transformation on laboratory timescales. We constructed and evolved Escherichia coli to produce all its biomass carbon from CO2. Reducing power and energy, but not carbon, are supplied via the one-carbon molecule formate, which can be produced electrochemically. Rubisco and phosphoribulokinase were co-expressed with formate dehydrogenase to enable CO2 fixation and reduction via the Calvin-Benson-Bassham cycle. Autotrophic growth was achieved following several months of continuous laboratory evolution in a chemostat under intensifying organic carbon limitation and confirmed via isotopic labeling."
+  ],
+  "affiliation": [
+    "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot 7610001, Israel."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RubisCO",
+        "Sustainability",
+        "Escherichia Coli",
+        "Synthetic Biology",
+        "Carbon fixation",
+        "Adaptive Laboratory Evolution",
+        "Metabolic Rewiring",
+        "Synthetic Autotrophy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.cell.2019.11.009"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6904909"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31796902"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nature. 2019 Dec;576(7785):19-20"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-29"
+  ],
+  "firstIndexDate": [
+    "2019-11-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "id": [
+    "29351298"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29351298"
+  ],
+  "pmcid": [
+    "PMC5774680"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0188453"
+  ],
+  "title": [
+    "Construction of an infectious horsepox virus vaccine from chemically synthesized DNA fragments."
+  ],
+  "authorString": [
+    "Noyce RS, Lederman S, Evans DH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Noyce RS"
+          ],
+          "firstName": [
+            "Ryan S"
+          ],
+          "lastName": [
+            "Noyce"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "affiliation": [
+            "Department of Medical Microbiology & Immunology and Li Ka Shing Institute of Virology, University of Alberta, Edmonton, Alberta, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lederman S"
+          ],
+          "firstName": [
+            "Seth"
+          ],
+          "lastName": [
+            "Lederman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Tonix Pharmaceuticals, Inc., New York, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Evans DH"
+          ],
+          "firstName": [
+            "David H"
+          ],
+          "lastName": [
+            "Evans"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5871-299X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Microbiology & Immunology and Li Ka Shing Institute of Virology, University of Alberta, Edmonton, Alberta, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5871-299X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2633893"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0188453"
+  ],
+  "abstractText": [
+    "Edward Jenner and his contemporaries believed that his variolae vaccinae originated in horses and molecular analyses show that modern vaccinia virus (VACV) strains share common ancestry with horsepox virus (HPXV). Given concerns relating to the toxicity of modern VACV vaccines, we asked whether an HPXV-based vaccine might provide a superior alternative. Since HPXV may be extinct and the only specimen of HPXV that has been identified is unavailable for investigation, we explored whether HPXV could be obtained by large-scale gene synthesis. Ten large (10-30 kb) fragments of DNA were synthesized based on the HPXV sequence along with two 157 nt VACV terminal sequences, and were recombined into a live synthetic chimeric HPXV (scHPXV) in cells infected with Shope fibroma virus (SFV). Sequencing of the 212 kbp scHPXV confirmed it encoded a faithful copy of the input DNA. We believe this is the first complete synthesis of a poxvirus using synthetic biology approaches. This scHPXV produced smaller plaques, produced less extracellular virus and exhibited less virulence in mice than VACV, but still provided vaccine protection against a lethal VACV challenge. Collectively, these findings support further development of scHPXV as a novel replication-proficient smallpox vaccine."
+  ],
+  "affiliation": [
+    "Department of Medical Microbiology & Immunology and Li Ka Shing Institute of Virology, University of Alberta, Edmonton, Alberta, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hela Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vero Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cercopithecus aethiops"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Orthopoxvirus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PY"
+                  ],
+                  "qualifierName": [
+                    "pathogenicity"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vaccines, Synthetic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viral Vaccines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Administration, Intranasal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virulence"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Viral Vaccines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "DNA"
+          ],
+          "registryNumber": [
+            "9007-49-2"
+          ]
+        },
+        {
+          "name": [
+            "Vaccines, Synthetic"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0188453"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774680"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774680?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29624486"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Health Secur. 2018 Mar/Apr;16(2):140-142"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-02-15"
+  ],
+  "dateOfCreation": [
+    "2018-01-20"
+  ],
+  "firstIndexDate": [
+    "2018-01-20"
+  ],
+  "fullTextReceivedDate": [
+    "2018-01-28"
+  ],
+  "dateOfRevision": [
+    "2018-11-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-19"
+  ],
+  "firstPublicationDate": [
+    "2018-01-19"
+  ]
+}

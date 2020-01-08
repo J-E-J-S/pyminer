@@ -1,0 +1,328 @@
+{
+  "id": [
+    "31479920"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31479920"
+  ],
+  "pmcid": [
+    "PMC6726916"
+  ],
+  "doi": [
+    "10.1016/j.omtn.2019.08.003"
+  ],
+  "title": [
+    "lnc-3215 Suppression Leads to Calcium Overload in Selenium Deficiency-Induced Chicken Heart Lesion via the lnc-3215-miR-1594-TNN2 Pathway."
+  ],
+  "authorString": [
+    "Yang J, Gong Y, Cai J, Liu Q, Zhang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Y"
+          ],
+          "firstName": [
+            "Yafan"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai J"
+          ],
+          "firstName": [
+            "Jingzeng"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Ziwei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China; Key Laboratory of the Provincial Education Department of Heilongjiang for Common Animal Disease Prevention and Treatment, College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China. Electronic address: zhangziwei@neau.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2890502"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular therapy. Nucleic acids"
+          ],
+          "ISOAbbreviation": [
+            "Mol Ther Nucleic Acids"
+          ],
+          "medlineAbbreviation": [
+            "Mol Ther Nucleic Acids"
+          ],
+          "NLMid": [
+            "101581621"
+          ],
+          "ISSN": [
+            "2162-2531"
+          ],
+          "ESSN": [
+            "2162-2531"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-15"
+  ],
+  "abstractText": [
+    "Selenium deficiency has been proven to induce calcium disorders in the chicken heart. However, detailed regulatory mechanisms, e.g., the long noncoding RNA (lncRNA)-microRNA (miRNA)-mRNA regulatory axis, have not yet been described. Here, we point out lnc-2315, miR-1594, and Troponin T (TNNT2) based on the results of lncRNA and miRNA comparative genomics group analysis of Se-deficient chicken hearts compared with control hearts. We employed lnc-3215 and TNNT2 knockdown, miR-1594 knockdown, and overexpression models in the chicken embryos in vivo, and lnc-3215, miR-1594, and TNNT2 knockdown and overexpression models in cardiomyocytes in vitro. The dual-luciferase reporter assay and quantitative real-time PCR were used to confirm the relationships between miR-1594 and TNNT2, lnc-3215, and miR-1594 in cardiomyocytes. Our results revealed that TNNT2 suppression induced cardiac calcium overload in vivo and in vitro. miR-1594 activates cardiac calcium overload by targeting TNNT2. Moreover, we found that lnc-3215 regulates miR-1594, and thus influences the TNNT2 expression in vivo and in vitro; these conclusions were verified by gene knockdown in chicken embryos. Our present study revealed a novel regulatory model of a calcium program, which comprises lnc-3215, miR-1594, and TNNT2 in the chicken heart. Our conclusions may provide a feasible diagnostic tool for Se-deficient cardiomyocytes injury."
+  ],
+  "affiliation": [
+    "College of Veterinary Medicine, Northeast Agricultural University, Harbin 150030, P. R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcium overload",
+        "Selenium deficiency",
+        "Chicken Heart",
+        "Lnc3-215-mir1594-tnnt2 Axis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.omtn.2019.08.003"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6726916"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6726916?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-09-04"
+  ],
+  "firstIndexDate": [
+    "2019-09-04"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-12"
+  ],
+  "dateOfRevision": [
+    "2019-12-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-12"
+  ],
+  "firstPublicationDate": [
+    "2019-08-12"
+  ]
+}

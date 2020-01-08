@@ -1,0 +1,674 @@
+{
+  "id": [
+    "31130665"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31130665"
+  ],
+  "pmcid": [
+    "PMC6567119"
+  ],
+  "doi": [
+    "10.3390/ijms20102576"
+  ],
+  "title": [
+    "The Relevance of Mass Spectrometry Analysis for Personalized Medicine through Its Successful Application in Cancer \"Omics\"."
+  ],
+  "authorString": [
+    "Ciocan-Cartita CA, Jurj A, Buse M, Gulei D, Braicu C, Raduly L, Cojocneanu R, Pruteanu LL, Iuga CA, Coza O, Berindan-Neagoe I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ciocan-Cartita CA"
+          ],
+          "firstName": [
+            "Cristina Alexandra"
+          ],
+          "lastName": [
+            "Ciocan-Cartita"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. crisciocan@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Jurj A"
+          ],
+          "firstName": [
+            "Ancuța"
+          ],
+          "lastName": [
+            "Jurj"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics, Biomedicine and Translational Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy. ancajurj15@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Buse M"
+          ],
+          "firstName": [
+            "Mihail"
+          ],
+          "lastName": [
+            "Buse"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. da.buse@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Gulei D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Gulei"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. diana.c.gulei@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Braicu C"
+          ],
+          "firstName": [
+            "Cornelia"
+          ],
+          "lastName": [
+            "Braicu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics, Biomedicine and Translational Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy. braicucornelia@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Raduly L"
+          ],
+          "firstName": [
+            "Lajos"
+          ],
+          "lastName": [
+            "Raduly"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3926-5423",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics, Biomedicine and Translational Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy. raduly.lajos78@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cojocneanu R"
+          ],
+          "firstName": [
+            "Roxana"
+          ],
+          "lastName": [
+            "Cojocneanu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Research Center for Functional Genomics, Biomedicine and Translational Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy. cojocneanur@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pruteanu LL"
+          ],
+          "firstName": [
+            "Lavinia Lorena"
+          ],
+          "lastName": [
+            "Pruteanu"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. pruteanulavinia@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Iuga CA"
+          ],
+          "firstName": [
+            "Cristina Adela"
+          ],
+          "lastName": [
+            "Iuga"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0345-0993",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. cristina.iuga@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Coza O"
+          ],
+          "firstName": [
+            "Ovidiu"
+          ],
+          "lastName": [
+            "Coza"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Oncology, \"Iuliu Hațieganu\" University of Medicine and Pharmacy, 34-36 Republicii Street, 400015 Cluj-Napoca, Romania. coza.ovidiu@iocn.ro."
+          ]
+        },
+        {
+          "fullName": [
+            "Berindan-Neagoe I"
+          ],
+          "firstName": [
+            "Ioana"
+          ],
+          "lastName": [
+            "Berindan-Neagoe"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. ioananeagoe29@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3926-5423",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0345-0993",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2817552"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Mass spectrometry (MS) is an essential analytical technology on which the emerging omics domains; such as genomics; transcriptomics; proteomics and metabolomics; are based. This quantifiable technique allows for the identification of thousands of proteins from cell culture; bodily fluids or tissue using either global or targeted strategies; or detection of biologically active metabolites in ultra amounts. The routine performance of MS technology in the oncological field provides a better understanding of human diseases in terms of pathophysiology; prevention; diagnosis and treatment; as well as development of new biomarkers; drugs targets and therapies. In this review; we argue that the recent; successful advances in MS technologies towards cancer omics studies provides a strong rationale for its implementation in biomedicine as a whole."
+  ],
+  "affiliation": [
+    "MEDFUTURE -Research Center for Advanced Medicine,\" Iuliu Hațieganu\" University of Medicine and Pharmacy, 4-6 Louis Pasteur Street, 400349 Cluj-Napoca, Romania. crisciocan@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "35/ 01.09.2016"
+          ],
+          "agency": [
+            "POC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mass Spectrometry"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers, Tumor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Precision Medicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mass spectrometry",
+        "Biomarkers",
+        "Personalized Medicine",
+        "Omics Technology"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biomarkers, Tumor"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20102576"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6567119"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6567119?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-14"
+  ],
+  "dateOfCreation": [
+    "2019-05-28"
+  ],
+  "firstIndexDate": [
+    "2019-05-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-21"
+  ],
+  "dateOfRevision": [
+    "2019-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-25"
+  ],
+  "firstPublicationDate": [
+    "2019-05-25"
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "id": [
+    "30840628"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30840628"
+  ],
+  "pmcid": [
+    "PMC6402643"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0210940"
+  ],
+  "title": [
+    "A paper-based, cell-free biosensor system for the detection of heavy metals and date rape drugs."
+  ],
+  "authorString": [
+    "Gräwe A, Dreyer A, Vornholt T, Barteczko U, Buchholz L, Drews G, Ho UL, Jackowski ME, Kracht M, Lüders J, Bleckwehl T, Rositzka L, Ruwe M, Wittchen M, Lutter P, Müller K, Kalinowski J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gräwe A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Gräwe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2892-278X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Dreyer A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Dreyer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Vornholt T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Vornholt"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Barteczko U"
+          ],
+          "firstName": [
+            "Ursela"
+          ],
+          "lastName": [
+            "Barteczko"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Buchholz L"
+          ],
+          "firstName": [
+            "Luzia"
+          ],
+          "lastName": [
+            "Buchholz"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Drews G"
+          ],
+          "firstName": [
+            "Gila"
+          ],
+          "lastName": [
+            "Drews"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ho UL"
+          ],
+          "firstName": [
+            "Uyen Linh"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "UL"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Jackowski ME"
+          ],
+          "firstName": [
+            "Marta Eva"
+          ],
+          "lastName": [
+            "Jackowski"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kracht M"
+          ],
+          "firstName": [
+            "Melissa"
+          ],
+          "lastName": [
+            "Kracht"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lüders J"
+          ],
+          "firstName": [
+            "Janina"
+          ],
+          "lastName": [
+            "Lüders"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3761-1679",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bleckwehl T"
+          ],
+          "firstName": [
+            "Tore"
+          ],
+          "lastName": [
+            "Bleckwehl"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1116-0512",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rositzka L"
+          ],
+          "firstName": [
+            "Lukas"
+          ],
+          "lastName": [
+            "Rositzka"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Cellular and Molecular Biotechnology, Faculty of Technology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruwe M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Ruwe"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9695-1358",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wittchen M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Wittchen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lutter P"
+          ],
+          "firstName": [
+            "Petra"
+          ],
+          "lastName": [
+            "Lutter"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Faculty of Biology, Mathematical Methods in Systems Biology, Proteome and Metabolome Research, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Müller K"
+          ],
+          "firstName": [
+            "Kristian"
+          ],
+          "lastName": [
+            "Müller"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Cellular and Molecular Biotechnology, Faculty of Technology, Bielefeld University, Bielefeld, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kalinowski J"
+          ],
+          "firstName": [
+            "Jörn"
+          ],
+          "lastName": [
+            "Kalinowski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2892-278X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9695-1358",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1116-0512",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3761-1679",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2787621"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0210940"
+  ],
+  "abstractText": [
+    "Biosensors have emerged as a valuable tool with high specificity and sensitivity for fast and reliable detection of hazardous substances in drinking water. Numerous substances have been addressed using synthetic biology approaches. However, many proposed biosensors are based on living, genetically modified organisms and are therefore limited in shelf life, usability and biosafety. We addressed these issues by the construction of an extensible, cell-free biosensor. Storage is possible through freeze drying on paper. Following the addition of an aqueous sample, a highly efficient cell-free protein synthesis (CFPS) reaction is initiated. Specific allosteric transcription factors modulate the expression of 'superfolder' green fluorescent protein (sfGFP) depending on the presence of the substance of interest. The resulting fluorescence intensities are analyzed with a conventional smartphone accompanied by simple and cheap light filters. An ordinary differential equitation (ODE) model of the biosensors was developed, which enabled prediction and optimization of performance. With an optimized cell-free biosensor based on the Shigella flexneri MerR transcriptional activator, detection of 6 μg/L Hg(II) ions in water was achieved. Furthermore, a completely new biosensor for the detection of gamma-hydroxybutyrate (GHB), a substance used as date-rape drug, was established by employing the naturally occurring transcriptional repressor BlcR from Agrobacterium tumefaciens."
+  ],
+  "affiliation": [
+    "Center for Biotechnology (CeBiTec), Microbial Genomics and Biotechnology, Bielefeld University, Bielefeld, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell-Free System"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metals, Heavy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydroxybutyrates"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Green Fluorescent Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Street Drugs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water Pollutants, Chemical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biosensing Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Substance Abuse Detection"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rape"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Street Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Hydroxybutyrates"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Water Pollutants, Chemical"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Metals, Heavy"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Green Fluorescent Proteins"
+          ],
+          "registryNumber": [
+            "147336-22-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0210940"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6402643"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6402643?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-27"
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-06"
+  ],
+  "firstPublicationDate": [
+    "2019-03-06"
+  ]
+}

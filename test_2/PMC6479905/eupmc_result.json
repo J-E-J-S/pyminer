@@ -1,0 +1,629 @@
+{
+  "id": [
+    "30974826"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30974826"
+  ],
+  "pmcid": [
+    "PMC6479905"
+  ],
+  "doi": [
+    "10.3390/molecules24071411"
+  ],
+  "title": [
+    "The Distribution of Tryptophan-Dependent Indole-3-Acetic Acid Synthesis Pathways in Bacteria Unraveled by Large-Scale Genomic Analysis."
+  ],
+  "authorString": [
+    "Zhang P, Jin T, Kumar Sahu S, Xu J, Shi Q, Liu H, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang P"
+          ],
+          "firstName": [
+            "Pengfan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518083, China. zhangpengfan@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Jin T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Jin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China. jintao@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar Sahu S"
+          ],
+          "firstName": [
+            "Sunil"
+          ],
+          "lastName": [
+            "Kumar Sahu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4742-9870",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China. sunilkumarsahu@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jin"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2289-4896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Citrus Research and Education Center, Department of Microbiology and Cell Science, IFAS, University of Florida, Lake Alfred, FL 33885, USA. joeyxu@ufl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6358-976X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518083, China. shiqiong@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China. liuhuan@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yayu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen 518083, China. wangyayu@genomics.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4742-9870",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2289-4896",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6358-976X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2800774"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecules (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Molecules"
+          ],
+          "medlineAbbreviation": [
+            "Molecules"
+          ],
+          "NLMid": [
+            "100964009"
+          ],
+          "ISSN": [
+            "1420-3049"
+          ],
+          "ESSN": [
+            "1420-3049"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Bacterial indole-3-acetic acid (IAA), an effector molecule in microbial physiology, plays an important role in plant growth-promotion. Here, we comprehensively analyzed about 7282 prokaryotic genomes representing diverse bacterial phyla, combined with root-associated metagenomic data to unravel the distribution of tryptophan-dependent IAA synthesis pathways and to quantify the IAA synthesis-related genes in the plant root environments. We found that 82.2% of the analyzed bacterial genomes were potentially capable of synthesizing IAA from tryptophan (Trp) or intermediates. Interestingly, several phylogenetically diverse bacteria showed a preferential tendency to utilize different pathways and tryptamine and indole-3-pyruvate pathways are most prevalent in bacteria. About 45.3% of the studied genomes displayed multiple coexisting pathways, constituting complex IAA synthesis systems. Furthermore, root-associated metagenomic analyses revealed that rhizobacteria mainly synthesize IAA via indole-3-acetamide (IAM) and tryptamine (TMP) pathways and might possess stronger IAA synthesis abilities than bacteria colonizing other environments. The obtained results refurbished our understanding of bacterial IAA synthesis pathways and provided a faster and less labor-intensive alternative to physiological screening based on genome collections. The better understanding of IAA synthesis among bacterial communities could maximize the utilization of bacterial IAA to augment the crop growth and physiological function."
+  ],
+  "affiliation": [
+    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518083, China. zhangpengfan@genomics.cn."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Bacteria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Indoleacetic Acids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Plant Growth Regulators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Tryptophan"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacteria",
+        "Indole-3-acetic acid",
+        "Genomes",
+        "Pathways",
+        "Metagenomes"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Indoleacetic Acids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Plant Growth Regulators"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "indoleacetic acid"
+          ],
+          "registryNumber": [
+            "6U1S09C61L"
+          ]
+        },
+        {
+          "name": [
+            "Tryptophan"
+          ],
+          "registryNumber": [
+            "8DUH1N11BX"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/molecules24071411"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6479905"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6479905?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR75851"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-31"
+  ],
+  "dateOfCreation": [
+    "2019-04-13"
+  ],
+  "firstIndexDate": [
+    "2019-04-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-02"
+  ],
+  "dateOfRevision": [
+    "2019-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-10"
+  ],
+  "firstPublicationDate": [
+    "2019-04-10"
+  ]
+}

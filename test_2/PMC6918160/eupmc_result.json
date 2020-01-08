@@ -1,0 +1,339 @@
+{
+  "id": [
+    "31683833"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31683833"
+  ],
+  "pmcid": [
+    "PMC6918160"
+  ],
+  "doi": [
+    "10.3390/metabo9110258"
+  ],
+  "title": [
+    "A Comprehensive Review on Medicinal Plants as Antimicrobial Therapeutics: Potential Avenues of Biocompatible Drug Discovery."
+  ],
+  "authorString": [
+    "Anand U, Jacobo-Herrera N, Altemimi A, Lakhssassi N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Anand U"
+          ],
+          "firstName": [
+            "Uttpal"
+          ],
+          "lastName": [
+            "Anand"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5924-7866",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Engineering (MCE), Jacob Institute of Biotechnology and Bioengineering (JIBB), Sam Higginbottom University of Agriculture, Technology and Sciences, Prayagraj (Allahabad), Uttar Pradesh 211007, India. ushuats@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobo-Herrera N"
+          ],
+          "firstName": [
+            "Nadia"
+          ],
+          "lastName": [
+            "Jacobo-Herrera"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Unidad de Bioquímica, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán. Av. Vasco de Quiroga 15. Col. Belisario Domínguez Sección XVI. C.P. Tlalpan, Ciudad de México 14080, Mexico. nadia.jacobo@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Altemimi A"
+          ],
+          "firstName": [
+            "Ammar"
+          ],
+          "lastName": [
+            "Altemimi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7750-5988",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Food Science, College of Agriculture, University of Basrah, Basrah 61004, Iraq. ammaragr@siu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lakhssassi N"
+          ],
+          "firstName": [
+            "Naoufal"
+          ],
+          "lastName": [
+            "Lakhssassi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Plant, Soil and Agricultural Systems, Southern Illinois University, Carbondale, IL 62901, USA. naoufal.lakhssassi@siu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7750-5988",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5924-7866",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2877563"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Metabolites"
+          ],
+          "ISOAbbreviation": [
+            "Metabolites"
+          ],
+          "medlineAbbreviation": [
+            "Metabolites"
+          ],
+          "NLMid": [
+            "101578790"
+          ],
+          "ISSN": [
+            "2218-1989"
+          ],
+          "ESSN": [
+            "2218-1989"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The war on multidrug resistance (MDR) has resulted in the greatest loss to the world's economy. Antibiotics, the bedrock, and wonder drug of the 20th century have played a central role in treating infectious diseases. However, the inappropriate, irregular, and irrational uses of antibiotics have resulted in the emergence of antimicrobial resistance. This has resulted in an increased interest in medicinal plants since 30-50% of current pharmaceuticals and nutraceuticals are plant-derived. The question we address in this review is whether plants, which produce a rich diversity of secondary metabolites, may provide novel antibiotics to tackle MDR microbes and novel chemosensitizers to reclaim currently used antibiotics that have been rendered ineffective by the MDR microbes. Plants synthesize secondary metabolites and phytochemicals and have great potential to act as therapeutics. The main focus of this mini-review is to highlight the potential benefits of plant derived multiple compounds and the importance of phytochemicals for the development of biocompatible therapeutics. In addition, this review focuses on the diverse effects and efficacy of herbal compounds in controlling the development of MDR in microbes and hopes to inspire research into unexplored plants with a view to identify novel antibiotics for global health benefits."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cellular Engineering (MCE), Jacob Institute of Biotechnology and Bioengineering (JIBB), Sam Higginbottom University of Agriculture, Technology and Sciences, Prayagraj (Allahabad), Uttar Pradesh 211007, India. ushuats@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibiotics",
+        "Secondary metabolites",
+        "Infectious disease",
+        "Immune response",
+        "Antimicrobial Resistant"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/metabo9110258"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6918160"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6918160?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-01"
+  ],
+  "firstPublicationDate": [
+    "2019-11-01"
+  ]
+}

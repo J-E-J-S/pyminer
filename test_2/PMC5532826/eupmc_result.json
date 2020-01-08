@@ -1,0 +1,431 @@
+{
+  "id": [
+    "28751388"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28751388"
+  ],
+  "pmcid": [
+    "PMC5532826"
+  ],
+  "doi": [
+    "10.1128/genomeA.00626-17"
+  ],
+  "title": [
+    "Rhizospheric Microbiome Profiling of Capsicum annuum L. Cultivated in Amended Soils by 16S and Internal Transcribed Spacer 2 rRNA Amplicon Metagenome Sequencing."
+  ],
+  "authorString": [
+    "Asaff-Torres A, Armendáriz-Ruiz M, Kirchmayr M, Rodríguez-Heredia R, Orozco M, Mateos-Díaz JC, Figueroa-Yáñez L, Baqueiro-Peña I, Verdín J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Asaff-Torres A"
+          ],
+          "firstName": [
+            "Ali"
+          ],
+          "lastName": [
+            "Asaff-Torres"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "CIAD-Centro de Investigación en Alimentación y Desarrollo, A.C., Hermosillo, Sonora, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Armendáriz-Ruiz M"
+          ],
+          "firstName": [
+            "Mariana"
+          ],
+          "lastName": [
+            "Armendáriz-Ruiz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Innovak Global, Chihuahua, Chihuahua, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirchmayr M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Kirchmayr"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CIATEJ-Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C., Zapopan, Jalisco, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez-Heredia R"
+          ],
+          "firstName": [
+            "Raúl"
+          ],
+          "lastName": [
+            "Rodríguez-Heredia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Innovak Global, Chihuahua, Chihuahua, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Orozco M"
+          ],
+          "firstName": [
+            "Marcos"
+          ],
+          "lastName": [
+            "Orozco"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Innovak Global, Chihuahua, Chihuahua, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Mateos-Díaz JC"
+          ],
+          "firstName": [
+            "Juan Carlos"
+          ],
+          "lastName": [
+            "Mateos-Díaz"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6723-6654",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CIATEJ-Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C., Zapopan, Jalisco, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Figueroa-Yáñez L"
+          ],
+          "firstName": [
+            "Luis"
+          ],
+          "lastName": [
+            "Figueroa-Yáñez"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "CIATEJ-Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C., Zapopan, Jalisco, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Baqueiro-Peña I"
+          ],
+          "firstName": [
+            "Itzamná"
+          ],
+          "lastName": [
+            "Baqueiro-Peña"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "CONACyT, CIAD-Centro de Investigación en Alimentación y Desarrollo, A.C., Hermosillo, Sonora, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Verdín J"
+          ],
+          "firstName": [
+            "Jorge"
+          ],
+          "lastName": [
+            "Verdín"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6264-6953",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CIATEJ-Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C., Zapopan, Jalisco, Mexico asaff@ciad.mx jverdin@ciatej.mx."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0512-6377",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6264-6953",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6723-6654",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7283-8035",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "30"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2580918"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome announcements"
+          ],
+          "ISOAbbreviation": [
+            "Genome Announc"
+          ],
+          "medlineAbbreviation": [
+            "Genome Announc"
+          ],
+          "NLMid": [
+            "101595808"
+          ],
+          "ISSN": [
+            "2169-8287"
+          ],
+          "ESSN": [
+            "2169-8287"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Rhizospheric microbiomes of Capsicum annuum L. cultivated either conventionally or amended with a synthetic microbial consortium or a root exudate inductor, were characterized by 16S/internal transcribed spacer 2 (ITS2) rRNA amplicon metagenome sequencing. The most abundant taxa found, although differently represented in each treatment, were Gammaproteobacteria, Alphaproteobacteria, Actinobacteria, and Bacilli, as well as Chytridiomycetes and Mortierellomycotina."
+  ],
+  "affiliation": [
+    "CIAD-Centro de Investigación en Alimentación y Desarrollo, A.C., Hermosillo, Sonora, Mexico."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/genomeA.00626-17"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5532826"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5532826?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-07-28"
+  ],
+  "firstIndexDate": [
+    "2017-07-31"
+  ],
+  "fullTextReceivedDate": [
+    "2017-08-06"
+  ],
+  "dateOfRevision": [
+    "2017-08-04"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-27"
+  ],
+  "firstPublicationDate": [
+    "2017-07-27"
+  ]
+}

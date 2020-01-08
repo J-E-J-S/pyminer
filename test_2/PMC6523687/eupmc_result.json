@@ -1,0 +1,330 @@
+{
+  "id": [
+    "31013819"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31013819"
+  ],
+  "pmcid": [
+    "PMC6523687"
+  ],
+  "doi": [
+    "10.3390/cells8040350"
+  ],
+  "title": [
+    "Advances in Targeting the Epidermal Growth Factor Receptor Pathway by Synthetic Products and Its Regulation by Epigenetic Modulators As a Therapy for Glioblastoma."
+  ],
+  "authorString": [
+    "Nadeem Abbas M, Kausar S, Wang F, Zhao Y, Cui H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nadeem Abbas M"
+          ],
+          "firstName": [
+            "Muhammad"
+          ],
+          "lastName": [
+            "Nadeem Abbas"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China. abbasmndr@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kausar S"
+          ],
+          "firstName": [
+            "Saima"
+          ],
+          "lastName": [
+            "Kausar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China. drkausarsn@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China. fengwang_swu@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yongju"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "College of Animal and Technology, Southwest University, Chongqing 400715, China. zyongju@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui H"
+          ],
+          "firstName": [
+            "Hongjuan"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China. hcui@swu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2800795"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Glioma is the most common primary tumor of the nervous system, and approximately 50% of patients exhibit the most aggressive form of the cancer, glioblastoma. The biological function of epidermal growth factor receptor (EGFR) in tumorigenesis and progression has been established in various types of cancers, since it is overexpressed, mutated, or dysregulated. Its overexpression has been shown to be associated with enhanced metastatic potential in glioblastoma, with EGFR at the top of a downstream signaling cascade that controls basic functional properties of glioblastoma cells such as survival, cell proliferation, and migration. Thus, EGFR is considered as an important therapeutic target in glioblastoma. Many anti-EGFR therapies have been investigated both in vivo and in vitro, making their way to clinical studies. However, in clinical trials, the potential efficacy of anti-EGFR therapies is low, primarily because of chemoresistance. Currently, a range of epigenetic drugs including histone deacetylase (HDAC) inhibitors, DNA methylation and histone inhibitors, microRNA, and different types of EGFR inhibitor molecules are being actively investigated in glioblastoma patients as therapeutic strategies. Here, we describe recent knowledge on the signaling pathways mediated by EGFR/EGFR variant III (EGFRvIII) with regard to current therapeutic strategies to target EGFR/EGFRvIII amplified glioblastoma."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing 400715, China. abbasmndr@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cell proliferation",
+        "EGFR",
+        "Glioblastoma",
+        "Therapeutic Targeting",
+        "Epigenetic Drugs"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523687?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6523687"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells8040350"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-25"
+  ],
+  "firstIndexDate": [
+    "2019-04-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-12"
+  ],
+  "firstPublicationDate": [
+    "2019-04-12"
+  ]
+}

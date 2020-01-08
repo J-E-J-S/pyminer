@@ -1,0 +1,470 @@
+{
+  "id": [
+    "31684865"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31684865"
+  ],
+  "pmcid": [
+    "PMC6829851"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6192-1"
+  ],
+  "title": [
+    "Cox regression increases power to detect genotype-phenotype associations in genomic studies using the electronic health record."
+  ],
+  "authorString": [
+    "Hughey JJ, Rhoades SD, Fu DY, Bastarache L, Denny JC, Chen Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hughey JJ"
+          ],
+          "firstName": [
+            "Jacob J"
+          ],
+          "lastName": [
+            "Hughey"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1558-6089",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA. jakejhughey@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Rhoades SD"
+          ],
+          "firstName": [
+            "Seth D"
+          ],
+          "lastName": [
+            "Rhoades"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu DY"
+          ],
+          "firstName": [
+            "Darwin Y"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bastarache L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Bastarache"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Denny JC"
+          ],
+          "firstName": [
+            "Joshua C"
+          ],
+          "lastName": [
+            "Denny"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qingxia"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1558-6089",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2876241"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "805"
+  ],
+  "abstractText": [
+    "BACKGROUND:The growth of DNA biobanks linked to data from electronic health records (EHRs) has enabled the discovery of numerous associations between genomic variants and clinical phenotypes. Nonetheless, although clinical data are generally longitudinal, standard approaches for detecting genotype-phenotype associations in such linked data, notably logistic regression, do not naturally account for variation in the period of follow-up or the time at which an event occurs. Here we explored the advantages of quantifying associations using Cox proportional hazards regression, which can account for the age at which a patient first visited the healthcare system (left truncation) and the age at which a patient either last visited the healthcare system or acquired a particular phenotype (right censoring). RESULTS:In comprehensive simulations, we found that, compared to logistic regression, Cox regression had greater power at equivalent Type I error. We then scanned for genotype-phenotype associations using logistic regression and Cox regression on 50 phenotypes derived from the EHRs of 49,792 genotyped individuals. Consistent with the findings from our simulations, Cox regression had approximately 10% greater relative sensitivity for detecting known associations from the NHGRI-EBI GWAS Catalog. In terms of effect sizes, the hazard ratios estimated by Cox regression were strongly correlated with the odds ratios estimated by logistic regression. CONCLUSIONS:As longitudinal health-related data continue to grow, Cox regression may improve our ability to identify the genetic basis for a wide range of human phenotypes."
+  ],
+  "affiliation": [
+    "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN, USA. jakejhughey@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U24CA194215"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35 GM124685"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35GM124685"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01LM016085"
+          ],
+          "agency": [
+            "U.S. National Library of Medicine"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32HG008341"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cox regression",
+        "Gwas",
+        "Electronic Health Record",
+        "Time-to-event Modeling"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6192-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6829851"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6829851?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR75422"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-13"
+  ],
+  "dateOfRevision": [
+    "2019-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-04"
+  ],
+  "firstPublicationDate": [
+    "2019-11-04"
+  ]
+}

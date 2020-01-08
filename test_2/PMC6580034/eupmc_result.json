@@ -1,0 +1,320 @@
+{
+  "id": [
+    "31180518"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31180518"
+  ],
+  "pmcid": [
+    "PMC6580034"
+  ],
+  "doi": [
+    "10.3892/mmr.2019.10281"
+  ],
+  "title": [
+    "RNA‑seq analyses of antibiotic resistance mechanisms in Serratia marcescens."
+  ],
+  "authorString": [
+    "Li Z, Xu M, Wei H, Wang L, Deng M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhaodong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Clinical Laboratory, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu M"
+          ],
+          "firstName": [
+            "Meihua"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Clinical Laboratory, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Clinical Laboratory, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lili"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Clinical Laboratory, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Emergency Department, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2834087"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular medicine reports"
+          ],
+          "ISOAbbreviation": [
+            "Mol Med Rep"
+          ],
+          "medlineAbbreviation": [
+            "Mol Med Rep"
+          ],
+          "NLMid": [
+            "101475259"
+          ],
+          "ISSN": [
+            "1791-2997"
+          ],
+          "ESSN": [
+            "1791-3004"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "745-754"
+  ],
+  "abstractText": [
+    "The present study aimed to further clarify the genetic mechanisms responsible for the antimicrobial resistance of Serratia marcescens (S. marcescens) using RNA sequencing. Three drug‑susceptible S. marcescens strains (named MYQT1, MYQT2, and MYQT3) and three multidrug‑resistant S. marcescens strains (named MYQT4, MYQT5, and MYQT6) were isolated from six different patients and subjected to RNA sequencing. Differentially expressed genes (DEGs) between the multidrug‑resistant S. marcescens strains and drug‑susceptible strains were screened and compared, followed by functional enrichment analysis. In addition, a protein‑protein interaction (PPI) network was constructed, and significant modules were extracted from it. Genes enriched in the significant modules were subjected to further enrichment analysis. MYQT3 had very a different expression pattern from MYQT1 and MYQT2, and thus, MYQT3 was excluded from the following analysis. A total of 225 DEGs were identified, of which SMDB11_RS09300 (GTP cyclohydrolase FolE2) was the most significantly upregulated with a log2 FC of 6.4; these DEGs were enriched in different GO terms, including hydrogen sulfide biosynthetic process, sulfur compound transmembrane transporter activity, and ABC transporter complex. Additionally, several genes were identified to be important genes in the PPI network, including SMDB11_RS17755 (upregulated; glutamate synthase large subunit), SMDB11_RS00590 (upregulated; sulfite reductase subunit α), and SMDB11_RS04505 (upregulated; cystathionine β‑synthase). Thus, SMDB11_RS09300, SMDB11_RS17755, SMDB11_RS00590, and SMDB11_RS04505 may play significant roles in the antimicrobial resistance of S. marcescens by participating in folate metabolism or the integrity of cell membranes. However, further experiments are required to clarify these findings."
+  ],
+  "affiliation": [
+    "Clinical Laboratory, Hangzhou Red Cross Hospital, Hangzhou, Zhejiang 310004, P.R. China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3892/mmr.2019.10281"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6580034"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6580034?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "go"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-11"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-07"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-22"
+  ],
+  "firstPublicationDate": [
+    "2019-05-22"
+  ]
+}

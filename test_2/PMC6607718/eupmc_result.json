@@ -1,0 +1,294 @@
+{
+  "id": [
+    "31320911"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31320911"
+  ],
+  "pmcid": [
+    "PMC6607718"
+  ],
+  "doi": [
+    "10.1155/2019/1390795"
+  ],
+  "title": [
+    "Effects of Curcumin on Vessel Formation Insight into the Pro- and Antiangiogenesis of Curcumin."
+  ],
+  "authorString": [
+    "Wang TY, Chen JX."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang TY"
+          ],
+          "firstName": [
+            "Ting-Ye"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "TY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5026-5988",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JX"
+          ],
+          "firstName": [
+            "Jia-Xu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5570-6233",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5026-5988",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5570-6233",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2777626"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1390795"
+  ],
+  "abstractText": [
+    "Curcumin is a compound extracted from the Curcuma longa L, which possesses a wide range of pharmacological effects. However, few studies have collected scientific evidence on its dual effect on angiogenesis. The present review gathered the fragmented information available in the literature to discuss the dual effect and possible mechanisms of curcumin on angiogenesis. Available information concerning the effect of curcumin on angiogenesis is compiled from scientific databases, including PubMed and Web of Science using the key term (curcumin and angiogenesis). The results were reviewed to identify relevant articles. Related literature demonstrated that curcumin has antiangiogenesis effect via regulating multiple factors, including proangiogenesis factor VEGF, MMPs, and FGF, both in vivo and in vitro, and could promote angiogenesis under certain circumstances via these factors. This paper provided a short review on bidirectional action of curcumin, which should be useful for further study and application of this compound that require further studies."
+  ],
+  "affiliation": [
+    "School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6607718?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6607718"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/1390795"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-20"
+  ],
+  "firstIndexDate": [
+    "2019-07-20"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-19"
+  ],
+  "firstPublicationDate": [
+    "2019-06-19"
+  ]
+}

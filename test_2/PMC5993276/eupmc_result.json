@@ -1,0 +1,491 @@
+{
+  "id": [
+    "29883470"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29883470"
+  ],
+  "pmcid": [
+    "PMC5993276"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0198023"
+  ],
+  "title": [
+    "Genomic integration and ligand-dependent activation of the human estrogen receptor α in the crustacean Daphnia magna."
+  ],
+  "authorString": [
+    "Törner K, Nakanishi T, Matsuura T, Kato Y, Watanabe H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Törner K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Törner"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Graduate School of Engineering, Osaka University, Yamadaoka, Suita, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakanishi T"
+          ],
+          "firstName": [
+            "Tsuyoshi"
+          ],
+          "lastName": [
+            "Nakanishi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory of Hygienic Chemistry and Molecular Toxicology, Gifu Pharmaceutical University, Daigaku-nishi, Gifu, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuura T"
+          ],
+          "firstName": [
+            "Tomoaki"
+          ],
+          "lastName": [
+            "Matsuura"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1015-6781",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Graduate School of Engineering, Osaka University, Yamadaoka, Suita, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kato Y"
+          ],
+          "firstName": [
+            "Yasuhiko"
+          ],
+          "lastName": [
+            "Kato"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Graduate School of Engineering, Osaka University, Yamadaoka, Suita, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Watanabe H"
+          ],
+          "firstName": [
+            "Hajime"
+          ],
+          "lastName": [
+            "Watanabe"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9657-6554",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biotechnology, Graduate School of Engineering, Osaka University, Yamadaoka, Suita, Osaka, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1015-6781",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9657-6554",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2690785"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0198023"
+  ],
+  "abstractText": [
+    "The freshwater crustacean Daphnia have a long history in water quality assessments and now lend themselves to detection of targeted chemicals using genetically encoded reporter gene due to recent progress in the development of genome editing tools. By introducing human genes into Daphnia, we may be able to detect chemicals that affect the human system, or even apply it to screening potentially useful chemicals. Here, we aimed to develop a transgenic line of Daphnia magna that contains the human estrogen receptor alpha (hERα) and shows a fluorescence response to exposure of estrogens. We designed plasmids to express hERα in Daphnia (EF1α1:esr1) and to report estrogenic activity via red fluorescence (ERE:mcherry) under the control of estrogen response element (ERE). After confirmation of functionality of the plasmids by microinjection into embryos, the two plasmids were joined, a TALE site was added and integrated into the D. magna genome using TALEN. When the resulting transgenic Daphnia named the ES line was exposed to Diethylstilbestrol (DES) or 17β-Estradiol (E2), the ES line could reliably expressed red fluorescence derived from mCherry in a ligand-dependent manner, indicating that an estrogen-responsive line of D. magna was established. This is the first time a human gene was expressed in Daphnia, showcasing potential for further research."
+  ],
+  "affiliation": [
+    "Department of Biotechnology, Graduate School of Engineering, Osaka University, Yamadaoka, Suita, Osaka, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals, Genetically Modified"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Daphnia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Estrogen Receptor alpha"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ligands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Transfer Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ligands"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Estrogen Receptor alpha"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "estrogen receptor alpha, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0198023"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5993276"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5993276?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-09"
+  ],
+  "firstIndexDate": [
+    "2018-06-11"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-17"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-08"
+  ],
+  "firstPublicationDate": [
+    "2018-06-08"
+  ]
+}

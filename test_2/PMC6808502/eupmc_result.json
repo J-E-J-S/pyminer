@@ -1,0 +1,381 @@
+{
+  "id": [
+    "31644604"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31644604"
+  ],
+  "pmcid": [
+    "PMC6808502"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0223765"
+  ],
+  "title": [
+    "Multiplexed editing of a begomovirus genome restricts escape mutant formation and disease development."
+  ],
+  "authorString": [
+    "Roy A, Zhai Y, Ortiz J, Neff M, Mandal B, Mukherjee SK, Pappu HR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Roy A"
+          ],
+          "firstName": [
+            "Anirban"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, Washington State University, Pullman, WA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhai Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Zhai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, Washington State University, Pullman, WA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Ortiz J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Ortiz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4646-0697",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Crop and Soil Sciences, Washington State University, Pullman, WA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Neff M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Neff"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Crop and Soil Sciences, Washington State University, Pullman, WA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Mandal B"
+          ],
+          "firstName": [
+            "Bikash"
+          ],
+          "lastName": [
+            "Mandal"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Advanced Centre for Plant Virology, Division of Plant Pathology, Indian Agricultural Research Institute, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Mukherjee SK"
+          ],
+          "firstName": [
+            "Sunil Kumar"
+          ],
+          "lastName": [
+            "Mukherjee"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Advanced Centre for Plant Virology, Division of Plant Pathology, Indian Agricultural Research Institute, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pappu HR"
+          ],
+          "firstName": [
+            "Hanu R"
+          ],
+          "lastName": [
+            "Pappu"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Department of Plant Pathology, Washington State University, Pullman, WA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4646-0697",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2866477"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0223765"
+  ],
+  "abstractText": [
+    "Whitefly-transmitted begomoviruses cause serious damage to many economically important food, feed, and fiber crops. Numerous vegetable crops are severely affected and chilli leaf curl virus (ChiLCV) is the most dominant and widely distributed begomovirus in chilli (Capsicum annuum) throughout the Indian subcontinent. Recently, CRISPR-Cas9 technology was used as a means to reduce geminivirus replication in infected plants. However, this approach was shown to have certain limitations such as the evolution of escape mutants. In this study, we used a novel, multiplexed guide RNA (gRNA) based CRISPR-Cas9 approach that targets the viral genome at two or more sites simultaneously. This tactic was effective in eliminating the ChiLCV genome without recurrence of functional escape mutants. Six individual gRNA spacer sequences were designed from the ChiLCV genome and in vitro assays confirmed the cleavage behaviour of these spacer sequences. Multiplexed gRNA expression clones, based on combinations of the above-mentioned spacer sequences, were developed. A total of nine-duplex and two-triplex CRISPR-Cas9 constructs were made. The efficacy of these constructs was tested for inhibition of ChiLCV infection in Nicotiana benthamiana. Results indicated that all the constructs caused a significant reduction in viral DNA accumulation. In particular, three constructs (gRNA5+4, gRNA5+2 and gRNA1+2) were most effective in reducing the viral titer and symptoms. T7E1 assay and sequencing of the targeted viral genome did not detect any escape mutants. The multiplexed genome-editing technique could be an effective way to trigger a high level of resistance against begemoviruses. To our knowledge, this is the first report of demonstrating the effectiveness of a multiplexed gRNA-based plant virus genome editing to minimize and eliminate escape mutant formation."
+  ],
+  "affiliation": [
+    "Department of Plant Pathology, Washington State University, Pullman, WA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0223765"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6808502"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6808502?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-24"
+  ],
+  "firstIndexDate": [
+    "2019-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-23"
+  ]
+}

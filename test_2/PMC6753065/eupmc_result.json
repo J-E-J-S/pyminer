@@ -1,0 +1,511 @@
+{
+  "id": [
+    "31537838"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31537838"
+  ],
+  "pmcid": [
+    "PMC6753065"
+  ],
+  "doi": [
+    "10.1038/s41598-019-49867-7"
+  ],
+  "title": [
+    "Targeted multiplex proteomics for molecular prescreening and biomarker discovery in metastatic colorectal cancer."
+  ],
+  "authorString": [
+    "Serna G, Ruiz-Pace F, Cecchi F, Fasani R, Jimenez J, Thyparambil S, Landolfi S, Elez E, Vivancos A, Hembrough T, Tabernero J, Dienstmann R, Nuciforo P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Serna G"
+          ],
+          "firstName": [
+            "Garazi"
+          ],
+          "lastName": [
+            "Serna"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Molecular Oncology Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruiz-Pace F"
+          ],
+          "firstName": [
+            "Fiorella"
+          ],
+          "lastName": [
+            "Ruiz-Pace"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Oncology Data Science Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Cecchi F"
+          ],
+          "firstName": [
+            "Fabiola"
+          ],
+          "lastName": [
+            "Cecchi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "NantOmics, LLC, Rockville, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fasani R"
+          ],
+          "firstName": [
+            "Roberta"
+          ],
+          "lastName": [
+            "Fasani"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Molecular Oncology Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Jimenez J"
+          ],
+          "firstName": [
+            "Jose"
+          ],
+          "lastName": [
+            "Jimenez"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Oncology Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Thyparambil S"
+          ],
+          "firstName": [
+            "Sheeno"
+          ],
+          "lastName": [
+            "Thyparambil"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "NantOmics, LLC, Rockville, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Landolfi S"
+          ],
+          "firstName": [
+            "Stefania"
+          ],
+          "lastName": [
+            "Landolfi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1059-635X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pathology Department, Vall d'Hebron University Hospital, CIBERONC, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Elez E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Elez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Medical Oncology Department, Vall d'Hebron University Hospital, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Vivancos A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Vivancos"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Genomics Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Hembrough T"
+          ],
+          "firstName": [
+            "Todd"
+          ],
+          "lastName": [
+            "Hembrough"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "NantOmics, LLC, Rockville, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tabernero J"
+          ],
+          "firstName": [
+            "Josep"
+          ],
+          "lastName": [
+            "Tabernero"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2495-8139",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical Oncology Department, Vall d'Hebron University Hospital, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Dienstmann R"
+          ],
+          "firstName": [
+            "Rodrigo"
+          ],
+          "lastName": [
+            "Dienstmann"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Oncology Data Science Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Nuciforo P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Nuciforo"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1380-0990",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Oncology Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain. pnuciforo@vhio.net."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2495-8139",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1059-635X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1380-0990",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2853330"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "13568"
+  ],
+  "abstractText": [
+    "Protein biomarkers are widely used in cancer diagnosis, prognosis, and prediction of treatment response. Here we introduce the use of targeted multiplex proteomics (TMP) as a tool to simultaneously measure a panel of 54 proteins involved in oncogenic, tumour suppression, drug metabolism and resistance, in patients with metastatic colorectal cancer (mCRC). TMP provided valuable diagnostic information by unmasking an occult neuroendocrine differentiation and identifying a misclassified case based on abnormal proteins phenotype. No significant differences in protein levels between unpaired primary and metastatic samples were observed. Four proteins were found differentially expressed in KRAS-mutant as compared to wild-type tumours (overexpressed in mutant: KRAS, EGFR; overexpressed in wild-type: TOPO1, TOP2A). Survival analyses revealed the association between mesothelin expression and poor overall survival, whereas lack of PTEN protein expression associated with lower progression-free survival with anti-EGFR-based therapy in the first-line setting for patients with RAS wild-type tumour. Finally, outlier analysis identified putative targetable proteins in 65% of patients lacking a targetable genomic alteration. Our data show that TMP constitutes a promising, novel molecular prescreening tool in mCRC to identify protein expression alterations that may impact on patient outcomes and more precisely guide patient eligibility to clinical trials with novel targeted experimental therapies."
+  ],
+  "affiliation": [
+    "Molecular Oncology Group, Vall d'Hebron Institute of Oncology, Barcelona, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-49867-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753065"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753065?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-21"
+  ],
+  "firstIndexDate": [
+    "2019-09-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-10-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-19"
+  ],
+  "firstPublicationDate": [
+    "2019-09-19"
+  ]
+}

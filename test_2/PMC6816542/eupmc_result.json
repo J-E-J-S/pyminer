@@ -1,0 +1,703 @@
+{
+  "id": [
+    "31658277"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31658277"
+  ],
+  "pmcid": [
+    "PMC6816542"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0224086"
+  ],
+  "title": [
+    "Double triage to identify poorly annotated genes in maize: The missing link in community curation."
+  ],
+  "authorString": [
+    "Tello-Ruiz MK, Marco CF, Hsu FM, Khangura RS, Qiao P, Sapkota S, Stitzer MC, Wasikowski R, Wu H, Zhan J, Chougule K, Barone LC, Ghiban C, Muna D, Olson AC, Wang L, Ware D, Micklos DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tello-Ruiz MK"
+          ],
+          "firstName": [
+            "Marcela K"
+          ],
+          "lastName": [
+            "Tello-Ruiz"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7499-5368",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Marco CF"
+          ],
+          "firstName": [
+            "Cristina F"
+          ],
+          "lastName": [
+            "Marco"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6368-767X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "DNA Learning Center, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu FM"
+          ],
+          "firstName": [
+            "Fei-Man"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9901-7464",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Frontier Sciences, University of Tokyo, Chiba, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Khangura RS"
+          ],
+          "firstName": [
+            "Rajdeep S"
+          ],
+          "lastName": [
+            "Khangura"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5085-6240",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, Purdue University, West Lafayette, Indiana, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiao P"
+          ],
+          "firstName": [
+            "Pengfei"
+          ],
+          "lastName": [
+            "Qiao"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8186-0851",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Biology Section, School of Integrative Plant Sciences, Cornell University, Ithaca, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Sapkota S"
+          ],
+          "firstName": [
+            "Sirjan"
+          ],
+          "lastName": [
+            "Sapkota"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5718-3544",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant and Environmental Sciences, Clemson University, Clemson, South Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Stitzer MC"
+          ],
+          "firstName": [
+            "Michelle C"
+          ],
+          "lastName": [
+            "Stitzer"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4140-3765",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Sciences and Center for Population Biology, University of California Davis, Davis, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wasikowski R"
+          ],
+          "firstName": [
+            "Rachael"
+          ],
+          "lastName": [
+            "Wasikowski"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences, University of Toledo, Toledo, Ohio, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2374-5924",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genetics, Development & Cell Biology Department, Iowa State University, Ames, Iowa, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhan J"
+          ],
+          "firstName": [
+            "Junpeng"
+          ],
+          "lastName": [
+            "Zhan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7353-7608",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Plant Sciences, University of Arizona, Tucson, Arizona, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chougule K"
+          ],
+          "firstName": [
+            "Kapeel"
+          ],
+          "lastName": [
+            "Chougule"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Barone LC"
+          ],
+          "firstName": [
+            "Lindsay C"
+          ],
+          "lastName": [
+            "Barone"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "DNA Learning Center, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghiban C"
+          ],
+          "firstName": [
+            "Cornel"
+          ],
+          "lastName": [
+            "Ghiban"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "DNA Learning Center, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Muna D"
+          ],
+          "firstName": [
+            "Demitri"
+          ],
+          "lastName": [
+            "Muna"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Olson AC"
+          ],
+          "firstName": [
+            "Andrew C"
+          ],
+          "lastName": [
+            "Olson"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Liya"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Ware D"
+          ],
+          "firstName": [
+            "Doreen"
+          ],
+          "lastName": [
+            "Ware"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Micklos DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Micklos"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "DNA Learning Center, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4140-3765",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2374-5924",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5085-6240",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7353-7608",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9901-7464",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8186-0851",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7499-5368",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6368-767X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5718-3544",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2866477"
+      ],
+      "dateOfPublication": [
+        "2019"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0224086"
+  ],
+  "abstractText": [
+    "The sophistication of gene prediction algorithms and the abundance of RNA-based evidence for the maize genome may suggest that manual curation of gene models is no longer necessary. However, quality metrics generated by the MAKER-P gene annotation pipeline identified 17,225 of 130,330 (13%) protein-coding transcripts in the B73 Reference Genome V4 gene set with models of low concordance to available biological evidence. Working with eight graduate students, we used the Apollo annotation editor to curate 86 transcript models flagged by quality metrics and a complimentary method using the Gramene gene tree visualizer. All of the triaged models had significant errors-including missing or extra exons, non-canonical splice sites, and incorrect UTRs. A correct transcript model existed for about 60% of genes (or transcripts) flagged by quality metrics; we attribute this to the convention of elevating the transcript with the longest coding sequence (CDS) to the canonical, or first, position. The remaining 40% of flagged genes resulted in novel annotations and represent a manual curation space of about 10% of the maize genome (~4,000 protein-coding genes). MAKER-P metrics have a specificity of 100%, and a sensitivity of 85%; the gene tree visualizer has a specificity of 100%. Together with the Apollo graphical editor, our double triage provides an infrastructure to support the community curation of eukaryotic genomes by scientists, students, and potentially even citizen scientists."
+  ],
+  "affiliation": [
+    "Plant Biology Program, Cold Spring Harbor Laboratory, Cold Spring Harbor, New York, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0224086"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6816542"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6816542?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR81240"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc0"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-29"
+  ],
+  "firstIndexDate": [
+    "2019-10-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-28"
+  ],
+  "firstPublicationDate": [
+    "2019-10-28"
+  ]
+}

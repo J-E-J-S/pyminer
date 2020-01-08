@@ -1,0 +1,304 @@
+{
+  "id": [
+    "31333721"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31333721"
+  ],
+  "pmcid": [
+    "PMC6620236"
+  ],
+  "doi": [
+    "10.3389/fgene.2019.00636"
+  ],
+  "title": [
+    "Comparative Genomic Analysis Reveals Novel Microcompartment-Associated Metabolic Pathways in the Human Gut Microbiome."
+  ],
+  "authorString": [
+    "Ravcheev DA, Moussu L, Smajic S, Thiele I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ravcheev DA"
+          ],
+          "firstName": [
+            "Dmitry A"
+          ],
+          "lastName": [
+            "Ravcheev"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "School of Medicine, National University of Ireland, Galway, University Road, Galway, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Moussu L"
+          ],
+          "firstName": [
+            "Lubin"
+          ],
+          "lastName": [
+            "Moussu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg."
+          ]
+        },
+        {
+          "fullName": [
+            "Smajic S"
+          ],
+          "firstName": [
+            "Semra"
+          ],
+          "lastName": [
+            "Smajic"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg."
+          ]
+        },
+        {
+          "fullName": [
+            "Thiele I"
+          ],
+          "firstName": [
+            "Ines"
+          ],
+          "lastName": [
+            "Thiele"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "School of Medicine, National University of Ireland, Galway, University Road, Galway, Ireland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779309"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Genetics"
+          ],
+          "ISOAbbreviation": [
+            "Front Genet"
+          ],
+          "medlineAbbreviation": [
+            "Front Genet"
+          ],
+          "NLMid": [
+            "101560621"
+          ],
+          "ISSN": [
+            "1664-8021"
+          ],
+          "ESSN": [
+            "1664-8021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "636"
+  ],
+  "abstractText": [
+    "Bacterial microcompartments are self-assembling subcellular structures surrounded by a semipermeable protein shell and found only in bacteria, but not archaea or eukaryotes. The general functions of the bacterial microcompartments are to concentrate enzymes, metabolites, and cofactors for multistep pathways; maintain the cofactor ratio; protect the cell from toxic metabolic intermediates; and protect the encapsulated pathway from unwanted side reactions. The bacterial microcompartments were suggested to play a significant role in organisms of the human gut microbiome, especially for various pathogens. Here, we used a comparative genomics approach to analyze the bacterial microcompartments in 646 individual genomes of organisms commonly found in the human gut microbiome. The bacterial microcompartments were found in 150 (23.2%) analyzed genomes. These microcompartments include previously known ones for the utilization of ethanolamine, 1,2-propanediol, choline, and fucose/rhamnose. Moreover, we reconstructed two novel pathways associated with the bacterial microcompartments. These pathways are catabolic pathways for the utilization of 1-amino-2-propanol/1-amino-2-propanone and xanthine. Remarkably, the xanthine utilization pathway does not demonstrate similarity to previously known microcompartment-associated pathways. Thus, we describe a novel type of bacterial microcompartment."
+  ],
+  "affiliation": [
+    "School of Medicine, National University of Ireland, Galway, University Road, Galway, Ireland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Comparative genomics",
+        "Metabolic Reconstruction",
+        "Bacterial Microcompartments",
+        "Human Gut Microbiome",
+        "Metabolosome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fgene.2019.00636"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6620236"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6620236?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-24"
+  ],
+  "firstIndexDate": [
+    "2019-07-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-25"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-04"
+  ],
+  "firstPublicationDate": [
+    "2019-07-04"
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "id": [
+    "30961669"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30961669"
+  ],
+  "pmcid": [
+    "PMC6454680"
+  ],
+  "doi": [
+    "10.1186/s13059-019-1676-5"
+  ],
+  "title": [
+    "Comparative analysis of sequencing technologies for single-cell transcriptomics."
+  ],
+  "authorString": [
+    "Natarajan KN, Miao Z, Jiang M, Huang X, Zhou H, Xie J, Wang C, Qin S, Zhao Z, Wu L, Yang N, Li B, Hou Y, Liu S, Teichmann SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Natarajan KN"
+          ],
+          "firstName": [
+            "Kedar Nath"
+          ],
+          "lastName": [
+            "Natarajan"
+          ],
+          "initials": [
+            "KN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9264-1280",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SA, UK. knn@bmb.sdu.dk."
+          ]
+        },
+        {
+          "fullName": [
+            "Miao Z"
+          ],
+          "firstName": [
+            "Zhichao"
+          ],
+          "lastName": [
+            "Miao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5777-9815",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SA, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Miaomiao"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xiaoyun"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou H"
+          ],
+          "firstName": [
+            "Hongpo"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie J"
+          ],
+          "firstName": [
+            "Jiarui"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chunqing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin S"
+          ],
+          "firstName": [
+            "Shishang"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhikun"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang N"
+          ],
+          "firstName": [
+            "Naibo"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bo"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Shiping"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "BGI-Shenzhen, Shenzhen, 518083, China. liushiping@genomics.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Teichmann SA"
+          ],
+          "firstName": [
+            "Sarah A"
+          ],
+          "lastName": [
+            "Teichmann"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SA, UK. st9@sanger.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5777-9815",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9264-1280",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2800133"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "70"
+  ],
+  "abstractText": [
+    "Single-cell RNA-seq technologies require library preparation prior to sequencing. Here, we present the first report to compare the cheaper BGISEQ-500 platform to the Illumina HiSeq platform for scRNA-seq. We generate a resource of 468 single cells and 1297 matched single cDNA samples, performing SMARTer and Smart-seq2 protocols on two cell lines with RNA spike-ins. We sequence these libraries on both platforms using single- and paired-end reads. The platforms have comparable sensitivity and accuracy in terms of quantification of gene expression, and low technical variability. Our study provides a standardized scRNA-seq resource to benchmark new scRNA-seq library preparation protocols and sequencing platforms."
+  ],
+  "affiliation": [
+    "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SA, UK. knn@bmb.sdu.dk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "00025397"
+          ],
+          "agency": [
+            "Villum Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "260507"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "105031/B/14/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "108437/Z/15/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NNF18OC0052874"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "K562 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Single-Cell Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Illumina Sequencing",
+        "Sequencing Platforms",
+        "Single-cell Rna Sequencing",
+        "Bgiseq-500",
+        "Benchmarking Scrna-seq"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-019-1676-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6454680"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6454680?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "arrayexpress"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-06-14"
+  ],
+  "dateOfCreation": [
+    "2019-04-10"
+  ],
+  "firstIndexDate": [
+    "2019-04-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-21"
+  ],
+  "dateOfRevision": [
+    "2019-06-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-09"
+  ],
+  "firstPublicationDate": [
+    "2019-04-09"
+  ]
+}

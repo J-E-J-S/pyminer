@@ -1,0 +1,657 @@
+{
+  "id": [
+    "31356597"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31356597"
+  ],
+  "pmcid": [
+    "PMC6662994"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008212"
+  ],
+  "title": [
+    "Longevity is determined by ETS transcription factors in multiple tissues and diverse species."
+  ],
+  "authorString": [
+    "Dobson AJ, Boulton-McDonald R, Houchou L, Svermova T, Ren Z, Subrini J, Vazquez-Prada M, Hoti M, Rodriguez-Lopez M, Ibrahim R, Gregoriou A, Gkantiragas A, Bähler J, Ezcurra M, Alic N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dobson AJ"
+          ],
+          "firstName": [
+            "Adam J"
+          ],
+          "lastName": [
+            "Dobson"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1541-927X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Boulton-McDonald R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Boulton-McDonald"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6812-0832",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Houchou L"
+          ],
+          "firstName": [
+            "Lara"
+          ],
+          "lastName": [
+            "Houchou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Svermova T"
+          ],
+          "firstName": [
+            "Tatiana"
+          ],
+          "lastName": [
+            "Svermova"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren Z"
+          ],
+          "firstName": [
+            "Ziyu"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Subrini J"
+          ],
+          "firstName": [
+            "Jeremie"
+          ],
+          "lastName": [
+            "Subrini"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5633-0509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Vazquez-Prada M"
+          ],
+          "firstName": [
+            "Mireya"
+          ],
+          "lastName": [
+            "Vazquez-Prada"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Biosciences, University of Kent, Canterbury, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoti M"
+          ],
+          "firstName": [
+            "Mimoza"
+          ],
+          "lastName": [
+            "Hoti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodriguez-Lopez M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Rodriguez-Lopez"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2066-0589",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ibrahim R"
+          ],
+          "firstName": [
+            "Rita"
+          ],
+          "lastName": [
+            "Ibrahim"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gregoriou A"
+          ],
+          "firstName": [
+            "Afroditi"
+          ],
+          "lastName": [
+            "Gregoriou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gkantiragas A"
+          ],
+          "firstName": [
+            "Alexis"
+          ],
+          "lastName": [
+            "Gkantiragas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Bähler J"
+          ],
+          "firstName": [
+            "Jürg"
+          ],
+          "lastName": [
+            "Bähler"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ezcurra M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Ezcurra"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2739-6984",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Biosciences, University of Kent, Canterbury, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Alic N"
+          ],
+          "firstName": [
+            "Nazif"
+          ],
+          "lastName": [
+            "Alic"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0356-6600",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6812-0832",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2066-0589",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0356-6600",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2739-6984",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5633-0509",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1541-927X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2832867"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008212"
+  ],
+  "abstractText": [
+    "Ageing populations pose one of the main public health crises of our time. Reprogramming gene expression by altering the activities of sequence-specific transcription factors (TFs) can ameliorate deleterious effects of age. Here we explore how a circuit of TFs coordinates pro-longevity transcriptional outcomes, which reveals a multi-tissue and multi-species role for an entire protein family: the E-twenty-six (ETS) TFs. In Drosophila, reduced insulin/IGF signalling (IIS) extends lifespan by coordinating activation of Aop, an ETS transcriptional repressor, and Foxo, a Forkhead transcriptional activator. Aop and Foxo bind the same genomic loci, and we show that, individually, they effect similar transcriptional programmes in vivo. In combination, Aop can both moderate or synergise with Foxo, dependent on promoter context. Moreover, Foxo and Aop oppose the gene-regulatory activity of Pnt, an ETS transcriptional activator. Directly knocking down Pnt recapitulates aspects of the Aop/Foxo transcriptional programme and is sufficient to extend lifespan. The lifespan-limiting role of Pnt appears to be balanced by a requirement for metabolic regulation in young flies, in which the Aop-Pnt-Foxo circuit determines expression of metabolic genes, and Pnt regulates lipolysis and responses to nutrient stress. Molecular functions are often conserved amongst ETS TFs, prompting us to examine whether other Drosophila ETS-coding genes may also affect ageing. We show that five out of eight Drosophila ETS TFs play a role in fly ageing, acting from a range of organs and cells including the intestine, adipose and neurons. We expand the repertoire of lifespan-limiting ETS TFs in C. elegans, confirming their conserved function in ageing and revealing that the roles of ETS TFs in physiology and lifespan are conserved throughout the family, both within and between species."
+  ],
+  "affiliation": [
+    "Institute of Healthy Ageing, Department of Genetics, Evolution and Environment, University College London, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            " BB/M029093/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/R014507/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/M029093/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "acronym": [
+            "BB_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "206777/Z/17/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "acronym": [
+            "WT_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008212"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6662994"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6662994?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-30"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-09"
+  ],
+  "dateOfRevision": [
+    "2019-12-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-29"
+  ],
+  "firstPublicationDate": [
+    "2019-07-29"
+  ]
+}

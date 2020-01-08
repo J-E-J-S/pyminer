@@ -1,0 +1,280 @@
+{
+  "id": [
+    "30911537"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30911537"
+  ],
+  "pmcid": [
+    "PMC6398007"
+  ],
+  "doi": [
+    "10.1155/2019/2659175"
+  ],
+  "title": [
+    "Less Is More: Genome Reduction and the Emergence of Cooperation-Implications into the Coevolution of Microbial Communities."
+  ],
+  "authorString": [
+    "Bosi E, Mascagni F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bosi E"
+          ],
+          "firstName": [
+            "Emanuele"
+          ],
+          "lastName": [
+            "Bosi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4769-8667",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Experimental and Clinical Sciences, University of Florence, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mascagni F"
+          ],
+          "firstName": [
+            "Flavia"
+          ],
+          "lastName": [
+            "Mascagni"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Agriculture, Food and Environment (DAFE), University of Pisa, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4769-8667",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779790"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of genomics"
+          ],
+          "ISOAbbreviation": [
+            "Int J Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Int J Genomics"
+          ],
+          "NLMid": [
+            "101605206"
+          ],
+          "ISSN": [
+            "2314-436X"
+          ],
+          "ESSN": [
+            "2314-4378"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2659175"
+  ],
+  "abstractText": [
+    "Organisms change to adapt to the environment in which they live, evolving with coresiding individuals. Classic Darwinism postulates the primal importance of antagonistic interactions and selfishness as a major driver of evolution, promoting an increase of genomic and organism complexities. Recently, advancements in evolutionary ecology reshaped this notion, showing how leakiness in biological functions favours the adaptive genome reduction, leading to the emergence of codependence patterns. Microbial communities are complex entities exerting a gargantuan influence on the environment and the biology of the eukaryotic hosts they are associated with. Notwithstanding, we are still far from a comprehension of the ecological and evolutionary mechanisms governing the community dynamics. Here, we review the implications of genome streamlining into the unfolding of codependence within microbial communities and how this translates to an understanding of ecological patterns underlying the emerging properties of the community."
+  ],
+  "affiliation": [
+    "Department of Biomedical Experimental and Clinical Sciences, University of Florence, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6398007?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6398007"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/2659175"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-17"
+  ],
+  "firstPublicationDate": [
+    "2019-02-17"
+  ]
+}

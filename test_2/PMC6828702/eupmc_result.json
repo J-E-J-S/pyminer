@@ -1,0 +1,465 @@
+{
+  "id": [
+    "31685817"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31685817"
+  ],
+  "pmcid": [
+    "PMC6828702"
+  ],
+  "doi": [
+    "10.1038/s41597-019-0263-7"
+  ],
+  "title": [
+    "The Empusa code generator and its application to GBOL, an extendable ontology for genome annotation."
+  ],
+  "authorString": [
+    "van Dam JCJ, Koehorst JJ, Vik JO, Martins Dos Santos VAP, Schaap PJ, Suarez-Diez M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van Dam JCJ"
+          ],
+          "firstName": [
+            "Jesse C J"
+          ],
+          "lastName": [
+            "van Dam"
+          ],
+          "initials": [
+            "JCJ"
+          ],
+          "affiliation": [
+            "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Koehorst JJ"
+          ],
+          "firstName": [
+            "Jasper J"
+          ],
+          "lastName": [
+            "Koehorst"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8172-8981",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Vik JO"
+          ],
+          "firstName": [
+            "Jon Olav"
+          ],
+          "lastName": [
+            "Vik"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "affiliation": [
+            "Centre for Integrative Genetics (CIGENE), Department of Animal and Aquacultural Sciences (IHA), Faculty of Life Sciences (BIOVIT), Norwegian University of Life Sciences (NMBU), PO Box 5003, Ås, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Martins Dos Santos VAP"
+          ],
+          "firstName": [
+            "Vitor A P"
+          ],
+          "lastName": [
+            "Martins Dos Santos"
+          ],
+          "initials": [
+            "VAP"
+          ],
+          "affiliation": [
+            "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schaap PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Schaap"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4346-6084",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Suarez-Diez M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Suarez-Diez"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5845-146X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands. maria.suarezdiez@wur.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4346-6084",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8172-8981",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5845-146X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2876327"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific data"
+          ],
+          "ISOAbbreviation": [
+            "Sci Data"
+          ],
+          "medlineAbbreviation": [
+            "Sci Data"
+          ],
+          "NLMid": [
+            "101640192"
+          ],
+          "ISSN": [
+            "2052-4463"
+          ],
+          "ESSN": [
+            "2052-4463"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "254"
+  ],
+  "abstractText": [
+    "The RDF data model facilitates integration of diverse data available in structured and semi-structured formats. To obtain a coherent RDF graph the chosen ontology must be consistently applied. However, addition of new diverse data causes the ontology to evolve, which could lead to accumulation of unintended erroneous composites. Thus, there is a need for a gate keeping system that compares the intended content described in the ontology with the actual content of the resource. The Empusa code generator facilitates creation of composite RDF resources from disparate sources. Empusa can convert a schema into an associated application programming interface (API), that can be used to perform data consistency checks and generates Markdown documentation to make persistent URLs resolvable. Using Empusa consistency is ensured within and between the ontology and the content of the resource. As an illustration of the potential of Empusa, we present the Genome Biology Ontology Language (GBOL). GBOL uses and extends current ontologies to provide a formal representation of genomic entities, along with their properties, relations and provenance."
+  ],
+  "affiliation": [
+    "Laboratory of Systems and Synthetic Biology, Wageningen University & Research, Wageningen, 6708 WE, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "730976"
+          ],
+          "agency": [
+            "EC | EU Framework Programme for Research and Innovation H2020 | H2020 Priority Excellent Science | H2020 Research Infrastructures (H2020 Excellent Sci"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "635536"
+          ],
+          "agency": [
+            "EC | EU Framework Programme for Research and Innovation H2020 | H2020 Priorioty Industrial Leadership | H2020 Industrial Leadership - Leadership in En"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "305340"
+          ],
+          "agency": [
+            "EC | EC Seventh Framework Programm | FP7 Health (FP7-HEALTH - Specific Programme \"Cooperation\": Health)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "634940"
+          ],
+          "agency": [
+            "EC | EU Framework Programme for Research and Innovation H2020 | H2020 Priorioty Industrial Leadership | H2020 Industrial Leadership - Leadership in En"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "248792"
+          ],
+          "agency": [
+            "Norges Forskningsråd (Research Council of Norway)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NRGWI.obrug.2018.005"
+          ],
+          "agency": [
+            "Nederlandse Organisatie voor Wetenschappelijk Onderzoek (Netherlands Organisation for Scientific Research)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41597-019-0263-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6828702"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6828702?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-06"
+  ],
+  "firstIndexDate": [
+    "2019-11-06"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-13"
+  ],
+  "dateOfRevision": [
+    "2019-11-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-04"
+  ],
+  "firstPublicationDate": [
+    "2019-11-04"
+  ]
+}

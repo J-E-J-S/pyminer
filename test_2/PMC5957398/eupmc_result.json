@@ -1,0 +1,629 @@
+{
+  "id": [
+    "29771955"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29771955"
+  ],
+  "pmcid": [
+    "PMC5957398"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0197567"
+  ],
+  "title": [
+    "CRISPR/Cas9 mediated high efficiency knockout of the eye color gene Vermillion in Helicoverpa zea (Boddie)."
+  ],
+  "authorString": [
+    "Perera OP, Little NS, Pierce CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Perera OP"
+          ],
+          "firstName": [
+            "Omaththage P"
+          ],
+          "lastName": [
+            "Perera"
+          ],
+          "initials": [
+            "OP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0643-0066",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Southern Insect Management Research Unit, USDA-ARS, Stoneville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Little NS"
+          ],
+          "firstName": [
+            "Nathan S"
+          ],
+          "lastName": [
+            "Little"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "affiliation": [
+            "Southern Insect Management Research Unit, USDA-ARS, Stoneville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Pierce CA 3rd"
+          ],
+          "firstName": [
+            "Calvin A"
+          ],
+          "lastName": [
+            "Pierce"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Southern Insect Management Research Unit, USDA-ARS, Stoneville, MS, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0643-0066",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2678126"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0197567"
+  ],
+  "abstractText": [
+    "Among various genome editing tools available for functional genomic studies, reagents based on clustered regularly interspersed palindromic repeats (CRISPR) have gained popularity due to ease and versatility. CRISPR reagents consist of ribonucleoprotein (RNP) complexes formed by combining guide RNA (gRNA) that target specific genomics regions and a CRISPR associated nuclease (Cas). The gRNA targeting specific gene sequences may be delivered as a plasmid construct that needs to be transcribed or as a synthetic RNA. The Cas nuclease can be introduced as a plasmid construct, mRNA, or purified protein. The efficiency of target editing is dependent on intrinsic factors specific to each species, the target gene sequence, and the delivery methods of CRISPR gRNA and the Cas nuclease. Although intrinsic factors affecting genome editing may not be altered in most experiments, the delivery method for CRISPR/Cas reagents can be optimized to produce the best results. In this study, the efficiency of genome editing by CRISPR/Cas system in the bollworm, Helicoverpa zea (Boddie), was evaluated using ribonucleoprotein (RNP) complexes assembled by binding synthetic gRNA with purified Cas9 nuclease engineered with nuclear localization signals to target the vermillion (eye color) gene. Mutation rates of adults emerging from embryos microinjected with 1, 2, or 4 μM RNP complexes were compared using replicated experiments. Embryos injected with 2 or 4 μM RNP complexes displayed significantly higher mutation rates (>88%) in surviving adults compared to those injected with 1 μM. The hatch rate in embryos injected with RNP complexes and with injection buffer only (mock injections) was reduced by 19.8(±5.2)% compared to noninjected control embryos, but did not differ significantly between injected embryos. Evaluation of potential off-target sites in H. zea genome did not identify any mutations. This study demonstrates that in vitro assembled synthetic RNP complexes can be used to obtain high genome editing rates in a reproducible manner in functional genomics or genetic manipulation studies."
+  ],
+  "affiliation": [
+    "Southern Insect Management Research Unit, USDA-ARS, Stoneville, MS, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Moths"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EM"
+                  ],
+                  "qualifierName": [
+                    "embryology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tryptophan Oxygenase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DF"
+                  ],
+                  "qualifierName": [
+                    "deficiency"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ribonucleoproteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Insect Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DF"
+                  ],
+                  "qualifierName": [
+                    "deficiency"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Guide"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microinjections"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eye Color"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amino Acid Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genes, Insect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Knockout Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ribonucleoproteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Tryptophan Oxygenase"
+          ],
+          "registryNumber": [
+            "EC 1.13.11.11"
+          ]
+        },
+        {
+          "name": [
+            "Insect Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Guide"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0197567"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5957398"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5957398?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "gca"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-05-18"
+  ],
+  "firstIndexDate": [
+    "2018-05-18"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-03"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-17"
+  ],
+  "firstPublicationDate": [
+    "2018-05-17"
+  ]
+}

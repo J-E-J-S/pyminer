@@ -1,0 +1,387 @@
+{
+  "id": [
+    "30988699"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30988699"
+  ],
+  "pmcid": [
+    "PMC6446404"
+  ],
+  "doi": [
+    "10.1186/s13068-019-1400-4"
+  ],
+  "title": [
+    "Moulding the mould: understanding and reprogramming filamentous fungal growth and morphogenesis for next generation cell factories."
+  ],
+  "authorString": [
+    "Cairns TC, Zheng X, Zheng P, Sun J, Meyer V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cairns TC"
+          ],
+          "firstName": [
+            "Timothy C"
+          ],
+          "lastName": [
+            "Cairns"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7106-224X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng X"
+          ],
+          "firstName": [
+            "Xiaomei"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9136-0666",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun J"
+          ],
+          "firstName": [
+            "Jibin"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0208-504X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Meyer V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Meyer"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2298-2258",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7106-224X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9136-0666",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2298-2258",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0208-504X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2769187"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biotechnology for Biofuels"
+          ],
+          "ISOAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "medlineAbbreviation": [
+            "Biotechnol Biofuels"
+          ],
+          "NLMid": [
+            "101316935"
+          ],
+          "ISSN": [
+            "1754-6834"
+          ],
+          "ESSN": [
+            "1754-6834"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "77"
+  ],
+  "abstractText": [
+    "Filamentous fungi are harnessed as cell factories for the production of a diverse range of organic acids, proteins, and secondary metabolites. Growth and morphology have critical implications for product titres in both submerged and solid-state fermentations. Recent advances in systems-level understanding of the filamentous lifestyle and development of sophisticated synthetic biological tools for controlled manipulation of fungal genomes now allow rational strain development programs based on data-driven decision making. In this review, we focus on Aspergillus spp. and other industrially utilised fungi to summarise recent insights into the multifaceted and dynamic relationship between filamentous growth and product titres from genetic, metabolic, modelling, subcellular, macromorphological and process engineering perspectives. Current progress and knowledge gaps with regard to mechanistic understanding of product secretion and export from the fungal cell are discussed. We highlight possible strategies for unlocking lead genes for rational strain optimizations based on omics data, and discuss how targeted genetic manipulation of these candidates can be used to optimise fungal morphology for improved performance. Additionally, fungal signalling cascades are introduced as critical processes that can be genetically targeted to control growth and morphology during biotechnological applications. Finally, we review progress in the field of synthetic biology towards chassis cells and minimal genomes, which will eventually enable highly programmable filamentous growth and diversified production capabilities. Ultimately, these advances will not only expand the fungal biotechnology portfolio but will also significantly contribute to a sustainable bio-economy."
+  ],
+  "affiliation": [
+    "1Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 300308 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aspergillus niger",
+        "Citric acid",
+        "Secondary metabolite",
+        "Filamentous fungi",
+        "systems biology",
+        "protein secretion",
+        "Synthetic Biology",
+        "Cell Factory"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13068-019-1400-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446404"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6446404?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-17"
+  ],
+  "firstIndexDate": [
+    "2019-04-17"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-17"
+  ],
+  "dateOfRevision": [
+    "2019-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-02"
+  ],
+  "firstPublicationDate": [
+    "2019-04-02"
+  ]
+}

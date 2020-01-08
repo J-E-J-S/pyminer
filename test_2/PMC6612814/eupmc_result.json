@@ -1,0 +1,381 @@
+{
+  "id": [
+    "31510706"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31510706"
+  ],
+  "pmcid": [
+    "PMC6612814"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/btz369"
+  ],
+  "title": [
+    "Using the structure of genome data in the design of deep neural networks for predicting amyotrophic lateral sclerosis from genotype."
+  ],
+  "authorString": [
+    "Yin B, Balvert M, van der Spek RAA, Dutilh BE, Bohté S, Veldink J, Schönhuth A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yin B"
+          ],
+          "firstName": [
+            "Bojian"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Centrum Wiskunde & Informatica, Life Sciences & Health, XG Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Balvert M"
+          ],
+          "firstName": [
+            "Marleen"
+          ],
+          "lastName": [
+            "Balvert"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centrum Wiskunde & Informatica, Life Sciences & Health, XG Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Spek RAA"
+          ],
+          "firstName": [
+            "Rick A A"
+          ],
+          "lastName": [
+            "van der Spek"
+          ],
+          "initials": [
+            "RAA"
+          ],
+          "affiliation": [
+            "Department of Neurology, Brain Center Rudolf Magnus University Medical Center Utrecht, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Dutilh BE"
+          ],
+          "firstName": [
+            "Bas E"
+          ],
+          "lastName": [
+            "Dutilh"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "Theoretical Biology & Bioinformatics, Utrecht University, JE Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bohté S"
+          ],
+          "firstName": [
+            "Sander"
+          ],
+          "lastName": [
+            "Bohté"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Centrum Wiskunde & Informatica, Life Sciences & Health, XG Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Veldink J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Veldink"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Neurology, Brain Center Rudolf Magnus University Medical Center Utrecht, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schönhuth A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Schönhuth"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centrum Wiskunde & Informatica, Life Sciences & Health, XG Amsterdam, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "35"
+      ],
+      "journalIssueId": [
+        "2838477"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "i538-i547"
+  ],
+  "abstractText": [
+    "MOTIVATION:Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease caused by aberrations in the genome. While several disease-causing variants have been identified, a major part of heritability remains unexplained. ALS is believed to have a complex genetic basis where non-additive combinations of variants constitute disease, which cannot be picked up using the linear models employed in classical genotype-phenotype association studies. Deep learning on the other hand is highly promising for identifying such complex relations. We therefore developed a deep-learning based approach for the classification of ALS patients versus healthy individuals from the Dutch cohort of the Project MinE dataset. Based on recent insight that regulatory regions harbor the majority of disease-associated variants, we employ a two-step approach: first promoter regions that are likely associated to ALS are identified, and second individuals are classified based on their genotype in the selected genomic regions. Both steps employ a deep convolutional neural network. The network architecture accounts for the structure of genome data by applying convolution only to parts of the data where this makes sense from a genomics perspective. RESULTS:Our approach identifies potentially ALS-associated promoter regions, and generally outperforms other classification methods. Test results support the hypothesis that non-additive combinations of variants contribute to ALS. Architectures and protocols developed are tailored toward processing population-scale, whole-genome data. We consider this a relevant first step toward deep learning assisted genotype-phenotype association in whole genome-sized data. AVAILABILITY AND IMPLEMENTATION:Our code will be available on Github, together with a synthetic dataset (https://github.com/byin-cwi/ALS-Deeplearning). The data used in this study is available to bona-fide researchers upon request. SUPPLEMENTARY INFORMATION:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Centrum Wiskunde & Informatica, Life Sciences & Health, XG Amsterdam, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/btz369"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612814"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612814?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR68785"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-13"
+  ],
+  "firstIndexDate": [
+    "2019-09-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-14"
+  ],
+  "dateOfRevision": [
+    "2019-09-15"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

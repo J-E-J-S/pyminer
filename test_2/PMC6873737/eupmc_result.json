@@ -1,0 +1,468 @@
+{
+  "id": [
+    "31752676"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31752676"
+  ],
+  "pmcid": [
+    "PMC6873737"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6249-1"
+  ],
+  "title": [
+    "Genome wide association study reveals novel QTL for barley yellow dwarf virus resistance in wheat."
+  ],
+  "authorString": [
+    "Choudhury S, Larkin P, Xu R, Hayden M, Forrest K, Meinke H, Hu H, Zhou M, Fan Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Choudhury S"
+          ],
+          "firstName": [
+            "Shormin"
+          ],
+          "lastName": [
+            "Choudhury"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Larkin P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Larkin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "CSIRO Agriculture and Food, Canberra, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu R"
+          ],
+          "firstName": [
+            "Rugen"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Barley Research Institution of Yangzhou University, Yangzhou University, Yangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hayden M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Hayden"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3117-5500",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Applied Systems Biology, La Trobe University, Bundoora, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Forrest K"
+          ],
+          "firstName": [
+            "Kerrie"
+          ],
+          "lastName": [
+            "Forrest"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Agriculture Victoria Research, AgriBio, 1 Park Drive, Bundoora, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Meinke H"
+          ],
+          "firstName": [
+            "Holger"
+          ],
+          "lastName": [
+            "Meinke"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu H"
+          ],
+          "firstName": [
+            "Hongliang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou M"
+          ],
+          "firstName": [
+            "Meixue"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3009-7854",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia. mzhou@utas.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Y"
+          ],
+          "firstName": [
+            "Yun"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia. yun.fan@utas.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3009-7854",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3117-5500",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2876241"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "891"
+  ],
+  "abstractText": [
+    "BACKGROUND:Barley yellow dwarf (BYD) is an important virus disease that causes significant reductions in wheat yield. For effective control of Barley yellow dwarf virus through breeding, the identification of genetic sources of resistance is key to success. In this study, 335 geographically diverse wheat accessions genotyped using an Illumina iSelect 90 K single nucleotide polymorphisms (SNPs) bead chip array were used to identify new sources of resistance to BYD in different environments. RESULTS:A genome-wide association study (GWAS) performed using all the generalised and mixed linkage models (GLM and MLM, respectively) identified a total of 36 significant marker-trait associations, four of which were consistently detected in the K model. These four novel quantitative trait loci (QTL) were identified on chromosomes 2A, 2B, 6A and 7A and associated with markers IWA3520, IWB24938, WB69770 and IWB57703, respectively. These four QTL showed an additive effect with the average visual symptom score of the lines containing resistance alleles of all four QTL being much lower than those with less favorable alleles. Several Chinese landraces, such as H-205 (Baimazha) and H-014 (Dahongmai) which have all four favorable alleles, showed consistently higher resistance in different field trials. None of them contained the previously described Bdv2, Bdv3 or Bdv4 genes for BYD resistance. CONCLUSIONS:This study identified multiple novel QTL for BYD resistance and some resistant wheat genotypes. These will be useful for breeders to generate combinations with and/or without Bdv2 to achieve higher levels and more stable BYD resistance."
+  ],
+  "affiliation": [
+    "Tasmanian Institute of Agriculture, University of Tasmania, Prospect, TAS, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UT00030"
+          ],
+          "agency": [
+            "Grains Research and Development Corporation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FD0100800"
+          ],
+          "agency": [
+            "National Key R&D Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Wheat",
+        "SNP",
+        "Genome-wide Association Study",
+        "Novel Qtl",
+        "Byd Resistance"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6249-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6873737"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6873737?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-23"
+  ],
+  "firstIndexDate": [
+    "2019-11-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-27"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-21"
+  ],
+  "firstPublicationDate": [
+    "2019-11-21"
+  ]
+}

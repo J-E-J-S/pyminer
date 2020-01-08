@@ -1,0 +1,659 @@
+{
+  "id": [
+    "31310234"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31310234"
+  ],
+  "pmcid": [
+    "PMC6656429"
+  ],
+  "doi": [
+    "10.7554/eLife.48287"
+  ],
+  "title": [
+    "Electroporated recombinant proteins as tools for in vivo functional complementation, imaging and chemical biology."
+  ],
+  "authorString": [
+    "Alex A, Piano V, Polley S, Stuiver M, Voss S, Ciossani G, Overlack K, Voss B, Wohlgemuth S, Petrovic A, Wu Y, Selenko P, Musacchio A, Maffini S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alex A"
+          ],
+          "firstName": [
+            "Amal"
+          ],
+          "lastName": [
+            "Alex"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9801-1274",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Piano V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Piano"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9539-561X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Polley S"
+          ],
+          "firstName": [
+            "Soumitra"
+          ],
+          "lastName": [
+            "Polley"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stuiver M"
+          ],
+          "firstName": [
+            "Marchel"
+          ],
+          "lastName": [
+            "Stuiver"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3437-4468",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "In-Cell NMR Laboratory, Leibniz Institute of Molecular Pharmacology (FMP Berlin), Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Voss S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Voss"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Chemical Genomics Centre, Max Planck Society, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ciossani G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Ciossani"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Overlack K"
+          ],
+          "firstName": [
+            "Katharina"
+          ],
+          "lastName": [
+            "Overlack"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Voss B"
+          ],
+          "firstName": [
+            "Beate"
+          ],
+          "lastName": [
+            "Voss"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wohlgemuth S"
+          ],
+          "firstName": [
+            "Sabine"
+          ],
+          "lastName": [
+            "Wohlgemuth"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Petrovic A"
+          ],
+          "firstName": [
+            "Arsen"
+          ],
+          "lastName": [
+            "Petrovic"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yaowen"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2573-8736",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Genomics Centre, Max Planck Society, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Selenko P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Selenko"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "In-Cell NMR Laboratory, Leibniz Institute of Molecular Pharmacology (FMP Berlin), Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Musacchio A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Musacchio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2362-8784",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Maffini S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Maffini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6380-6560",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9539-561X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2362-8784",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3437-4468",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9801-1274",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2573-8736",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6380-6560",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2832743"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Delivery of native or chemically modified recombinant proteins into mammalian cells shows promise for functional investigations and various technological applications, but concerns that sub-cellular localization and functional integrity of delivered proteins may be affected remain high. Here, we surveyed batch electroporation as a delivery tool for single polypeptides and multi-subunit protein assemblies of the kinetochore, a spatially confined and well-studied subcellular structure. After electroporation into human cells, recombinant fluorescent Ndc80 and Mis12 multi-subunit complexes exhibited native localization, physically interacted with endogenous binding partners, and functionally complemented depleted endogenous counterparts to promote mitotic checkpoint signaling and chromosome segregation. Farnesylation is required for kinetochore localization of the Dynein adaptor Spindly. In cells with chronically inhibited farnesyl transferase activity, in vitro farnesylation and electroporation of recombinant Spindly faithfully resulted in robust kinetochore localization. Our data show that electroporation is well-suited to deliver synthetic and chemically modified versions of functional proteins, and, therefore, constitutes a promising tool for applications in chemical and synthetic biology."
+  ],
+  "affiliation": [
+    "Department of Mechanistic Cell Biology, Max Planck Institute of Molecular Physiology, Dortmund, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "669686"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "acronym": [
+            "ERC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "647474"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "acronym": [
+            "ERC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "EMBO ALTF 669-2017"
+          ],
+          "agency": [
+            "European Molecular Biology Organization"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Open-access funding"
+          ],
+          "agency": [
+            "Max-Planck-Gesellschaft"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Human",
+        "Biochemistry",
+        "Cell biology",
+        "Recombinant protein",
+        "Electroporation",
+        "kinetochore",
+        "Protein Delivery",
+        "Chemical Biology",
+        "Protein Modificatin"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.48287"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6656429"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6656429?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR78393"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-17"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-10-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-16"
+  ],
+  "firstPublicationDate": [
+    "2019-07-16"
+  ]
+}

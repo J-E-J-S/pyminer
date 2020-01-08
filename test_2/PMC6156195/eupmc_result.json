@@ -1,0 +1,736 @@
+{
+  "id": [
+    "30254120"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30254120"
+  ],
+  "pmcid": [
+    "PMC6156195"
+  ],
+  "doi": [
+    "10.1128/mBio.01410-18"
+  ],
+  "title": [
+    "Engineering Kluyveromyces marxianus as a Robust Synthetic Biology Platform Host."
+  ],
+  "authorString": [
+    "Cernak P, Estrela R, Poddar S, Skerker JM, Cheng YF, Carlson AK, Chen B, Glynn VM, Furlan M, Ryan OW, Donnelly MK, Arkin AP, Taylor JW, Cate JHD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cernak P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Cernak"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Estrela R"
+          ],
+          "firstName": [
+            "Raissa"
+          ],
+          "lastName": [
+            "Estrela"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Poddar S"
+          ],
+          "firstName": [
+            "Snigdha"
+          ],
+          "lastName": [
+            "Poddar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Skerker JM"
+          ],
+          "firstName": [
+            "Jeffrey M"
+          ],
+          "lastName": [
+            "Skerker"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng YF"
+          ],
+          "firstName": [
+            "Ya-Fang"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Energy Biosciences Institute, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carlson AK"
+          ],
+          "firstName": [
+            "Annika K"
+          ],
+          "lastName": [
+            "Carlson"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen B"
+          ],
+          "firstName": [
+            "Berling"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Glynn VM"
+          ],
+          "firstName": [
+            "Victoria M"
+          ],
+          "lastName": [
+            "Glynn"
+          ],
+          "initials": [
+            "VM"
+          ],
+          "affiliation": [
+            "Department of Environmental Science, Policy, and Management, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Furlan M"
+          ],
+          "firstName": [
+            "Monique"
+          ],
+          "lastName": [
+            "Furlan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genetics, Evolution and Bioagents, University of Campinas, Campinas, São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Ryan OW"
+          ],
+          "firstName": [
+            "Owen W"
+          ],
+          "lastName": [
+            "Ryan"
+          ],
+          "initials": [
+            "OW"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Donnelly MK"
+          ],
+          "firstName": [
+            "Marie K"
+          ],
+          "lastName": [
+            "Donnelly"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Arkin AP"
+          ],
+          "firstName": [
+            "Adam P"
+          ],
+          "lastName": [
+            "Arkin"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor JW"
+          ],
+          "firstName": [
+            "John W"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Department of Plant and Microbial Biology, University of California, Berkeley, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cate JHD"
+          ],
+          "firstName": [
+            "Jamie H D"
+          ],
+          "lastName": [
+            "Cate"
+          ],
+          "initials": [
+            "JHD"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA jcate@lbl.gov."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2723367"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mBio"
+          ],
+          "ISOAbbreviation": [
+            "mBio"
+          ],
+          "medlineAbbreviation": [
+            "mBio"
+          ],
+          "NLMid": [
+            "101519231"
+          ],
+          "ISSN": [
+            "2150-7511"
+          ],
+          "ESSN": [
+            "2150-7511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Throughout history, the yeast Saccharomyces cerevisiae has played a central role in human society due to its use in food production and more recently as a major industrial and model microorganism, because of the many genetic and genomic tools available to probe its biology. However, S. cerevisiae has proven difficult to engineer to expand the carbon sources it can utilize, the products it can make, and the harsh conditions it can tolerate in industrial applications. Other yeasts that could solve many of these problems remain difficult to manipulate genetically. Here, we engineered the thermotolerant yeast Kluyveromyces marxianus to create a new synthetic biology platform. Using CRISPR-Cas9 (clustered regularly interspaced short palindromic repeats with Cas9)-mediated genome editing, we show that wild isolates of K. marxianus can be made heterothallic for sexual crossing. By breeding two of these mating-type engineered K. marxianus strains, we combined three complex traits-thermotolerance, lipid production, and facile transformation with exogenous DNA-into a single host. The ability to cross K. marxianus strains with relative ease, together with CRISPR-Cas9 genome editing, should enable engineering of K. marxianus isolates with promising lipid production at temperatures far exceeding those of other fungi under development for industrial applications. These results establish K. marxianus as a synthetic biology platform comparable to S. cerevisiae, with naturally more robust traits that hold potential for the industrial production of renewable chemicals.IMPORTANCE The yeast Kluyveromyces marxianus grows at high temperatures and on a wide range of carbon sources, making it a promising host for industrial biotechnology to produce renewable chemicals from plant biomass feedstocks. However, major genetic engineering limitations have kept this yeast from replacing the commonly used yeast Saccharomyces cerevisiae in industrial applications. Here, we describe genetic tools for genome editing and breeding K. marxianus strains, which we use to create a new thermotolerant strain with promising fatty acid production. These results open the door to using K. marxianus as a versatile synthetic biology platform organism for industrial applications."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cell Biology, University of California, Berkeley, California, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kluyveromyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temperature"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genes, Mating Type, Fungal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lipid Metabolism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Thermotolerance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Thermotolerant yeast",
+        "Mating",
+        "Lipogenesis",
+        "Kluyveromyces Marxianus",
+        "Crispr-cas9",
+        "Renewable Chemicals"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/mBio.01410-18"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6156195"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6156195?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR8507"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-03-04"
+  ],
+  "dateOfCreation": [
+    "2018-09-27"
+  ],
+  "firstIndexDate": [
+    "2018-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-25"
+  ],
+  "firstPublicationDate": [
+    "2018-09-25"
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "id": [
+    "30477446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30477446"
+  ],
+  "pmcid": [
+    "PMC6258294"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5227-3"
+  ],
+  "title": [
+    "Prediction of plant-derived xenomiRs from plant miRNA sequences using random forest and one-dimensional convolutional neural network models."
+  ],
+  "authorString": [
+    "Zhao Q, Mao Q, Zhao Z, Dou T, Wang Z, Cui X, Liu Y, Fan X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao Q"
+          ],
+          "firstName": [
+            "Qi"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Sino-Dutch Biomedical and Information Engineering School, Northeastern University, Shenyang, 110169, Liaoning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mao Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Light Industry College, Liaoning University, Shenyang, 110036, Liaoning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Network Engineering, Zhengzhou Science and Technology Institute, Zhengzhou, 450000, Henan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dou T"
+          ],
+          "firstName": [
+            "Tongyi"
+          ],
+          "lastName": [
+            "Dou"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "School of Life Science and Medicine, Dalian University of Technology, Panjin, 124221, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhiguo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Sino-Dutch Biomedical and Information Engineering School, Northeastern University, Shenyang, 110169, Liaoning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui X"
+          ],
+          "firstName": [
+            "Xiaoyu"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Sino-Dutch Biomedical and Information Engineering School, Northeastern University, Shenyang, 110169, Liaoning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Y"
+          ],
+          "firstName": [
+            "Yuanning"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Computer Science and Technology College, Jilin University, Changchun, 130012, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan X"
+          ],
+          "firstName": [
+            "Xiaoya"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5002-6968",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bio-, Electro- And Mechanical Systems, Université Libre de Bruxelles, Avenue F.D. Roosevelt 50 CP165/56, 1050, Brussels, Belgium. xiaoya.fan@ulb.ac.be."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5002-6968",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743394"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "839"
+  ],
+  "abstractText": [
+    "BACKGROUND:An increasing number of studies reported that exogenous miRNAs (xenomiRs) can be detected in animal bodies, however, some others reported negative results. Some attributed this divergence to the selective absorption of plant-derived xenomiRs by animals. RESULTS:Here, we analyzed 166 plant-derived xenomiRs reported in our previous study and 942 non-xenomiRs extracted from miRNA expression profiles of four species of commonly consumed plants. Employing statistics analysis and cluster analysis, our study revealed the potential sequence specificity of plant-derived xenomiRs. Furthermore, a random forest model and a one-dimensional convolutional neural network model were trained using miRNA sequence features and raw miRNA sequences respectively and then employed to predict unlabeled plant miRNAs in miRBase. A total of 241 possible plant-derived xenomiRs were predicted by both models. Finally, the potential functions of these possible plant-derived xenomiRs along with our previously reported ones in human body were analyzed. CONCLUSIONS:Our study, for the first time, presents the systematic plant-derived xenomiR sequences analysis and provides evidence for selective absorption of plant miRNA by human body, which could facilitate the future investigation about the mechanisms underlying the transference of plant-derived xenomiR."
+  ],
+  "affiliation": [
+    "Sino-Dutch Biomedical and Information Engineering School, Northeastern University, Shenyang, 110169, Liaoning, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31801623"
+          ],
+          "agency": [
+            "Young Scientists Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018JBC14L19"
+          ],
+          "agency": [
+            "Training Project for Youth Scholars of Changchun University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "61501101"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "02120022118016"
+          ],
+          "agency": [
+            "The Fundamental Research Funds for the Central Universities"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Plant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Neural Networks (Computer)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Nucleic Acid"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Statistics analysis",
+        "miRNA",
+        "Machine Learning",
+        "Selective Absorption",
+        "Cross-kingdom Regulation",
+        "Plant-derived Xenomir"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA, Plant"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6258294?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6258294"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5227-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-08"
+  ],
+  "dateOfCreation": [
+    "2018-11-28"
+  ],
+  "firstIndexDate": [
+    "2018-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-05"
+  ],
+  "dateOfRevision": [
+    "2019-03-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-26"
+  ],
+  "firstPublicationDate": [
+    "2018-11-26"
+  ]
+}

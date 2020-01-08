@@ -1,0 +1,332 @@
+{
+  "id": [
+    "31198442"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31198442"
+  ],
+  "pmcid": [
+    "PMC6558841"
+  ],
+  "doi": [
+    "10.1186/s13040-019-0199-7"
+  ],
+  "title": [
+    "Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies."
+  ],
+  "authorString": [
+    "Joiret M, Mahachie John JM, Gusareva ES, Van Steen K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Joiret M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Joiret"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5381-4196",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "BIO3, GIGA-R Medical Genomics, Avenue de l'Hôpital 1-B34-CHU, Liège, 4000 Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahachie John JM"
+          ],
+          "firstName": [
+            "Jestinah M"
+          ],
+          "lastName": [
+            "Mahachie John"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "BIO3, GIGA-R Medical Genomics, Avenue de l'Hôpital 1-B34-CHU, Liège, 4000 Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Gusareva ES"
+          ],
+          "firstName": [
+            "Elena S"
+          ],
+          "lastName": [
+            "Gusareva"
+          ],
+          "initials": [
+            "ES"
+          ],
+          "affiliation": [
+            "BIO3, GIGA-R Medical Genomics, Avenue de l'Hôpital 1-B34-CHU, Liège, 4000 Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Steen K"
+          ],
+          "firstName": [
+            "Kristel"
+          ],
+          "lastName": [
+            "Van Steen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "BIO3, GIGA-R Medical Genomics, Avenue de l'Hôpital 1-B34-CHU, Liège, 4000 Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5381-4196",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2769879"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioData mining"
+          ],
+          "ISOAbbreviation": [
+            "BioData Min"
+          ],
+          "medlineAbbreviation": [
+            "BioData Min"
+          ],
+          "NLMid": [
+            "101319161"
+          ],
+          "ISSN": [
+            "1756-0381"
+          ],
+          "ESSN": [
+            "1756-0381"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11"
+  ],
+  "abstractText": [
+    "Background:In Genome-Wide Association Studies (GWAS), the concept of linkage disequilibrium is important as it allows identifying genetic markers that tag the actual causal variants. In Genome-Wide Association Interaction Studies (GWAIS), similar principles hold for pairs of causal variants. However, Linkage Disequilibrium (LD) may also interfere with the detection of genuine epistasis signals in that there may be complete confounding between Gametic Phase Disequilibrium (GPD) and interaction. GPD may involve unlinked genetic markers, even residing on different chromosomes. Often GPD is eliminated in GWAIS, via feature selection schemes or so-called pruning algorithms, to obtain unconfounded epistasis results. However, little is known about the optimal degree of GPD/LD-pruning that gives a balance between false positive control and sufficient power of epistasis detection statistics. Here, we focus on Model-Based Multifactor Dimensionality Reduction as one large-scale epistasis detection tool. Its performance has been thoroughly investigated in terms of false positive control and power, under a variety of scenarios involving different trait types and study designs, as well as error-free and noisy data, but never with respect to multicollinear SNPs. Results:Using real-life human LD patterns from a homogeneous subpopulation of British ancestry, we investigated the impact of LD-pruning on the statistical sensitivity of MB-MDR. We considered three different non-fully penetrant epistasis models with varying effect sizes. There is a clear advantage in pre-analysis pruning using sliding windows at r 2 of 0.75 or lower, but using a threshold of 0.20 has a detrimental effect on the power to detect a functional interactive SNP pair (power < 25%). Signal sensitivity, directly using LD-block information to determine whether an epistasis signal is present or not, benefits from LD-pruning as well (average power across scenarios: 87%), but is largely hampered by functional loci residing at the boundaries of an LD-block. Conclusions:Our results confirm that LD patterns and the position of causal variants in LD blocks do have an impact on epistasis detection, and that pruning strategies and LD-blocks definitions combined need careful attention, if we wish to maximize the power of large-scale epistasis screenings."
+  ],
+  "affiliation": [
+    "BIO3, GIGA-R Medical Genomics, Avenue de l'Hôpital 1-B34-CHU, Liège, 4000 Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ankylosing spondylitis",
+        "1000 Genomes Project",
+        "Signal Sensitivity",
+        "Gametic Phase Disequilibrium (Gpd)",
+        "Genome-wide Association Interaction Studies (Gwais)",
+        "Model-based Multifactor-dimensionality Reduction (Mb-mdr)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6558841?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6558841"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13040-019-0199-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-15"
+  ],
+  "firstIndexDate": [
+    "2019-06-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-06-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-06-10"
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "id": [
+    "30309202"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30309202"
+  ],
+  "pmcid": [
+    "PMC6187815"
+  ],
+  "doi": [
+    "10.5808/GI.2018.16.3.44"
+  ],
+  "title": [
+    "Antibacterial and Pharmacological Evaluation of Fluoroquinolones: A Chemoinformatics Approach."
+  ],
+  "authorString": [
+    "Sood D, Kumar N, Singh A, Sakharkar MK, Tomar V, Chandra R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sood D"
+          ],
+          "firstName": [
+            "Damini"
+          ],
+          "lastName": [
+            "Sood"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar N"
+          ],
+          "firstName": [
+            "Neeraj"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh A"
+          ],
+          "firstName": [
+            "Aarushi"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakharkar MK"
+          ],
+          "firstName": [
+            "Meena Kishore"
+          ],
+          "lastName": [
+            "Sakharkar"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "affiliation": [
+            "College of Pharmacy and Nutrition, University of Saskatchewan, Saskatoon S7N543, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomar V"
+          ],
+          "firstName": [
+            "Vartika"
+          ],
+          "lastName": [
+            "Tomar"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Chandra R"
+          ],
+          "firstName": [
+            "Ramesh"
+          ],
+          "lastName": [
+            "Chandra"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2737955"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genomics & informatics"
+          ],
+          "ISOAbbreviation": [
+            "Genomics Inform"
+          ],
+          "medlineAbbreviation": [
+            "Genomics Inform"
+          ],
+          "NLMid": [
+            "101223836"
+          ],
+          "ISSN": [
+            "1598-866X"
+          ],
+          "ESSN": [
+            "2234-0742"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "44-51"
+  ],
+  "abstractText": [
+    "Fluoroquinolone (FQ) antibiotics are an important class of synthetic antibacterial agents. These are the most extensively used drugs for treating bacterial infections in the field of both human and veterinary medicine. Herein, the antibacterial and pharmacological properties of four fluoroquinolones: lomefloxacin, norfloxacin, ciprofloxacin, and ofloxacin have been studied. The objective of this study was to analyze the antibacterial characteristics of the different fluoroquinolones. Also, the pharmacological properties of the compounds including the Lipinski rule of five, absorption, distribution, metabolism, and excretion, LD50, drug likeliness, and toxicity were evaluated. We found that among all four FQ molecules, ofloxacin showed the highest antibacterial activity through in silico assays with a strong interaction (‒38.52 kJ/mol) with the antibacterial target protein (topoisomerase-II DNA gyrase enzyme). The pharmacological and pharmacokinetic analysis also showed that the compounds ciprofloxacin, ofloxacin, lomefloxacin and norfloxacin have good pharmacological properties. Notably, ofloxacin was found to possess an IGC50 (concentration needed to inhibit 50% growth) value of 0.286 μg/L against the Tetrahymena pyriformis protozoa. It also tested negative for the Ames toxicity test, showing its non-carcinogenic character."
+  ],
+  "affiliation": [
+    "Drug Discovery & Development Laboratory, Department of Chemistry, University of Delhi, Delhi 110007, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Department of Science and Technology"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "University of Delhi"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibacterial",
+        "Fluoroquinolones",
+        "Pharmacological",
+        "Chemoinformatics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5808/GI.2018.16.3.44"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187815"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187815?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-13"
+  ],
+  "firstIndexDate": [
+    "2018-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-22"
+  ],
+  "dateOfRevision": [
+    "2018-10-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-30"
+  ],
+  "firstPublicationDate": [
+    "2018-09-30"
+  ]
+}

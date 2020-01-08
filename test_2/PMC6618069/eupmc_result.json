@@ -1,0 +1,645 @@
+{
+  "id": [
+    "30972949"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30972949"
+  ],
+  "pmcid": [
+    "PMC6618069"
+  ],
+  "doi": [
+    "10.1111/1755-0998.13020"
+  ],
+  "title": [
+    "Improving Illumina assemblies with Hi-C and long reads: An example with the North African dromedary."
+  ],
+  "authorString": [
+    "Elbers JP, Rogers MF, Perelman PL, Proskuryakova AA, Serdyukova NA, Johnson WE, Horin P, Corander J, Murphy D, Burger PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Elbers JP"
+          ],
+          "firstName": [
+            "Jean P"
+          ],
+          "lastName": [
+            "Elbers"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5593-4447",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Integrative Biology and Evolution, Research Institute of Wildlife Ecology, Vetmeduni Vienna, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers MF"
+          ],
+          "firstName": [
+            "Mark F"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Intelligent Systems Laboratory, University of Bristol, Bristol, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Perelman PL"
+          ],
+          "firstName": [
+            "Polina L"
+          ],
+          "lastName": [
+            "Perelman"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology, SB RAS and Novosibirsk State University, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Proskuryakova AA"
+          ],
+          "firstName": [
+            "Anastasia A"
+          ],
+          "lastName": [
+            "Proskuryakova"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology, SB RAS and Novosibirsk State University, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Serdyukova NA"
+          ],
+          "firstName": [
+            "Natalia A"
+          ],
+          "lastName": [
+            "Serdyukova"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Institute of Molecular and Cellular Biology, SB RAS and Novosibirsk State University, Novosibirsk, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson WE"
+          ],
+          "firstName": [
+            "Warren E"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "WE"
+          ],
+          "affiliation": [
+            "The Walter Reed Biosystematics Unit, Smithsonian Institution, Museum Support Center MRC-534, Suitland, Maryland."
+          ]
+        },
+        {
+          "fullName": [
+            "Horin P"
+          ],
+          "firstName": [
+            "Petr"
+          ],
+          "lastName": [
+            "Horin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Animal Genetics, Faculty of Veterinary Medicine, Ceitec VFU, RG Animal Immunogenomics, University of Veterinary and Pharmaceutical Sciences, Brno, Czech Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Corander J"
+          ],
+          "firstName": [
+            "Jukka"
+          ],
+          "lastName": [
+            "Corander"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, University of Oslo, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Murphy D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Murphy"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2946-0353",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bristol Medical School: Translational Health Sciences, Molecular Neuroendocrinology Research Group, University of Bristol, Bristol, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Burger PA"
+          ],
+          "firstName": [
+            "Pamela A"
+          ],
+          "lastName": [
+            "Burger"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Department of Integrative Biology and Evolution, Research Institute of Wildlife Ecology, Vetmeduni Vienna, Vienna, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5593-4447",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2946-0353",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2829040"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular ecology resources"
+          ],
+          "ISOAbbreviation": [
+            "Mol Ecol Resour"
+          ],
+          "medlineAbbreviation": [
+            "Mol Ecol Resour"
+          ],
+          "NLMid": [
+            "101465604"
+          ],
+          "ISSN": [
+            "1755-098X"
+          ],
+          "ESSN": [
+            "1755-0998"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1015-1026"
+  ],
+  "abstractText": [
+    "Researchers have assembled thousands of eukaryotic genomes using Illumina reads, but traditional mate-pair libraries cannot span all repetitive elements, resulting in highly fragmented assemblies. However, both chromosome conformation capture techniques, such as Hi-C and Dovetail Genomics Chicago libraries and long-read sequencing, such as Pacific Biosciences and Oxford Nanopore, help span and resolve repetitive regions and therefore improve genome assemblies. One important livestock species of arid regions that does not have a high-quality contiguous reference genome is the dromedary (Camelus dromedarius). Draft genomes exist but are highly fragmented, and a high-quality reference genome is needed to understand adaptation to desert environments and artificial selection during domestication. Dromedaries are among the last livestock species to have been domesticated, and together with wild and domestic Bactrian camels, they are the only representatives of the Camelini tribe, which highlights their evolutionary significance. Here we describe our efforts to improve the North African dromedary genome. We used Chicago and Hi-C sequencing libraries from Dovetail Genomics to resolve the order of previously assembled contigs, producing almost chromosome-level scaffolds. Remaining gaps were filled with Pacific Biosciences long reads, and then scaffolds were comparatively mapped to chromosomes. Long reads added 99.32 Mbp to the total length of the new assembly. Dovetail Chicago and Hi-C libraries increased the longest scaffold over 12-fold, from 9.71 Mbp to 124.99 Mbp and the scaffold N50 over 50-fold, from 1.48 Mbp to 75.02 Mbp. We demonstrate that Illumina de novo assemblies can be substantially upgraded by combining chromosome conformation capture and long-read sequencing."
+  ],
+  "affiliation": [
+    "Department of Integrative Biology and Evolution, Research Institute of Wildlife Ecology, Vetmeduni Vienna, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16-14-10009"
+          ],
+          "agency": [
+            "Russian Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "17-00-00146"
+          ],
+          "agency": [
+            "Russian Foundation for Basic Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P29623-B25"
+          ],
+          "agency": [
+            "Austrian Science Fund FWF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RPG-2017-287"
+          ],
+          "agency": [
+            "Leverhulme Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Desert Climate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Camelus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chromosome mapping",
+        "Genome annotation",
+        "Chromosome Conformation Capture",
+        "Genome Assembly",
+        "Scaffolding",
+        "Dromedary"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/1755-0998.13020"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6618069"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6618069?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL",
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "gca",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-08-23"
+  ],
+  "dateOfCreation": [
+    "2019-04-12"
+  ],
+  "firstIndexDate": [
+    "2019-04-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-25"
+  ],
+  "dateOfRevision": [
+    "2019-08-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-17"
+  ],
+  "firstPublicationDate": [
+    "2019-05-17"
+  ]
+}

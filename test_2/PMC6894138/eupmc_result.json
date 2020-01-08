@@ -1,0 +1,418 @@
+{
+  "id": [
+    "31801559"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31801559"
+  ],
+  "pmcid": [
+    "PMC6894138"
+  ],
+  "doi": [
+    "10.1186/s13045-019-0811-9"
+  ],
+  "title": [
+    "LSD1/KDM1A inhibitors in clinical trials: advances and prospects."
+  ],
+  "authorString": [
+    "Fang Y, Liao G, Yu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fang Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, 510006, Guangdong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liao G"
+          ],
+          "firstName": [
+            "Guochao"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, 510006, Guangdong, China. liao@gzucm.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0531-2236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Pharmaceutical Sciences, Zhengzhou University, Zhengzhou, 450001, China. zzuyubin@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0531-2236",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2888983"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of hematology & oncology"
+          ],
+          "ISOAbbreviation": [
+            "J Hematol Oncol"
+          ],
+          "medlineAbbreviation": [
+            "J Hematol Oncol"
+          ],
+          "NLMid": [
+            "101468937"
+          ],
+          "ISSN": [
+            "1756-8722"
+          ],
+          "ESSN": [
+            "1756-8722"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "129"
+  ],
+  "abstractText": [
+    "Histone demethylase LSD1 plays key roles during carcinogenesis, targeting LSD1 is becoming an emerging option for the treatment of cancers. Numerous LSD1 inhibitors have been reported to date, some of them such as TCP, ORY-1001, GSK-2879552, IMG-7289, INCB059872, CC-90011, and ORY-2001 currently undergo clinical assessment for cancer therapy, particularly for small lung cancer cells (SCLC) and acute myeloid leukemia (AML). This review is to provide a comprehensive overview of LSD1 inhibitors in clinical trials including molecular mechanistic studies, clinical efficacy, adverse drug reactions, and PD/PK studies and offer prospects in this field."
+  ],
+  "affiliation": [
+    "Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, 510006, Guangdong, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "182102310123"
+          ],
+          "agency": [
+            "Science and Technology Department of Henan Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018M630840"
+          ],
+          "agency": [
+            "Postdoctoral Research Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KF-GN-201902"
+          ],
+          "agency": [
+            "the open fund of state key laboratory of Pharmaceutical Biotechnology, Nan-jing University, China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018B030322011"
+          ],
+          "agency": [
+            "Guangdong Key Laboratory for Translational Cancer Research of Chinese Medicine"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2019T120641"
+          ],
+          "agency": [
+            "Postdoctoral Research Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81773580"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81703326"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81973177"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer therapy",
+        "Epigenetics",
+        "histone demethylase",
+        "Lsd1 Inhibitors"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13045-019-0811-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6894138"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6894138?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-06"
+  ],
+  "firstIndexDate": [
+    "2019-12-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-04"
+  ],
+  "firstPublicationDate": [
+    "2019-12-04"
+  ]
+}

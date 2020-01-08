@@ -1,0 +1,624 @@
+{
+  "id": [
+    "31671612"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31671612"
+  ],
+  "pmcid": [
+    "PMC6896172"
+  ],
+  "doi": [
+    "10.3390/cancers11111690"
+  ],
+  "title": [
+    "Successful Targeting of the Warburg Effect in Prostate Cancer by Glucose-Conjugated 1,4-Naphthoquinones."
+  ],
+  "authorString": [
+    "Dyshlovoy SA, Pelageev DN, Hauschild J, Borisova KL, Kaune M, Krisp C, Venz S, Sabutskii YE, Khmelevskaya EA, Busenbender T, Denisenko VA, Pokhilo ND, Atopkina LN, Graefen M, Schlüter H, Stonik VA, Bokemeyer C, Anufriev VP, von Amsberg G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dyshlovoy SA"
+          ],
+          "firstName": [
+            "Sergey A"
+          ],
+          "lastName": [
+            "Dyshlovoy"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7155-9245",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. dyshlovoy@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pelageev DN"
+          ],
+          "firstName": [
+            "Dmitry N"
+          ],
+          "lastName": [
+            "Pelageev"
+          ],
+          "initials": [
+            "DN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8793-7511",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. pelageev@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Hauschild J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Hauschild"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. j.hauschild@uke.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Borisova KL"
+          ],
+          "firstName": [
+            "Ksenia L"
+          ],
+          "lastName": [
+            "Borisova"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. borisovaksenia@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaune M"
+          ],
+          "firstName": [
+            "Moritz"
+          ],
+          "lastName": [
+            "Kaune"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. moritz.kaune@stud.uke.uni-hamburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Krisp C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Krisp"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Clinical Chemistry and Laboratory Medicine, Mass Spectrometric Proteomics, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. c.krisp@uke.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Venz S"
+          ],
+          "firstName": [
+            "Simone"
+          ],
+          "lastName": [
+            "Venz"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medical Biochemistry and Molecular Biology, University of Greifswald, 17489 Greifswald, Germany. simone.venz@uni-greifswald.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Sabutskii YE"
+          ],
+          "firstName": [
+            "Yurii E"
+          ],
+          "lastName": [
+            "Sabutskii"
+          ],
+          "initials": [
+            "YE"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. alixar2006@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Khmelevskaya EA"
+          ],
+          "firstName": [
+            "Ekaterina A"
+          ],
+          "lastName": [
+            "Khmelevskaya"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. khea-96@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Busenbender T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Busenbender"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. tobias.busenbender@stud.uke.uni-hamburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Denisenko VA"
+          ],
+          "firstName": [
+            "Vladimir A"
+          ],
+          "lastName": [
+            "Denisenko"
+          ],
+          "initials": [
+            "VA"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. vladenis@piboc.dvo.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Pokhilo ND"
+          ],
+          "firstName": [
+            "Natalia D"
+          ],
+          "lastName": [
+            "Pokhilo"
+          ],
+          "initials": [
+            "ND"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. nat-pokhilo@piboc.dvo.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Atopkina LN"
+          ],
+          "firstName": [
+            "Lyubov N"
+          ],
+          "lastName": [
+            "Atopkina"
+          ],
+          "initials": [
+            "LN"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. atopkina@mail.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Graefen M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Graefen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Martini-Klinik, Prostate Cancer Center, University Hospital Hamburg-Eppendorf, 20251 Hamburg, Germany. graefen@martini-klinik.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Schlüter H"
+          ],
+          "firstName": [
+            "Hartmut"
+          ],
+          "lastName": [
+            "Schlüter"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9358-7036",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Clinical Chemistry and Laboratory Medicine, Mass Spectrometric Proteomics, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. hschluet@uke.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Stonik VA"
+          ],
+          "firstName": [
+            "Valentin A"
+          ],
+          "lastName": [
+            "Stonik"
+          ],
+          "initials": [
+            "VA"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. stonik@piboc.dvo.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "Bokemeyer C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Bokemeyer"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. c.bokemeyer@uke.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Anufriev VP"
+          ],
+          "firstName": [
+            "Victor Ph"
+          ],
+          "lastName": [
+            "Anufriev"
+          ],
+          "initials": [
+            "VP"
+          ],
+          "affiliation": [
+            "G.B. Elyakov Pacific Institute of Bioorganic Chemistry, Far-East Branch, Russian Academy of Sciences, 690022 Vladivostok, Russia. anufriev@piboc.dvo.ru."
+          ]
+        },
+        {
+          "fullName": [
+            "von Amsberg G"
+          ],
+          "firstName": [
+            "Gunhild"
+          ],
+          "lastName": [
+            "von Amsberg"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. g.von-amsberg@uke.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9358-7036",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8793-7511",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7155-9245",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2874114"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Treatment of castration-resistant prostate cancer (CRPC) remains challenging due to the development of drug resistance. The Warburg effect describes the ability of cancer cells to consume larger amounts of glucose compared to normal tissues. We identified derivatives of natural 1,4-naphthoquinones to be active in CRPC and further synthetically modified them via glucose conjugation to increase selectivity by Warburg effect targeting. Mechanisms of action were examined by quantitative proteomics followed by bioinformatical analysis and target validation. Four synthesized molecules revealed the highest selectivity towards human CRPC cells, which correlated with higher GLUT-1 activity and expression. The compounds were able to induce pro-apoptotic signs and to inhibit the pro-survival processes and mechanisms of drug resistance (i.e., AR-signaling and autophagy). Proteome analysis suggested a disruption of the mitochondria/oxidative phosphorylation, which was validated by further functional analysis: thus, mitochondria depolarization, elevated levels of cytotoxic ROS, an increase of Bax/Bcl-2 ratio as well as release of mitochondrial AIF and cytochrome C to cytoplasm were observed. In conclusion, glucose-conjugated 1,4-naphthoquinones show potent activity and selectivity in human CRPC exerted via mitochondrial targeting. The compounds can overcome drug resistance against current standard therapies and suppress pro-survival mechanisms. This unique combination of properties makes them new promising candidates for the treatment of CRPC."
+  ],
+  "affiliation": [
+    "Department of Oncology, Hematology and Bone Marrow Transplantation with Section Pneumology, Hubertus Wald-Tumorzentrum, University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany. dyshlovoy@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "18-33-00460_mol_a Hamburger Krebsgesellschaft e.V. : Grant"
+          ],
+          "agency": [
+            "Российский Фонд Фундаментальных Исследований"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mitochondria",
+        "Proteomics",
+        "Castration-resistant Prostate Cancer",
+        "Warburg Effect",
+        "1,4-Naphthoquinones"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11111690"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6896172"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6896172?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-02"
+  ],
+  "firstIndexDate": [
+    "2019-11-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-30"
+  ],
+  "firstPublicationDate": [
+    "2019-10-30"
+  ]
+}

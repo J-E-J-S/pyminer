@@ -1,0 +1,347 @@
+{
+  "id": [
+    "31681785"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681785"
+  ],
+  "pmcid": [
+    "PMC6803757"
+  ],
+  "doi": [
+    "10.3389/fnut.2019.00152"
+  ],
+  "title": [
+    "Use of Mass Spectrometry to Profile Peptides in Whey Protein Isolate Medium Fermented by Lactobacillus helveticus LH-2 and Lactobacillus acidophilus La-5."
+  ],
+  "authorString": [
+    "Ali E, Nielsen SD, Abd-El Aal S, El-Leboudy A, Saleh E, LaPointe G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ali E"
+          ],
+          "firstName": [
+            "Eman"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Food Hygiene Department, Faculty of Veterinary Medicine, Damanhour University, Damanhour, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "Nielsen SD"
+          ],
+          "firstName": [
+            "Søren D"
+          ],
+          "lastName": [
+            "Nielsen"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Department of Food Science, Faculty of Science and Technology, Aarhus University, Aarhus, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Abd-El Aal S"
+          ],
+          "firstName": [
+            "Salah"
+          ],
+          "lastName": [
+            "Abd-El Aal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Food Control Department, Faculty of Veterinary Medicine, Zagazig University, Zagazig, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "El-Leboudy A"
+          ],
+          "firstName": [
+            "Ahlam"
+          ],
+          "lastName": [
+            "El-Leboudy"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Food Hygiene Department, Faculty of Veterinary Medicine, Alexandria University, Alexandria, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "Saleh E"
+          ],
+          "firstName": [
+            "Ebeed"
+          ],
+          "lastName": [
+            "Saleh"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Food Hygiene Department, Faculty of Veterinary Medicine, Damanhour University, Damanhour, Egypt."
+          ]
+        },
+        {
+          "fullName": [
+            "LaPointe G"
+          ],
+          "firstName": [
+            "Gisèle"
+          ],
+          "lastName": [
+            "LaPointe"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Canadian Research Institute for Food Safety, University of Guelph, Guelph, ON, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2784319"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Front Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Front Nutr"
+          ],
+          "NLMid": [
+            "101642264"
+          ],
+          "ISSN": [
+            "2296-861X"
+          ],
+          "ESSN": [
+            "2296-861X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "152"
+  ],
+  "abstractText": [
+    "Peptides in the 3-kDa ultrafiltrate of fermented whey protein isolate (WPI) medium could be responsible for the antivirulence activity of Lactobacillus helveticus LH-2 and Lactobacillus acidophilus La-5 against Salmonella Typhimurium. Non-fermented and fermented media containing 5.6% WPI were fractionated at a 3 kDa cut-off and the filtrate was analyzed by mass spectrometry. The non-fermented WPI medium contained 109 milk derived peptides, which originated from β-casein (52), αs1-casein (22), αs2-casein (10), κ-casein (8), and β-lactoglobulin (17). Most of these peptides were not found in the fermented media, except for 14 peptides from β-casein and one peptide from αs2-casein. Database searches confirmed that 39 out of the 109 peptides had established physiological functions, including angiotensin-converting-enzyme (ACE) inhibitory, antioxidant, antimicrobial, or immunomodulating activity. A total of 75 peptides were found in the LH-2 cell free spent medium (CFSM): 54 from β-casein, 14 from k-casein, 4 from β-lactoglobulin and 3 from αs2-casein. From these peptides, 19 have previously been associated with several categories of bioactivity. For La-5 CFSM, a total of 15 peptides were sequenced: 8 from β-casein, 5 from αs1-casein, 2 from β-lactoglobulin. Only 5 of these have previously been reported as having bioactivity. Many of the peptides remaining in the fermented medium would contain low-affinity residues for oligopeptide binding proteins and higher resistance to peptidase hydrolysis. These properties of the sequenced peptides could explain their accumulation after fermentation despite the active proteolytic enzymes of LH-2 and La-5 strains. Down-regulated expression of hilA and ssrB genes in S. Typhimurium was observed in the presence of La-5 and LH-2 CFSM. Downregulation was not observed for the Salmonella oppA mutant strain exposed to the same CFSM used to treat the S. Typhimurium DT104 wild-type strain. This result suggests the importance of peptide transport by S. Typhimurium for down regulation of virulence genes in Salmonella."
+  ],
+  "affiliation": [
+    "Food Hygiene Department, Faculty of Veterinary Medicine, Damanhour University, Damanhour, Egypt."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Whey",
+        "Virulence",
+        "Salmonella",
+        "Probiotic",
+        "bioactive peptides",
+        "Gene Expression"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnut.2019.00152"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803757"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6803757?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-15"
+  ],
+  "firstPublicationDate": [
+    "2019-10-15"
+  ]
+}

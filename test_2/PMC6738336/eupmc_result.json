@@ -1,0 +1,373 @@
+{
+  "id": [
+    "31551979"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31551979"
+  ],
+  "pmcid": [
+    "PMC6738336"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02044"
+  ],
+  "title": [
+    "Adaption of an Episomal Antisense Silencing Approach for Investigation of the Phenotype Switch of Staphylococcus aureus Small-Colony Variants."
+  ],
+  "authorString": [
+    "Schleimer N, Kaspar U, Ballhausen B, Fotiadis SA, Streu JM, Kriegeskorte A, Proctor RA, Becker K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schleimer N"
+          ],
+          "firstName": [
+            "Nina"
+          ],
+          "lastName": [
+            "Schleimer"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaspar U"
+          ],
+          "firstName": [
+            "Ursula"
+          ],
+          "lastName": [
+            "Kaspar"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ballhausen B"
+          ],
+          "firstName": [
+            "Britta"
+          ],
+          "lastName": [
+            "Ballhausen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fotiadis SA"
+          ],
+          "firstName": [
+            "Sarah A"
+          ],
+          "lastName": [
+            "Fotiadis"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Streu JM"
+          ],
+          "firstName": [
+            "Jessica M"
+          ],
+          "lastName": [
+            "Streu"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kriegeskorte A"
+          ],
+          "firstName": [
+            "André"
+          ],
+          "lastName": [
+            "Kriegeskorte"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Proctor RA"
+          ],
+          "firstName": [
+            "Richard A"
+          ],
+          "lastName": [
+            "Proctor"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Departments of Medical Microbiology/Immunology and Medicine, School of Medicine and Public Health, University of Wisconsin, Madison, WI, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Becker K"
+          ],
+          "firstName": [
+            "Karsten"
+          ],
+          "lastName": [
+            "Becker"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2044"
+  ],
+  "abstractText": [
+    "Staphylococcus aureus small-colony variants (SCVs) are associated with chronic, persistent, and relapsing courses of infection and are characterized by slow growth combined with other phenotypic and molecular traits. Although certain mechanisms have been described, the genetic basis of clinical SCVs remains often unknown. Hence, we adapted an episomal tool for rapid identification and investigation of putative SCV phenotype-associated genes via antisense gene silencing based on previously described Tnl0-encoded tet-regulatory elements. Targeting the SCV phenotype-inducing enoyl-acyl-carrier-protein reductase gene (fabI), plasmid pSN1-AS'fabI' was generated leading to antisense silencing, which was proven by pronounced growth retardation in liquid cultures, phenotype switch on solid medium, and 200-fold increase of antisense 'fabI' expression. A crucial role of TetR repression in effective regulation of the system was demonstrated. Based on the use of anhydrotetracycline as effector, an easy-to-handle one-plasmid setup was set that may be applicable to different S. aureus backgrounds and cell culture studies. However, selection of the appropriate antisense fragment of the target gene remains a critical factor for effectiveness of silencing. This inducible gene expression system may help to identify SCV phenotype-inducing genes, which is prerequisite for the development of new antistaphylococcal agents and future alternative strategies to improve treatment of therapy-refractory SCV-related infections by iatrogenically induced phenotypic switch. Moreover, it can be used as controllable phenotype switcher to examine important aspects of SCV biology in cell culture as well as in vivo."
+  ],
+  "affiliation": [
+    "Institute of Medical Microbiology, University Hospital Münster, Münster, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Staphylococcus aureus",
+        "Phenotype Switch",
+        "Small-colony Variant (Scv)",
+        "Antisense Silencing",
+        "Enoyl-acyl-carrier-protein Reductase Gene (Fabi)",
+        "Tet-regulatory Expression System"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02044"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6738336"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6738336?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-26"
+  ],
+  "firstIndexDate": [
+    "2019-09-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-04"
+  ],
+  "firstPublicationDate": [
+    "2019-09-04"
+  ]
+}

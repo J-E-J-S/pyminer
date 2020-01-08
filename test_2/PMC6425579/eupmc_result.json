@@ -1,0 +1,483 @@
+{
+  "id": [
+    "30894139"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30894139"
+  ],
+  "pmcid": [
+    "PMC6425579"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5604-6"
+  ],
+  "title": [
+    "Rapid cell division of Staphylococcus aureus during colonization of the human nose."
+  ],
+  "authorString": [
+    "Szafrańska AK, Junker V, Steglich M, Nübel U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Szafrańska AK"
+          ],
+          "firstName": [
+            "Anna K"
+          ],
+          "lastName": [
+            "Szafrańska"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Inhoffenstr. 7B, 38124, Braunschweig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Junker V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Junker"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Inhoffenstr. 7B, 38124, Braunschweig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Steglich M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Steglich"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Inhoffenstr. 7B, 38124, Braunschweig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nübel U"
+          ],
+          "firstName": [
+            "Ulrich"
+          ],
+          "lastName": [
+            "Nübel"
+          ],
+          "initials": [
+            "U"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3131-1656",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Inhoffenstr. 7B, 38124, Braunschweig, Germany. ulrich.nuebel@dsmz.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3131-1656",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2789510"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "229"
+  ],
+  "abstractText": [
+    "BACKGROUND:Staphylococcus aureus is an important opportunistic pathogen and a commensal bacterium, thriving in the nasal cavities of 20% of the human population. Little is known about the dynamics of asymptomatic colonization and the occasional transition to infectious disease. RESULTS:In this study, we inferred that S. aureus cells replicate every one to three hours on average while colonizing the human nose, based on two independent lines of genomic evidence. First, we collected nasal swab samples from human subjects, extracted and sequenced metagenomic DNA, and analyzed the distribution of sequencing coverage along the staphylococcal chromosome. Calibration of this data by comparison to a laboratory culture enabled measuring S. aureus cell division rates in nasal samples. Second, we applied mutation accumulation experiments paired with genome sequencing to measure spontaneous mutation rates at a genome scale. Relating these mutation rates to annual evolutionary rates confirmed that nasal S. aureus continuously pass several thousand cell divisions per year when averaged over large, globally distributed populations and over many years, corresponding to generation times of less than two hours. CONCLUSIONS:The cell division rates we determined were higher than the fastest documented rates during fulminant disease progression (in a mouse model of systemic infection) and much higher than those previously measured in expectorated sputum from cystic fibrosis patients. This paper supplies absolute in-vivo generation times for an important bacterial commensal, indicating that colonization of the human upper respiratory tract is characterized by a highly dynamic equilibrium between bacterial growth and removal."
+  ],
+  "affiliation": [
+    "Leibniz Institute DSMZ - German Collection of Microorganisms and Cell Cultures, Inhoffenstr. 7B, 38124, Braunschweig, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "643476"
+          ],
+          "agency": [
+            "Horizon 2020 Framework Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Staphylococcus aureus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evolution, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cell Division"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation Rate"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Generation time",
+        "Mutation rate",
+        "Commensal Bacteria",
+        "Mutation Accumulation",
+        "Replication Rate",
+        "Metagenome Sequencing",
+        "Nasal Microbiome",
+        "In-vivo Growth Dynamics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425579?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425579"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5604-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-07-08"
+  ],
+  "dateOfCreation": [
+    "2019-03-22"
+  ],
+  "firstIndexDate": [
+    "2019-03-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-20"
+  ],
+  "firstPublicationDate": [
+    "2019-03-20"
+  ]
+}

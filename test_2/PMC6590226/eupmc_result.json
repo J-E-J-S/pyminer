@@ -1,0 +1,506 @@
+{
+  "id": [
+    "30657194"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30657194"
+  ],
+  "pmcid": [
+    "PMC6590226"
+  ],
+  "doi": [
+    "10.1002/gepi.22189"
+  ],
+  "title": [
+    "Spinning convincing stories for both true and false association signals."
+  ],
+  "authorString": [
+    "Biedrzycki RJ, Sier AE, Liu D, Dreikorn EN, Weeks DE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Biedrzycki RJ"
+          ],
+          "firstName": [
+            "Richard J"
+          ],
+          "lastName": [
+            "Biedrzycki"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Sier AE"
+          ],
+          "firstName": [
+            "Ashley E"
+          ],
+          "lastName": [
+            "Sier"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu D"
+          ],
+          "firstName": [
+            "Dongjing"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Dreikorn EN"
+          ],
+          "firstName": [
+            "Erika N"
+          ],
+          "lastName": [
+            "Dreikorn"
+          ],
+          "initials": [
+            "EN"
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Weeks DE"
+          ],
+          "firstName": [
+            "Daniel E"
+          ],
+          "lastName": [
+            "Weeks"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9410-7228",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9410-7228",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "43"
+      ],
+      "journalIssueId": [
+        "2817240"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genetic epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Genet. Epidemiol."
+          ],
+          "medlineAbbreviation": [
+            "Genet Epidemiol"
+          ],
+          "NLMid": [
+            "8411723"
+          ],
+          "ISSN": [
+            "0741-0395"
+          ],
+          "ESSN": [
+            "1098-2272"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "356-364"
+  ],
+  "abstractText": [
+    "When interpreting genome-wide association peaks, it is common to annotate each peak by searching for genes with plausible relationships to the trait. However, \"all that glitters is not gold\"-one might interpret apparent patterns in the data as plausible even when the peak is a false positive. Accordingly, we sought to see how human annotators interpreted association results containing a mixture of peaks from both the original trait and a genetically uncorrelated \"synthetic\" trait. Two of us prepared a mix of original and synthetic peaks of three significance categories from five different scans along with relevant literature search results and then we all annotated these regions. Three annotators also scored the strength of evidence connecting each peak to the scanned trait and the likelihood of further studying that region. While annotators found original peaks to have stronger evidence (p Bonferroni  = 0.017) and higher likelihood of further study ( p Bonferroni  = 0.006) than synthetic peaks, annotators often made convincing connections between the synthetic peaks and the original trait, finding these connections 55% of the time. These results show that it is not difficult for annotators to make convincing connections between synthetic association signals and genes found in those regions."
+  ],
+  "affiliation": [
+    "Department of Human Genetics, University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "False Positive Reactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Data Interpretation, Statistical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Deception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Single Nucleotide"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Data Curation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "False positives",
+        "Literature review",
+        "Genome-wide Association Studies",
+        "Association Peaks"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/gepi.22189"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6590226"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6590226?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-09-02"
+  ],
+  "dateOfCreation": [
+    "2019-01-19"
+  ],
+  "firstIndexDate": [
+    "2019-01-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-10"
+  ],
+  "dateOfRevision": [
+    "2019-09-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-18"
+  ],
+  "firstPublicationDate": [
+    "2019-01-18"
+  ]
+}

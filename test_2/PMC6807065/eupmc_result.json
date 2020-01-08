@@ -1,0 +1,328 @@
+{
+  "id": [
+    "31667368"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31667368"
+  ],
+  "pmcid": [
+    "PMC6807065"
+  ],
+  "doi": [
+    "10.1016/j.synbio.2019.10.001"
+  ],
+  "title": [
+    "Benchmarking two Saccharomyces cerevisiae laboratory strains for growth and transcriptional response to methanol."
+  ],
+  "authorString": [
+    "Espinosa MI, Williams TC, Pretorius IS, Paulsen IT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Espinosa MI"
+          ],
+          "firstName": [
+            "Monica I"
+          ],
+          "lastName": [
+            "Espinosa"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "affiliation": [
+            "ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams TC"
+          ],
+          "firstName": [
+            "Thomas C"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Pretorius IS"
+          ],
+          "firstName": [
+            "Isak S"
+          ],
+          "lastName": [
+            "Pretorius"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "affiliation": [
+            "ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Paulsen IT"
+          ],
+          "firstName": [
+            "Ian T"
+          ],
+          "lastName": [
+            "Paulsen"
+          ],
+          "initials": [
+            "IT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9015-9418",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9015-9418",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2875287"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Synthetic and systems biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Synth Syst Biotechnol"
+          ],
+          "NLMid": [
+            "101694371"
+          ],
+          "ISSN": [
+            "2405-805X"
+          ],
+          "ESSN": [
+            "2405-805X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "180-188"
+  ],
+  "abstractText": [
+    "One-carbon compounds, such as methanol, are becoming potential alternatives to sugars as feedstocks for the biological production of chemicals, fuels, foods, and pharmaceuticals. Efficient biological production often requires extensive genetic manipulation of a microbial host strain, making well-characterised and genetically-tractable model organisms like the yeast Saccharomyces cerevisiae attractive targets for the engineering of methylotrophic metabolism. S. cerevisiae strains S288C and CEN.PK are the two best-characterised and most widely used hosts for yeast synthetic biology and metabolic engineering, yet they have unpredictable metabolic phenotypes related to their many genomic differences. We therefore sought to benchmark these two strains as potential hosts for engineered methylotrophic metabolism by comparing their growth and transcriptomic responses to methanol. CEN.PK had improved growth in the presence of methanol relative to the S288C derivative BY4741. The CEN.PK transcriptome also had a specific and relevant response to methanol that was either absent or less pronounced in the BY4741 strain. This response included up-regulation of genes associated with mitochondrial and peroxisomal metabolism, alcohol and formate dehydrogenation, glutathione metabolism, and the global transcriptional regulator of metabolism MIG3. Over-expression of MIG3 enabled improved growth in the presence of methanol, suggesting that MIG3 is a mediator of the superior CEN.PK strain growth. CEN.PK was therefore identified as a superior strain for the future development of synthetic methylotrophy in S. cerevisiae."
+  ],
+  "affiliation": [
+    "ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yeast",
+        "Methanol",
+        "metabolic engineering",
+        "Methylotrophy",
+        "Synthetic Biology",
+        "Mig3"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.synbio.2019.10.001"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6807065"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6807065?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-01"
+  ],
+  "firstIndexDate": [
+    "2019-11-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-16"
+  ],
+  "firstPublicationDate": [
+    "2019-10-16"
+  ]
+}

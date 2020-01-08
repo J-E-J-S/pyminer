@@ -1,0 +1,340 @@
+{
+  "id": [
+    "31466916"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31466916"
+  ],
+  "pmcid": [
+    "PMC6796516"
+  ],
+  "doi": [
+    "10.1016/j.ebiom.2019.08.027"
+  ],
+  "title": [
+    "Looking beyond the hype: Applied AI and machine learning in translational medicine."
+  ],
+  "authorString": [
+    "Toh TS, Dondelinger F, Wang D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Toh TS"
+          ],
+          "firstName": [
+            "Tzen S"
+          ],
+          "lastName": [
+            "Toh"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "affiliation": [
+            "The Medical School, University of Sheffield, Sheffield, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Dondelinger F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "Dondelinger"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1816-6300",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lancaster Medical School, Furness College, Lancaster University, Bailrigg, Lancaster, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Dennis"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "NIHR Sheffield Biomedical Research Centre, University of Sheffield, Sheffield, UK; Department of Computer Science, University of Sheffield, Sheffield, UK. Electronic address: dennis.wang@sheffield.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1816-6300",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2861252"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EBioMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EBioMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EBioMedicine"
+          ],
+          "NLMid": [
+            "101647039"
+          ],
+          "ISSN": [
+            "2352-3964"
+          ],
+          "ESSN": [
+            "2352-3964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "607-615"
+  ],
+  "abstractText": [
+    "Big data problems are becoming more prevalent for laboratory scientists who look to make clinical impact. A large part of this is due to increased computing power, in parallel with new technologies for high quality data generation. Both new and old techniques of artificial intelligence (AI) and machine learning (ML) can now help increase the success of translational studies in three areas: drug discovery, imaging, and genomic medicine. However, ML technologies do not come without their limitations and shortcomings. Current technical limitations and other limitations including governance, reproducibility, and interpretation will be discussed in this article. Overcoming these limitations will enable ML methods to be more powerful for discovery and reduce ambiguity within translational medicine, allowing data-informed decision-making to deliver the next generation of diagnostics and therapeutics to patients quicker, at lowered costs, and at scale."
+  ],
+  "affiliation": [
+    "The Medical School, University of Sheffield, Sheffield, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "SBF004\\1052"
+          ],
+          "agency": [
+            "Academy of Medical Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Artificial intelligence",
+        "Imaging",
+        "drug discovery",
+        "Machine Learning",
+        "Genomic Medicine",
+        "Translational Medicine"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ebiom.2019.08.027"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6796516"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6796516?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-26"
+  ],
+  "firstPublicationDate": [
+    "2019-08-26"
+  ]
+}

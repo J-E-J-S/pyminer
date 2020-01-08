@@ -1,0 +1,559 @@
+{
+  "id": [
+    "31537809"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31537809"
+  ],
+  "pmcid": [
+    "PMC6753077"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12234-1"
+  ],
+  "title": [
+    "Genetic determinants of cellular addiction to DNA polymerase theta."
+  ],
+  "authorString": [
+    "Feng W, Simpson DA, Carvajal-Garcia J, Price BA, Kumar RJ, Mose LE, Wood RD, Rashid N, Purvis JE, Parker JS, Ramsden DA, Gupta GP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feng W"
+          ],
+          "firstName": [
+            "Wanjuan"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Simpson DA"
+          ],
+          "firstName": [
+            "Dennis A"
+          ],
+          "lastName": [
+            "Simpson"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carvajal-Garcia J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Carvajal-Garcia"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7257-3674",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Price BA"
+          ],
+          "firstName": [
+            "Brandon A"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar RJ"
+          ],
+          "firstName": [
+            "Rashmi J"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mose LE"
+          ],
+          "firstName": [
+            "Lisle E"
+          ],
+          "lastName": [
+            "Mose"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wood RD"
+          ],
+          "firstName": [
+            "Richard D"
+          ],
+          "lastName": [
+            "Wood"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9495-6892",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Smithville, TX, 78957, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rashid N"
+          ],
+          "firstName": [
+            "Naim"
+          ],
+          "lastName": [
+            "Rashid"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Purvis JE"
+          ],
+          "firstName": [
+            "Jeremy E"
+          ],
+          "lastName": [
+            "Purvis"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Parker JS"
+          ],
+          "firstName": [
+            "Joel S"
+          ],
+          "lastName": [
+            "Parker"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2080-6901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramsden DA"
+          ],
+          "firstName": [
+            "Dale A"
+          ],
+          "lastName": [
+            "Ramsden"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1575-4748",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta GP"
+          ],
+          "firstName": [
+            "Gaorav P"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9177-552X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA. gaorav@med.unc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1575-4748",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9495-6892",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9177-552X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7257-3674",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2080-6901",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2853973"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4286"
+  ],
+  "abstractText": [
+    "Polymerase theta (Pol θ, gene name Polq) is a widely conserved DNA polymerase that mediates a microhomology-mediated, error-prone, double strand break (DSB) repair pathway, referred to as Theta Mediated End Joining (TMEJ). Cells with homologous recombination deficiency are reliant on TMEJ for DSB repair. It is unknown whether deficiencies in other components of the DNA damage response (DDR) also result in Pol θ addiction. Here we use a CRISPR genetic screen to uncover 140 Polq synthetic lethal (PolqSL) genes, the majority of which were previously unknown. Functional analyses indicate that Pol θ/TMEJ addiction is associated with increased levels of replication-associated DSBs, regardless of the initial source of damage. We further demonstrate that approximately 30% of TCGA breast cancers have genetic alterations in PolqSL genes and exhibit genomic scars of Pol θ/TMEJ hyperactivity, thereby substantially expanding the subset of human cancers for which Pol θ inhibition represents a promising therapeutic strategy."
+  ],
+  "affiliation": [
+    "Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 CA222092"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 CA016086"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12234-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753077"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6753077?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-21"
+  ],
+  "firstIndexDate": [
+    "2019-09-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-19"
+  ],
+  "firstPublicationDate": [
+    "2019-09-19"
+  ]
+}

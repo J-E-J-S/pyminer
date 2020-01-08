@@ -1,0 +1,349 @@
+{
+  "id": [
+    "31437162"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31437162"
+  ],
+  "pmcid": [
+    "PMC6705773"
+  ],
+  "doi": [
+    "10.1371/journal.pgen.1008296"
+  ],
+  "title": [
+    "SweC and SweD are essential co-factors of the FtsEX-CwlO cell wall hydrolase complex in Bacillus subtilis."
+  ],
+  "authorString": [
+    "Brunet YR, Wang X, Rudner DZ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brunet YR"
+          ],
+          "firstName": [
+            "Yannick R"
+          ],
+          "lastName": [
+            "Brunet"
+          ],
+          "initials": [
+            "YR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2540-619X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology, Harvard Medical School, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xindan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6458-180X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology, Harvard Medical School, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rudner DZ"
+          ],
+          "firstName": [
+            "David Z"
+          ],
+          "lastName": [
+            "Rudner"
+          ],
+          "initials": [
+            "DZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0236-7143",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology, Harvard Medical School, Boston, MA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0236-7143",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2540-619X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6458-180X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2843509"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS genetics"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Genet."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Genet"
+          ],
+          "NLMid": [
+            "101239074"
+          ],
+          "ISSN": [
+            "1553-7390"
+          ],
+          "ESSN": [
+            "1553-7404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1008296"
+  ],
+  "abstractText": [
+    "The peptidoglycan (PG) sacculus is composed of long glycan strands cross-linked together by short peptides forming a covalently closed meshwork that protects the bacterial cell from osmotic lysis and specifies its shape. PG hydrolases play essential roles in remodeling this three-dimensional network during growth and division but how these autolytic enzymes are regulated remains poorly understood. The FtsEX ABC transporter-like complex has emerged as a broadly conserved regulatory module in controlling cell wall hydrolases in diverse bacterial species. In most characterized examples, this complex regulates distinct PG hydrolases involved in cell division and is intimately associated with the cytokinetic machinery called the divisome. However, in the gram-positive bacterium Bacillus subtilis the FtsEX complex is required for cell wall elongation where it regulates the PG hydrolase CwlO that acts along the lateral cell wall. To investigate whether additional factors are required for FtsEX function outside the divisome, we performed a synthetic lethal screen taking advantage of the conditional essentiality of CwlO. This screen identified two uncharacterized factors (SweD and SweC) that are required for CwlO activity. We demonstrate that these proteins reside in a membrane complex with FtsX and that amino acid substitutions in residues adjacent to the ATPase domain of FtsE partially bypass the requirement for them. Collectively our data indicate that SweD and SweC function as essential co-factors of FtsEX in controlling CwlO during cell wall elongation. We propose that factors analogous to SweDC function to support FtsEX activity outside the divisome in other bacteria."
+  ],
+  "affiliation": [
+    "Department of Microbiology, Harvard Medical School, Boston, MA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6705773?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6705773"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pgen.1008296"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-23"
+  ],
+  "firstIndexDate": [
+    "2019-08-23"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-22"
+  ],
+  "firstPublicationDate": [
+    "2019-08-22"
+  ]
+}

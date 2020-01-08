@@ -1,0 +1,367 @@
+{
+  "id": [
+    "30353370"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30353370"
+  ],
+  "pmcid": [
+    "PMC6394800"
+  ],
+  "doi": [
+    "10.1007/s13258-018-0751-8"
+  ],
+  "title": [
+    "Translational genomics and multi-omics integrated approaches as a useful strategy for crop breeding."
+  ],
+  "authorString": [
+    "Choi HK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Choi HK"
+          ],
+          "firstName": [
+            "Hong-Kyu"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "affiliation": [
+            "Department of Molecular Genetics, College of Natural Resources and Life Science, Dong-A University, Nakdong-Daero 550-Beongil 37, Saha-Gu, Busan, 49315, Republic of Korea. hkchoi@dau.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "41"
+      ],
+      "journalIssueId": [
+        "2785149"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genes & genomics"
+          ],
+          "ISOAbbreviation": [
+            "Genes Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Genes Genomics"
+          ],
+          "NLMid": [
+            "101481027"
+          ],
+          "ISSN": [
+            "1976-9571"
+          ],
+          "ESSN": [
+            "2092-9293"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "133-146"
+  ],
+  "abstractText": [
+    "Recent next generation sequencing-driven mass production of genomic data and multi-omics-integrated approaches have significantly contributed to broadening and deepening our knowledge on the molecular system of living organisms. Accordingly, translational genomics (TG) approach can play a pivotal role in creating an informational bridge between model systems and relatively less studied plants. This review focuses mainly on addressing recent advancement in omics-related technologies, a diverse array of bioinformatic resources and potential applications of TG for the crop breeding. To accomplish above objectives, information on omics data production, various DBs and high throughput technologies was collected, integrated, and used to analyze current status and future perspectives towards omics-assisted crop breeding. Various omics data and resources have been organized and integrated into the databases and/or bioinformatic infrastructures, and thereby serve as the ome's information center for cross-genome translation of biological data. Although the size of accumulated omics data and availability of reference genomes are different among plant families, translational approaches have been actively progressing to access particular biological characteristics. When multi-layered omics data are integrated in a synthetic manner, it will allow providing a stereoscopic view of dynamic molecular behavior and interacting networks of genes occurring in plants. Consequently, TG approach will lead us to broader and deeper insights into target traits for the plant breeding. Furthermore, such systems approach will renovate conventional breeding programs and accelerate precision crop breeding in the future."
+  ],
+  "affiliation": [
+    "Department of Molecular Genetics, College of Natural Resources and Life Science, Dong-A University, Nakdong-Daero 550-Beongil 37, Saha-Gu, Busan, 49315, Republic of Korea. hkchoi@dau.ac.kr."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crops, Agricultural"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GD"
+                  ],
+                  "qualifierName": [
+                    "growth & development"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Breeding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Database",
+        "Crop breeding",
+        "Platform",
+        "Translational Genomics",
+        "Omics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6394800?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6394800"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13258-018-0751-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-01"
+  ],
+  "dateOfCreation": [
+    "2018-10-25"
+  ],
+  "firstIndexDate": [
+    "2018-10-26"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-18"
+  ],
+  "dateOfRevision": [
+    "2019-05-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-23"
+  ],
+  "firstPublicationDate": [
+    "2018-10-23"
+  ]
+}

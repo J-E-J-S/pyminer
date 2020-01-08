@@ -1,0 +1,290 @@
+{
+  "id": [
+    "31798686"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31798686"
+  ],
+  "pmcid": [
+    "PMC6883643"
+  ],
+  "doi": [
+    "10.1186/s13036-019-0218-8"
+  ],
+  "title": [
+    "CRIMoClo plasmids for modular assembly and orthogonal chromosomal integration of synthetic circuits in Escherichia coli."
+  ],
+  "authorString": [
+    "Vecchione S, Fritz G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vecchione S"
+          ],
+          "firstName": [
+            "Stefano"
+          ],
+          "lastName": [
+            "Vecchione"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "LOEWE Center for Synthetic Microbiology, Philipps-University Marburg, Hans-Meerwein Str. 6, 35032 Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fritz G"
+          ],
+          "firstName": [
+            "Georg"
+          ],
+          "lastName": [
+            "Fritz"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1503-9165",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "LOEWE Center for Synthetic Microbiology, Philipps-University Marburg, Hans-Meerwein Str. 6, 35032 Marburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1503-9165",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2769878"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of biological engineering"
+          ],
+          "ISOAbbreviation": [
+            "J Biol Eng"
+          ],
+          "medlineAbbreviation": [
+            "J Biol Eng"
+          ],
+          "NLMid": [
+            "101306640"
+          ],
+          "ISSN": [
+            "1754-1611"
+          ],
+          "ESSN": [
+            "1754-1611"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "92"
+  ],
+  "abstractText": [
+    "Background:Synthetic biology heavily depends on rapid and simple techniques for DNA engineering, such as Ligase Cycling Reaction (LCR), Gibson assembly and Golden Gate assembly, all of which allow for fast, multi-fragment DNA assembly. A major enhancement of Golden Gate assembly is represented by the Modular Cloning (MoClo) system that allows for simple library propagation and combinatorial construction of genetic circuits from reusable parts. Yet, one limitation of the MoClo system is that all circuits are assembled in low- and medium copy plasmids, while a rapid route to chromosomal integration is lacking. To overcome this bottleneck, here we took advantage of the conditional-replication, integration, and modular (CRIM) plasmids, which can be integrated in single copies into the chromosome of Escherichia coli and related bacteria by site-specific recombination at different phage attachment (att) sites. Results:By combining the modularity of the MoClo system with the CRIM plasmids features we created a set of 32 novel CRIMoClo plasmids and benchmarked their suitability for synthetic biology applications. Using CRIMoClo plasmids we assembled and integrated a given genetic circuit into four selected phage attachment sites. Analyzing the behavior of these circuits we found essentially identical expression levels, indicating orthogonality of the loci. Using CRIMoClo plasmids and four different reporter systems, we illustrated a framework that allows for a fast and reliable sequential integration at the four selected att sites. Taking advantage of four resistance cassettes the procedure did not require recombination events between each round of integration. Finally, we assembled and genomically integrated synthetic ECF σ factor/anti-σ switches with high efficiency, showing that the growth defects observed for circuits encoded on medium-copy plasmids were alleviated. Conclusions:The CRIMoClo system enables the generation of genetic circuits from reusable, MoClo-compatible parts and their integration into 4 orthogonal att sites into the genome of E. coli. Utilizing four different resistance modules the CRIMoClo system allows for easy, fast, and reliable multiple integrations. Moreover, utilizing CRIMoClo plasmids and MoClo reusable parts, we efficiently integrated and alleviated the toxicity of plasmid-borne circuits. Finally, since CRIMoClo framework allows for high flexibility, it is possible to utilize plasmid-borne and chromosomally integrated circuits simultaneously. This increases our ability to permute multiple genetic modules and allows for an easier design of complex synthetic metabolic pathways in E. coli."
+  ],
+  "affiliation": [
+    "LOEWE Center for Synthetic Microbiology, Philipps-University Marburg, Hans-Meerwein Str. 6, 35032 Marburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Synthetic Biology",
+        "Chromosomal Integration",
+        "Moclo",
+        "Crimoclo",
+        "Crim Plasmids"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13036-019-0218-8"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6883643"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6883643?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-05"
+  ],
+  "firstIndexDate": [
+    "2019-12-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-07"
+  ],
+  "dateOfRevision": [
+    "2019-12-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-28"
+  ],
+  "firstPublicationDate": [
+    "2019-11-28"
+  ]
+}

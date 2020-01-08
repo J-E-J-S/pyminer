@@ -1,0 +1,691 @@
+{
+  "id": [
+    "31586074"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31586074"
+  ],
+  "pmcid": [
+    "PMC6778131"
+  ],
+  "doi": [
+    "10.1038/s41467-019-12494-x"
+  ],
+  "title": [
+    "Genetic modification of primary human B cells to model high-grade lymphoma."
+  ],
+  "authorString": [
+    "Caeser R, Di Re M, Krupka JA, Gao J, Lara-Chica M, Dias JML, Cooke SL, Fenner R, Usheva Z, Runge HFP, Beer PA, Eldaly H, Pak HK, Park CS, Vassiliou GS, Huntly BJP, Mupo A, Bashford-Rogers RJM, Hodson DJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Caeser R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Caeser"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Di Re M"
+          ],
+          "firstName": [
+            "Miriam"
+          ],
+          "lastName": [
+            "Di Re"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Krupka JA"
+          ],
+          "firstName": [
+            "Joanna A"
+          ],
+          "lastName": [
+            "Krupka"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0369-0329",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lara-Chica M"
+          ],
+          "firstName": [
+            "Maribel"
+          ],
+          "lastName": [
+            "Lara-Chica"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2908-9929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cancer Molecular Diagnostics Laboratory (CMDL), Department of Haematology, University of Cambridge, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Dias JML"
+          ],
+          "firstName": [
+            "João M L"
+          ],
+          "lastName": [
+            "Dias"
+          ],
+          "initials": [
+            "JML"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8451-3537",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cancer Molecular Diagnostics Laboratory (CMDL), Department of Haematology, University of Cambridge, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cooke SL"
+          ],
+          "firstName": [
+            "Susanna L"
+          ],
+          "lastName": [
+            "Cooke"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Wolfson Wohl Cancer Research Centre, Institute of Cancer Sciences, University of Glasgow, Garscube Estate, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Fenner R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Fenner"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Usheva Z"
+          ],
+          "firstName": [
+            "Zelvera"
+          ],
+          "lastName": [
+            "Usheva"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Runge HFP"
+          ],
+          "firstName": [
+            "Hendrik F P"
+          ],
+          "lastName": [
+            "Runge"
+          ],
+          "initials": [
+            "HFP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4282-1515",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Beer PA"
+          ],
+          "firstName": [
+            "Philip A"
+          ],
+          "lastName": [
+            "Beer"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, CA, CB10 1SA, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Eldaly H"
+          ],
+          "firstName": [
+            "Hesham"
+          ],
+          "lastName": [
+            "Eldaly"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pathology, Cambridge University Hospitals, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pak HK"
+          ],
+          "firstName": [
+            "Hyo-Kyung"
+          ],
+          "lastName": [
+            "Pak"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "affiliation": [
+            "Department of Pathology, University of Ulsan College of Medicine, Asan Medical Centre, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park CS"
+          ],
+          "firstName": [
+            "Chan-Sik"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "affiliation": [
+            "Department of Pathology, University of Ulsan College of Medicine, Asan Medical Centre, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Vassiliou GS"
+          ],
+          "firstName": [
+            "George S"
+          ],
+          "lastName": [
+            "Vassiliou"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4337-8022",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Huntly BJP"
+          ],
+          "firstName": [
+            "Brian J P"
+          ],
+          "lastName": [
+            "Huntly"
+          ],
+          "initials": [
+            "BJP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0312-161X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Mupo A"
+          ],
+          "firstName": [
+            "Annalisa"
+          ],
+          "lastName": [
+            "Mupo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Cancer Molecular Diagnostics Laboratory (CMDL), Department of Haematology, University of Cambridge, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bashford-Rogers RJM"
+          ],
+          "firstName": [
+            "Rachael J M"
+          ],
+          "lastName": [
+            "Bashford-Rogers"
+          ],
+          "initials": [
+            "RJM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6838-0711",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome Centre for Human Genetics, Roosevelt Dr, Oxford, OX3 7BN, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hodson DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Hodson"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6225-2033",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK. djh1002@cam.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0369-0329",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2908-9929",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0312-161X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4282-1515",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4337-8022",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6225-2033",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8451-3537",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6838-0711",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2866016"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4543"
+  ],
+  "abstractText": [
+    "Sequencing studies of diffuse large B cell lymphoma (DLBCL) have identified hundreds of recurrently altered genes. However, it remains largely unknown whether and how these mutations may contribute to lymphomagenesis, either individually or in combination. Existing strategies to address this problem predominantly utilize cell lines, which are limited by their initial characteristics and subsequent adaptions to prolonged in vitro culture. Here, we describe a co-culture system that enables the ex vivo expansion and viral transduction of primary human germinal center B cells. Incorporation of CRISPR/Cas9 technology enables high-throughput functional interrogation of genes recurrently mutated in DLBCL. Using a backbone of BCL2 with either BCL6 or MYC, we identify co-operating genetic alterations that promote growth or even full transformation into synthetically engineered DLBCL models. The resulting tumors can be expanded and sequentially transplanted in vivo, providing a scalable platform to test putative cancer genes and to create mutation-directed, bespoke lymphoma models."
+  ],
+  "affiliation": [
+    "Wellcome MRC Cambridge Stem Cell Institute, Cambridge, CB2 0AW, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-12494-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6778131"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6778131?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-06"
+  ],
+  "firstIndexDate": [
+    "2019-10-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-11"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-04"
+  ],
+  "firstPublicationDate": [
+    "2019-10-04"
+  ]
+}

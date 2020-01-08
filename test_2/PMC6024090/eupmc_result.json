@@ -1,0 +1,361 @@
+{
+  "id": [
+    "29858283"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29858283"
+  ],
+  "pmcid": [
+    "PMC6024090"
+  ],
+  "doi": [
+    "10.15252/msb.20188441"
+  ],
+  "title": [
+    "Computer-aided biochemical programming of synthetic microreactors as diagnostic devices."
+  ],
+  "authorString": [
+    "Courbet A, Amar P, Fages F, Renard E, Molina F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Courbet A"
+          ],
+          "firstName": [
+            "Alexis"
+          ],
+          "lastName": [
+            "Courbet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0539-7011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Amar P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Amar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0584-0546",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fages F"
+          ],
+          "firstName": [
+            "François"
+          ],
+          "lastName": [
+            "Fages"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Renard E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Renard"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Molina F"
+          ],
+          "firstName": [
+            "Franck"
+          ],
+          "lastName": [
+            "Molina"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4181-0854",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4181-0854",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0539-7011",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0584-0546",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2691033"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular systems biology"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Syst. Biol."
+          ],
+          "medlineAbbreviation": [
+            "Mol Syst Biol"
+          ],
+          "NLMid": [
+            "101235389"
+          ],
+          "ISSN": [
+            "1744-4292"
+          ],
+          "ESSN": [
+            "1744-4292"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e8441"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6024090?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6024090"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/msb.20188441"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29700076"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Mol Syst Biol. 2018 Apr 26;14 (4):e7845"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-03"
+  ],
+  "firstIndexDate": [
+    "2018-06-03"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-08"
+  ],
+  "dateOfRevision": [
+    "2018-12-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-01"
+  ],
+  "firstPublicationDate": [
+    "2018-06-01"
+  ]
+}

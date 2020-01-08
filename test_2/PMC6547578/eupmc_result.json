@@ -1,0 +1,549 @@
+{
+  "id": [
+    "31159762"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31159762"
+  ],
+  "pmcid": [
+    "PMC6547578"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5826-7"
+  ],
+  "title": [
+    "A comparison of RNA extraction and sequencing protocols for detection of small RNAs in plasma."
+  ],
+  "authorString": [
+    "Wong RKY, MacMahon M, Woodside JV, Simpson DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wong RKY"
+          ],
+          "firstName": [
+            "Ryan K Y"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "RKY"
+          ],
+          "affiliation": [
+            "Centre for Experimental Medicine, School of Medicine, Dentistry and Biomedical Sciences, Queen's University Belfast, 97 Lisburn Road, Belfast, BT9 7BL, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "MacMahon M"
+          ],
+          "firstName": [
+            "Meabh"
+          ],
+          "lastName": [
+            "MacMahon"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Experimental Medicine, School of Medicine, Dentistry and Biomedical Sciences, Queen's University Belfast, 97 Lisburn Road, Belfast, BT9 7BL, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Woodside JV"
+          ],
+          "firstName": [
+            "Jayne V"
+          ],
+          "lastName": [
+            "Woodside"
+          ],
+          "initials": [
+            "JV"
+          ],
+          "affiliation": [
+            "Nutrition Group, Institute for Global Food Security (Centre for Public Health), School of Medicine, Dentistry and Biomedical Sciences, Queen's University Belfast, Institute of Clinical Science A (First Floor), Grosvenor Road, Belfast, BT12 6BJ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Simpson DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Simpson"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0157-1211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Experimental Medicine, School of Medicine, Dentistry and Biomedical Sciences, Queen's University Belfast, 97 Lisburn Road, Belfast, BT9 7BL, UK. david.simpson@qub.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0157-1211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2823270"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "446"
+  ],
+  "abstractText": [
+    "BACKGROUND:Circulating microRNAs (miRNAs) are attractive non-invasive biomarkers for a variety of conditions due to their stability and altered pathophysiological expression levels. Reliable detection of global expression profiles is required to maximise miRNA biomarker discovery. Although developments in small RNA-Seq technology have improved detection of plasma-based miRNAs, the low RNA content and sequencing bias introduced during library preparation remain challenging. In this study we compare commercially available RNA extraction methods using MagnaZol (Bioo Scientific) or miRNeasy (QIAGEN) and three library preparation methods - CleanTag (TriLink), NEXTflex (Bioo Scientific) and QIAseq (QIAGEN) - which aim to address one or both of these issues. RESULTS:Different RNA extractions and library preparation protocols result in differential detection of miRNAs. A greater proportion of reads mapped to miRNAs in libraries prepared with MagnaZol RNA than with miRNeasy RNA. Libraries prepared using QIAseq demonstrated the greatest miRNA diversity with many more very low abundance miRNAs detected (~ 2-3 fold more with < 10 reads), whilst CleanTag detected the fewest individual miRNAs and considerably over-represented miR-486-5p. Libraries prepared with QIAseq had the strongest correlation with RT-qPCR quantification. Analysis of unique molecular indices (UMIs) incorporated in the QIAseq protocol indicate that little PCR bias is introduced during small RNA library preparation. CONCLUSIONS:Small RNAs were consistently detected using all RNA extraction and library preparation protocols tested, but with some miRNAs at significantly different levels. Choice of the most suitable protocol should be informed by the relative importance of minimising the total sequencing required, detection of rare miRNAs or absolute quantification."
+  ],
+  "affiliation": [
+    "Centre for Experimental Medicine, School of Medicine, Dentistry and Biomedical Sciences, Queen's University Belfast, 97 Lisburn Road, Belfast, BT9 7BL, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "G0901793"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Plasma",
+        "miRNA",
+        "MicroRNA",
+        "Next Generation Sequencing",
+        "Ngs",
+        "Library Preparation",
+        "Circulating Biomarker",
+        "Small Rna-seq"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6547578?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6547578"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5826-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-07"
+  ],
+  "dateOfCreation": [
+    "2019-06-05"
+  ],
+  "firstIndexDate": [
+    "2019-06-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-13"
+  ],
+  "dateOfRevision": [
+    "2019-11-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-03"
+  ],
+  "firstPublicationDate": [
+    "2019-06-03"
+  ]
+}

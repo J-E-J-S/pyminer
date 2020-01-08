@@ -1,0 +1,289 @@
+{
+  "id": [
+    "31708893"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31708893"
+  ],
+  "pmcid": [
+    "PMC6819313"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02416"
+  ],
+  "title": [
+    "Editorial: DNA Replication Origins in Microbial Genomes, Volume 2."
+  ],
+  "authorString": [
+    "Gao F, Leonard AC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9563-3841",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics, School of Science, Tianjin University, Tianjin, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Leonard AC"
+          ],
+          "firstName": [
+            "Alan C"
+          ],
+          "lastName": [
+            "Leonard"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Laboratory of Microbial Genetics, Department of Biomedical and Chemical Engineering and Science, Florida Institute of Technology, Melbourne, FL, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9563-3841",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2416"
+  ],
+  "affiliation": [
+    "Department of Physics, School of Science, Tianjin University, Tianjin, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacteria",
+        "DNA replication",
+        "Replication licensing",
+        "Replication origin",
+        "Yeast",
+        "Replisome",
+        "Orisome",
+        "Replication Regulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02416"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819313?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-12"
+  ],
+  "firstIndexDate": [
+    "2019-11-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-23"
+  ],
+  "firstPublicationDate": [
+    "2019-10-23"
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": [
+    "29244002"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29244002"
+  ],
+  "pmcid": [
+    "PMC5731601"
+  ],
+  "doi": [
+    "10.1186/s12864-017-4273-6"
+  ],
+  "title": [
+    "Higher recall in metagenomic sequence classification exploiting overlapping reads."
+  ],
+  "authorString": [
+    "Girotto S, Comin M, Pizzi C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Girotto S"
+          ],
+          "firstName": [
+            "Samuele"
+          ],
+          "lastName": [
+            "Girotto"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Information Engineering, University of Padova, via Gradenigo 6/A, Padova, 35131, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Comin M"
+          ],
+          "firstName": [
+            "Matteo"
+          ],
+          "lastName": [
+            "Comin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Information Engineering, University of Padova, via Gradenigo 6/A, Padova, 35131, Italy. comin@dei.unipd.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Pizzi C"
+          ],
+          "firstName": [
+            "Cinzia"
+          ],
+          "lastName": [
+            "Pizzi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Information Engineering, University of Padova, via Gradenigo 6/A, Padova, 35131, Italy. cinzia.pizzi@dei.unipd.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 10"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2630153"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "917"
+  ],
+  "abstractText": [
+    "In recent years several different fields, such as ecology, medicine and microbiology, have experienced an unprecedented development due to the possibility of direct sequencing of microbioimic samples. Among problems that researchers in the field have to deal with, taxonomic classification of metagenomic reads is one of the most challenging. State of the art methods classify single reads with almost 100% precision. However, very often, the performance in terms of recall falls at about 50%. As a consequence, state-of-the-art methods are indeed capable of correctly classify only half of the reads in the sample. How to achieve better performances in terms of overall quality of classification remains a largely unsolved problem.In this paper we propose a method for metagenomics CLassification Improvement with Overlapping Reads (CLIOR), that exploits the information carried by the overlapping reads graph of the input read dataset to improve recall, f-measure, and the estimated abundance of species. In this work, we applied CLIOR on top of the classification produced by the classifier Clark-l. Experiments on simulated and synthetic metagenomes show that CLIOR can lead to substantial improvement of the recall rate, sometimes doubling it. On average, on simulated datasets, the increase of recall is paired with an higher precision too, while on synthetic datasets it comes at expenses of a small loss of precision. On experiments on real metagenomes CLIOR is able to assign many more reads while keeping the abundance ratios in line with previous studies.Our results showed that with CLIOR is possible to boost the recall of a state-of-the-art metagenomic classifier by inferring and/or correcting the assignment of reads with missing or erroneous labeling. CLIOR is not restricted to the reads classification algorithm used in our experiments, but it may be applied to other methods too. Finally, CLIOR does not need large computational resources, and it can be run on a laptop."
+  ],
+  "affiliation": [
+    "Department of Information Engineering, University of Padova, via Gradenigo 6/A, Padova, 35131, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Statistics as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Metagenomics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Boosting By Overlapping Reads",
+        "Metagenomics Reads Classification"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-017-4273-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5731601"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5731601?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-07-16"
+  ],
+  "dateOfCreation": [
+    "2017-12-16"
+  ],
+  "firstIndexDate": [
+    "2017-12-16"
+  ],
+  "fullTextReceivedDate": [
+    "2017-12-22"
+  ],
+  "dateOfRevision": [
+    "2018-07-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-06"
+  ],
+  "firstPublicationDate": [
+    "2017-12-06"
+  ]
+}

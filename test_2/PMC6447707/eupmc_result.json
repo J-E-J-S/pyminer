@@ -1,0 +1,374 @@
+{
+  "id": [
+    "30984144"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30984144"
+  ],
+  "pmcid": [
+    "PMC6447707"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.00618"
+  ],
+  "title": [
+    "Metagenomic Insights Into a Cellulose-Rich Niche Reveal Microbial Cooperation in Cellulose Degradation."
+  ],
+  "authorString": [
+    "Cui J, Mai G, Wang Z, Liu Q, Zhou Y, Ma Y, Liu C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cui J"
+          ],
+          "firstName": [
+            "Jinming"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mai G"
+          ],
+          "firstName": [
+            "Guoqin"
+          ],
+          "lastName": [
+            "Mai"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zuowei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Guangzhou Institute of Advanced Technology, Chinese Academy of Sciences, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yingfei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu C"
+          ],
+          "firstName": [
+            "Chenli"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3029-7207",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "618"
+  ],
+  "abstractText": [
+    "Background:Cellulose is the most abundant organic polymer mainly produced by plants in nature. It is insoluble and highly resistant to enzymatic hydrolysis. Cellulolytic microorganisms that are capable of producing a battery of related enzymes play an important role in recycling cellulose-rich plant biomass. Effective cellulose degradation by multiple synergic microorganisms has been observed within a defined microbial consortium in the lab culture. Metagenomic analysis may enable us to understand how microbes cooperate in cellulose degradation in a more complex microbial free-living ecosystem in nature. Results:Here we investigated a typical cellulose-rich and alkaline niche where constituent microbes survive through inter-genera cooperation in cellulose utilization. The niche has been generated in an ancient paper-making plant, which has served as an isolated habitat for over 7 centuries. Combined amplicon-based sequencing of 16S rRNA genes and metagenomic sequencing, our analyses showed a microbial composition with 6 dominant genera including Cloacibacterium, Paludibacter, Exiguobacterium, Acetivibrio, Tolumonas, and Clostridium in this cellulose-rich niche; the composition is distinct from other cellulose-rich niches including a modern paper mill, bamboo soil, wild giant panda guts, and termite hindguts. In total, 11,676 genes of 96 glucoside hydrolase (GH) families, as well as 1,744 genes of carbohydrate transporters were identified, and modeling analysis of two representative genes suggested that these glucoside hydrolases likely evolved to adapt to alkaline environments. Further reconstruction of the microbial draft genomes by binning the assembled contigs predicted a mutualistic interaction between the dominant microbes regarding the cellulolytic process in the niche, with Paludibacter and Clostridium acting as helpers that produce endoglucanases, and Cloacibacterium, Exiguobacterium, Acetivibrio, and Tolumonas being beneficiaries that cross-feed on the cellodextrins by oligosaccharide uptake. Conclusion:The analysis of the key genes involved in cellulose degradation and reconstruction of the microbial draft genomes by binning the assembled contigs predicted a mutualistic interaction based on public goods regarding the cellulolytic process in the niche, suggesting that in the studied microbial consortium, free-living bacteria likely survive on each other by acquisition and exchange of metabolites. Knowledge gained from this study will facilitate the design of complex microbial communities with a better performance in industrial bioprocesses."
+  ],
+  "affiliation": [
+    "Institute of Synthetic Biology - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metagenomics",
+        "Genomic Sequencing",
+        "Mutualistic Interaction",
+        "Cellulose-degrading Microbial Community",
+        "Cellulolytic Process"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00618"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6447707"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6447707?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-04-16"
+  ],
+  "firstIndexDate": [
+    "2019-04-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-15"
+  ],
+  "dateOfRevision": [
+    "2019-04-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-28"
+  ],
+  "firstPublicationDate": [
+    "2019-03-28"
+  ]
+}

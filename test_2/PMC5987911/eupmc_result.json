@@ -1,0 +1,320 @@
+{
+  "id": [
+    "29881253"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29881253"
+  ],
+  "pmcid": [
+    "PMC5987911"
+  ],
+  "doi": [
+    "10.1177/1176935118771701"
+  ],
+  "title": [
+    "Phenotype Classification Using Moment Features of Single-Cell Data."
+  ],
+  "authorString": [
+    "Sima C, Hua J, Bittner ML, Kim S, Dougherty ER."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sima C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Sima"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Center for Bioinformatics and Genomic Systems Engineering, Texas A&M Engineering Experiment Station, College Station, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hua J"
+          ],
+          "firstName": [
+            "Jianping"
+          ],
+          "lastName": [
+            "Hua"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Bioinformatics and Genomic Systems Engineering, Texas A&M Engineering Experiment Station, College Station, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bittner ML"
+          ],
+          "firstName": [
+            "Michael L"
+          ],
+          "lastName": [
+            "Bittner"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Computational Biology Division, Translational Genomics Research Institute, Phoenix, AZ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Seungchan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for Computational Systems Biology, Department of Electrical and Computer Engineering, Prairie View A&M University, Prairie View, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dougherty ER"
+          ],
+          "firstName": [
+            "Edward R"
+          ],
+          "lastName": [
+            "Dougherty"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2651513"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer informatics"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Inform"
+          ],
+          "medlineAbbreviation": [
+            "Cancer Inform"
+          ],
+          "NLMid": [
+            "101258149"
+          ],
+          "ISSN": [
+            "1176-9351"
+          ],
+          "ESSN": [
+            "1176-9351"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1176935118771701"
+  ],
+  "abstractText": [
+    "Features for standard expression microarray and RNA-Seq classification are expression averages over collections of cells. Single cell provides expression measurements for individual cells in a collection of cells from a particular tissue sample. Hence, it can yield feature vectors consisting of higher order and mixed moments. This article demonstrates the advantage of using these expression moments in cancer-related classification. We use synthetic data generated from 2 real networks, the mammalian cell cycle network and a melanoma-related pathway network, and real single-cell data generated via fluorescent protein reporters from 2 cell lines, HT-29 and HCT-116. The networks consist of hidden binary regulatory networks with Gaussian observations. The steady-state distributions of both the original and mutated networks are found, and data are drawn from these for moment-based classification using the mean, variance, skewness, and mixed moments. For the real data, we only observe 1 gene at a time, so that only the mean, variance, and skewness are considered, the analysis being done for 2 genes, EGFR and ERRB2. For the synthetic data, classification improves as we move from just the mean to mean, variance, and skewness and then to these plus the mixed moments. Comparisons are done with 3, 4, or 5 features, using feature selection. Sample size effects are considered. For the real data, we only consider mean, variance, and skewness, with results improving when the higher order moments are used as features."
+  ],
+  "affiliation": [
+    "Center for Bioinformatics and Genomic Systems Engineering, Texas A&M Engineering Experiment Station, College Station, TX, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Classification",
+        "Gene Regulatory Network",
+        "Single-cell Data",
+        "Moment Features"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5987911?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5987911"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1176935118771701"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-09"
+  ],
+  "firstIndexDate": [
+    "2018-06-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-06-11"
+  ],
+  "dateOfRevision": [
+    "2018-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-23"
+  ],
+  "firstPublicationDate": [
+    "2018-04-23"
+  ]
+}

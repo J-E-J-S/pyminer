@@ -1,0 +1,710 @@
+{
+  "id": [
+    "30024886"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30024886"
+  ],
+  "pmcid": [
+    "PMC6067744"
+  ],
+  "doi": [
+    "10.1371/journal.pcbi.1006279"
+  ],
+  "title": [
+    "Correction of copy number induced false positives in CRISPR screens."
+  ],
+  "authorString": [
+    "de Weck A, Golji J, Jones MD, Korn JM, Billy E, McDonald ER, Schmelzle T, Bitter H, Kauffmann A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Weck A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "de Weck"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0887-6771",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Golji J"
+          ],
+          "firstName": [
+            "Javad"
+          ],
+          "lastName": [
+            "Golji"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Cambridge, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones MD"
+          ],
+          "firstName": [
+            "Michael D"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Cambridge, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Korn JM"
+          ],
+          "firstName": [
+            "Joshua M"
+          ],
+          "lastName": [
+            "Korn"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Cambridge, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Billy E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Billy"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8859-0089",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "McDonald ER 3rd"
+          ],
+          "firstName": [
+            "E Robert"
+          ],
+          "lastName": [
+            "McDonald"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Cambridge, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmelzle T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Schmelzle"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitter H"
+          ],
+          "firstName": [
+            "Hans"
+          ],
+          "lastName": [
+            "Bitter"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Cambridge, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Kauffmann A"
+          ],
+          "firstName": [
+            "Audrey"
+          ],
+          "lastName": [
+            "Kauffmann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Novartis Institutes for Biomedical Research, Basel, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0887-6771",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8859-0089",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2701608"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS computational biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Comput. Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Comput Biol"
+          ],
+          "NLMid": [
+            "101238922"
+          ],
+          "ISSN": [
+            "1553-734X"
+          ],
+          "ESSN": [
+            "1553-7358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e1006279"
+  ],
+  "abstractText": [
+    "Cell autonomous cancer dependencies are now routinely identified using CRISPR loss-of-function viability screens. However, a bias exists that makes it difficult to assess the true essentiality of genes located in amplicons, since the entire amplified region can exhibit lethal scores. These false-positive hits can either be discarded from further analysis, which in cancer models can represent a significant number of hits, or methods can be developed to rescue the true-positives within amplified regions. We propose two methods to rescue true positive hits in amplified regions by correcting for this copy number artefact. The Local Drop Out (LDO) method uses the relative lethality scores within genomic regions to assess true essentiality and does not require additional orthogonal data (e.g. copy number value). LDO is meant to be used in screens covering a dense region of the genome (e.g. a whole chromosome or the whole genome). The General Additive Model (GAM) method models the screening data as a function of the known copy number values and removes the systematic effect from the measured lethality. GAM does not require the same density as LDO, but does require prior knowledge of the copy number values. Both methods have been developed with single sample experiments in mind so that the correction can be applied even in smaller screens. Here we demonstrate the efficacy of both methods at removing the copy number effect and rescuing hits from some of the amplified regions. We estimate a 70-80% decrease of false positive hits with either method in regions of high copy number compared to no correction."
+  ],
+  "affiliation": [
+    "Novartis Institutes for Biomedical Research, Basel, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Astrocytoma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stomach Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "False Positive Reactions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Artifacts"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Copy Number Variations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Datasets as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pcbi.1006279"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6067744"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6067744?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR27829"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-14"
+  ],
+  "dateOfCreation": [
+    "2018-07-20"
+  ],
+  "firstIndexDate": [
+    "2018-07-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-14"
+  ],
+  "dateOfRevision": [
+    "2019-01-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-19"
+  ],
+  "firstPublicationDate": [
+    "2018-07-19"
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": [
+    "30853940"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30853940"
+  ],
+  "pmcid": [
+    "PMC6396717"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.00087"
+  ],
+  "title": [
+    "Gene Editing and Systems Biology Tools for Pesticide Bioremediation: A Review."
+  ],
+  "authorString": [
+    "Jaiswal S, Singh DK, Shukla P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jaiswal S"
+          ],
+          "firstName": [
+            "Shweta"
+          ],
+          "lastName": [
+            "Jaiswal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh DK"
+          ],
+          "firstName": [
+            "Dileep Kumar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "affiliation": [
+            "Soil Microbial Ecology and Environmental Toxicology Laboratory, Department of Zoology, University of Delhi, New Delhi, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Shukla P"
+          ],
+          "firstName": [
+            "Pratyoosh"
+          ],
+          "lastName": [
+            "Shukla"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "87"
+  ],
+  "abstractText": [
+    "Bioremediation is the degradation potential of microorganisms to dissimilate the complex chemical compounds from the surrounding environment. The genetics and biochemistry of biodegradation processes in datasets opened the way of systems biology. Systemic biology aid the study of interacting parts involved in the system. The significant keys of system biology are biodegradation network, computational biology, and omics approaches. Biodegradation network consists of all the databases and datasets which aid in assisting the degradation and deterioration potential of microorganisms for bioremediation processes. This review deciphers the bio-degradation network, i.e., the databases and datasets (UM-BBD, PAN, PTID, etc.) aiding in assisting the degradation and deterioration potential of microorganisms for bioremediation processes, computational biology and multi omics approaches like metagenomics, genomics, transcriptomics, proteomics, and metabolomics for the efficient functional gene mining and their validation for bioremediation experiments. Besides, the present review also describes the gene editing tools like CRISPR Cas, TALEN, and ZFNs which can possibly make design microbe with functional gene of interest for degradation of particular recalcitrant for improved bioremediation."
+  ],
+  "affiliation": [
+    "Enzyme Technology and Protein Bioinformatics Laboratory, Department of Microbiology, Maharshi Dayanand University, Rohtak, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolic network",
+        "Bioremediation",
+        "Xenobiotics",
+        "Pollutant",
+        "systems biology",
+        "Metabolomics",
+        "Gene Editing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6396717?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6396717"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.00087"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-12"
+  ],
+  "firstIndexDate": [
+    "2019-03-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-13"
+  ],
+  "firstPublicationDate": [
+    "2019-02-13"
+  ]
+}

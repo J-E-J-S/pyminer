@@ -1,0 +1,482 @@
+{
+  "id": [
+    "31719620"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31719620"
+  ],
+  "pmcid": [
+    "PMC6851390"
+  ],
+  "doi": [
+    "10.1038/s41598-019-53052-1"
+  ],
+  "title": [
+    "Products of Chemoenzymatic Synthesis Representing MUC1 Tandem Repeat Unit with T-, ST- or STn-antigen Revealed Distinct Specificities of Anti-MUC1 Antibodies."
+  ],
+  "authorString": [
+    "Yoshimura Y, Denda-Nagai K, Takahashi Y, Nagashima I, Shimizu H, Kishimoto T, Noji M, Shichino S, Chiba Y, Irimura T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yoshimura Y"
+          ],
+          "firstName": [
+            "Yayoi"
+          ],
+          "lastName": [
+            "Yoshimura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Japan Bioindustry Association, 2-26-9 Hatchobori, Chuo-ku, Tokyo, 104-0032, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Denda-Nagai K"
+          ],
+          "firstName": [
+            "Kaori"
+          ],
+          "lastName": [
+            "Denda-Nagai"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Division of Glycobiologics, Intractable Disease Research Center, Graduate School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 113-8421, Japan. k-denda@juntendo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Takahashi Y"
+          ],
+          "firstName": [
+            "Yoshie"
+          ],
+          "lastName": [
+            "Takahashi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Biotechnology Research Institute for Drug Discovery, Department of Life Science and Biotechnology, Advanced Industrial Science and Technology (AIST), 1-1-1 Umezono, Tsukuba, Ibaraki, 305-8568, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nagashima I"
+          ],
+          "firstName": [
+            "Izuru"
+          ],
+          "lastName": [
+            "Nagashima"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Bioproduction Research Institute, Department of Life Science and Biotechnology, Advanced Industrial Science and Technology (AIST), 1-1-1 Higashi, Tsukuba, Ibaraki, 305-8568, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shimizu H"
+          ],
+          "firstName": [
+            "Hiroki"
+          ],
+          "lastName": [
+            "Shimizu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Bioproduction Research Institute, Department of Life Science and Biotechnology, Advanced Industrial Science and Technology (AIST), 1-1-1 Higashi, Tsukuba, Ibaraki, 305-8568, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kishimoto T"
+          ],
+          "firstName": [
+            "Toshimitsu"
+          ],
+          "lastName": [
+            "Kishimoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Japan Bioindustry Association, 2-26-9 Hatchobori, Chuo-ku, Tokyo, 104-0032, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Noji M"
+          ],
+          "firstName": [
+            "Miki"
+          ],
+          "lastName": [
+            "Noji"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Glycobiologics, Intractable Disease Research Center, Graduate School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 113-8421, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shichino S"
+          ],
+          "firstName": [
+            "Shigeyuki"
+          ],
+          "lastName": [
+            "Shichino"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Molecular Regulation of Inflammatory and Immune Diseases, Research Institute of Biomedical Sciences, Tokyo University of Science, 2641 Yamasaki, Noda, Chiba, 278-0022, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiba Y"
+          ],
+          "firstName": [
+            "Yasunori"
+          ],
+          "lastName": [
+            "Chiba"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6401-5071",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biotechnology Research Institute for Drug Discovery, Department of Life Science and Biotechnology, Advanced Industrial Science and Technology (AIST), 1-1-1 Umezono, Tsukuba, Ibaraki, 305-8568, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Irimura T"
+          ],
+          "firstName": [
+            "Tatsuro"
+          ],
+          "lastName": [
+            "Irimura"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Glycobiologics, Intractable Disease Research Center, Graduate School of Medicine, Juntendo University, 2-1-1 Hongo, Bunkyo-ku, Tokyo, 113-8421, Japan. t-irimura@juntendo.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6401-5071",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2875678"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16641"
+  ],
+  "abstractText": [
+    "Anti-mucin1 (MUC1) antibodies have long been used clinically in cancer diagnosis and therapy and specific bindings of some of them are known to be dependent on the differential glycosylation of MUC1. However, a systematic comparison of the binding specificities of anti-MUC1 antibodies was not previously conducted. Here, a total of 20 glycopeptides including the tandem repeat unit of MUC1, APPAHGVTSAPDTRPAPGSTAPPAHGV with GalNAc (Tn-antigen), Galβ1-3GalNAc (T-antigen), NeuAcα2-3Galβ1-3GalNAc (sialyl-T-antigen), or NeuAcα2-6GalNAc (sialyl-Tn-antigen) at each threonine or serine residue were prepared by a combination of chemical glycopeptide synthesis and enzymatic extension of carbohydrate chains. These glycopeptides were tested by the enzyme-linked immunosorbent assay (ELISA) for their capacity to bind 13 monoclonal antibodies (mAbs) known to be specific for MUC1. The results indicated that anti-MUC1 mAbs have diverse specificities but can be classified into a few characteristic groups based on their binding pattern toward glycopeptides in some cases having a specific glycan at unique glycosylation sites. Because the clinical significance of some of these antibodies was already established, the structural features identified by these antibodies as revealed in the present study should provide useful information relevant to their further clinical use and the biological understanding of MUC1."
+  ],
+  "affiliation": [
+    "Japan Bioindustry Association, 2-26-9 Hatchobori, Chuo-ku, Tokyo, 104-0032, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JP19ae0101027"
+          ],
+          "agency": [
+            "Japan Agency for Medical Research and Development (AMED)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP19ae0101026"
+          ],
+          "agency": [
+            "Japan Agency for Medical Research and Development (AMED)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Core to Core program entitled International Core Research Center for Phototheranostics."
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KAKENHI numbers 21390018, 25293011, 26670023"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-53052-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6851390"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6851390?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-12"
+  ]
+}

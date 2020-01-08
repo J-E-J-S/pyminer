@@ -1,0 +1,636 @@
+{
+  "id": [
+    "30691531"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30691531"
+  ],
+  "pmcid": [
+    "PMC6348691"
+  ],
+  "doi": [
+    "10.1186/s12934-019-1055-7"
+  ],
+  "title": [
+    "Rational construction of genome-reduced and high-efficient industrial Streptomyces chassis based on multiple comparative genomic approaches."
+  ],
+  "authorString": [
+    "Bu QT, Yu P, Wang J, Li ZY, Chen XA, Mao XM, Li YQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bu QT"
+          ],
+          "firstName": [
+            "Qing-Ting"
+          ],
+          "lastName": [
+            "Bu"
+          ],
+          "initials": [
+            "QT"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu P"
+          ],
+          "firstName": [
+            "Pin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jue"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li ZY"
+          ],
+          "firstName": [
+            "Zi-Yue"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen XA"
+          ],
+          "firstName": [
+            "Xin-Ai"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "XA"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Mao XM"
+          ],
+          "firstName": [
+            "Xu-Ming"
+          ],
+          "lastName": [
+            "Mao"
+          ],
+          "initials": [
+            "XM"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China. xmmao@zju.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Li YQ"
+          ],
+          "firstName": [
+            "Yong-Quan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "YQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6013-4068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China. lyq@zju.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6013-4068",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2767056"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbial cell factories"
+          ],
+          "ISOAbbreviation": [
+            "Microb. Cell Fact."
+          ],
+          "medlineAbbreviation": [
+            "Microb Cell Fact"
+          ],
+          "NLMid": [
+            "101139812"
+          ],
+          "ISSN": [
+            "1475-2859"
+          ],
+          "ESSN": [
+            "1475-2859"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16"
+  ],
+  "abstractText": [
+    "BACKGROUND:Streptomyces chattanoogensis L10 is the industrial producer of natamycin and has been proved a highly efficient host for diverse natural products. It has an enormous potential to be developed as a versatile cell factory for production of heterologous secondary metabolites. Here we developed a genome-reduced industrial Streptomyces chassis by rational 'design-build-test' pipeline. RESULTS:To identify candidate large non-essential genomic regions accurately and design large deletion rationally, we performed genome analyses of S. chattanoogensis L10 by multiple computational approaches, optimized Cre/loxP recombination system for high-efficient large deletion and constructed a series of universal suicide plasmids for rapid loxP or loxP mutant sites inserting into genome. Subsequently, two genome-streamlined mutants, designated S. chattanoogensis L320 and L321, were rationally constructed by depletion of 1.3 Mb and 0.7 Mb non-essential genomic regions, respectively. Furthermore, several biological performances like growth cycle, secondary metabolite profile, hyphae morphological engineering, intracellular energy (ATP) and reducing power (NADPH/NADP+) levels, transformation efficiency, genetic stability, productivity of heterologous proteins and secondary metabolite were systematically evaluated. Finally, our results revealed that L321 could serve as an efficient chassis for the production of polyketides. CONCLUSIONS:Here we developed the combined strategy of multiple computational approaches and site-specific recombination system to rationally construct genome-reduced Streptomyces hosts with high efficiency. Moreover, a genome-reduced industrial Streptomyces chassis S. chattanoogensis L321 was rationally constructed by the strategy, and the chassis exhibited several emergent and excellent performances for heterologous expression of secondary metabolite. The strategy could be widely applied in other Streptomyces to generate miscellaneous and versatile chassis with minimized genome. These chassis can not only serve as cell factories for high-efficient production of valuable polyketides, but also will provide great support for the upgrade of microbial pharmaceutical industry and drug discovery."
+  ],
+  "affiliation": [
+    "Institute of Pharmaceutical Biotechnology & First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, 310058, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31520103901"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "3173002"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016YFD0400805"
+          ],
+          "agency": [
+            "National Key Research and Development Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Streptomyces"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Natamycin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biological Products"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Culture Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Industrial Microbiology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Bacterial"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multigene Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Secondary Metabolism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microorganisms, Genetically-Modified"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Secondary metabolites",
+        "Cell Factory",
+        "Computational Approaches",
+        "Streptomyces Chattanoogensis",
+        "Biological Performances",
+        "Cre/loxp Recombination System",
+        "Genome-reduced Chassis"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biological Products"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Natamycin"
+          ],
+          "registryNumber": [
+            "8O0C852CPO"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12934-019-1055-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6348691"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6348691?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-22"
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "firstIndexDate": [
+    "2019-01-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-16"
+  ],
+  "dateOfRevision": [
+    "2019-04-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-28"
+  ],
+  "firstPublicationDate": [
+    "2019-01-28"
+  ]
+}

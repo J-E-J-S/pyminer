@@ -1,0 +1,357 @@
+{
+  "id": [
+    "31316491"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316491"
+  ],
+  "pmcid": [
+    "PMC6610294"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.01472"
+  ],
+  "title": [
+    "Biotechnological Production of the Cell Penetrating Antifungal PAF102 Peptide in Pichia pastoris."
+  ],
+  "authorString": [
+    "Popa C, Shi X, Ruiz T, Ferrer P, Coca M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Popa C"
+          ],
+          "firstName": [
+            "Crina"
+          ],
+          "lastName": [
+            "Popa"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre for Research in Agricultural Genomics (CSIC-IRTA-UAB-UB), Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi X"
+          ],
+          "firstName": [
+            "Xiaoqing"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Centre for Research in Agricultural Genomics (CSIC-IRTA-UAB-UB), Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruiz T"
+          ],
+          "firstName": [
+            "Tarik"
+          ],
+          "lastName": [
+            "Ruiz"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3935-8731",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Research in Agricultural Genomics (CSIC-IRTA-UAB-UB), Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrer P"
+          ],
+          "firstName": [
+            "Pau"
+          ],
+          "lastName": [
+            "Ferrer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Chemical, Biological and Environmental Engineering, Universitat Autònoma de Barcelona, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Coca M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Coca"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5578-3175",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Research in Agricultural Genomics (CSIC-IRTA-UAB-UB), Barcelona, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5578-3175",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3935-8731",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1472"
+  ],
+  "abstractText": [
+    "Antimicrobial peptides (AMPs) have potent and durable antimicrobial activity to a wide range of fungi and bacteria. The growing problem of drug-resistant pathogenic microorganisms, together with the lack of new effective compounds, has stimulated interest in developing AMPs as anti-infective molecules. PAF102 is an AMP that was rationally designed for improved antifungal properties. This cell penetrating peptide has potent and specific activity against major fungal pathogens. Cecropin A is a natural AMP with strong and fast lytic activity against bacterial and fungal pathogens, including multidrug resistant pathogens. Both peptides, PAF102 and Cecropin A, are alternative antibiotic compounds. However, their exploitation requires fast, cost-efficient production systems. Here, we developed an innovative system to produce AMPs in Pichia pastoris using the oleosin fusion technology. Oleosins are plant-specific proteins with a structural role in lipid droplet formation and stabilization, which are used as carriers for recombinant proteins to lipid droplets in plant-based production systems. This study reports the efficient production of PAF102 in P. pastoris when fused to the rice plant Oleosin 18, whereas no accumulation of Cecropin A was detected. The Ole18-PAF102 fusion protein targets the lipid droplets of the heterologous system where it accumulates to high levels. Interestingly, the production of this fusion protein induces the formation of lipid droplets in yeast cells, which can be additionally enhanced by the coexpression of a diacylglycerol transferase gene that allows a three-fold increase in the production of the fusion protein. Using this high producer strain, PAF102 reaches commercially relevant yields of up to 180 mg/l of yeast culture. Moreover, the accumulation of PAF102 in the yeast lipid droplets facilitates its downstream extraction and recovery by flotation on density gradients, with the recovered PAF102 being biologically active against pathogenic fungi. Our results demonstrate that plant oleosin fusion technology can be transferred to the well-established P. pastoris cell factory to produce the PAF102 antifungal peptide, and potentially other AMPs, for multiple applications in crop protection, food preservation and animal and human therapies."
+  ],
+  "affiliation": [
+    "Centre for Research in Agricultural Genomics (CSIC-IRTA-UAB-UB), Barcelona, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pichia pastoris",
+        "antifungal peptides",
+        "lipid droplets",
+        "Plant oleosin",
+        "Antimicrobial peptides",
+        "Cecropin A",
+        "Paf Peptides"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.01472"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610294"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610294?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-27"
+  ],
+  "firstPublicationDate": [
+    "2019-06-27"
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": [
+    "31217001"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31217001"
+  ],
+  "pmcid": [
+    "PMC6584496"
+  ],
+  "doi": [
+    "10.1186/s12859-019-2830-5"
+  ],
+  "title": [
+    "Selected research articles from the 2018 International Workshop on Computational Network Biology: Modeling, Analysis, and Control (CNB-MAC)."
+  ],
+  "authorString": [
+    "Yoon BJ, Qian X, Kahveci T, Pal R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yoon BJ"
+          ],
+          "firstName": [
+            "Byung-Jun"
+          ],
+          "lastName": [
+            "Yoon"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, 77843-3128, USA. bjyoon@ece.tamu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Qian X"
+          ],
+          "firstName": [
+            "Xiaoning"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, 77843-3128, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kahveci T"
+          ],
+          "firstName": [
+            "Tamer"
+          ],
+          "lastName": [
+            "Kahveci"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL, 32611-6125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pal R"
+          ],
+          "firstName": [
+            "Ranadip"
+          ],
+          "lastName": [
+            "Pal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, Texas Tech University, Lubbock, TX, 79409-3102, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 12"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2829756"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "316"
+  ],
+  "affiliation": [
+    "Department of Electrical and Computer Engineering, Texas A&M University, College Station, TX, 77843-3128, USA. bjyoon@ece.tamu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584496?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584496"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-019-2830-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-08-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

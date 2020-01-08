@@ -1,0 +1,291 @@
+{
+  "id": [
+    "30364340"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30364340"
+  ],
+  "pmcid": [
+    "PMC6193071"
+  ],
+  "doi": [
+    "10.3389/fbioe.2018.00135"
+  ],
+  "title": [
+    "The Promoter Toolbox for Recombinant Gene Expression in Trichoderma reesei."
+  ],
+  "authorString": [
+    "Fitz E, Wanka F, Seiboth B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fitz E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Fitz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Research Division Biochemical Technology, Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wanka F"
+          ],
+          "firstName": [
+            "Franziska"
+          ],
+          "lastName": [
+            "Wanka"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Austrian Centre of Industrial Biotechnology (ACIB) GmbH, Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Seiboth B"
+          ],
+          "firstName": [
+            "Bernhard"
+          ],
+          "lastName": [
+            "Seiboth"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Research Division Biochemical Technology, Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Vienna, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2647853"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "135"
+  ],
+  "abstractText": [
+    "The ascomycete Trichoderma reesei is one of the main fungal producers of cellulases and xylanases based on its high production capacity. Its enzymes are applied in food, feed, and textile industry or in lignocellulose hydrolysis in biofuel and biorefinery industry. Over the last years, the demand to expand the molecular toolbox for T. reesei to facilitate genetic engineering and improve the production of heterologous proteins grew. An important instrument to modify the expression of key genes are promoters to initiate and control their transcription. To date, the most commonly used promoter for T. reesei is the strong inducible promoter of the main cellobiohydrolase cel7a. Beside this one, there is a number of alternative inducible promoters derived from other cellulase- and xylanase encoding genes and a few constitutive promoters. With the advances in genomics and transcriptomics the identification of new constitutive and tunable promoters with different expression strength was simplified. In this review, we will discuss new developments in the field of promoters and compare their advantages and disadvantages. Synthetic expression systems constitute a new option to control gene expression and build up complex gene circuits. Therefore, we will address common structural features of promoters and describe options for promoter engineering and synthetic design of promoters. The availability of well-characterized gene expression control tools is essential for the analysis of gene function, detection of bottlenecks in gene networks and yield increase for biotechnology applications."
+  ],
+  "affiliation": [
+    "Research Division Biochemical Technology, Institute of Chemical, Environmental and Bioscience Engineering, TU Wien, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cellulase",
+        "Trichoderma reesei",
+        "Inducible promoter",
+        "Synthetic Biology",
+        "Recombinant Protein Production",
+        "Strain Engineering",
+        "Promoter Engineering",
+        "Constitutive Promoter"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6193071?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6193071"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2018.00135"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-27"
+  ],
+  "firstIndexDate": [
+    "2018-10-27"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-30"
+  ],
+  "dateOfRevision": [
+    "2018-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-11"
+  ],
+  "firstPublicationDate": [
+    "2018-10-11"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "id": [
+    "30555825"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30555825"
+  ],
+  "pmcid": [
+    "PMC6281764"
+  ],
+  "doi": [
+    "10.3389/fbioe.2018.00182"
+  ],
+  "title": [
+    "Models for Cell-Free Synthetic Biology: Make Prototyping Easier, Better, and Faster."
+  ],
+  "authorString": [
+    "Koch M, Faulon JL, Borkowski O."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koch M"
+          ],
+          "firstName": [
+            "Mathilde"
+          ],
+          "lastName": [
+            "Koch"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8924-3513",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, University of Paris-Saclay, Jouy-en-Josas, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Faulon JL"
+          ],
+          "firstName": [
+            "Jean-Loup"
+          ],
+          "lastName": [
+            "Faulon"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, University of Paris-Saclay, Jouy-en-Josas, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Borkowski O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Borkowski"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Micalis Institute, INRA, AgroParisTech, University of Paris-Saclay, Jouy-en-Josas, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8924-3513",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2647853"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "182"
+  ],
+  "abstractText": [
+    "Cell-free TX-TL is an increasingly mature and useful platform for prototyping, testing, and engineering biological parts and systems. However, to fully accomplish the promises of synthetic biology, mathematical models are required to facilitate the design and predict the behavior of biological components in cell-free extracts. We review here the latest models accounting for transcription, translation, competition, and depletion of resources as well as genome scale models for lysate-based cell-free TX-TL systems, including their current limitations. These models will have to find ways to account for batch-to-batch variability before being quantitatively predictive in cell-free lysate-based platforms."
+  ],
+  "affiliation": [
+    "Micalis Institute, INRA, AgroParisTech, University of Paris-Saclay, Jouy-en-Josas, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/M017702/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metabolism",
+        "Transcription",
+        "Translation",
+        "mathematical model",
+        "Prototyping",
+        "Resource Competition",
+        "Cell-free"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6281764?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6281764"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2018.00182"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-18"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-18"
+  ],
+  "dateOfRevision": [
+    "2018-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-29"
+  ],
+  "firstPublicationDate": [
+    "2018-11-29"
+  ]
+}

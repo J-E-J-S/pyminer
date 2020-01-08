@@ -1,0 +1,371 @@
+{
+  "id": [
+    "30099657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30099657"
+  ],
+  "pmcid": [
+    "PMC6087506"
+  ],
+  "doi": [
+    "10.1186/s40504-018-0086-x"
+  ],
+  "title": [
+    "Evolutionary tinkering vs. rational engineering in the times of synthetic biology."
+  ],
+  "authorString": [
+    "de Lorenzo V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Lorenzo V"
+          ],
+          "firstName": [
+            "Víctor"
+          ],
+          "lastName": [
+            "de Lorenzo"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6041-2731",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centro Nacional de Biotecnología-CSIC, Campus de Cantoblanco, 28049, Madrid, Spain. vdlorenzo@cnb.csic.es."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6041-2731",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2711325"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Life sciences, society and policy"
+          ],
+          "ISOAbbreviation": [
+            "Life Sci Soc Policy"
+          ],
+          "medlineAbbreviation": [
+            "Life Sci Soc Policy"
+          ],
+          "NLMid": [
+            "101603561"
+          ],
+          "ISSN": [
+            "2195-7819"
+          ],
+          "ESSN": [
+            "2195-7819"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "Synthetic biology is not only a contemporary reformulation of the recombinant DNA technologies of the last 30 years, combined with descriptive language imported from electrical and industrial engineering. It is also a new way to interpret living systems and a statement of intent for the use and reprogramming of biological objects for human benefit. In this context, the notion of designer biology is often presented as opposed to natural selection following the powerful rationale formulated by François Jacob on evolution-as-tinkering. The onset of synthetic biology opens a different perspective by leaving aside the question about the evolutionary origin of biological phenomena and focusing instead on the relational logic and the material properties of the corresponding components that make biological system work as they do. Once a functional challenge arises, the solution space for the problem is not homogeneous but it has attractors that can be accessed either through random exploration (as evolution does) or rational design (as engineers do). Although these two paths (i.e. evolution and engineering) are essentially different, they can lead to solutions to specific mechanistic bottlenecks that frequently coincide or converge-and one can easily help to understand and improve the other. Alas, productive discussions on these matters are often contaminated by ideological preconceptions that prevent adoption of the engineering metaphor to understand and ultimately reshape living systems-as ambitioned by synthetic biology. Yet, some possible ways to overcome the impasse are feasible. In parallel to Monod's evolutionary paradox of teleo-logy (finality/purpose) vs. teleo-nomy (appearance of finality/purpose), a mechanistic paradox could be entertained between techno-logy (rational engineering) vs techno-nomy (appearance of rational engineering), all for the sake of understanding the relational logic that enables live systems to function as physico-chemical entities in time and space. This article thus proposes a radical vision of synthetic biology through the lens of the engineering metaphor."
+  ],
+  "affiliation": [
+    "Centro Nacional de Biotecnología-CSIC, Campus de Cantoblanco, 28049, Madrid, Spain. vdlorenzo@cnb.csic.es."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "6335536"
+          ],
+          "agency": [
+            "Horizon 2020 Framework Programme"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "322797"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Terminology as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biological Evolution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Synthetic Biology"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetic engineering",
+        "Systems",
+        "Teleology",
+        "Teleonomy",
+        "Devices",
+        "Synthetic Biology",
+        "Modules",
+        "Parts",
+        "Minimum Systems"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6087506?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6087506"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40504-018-0086-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-02"
+  ],
+  "dateOfCreation": [
+    "2018-08-13"
+  ],
+  "firstIndexDate": [
+    "2018-08-13"
+  ],
+  "fullTextReceivedDate": [
+    "2018-08-27"
+  ],
+  "dateOfRevision": [
+    "2019-01-02"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-12"
+  ],
+  "firstPublicationDate": [
+    "2018-08-12"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": [
+    "31839693"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31839693"
+  ],
+  "pmcid": [
+    "PMC6884433"
+  ],
+  "doi": [
+    "10.1007/s00049-019-00288-y"
+  ],
+  "title": [
+    "The scent gland chemistry of neogoveid cyphophthalmids (Opiliones): an unusual methyljuglone from Metasiro savannahensis."
+  ],
+  "authorString": [
+    "Raspotnig G, Anderl F, Clouse RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Raspotnig G"
+          ],
+          "firstName": [
+            "Günther"
+          ],
+          "lastName": [
+            "Raspotnig"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "1Institute of Biology, University of Graz, Universitätsplatz 2, 8010 Graz, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Anderl F"
+          ],
+          "firstName": [
+            "Felix"
+          ],
+          "lastName": [
+            "Anderl"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "1Institute of Biology, University of Graz, Universitätsplatz 2, 8010 Graz, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Clouse RM"
+          ],
+          "firstName": [
+            "Ronald M"
+          ],
+          "lastName": [
+            "Clouse"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "2Department of Bioinformatics and Genomics, University of North Carolina at Charlotte, University City Blvd., 9201, Charlotte, NC 28223 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "29"
+      ],
+      "journalIssueId": [
+        "2892527"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chemoecology"
+          ],
+          "ISOAbbreviation": [
+            "Chemoecology"
+          ],
+          "medlineAbbreviation": [
+            "Chemoecology"
+          ],
+          "NLMid": [
+            "9426172"
+          ],
+          "ISSN": [
+            "0937-7409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "189-197"
+  ],
+  "abstractText": [
+    "While the chemistries of scent gland secretions from a few selected species of three families of Cyphophthalmi, namely Sironidae, Pettalidae, and Stylocellidae, have already been reported and found to consist of complex blends of naphthoquinones and methyl ketones, nothing is known about the other families. We here report on the secretions of Metasiro savannahensis Clouse and Wheeler (Zootaxa 3814:177-201, 2014), a first representative of the family Neogoveidae. The secretions from males, females and one juvenile were extracted and analyzed by gas chromatography-mass spectrometry. Twenty-five compounds were identified, all of which belong to the chemical classes of naphthoquinones and methyl ketones, confirming a hypothesized chemical uniformity of cyphophthalmid exudates. One major naphthoquinone compound, however, was new for cyphophthalmids and for arthropod exocrine secretions in general: a methyljuglone isomer, 6-methyljuglone (= 6-MJ; iupac name: 5-hydroxy-6-methyl-1,4-naphthoquinone), amounted for about 20% of the secretion and was eventually identified by synthesis. Hydroxy-naphthoquinones and their derivatives are known to possess a variety of antibiotic effects, probably enhancing the antimicrobial/antifungal potential of the Metasiro-secretion. Currently, without further data on neogoveids, the compound represents a chemical autapomorphy of M. savannahensis, and-just as the strange chloro-naphthoquinones of Sironidae and Pettalidae-adds to the repertoire of unusual naphthoquinone compounds across the Cyphophthalmi."
+  ],
+  "affiliation": [
+    "1Institute of Biology, University of Graz, Universitätsplatz 2, 8010 Graz, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antibiotic",
+        "Chemosystematics",
+        "Cyphophthalmi",
+        "Hydroxymethylnaphthoquinone",
+        "Scent Gland Secretion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00049-019-00288-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884433"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6884433?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-17"
+  ],
+  "firstIndexDate": [
+    "2019-12-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-26"
+  ],
+  "firstPublicationDate": [
+    "2019-09-26"
+  ]
+}

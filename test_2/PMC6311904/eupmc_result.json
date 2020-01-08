@@ -1,0 +1,465 @@
+{
+  "id": [
+    "30598110"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30598110"
+  ],
+  "pmcid": [
+    "PMC6311904"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5272-y"
+  ],
+  "title": [
+    "Mining statistically-solid k-mers for accurate NGS error correction."
+  ],
+  "authorString": [
+    "Zhao L, Xie J, Bai L, Chen W, Wang M, Zhang Z, Wang Y, Zhao Z, Li J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China. s080011@e.ntu.edu.sg."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie J"
+          ],
+          "firstName": [
+            "Jin"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Computing and Electronic Information, Guangxi University, Nanning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Wen"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Mingju"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhonglei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yiqi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Z"
+          ],
+          "firstName": [
+            "Zhe"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Computing and Electronic Information, Guangxi University, Nanning, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jinyan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1833-7413",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Advanced Analytics Institute, Faculty of Engineering & IT, University of Technology Sydney, NSW 2007, Australia. jinyan.li@uts.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1833-7413",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 10"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2764941"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "912"
+  ],
+  "abstractText": [
+    "BACKGROUND:NGS data contains many machine-induced errors. The most advanced methods for the error correction heavily depend on the selection of solid k-mers. A solid k-mer is a k-mer frequently occurring in NGS reads. The other k-mers are called weak k-mers. A solid k-mer does not likely contain errors, while a weak k-mer most likely contains errors. An intensively investigated problem is to find a good frequency cutoff f0 to balance the numbers of solid and weak k-mers. Once the cutoff is determined, a more challenging but less-studied problem is to: (i) remove a small subset of solid k-mers that are likely to contain errors, and (ii) add a small subset of weak k-mers, that are likely to contain no errors, into the remaining set of solid k-mers. Identification of these two subsets of k-mers can improve the correction performance. RESULTS:We propose to use a Gamma distribution to model the frequencies of erroneous k-mers and a mixture of Gaussian distributions to model correct k-mers, and combine them to determine f0. To identify the two special subsets of k-mers, we use the z-score of k-mers which measures the number of standard deviations a k-mer's frequency is from the mean. Then these statistically-solid k-mers are used to construct a Bloom filter for error correction. Our method is markedly superior to the state-of-art methods, tested on both real and synthetic NGS data sets. CONCLUSION:The z-score is adequate to distinguish solid k-mers from weak k-mers, particularly useful for pinpointing out solid k-mers having very low frequency. Applying z-score on k-mer can markedly improve the error correction accuracy."
+  ],
+  "affiliation": [
+    "Precision Medicine Research Center, Taihe Hospital, Hubei University of Medicine, Shiyan, China. s080011@e.ntu.edu.sg."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Data Mining"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Error correction",
+        "Next-generation Sequencing",
+        "Z-score"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311904?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311904"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5272-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-08"
+  ],
+  "dateOfCreation": [
+    "2019-01-02"
+  ],
+  "firstIndexDate": [
+    "2019-01-02"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-11"
+  ],
+  "dateOfRevision": [
+    "2019-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-31"
+  ],
+  "firstPublicationDate": [
+    "2018-12-31"
+  ]
+}

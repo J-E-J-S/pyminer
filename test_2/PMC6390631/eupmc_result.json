@@ -1,0 +1,551 @@
+{
+  "id": [
+    "30808306"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30808306"
+  ],
+  "pmcid": [
+    "PMC6390631"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5543-2"
+  ],
+  "title": [
+    "Enrichment post-library preparation enhances the sensitivity of high-throughput sequencing-based detection and characterization of viruses from complex samples."
+  ],
+  "authorString": [
+    "Paskey AC, Frey KG, Schroth G, Gross S, Hamilton T, Bishop-Lilly KA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Paskey AC"
+          ],
+          "firstName": [
+            "Adrian C"
+          ],
+          "lastName": [
+            "Paskey"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Genomics and Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center - Frederick, Fort Detrick, Frederick, MD, 21702, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Frey KG"
+          ],
+          "firstName": [
+            "Kenneth G"
+          ],
+          "lastName": [
+            "Frey"
+          ],
+          "initials": [
+            "KG"
+          ],
+          "affiliation": [
+            "Genomics and Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center - Frederick, Fort Detrick, Frederick, MD, 21702, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schroth G"
+          ],
+          "firstName": [
+            "Gary"
+          ],
+          "lastName": [
+            "Schroth"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Illumina Inc., San Diego, CA, 92122, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gross S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0711-787X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Illumina Inc., San Diego, CA, 92122, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamilton T"
+          ],
+          "firstName": [
+            "Theron"
+          ],
+          "lastName": [
+            "Hamilton"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Genomics and Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center - Frederick, Fort Detrick, Frederick, MD, 21702, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bishop-Lilly KA"
+          ],
+          "firstName": [
+            "Kimberly A"
+          ],
+          "lastName": [
+            "Bishop-Lilly"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Genomics and Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center - Frederick, Fort Detrick, Frederick, MD, 21702, USA. Kimberly.a.bishop-lilly.civ@mail.mil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0711-787X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2776824"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "155"
+  ],
+  "abstractText": [
+    "BACKGROUND:Sequencing-based detection and characterization of viruses in complex samples can suffer from lack of sensitivity due to a variety of factors including, but not limited to, low titer, small genome size, and contribution of host or environmental nucleic acids. Hybridization-based target enrichment is one potential method for increasing the sensitivity of viral detection via high-throughput sequencing. RESULTS:This study expands upon two previously developed panels of virus enrichment probes (for filoviruses and for respiratory viruses) to include other viruses of biodefense and/or biosurveillance concern to the U.S. Department of Defense and various international public health agencies. The newly expanded and combined panel is tested using carefully constructed synthetic metagenomic samples that contain clinically relevant amounts of viral genetic material. Target enrichment results in a dramatic increase in sensitivity for virus detection as compared to shotgun sequencing, yielding full, deeply covered viral genomes from materials with Ct values suggesting that amplicon sequencing would be likely to fail. Increased pooling to improve cost- and time-effectiveness does not negatively affect the ability to obtain full-length viral genomes, even in the case of co-infections, although as expected, it does decrease depth of coverage. CONCLUSIONS:Hybridization-based target enrichment is an effective solution to obtain full-length viral genomes for samples from which virus detection would fail via unbiased, shotgun sequencing or even via amplicon sequencing. As the development and testing of probe sets for viral target enrichment expands and continues, the application of this technique, in conjunction with deeper pooling strategies, could make high-throughput sequencing more economical for routine use in biosurveillance, biodefense and outbreak investigations."
+  ],
+  "affiliation": [
+    "Genomics and Bioinformatics Department, Biological Defense Research Directorate, Naval Medical Research Center - Frederick, Fort Detrick, Frederick, MD, 21702, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "N/A"
+          ],
+          "agency": [
+            "US. Navy, Office of Naval Research, In-House Laboratory Independent Research (ILIR) Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Viruses"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dengue Virus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sensitivity and Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleic Acid Hybridization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environmental Microbiology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virus detection",
+        "High-throughput Sequencing",
+        "Next Generation Sequencing",
+        "Viral Enrichment",
+        "Genome Enrichment",
+        "Hybridization-based Target Enrichment",
+        "Sequencing-based Detection",
+        "Virome Capture Sequencing",
+        "Virome Profiling"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5543-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6390631"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6390631?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen",
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-06-11"
+  ],
+  "dateOfCreation": [
+    "2019-02-28"
+  ],
+  "firstIndexDate": [
+    "2019-02-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-13"
+  ],
+  "dateOfRevision": [
+    "2019-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2019-02-26"
+  ]
+}

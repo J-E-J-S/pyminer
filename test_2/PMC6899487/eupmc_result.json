@@ -1,0 +1,365 @@
+{
+  "id": [
+    "31410886"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31410886"
+  ],
+  "pmcid": [
+    "PMC6899487"
+  ],
+  "doi": [
+    "10.1111/tpj.14496"
+  ],
+  "title": [
+    "The role of volatiles in plant communication."
+  ],
+  "authorString": [
+    "Bouwmeester H, Schuurink RC, Bleeker PM, Schiestl F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bouwmeester H"
+          ],
+          "firstName": [
+            "Harro"
+          ],
+          "lastName": [
+            "Bouwmeester"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0907-2732",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Amsterdam, Swammerdam Institute for Life Sciences, Green Life Science research cluster, Science Park 904, 1098 XH, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schuurink RC"
+          ],
+          "firstName": [
+            "Robert C"
+          ],
+          "lastName": [
+            "Schuurink"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "University of Amsterdam, Swammerdam Institute for Life Sciences, Green Life Science research cluster, Science Park 904, 1098 XH, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bleeker PM"
+          ],
+          "firstName": [
+            "Petra M"
+          ],
+          "lastName": [
+            "Bleeker"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "University of Amsterdam, Swammerdam Institute for Life Sciences, Green Life Science research cluster, Science Park 904, 1098 XH, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schiestl F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Schiestl"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Systematic and Evolutionary Botany, University of Zürich, Zollikerstrasse 107, CH-8008, Zürich, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0907-2732",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "100"
+      ],
+      "journalIssueId": [
+        "2885491"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Plant journal : for cell and molecular biology"
+          ],
+          "ISOAbbreviation": [
+            "Plant J."
+          ],
+          "medlineAbbreviation": [
+            "Plant J"
+          ],
+          "NLMid": [
+            "9207397"
+          ],
+          "ISSN": [
+            "0960-7412"
+          ],
+          "ESSN": [
+            "1365-313X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "892-907"
+  ],
+  "abstractText": [
+    "Volatiles mediate the interaction of plants with pollinators, herbivores and their natural enemies, other plants and micro-organisms. With increasing knowledge about these interactions the underlying mechanisms turn out to be increasingly complex. The mechanisms of biosynthesis and perception of volatiles are slowly being uncovered. The increasing scientific knowledge can be used to design and apply volatile-based agricultural strategies."
+  ],
+  "affiliation": [
+    "University of Amsterdam, Swammerdam Institute for Life Sciences, Green Life Science research cluster, Science Park 904, 1098 XH, Amsterdam, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "670211"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "acronym": [
+            "ERC_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biosynthesis",
+        "Agriculture",
+        "Pollination",
+        "Regulation",
+        "Volatiles",
+        "Terpenoids",
+        "Phenylpropanoids",
+        "Plant−insect/microbe/plant Interactions"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/tpj.14496"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6899487"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6899487?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-15"
+  ],
+  "firstIndexDate": [
+    "2019-08-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-19"
+  ],
+  "firstPublicationDate": [
+    "2019-09-19"
+  ]
+}

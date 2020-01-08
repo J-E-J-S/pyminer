@@ -1,0 +1,340 @@
+{
+  "id": [
+    "31681738"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681738"
+  ],
+  "pmcid": [
+    "PMC6797904"
+  ],
+  "doi": [
+    "10.3389/fbioe.2019.00248"
+  ],
+  "title": [
+    "Exploring the Potential of Cell-Free Protein Synthesis for Extending the Abilities of Biological Systems."
+  ],
+  "authorString": [
+    "Khambhati K, Bhattacharjee G, Gohil N, Braddick D, Kulkarni V, Singh V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khambhati K"
+          ],
+          "firstName": [
+            "Khushal"
+          ],
+          "lastName": [
+            "Khambhati"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Biotechnology, Institute of Advanced Research, Gandhinagar, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhattacharjee G"
+          ],
+          "firstName": [
+            "Gargi"
+          ],
+          "lastName": [
+            "Bhattacharjee"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Biotechnology, Institute of Advanced Research, Gandhinagar, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Gohil N"
+          ],
+          "firstName": [
+            "Nisarg"
+          ],
+          "lastName": [
+            "Gohil"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Biotechnology, Institute of Advanced Research, Gandhinagar, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Braddick D"
+          ],
+          "firstName": [
+            "Darren"
+          ],
+          "lastName": [
+            "Braddick"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of R&D, Cementic S.A.S., Genopole, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kulkarni V"
+          ],
+          "firstName": [
+            "Vishwesh"
+          ],
+          "lastName": [
+            "Kulkarni"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "School of Engineering, University of Warwick, Coventry, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh V"
+          ],
+          "firstName": [
+            "Vijai"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Biological Sciences and Biotechnology, Institute of Advanced Research, Gandhinagar, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2775597"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in bioengineering and biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "medlineAbbreviation": [
+            "Front Bioeng Biotechnol"
+          ],
+          "NLMid": [
+            "101632513"
+          ],
+          "ISSN": [
+            "2296-4185"
+          ],
+          "ESSN": [
+            "2296-4185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "248"
+  ],
+  "abstractText": [
+    "Cell-free protein synthesis (CFPS) system is a simple, rapid, and sensitive tool that is devoid of membrane-bound barriers, yet contains all the mandatory substrates, biomolecules, and machineries required for the synthesis of the desired proteins. It has the potential to overcome loopholes in the current in vivo production systems and is a promising tool in both basic and applied scientific research. It facilitates a simplified organization of desired experiments with a variety of reaction conditions, making CFPS a powerful tool in biological research. It has been used for the expansion of genetic code, assembly of viruses, and in metabolic engineering for production of toxic and complex proteins. Subsequently, CFPS systems have emerged as potent technology for high-throughput production of membrane proteins, enzymes, and therapeutics. The present review highlights the recent advances and uses of CFPS systems in biomedical, therapeutic, and biotechnological applications. Additionally, we highlight possible solutions to the potential biosafety issues that may be encountered while using CFPS technology."
+  ],
+  "affiliation": [
+    "Department of Biological Sciences and Biotechnology, Institute of Advanced Research, Gandhinagar, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Therapeutics",
+        "virus-like particles",
+        "Synthetic Biology",
+        "Biocontainment",
+        "Cfps",
+        "High-throughput Proteins"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fbioe.2019.00248"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797904"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797904?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-10-11"
+  ]
+}

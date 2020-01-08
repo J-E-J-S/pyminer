@@ -1,0 +1,355 @@
+{
+  "id": [
+    "23997647"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23997647"
+  ],
+  "pmcid": [
+    "PMC3580775"
+  ],
+  "doi": [
+    "10.2174/1389202911314010003"
+  ],
+  "title": [
+    "Synthetic genomics and synthetic biology applications between hopes and concerns."
+  ],
+  "authorString": [
+    "König H, Frank D, Heil R, Coenen C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "König H"
+          ],
+          "firstName": [
+            "Harald"
+          ],
+          "lastName": [
+            "König"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute for Technology Assessment and Systems Analysis (ITAS) ; Institute of Toxicology and Genetics (ITG), Karlsruhe Institute of Technology, PO box 3640, 76021 Karlsruhe, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frank D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Frank"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Heil R"
+          ],
+          "firstName": [
+            "Reinhard"
+          ],
+          "lastName": [
+            "Heil"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7265-7376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coenen C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Coenen"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7265-7376",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2070337"
+      ],
+      "dateOfPublication": [
+        "2013 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current genomics"
+          ],
+          "ISOAbbreviation": [
+            "Curr. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Curr Genomics"
+          ],
+          "NLMid": [
+            "100960527"
+          ],
+          "ISSN": [
+            "1389-2029"
+          ],
+          "ESSN": [
+            "1875-5488"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "11-24"
+  ],
+  "abstractText": [
+    "New organisms and biological systems designed to satisfy human needs are among the aims of synthetic genomics and synthetic biology. Synthetic biology seeks to model and construct biological components, functions and organisms that do not exist in nature or to redesign existing biological systems to perform new functions. Synthetic genomics, on the other hand, encompasses technologies for the generation of chemically-synthesized whole genomes or larger parts of genomes, allowing to simultaneously engineer a myriad of changes to the genetic material of organisms. Engineering complex functions or new organisms in synthetic biology are thus progressively becoming dependent on and converging with synthetic genomics. While applications from both areas have been predicted to offer great benefits by making possible new drugs, renewable chemicals or clean energy, they have also given rise to concerns about new safety, environmental and socio-economic risks - stirring an increasingly polarizing debate. Here we intend to provide an overview on recent progress in biomedical and biotechnological applications of synthetic genomics and synthetic biology as well as on arguments and evidence related to their possible benefits, risks and governance implications."
+  ],
+  "affiliation": [
+    "Institute for Technology Assessment and Systems Analysis (ITAS) ; Institute of Toxicology and Genetics (ITG), Karlsruhe Institute of Technology, PO box 3640, 76021 Karlsruhe, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Environment",
+        "Applications",
+        "Biomedicine",
+        "Benefits",
+        "Risks",
+        "Biofuels",
+        "Synthetic Genomics",
+        "Synthetic Biology."
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3580775?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3580775"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23997647/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23997647/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1389202911314010003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-09-02"
+  ],
+  "dateOfCreation": [
+    "2013-09-03"
+  ],
+  "firstIndexDate": [
+    "2013-09-03"
+  ],
+  "fullTextReceivedDate": [
+    "2013-09-02"
+  ],
+  "dateOfRevision": [
+    "2018-06-05"
+  ],
+  "firstPublicationDate": [
+    "2013-03-01"
+  ]
+}

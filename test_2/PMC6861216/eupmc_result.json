@@ -1,0 +1,358 @@
+{
+  "id": [
+    "31781029"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31781029"
+  ],
+  "pmcid": [
+    "PMC6861216"
+  ],
+  "doi": [
+    "10.3389/fendo.2019.00730"
+  ],
+  "title": [
+    "Synthetic Peptides as Therapeutic Agents: Lessons Learned From Evolutionary Ancient Peptides and Their Transit Across Blood-Brain Barriers."
+  ],
+  "authorString": [
+    "Lovejoy DA, Hogg DW, Dodsworth TL, Jurado FR, Read CC, D'Aquila AL, Barsyte-Lovejoy D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lovejoy DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Lovejoy"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hogg DW"
+          ],
+          "firstName": [
+            "David W"
+          ],
+          "lastName": [
+            "Hogg"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dodsworth TL"
+          ],
+          "firstName": [
+            "Thomas L"
+          ],
+          "lastName": [
+            "Dodsworth"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Jurado FR"
+          ],
+          "firstName": [
+            "Fernando R"
+          ],
+          "lastName": [
+            "Jurado"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Read CC"
+          ],
+          "firstName": [
+            "Casey C"
+          ],
+          "lastName": [
+            "Read"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Aquila AL"
+          ],
+          "firstName": [
+            "Andrea L"
+          ],
+          "lastName": [
+            "D'Aquila"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Barsyte-Lovejoy D"
+          ],
+          "firstName": [
+            "Dalia"
+          ],
+          "lastName": [
+            "Barsyte-Lovejoy"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, ON, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2778670"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Front Endocrinol (Lausanne)"
+          ],
+          "medlineAbbreviation": [
+            "Front Endocrinol (Lausanne)"
+          ],
+          "NLMid": [
+            "101555782"
+          ],
+          "ISSN": [
+            "1664-2392"
+          ],
+          "ESSN": [
+            "1664-2392"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "730"
+  ],
+  "abstractText": [
+    "Peptides play a major role in the transmission of information to and from the central nervous system. However, because of their structural complexity, the development of pharmacological peptide-based therapeutics has been challenged by the lack of understanding of endogenous peptide evolution. The teneurin C-terminal associated peptides (TCAP) possess many of the required attributes of a practical peptide therapeutic. TCAPs, associated with the teneurin transmembrane proteins that bind to the latrophilins, members of the Adhesion family of G-protein-coupled receptors (GPCR). Together, this ligand-receptor unit plays an integral role in synaptogenesis, neurological development, and maintenance, and is present in most metazoans. TCAP has structural similarity to corticotropin-releasing factor (CRF), and related peptides, such as calcitonin and the secretin-based peptides and inhibits the (CRF)-associated stress response. Latrophilins are structurally related to the secretin family of GPCRs. TCAP is a soluble peptide that crosses the blood-brain barrier and regulates glucose transport into the brain. We posit that TCAP represents a phylogenetically older peptide system that evolved before the origin of the CRF-calcitonin-secretin clade of peptides and plays a fundamental role in the regulation of cell-to-cell energy homeostasis. Moreover, it may act as a phylogenetically older peptide system that evolved as a natural antagonist to the CRF-mediated stress response. Thus, TCAP's actions on the CNS may provide new insights into the development of peptide therapeutics for the treatment of CNS disorders."
+  ],
+  "affiliation": [
+    "Department of Cell and Systems Biology, University of Toronto, Toronto, ON, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Neuroplasticity",
+        "CRF",
+        "Secretin",
+        "G-protein coupled receptors",
+        "Blood-Brain Barrier",
+        "Receptor-ligand Interaction",
+        "Latrophilin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fendo.2019.00730"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6861216"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6861216?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-30"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-12"
+  ]
+}

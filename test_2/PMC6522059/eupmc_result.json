@@ -1,0 +1,368 @@
+{
+  "id": [
+    "31059510"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31059510"
+  ],
+  "pmcid": [
+    "PMC6522059"
+  ],
+  "doi": [
+    "10.1371/journal.pbio.3000256"
+  ],
+  "title": [
+    "Feminizer and doublesex knock-outs cause honey bees to switch sexes."
+  ],
+  "authorString": [
+    "McAfee A, Pettis JS, Tarpy DR, Foster LJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McAfee A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "McAfee"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Pettis JS"
+          ],
+          "firstName": [
+            "Jeffery S"
+          ],
+          "lastName": [
+            "Pettis"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4986-6978",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pettis and Associates, Salisbury, Maryland, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Tarpy DR"
+          ],
+          "firstName": [
+            "David R"
+          ],
+          "lastName": [
+            "Tarpy"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, North Carolina, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Foster LJ"
+          ],
+          "firstName": [
+            "Leonard J"
+          ],
+          "lastName": [
+            "Foster"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8551-4817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver, British Columbia, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8551-4817",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4986-6978",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2810857"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS biology"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Biol."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Biol"
+          ],
+          "NLMid": [
+            "101183755"
+          ],
+          "ISSN": [
+            "1544-9173"
+          ],
+          "ESSN": [
+            "1545-7885"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e3000256"
+  ],
+  "abstractText": [
+    "Honey bees are experts at refuting societal norms. Their matriarchal hives are headed by queens, backed by an all-female workforce, and males die soon after copulation. But the biochemical basis of how these distinct castes and sexes (queens, workers, and drones) arise is poorly understood, partly due to a lack of efficient tools for genetic manipulation. Now, Roth and colleagues have used clustered regularly interspaced short palindromic repeats (CRISPR) to knock out two key genes (feminizer and doublesex) that guide sexual development. Their technique yielded remarkably low rates of genetic mosaicism and offers a promising tool for engineering and phenotyping bees for diverse applications."
+  ],
+  "affiliation": [
+    "Department of Entomology and Plant Pathology, North Carolina State University, Raleigh, North Carolina, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comment",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pbio.3000256"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6522059"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6522059?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30897091"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS Biol. 2019 Mar 21;17(3):e3000171"
+          ],
+          "type": [
+            "Comment on"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-07"
+  ],
+  "firstIndexDate": [
+    "2019-05-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-12-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-06"
+  ],
+  "firstPublicationDate": [
+    "2019-05-06"
+  ]
+}

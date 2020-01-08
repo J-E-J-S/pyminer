@@ -1,0 +1,243 @@
+{
+  "id": [
+    "30613812"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30613812"
+  ],
+  "pmcid": [
+    "PMC6312638"
+  ],
+  "doi": [
+    "10.1021/acsomega.8b02994"
+  ],
+  "title": [
+    "Benefits of Unconventional Methods in the Total Synthesis of Natural Products."
+  ],
+  "authorString": [
+    "Hudlicky T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hudlicky T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Hudlicky"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Centre for Biotechnology, Brock University, 1812 Sir Isaac Brock Way, St. Catharines, ON L2S 3A1, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2767452"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS omega"
+          ],
+          "ISOAbbreviation": [
+            "ACS Omega"
+          ],
+          "medlineAbbreviation": [
+            "ACS Omega"
+          ],
+          "NLMid": [
+            "101691658"
+          ],
+          "ISSN": [
+            "2470-1343"
+          ],
+          "ESSN": [
+            "2470-1343"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "17326-17340"
+  ],
+  "abstractText": [
+    "This article provides a survey of four \"unconventional\" methods employed in the synthesis of natural products in the Hudlicky group. The utility of flash vacuum pyrolysis is highlighted by examples of many natural products attained via vinylcyclopropane-cyclopentene rearrangement and its heterocyclic variants. Preparative organic electrochemistry was used in oxidations and reductions with levels of selectivity unattainable by conventional methods. Yeast reduction of ketoesters was featured in the total synthesis of pyrrolizidine alkaloids. Finally, the use of toluene dioxygenase-mediated dihydroxylations in enantioselective synthesis of natural products concludes this presentation. Recently, synthesized targets in the period 2010-2019 are listed in the accompanying table. The results of research from the Hudlicky group are placed in appropriate context with the work of others, and a detailed guide to the current literature is provided."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Centre for Biotechnology, Brock University, 1812 Sir Isaac Brock Way, St. Catharines, ON L2S 3A1, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acsomega.8b02994"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6312638"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6312638?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-08"
+  ],
+  "firstIndexDate": [
+    "2019-01-07"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-07"
+  ],
+  "dateOfRevision": [
+    "2019-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-14"
+  ],
+  "firstPublicationDate": [
+    "2018-12-14"
+  ]
+}

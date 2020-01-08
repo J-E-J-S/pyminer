@@ -1,0 +1,388 @@
+{
+  "id": [
+    "29687363"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29687363"
+  ],
+  "pmcid": [
+    "PMC6338622"
+  ],
+  "doi": [
+    "10.1007/s13238-018-0542-7"
+  ],
+  "title": [
+    "Engineering vascularized skeletal muscle tissue with transcriptional factor ETV2-induced autologous endothelial cells."
+  ],
+  "authorString": [
+    "Yan G, Yan R, Chen C, Chen C, Zhao Y, Qin W, Veldman MB, Li S, Lin S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yan G"
+          ],
+          "firstName": [
+            "Guanrong"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan R"
+          ],
+          "firstName": [
+            "Ruibin"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Cheng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen C"
+          ],
+          "firstName": [
+            "Cheng"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yanqiu"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Veldman MB"
+          ],
+          "firstName": [
+            "Matthew B"
+          ],
+          "lastName": [
+            "Veldman"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Department of Molecular, Cell and Developmental Biology, University of California Los Angeles, Los Angeles, CA, 90095-1555, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Song"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin S"
+          ],
+          "firstName": [
+            "Shuo"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China. shuolin@ucla.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2772570"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Protein & cell"
+          ],
+          "ISOAbbreviation": [
+            "Protein Cell"
+          ],
+          "medlineAbbreviation": [
+            "Protein Cell"
+          ],
+          "NLMid": [
+            "101532368"
+          ],
+          "ISSN": [
+            "1674-800X"
+          ],
+          "ESSN": [
+            "1674-8018"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "217-222"
+  ],
+  "affiliation": [
+    "Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen University Town, Shenzhen, 518055, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6338622?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6338622"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13238-018-0542-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-25"
+  ],
+  "firstIndexDate": [
+    "2018-04-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-15"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

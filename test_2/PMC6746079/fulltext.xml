@@ -1,0 +1,394 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="rapid-communication" xml:lang="EN"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Med Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">ACS Med Chem Lett</journal-id><journal-id journal-id-type="publisher-id">ml</journal-id><journal-id journal-id-type="coden">amclct</journal-id><journal-title-group><journal-title>ACS Medicinal Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-5875</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6746079</article-id><article-id pub-id-type="pmid">31531195</article-id><article-id pub-id-type="doi">10.1021/acsmedchemlett.9b00082</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Development of Pyridine-based Inhibitors for the Human
+Vaccinia-related Kinases 1 and 2</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Serafim</surname><given-names>Ricardo
+A. M.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes3" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>de Souza Gama</surname><given-names>Fernando H.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="notes3" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Dutra</surname><given-names>Luiz A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes3" ref-type="notes">#</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>dos Reis</surname><given-names>Caio V.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Vasconcelos</surname><given-names>Stanley N. S.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>da Silva Santiago</surname><given-names>Andr&#x000e9;</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Takarada</surname><given-names>J&#x000e9;ssica
+E.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Di Pillo</surname><given-names>F&#x000fa;lvia</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Azevedo</surname><given-names>Hatylas</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Mascarello</surname><given-names>Alessandra</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Elkins</surname><given-names>Jonathan M.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Massirer</surname><given-names>Katlin B.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath13"><name><surname>Gileadi</surname><given-names>Opher</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath14"><name><surname>Guimar&#x000e3;es</surname><given-names>Cristiano R. W.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath15"><name><surname>Cou&#x000f1;ago</surname><given-names>Rafael M.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Centro
+de Qu&#x000ed;mica Medicinal (CQMED), Centro de Biologia Molecular
+e Engenharia Gen&#x000e9;tica (CBMEG), <institution>Universidade
+Estadual de Campinas (UNICAMP)</institution>, Campinas, SP 13083-875, <country>Brazil</country></aff><aff id="aff2"><label>&#x02021;</label>Structural
+Genomics Consortium, Departamento de Gen&#x000e9;tica e Evolu&#x000e7;&#x000e3;o,
+Instituto de Biologia, <institution>UNICAMP</institution>, Campinas, SP 13083-886, <country>Brazil</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Ach&#x000e9;
+Laborat&#x000f3;rios Farmac&#x000ea;uticos S.A.</institution>, Guarulhos, SP, <country>Brazil</country></aff><aff id="aff4"><label>&#x02225;</label>PhD
+Program in Genetics and Molecular Biology (PGBM), <institution>UNICAMP</institution>, Campinas, SP 13083-886, <country>Brazil</country></aff><aff id="aff5"><label>&#x022a5;</label>Structural
+Genomics Consortium, Nuffield Department of Medicine, <institution>University of Oxford</institution>, Oxford OX3 7DQ, <country>U.K.</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>rafael.counago@unicamp.br</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>cristiano.guimaraes@ache.com.br</email>.</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>08</month><year>2019</year></pub-date><pub-date pub-type="collection"><day>12</day><month>09</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>08</month><year>2019</year></pub-date><volume>10</volume><issue>9</issue><fpage>1266</fpage><lpage>1271</lpage><history><date date-type="received"><day>01</day><month>03</month><year>2019</year></date><date date-type="accepted"><day>19</day><month>08</month><year>2019</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Attribution (CC-BY) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccby_termsofuse.html">License</ext-link>, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_0005" id="ab-tgr1"/></p><p>Vaccinia-related
+kinases 1 and 2 (VRK1 and VRK2) are human Ser/Thr
+protein kinases associated with increased cell division and neurological
+disorders. Nevertheless, the cellular functions of these proteins
+are not fully understood. Despite their therapeutic potential, there
+are no potent and specific inhibitors available for VRK1 or VRK2.
+We report here the discovery and elaboration of an aminopyridine scaffold
+as a basis for VRK1 and VRK2 inhibitors. The most potent compound
+for VRK1 (<bold>26</bold>) displayed an IC<sub>50</sub> value of 150
+nM and was fairly selective in a panel of 48 human kinases (selectivity
+score S(50%) of 0.04). Differences in compound binding mode and substituent
+preferences between the two VRKs were identified by the structure&#x02212;activity
+relationship combined with the crystallographic analysis of key compounds.
+We expect our results to serve as a starting point for the design
+of more specific and potent inhibitors against each of the two VRKs.</p></abstract><kwd-group><kwd>Vaccinia-related kinases</kwd><kwd>pyridine</kwd><kwd>difluorophenol</kwd><kwd>kinase inhibitors</kwd><kwd>structure-based compound development</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ml9b00082</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ml9b00082</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>The human genome encodes three
+vaccinia-related kinases (VRK1, VRK2, and VRK3).<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> VRK3 has a degraded ATP-binding site and is thought to
+be a pseudokinase,<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> while VRK1 and VRK2
+feature active kinase domains and have been associated with various
+cellular processes, including cell replication, chromatin remodeling,
+and response to DNA damage.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> VRK2 has two isoforms that share
+identical kinase domains but locate to distinct cellular compartments:
+endoplasmic reticulum (VRK2A) and cytoplasm and nucleus (VRK2B).<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> VRK1 can be found in both nucleus and cytoplasm.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Genetic studies have associated VRK1 and VRK2 with a number
+of human diseases and conditions. VRK2 is associated with neurological
+disorders, such as schizophrenia, multiple sclerosis, major depressive
+disorder, and epilepsy.<sup><xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> VRK1 overexpression is associated with increased cell division and
+poor prognosis in a number of cancers.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> Despite these
+advances, our understanding of the cellular roles of human VRKs and
+their therapeutic potential is limited. Currently, there are no potent
+and specific small molecule inhibitors of the VRKs.</p><p>Previously,
+our analysis of the Published Kinase Inhibitor Set
+(PKIS)<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> revealed that VRK1 shared a similar
+activity profile to a small number of kinases, including members of
+the kinase family Ste20, such as MINK1 and TNIK.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> The Ste20 kinase family also includes MAP4K4, whose phosphate-binding
+loop (P-loop, also referred to as glycine-rich loop) can adopt an
+unusual conformation in which this conserved structural motif folds
+over the ligand. It has been suggested that this folded P-loop conformation
+might be targeted to obtain potent and selective kinase inhibitors.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Cocrystal structures of VRK1 and VRK2 bound
+to the p90 RSK (ribosomal S6 kinase) inhibitor <bold>BI-D1870</bold> (<bold>1</bold>, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A) revealed that both kinases can also adopt the folded P-loop
+conformation, further suggesting that MAP4K4 and these two VRKs have
+similar topography and structural features in their ATP-binding sites.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup><bold>BI-D1870</bold> displays a highly developed
+pteridine scaffold, and recent selectivity data revealed this compound
+to be quite promiscuous.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> These observations
+motivated us to search for MAP4K4 ligands known to induce a folded
+P-loop conformation, and that could be used as starting points to
+develop potent and selective inhibitors against VRK1 and VRK2.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(A) Chemical
+structure of <bold>1</bold> (<bold>BI-D1870</bold>) and the MAP4K4
+inhibitor <bold>2</bold>. (B) Synthetic route to
+aminopyridine derivatives.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_0001" id="gr1" position="float"/></fig><p>2-Aminopyridines are well-known kinase inhibitor scaffolds, and
+such compounds (exemplified by <bold>2</bold>, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A) have been shown to promote a folded P-loop
+conformation in MAP4K4.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> Additionally,
+this scaffold is small and versatile, allowing the attachment of different
+substituents on both sides of the aminopyridine core by a short synthetic
+route. The cocrystal structures of VRK1 and VRK2 bound to <bold>1</bold> (<bold>BI-D1870</bold>) also revealed that the ligand difluorophenol
+moiety promoted favorable polar interactions to structurally conserved
+residues within the VRK ATP-binding site.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Thus, our design strategy to develop new small molecule inhibitors
+for VRK1 and VRK2 was to generate hybrid ligands by fusing the aminopyridine
+core with the difluorophenol group.</p><p>Synthesis of aminopyridine
+derivatives was performed using a rapid
+and efficient two-step Suzuki&#x02013;Miyaura coupling (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B) with yields ranging between
+18% and 89%. Each step was performed by a microwave-assisted reaction
+in 1 h. Details of the procedure are available in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supporting Information</ext-link>.</p><p>To test our hybridization
+hypothesis, we prepared prototype compound <bold>5</bold>, bearing
+difluorophenol moieties in both, the 3- and 5-positions
+of the 2-aminopyridine core (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). We employed a thermal-shift assay (differential
+scanning fluorimetry, DSF) to identify aminopyridine analogues that
+could bind to the full-length VRK1 (residues Met1-Lys396, VRK1-FL)
+and the kinase domain of VRK2 (residues Pro14-His335, VRK2-KD). DSF
+is a robust method to estimate binding affinities and has been used
+successfully to triage large compound libraries.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> For these experiments, we considered positive
+hits those compounds inducing changes in VRK1-FL and VRK2-KD melting
+temperatures, &#x00394;<italic>T</italic><sub>m</sub>, larger than 2.0&#x02009;&#x000b0;C.
+DSF analysis indicated that <bold>5</bold> induced thermal shifts
+above this threshold for both VRK1 and VRK2 (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S1</ext-link>).</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Structures and Values for DSF and
+Enzyme Inhibition Assays for Key Compounds</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_0004" id="GRAPHIC-d7e506-autogenerated" position="float"/><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Values from ref (<xref ref-type="bibr" rid="ref15">15</xref>).</p></fn><fn id="t1fn2"><label>b</label><p>Confidence interval.</p></fn><fn id="t1fn3"><label>c</label><p>Not determined.</p></fn></table-wrap-foot></table-wrap><p>Encouraged by these results, we prepared a first series of 2-aminopyridine
+analogues to explore the relevance of the difluorophenol moiety to
+the thermal stabilization of the two VRKs (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S1</ext-link>). For both proteins, simultaneously replacing the difluorophenol
+moiety with phenol groups in R<sup>1</sup> and R<sup>2</sup> (<bold>6</bold>) resulted in a drop of the observed &#x00394;<italic>T</italic><sub>m</sub>, suggesting that increasing the phenol acidic character
+or altering the electronic properties of the aromatic ring was important
+for binding.<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> VRK1-FL seemed to tolerate the
+substitution of a difluorophenol by a phenol on either R<sup>1</sup> or R<sup>2</sup> position equally well, whereas maintaining a difluorophenol
+group in R<sup>1</sup> proved to be more important for VRK2-KD binding
+(<bold>8</bold> and <bold>7</bold>). Not unexpectedly, removal of
+the HB (hydrogen bond) capacity in R<sup>2</sup>, while maintaining
+the difluorophenol group in R<sup>1</sup>, still resulted in a &#x00394;<italic>T</italic><sub>m</sub> drop for both VRKs (<bold>9</bold>). We attempted
+to improve compound binding by replacing the difluorophenol in R<sup>1</sup> with a variety of groups of distinct sizes, polarities, and
+electronic proprieties, but none of these changes resulted in an improved
+&#x00394;<italic>T</italic><sub>m</sub> over the difluorophenol moiety.</p><p>We next explored the ability of various phenyl derivatives in R<sup>2</sup> to optimize the compound binding profile, while maintaining
+a difluorophenol group in R<sup>1</sup> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S1</ext-link>). Our results confirmed that polar groups in R<sup>2</sup> are important for binding the VRKs and indicated that, overall,
+these groups were better tolerated in the meta position (<bold>10</bold> vs <bold>11</bold>; <bold>12</bold> vs <bold>13</bold>; <bold>14</bold> vs <bold>15</bold> and <bold>16</bold>), although the addition of
+a carboxylic acid group in this position was detrimental to binding
+(<bold>17</bold>). For VRK2-KD, the best compound had a <italic>para</italic>-sulfonamide group on the R<sup>2</sup> phenyl ring (<bold>18</bold>), although a benzothiazole fused ring (<bold>19</bold>) was also
+tolerated in this position. VRK1-FL tolerated both of these groups
+in R<sup>2</sup> equally well. Nevertheless, for VRK1, we could not
+find a R<sup>2</sup> substituent that increased <italic>T</italic><sub>m</sub>-shifts compared to the difluorophenol moiety (<bold>5</bold>). For VRK2-KD, further attempts to modify the difluorophenol
+in R<sup>1</sup> while maintaining the sulfonamide group in R<sup>2</sup> were unsuccessful (<bold>20</bold>, <bold>21</bold>, and <bold>22</bold>).</p><p>Although robust, DSF provides only limited information
+on compound
+binding to a target protein. We then developed an enzyme inhibition
+assay (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S2</ext-link>) and determined
+the potency (IC<sub>50</sub>) of key compounds against VRK1-FL (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S2</ext-link>). In these assays, our prototype compound <bold>5</bold> had an IC<sub>50</sub> value of 260 nM, &#x0223c;8-fold higher than
+the one observed for <bold>1</bold> (<bold>BI-D1870</bold>, 33 nM).
+Estimated IC<sub>50</sub> values were in good agreement with our DSF
+results. For example, <bold>19</bold>, with a &#x00394;<italic>T</italic><sub>m</sub> of 2.2 &#x000b0;C, had an IC<sub>50</sub> of 674 nM against
+VRK1-FL (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S3</ext-link>). More
+importantly, our enzymatic assays confirmed these compounds as inhibitors
+of VRK1.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Biochemical, biophysical, and selectivity profile characterization
+of key compounds. (A) IC<sub>50</sub> determination curves for <bold>1</bold>, <bold>5</bold>, and <bold>26</bold> against VRK1-FL. Individual
+data points are the mean &#x000b1; SD of three technical replicates.
+Estimated IC<sub>50</sub> values are shown in parentheses. (B,C) ITC
+measurements for top compounds in the DSF assay for VRK2-KD (<bold>18</bold>) and VRK1-FL (<bold>26</bold>). Values for binding energies
+are shown in kJ/mol. (D) Selectivity profile of <bold>1</bold> (<bold>BI-D1870</bold>), <bold>5</bold>, and <bold>26</bold> against a representative
+panel of 48 human kinases at 1 &#x003bc;M concentration. Colors denote
+% residual kinase activity: green, residual activity &#x0003e;80%; yellow,
+residual activity &#x02265;40% and &#x02264;80%; red, residual activity
+&#x0003c;40%. Residual activity values are shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S5</ext-link>. Numbers in parentheses report the
+selectivity score S(50%) for each compound. S(50%) was obtained by
+dividing the number of protein kinases having % residual activity
+&#x02264;50%, by the total number of tested protein kinases. Distribution
+of selected kinases across the human kinome is shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S7</ext-link>. The VRKs were not part
+of the panel.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_0002" id="gr2" position="float"/></fig><p>Unfortunately, we did not succeed
+in developing a similar enzymatic
+assay for VRK2. Thus, we employed isothermal titration calorimetry
+(ITC) to estimate binding potency (<italic>K</italic><sub>D</sub>)
+of selected compounds to VRK2-KD, including <bold>18</bold>, our top
+compound from the DSF assay (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S4</ext-link>). Our ITC data confirmed binding of these compounds to VRK2-KD and
+revealed these interactions to be mostly enthalpy-driven (|&#x00394;<italic>H</italic>| &#x0003e; |<italic>T</italic>&#x00394;<italic>S</italic>|) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S3</ext-link>). As expected, <bold>18</bold> had the strongest binding to VRK2 (<italic>K</italic><sub>D</sub> &#x02248; 400 nM). At the moment, we cannot offer an explanation
+for the discrepancy between ITC and DSF results for <bold>13</bold> and <bold>19</bold>.</p><p>To better understand the molecular basis
+for ligand binding, we
+obtained cocrystals of VRK1-KD (residues Arg3-Glu364) bound to <bold>5</bold> and VRK2-KD bound to <bold>18</bold> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). Both structures were solved by molecular
+replacement (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S4</ext-link>). Ligand-bound
+VRK1-KD and VRK2-KD adopted an active conformation, in which conserved
+residues from structurally conserved elements of the kinase domain
+(Glu83 and Lys71 within &#x003b1;C-helix and the ATP-binding site, respectively,
+VRK1 numbering) are brought into close proximity, and the side chain
+of Asp197 (VRK1 numbering) from the conserved DFG motif (DYG in the
+VRKs) points toward the ATP-binding site (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S5A,B</ext-link>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Cocrystal structures revealed distinct compound binding
+modes.
+(A,B) VRK1-KD bound to <bold>5</bold>. The compound adopts two different
+binding modes with different VRK1 molecules in the crystal. (C) VRK2-KD
+bound to <bold>18</bold>. Black dashed lines represent potential hydrogen
+bonds. Bottom panels show electron density maps (2<italic>F</italic><sub><italic>o</italic></sub> &#x02013; <italic>F</italic><sub><italic>c</italic></sub>) contoured at 1.0&#x003c3;.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_0003" id="gr3" position="float"/></fig><p>As expected, <bold>5</bold> and <bold>18</bold> were found in the
+ATP-binding sites of VRK1 and VRK2, respectively (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B). The binding pose for <bold>18</bold> showed the 2-amino moiety pointed toward the back of VRK2
+ATP-binding site. The 2-amino group and the pyridine N atom of <bold>18</bold> established one hydrogen bond each to the carbonyl and
+amide groups of VRK2 hinge residues Glu122 and Leu124, respectively.
+In VRK1-KD crystals, the ligand could be observed in three out of
+the four protein molecules in the asymmetric unit and, surprisingly,
+was found in two different poses. The first of these was equivalent
+to the one observed for <bold>18</bold> bound to VRK2-KD. In the second
+binding mode, the 2-amino group of <bold>5</bold> pointed toward the
+solvent and, together with the pyridine nitrogen atom, facilitated
+HBs with main chain atoms from VRK1-KD hinge residue Phe134.</p><p>The cocrystal structures helped us to rationalize the relevance
+of the difluorophenol moiety for binding. Regardless of compound binding
+pose, this group facilitated a HB network with polar side chains from
+structurally conserved residues within the kinase domain of VRK1 (Lys71
+and Glu83) and VRK2 (Lys61 and Glu73). The difluorophenol group participating
+in these contacts displayed distinct dihedral angles to the 2-amino
+core depending on its attachment position: &#x0223c;45&#x000b0; in R<sup>1</sup> and &#x0223c;9&#x000b0; in R<sup>2</sup>. In VRK1, these different
+orientations of the difluorophenol group were accommodated by a corresponding
+movement of the side chain from residue Met131, which occupies the
+gatekeeper position in this protein. Consequently, the difluorophenol
+group fitted tightly between the &#x003b1;C-helix and the gatekeeper
+residue in both poses. These observations might explain why we could
+not find substituents that improved binding over the difluorophenol
+group.</p><p>The VRK2-KD cocrystal structure also revealed that the <bold>18</bold> sulfonamide group pointed away from the protein ATP-binding
+site
+and was mostly solvent-exposed. A similar observation was made for
+the difluorophenol group in <bold>5</bold> that did not interact with
+VRK1-KD &#x003b1;C-helix (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S5D&#x02013;F</ext-link>). Our DSF results also indicated that placement of polar groups
+in the meta-position resulted in slight increases of &#x00394;<italic>T</italic><sub>m</sub>, especially for VRK2-KD (<bold>10</bold> vs <bold>11</bold>, for example). At this position, polar groups from the
+ligand might be able to engage polar groups from VRK2-KD P-loop.</p><p>Regardless of the ligand binding pose, the P-loop of VRK1 was found
+to be folded over <bold>5</bold>. This conformation was likely stabilized
+by hydrophobic interactions observed between P-loop residue Phe48
+and <bold>5</bold>&#x02019;s three-ring system. By contrast, VRK2 P-loop
+did not fold over <bold>18</bold>. In our VRK2 cocrystal, the P-loop
+was found rotated toward the protein &#x003b1;C-helix by &#x0223c;6 &#x000c5;
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S5C</ext-link>). Consequently,
+equivalent aromatic residues within the P-loop of VRK1 (Phe48) and
+VRK2 (Phe40) occupied different positions in each of the proteins&#x02019;
+ATP-binding site.</p><p>The two binding modes observed for <bold>5</bold> in VRK1 suggested
+that the 2-amino moiety had no binding preference for either of the
+hinge carbonyl groups it can interact with (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A,B). This led us to hypothesize that these
+two interactions were either equally productive or equally weak in
+the binding process. To address these hypotheses, we synthesized the
+following analogues: (i) <bold>23</bold>, with two amino groups that
+could interact with both hinge carbonyl groups simultaneously; (ii) <bold>24</bold>, with a 2-amino and a space-filling 6-methyl group; (iii) <bold>25</bold>, with the 2-amino group removed; and (iv) <bold>26</bold>, with the 2-amino group substituted by a 2-methyl group (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S1</ext-link>).</p><p>DSF assays revealed that none
+of these new analogs had improved
+&#x00394;<italic>T</italic><sub>m</sub> values for VRK2-KD (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S1</ext-link>). These results suggested that the
+HB between the hinge carbonyl group and the 2-aminopyridine core is
+a productive interaction for VRK2. Likewise, for VRK1-FL, compounds <bold>23</bold>, <bold>24</bold>, and <bold>25</bold> did not improve &#x00394;<italic>T</italic><sub>m</sub> values over those observed for <bold>5</bold>. Poor results observed for <bold>23</bold> and <bold>24</bold> might
+be explained by clashes between one of the two substituents in these
+compounds (at the 2- or 6-position in the pyridine core) and main
+chain atoms from residues within the kinase hinge region.</p><p>By
+contrast, <bold>26</bold> and <bold>5</bold> were equipotent
+in the DSF assay, supporting the hypothesis that the 2-amino moiety
+contributed little to the binding of <bold>5</bold> to VRK1. Thus,
+both our DSF results and crystal structures suggested that VRK1, but
+not VRK2, was capable of binding equally well to the 2-aminopyridine
+core in two different conformations.</p><p>Further, the increase in
+&#x00394;<italic>T</italic><sub>m</sub> observed
+for <bold>26</bold> (2-methylpyridine core) over <bold>25</bold> (pyridine
+core) for VRK1 might arise from favorable electron-donating properties
+or conformational effects conferred to the pyridine ring system by
+the presence of an adjacent methyl group.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> Alternatively, the lack of a substituent group in the 2-position
+may incur a free energy penalty associated with <bold>25</bold>&#x02019;s
+inability to fill in a cavity in the protein binding pocket.</p><p>Enzyme inhibition assays further confirmed <bold>26</bold> as a
+VRK1 inhibitor with an IC<sub>50</sub> value of &#x0223c;150 nM, a
+&#x0223c;2-fold increase in potency over prototype compound <bold>5</bold> (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A, <xref rid="tbl1" ref-type="other">Table<xref rid="tbl1" ref-type="other">1</xref></xref>). ITC experiments
+determined that binding of <bold>26</bold> to VRK1-FL was enthalpy-driven
+and had a <italic>K</italic><sub>D</sub> of 190 nM (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Table S3</ext-link>).</p><p>The 2-amino-pyridine moiety is a common feature
+of many kinase
+inhibitors and often plays a role in binding to the kinase hinge region
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S6</ext-link>).<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> We were surprised that changes in hinge-binding groups
+within the pyridine core had such marked impact on compound binding
+to each of the VRKs, as these proteins have highly similar ATP-binding
+sites. Motivated by these findings, we assessed the activity of <bold>1</bold>, <bold>5</bold>, and <bold>26</bold> against a representative
+panel of 48 human kinases at 1 &#x003bc;M concentration (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>D, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S7</ext-link>). Our results showed that introduction of the methyl
+group in the pyridine scaffold markedly improved selectivity of <bold>26</bold> over prototype <bold>5</bold>; S(50%) scores of 0.04 and
+0.25, respectively. Our selectivity data also confirmed previous reports
+that <bold>1</bold> (<bold>BI-D1870</bold>) is fairly promiscuous;<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> S(50%) score of 0.19.</p><p>To ascertain that <bold>18</bold> and <bold>26</bold> represented
+tractable molecules for development into chemical probes suitable
+for biological studies, we performed cell viability assays based on
+the metabolic conversion of a tetrazolium dye (MTT, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supporting Information</ext-link>) to its insoluble formazan
+by human (HeLa) cells. Our results indicated that there was no noticeable
+effect on cell viability after a 24-h treatment with 3.2 &#x003bc;M
+of <bold>18</bold> and only a slight decrease with 3.2 &#x003bc;M of <bold>26</bold>; and &#x02265;60% of cells remained viable after the compound
+concentration was raised to 12.5 &#x003bc;M of <bold>18</bold> and 25
+&#x003bc;M of <bold>26</bold> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">Supplementary Figure S8</ext-link>).</p><p>In conclusion, we report here the use of the pyridine
+scaffold
+for the development of inhibitors against VRK1 and VRK2. Our data
+revealed <bold>26</bold> to be a selective (S(50%) 0.04) and potent
+(IC<sub>50</sub> &#x02248; 150 nM) inhibitor of VRK1. Compound <bold>18</bold> binds to VRK2 in the mid-nM range (ITC <italic>K</italic><sub>D</sub> 400 nM). Further characterization of this compound is
+likely to confirm <bold>18</bold> as an inhibitor of the VRK2 protein.
+Both compounds are not overtly toxic to human cells and represent
+promising starting points for developing more potent and selective
+inhibitors for VRK1 and VRK2. Future optimization efforts will take
+advantage of the scaffold&#x02019;s good synthetic accessibility.</p></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acsmedchemlett.9b00082">10.1021/acsmedchemlett.9b00082</ext-link>.<list id="silist" list-type="simple"><list-item><p>Supplementary Tables S1&#x02013;S5,
+Supplementary Figures
+S1&#x02013;S8, Supplementary Methods, and Supplementary References
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.9b00082/suppl_file/ml9b00082_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml9b00082_si_001.pdf"><caption><p>ml9b00082_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="accession-codes" id="notes5"><title>Accession Codes</title><p>The atomic coordinates
+and crystallographic structures factors for VRK1-KD bound to <bold>5</bold> and for VRK2-KD bound to <bold>18</bold> have been deposited
+in the Protein Data Bank (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.rcsb.org">www.rcsb.org</uri>) with accession codes 6BU6 and 6NCG, respectively.</p></notes><notes notes-type="" id="notes3"><title>Author Contributions</title><p><sup>#</sup> These authors contributed equally. R.A.M.S., F.H.S.G., S.N.S.V.,
+H.A., A.M., and C.R.W.G. designed all molecules. R.A.M.S., F.H.S.G.,
+and S.N.S.V. synthesized and characterized all molecules. C.V.R. and
+R.M.C. designed and performed crystallization experiments, X-ray diffraction
+data collection, and protein structure determination and analysis.
+A.S.S. designed, performed, and analyzed ITC experiments for VRK2-KD.
+J.E.T. designed, performed, and analyzed ITC experiments for VRK1-FL.
+C.V.R., A.S.S., and L.A.D. designed, performed, and analyzed DSF experiments.
+L.A.D. designed, performed, and analyzed enzymatic assays. F.D.P.
+designed, performed, and analyzed cell assays. H.A., A.M., J.M.E., K.B.M., O.G., C.R.W.G.,
+and R.M.C. coordinated the project. R.A.M.S. and R.M.C. wrote the
+manuscript. All authors revised the manuscript. All authors have given
+approval to the final version of the manuscript.</p></notes><notes notes-type="funding-statement" id="notes4"><p>This work was
+supported by the Brazilian agencies FAPESP (Funda&#x000e7;&#x000e3;o
+de Amparo &#x000e0; Pesquisa do Estado de S&#x000e3;o Paulo) (2013/50724-5
+and 2014/5087-0), Embrapii (Empresa Brasileira de Pesquisa e Inova&#x000e7;&#x000e3;o
+Industrial), and CNPq (Conselho Nacional de Desenvolvimento Cient&#x000ed;fico
+e Tecnol&#x000f3;gico) (465651/2014-3 and 400906/2014-7). The SGC is
+a registered charity (number 1097737) that receives funds from AbbVie,
+Bayer Pharma AG, Boehringer Ingelheim, Canada Foundation for Innovation,
+Eshelman Institute for Innovation, Genome Canada, Innovative Medicines
+Initiative (EU/EFPIA) [ULTRA-DD grant no. 115766], Janssen, Merck
+KGaA Darmstadt Germany, MSD, Novartis Pharma AG, Ontario Ministry
+of Economic Development and Innovation, Pfizer, Takeda, and Wellcome
+[106169/ZZ14/Z]. R.A.M.S., S.N.S.V. and F.D.P. received FAPESP fellowships
+(2016/25320-6, 2018/09475-5 and 2018/03359-3 respectively). C.V.R.
+and A.S.S. received CAPES (Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento
+de Pessoal de N&#x000ed;vel Superior) postdoctoral fellowships (88887.146077/2017-00
+and 88887.136342/2017-00, respectively).</p></notes><notes notes-type="COI-statement" id="notes6"><p>The authors
+declare the following competing financial interest(s): The authors
+F.H.S.G., H.A., A.M., C.R.W.G. are employed by Ach&#x000e9; Laborat&#x000f3;rios
+Farmac&#x000ea;uticos. All other authors declare no competing financial
+interest.</p></notes><ack><title>Acknowledgments</title><p>We thank the staff of the Proteomics
+section of
+the Life Sciences Core Facility (LaCTAD), part of the University of
+Campinas (UNICAMP), for their contributions to ITC analysis. We thank
+the staff at the Northeastern Collaborative Access Team beamlines
+(GU56413 and GU54127), which are funded by the National Institute
+of General Medical Sciences from the National Institutes of Health
+(P41 GM103403). The Pilatus 6M detector on the 24-ID-C beamline is
+funded by a NIH-ORIP HEI grant (S10 RR029205). This research used
+resources of the Advanced Photon Source, a U.S. Department of Energy
+(DOE) Office of Science User Facility operated for the DOE Office
+of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.</p></ack><glossary id="dl1"><def-list><title>ABBREVIATIONS</title><def-item><term>VRK</term><def><p>Vaccinia-related
+kinase</p></def></def-item><def-item><term>KD</term><def><p>kinase
+domain</p></def></def-item><def-item><term>FL</term><def><p>full-length</p></def></def-item><def-item><term>HB</term><def><p>hydrogen bond</p></def></def-item><def-item><term>MTT</term><def><p>3-(4,5-dimetrylthiazol-2-yl)-2,5-diphenyltetrazolium
+bromide</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Nichols</surname><given-names>R. J.</given-names></name>; <name><surname>Traktman</surname><given-names>P.</given-names></name>
+<article-title>Characterization of
+Three Paralogous Members of the
+Mammalian Vaccinia Related Kinase Family</article-title>. <source>J.
+Biol. Chem.</source>
+<year>2004</year>, <volume>279</volume> (<issue>9</issue>), <fpage>7934</fpage><pub-id pub-id-type="doi">10.1074/jbc.M310813200</pub-id>.<pub-id pub-id-type="pmid">14645249</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Scheeff</surname><given-names>E. D.</given-names></name>; <name><surname>Eswaran</surname><given-names>J.</given-names></name>; <name><surname>Bunkoczi</surname><given-names>G.</given-names></name>; <name><surname>Knapp</surname><given-names>S.</given-names></name>; <name><surname>Manning</surname><given-names>G.</given-names></name>
+<article-title>Structure
+of the Pseudokinase VRK3 Reveals a Degraded Catalytic Site, a Highly
+Conserved Kinase Fold, and a Putative Regulatory Binding Site</article-title>. <source>Structure</source>
+<year>2009</year>, <volume>17</volume> (<issue>1</issue>), <fpage>128</fpage><pub-id pub-id-type="doi">10.1016/j.str.2008.10.018</pub-id>.<pub-id pub-id-type="pmid">19141289</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Kang</surname><given-names>T.-H.</given-names></name>; <name><surname>Park</surname><given-names>D.-Y.</given-names></name>; <name><surname>Choi</surname><given-names>Y. H.</given-names></name>; <name><surname>Kim</surname><given-names>K.-J.</given-names></name>; <name><surname>Yoon</surname><given-names>H. S.</given-names></name>; <name><surname>Kim</surname><given-names>K.-T.</given-names></name>
+<article-title>Mitotic Histone H3 Phosphorylation
+by Vaccinia-Related
+Kinase 1 in Mammalian Cells</article-title>. <source>Mol. Cell. Biol.</source>
+<year>2007</year>, <volume>27</volume> (<issue>24</issue>), <fpage>8533</fpage><pub-id pub-id-type="doi">10.1128/MCB.00018-07</pub-id>.<pub-id pub-id-type="pmid">17938195</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Molitor</surname><given-names>T. P.</given-names></name>; <name><surname>Traktman</surname><given-names>P.</given-names></name>
+<article-title>Depletion of the Protein
+Kinase VRK1 Disrupts Nuclear
+Envelope Morphology and Leads to BAF Retention on Mitotic Chromosomes</article-title>. <source>Mol. Biol. Cell</source>
+<year>2014</year>, <volume>25</volume> (<issue>6</issue>), <fpage>891</fpage><pub-id pub-id-type="doi">10.1091/mbc.e13-10-0603</pub-id>.<pub-id pub-id-type="pmid">24430874</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Monsalve</surname><given-names>D. M.</given-names></name>; <name><surname>Merced</surname><given-names>T.</given-names></name>; <name><surname>Fern&#x000e1;ndez</surname><given-names>I. F.</given-names></name>; <name><surname>Blanco</surname><given-names>S.</given-names></name>; <name><surname>V&#x000e1;zquez-Cedeira</surname><given-names>M.</given-names></name>; <name><surname>Lazo</surname><given-names>P. A.</given-names></name>
+<article-title>Human VRK2Modulates Apoptosis by Interaction with Bcl-XL
+and Regulation of BAX Gene Expression</article-title>. <source>Cell
+Death Dis.</source>
+<year>2013</year>, <volume>4</volume> (<issue>2</issue>), <elocation-id>e513</elocation-id><pub-id pub-id-type="doi">10.1038/cddis.2013.40</pub-id>.<pub-id pub-id-type="pmid">23449449</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Blanco</surname><given-names>S.</given-names></name>; <name><surname>Klimcakova</surname><given-names>L.</given-names></name>; <name><surname>Vega</surname><given-names>F. M.</given-names></name>; <name><surname>Lazo</surname><given-names>P. A.</given-names></name>
+<article-title>The Subcellular
+Localization of Vaccinia-Related Kinase-2 (VRK2) Isoforms Determines
+Their Different Effect on P53 Stability in Tumour Cell Lines</article-title>. <source>FEBS J.</source>
+<year>2006</year>, <volume>273</volume> (<issue>11</issue>), <fpage>2487</fpage><pub-id pub-id-type="doi">10.1111/j.1742-4658.2006.05256.x</pub-id>.<pub-id pub-id-type="pmid">16704422</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Zheng</surname><given-names>X. B.</given-names></name>; <name><surname>Ikeda</surname><given-names>M.</given-names></name>; <name><surname>Iwata</surname><given-names>N.</given-names></name>; <name><surname>Luo</surname><given-names>X. J.</given-names></name>; <name><surname>Chong</surname><given-names>S. A.</given-names></name>; <name><surname>Lee</surname><given-names>J.</given-names></name>; <name><surname>Rietschel</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; et al. <article-title>Meta-Analysis and Brain
+Imaging Data Support the Involvement
+of VRK2 (Rs2312147) in Schizophrenia Susceptibility</article-title>. <source>Schizophr. Res.</source>
+<year>2012</year>, <volume>142</volume> (<issue>1&#x02013;3</issue>), <fpage>200</fpage><pub-id pub-id-type="doi">10.1016/j.schres.2012.10.008</pub-id>.<pub-id pub-id-type="pmid">23102693</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Chang</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Xiao</surname><given-names>X.</given-names></name>; <name><surname>Pu</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>
+<article-title>Further Evidence of VRK2 Rs2312147
+Associated with
+Schizophrenia</article-title>. <source>World J. Biol. Psychiatry</source>
+<year>2016</year>, <volume>17</volume> (<issue>6</issue>), <fpage>457</fpage><pub-id pub-id-type="doi">10.1080/15622975.2016.1200746</pub-id>.<pub-id pub-id-type="pmid">27382989</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Azimi</surname><given-names>T.</given-names></name>; <name><surname>Ghafouri-Fard</surname><given-names>S.</given-names></name>; <name><surname>Davood Omrani</surname><given-names>M.</given-names></name>; <name><surname>Mazdeh</surname><given-names>M.</given-names></name>; <name><surname>Arsang-Jang</surname><given-names>S.</given-names></name>; <name><surname>Sayad</surname><given-names>A.</given-names></name>; <name><surname>Taheri</surname><given-names>M.</given-names></name>
+<article-title>Vaccinia Related Kinase 2 (VRK2)
+Expression in Neurological Disorders: Schizophrenia, Epilepsy and
+Multiple Sclerosis</article-title>. <source>Mult. Scler. Relat. Disord.</source>
+<year>2018</year>, <volume>19</volume>, <fpage>15</fpage><pub-id pub-id-type="doi">10.1016/j.msard.2017.10.017</pub-id>.<pub-id pub-id-type="pmid">29100046</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Yue</surname><given-names>W.</given-names></name>
+<article-title>VRK2, a Candidate Gene
+for Psychiatric and Neurological Disorders</article-title>. <source>Mol. Neuropsychiatry</source>
+<year>2018</year>, <volume>4</volume> (<issue>3</issue>), <fpage>119</fpage><pub-id pub-id-type="doi">10.1159/000493941</pub-id>.<pub-id pub-id-type="pmid">30643786</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Jeong</surname><given-names>Y.-H.</given-names></name>; <name><surname>Choi</surname><given-names>J.-H.</given-names></name>; <name><surname>Lee</surname><given-names>D.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>K.-T.</given-names></name>
+<article-title>Vaccinia-Related
+Kinase 2 Modulates Role of Dysbindin by Regulating Protein Stability</article-title>. <source>J. Neurochem.</source>
+<year>2018</year>, <volume>147</volume> (<issue>5</issue>), <fpage>609</fpage><pub-id pub-id-type="doi">10.1111/jnc.14562</pub-id>.<pub-id pub-id-type="pmid">30062698</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Cui</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>Y.</given-names></name>; <name><surname>Shao</surname><given-names>M.</given-names></name>; <name><surname>Shao</surname><given-names>X.</given-names></name>; <name><surname>Shen</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Ni</surname><given-names>W.</given-names></name>; et al. <article-title>High VRK1
+Expression Contributes to Cell Proliferation and Survival in Hepatocellular
+Carcinoma</article-title>. <source>Pathol., Res. Pract.</source>
+<year>2016</year>, <volume>212</volume> (<issue>3</issue>), <fpage>171</fpage><pub-id pub-id-type="doi">10.1016/j.prp.2015.11.015</pub-id>.<pub-id pub-id-type="pmid">26706601</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Ben</surname><given-names>Z.</given-names></name>; <name><surname>Gong</surname><given-names>L.</given-names></name>; <name><surname>Qiu</surname><given-names>Y.</given-names></name>
+<article-title>High Expression
+of VRK1 Is Related
+to Poor Prognosis in Glioma</article-title>. <source>Pathol., Res. Pract.</source>
+<year>2018</year>, <volume>214</volume> (<issue>1</issue>), <fpage>112</fpage><pub-id pub-id-type="doi">10.1016/j.prp.2017.10.014</pub-id>.<pub-id pub-id-type="pmid">29103766</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Elkins</surname><given-names>J. M.</given-names></name>; <name><surname>Fedele</surname><given-names>V.</given-names></name>; <name><surname>Szklarz</surname><given-names>M.</given-names></name>; <name><surname>Abdul Azeez</surname><given-names>K. R.</given-names></name>; <name><surname>Salah</surname><given-names>E.</given-names></name>; <name><surname>Mikolajczyk</surname><given-names>J.</given-names></name>; <name><surname>Romanov</surname><given-names>S.</given-names></name>; <name><surname>Sepetov</surname><given-names>N.</given-names></name>; <name><surname>Huang</surname><given-names>X. P.</given-names></name>; <name><surname>Roth</surname><given-names>B. L.</given-names></name>; et al. <article-title>Comprehensive Characterization
+of the Published Kinase Inhibitor Set</article-title>. <source>Nat.
+Biotechnol.</source>
+<year>2016</year>, <volume>34</volume> (<issue>1</issue>), <fpage>95</fpage><pub-id pub-id-type="doi">10.1038/nbt.3374</pub-id>.<pub-id pub-id-type="pmid">26501955</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Cou&#x000f1;ago</surname><given-names>R. M.</given-names></name>; <name><surname>Allerston</surname><given-names>C. K.</given-names></name>; <name><surname>Savitsky</surname><given-names>P.</given-names></name>; <name><surname>Azevedo</surname><given-names>H.</given-names></name>; <name><surname>Godoi</surname><given-names>P. H.</given-names></name>; <name><surname>Wells</surname><given-names>C. I.</given-names></name>; <name><surname>Mascarello</surname><given-names>A.</given-names></name>; <name><surname>de Souza Gama</surname><given-names>F. H.</given-names></name>; <name><surname>Massirer</surname><given-names>K. B.</given-names></name>; <name><surname>Zuercher</surname><given-names>W. J.</given-names></name>; et al. <article-title>Structural Characterization
+of Human Vaccinia-Related Kinases (VRK) Bound to Small-Molecule Inhibitors
+Identifies Different P-Loop Conformations</article-title>. <source>Sci.
+Rep.</source>
+<year>2017</year>, <volume>7</volume> (<issue>1</issue>), <fpage>7501</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-07755-y</pub-id>.<pub-id pub-id-type="pmid">28790404</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Guimar&#x000e3;es</surname><given-names>C. R.
+W.</given-names></name>; <name><surname>Rai</surname><given-names>B. K.</given-names></name>; <name><surname>Munchhof</surname><given-names>M. J.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>S. K.</given-names></name>; <name><surname>Buckbinder</surname><given-names>L.</given-names></name>
+<article-title>Understanding the Impact of the P-Loop
+Conformation on Kinase Selectivity</article-title>. <source>J. Chem.
+Inf. Model.</source>
+<year>2011</year>, <volume>51</volume> (<issue>6</issue>), <fpage>1199</fpage><pub-id pub-id-type="doi">10.1021/ci200153c</pub-id>.<pub-id pub-id-type="pmid">21568278</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Aronchik</surname><given-names>I.</given-names></name>; <name><surname>Appleton</surname><given-names>B. A.</given-names></name>; <name><surname>Basham</surname><given-names>S. E.</given-names></name>; <name><surname>Crawford</surname><given-names>K.</given-names></name>; <name><surname>Del Rosario</surname><given-names>M.</given-names></name>; <name><surname>Doyle</surname><given-names>L. V.</given-names></name>; <name><surname>Estacio</surname><given-names>W. F.</given-names></name>; <name><surname>Lan</surname><given-names>J.</given-names></name>; <name><surname>Lindvall</surname><given-names>M. K.</given-names></name>; <name><surname>Luu</surname><given-names>C. A.</given-names></name>; et al. <article-title>Novel Potent and Selective
+Inhibitors of P90 Ribosomal
+S6 Kinase Reveal the Heterogeneity of RSK Function in MAPK-Driven
+Cancers</article-title>. <source>Mol. Cancer Res.</source>
+<year>2014</year>, <volume>12</volume> (<issue>5</issue>), <fpage>803</fpage><pub-id pub-id-type="doi">10.1158/1541-7786.MCR-13-0595</pub-id>.<pub-id pub-id-type="pmid">24554780</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Ammirati</surname><given-names>M.</given-names></name>; <name><surname>Bagley</surname><given-names>S. W.</given-names></name>; <name><surname>Bhattacharya</surname><given-names>S. K.</given-names></name>; <name><surname>Buckbinder</surname><given-names>L.</given-names></name>; <name><surname>Carlo</surname><given-names>A. A.</given-names></name>; <name><surname>Conrad</surname><given-names>R.</given-names></name>; <name><surname>Cortes</surname><given-names>C.</given-names></name>; <name><surname>Dow</surname><given-names>R. L.</given-names></name>; <name><surname>Dowling</surname><given-names>M. S.</given-names></name>; <name><surname>El-Kattan</surname><given-names>A.</given-names></name>; et al. <article-title>Discovery of an in Vivo
+Tool to Establish Proof-of-Concept for MAP4K4-Based Antidiabetic Treatment</article-title>. <source>ACS Med. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume> (<issue>11</issue>), <fpage>1128</fpage><pub-id pub-id-type="doi">10.1021/acsmedchemlett.5b00215</pub-id>.<pub-id pub-id-type="pmid">26617966</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Fedorov</surname><given-names>O.</given-names></name>; <name><surname>Niesen</surname><given-names>F. H.</given-names></name>; <name><surname>Knapp</surname><given-names>S.</given-names></name>
+<article-title>Kinase Inhibitor
+Selectivity Profiling
+Using Differential Scanning Fluorimetry</article-title>. <source>Methods
+Mol. Biol.</source>
+<year>2012</year>, <volume>795</volume>, <fpage>109</fpage><pub-id pub-id-type="doi">10.1007/978-1-61779-337-0_7</pub-id>.<pub-id pub-id-type="pmid">21960218</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Fedorov</surname><given-names>O.</given-names></name>; <name><surname>Marsden</surname><given-names>B.</given-names></name>; <name><surname>Pogacic</surname><given-names>V.</given-names></name>; <name><surname>Rellos</surname><given-names>P.</given-names></name>; <name><surname>Muller</surname><given-names>S.</given-names></name>; <name><surname>Bullock</surname><given-names>A. N.</given-names></name>; <name><surname>Schwaller</surname><given-names>J.</given-names></name>; <name><surname>Sundstrom</surname><given-names>M.</given-names></name>; <name><surname>Knapp</surname><given-names>S.</given-names></name>
+<article-title>A Systematic Interaction Map of Validated
+Kinase Inhibitors with
+Ser/Thr Kinases</article-title>. <source>Proc. Natl. Acad. Sci. U. S.
+A.</source>
+<year>2007</year>, <volume>104</volume> (<issue>51</issue>), <fpage>20523</fpage><pub-id pub-id-type="doi">10.1073/pnas.0708800104</pub-id>.<pub-id pub-id-type="pmid">18077363</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Qiu</surname><given-names>J.</given-names></name>; <name><surname>Stevenson</surname><given-names>S. H.</given-names></name>; <name><surname>O&#x02019;Beirn</surname><given-names>M. J.</given-names></name>; <name><surname>Silverman</surname><given-names>R. B.</given-names></name>
+<article-title>2,6-Difluorophenol
+as a Bioisostere of a Carboxylic Acid: Bioisosteric Analogues of Gamma-Aminobutyric
+Acid</article-title>. <source>J. Med. Chem.</source>
+<year>1999</year>, <volume>42</volume> (<issue>2</issue>), <fpage>329</fpage><pub-id pub-id-type="doi">10.1021/jm980435l</pub-id>.<pub-id pub-id-type="pmid">9925739</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Jain</surname><given-names>R.</given-names></name>; <name><surname>Mathur</surname><given-names>M.</given-names></name>; <name><surname>Lan</surname><given-names>J.</given-names></name>; <name><surname>Costales</surname><given-names>A.</given-names></name>; <name><surname>Atallah</surname><given-names>G.</given-names></name>; <name><surname>Ramurthy</surname><given-names>S.</given-names></name>; <name><surname>Subramanian</surname><given-names>S.</given-names></name>; <name><surname>Setti</surname><given-names>L.</given-names></name>; <name><surname>Feucht</surname><given-names>P.</given-names></name>; <name><surname>Warne</surname><given-names>B.</given-names></name>; et al. <article-title>Discovery
+of Potent and Selective RSK Inhibitors as
+Biological Probes</article-title>. <source>J. Med. Chem.</source>
+<year>2015</year>, <volume>58</volume> (<issue>17</issue>), <fpage>6766</fpage><pub-id pub-id-type="doi">10.1021/acs.jmedchem.5b00450</pub-id>.<pub-id pub-id-type="pmid">26270416</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Barreiro</surname><given-names>E. J.</given-names></name>; <name><surname>Kummerle</surname><given-names>A. E.</given-names></name>; <name><surname>Fraga</surname><given-names>C. A. M.</given-names></name>
+<article-title>The
+Methylation Effect in Medicinal
+Chemistry</article-title>. <source>Chem. Rev.</source>
+<year>2011</year>, <volume>111</volume> (<issue>9</issue>), <fpage>5215</fpage><pub-id pub-id-type="doi">10.1021/cr200060g</pub-id>.<pub-id pub-id-type="pmid">21631125</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Leung</surname><given-names>C. S.</given-names></name>; <name><surname>Leung</surname><given-names>S. S. F.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>; <name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>
+<article-title>Methyl
+Effects on Protein-Ligand Binding</article-title>. <source>J. Med. Chem.</source>
+<year>2012</year>, <volume>55</volume> (<issue>9</issue>), <fpage>4489</fpage><pub-id pub-id-type="doi">10.1021/jm3003697</pub-id>.<pub-id pub-id-type="pmid">22500930</pub-id></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Xing</surname><given-names>L.</given-names></name>; <name><surname>Klug-Mcleod</surname><given-names>J.</given-names></name>; <name><surname>Rai</surname><given-names>B.</given-names></name>; <name><surname>Lunney</surname><given-names>E. A.</given-names></name>
+<article-title>Kinase Hinge Binding
+Scaffolds and Their Hydrogen Bond Patterns</article-title>. <source>Bioorg. Med. Chem.</source>
+<year>2015</year>, <volume>23</volume> (<issue>19</issue>), <fpage>6520</fpage><pub-id pub-id-type="doi">10.1016/j.bmc.2015.08.006</pub-id>.<pub-id pub-id-type="pmid">26358279</pub-id></mixed-citation></ref></ref-list></back></article>

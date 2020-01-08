@@ -1,0 +1,376 @@
+{
+  "id": [
+    "31623133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31623133"
+  ],
+  "pmcid": [
+    "PMC6826850"
+  ],
+  "doi": [
+    "10.3390/cancers11101574"
+  ],
+  "title": [
+    "The Many Facets of Tumor Heterogeneity: Is Metabolism Lagging Behind?"
+  ],
+  "authorString": [
+    "Loponte S, Lovisa S, Deem AK, Carugo A, Viale A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Loponte S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Loponte"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2849-5805",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. SLoponte@mdanderson.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Lovisa S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Lovisa"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7776-2896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cancer Biology, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. SLovisa@mdanderson.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Deem AK"
+          ],
+          "firstName": [
+            "Angela K"
+          ],
+          "lastName": [
+            "Deem"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. AKDeem@mdanderson.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Carugo A"
+          ],
+          "firstName": [
+            "Alessandro"
+          ],
+          "lastName": [
+            "Carugo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5182-3320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "TRACTION platform, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. ACarugo@mdanderson.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Viale A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Viale"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. aviale@mdanderson.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7776-2896",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2849-5805",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5182-3320",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2867021"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancers"
+          ],
+          "ISOAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Cancers (Basel)"
+          ],
+          "NLMid": [
+            "101526829"
+          ],
+          "ISSN": [
+            "2072-6694"
+          ],
+          "ESSN": [
+            "2072-6694"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Tumor functional heterogeneity has been recognized for decades, and technological advancements are fueling renewed interest in uncovering the cell-intrinsic and extrinsic factors that influence tumor development and therapeutic response. Intratumoral heterogeneity is now arguably one of the most-studied topics in tumor biology, leading to the discovery of new paradigms and reinterpretation of old ones, as we aim to understand the profound implications that genomic, epigenomic, and functional heterogeneity hold with regard to clinical outcomes. In spite of our improved understanding of the biological complexity of cancer, characterization of tumor metabolic heterogeneity has lagged behind, lost in a century-old controversy debating whether glycolysis or mitochondrial respiration is more influential. But is tumor metabolism really so simple? Here, we review historical and current views of intratumoral heterogeneity, with an emphasis on summarizing the emerging data that begin to illuminate just how vast the spectrum of metabolic strategies a tumor can employ may be, and what this means for how we might interpret other tumor characteristics, such as mutational landscape, contribution of microenvironmental influences, and treatment resistance."
+  ],
+  "affiliation": [
+    "Department of Genomic Medicine, The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. SLoponte@mdanderson.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ecosystem",
+        "Evolution",
+        "Metabolism",
+        "Complexity",
+        "Adaptation",
+        "Genomics",
+        "Reprogramming",
+        "epigenomics",
+        "Treatment Resistance",
+        "Response To Therapy",
+        "Intratumor Heterogeneity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cancers11101574"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6826850"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6826850?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-19"
+  ],
+  "firstIndexDate": [
+    "2019-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-16"
+  ],
+  "firstPublicationDate": [
+    "2019-10-16"
+  ]
+}

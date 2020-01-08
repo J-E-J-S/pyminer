@@ -1,0 +1,348 @@
+{
+  "id": [
+    "31456759"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31456759"
+  ],
+  "pmcid": [
+    "PMC6701196"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.01779"
+  ],
+  "title": [
+    "Genome Sequences of a Plant Beneficial Synthetic Bacterial Community Reveal Genetic Features for Successful Plant Colonization."
+  ],
+  "authorString": [
+    "de Souza RSC, Armanhi JSL, Damasceno NB, Imperial J, Arruda P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Souza RSC"
+          ],
+          "firstName": [
+            "Rafael Soares Correa"
+          ],
+          "lastName": [
+            "de Souza"
+          ],
+          "initials": [
+            "RSC"
+          ],
+          "affiliation": [
+            "Centro de Biologia Molecular e Engenharia Genética, Universidade Estadual de Campinas, Campinas, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Armanhi JSL"
+          ],
+          "firstName": [
+            "Jaderson Silveira Leite"
+          ],
+          "lastName": [
+            "Armanhi"
+          ],
+          "initials": [
+            "JSL"
+          ],
+          "affiliation": [
+            "Centro de Biologia Molecular e Engenharia Genética, Universidade Estadual de Campinas, Campinas, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Damasceno NB"
+          ],
+          "firstName": [
+            "Natália de Brito"
+          ],
+          "lastName": [
+            "Damasceno"
+          ],
+          "initials": [
+            "NB"
+          ],
+          "affiliation": [
+            "Centro de Biologia Molecular e Engenharia Genética, Universidade Estadual de Campinas, Campinas, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Imperial J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Imperial"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5002-6458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centro de Biotecnología y Genómica de Plantas, Universidad Politécnica de Madrid, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA), Campus Montegancedo UPM, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Arruda P"
+          ],
+          "firstName": [
+            "Paulo"
+          ],
+          "lastName": [
+            "Arruda"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Centro de Biologia Molecular e Engenharia Genética, Universidade Estadual de Campinas, Campinas, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5002-6458",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1779"
+  ],
+  "abstractText": [
+    "Despite the availability of data on the functional and phylogenetic diversity of plant-associated microbiota, the molecular mechanisms governing the successful establishment of plant bacterial communities remain mostly elusive. To investigate bacterial traits associated with successful colonization of plants, we sequenced the genome of 26 bacteria of a synthetic microbial community (SynCom), 12 of which displayed robust and 14 displayed non-robust colonization lifestyles when inoculated in maize plants. We examined the colonization profile of individual bacteria in inoculated plants and inspected their genomes for traits correlated to the colonization lifestyle. Comparative genomic analysis between robust and non-robust bacteria revealed that commonly investigated plant growth-promoting features such as auxin production, nitrogen (N) fixation, phosphate acquisition, and ACC deaminase are not deterministic for robust colonization. Functions related to carbon (C) and N acquisition, including transporters of carbohydrates and amino acids, and kinases involved in signaling mechanisms associated with C and N uptake, were enriched in robust colonizers. While enrichment of carbohydrate transporters was linked to a wide range of metabolites, amino acid transporters were primarily related to the uptake of branched-chain amino acids. Our findings identify diversification of nutrient uptake phenotypes in bacteria as determinants for successful bacterial colonization of plants."
+  ],
+  "affiliation": [
+    "Centro de Biologia Molecular e Engenharia Genética, Universidade Estadual de Campinas, Campinas, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacterial Genome",
+        "Plant Microbiome",
+        "Plant-beneficial Bacteria",
+        "Synthetic Microbial Community (Syncom)",
+        "Plant–microbe Association"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.01779"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6701196"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6701196?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-29"
+  ],
+  "dateOfRevision": [
+    "2019-08-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-13"
+  ],
+  "firstPublicationDate": [
+    "2019-08-13"
+  ]
+}

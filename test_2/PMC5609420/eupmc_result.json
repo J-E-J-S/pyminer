@@ -1,0 +1,310 @@
+{
+  "id": [
+    "28935741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28935741"
+  ],
+  "pmcid": [
+    "PMC5609420"
+  ],
+  "doi": [
+    "10.1128/genomeA.00983-17"
+  ],
+  "title": [
+    "Insights into the Genome of the Anaerobic Acetogen Sporomusa silvacetica DSM 10669."
+  ],
+  "authorString": [
+    "Humphreys JR, Daniel R, Poehlein A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Humphreys JR"
+          ],
+          "firstName": [
+            "Jonathan R"
+          ],
+          "lastName": [
+            "Humphreys"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Clostridia Research Group, BBSRC/EPSRC Synthetic Biology Research Centre (SBRC), School of Life Sciences, University of Nottingham, Nottingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Daniel R"
+          ],
+          "firstName": [
+            "Rolf"
+          ],
+          "lastName": [
+            "Daniel"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8646-7925",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomic and Applied Microbiology & Göttingen Genomics Laboratory, Georg-August University Göttingen, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Poehlein A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Poehlein"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2473-6202",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomic and Applied Microbiology & Göttingen Genomics Laboratory, Georg-August University Göttingen, Göttingen, Germany apoehle3@gwdg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8646-7925",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2473-6202",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "38"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2600126"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome announcements"
+          ],
+          "ISOAbbreviation": [
+            "Genome Announc"
+          ],
+          "medlineAbbreviation": [
+            "Genome Announc"
+          ],
+          "NLMid": [
+            "101595808"
+          ],
+          "ISSN": [
+            "2169-8287"
+          ],
+          "ESSN": [
+            "2169-8287"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Sporomusa silvacetica is a spore-forming, anaerobic acetogen isolated from soil derived from east central Germany. The genome contains genes of the Wood-Ljungdahl pathway required for carbon fixation and genes involved in the biosynthesis of the amino acid pyrrolysine. The genome (5.92 Mb) harbors 4,355 predicted protein-encoding genes."
+  ],
+  "affiliation": [
+    "Clostridia Research Group, BBSRC/EPSRC Synthetic Biology Research Centre (SBRC), School of Life Sciences, University of Nottingham, Nottingham, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5609420?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5609420"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/genomeA.00983-17"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-22"
+  ],
+  "firstIndexDate": [
+    "2017-09-23"
+  ],
+  "fullTextReceivedDate": [
+    "2017-09-28"
+  ],
+  "dateOfRevision": [
+    "2017-09-27"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-21"
+  ],
+  "firstPublicationDate": [
+    "2017-09-21"
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "id": [
+    "29893801"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29893801"
+  ],
+  "pmcid": [
+    "PMC6247929"
+  ],
+  "doi": [
+    "10.1093/bioinformatics/bty456"
+  ],
+  "title": [
+    "Modelling BioNano optical data and simulation study of genome map assembly."
+  ],
+  "authorString": [
+    "Chen P, Jing X, Ren J, Cao H, Hao P, Li X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jing X"
+          ],
+          "firstName": [
+            "Xinyun"
+          ],
+          "lastName": [
+            "Jing"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Ultravision Technology, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BioNano Genomics, San Diego, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hao P"
+          ],
+          "firstName": [
+            "Pei"
+          ],
+          "lastName": [
+            "Hao"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "University of Chinese Academy of Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xuan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "23"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2753333"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bioinformatics (Oxford, England)"
+          ],
+          "ISOAbbreviation": [
+            "Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "Bioinformatics"
+          ],
+          "NLMid": [
+            "9808944"
+          ],
+          "ISSN": [
+            "1367-4803"
+          ],
+          "ESSN": [
+            "1367-4811"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3966-3974"
+  ],
+  "abstractText": [
+    "Motivation:The launch of the BioNano next-generation mapping system has greatly enhanced the performance of physical map construction, thus rapidly expanding the application of optical mapping in genome research. Data biases have profound implications for downstream applications. However, very little is known about the properties and biases of BioNano data, and the very factors that contribute to whole-genome optical map assembly. Results:We generated BioNano molecule data from eight organisms with diverse base compositions. We first characterized the properties/biases of BioNano molecule data, i.e. molecule length distribution, false labelling signal, variation of optical resolution and coverage distribution bias, and their inducing factors such as chimeric molecules, fragile sites and DNA molecule stretching. Second, we developed the BioNano Molecule SIMulator (BMSIM), a novel computer simulation program for optical data. BMSIM, is of great use for future genome mapping projects. Third, we evaluated the experimental variables that impact whole-genome optical map assembly. Specifically, the effects of coverage depth, molecule length, false-positive and false-negative labelling signals, chimeric molecules and nicking enzyme and nick site density were investigated. Our simulation study provides the empirical findings on how to control experimental variables and gauge analytical parameters to maximize benefit and minimize cost on whole-genome optical map assembly. Availability and implementation:BMSIM is freely available on: https://github.com/pingchen09990102/BMSIM. Supplementary information:Supplementary data are available at Bioinformatics online."
+  ],
+  "affiliation": [
+    "Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Chromosome Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/bioinformatics/bty456"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6247929"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6247929?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-10-22"
+  ],
+  "dateOfCreation": [
+    "2018-06-13"
+  ],
+  "firstIndexDate": [
+    "2018-06-13"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

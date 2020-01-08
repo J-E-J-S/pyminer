@@ -1,0 +1,404 @@
+{
+  "id": [
+    "31640560"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31640560"
+  ],
+  "pmcid": [
+    "PMC6805343"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6102-6"
+  ],
+  "title": [
+    "Transcriptomic analysis of Macrobrachium rosenbergii (giant fresh water prawn) post-larvae in response to M. rosenbergii nodavirus (MrNV) infection: de novo assembly and functional annotation."
+  ],
+  "authorString": [
+    "Pasookhush P, Hindmarch C, Sithigorngul P, Longyant S, Bendena WG, Chaivisuthangkura P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pasookhush P"
+          ],
+          "firstName": [
+            "Phongthana"
+          ],
+          "lastName": [
+            "Pasookhush"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biology, Srinakharinwirot University, Sukhumvit 23, Bangkok, 10110, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Hindmarch C"
+          ],
+          "firstName": [
+            "Charles"
+          ],
+          "lastName": [
+            "Hindmarch"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "QCPU, Queen's Cardiopulmonary Unit, Translational Institute of Medicine (TIME), Department of Medicine, Queen's University, Kingston, ON, K7L 3N6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Sithigorngul P"
+          ],
+          "firstName": [
+            "Paisarn"
+          ],
+          "lastName": [
+            "Sithigorngul"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biology, Srinakharinwirot University, Sukhumvit 23, Bangkok, 10110, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Longyant S"
+          ],
+          "firstName": [
+            "Siwaporn"
+          ],
+          "lastName": [
+            "Longyant"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biology, Srinakharinwirot University, Sukhumvit 23, Bangkok, 10110, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Bendena WG"
+          ],
+          "firstName": [
+            "William G"
+          ],
+          "lastName": [
+            "Bendena"
+          ],
+          "initials": [
+            "WG"
+          ],
+          "affiliation": [
+            "Department of Biology, Queen's University, Kingston, ON, K7L 3N6, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaivisuthangkura P"
+          ],
+          "firstName": [
+            "Parin"
+          ],
+          "lastName": [
+            "Chaivisuthangkura"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8326-222X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology, Srinakharinwirot University, Sukhumvit 23, Bangkok, 10110, Thailand. parin@g.swu.ac.th."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8326-222X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2867797"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "762"
+  ],
+  "abstractText": [
+    "BACKGROUND:Macrobrachium rosenbergii, is one of a major freshwater prawn species cultured in Southeast Asia. White tail disease (WTD), caused by Macrobrachium rosenbergii nodavirus (MrNV), is a serious problem in farm cultivation and is responsible for up to 100% mortality in the post larvae stage. Molecular data on how M. rosenbergii post-larvae launches an immune response to an infection with MrNV is not currently available. We therefore compared the whole transcriptomic sequence of M. rosenbergii post-larvae before and after MrNV infection. RESULTS:Transcriptome for M. rosenbergii post-larvae demonstrated high completeness (BUSCO Complete: 83.4%, fragmentation: 13%, missing:3.3%, duplication:16.2%; highest ExN50 value: 94%). The assembled transcriptome consists of 96,362 unigenes with N50 of 1308 bp. The assembled transcriptome was successfully annotated against the NCBI non-redundant arthropod database (33.75%), UniProt database (26.73%), Gene Ontology (GO) (18.98%), Evolutionary Genealogy of Genes: Non-supervised Orthologous Groups (EggNOG) (20.88%), and Kyoto Encyclopedia of Genes and Genome pathway (KEGG) (20.46%). GO annotations included immune system process, signaling, response to stimulus, and antioxidant activity. Differential abundance analysis using EdgeR showed 2413 significantly up-regulated genes and 3125 significantly down-regulated genes during the infection of MrNV. CONCLUSIONS:This study reported a highly complete transcriptome from the post-larvae stage of giant river prawn, M. rosenbergii. Differential abundant transcripts during MrNV infection were identified and validated by qPCR, many of these differentially abundant transcripts as key players in antiviral immunity. These include known members of the innate immune response with the largest expression change occurring in the M. rosenbergii post-larvae after MrNV infection such as antiviral protein, C-type lectin, prophenol oxidase, caspase, ADP ribosylation factors, and dicer."
+  ],
+  "affiliation": [
+    "Department of Biology, Srinakharinwirot University, Sukhumvit 23, Bangkok, 10110, Thailand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Grant RGPIN36481-08"
+          ],
+          "agency": [
+            "Natural Sciences and Engineering Research Council of Canada Discovery"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Grant 520/2561"
+          ],
+          "agency": [
+            "Strategic Wisdom and Research Institute, Srinakharinwirot University"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Macrobrachium rosenbergii",
+        "Rnaseq",
+        "Differential Expression Analysis",
+        "De Novo Transcriptome Assembly",
+        "Crustacean Immunity",
+        "M. Rosenbergii Nodavirus"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6102-6"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805343"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6805343?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-24"
+  ],
+  "firstIndexDate": [
+    "2019-10-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-02"
+  ],
+  "dateOfRevision": [
+    "2019-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-22"
+  ],
+  "firstPublicationDate": [
+    "2019-10-22"
+  ]
+}

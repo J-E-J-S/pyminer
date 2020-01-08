@@ -1,0 +1,371 @@
+{
+  "id": [
+    "31239529"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31239529"
+  ],
+  "pmcid": [
+    "PMC6592948"
+  ],
+  "doi": [
+    "10.1038/s41598-019-45686-y"
+  ],
+  "title": [
+    "Purification and characterization of a novel, highly potent fibrinolytic enzyme from Bacillus subtilis DC27 screened from Douchi, a traditional Chinese fermented soybean food."
+  ],
+  "authorString": [
+    "Hu Y, Yu D, Wang Z, Hou J, Tyagi R, Liang Y, Hu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yuanliang"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhaoting"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Hubei Key Laboratory of Edible Wild Plants Conservation& Utilization, College of Life Sciences, Hubei Normal University, Huangshi, 435002, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tyagi R"
+          ],
+          "firstName": [
+            "Rohit"
+          ],
+          "lastName": [
+            "Tyagi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang Y"
+          ],
+          "firstName": [
+            "Yunxiang"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China. fa-lyx@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yongmei"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China. plum73@163.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2823394"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "9235"
+  ],
+  "abstractText": [
+    "The highly fibrinolytic enzyme-producing bacterium was identified as Bacillus subtilis DC27 and isolated from Douchi, a traditional fermented soybean food. The DFE27 enzyme was purified from the fermentation broth of B. subtilis DC27 by using UNOsphere Q column chromatography, Sephadex G-75 gel filtration, and high-performance liquid chromatography. It was 29 kDa in molecular mass and showed the optimal reaction temperature and pH value of 45 °C and 7.0, respectively, with a stable fibrinolytic activity below 50 °C and within the pH range of 6.0 to 10.0. DFE27 was identified as a serine protease due to its complete inhibition by phenylmethysulfony fluoride. The first 24 amino acid residues of the N-terminal sequence of the enzyme were AQSVPYGVSQIKAPALHSQGFTGS. The enzyme displayed the highest specificity toward the substrate D-Val-Leu-Lys-pNA for plasmin and it could not only directly degrade but also hydrolyze fibrin by activating plasminogen into plasmin. Overall, the DFE27 enzyme was obviously different from other known fibrinolytic enzymes in the optimum substrate specificity or fibrinolytic action mode, suggesting that it is a novel fibrinolytic enzyme and may have potential applications in the treatment and prevention of thrombosis."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, Wuhan, 430070, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31300042"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-45686-y"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6592948"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6592948?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-27"
+  ],
+  "firstIndexDate": [
+    "2019-06-27"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-05"
+  ],
+  "dateOfRevision": [
+    "2019-07-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-25"
+  ],
+  "firstPublicationDate": [
+    "2019-06-25"
+  ]
+}

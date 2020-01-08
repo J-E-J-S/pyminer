@@ -1,0 +1,291 @@
+{
+  "id": [
+    "31001361"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31001361"
+  ],
+  "pmcid": [
+    "PMC6470328"
+  ],
+  "doi": [
+    "10.7150/jgen.32164"
+  ],
+  "title": [
+    "Metadata Analysis Approaches for Understanding and Improving the Functional Involvement of Rumen Microbial Consortium in Digestion and Metabolism of Plant Biomass."
+  ],
+  "authorString": [
+    "Kameshwar AKS, Ramos LP, Qin W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kameshwar AKS"
+          ],
+          "firstName": [
+            "Ayyappa Kumar Sista"
+          ],
+          "lastName": [
+            "Kameshwar"
+          ],
+          "initials": [
+            "AKS"
+          ],
+          "affiliation": [
+            "Department of Biology, Lakehead University, 955 Oliver Road, Thunder Bay, Ontario, P7B 5E1, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramos LP"
+          ],
+          "firstName": [
+            "Luiz Pereira"
+          ],
+          "lastName": [
+            "Ramos"
+          ],
+          "initials": [
+            "LP"
+          ],
+          "affiliation": [
+            "Research Center in Applied Chemistry (CEPESQ), Department of Chemistry, Universidade Federal do Paraná, P. O. Box 19032, Curitiba, Paraná, 81531-980, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin W"
+          ],
+          "firstName": [
+            "Wensheng"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Biology, Lakehead University, 955 Oliver Road, Thunder Bay, Ontario, P7B 5E1, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2772974"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of genomics"
+          ],
+          "ISOAbbreviation": [
+            "J Genomics"
+          ],
+          "medlineAbbreviation": [
+            "J Genomics"
+          ],
+          "NLMid": [
+            "101623535"
+          ],
+          "ISSN": [
+            "1839-9940"
+          ],
+          "ESSN": [
+            "1839-9940"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "31-45"
+  ],
+  "abstractText": [
+    "Rumen is one of the most complex gastro-intestinal system in ruminating animals. With bountiful of microorganisms supporting in breakdown and consumption of minerals and nutrients from the complex plant biomass. It is predicted that a table spoon of ruminal fluid can reside up to 150 billion microorganisms including various species of bacteria, fungi and protozoa. Several studies in the past have extensively explained about the structural and functional physiology of the rumen. Studies based on rumen and its microbiota has increased significantly in the last decade to understand and reveal applications of the rumen microbiota in food processing, pharmaceutical, biofuel and biorefining industries. Recent high-throughput meta-genomic and proteomic studies have revealed humongous information on rumen microbial diversity. In this study, we have extensively reviewed and reported present-day's progress in understanding the rumen microbial diversity. As of today, NCBI resides about 821,870 records based on rumen with approximately 889 genome sequencing studies. We have retrieved all the rumen-based records from NCBI and extensively catalogued the rumen microbial diversity and the corresponding genomic and proteomic studies respectively. Also, we have provided a brief inventory of metadata analysis software packages and reviewed the metadata analysis approaches for understanding the functional involvement of these microorganisms. Knowing and understanding the present progress on rumen microbiota and performing metadata analysis studies will significantly benefit the researchers in identifying the molecular mechanisms involved in plant biomass degradation. These studies are also necessary for developing highly efficient microorganisms and enzyme mixtures for enhancing the benefits of cattle-feedstock and biofuel industries."
+  ],
+  "affiliation": [
+    "Department of Biology, Lakehead University, 955 Oliver Road, Thunder Bay, Ontario, P7B 5E1, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fungi",
+        "Bacteria",
+        "Genomic",
+        "Microbiota",
+        "Proteomic",
+        "Protozoa.",
+        "Ruminal Fluid",
+        "Ruminating Animals"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/jgen.32164"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6470328"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6470328?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-20"
+  ],
+  "firstIndexDate": [
+    "2019-04-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-20"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-02"
+  ],
+  "firstPublicationDate": [
+    "2019-04-02"
+  ]
+}

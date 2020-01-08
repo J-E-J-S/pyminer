@@ -1,0 +1,296 @@
+{
+  "id": [
+    "30532651"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30532651"
+  ],
+  "pmcid": [
+    "PMC6225455"
+  ],
+  "doi": [
+    "10.2174/1389202919666180911131206"
+  ],
+  "title": [
+    "Model Microbial Consortia as Tools for Understanding Complex Microbial Communities."
+  ],
+  "authorString": [
+    "Haruta S, Yamamoto K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Haruta S"
+          ],
+          "firstName": [
+            "Shin"
+          ],
+          "lastName": [
+            "Haruta"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1Department of Biological Sciences, Tokyo Metropolitan University, Hachioji, Tokyo, Japan; 2National Institute of Advanced Industrial Science and Technology, Sapporo, Hokkaido, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamamoto K"
+          ],
+          "firstName": [
+            "Kyosuke"
+          ],
+          "lastName": [
+            "Yamamoto"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2450-779X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Biological Sciences, Tokyo Metropolitan University, Hachioji, Tokyo, Japan; 2National Institute of Advanced Industrial Science and Technology, Sapporo, Hokkaido, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2450-779X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2759700"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current genomics"
+          ],
+          "ISOAbbreviation": [
+            "Curr. Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Curr Genomics"
+          ],
+          "NLMid": [
+            "100960527"
+          ],
+          "ISSN": [
+            "1389-2029"
+          ],
+          "ESSN": [
+            "1875-5488"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "723-733"
+  ],
+  "abstractText": [
+    "A major biological challenge in the postgenomic era has been untangling the composition and functions of microbes that inhabit complex communities or microbiomes. Multi-omics and modern bioinformatics have provided the tools to assay molecules across different cellular and community scales; however, mechanistic knowledge over microbial interactions often remains elusive. This is due to the immense diversity and the essentially undiminished volume of not-yet-cultured microbes. Simplified model communities hold some promise in enabling researchers to manage complexity so that they can mechanistically understand the emergent properties of microbial community interactions. In this review, we surveyed several approaches that have effectively used tractable model consortia to elucidate the complex behavior of microbial communities. We go further to provide some perspectives on the limitations and new opportunities with these approaches and highlight where these efforts are likely to lead as advances are made in molecular ecology and systems biology."
+  ],
+  "affiliation": [
+    "1Department of Biological Sciences, Tokyo Metropolitan University, Hachioji, Tokyo, Japan; 2National Institute of Advanced Industrial Science and Technology, Sapporo, Hokkaido, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ecosystems",
+        "Microbial ecology",
+        "Complex Systems",
+        "Microbiome",
+        "Microbial Consortia",
+        "Multi-omics",
+        "Interspecies Interactions"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6225455?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6225455"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1389202919666180911131206"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-05"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ],
+  "embargoDate": [
+    "2019-06-01"
+  ]
+}

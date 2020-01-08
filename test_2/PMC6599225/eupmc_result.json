@@ -1,0 +1,282 @@
+{
+  "id": [
+    "31251741"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31251741"
+  ],
+  "pmcid": [
+    "PMC6599225"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0199653"
+  ],
+  "title": [
+    "Seamless assembly of DNA parts into functional devices and higher order multi-device systems."
+  ],
+  "authorString": [
+    "Braman JC, Sheffield PJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Braman JC"
+          ],
+          "firstName": [
+            "Jeffrey Carl"
+          ],
+          "lastName": [
+            "Braman"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1726-7388",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Agilent Technologies, Inc., La Jolla, CA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Sheffield PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Sheffield"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "Agilent Technologies, Inc., La Jolla, CA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1726-7388",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2823119"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0199653"
+  ],
+  "abstractText": [
+    "A new method is introduced allowing seamless assembly of independent, functionally tested, blunt-end double strand nucleic acid parts (DNA fragments not supplied in vectors such as plasmids) into more complex biological devices (e.g. protein expression vectors) and higher order multi-device systems (e.g. biochemical pathways). Individual parts include bacterial selection markers and origins of replication, promoters useful in a variety of species, transcription terminators, shuttle sequences and a variety of \"N\" and \"C\" terminal solubility/affinity protein tags. Parts are not subjected to pre-assembly manipulation with nucleic acid modifying enzymes. Instead, they are simply mixed in appropriate pre-defined combinations and concentrations and then seamlessly linked into devices employing a specialized thermostable enzyme blend. Combinatorial assembly of parts is an inherent time-saving feature of the new method, in contrast to hierarchical binary assembly (\"one part at a time\") methods. This feature substantially simplifies and speeds optimization of device and system development. The versatility and functionality of the new method was shown by combinatorial assembly of parts into vector devices, one of which optimally expressed protein from a model gene. Also, a four-enzyme biosynthetic pathway system was re-created by combinatorial construction from parts and devices. Concepts discussed in this paper provide synthetic biologists, chemists and bio-engineers with improved and expanded capability to create novel biological molecules and systems."
+  ],
+  "affiliation": [
+    "Agilent Technologies, Inc., La Jolla, CA, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6599225?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6599225"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0199653"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-29"
+  ],
+  "firstIndexDate": [
+    "2019-06-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-14"
+  ],
+  "dateOfRevision": [
+    "2019-07-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-28"
+  ],
+  "firstPublicationDate": [
+    "2019-06-28"
+  ]
+}

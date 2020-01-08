@@ -1,0 +1,310 @@
+{
+  "id": [
+    "31822265"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31822265"
+  ],
+  "pmcid": [
+    "PMC6902471"
+  ],
+  "doi": [
+    "10.1186/s12859-019-3221-7"
+  ],
+  "title": [
+    "Longitudinal linear combination test for gene set analysis."
+  ],
+  "authorString": [
+    "Khodayari Moez E, Hajihosseini M, Andrews JL, Dinu I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khodayari Moez E"
+          ],
+          "firstName": [
+            "Elham"
+          ],
+          "lastName": [
+            "Khodayari Moez"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "School of Public Health, University of Alberta, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hajihosseini M"
+          ],
+          "firstName": [
+            "Morteza"
+          ],
+          "lastName": [
+            "Hajihosseini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Public Health, University of Alberta, Edmonton, AB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Andrews JL"
+          ],
+          "firstName": [
+            "Jeffrey L"
+          ],
+          "lastName": [
+            "Andrews"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Statistics, University of British Columbia | Okanagan Campus, Kelowna, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dinu I"
+          ],
+          "firstName": [
+            "Irina"
+          ],
+          "lastName": [
+            "Dinu"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "School of Public Health, University of Alberta, Edmonton, AB, Canada. idinu@ualberta.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2887360"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "650"
+  ],
+  "abstractText": [
+    "BACKGROUND:Although microarray studies have greatly contributed to recent genetic advances, lack of replication has been a continuing concern in this area. Complex study designs have the potential to address this concern, though they remain undervalued by investigators due to the lack of proper analysis methods. The primary challenge in the analysis of complex microarray study data is handling the correlation structure within data while also dealing with the combination of large number of genetic measurements and small number of subjects that are ubiquitous even in standard microarray studies. Motivated by the lack of available methods for analysis of repeatedly measured phenotypic or transcriptomic data, herein we develop a longitudinal linear combination test (LLCT). RESULTS:LLCT is a two-step method to analyze multiple longitudinal phenotypes when there is high dimensionality in response and/or explanatory variables. Alternating between calculating within-subjects and between-subjects variations in two steps, LLCT examines if the maximum possible correlation between a linear combination of the time trends and a linear combination of the predictors given by the gene expressions is statistically significant. A generalization of this method can handle family-based study designs when the subjects are not independent. This method is also applicable to time-course microarray, with the ability to identify gene sets that exhibit significantly different expression patterns over time. Based on the results from a simulation study, LLCT outperformed its alternative: pathway analysis via regression. LLCT was shown to be very powerful in the analysis of large gene sets even when the sample size is small. CONCLUSIONS:This self-contained pathway analysis method is applicable to a wide range of longitudinal genomics, proteomics, metabolomics (OMICS) data, allows adjusting for potentially time-dependent covariates and works well with unbalanced and incomplete data. An important potential application of this method could be time-course linkage of OMICS, an attractive possibility for future genetic researchers. AVAILABILITY:R package of LLCT is available at: https://github.com/its-likeli-jeff/LLCT."
+  ],
+  "affiliation": [
+    "School of Public Health, University of Alberta, Edmonton, AB, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-019-3221-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6902471"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6902471?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-12"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2019-12-10"
+  ],
+  "firstPublicationDate": [
+    "2019-12-10"
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "id": [
+    "30420612"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30420612"
+  ],
+  "pmcid": [
+    "PMC6265273"
+  ],
+  "doi": [
+    "10.1038/s41416-018-0289-1"
+  ],
+  "title": [
+    "Bcl-2-dependent synthetic lethal interaction of the IDF-11774 with the V0 subunit C of vacuolar ATPase (ATP6V0C) in colorectal cancer."
+  ],
+  "authorString": [
+    "Kim BK, Nam SW, Min BS, Ban HS, Paik S, Lee K, Im JY, Lee Y, Park JT, Kim SY, Kim M, Lee H, Won M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim BK"
+          ],
+          "firstName": [
+            "Bo-Kyung"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Nam SW"
+          ],
+          "firstName": [
+            "Soon Woo"
+          ],
+          "lastName": [
+            "Nam"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "The Catholic University of Korea, Incheon St Mary's Hospital, 56 Dongsuro Bupyunggu, Incheon, 06591, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Min BS"
+          ],
+          "firstName": [
+            "Byung Soh"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Serverance Biomedical Science Institute, Yonsei University College of Medicine, Seoul, 03722, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ban HS"
+          ],
+          "firstName": [
+            "Hyun Seung"
+          ],
+          "lastName": [
+            "Ban"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2698-6037",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Metabolic Regulation Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Paik S"
+          ],
+          "firstName": [
+            "Soonmyung"
+          ],
+          "lastName": [
+            "Paik"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9688-6480",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Serverance Biomedical Science Institute, Yonsei University College of Medicine, Seoul, 03722, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee K"
+          ],
+          "firstName": [
+            "Kyeong"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "College of Pharmacy, Dongguk University-Seoul, Goyang, 410-820, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Im JY"
+          ],
+          "firstName": [
+            "Joo-Young"
+          ],
+          "lastName": [
+            "Im"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee Y"
+          ],
+          "firstName": [
+            "Youngjoo"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JT"
+          ],
+          "firstName": [
+            "Joon-Tae"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "affiliation": [
+            "Drug Discovery Team, ILDONG Pharmaceutical Co. Ltd., Hwaseong, Hwaseong, 445-811, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SY"
+          ],
+          "firstName": [
+            "Seon-Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim M"
+          ],
+          "firstName": [
+            "Mirang"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee H"
+          ],
+          "firstName": [
+            "Hongsub"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Drug Discovery Team, ILDONG Pharmaceutical Co. Ltd., Hwaseong, Hwaseong, 445-811, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Won M"
+          ],
+          "firstName": [
+            "Misun"
+          ],
+          "lastName": [
+            "Won"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea. misun@kribb.re.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2698-6037",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9688-6480",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "119"
+      ],
+      "journalIssueId": [
+        "2754625"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "British journal of cancer"
+          ],
+          "ISOAbbreviation": [
+            "Br. J. Cancer"
+          ],
+          "medlineAbbreviation": [
+            "Br J Cancer"
+          ],
+          "NLMid": [
+            "0370635"
+          ],
+          "ISSN": [
+            "0007-0920"
+          ],
+          "ESSN": [
+            "1532-1827"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1347-1357"
+  ],
+  "abstractText": [
+    "BACKGROUND:The IDF-11774, a novel clinical candidate for cancer therapy, targets HSP70 and inhibits mitochondrial respiration, resulting in the activation of AMPK and reduction in HIF-1α accumulation. METHODS:To identify genes that have synthetic lethality to IDF-11774, RNA interference screening was conducted, using pooled lentiviruses expressing a short hairpin RNA library. RESULTS:We identified ATP6V0C, encoding the V0 subunit C of lysosomal V-ATPase, knockdown of which induced a synergistic growth-inhibitory effect in HCT116 cells in the presence of IDF-11774. The synthetic lethality of IDF-11774 with ATP6V0C possibly correlates with IDF-11774-mediated autolysosome formation. Notably, the synergistic effect of IDF-11774 and the ATP6V0C inhibitor, bafilomycin A1, depended on the PIK3CA genetic status and Bcl-2 expression, which regulates autolysosome formation and apoptosis. Similarly, in an experiment using conditionally reprogramed cells derived from colorectal cancer patients, synergistic growth inhibition was observed in cells with low Bcl-2 expression. CONCLUSIONS:Bcl-2 is a biomarker for the synthetic lethal interaction of IDF-11774 with ATP6V0C, which is clinically applicable for the treatment of cancer patients with IDF-11774 or autophagy-inducing anti-cancer drugs."
+  ],
+  "affiliation": [
+    "Personalized Genomic Medicine Research Center, KRIBB, Daejeon, 34141, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Colorectal Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EN"
+                  ],
+                  "qualifierName": [
+                    "enzymology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adamantane"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Macrolides"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Piperazines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vacuolar Proton-Translocating ATPases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-bcl-2"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Xenograft Model Antitumor Assays"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Apoptosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autophagy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypoxia-Inducible Factor 1, alpha Subunit"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Class I Phosphatidylinositol 3-Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "bafilomycin A1"
+          ],
+          "registryNumber": [
+            "88899-55-2"
+          ]
+        },
+        {
+          "name": [
+            "PIK3CA protein, human"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.137"
+          ]
+        },
+        {
+          "name": [
+            "Piperazines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Macrolides"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-bcl-2"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Vacuolar Proton-Translocating ATPases"
+          ],
+          "registryNumber": [
+            "EC 3.6.1.-"
+          ]
+        },
+        {
+          "name": [
+            "hypoxia-inducible factor 1, alpha subunit"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Class I Phosphatidylinositol 3-Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.137"
+          ]
+        },
+        {
+          "name": [
+            "Adamantane"
+          ],
+          "registryNumber": [
+            "PJY633525U"
+          ]
+        },
+        {
+          "name": [
+            "BCL2 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "IDF-11774"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41416-018-0289-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6265273"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6265273?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-09-11"
+  ],
+  "dateOfCreation": [
+    "2018-11-14"
+  ],
+  "firstIndexDate": [
+    "2018-11-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-13"
+  ],
+  "firstPublicationDate": [
+    "2018-11-13"
+  ],
+  "embargoDate": [
+    "2019-11-13"
+  ]
+}

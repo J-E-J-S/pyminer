@@ -1,0 +1,420 @@
+{
+  "id": [
+    "31360301"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31360301"
+  ],
+  "pmcid": [
+    "PMC6642039"
+  ],
+  "doi": [
+    "10.18632/oncotarget.27000"
+  ],
+  "title": [
+    "A novel curcumin analog inhibits canonical and non-canonical functions of telomerase through STAT3 and NF-κB inactivation in colorectal cancer cells."
+  ],
+  "authorString": [
+    "Chung SS, Dutta P, Chard N, Wu Y, Chen QH, Chen G, Vadgama J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chung SS"
+          ],
+          "firstName": [
+            "Seyung S"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dutta P"
+          ],
+          "firstName": [
+            "Pranabananda"
+          ],
+          "lastName": [
+            "Dutta"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chard N"
+          ],
+          "firstName": [
+            "Nathaniel"
+          ],
+          "lastName": [
+            "Chard"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen QH"
+          ],
+          "firstName": [
+            "Qiao-Hong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "QH"
+          ],
+          "affiliation": [
+            "Department of Chemistry, California State University at Fresno, Fresno, California 93740, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen G"
+          ],
+          "firstName": [
+            "Guanglin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Chemistry, California State University at Fresno, Fresno, California 93740, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vadgama J"
+          ],
+          "firstName": [
+            "Jaydutt"
+          ],
+          "lastName": [
+            "Vadgama"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "44"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2841858"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncotarget"
+          ],
+          "ISOAbbreviation": [
+            "Oncotarget"
+          ],
+          "medlineAbbreviation": [
+            "Oncotarget"
+          ],
+          "NLMid": [
+            "101532965"
+          ],
+          "ISSN": [
+            "1949-2553"
+          ],
+          "ESSN": [
+            "1949-2553"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4516-4531"
+  ],
+  "abstractText": [
+    "Curcumin is a biologically active polyphenol that exists in Indian spice turmeric. It has been reported that curcumin exerted anti-inflammatory, anti-oxidant and anti-cancer effects in numerous in vitro and in vivo studies. However, it is not well-understood the molecular mechanism of curcumin for the cancer stem cells and telomerase in colorectal cancer. In this study, compound 19, a nitrogen-containing curcumin analog, was used to treat human colorectal cancer cells. Compound 19 showed a greater anti-proliferative activity than curcumin while displayed no significant toxicity toward normal human colon epithelial cells. Compound 19 exerted anti-inflammatory activities by deactivating STAT3 and NF-κB. In cancer stem cell populations, CD44, Oct-4 and ALDHA1 expressions were abolished upon treating with compound 19. Cancer stem cell biomarkers CD51 and CD133 positive populations were reduced and telomerase activities were decreased with the reduced STAT3 binding to hTERT promoters. This means compound 19 dually inhibits canonical and non-canonical functions of telomerase. Furthermore, compound 19 treatments induced cell cycle arrest at G1 phase and apoptosis. Human apoptosis-related array screening revealed that activated caspase 3, catalase, clusterin and cytochrome C led to apoptosis. Taken together, our data suggest that compound 19 can be a novel therapeutic agent for metastatic colorectal cancer by concurrently targeting STAT3 and NF-κB signaling pathways."
+  ],
+  "affiliation": [
+    "Division of Cancer Research and Training, Charles R. Drew University of Medicine and Science, Los Angeles, California 90059, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U54 CA143931"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 MD007598"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SC2 CA235066"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SC1 CA200517"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stat3",
+        "NF-κB",
+        "Colorectal Cancer",
+        "Cancer Stem Cells",
+        "Curcumin Analog"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/oncotarget.27000"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6642039"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6642039?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-01"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-31"
+  ],
+  "dateOfRevision": [
+    "2019-08-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-16"
+  ],
+  "firstPublicationDate": [
+    "2019-07-16"
+  ]
+}

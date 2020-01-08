@@ -1,0 +1,611 @@
+{
+  "id": [
+    "30712508"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30712508"
+  ],
+  "pmcid": [
+    "PMC6360650"
+  ],
+  "doi": [
+    "10.1186/s12864-018-5372-8"
+  ],
+  "title": [
+    "NanoMod: a computational tool to detect DNA modifications using Nanopore long-read sequencing data."
+  ],
+  "authorString": [
+    "Liu Q, Georgieva DC, Egli D, Wang K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Qian"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Georgieva DC"
+          ],
+          "firstName": [
+            "Daniela C"
+          ],
+          "lastName": [
+            "Georgieva"
+          ],
+          "initials": [
+            "DC"
+          ],
+          "affiliation": [
+            "Integrated Program in Cellular, Molecular, and Biomedical Studies, Columbia University, New York, NY, 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Egli D"
+          ],
+          "firstName": [
+            "Dieter"
+          ],
+          "lastName": [
+            "Egli"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Columbia University, New York, NY, 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA. wangk@email.chop.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2777528"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "78"
+  ],
+  "abstractText": [
+    "BACKGROUND:Recent advances in single-molecule sequencing techniques, such as Nanopore sequencing, improved read length, increased sequencing throughput, and enabled direct detection of DNA modifications through the analysis of raw signals. These DNA modifications include naturally occurring modifications such as DNA methylations, as well as modifications that are introduced by DNA damage or through synthetic modifications to one of the four standard nucleotides. METHODS:To improve the performance of detecting DNA modifications, especially synthetically introduced modifications, we developed a novel computational tool called NanoMod. NanoMod takes raw signal data on a pair of DNA samples with and without modified bases, extracts signal intensities, performs base error correction based on a reference sequence, and then identifies bases with modifications by comparing the distribution of raw signals between two samples, while taking into account of the effects of neighboring bases on modified bases (\"neighborhood effects\"). RESULTS:We evaluated NanoMod on simulation data sets, based on different types of modifications and different magnitudes of neighborhood effects, and found that NanoMod outperformed other methods in identifying known modified bases. Additionally, we demonstrated superior performance of NanoMod on an E. coli data set with 5mC (5-methylcytosine) modifications. CONCLUSIONS:In summary, NanoMod is a flexible tool to detect DNA modifications with single-base resolution from raw signals in Nanopore sequencing, and will facilitate large-scale functional genomics experiments that use modified nucleotides."
+  ],
+  "affiliation": [
+    "Raymond G. Perelman Center for Cellular and Molecular Therapeutics, Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 GM008224"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HG006465"
+          ],
+          "agency": [
+            "NHGRI NIH HHS"
+          ],
+          "acronym": [
+            "HG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Escherichia coli"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computational Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Workflow"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nanopores"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Statistics analysis",
+        "Computational Tool",
+        "Dna Modifications",
+        "Nanopore Long-read Data",
+        "Nanopore Signal Annotation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "DNA"
+          ],
+          "registryNumber": [
+            "9007-49-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360650?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360650"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-018-5372-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR17867"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-20"
+  ],
+  "dateOfCreation": [
+    "2019-02-05"
+  ],
+  "firstIndexDate": [
+    "2019-02-08"
+  ],
+  "fullTextReceivedDate": [
+    "2019-02-22"
+  ],
+  "dateOfRevision": [
+    "2019-11-02"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-04"
+  ],
+  "firstPublicationDate": [
+    "2019-02-04"
+  ]
+}

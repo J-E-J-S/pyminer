@@ -1,0 +1,303 @@
+{
+  "id": [
+    "31205931"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31205931"
+  ],
+  "pmcid": [
+    "PMC6530121"
+  ],
+  "doi": [
+    "10.1155/2019/7410823"
+  ],
+  "title": [
+    "Comparative Genome Characterization of a Petroleum-Degrading Bacillus subtilis Strain DM2."
+  ],
+  "authorString": [
+    "Li SW, Liu MY, Yang RQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li SW"
+          ],
+          "firstName": [
+            "Shi-Weng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2584-0562",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Environmental and Municipal Engineering, Lanzhou Jiaotong University, Lanzhou 730070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu MY"
+          ],
+          "firstName": [
+            "Meng-Yuan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "School of Environmental and Municipal Engineering, Lanzhou Jiaotong University, Lanzhou 730070, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang RQ"
+          ],
+          "firstName": [
+            "Rui-Qi"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "RQ"
+          ],
+          "affiliation": [
+            "Key Laboratory of Extreme Environmental Microbial Resources and Engineering in Gansu Province, Lanzhou 730070, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2584-0562",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779790"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of genomics"
+          ],
+          "ISOAbbreviation": [
+            "Int J Genomics"
+          ],
+          "medlineAbbreviation": [
+            "Int J Genomics"
+          ],
+          "NLMid": [
+            "101605206"
+          ],
+          "ISSN": [
+            "2314-436X"
+          ],
+          "ESSN": [
+            "2314-4378"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "7410823"
+  ],
+  "abstractText": [
+    "The complete genome sequence of Bacillus subtilis strain DM2 isolated from petroleum-contaminated soil on the Tibetan Plateau was determined. The genome of strain DM2 consists of a circular chromosome of 4,238,631 bp for 4458 protein-coding genes and a plasmid of 84,240 bp coding for 103 genes. Thirty-four genomic islands coding for 330 proteins and 5 prophages are found in the genome. The DDH value shows that strain DM2 belongs to B. subtilis subsp. subtilis subspecies, but significant variations of the genome are also present. Comparative analysis showed that the genome of strain DM2 encodes some strain-specific proteins in comparison with B. subtilis subsp. subtilis str. 168, such as carboxymuconolactone decarboxylase family protein, gfo/Idh/MocA family oxidoreductases, GlsB/YeaQ/YmgE family stress response membrane protein, HlyC/CorC family transporters, LLM class flavin-dependent oxidoreductase, and LPXTG cell wall anchor domain-containing protein. Most of the common strain-specific proteins in DM2 and MJ01 strains, or proteins unique to DM2 strain, are involved in the pathways related to stress response, signaling, and hydrocarbon degradation. Furthermore, the strain DM2 genome contains 122 genes coding for developed two-component systems and 138 genes coding for ABC transporter systems. The prominent features of the strain DM2 genome reflect the evolutionary fitness of this strain to harsh conditions and hydrocarbon utilization."
+  ],
+  "affiliation": [
+    "School of Environmental and Municipal Engineering, Lanzhou Jiaotong University, Lanzhou 730070, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6530121?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6530121"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/7410823"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-18"
+  ],
+  "firstIndexDate": [
+    "2019-06-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-18"
+  ],
+  "dateOfRevision": [
+    "2019-06-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-08"
+  ],
+  "firstPublicationDate": [
+    "2019-05-08"
+  ]
+}

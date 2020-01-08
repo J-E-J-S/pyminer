@@ -1,0 +1,350 @@
+{
+  "id": [
+    "31664921"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31664921"
+  ],
+  "pmcid": [
+    "PMC6819542"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6174-3"
+  ],
+  "title": [
+    "Transcriptomic and presence/absence variation in the barley genome assessed from multi-tissue mRNA sequencing and their power to predict phenotypic traits."
+  ],
+  "authorString": [
+    "Weisweiler M, Montaigu A, Ries D, Pfeifer M, Stich B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Weisweiler M"
+          ],
+          "firstName": [
+            "Marius"
+          ],
+          "lastName": [
+            "Weisweiler"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Montaigu A"
+          ],
+          "firstName": [
+            "Amaury de"
+          ],
+          "lastName": [
+            "Montaigu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ries D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Ries"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pfeifer M"
+          ],
+          "firstName": [
+            "Mara"
+          ],
+          "lastName": [
+            "Pfeifer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stich B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Stich"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany. benjamin.stich@hhu.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1366-2989",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2867797"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "787"
+  ],
+  "abstractText": [
+    "BACKGROUND:Barley is the world's fourth most cultivated cereal and is an important crop model for genetic studies. One layer of genomic information that remains poorly explored in barley is presence/absence variation (PAV), which has been suggested to contribute to phenotypic variation of agronomic importance in various crops. RESULTS:An mRNA sequencing approach was used to study genomic PAV and transcriptomic variation in 23 spring barley inbreds. 1502 new genes identified here were physically absent from the Morex reference sequence, and 11,523 previously unannotated genes were not expressed in Morex. The procedure applied to detect expression PAV revealed that more than 50% of all genes of our data set are not expressed in all inbreds. Interestingly, expression PAV were not in strong linkage disequilibrium with neighboring sequence variants (SV), and therefore provided an additional layer of genetic information. Optimal combinations of expression PAV, SV, and gene abundance data could enhance the prediction accuracy of predicting three different agronomic traits. CONCLUSIONS:Our results highlight the advantage of mRNA sequencing for genomic prediction over other technologies, as it allows extracting multiple layers of genomic data from a single sequencing experiment. Finally, we propose low coverage mRNA sequencing based characterization of breeding material harvested as seedlings in petri dishes as a powerful and cost efficient approach to replace current single nucleotide polymorphism (SNP) based characterizations."
+  ],
+  "affiliation": [
+    "Institute for Quantitative Genetics and Genomics of Plants, Universitätsstraße 1, Düsseldorf, 40225, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Barley",
+        "Genomic Selection",
+        "Presence/absence Variation",
+        "Multi-tissue Transcriptomics",
+        "∗Omic Prediction"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6174-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819542"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819542?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-31"
+  ],
+  "firstIndexDate": [
+    "2019-10-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-29"
+  ],
+  "firstPublicationDate": [
+    "2019-10-29"
+  ]
+}

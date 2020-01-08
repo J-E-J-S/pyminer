@@ -1,0 +1,463 @@
+{
+  "id": [
+    "31309006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31309006"
+  ],
+  "pmcid": [
+    "PMC6612419"
+  ],
+  "doi": [
+    "10.7717/peerj.7257"
+  ],
+  "title": [
+    "A survey of the sperm whale (Physeter catodon) commensal microbiome."
+  ],
+  "authorString": [
+    "Li C, Tan X, Bai J, Xu Q, Liu S, Guo W, Yu C, Fan G, Lu Y, Zhang H, Yang H, Chen J, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li C"
+          ],
+          "firstName": [
+            "Chang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan X"
+          ],
+          "firstName": [
+            "Xiaoxuan"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bai J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Bai"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Q"
+          ],
+          "firstName": [
+            "Qiwu"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo W"
+          ],
+          "firstName": [
+            "Wenjie"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu C"
+          ],
+          "firstName": [
+            "Cong"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan G"
+          ],
+          "firstName": [
+            "Guangyi"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Yishan"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Guangdong Ocean University, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "He"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Huanming"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jianwei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "BGI-Qingdao, BGI-Shenzhen, Qingdao, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2769901"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PeerJ"
+          ],
+          "ISOAbbreviation": [
+            "PeerJ"
+          ],
+          "medlineAbbreviation": [
+            "PeerJ"
+          ],
+          "NLMid": [
+            "101603425"
+          ],
+          "ISSN": [
+            "2167-8359"
+          ],
+          "ESSN": [
+            "2167-8359"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e7257"
+  ],
+  "abstractText": [
+    "Background:Mammalian commensal microbiota play important roles in the health of its host. In comparison to terrestrial mammals, commensal microbiota of marine mammals is mainly focused on the composition and function of skin and gut microbiota, with less attention paid to the health impact of bacteria and viruses. Previous studies on sperm whales (Physeter catodon) have affirmed their important phylogenetic position; however, studies on their commensal microbiota have not been published, due to difficulty in sample collection. Methods:Here, we sequenced the metagenomes of blood, muscle and fecal samples from a stranded sperm whale using the BGISEQ-500 platform. We compared the diversity and abundance of microbiomes from three different tissues and tried to search pathogenic bacterial and virulence genes probably related to the health of the sperm whale. We also performed 16S rDNA sequencing of the fecal sample to compare to published gut metagenome data from other marine mammals. Results:Our results demonstrated notable differences in species richness and abundance in the three samples. Extensive bacteria, including Enterococcus faecium, Fusobacterium nucleatum, Pseudomonas aeruginosa, Streptococcus anginosus, Streptococcus pneumoniae, and Streptococcus suis, and five toxigenic Clostridium species usually associated with infection, were found in the three samples. We also found the taxa composition of sperm whale gut microbiota was similar to that of other whales, suggesting co-evolution with its host. This study is the first report of the sperm whale gut microbiome, and provides a foundation for the pathogen detection and health assessment of the sperm whale."
+  ],
+  "affiliation": [
+    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sperm Whale",
+        "Commensal Microbiome",
+        "Pathogentic Microorganisms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7717/peerj.7257"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612419"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6612419?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject",
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-17"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-17"
+  ],
+  "dateOfRevision": [
+    "2019-07-18"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-04"
+  ],
+  "firstPublicationDate": [
+    "2019-07-04"
+  ]
+}

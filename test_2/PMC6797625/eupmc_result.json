@@ -1,0 +1,413 @@
+{
+  "id": [
+    "31681202"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31681202"
+  ],
+  "pmcid": [
+    "PMC6797625"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02337"
+  ],
+  "title": [
+    "Isolation and Characterization of Specific Phages to Prepare a Cocktail Preventing Vibrio sp. Va-F3 Infections in Shrimp (Litopenaeus vannamei)."
+  ],
+  "authorString": [
+    "Chen L, Fan J, Yan T, Liu Q, Yuan S, Zhang H, Yang J, Deng D, Huang S, Ma Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan J"
+          ],
+          "firstName": [
+            "Jiqiang"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan T"
+          ],
+          "firstName": [
+            "Tingwei"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "College of Life Science and Technology, Jinan University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "College of Life Science and Oceanography, Shenzhen University, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan S"
+          ],
+          "firstName": [
+            "Shengjian"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang H"
+          ],
+          "firstName": [
+            "Haoran"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jinfang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "R&D Center, Shenzhen Alpha Feed Co., Ltd, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng D"
+          ],
+          "firstName": [
+            "Deng"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "R&D Center, Shenzhen Alpha Feed Co., Ltd, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang S"
+          ],
+          "firstName": [
+            "Shuqiang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Y"
+          ],
+          "firstName": [
+            "Yingfei"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2337"
+  ],
+  "abstractText": [
+    "Vibrio is one of the most detrimental agents of shrimp premature death syndrome. Phage therapy for prevention and treatment of Vibrio infections has attracted increasing attentions due to the emergence of antibiotic-resistant bacterial variants. Here, we describe a workflow of preparing a phage cocktail against Vibrio infections for practical applications. Twenty Vibrio strains were isolated from the gut of diseased shrimp and aquaculture wastewater, and five of them were identified as pathogens causing shrimp vibriosis. Twenty-two lytic phages were then isolated using the above five pathogens as hosts, and five of them showed broad host ranges and high lytic capability against the Vibrio strains. Whole genomic sequencing and phylogenetic analysis of the five phages indicated that they are novel and belong to the Siphoviridae family. The phage cocktail consisting of these five phages showed higher efficiency in inhibiting the growth of pathogenic Vibrio sp. Va-F3 than any single phage in vitro. We then evaluated the performance of the phage cocktail in protecting shrimp against Vibrio sp. Va-F3 infections in situ. The results showed that shrimp survival rates could reach 91.4 and 91.6% in 7 days, for the cocktail-treated and the antibiotic-treated groups, respectively. By contrast, the shrimp survival rate of the group without any treatment was only 20.0%. Overall, this study describes a general workflow of how to prepare a phage cocktail and apply it in controlling bacterial infections in the shrimp aquaculture. Knowledge gained from this study will not only help fight against the shrimp vibriosis in practical but also facilitate the design of phage cocktails with a satisfying performance in controlling other animal diseases in aquaculture."
+  ],
+  "affiliation": [
+    "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vibrio",
+        "Shrimp",
+        "Vibriosis",
+        "Phage Therapy",
+        "Phage Cocktail"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02337"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797625"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797625?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-05"
+  ],
+  "firstIndexDate": [
+    "2019-11-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-11"
+  ],
+  "firstPublicationDate": [
+    "2019-10-11"
+  ]
+}

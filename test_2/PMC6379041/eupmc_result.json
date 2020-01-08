@@ -1,0 +1,778 @@
+{
+  "id": [
+    "30428014"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30428014"
+  ],
+  "pmcid": [
+    "PMC6379041"
+  ],
+  "doi": [
+    "10.1093/dnares/dsy037"
+  ],
+  "title": [
+    "3' Branch ligation: a novel method to ligate non-complementary DNA to recessed or internal 3'OH ends in DNA or RNA."
+  ],
+  "authorString": [
+    "Wang L, Xi Y, Zhang W, Wang W, Shen H, Wang X, Zhao X, Alexeev A, Peters BA, Albert A, Xu X, Ren H, Wang O, Kirkconnell K, Perazich H, Clark S, Hurowitz E, Chen A, Xu X, Drmanac R, Jiang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xi Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Xi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang W"
+          ],
+          "firstName": [
+            "Wenwei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Weimao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen H"
+          ],
+          "firstName": [
+            "Hanjie"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaojue"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao X"
+          ],
+          "firstName": [
+            "Xia"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Alexeev A"
+          ],
+          "firstName": [
+            "Andrei"
+          ],
+          "lastName": [
+            "Alexeev"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Peters BA"
+          ],
+          "firstName": [
+            "Brock A"
+          ],
+          "lastName": [
+            "Peters"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Albert A"
+          ],
+          "firstName": [
+            "Alayna"
+          ],
+          "lastName": [
+            "Albert"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu X"
+          ],
+          "firstName": [
+            "Xu"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ren H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang O"
+          ],
+          "firstName": [
+            "Ou"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirkconnell K"
+          ],
+          "firstName": [
+            "Killeen"
+          ],
+          "lastName": [
+            "Kirkconnell"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Perazich H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Perazich"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Clark S"
+          ],
+          "firstName": [
+            "Sonya"
+          ],
+          "lastName": [
+            "Clark"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hurowitz E"
+          ],
+          "firstName": [
+            "Evan"
+          ],
+          "lastName": [
+            "Hurowitz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen A"
+          ],
+          "firstName": [
+            "Ao"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu X"
+          ],
+          "firstName": [
+            "Xun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Drmanac R"
+          ],
+          "firstName": [
+            "Radoje"
+          ],
+          "lastName": [
+            "Drmanac"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Biochemistry, BGI-Shenzhen, Shenzhen, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2784183"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "DNA research : an international journal for rapid publication of reports on genes and genomes"
+          ],
+          "ISOAbbreviation": [
+            "DNA Res."
+          ],
+          "medlineAbbreviation": [
+            "DNA Res"
+          ],
+          "NLMid": [
+            "9423827"
+          ],
+          "ISSN": [
+            "1340-2838"
+          ],
+          "ESSN": [
+            "1756-1663"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "45-53"
+  ],
+  "abstractText": [
+    "Nucleic acid ligases are crucial enzymes that repair breaks in DNA or RNA during synthesis, repair and recombination. Various genomic tools have been developed using the diverse activities of DNA/RNA ligases. Herein, we demonstrate a non-conventional ability of T4 DNA ligase to insert 5' phosphorylated blunt-end double-stranded DNA to DNA breaks at 3'-recessive ends, gaps, or nicks to form a Y-shaped 3'-branch structure. Therefore, this base pairing-independent ligation is termed 3'-branch ligation (3'BL). In an extensive study of optimal ligation conditions, the presence of 10% PEG-8000 in the ligation buffer significantly increased ligation efficiency to more than 80%. Ligation efficiency was slightly varied between different donor and acceptor sequences. More interestingly, we discovered that T4 DNA ligase efficiently ligated DNA to the 3'-recessed end of RNA, not to that of DNA, in a DNA/RNA hybrid, suggesting a ternary complex formation preference of T4 DNA ligase. These novel properties of T4 DNA ligase can be utilized as a broad molecular technique in many important genomic applications, such as 3'-end labelling by adding a universal sequence; directional tagmentation for NGS library construction that achieve theoretical 100% template usage; and targeted RNA NGS libraries with mitigated structure-based bias and adapter dimer problems."
+  ],
+  "affiliation": [
+    "Advanced Genomics Technology Lab, Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, California, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA Ligases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "DNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Engineering"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ngs",
+        "Molecular Tool",
+        "T4 Dna Ligase",
+        "Novel Ligation"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA"
+          ],
+          "registryNumber": [
+            "63231-63-0"
+          ]
+        },
+        {
+          "name": [
+            "DNA"
+          ],
+          "registryNumber": [
+            "9007-49-2"
+          ]
+        },
+        {
+          "name": [
+            "DNA Ligases"
+          ],
+          "registryNumber": [
+            "EC 6.5.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6379041?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6379041"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/dnares/dsy037"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-01"
+  ],
+  "dateOfCreation": [
+    "2018-11-15"
+  ],
+  "firstIndexDate": [
+    "2018-11-15"
+  ],
+  "fullTextReceivedDate": [
+    "2019-03-10"
+  ],
+  "dateOfRevision": [
+    "2019-04-01"
+  ],
+  "firstPublicationDate": [
+    "2019-02-01"
+  ]
+}

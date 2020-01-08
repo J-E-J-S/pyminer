@@ -1,0 +1,392 @@
+{
+  "id": [
+    "29438828"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29438828"
+  ],
+  "pmcid": [
+    "PMC6297113"
+  ],
+  "doi": [
+    "10.1016/j.ymeth.2018.02.004"
+  ],
+  "title": [
+    "Bi-clustering of metabolic data using matrix factorization tools."
+  ],
+  "authorString": [
+    "Gu Q, Veselkov K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gu Q"
+          ],
+          "firstName": [
+            "Quan"
+          ],
+          "lastName": [
+            "Gu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Garscube Estate, Glasgow G61 1QH, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Veselkov K"
+          ],
+          "firstName": [
+            "Kirill"
+          ],
+          "lastName": [
+            "Veselkov"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1164-0359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Surgery and Cancer, Faculty of Medicine, Imperial College London, Sir Alexander Fleming Building, Exhibition Road, South Kensington, London SW7 2AZ, UK. Electronic address: kirill.veselkov04@imperial.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1164-0359",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "151"
+      ],
+      "journalIssueId": [
+        "2758579"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Methods (San Diego, Calif.)"
+          ],
+          "ISOAbbreviation": [
+            "Methods"
+          ],
+          "medlineAbbreviation": [
+            "Methods"
+          ],
+          "NLMid": [
+            "9426302"
+          ],
+          "ISSN": [
+            "1046-2023"
+          ],
+          "ESSN": [
+            "1095-9130"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "12-20"
+  ],
+  "abstractText": [
+    "Metabolic phenotyping technologies based on Nuclear Magnetic Spectroscopy (NMR) and Mass Spectrometry (MS) generate vast amounts of unrefined data from biological samples. Clustering strategies are frequently employed to provide insight into patterns of relationships between samples and metabolites. Here, we propose the use of a non-negative matrix factorization driven bi-clustering strategy for metabolic phenotyping data in order to discover subsets of interrelated metabolites that exhibit similar behaviour across subsets of samples. The proposed strategy incorporates bi-cross validation and statistical segmentation techniques to automatically determine the number and structure of bi-clusters. This alternative approach is in contrast to the widely used conventional clustering approaches that incorporate all molecular peaks for clustering in metabolic studies and require a priori specification of the number of clusters. We perform the comparative analysis of the proposed strategy with other bi-clustering approaches, which were developed in the context of genomics and transcriptomics research. We demonstrate the superior performance of the proposed bi-clustering strategy on both simulated (NMR) and real (MS) bacterial metabolic data."
+  ],
+  "affiliation": [
+    "MRC-University of Glasgow Centre for Virus Research, University of Glasgow, Garscube Estate, Glasgow G61 1QH, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/L020858/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12014/12"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nuclear Magnetic Resonance, Biomolecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Metabolome"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Matrix Factorization",
+        "Metabolic Data",
+        "Bi-cross Validation",
+        "Bi-clustering"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ymeth.2018.02.004"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6297113"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-21"
+  ],
+  "dateOfCreation": [
+    "2018-02-14"
+  ],
+  "firstIndexDate": [
+    "2018-02-14"
+  ],
+  "fullTextReceivedDate": [
+    "2018-12-24"
+  ],
+  "dateOfRevision": [
+    "2019-08-21"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-10"
+  ],
+  "firstPublicationDate": [
+    "2018-02-10"
+  ]
+}

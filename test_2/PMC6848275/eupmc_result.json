@@ -1,0 +1,362 @@
+{
+  "id": [
+    "31749788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31749788"
+  ],
+  "pmcid": [
+    "PMC6848275"
+  ],
+  "doi": [
+    "10.3389/fmicb.2019.02559"
+  ],
+  "title": [
+    "Indole-3-Acetic Acid in Burkholderia pyrrocinia JK-SH007: Enzymatic Identification of the Indole-3-Acetamide Synthesis Pathway."
+  ],
+  "authorString": [
+    "Liu WH, Chen FF, Wang CE, Fu HH, Fang XQ, Ye JR, Shi JY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu WH"
+          ],
+          "firstName": [
+            "Wan-Hui"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen FF"
+          ],
+          "firstName": [
+            "Fei-Fei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang CE"
+          ],
+          "firstName": [
+            "Chao-En"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu HH"
+          ],
+          "firstName": [
+            "Huan-Huan"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang XQ"
+          ],
+          "firstName": [
+            "Xue-Qi"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "XQ"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye JR"
+          ],
+          "firstName": [
+            "Jian-Ren"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi JY"
+          ],
+          "firstName": [
+            "Ji-Yuan"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2776217"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2559"
+  ],
+  "abstractText": [
+    "Burkholderia pyrrocinia JK-SH007 is a plant growth-promoting bacteria (PGPB), that can promote the growth of poplar and other trees, and, production of the plant hormone indole-3-acetic acid (IAA) is one of the reasons for this effect. Therefore, the aims of this study were to evaluate the effect of the external environment on the synthesis of IAA by B. pyrrocinia JK-SH007 and to perform a functional analysis of its IAA synthesis pathway. In this study, IAA and its synthetic intermediates indole-3-acetamide (IAM), indole-3-pyruvic acid (IPyA), tryptamine (TAM), and indole-3-acetonitrile (IAN) were detected in B. pyrrocinia JK-SH007 fermentation broth by high-performance liquid chromatography and tandem mass spectrometry (HPLC-MS/MS), and these indolic compounds were also found in the cell-free extraction of B. pyrrocinia JK-SH007, but the genomic analysis of B. pyrrocinia JK-SH007 indicated that IAA biosynthesis was mainly through the IAM and TAM pathways. The effects of L-tryptophan (L-Trp), temperature and pH on the synthesis of IAA were investigated, and the results showed that L-Trp exerted a significant effect on IAA synthesis and that 37°C and pH 7 were the optimal conditions IAA production by B. pyrrocinia JK-SH007. In addition, the protein expression of tryptophan 2-monooxygenase and indoleacetamide hydrolase, which are the key enzymes of the indole acetamide-mediated IAA synthesis pathway, was analyzed, and their activity was verified by substrate feeding experiments. The results revealed the existence of an IAA synthesis pathway mediated by IAM and indicated that this pathway plays a role in B. pyrrocinia JK-SH007. This study lays the foundation for further exploration of the specific pathway and mechanism of IAA synthesis in B. pyrrocinia JK-SH007."
+  ],
+  "affiliation": [
+    "Co-innovation Center for Sustainable Forestry in Southern China, College of Forestry, Nanjing Forestry University, Nanjing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Protein expression",
+        "Indole-3-acetamide",
+        "Indoleacetamide Hydrolase",
+        "Tryptophan 2-Monooxygenase",
+        "Burkholderia Pyrrocinia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2019.02559"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6848275"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6848275?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-22"
+  ],
+  "firstIndexDate": [
+    "2019-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-23"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-05"
+  ],
+  "firstPublicationDate": [
+    "2019-11-05"
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": [
+    "31781133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31781133"
+  ],
+  "pmcid": [
+    "PMC6857675"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.01326"
+  ],
+  "title": [
+    "Mutagenesis in Rice: The Basis for Breeding a New Super Plant."
+  ],
+  "authorString": [
+    "Viana VE, Pegoraro C, Busanello C, Costa de Oliveira A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Viana VE"
+          ],
+          "firstName": [
+            "Vívian Ebeling"
+          ],
+          "lastName": [
+            "Viana"
+          ],
+          "initials": [
+            "VE"
+          ],
+          "affiliation": [
+            "Centro de Genômica e Fitomelhoramento, Faculdade de Agronomia Eliseu Maciel, Departamento de Fitotecnia, Universidade Federal de Pelotas, Campus Capão do Leão, Rio Grande do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Pegoraro C"
+          ],
+          "firstName": [
+            "Camila"
+          ],
+          "lastName": [
+            "Pegoraro"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centro de Genômica e Fitomelhoramento, Faculdade de Agronomia Eliseu Maciel, Departamento de Fitotecnia, Universidade Federal de Pelotas, Campus Capão do Leão, Rio Grande do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Busanello C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Busanello"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centro de Genômica e Fitomelhoramento, Faculdade de Agronomia Eliseu Maciel, Departamento de Fitotecnia, Universidade Federal de Pelotas, Campus Capão do Leão, Rio Grande do Sul, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Costa de Oliveira A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Costa de Oliveira"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centro de Genômica e Fitomelhoramento, Faculdade de Agronomia Eliseu Maciel, Departamento de Fitotecnia, Universidade Federal de Pelotas, Campus Capão do Leão, Rio Grande do Sul, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1326"
+  ],
+  "abstractText": [
+    "The high selection pressure applied in rice breeding since its domestication thousands of years ago has caused a narrowing in its genetic variability. Obtaining new rice cultivars therefore becomes a major challenge for breeders and developing strategies to increase the genetic variability has demanded the attention of several research groups. Understanding mutations and their applications have paved the way for advances in the elucidation of a genetic, physiological, and biochemical basis of rice traits. Creating variability through mutations has therefore grown to be among the most important tools to improve rice. The small genome size of rice has enabled a faster release of higher quality sequence drafts as compared to other crops. The move from structural to functional genomics is possible due to an array of mutant databases, highlighting mutagenesis as an important player in this progress. Furthermore, due to the synteny among the Poaceae, other grasses can also benefit from these findings. Successful gene modifications have been obtained by random and targeted mutations. Furthermore, following mutation induction pathways, techniques have been applied to identify mutations and the molecular control of DNA damage repair mechanisms in the rice genome. This review highlights findings in generating rice genome resources showing strategies applied for variability increasing, detection and genetic mechanisms of DNA damage repair."
+  ],
+  "affiliation": [
+    "Centro de Genômica e Fitomelhoramento, Faculdade de Agronomia Eliseu Maciel, Departamento de Fitotecnia, Universidade Federal de Pelotas, Campus Capão do Leão, Rio Grande do Sul, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA repair",
+        "Genetic variability",
+        "Oryza sativa L",
+        "Mutagenesis",
+        "Functional genomics",
+        "Mutation detection",
+        "Random Mutations",
+        "Targeted Mutations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.01326"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857675"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6857675?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-30"
+  ],
+  "firstIndexDate": [
+    "2019-11-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-08"
+  ],
+  "firstPublicationDate": [
+    "2019-11-08"
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "id": [
+    "31216660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31216660"
+  ],
+  "pmcid": [
+    "PMC6627977"
+  ],
+  "doi": [
+    "10.3390/ijms20122971"
+  ],
+  "title": [
+    "Towards Exploitation of Adaptive Traits for Climate-Resilient Smart Pulses."
+  ],
+  "authorString": [
+    "Kumar J, Choudhary AK, Gupta DS, Kumar S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kumar J"
+          ],
+          "firstName": [
+            "Jitendra"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Indian Institute of Pulses Research, Kalyanpur, Kanpur 208 024, Uttar Pradesh, India. jitendra.kumar@icar.gov.in."
+          ]
+        },
+        {
+          "fullName": [
+            "Choudhary AK"
+          ],
+          "firstName": [
+            "Arbind K"
+          ],
+          "lastName": [
+            "Choudhary"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2525-3955",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "ICAR Research Complex for Eastern Region, Patna 800 014, Bihar, India. akicar1968@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta DS"
+          ],
+          "firstName": [
+            "Debjyoti Sen"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0195-6181",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Indian Institute of Pulses Research, Kalyanpur, Kanpur 208 024, Uttar Pradesh, India. debgpb@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar S"
+          ],
+          "firstName": [
+            "Shiv"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8407-3562",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biodiversity and Integrated Gene Management Program, International Centre for Agricultural Research in the Dry Areas (ICARDA), P.O. Box 6299, Rabat-Institute, Rabat, Morocco. sk.agrawal@cgiar.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2525-3955",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0195-6181",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8407-3562",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2828208"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Pulses are the main source of protein and minerals in the vegetarian diet. These are primarily cultivated on marginal lands with few inputs in several resource-poor countries of the world, including several in South Asia. Their cultivation in resource-scarce conditions exposes them to various abiotic and biotic stresses, leading to significant yield losses. Furthermore, climate change due to global warming has increased their vulnerability to emerging new insect pests and abiotic stresses that can become even more serious in the coming years. The changing climate scenario has made it more challenging to breed and develop climate-resilient smart pulses. Although pulses are climate smart, as they simultaneously adapt to and mitigate the effects of climate change, their narrow genetic diversity has always been a major constraint to their improvement for adaptability. However, existing genetic diversity still provides opportunities to exploit novel attributes for developing climate-resilient cultivars. The mining and exploitation of adaptive traits imparting tolerance/resistance to climate-smart pulses can be accelerated further by using cutting-edge approaches of biotechnology such as transgenics, genome editing, and epigenetics. This review discusses various classical and molecular approaches and strategies to exploit adaptive traits for breeding climate-smart pulses."
+  ],
+  "affiliation": [
+    "Indian Institute of Pulses Research, Kalyanpur, Kanpur 208 024, Uttar Pradesh, India. jitendra.kumar@icar.gov.in."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Genetically Modified"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crops, Agricultural"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proteomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Climate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Quantitative Trait, Heritable"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Heterogeneity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Climate Change"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epigenomics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene-Environment Interaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Breeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Editing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epigenetics",
+        "Genome Editing",
+        "Transgenics",
+        "Adaptive Traits",
+        "Climate-smart Pulses",
+        "Gene/qtl"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20122971"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6627977"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6627977?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-11-27"
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-11-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-18"
+  ],
+  "firstPublicationDate": [
+    "2019-06-18"
+  ]
+}

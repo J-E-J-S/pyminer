@@ -1,0 +1,382 @@
+{
+  "id": [
+    "30923244"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30923244"
+  ],
+  "pmcid": [
+    "PMC6439247"
+  ],
+  "doi": [
+    "10.1128/MRA.00140-19"
+  ],
+  "title": [
+    "Complete Genome Sequence of the Marine Bacterium Erythrobacter flavus Strain KJ5."
+  ],
+  "authorString": [
+    "Kanesaki Y, Setiyono E, Pringgenies D, Moriuchi R, Brotosudarmo THP, Awai K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kanesaki Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Kanesaki"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3537-9789",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Institute of Green Science and Technology, Shizuoka University, Shizuoka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Setiyono E"
+          ],
+          "firstName": [
+            "Edi"
+          ],
+          "lastName": [
+            "Setiyono"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Ma Chung Research Center for Photosynthetic Pigments, Universitas Ma Chung, Malang, Indonesia."
+          ]
+        },
+        {
+          "fullName": [
+            "Pringgenies D"
+          ],
+          "firstName": [
+            "Delianis"
+          ],
+          "lastName": [
+            "Pringgenies"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Faculty of Fisheries and Marine Science, Diponegoro University, Semarang, Indonesia."
+          ]
+        },
+        {
+          "fullName": [
+            "Moriuchi R"
+          ],
+          "firstName": [
+            "Ryota"
+          ],
+          "lastName": [
+            "Moriuchi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Research Institute of Green Science and Technology, Shizuoka University, Shizuoka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Brotosudarmo THP"
+          ],
+          "firstName": [
+            "Tatas H P"
+          ],
+          "lastName": [
+            "Brotosudarmo"
+          ],
+          "initials": [
+            "THP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8219-3293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ma Chung Research Center for Photosynthetic Pigments, Universitas Ma Chung, Malang, Indonesia."
+          ]
+        },
+        {
+          "fullName": [
+            "Awai K"
+          ],
+          "firstName": [
+            "Koichiro"
+          ],
+          "lastName": [
+            "Awai"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1731-7499",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Science, Faculty of Science, Shizuoka University, Shizuoka, Japan awai.koichiro@shizuoka.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8219-3293",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1731-7499",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3537-9789",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "13"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2798536"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microbiology resource announcements"
+          ],
+          "ISOAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "medlineAbbreviation": [
+            "Microbiol Resour Announc"
+          ],
+          "NLMid": [
+            "101728794"
+          ],
+          "ISSN": [
+            "2576-098X"
+          ],
+          "ESSN": [
+            "2576-098X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Erythrobacter flavus strain KJ5 (formerly called Erythrobacter sp. strain KJ5) is a yellowish marine bacterium that was isolated from a hard coral in the Karimunjawa Islands of Indonesia. Here, we report the complete genome sequence of the bacterium and provide a useful resource for studies of the biosynthetic pathways of its unique carotenoids."
+  ],
+  "affiliation": [
+    "Research Institute of Green Science and Technology, Shizuoka University, Shizuoka, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/MRA.00140-19"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6439247"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6439247?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-30"
+  ],
+  "firstIndexDate": [
+    "2019-03-30"
+  ],
+  "fullTextReceivedDate": [
+    "2019-04-06"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-28"
+  ],
+  "firstPublicationDate": [
+    "2019-03-28"
+  ]
+}

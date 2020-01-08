@@ -1,0 +1,452 @@
+{
+  "id": [
+    "31088350"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31088350"
+  ],
+  "pmcid": [
+    "PMC6515661"
+  ],
+  "doi": [
+    "10.1186/s12859-019-2866-6"
+  ],
+  "title": [
+    "Variable cellular decision-making behavior in a constant synthetic network topology."
+  ],
+  "authorString": [
+    "Shah NA, Sarkar CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shah NA"
+          ],
+          "firstName": [
+            "Najaf A"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Genomics and Computational Biology Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarkar CA"
+          ],
+          "firstName": [
+            "Casim A"
+          ],
+          "lastName": [
+            "Sarkar"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0276-8203",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, College of Science and Engineering, University of Minnesota, Minneapolis, MN, USA. csarkar@umn.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0276-8203",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2811810"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC bioinformatics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Bioinformatics"
+          ],
+          "NLMid": [
+            "100965194"
+          ],
+          "ISSN": [
+            "1471-2105"
+          ],
+          "ESSN": [
+            "1471-2105"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "237"
+  ],
+  "abstractText": [
+    "BACKGROUND:Modules of interacting components arranged in specific network topologies have evolved to perform a diverse array of cellular functions. For a network with a constant topological structure, its function within a cell may still be tuned by changing the number of instances of a particular component (e.g., gene copy number) or by modulating the intrinsic biochemical properties of a component (e.g., binding strength or catalytic efficiency). How such perturbations affect cellular response dynamics remains poorly understood. Here, we explored these effects in a common decision-making motif, cross-antagonism with autoregulation, by synthetically constructing this network in yeast. RESULTS:We employed the engineering design strategy of reuse to build this topology with a single protein building block, TetR, creating necessary components through TetR mutations and fusion partners. We then studied the impact of several topology-preserving perturbations - strength of cross-antagonism, number of operator sites in a promoter, and gene dosage - on decision-making behavior. We found that reducing TetR repression strength, which hinders cross-antagonism, resulted in a loss of mutually exclusive cell responses. Unexpectedly, increasing the number of operator sites also impeded decision-making exclusivity, which may be a consequence of the averaging effect that arises when multiple transcriptional activators and repressors are accommodated at a given locus. Stochastic simulations of this topology revealed that, even for networks with high TetR repression strength and a low number of operator sites, increasing gene dosage can reduce exclusivity in response dynamics. We further demonstrated this result experimentally by quantifying gene copy numbers in selected yeast clones with differing phenotypic responses. CONCLUSIONS:Our study illustrates how parameters that do not change the topological structure of a decision-making network can nonetheless exert significant influence on its response dynamics. These findings should further inform the study of native motifs, including the effects of topology-preserving mutations, and the robust engineering of synthetic networks."
+  ],
+  "affiliation": [
+    "Genomics and Computational Biology Graduate Group, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Predoctoral Fellowship"
+          ],
+          "agency": [
+            "American Heart Association"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM113985"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM113985"
+          ],
+          "agency": [
+            "National Institute of General Medical Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "0835132N"
+          ],
+          "agency": [
+            "American Heart Association"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccharomyces cerevisiae"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Physiological Phenomena"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Topology",
+        "decision-making",
+        "gene dosage",
+        "Design Reuse",
+        "Multi-modality"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6515661?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6515661"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12859-019-2866-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "uniprot",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-06-17"
+  ],
+  "dateOfCreation": [
+    "2019-05-16"
+  ],
+  "firstIndexDate": [
+    "2019-05-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-14"
+  ],
+  "firstPublicationDate": [
+    "2019-05-14"
+  ]
+}

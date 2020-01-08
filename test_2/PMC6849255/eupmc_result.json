@@ -1,0 +1,382 @@
+{
+  "id": [
+    "31718625"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31718625"
+  ],
+  "pmcid": [
+    "PMC6849255"
+  ],
+  "doi": [
+    "10.1186/s12896-019-0568-9"
+  ],
+  "title": [
+    "Isolating promoters from Corynebacterium ammoniagenes ATCC 6871 and application in CoA synthesis."
+  ],
+  "authorString": [
+    "Hou Y, Chen S, Wang J, Liu G, Wu S, Tao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hou Y"
+          ],
+          "firstName": [
+            "Yingshuo"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Siyu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jianjun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu G"
+          ],
+          "firstName": [
+            "Guizhen"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Kaiping Genuine Biochemical Pharmaceutical Co. Ltd, Kaiping, People's Republic of China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8205-7753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China. shengwu@im.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Tao Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China. taoyong@im.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8205-7753",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2877890"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biotechnology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biotechnol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biotechnol"
+          ],
+          "NLMid": [
+            "101088663"
+          ],
+          "ISSN": [
+            "1472-6750"
+          ],
+          "ESSN": [
+            "1472-6750"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "76"
+  ],
+  "abstractText": [
+    "BACKGROUND:Corynebacterium ammoniagenes is an important industrial organism that is widely used to produce nucleotides and the potential for industrial production of coenzyme A by C. ammoniagenes ATCC 6871 has been shown. However, the yield of coenzyme A needs to be improved, and the available constitutive promoters are rather limited in this strain. RESULTS:In this study, 20 putative DNA promoters derived from genes with high transcription levels and 6 promoters from molecular chaperone genes were identified. To evaluate the activity of each promoter, red fluorescence protein (RFP) was used as a reporter. We successfully isolated a range of promoters with different activity levels, and among these a fragment derived from the upstream sequence of the 50S ribosomal protein L21 (Prpl21) exhibited the strongest activity among the 26 identified promoters. Furthermore, type III pantothenate kinase from Pseudomonas putida (PpcoaA) was overexpressed in C. ammoniagenes under the control of Prpl21, CoA yield increased approximately 4.4 times. CONCLUSIONS:This study provides a paradigm for rational isolation of promoters with different activities and their application in metabolic engineering. These promoters will enrich the available promoter toolkit for C. ammoniagenes and should be valuable in current platforms for metabolic engineering and synthetic biology for the optimization of pathways to extend the product spectrum or improve the productivity in C. ammoniagenes ATCC 6871 for industrial applications."
+  ],
+  "affiliation": [
+    "CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, People's Republic of China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Promoter",
+        "Transcriptome",
+        "Coenzyme A",
+        "Corynebacterium Ammoniagenes"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12896-019-0568-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6849255"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6849255?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-12"
+  ],
+  "firstPublicationDate": [
+    "2019-11-12"
+  ]
+}

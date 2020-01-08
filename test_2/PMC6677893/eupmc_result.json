@@ -1,0 +1,446 @@
+{
+  "id": [
+    "31375711"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31375711"
+  ],
+  "pmcid": [
+    "PMC6677893"
+  ],
+  "doi": [
+    "10.1038/s41598-019-47650-2"
+  ],
+  "title": [
+    "A portable epigenetic switch for bistable gene expression in bacteria."
+  ],
+  "authorString": [
+    "Olivenza DR, Nicoloff H, Sánchez-Romero MA, Cota I, Andersson DI, Casadesús J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Olivenza DR"
+          ],
+          "firstName": [
+            "David R"
+          ],
+          "lastName": [
+            "Olivenza"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Departamento de Genética, Facultad de Biología, Universidad de Sevilla, Apartado 1095, 41080, Sevilla, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicoloff H"
+          ],
+          "firstName": [
+            "Hervé"
+          ],
+          "lastName": [
+            "Nicoloff"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Medical Biochemistry and Microbiology, Uppsala University, 751 23, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez-Romero MA"
+          ],
+          "firstName": [
+            "María Antonia"
+          ],
+          "lastName": [
+            "Sánchez-Romero"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Departamento de Genética, Facultad de Biología, Universidad de Sevilla, Apartado 1095, 41080, Sevilla, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Cota I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "Cota"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Departamento de Genética, Facultad de Biología, Universidad de Sevilla, Apartado 1095, 41080, Sevilla, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Andersson DI"
+          ],
+          "firstName": [
+            "Dan I"
+          ],
+          "lastName": [
+            "Andersson"
+          ],
+          "initials": [
+            "DI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6640-2174",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Biochemistry and Microbiology, Uppsala University, 751 23, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Casadesús J"
+          ],
+          "firstName": [
+            "Josep"
+          ],
+          "lastName": [
+            "Casadesús"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2308-293X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departamento de Genética, Facultad de Biología, Universidad de Sevilla, Apartado 1095, 41080, Sevilla, Spain. casadesus@us.es."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2308-293X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3098-1033",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6640-2174",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2844024"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11261"
+  ],
+  "abstractText": [
+    "We describe a portable epigenetic switch based on opvAB, a Salmonella enterica operon that undergoes bistable expression under DNA methylation control. A DNA fragment containing the opvAB promoter and the opvAB upstream regulatory region confers bistability to heterologous genes, yielding OFF and ON subpopulations. Bistable expression under opvAB control is reproducible in Escherichia coli, showing that the opvAB switch can be functional in a heterologous host. Subpopulations of different sizes can be produced at will using engineered opvAB variants. Controlled formation of antibiotic-resistant and antibiotic-susceptible subpopulations may allow use of the opvAB switch in the study of bacterial heteroresistance to antibiotics."
+  ],
+  "affiliation": [
+    "Departamento de Genética, Facultad de Biología, Universidad de Sevilla, Apartado 1095, 41080, Sevilla, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017-1527"
+          ],
+          "agency": [
+            "Vetenskapsr&amp;#x00E5;det (Swedish Research Council)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017-01527"
+          ],
+          "agency": [
+            "Vetenskapsr&amp;#x00E5;det (Swedish Research Council)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BIO2016-75235-P"
+          ],
+          "agency": [
+            "Ministerio de Econom&amp;#x00ED;a y Competitividad (Ministry of Economy and Competitiveness)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-47650-2"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6677893"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6677893?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31767950"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Sci Rep. 2019 Nov 25;9(1):17820"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-04"
+  ],
+  "firstIndexDate": [
+    "2019-08-05"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-02"
+  ],
+  "firstPublicationDate": [
+    "2019-08-02"
+  ]
+}

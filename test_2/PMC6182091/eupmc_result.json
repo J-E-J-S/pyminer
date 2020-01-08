@@ -1,0 +1,287 @@
+{
+  "id": [
+    "30344529"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30344529"
+  ],
+  "pmcid": [
+    "PMC6182091"
+  ],
+  "doi": [
+    "10.3389/fpls.2018.01467"
+  ],
+  "title": [
+    "Paving the Way From the Lab to the Field: Using Synthetic Microbial Consortia to Produce High-Quality Crops."
+  ],
+  "authorString": [
+    "Kong Z, Hart M, Liu H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kong Z"
+          ],
+          "firstName": [
+            "Zhaoyu"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Key Laboratory of Poyang Lake Environment and Resource Utilization, School of Life Science, Ministry of Education, Nanchang University, Nanchang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hart M"
+          ],
+          "firstName": [
+            "Miranda"
+          ],
+          "lastName": [
+            "Hart"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biology, University of British Columbia Okanagan, Kelowna, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Hongguang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Jiangxi Provincial Key Laboratory of Soil Erosion and Prevision, Jiangxi Institute of Soil and Water Conservation, Nanchang, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644150"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1467"
+  ],
+  "affiliation": [
+    "Key Laboratory of Poyang Lake Environment and Resource Utilization, School of Life Science, Ministry of Education, Nanchang University, Nanchang, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nutrients",
+        "Arbuscular mycorrhizal fungi",
+        "Metabolite",
+        "Plant Growth-promoting Bacteria",
+        "Ecological Impacts",
+        "Biostimulants",
+        "Microbial Network Analysis",
+        "Core Microorganisms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6182091?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6182091"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2018.01467"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-23"
+  ],
+  "firstIndexDate": [
+    "2018-10-22"
+  ],
+  "fullTextReceivedDate": [
+    "2018-10-23"
+  ],
+  "dateOfRevision": [
+    "2018-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-05"
+  ],
+  "firstPublicationDate": [
+    "2018-10-05"
+  ]
+}

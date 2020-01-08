@@ -1,0 +1,880 @@
+{
+  "id": [
+    "31066120"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31066120"
+  ],
+  "pmcid": [
+    "PMC6609826"
+  ],
+  "doi": [
+    "10.1111/cas.14035"
+  ],
+  "title": [
+    "MicroRNA-143/Musashi-2/KRAS cascade contributes positively to carcinogenesis in human bladder cancer."
+  ],
+  "authorString": [
+    "Tsujino T, Sugito N, Taniguchi K, Honda R, Komura K, Yoshikawa Y, Takai T, Minami K, Kuranaga Y, Shinohara H, Tokumaru Y, Heishima K, Inamoto T, Azuma H, Akao Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tsujino T"
+          ],
+          "firstName": [
+            "Takuya"
+          ],
+          "lastName": [
+            "Tsujino"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1559-1889",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sugito N"
+          ],
+          "firstName": [
+            "Nobuhiko"
+          ],
+          "lastName": [
+            "Sugito"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Taniguchi K"
+          ],
+          "firstName": [
+            "Kohei"
+          ],
+          "lastName": [
+            "Taniguchi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0648-1370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Translational Research Program, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Honda R"
+          ],
+          "firstName": [
+            "Ryo"
+          ],
+          "lastName": [
+            "Honda"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Komura K"
+          ],
+          "firstName": [
+            "Kazumasa"
+          ],
+          "lastName": [
+            "Komura"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4157-1929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshikawa Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Yoshikawa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takai T"
+          ],
+          "firstName": [
+            "Tomoaki"
+          ],
+          "lastName": [
+            "Takai"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Minami K"
+          ],
+          "firstName": [
+            "Koichiro"
+          ],
+          "lastName": [
+            "Minami"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuranaga Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Kuranaga"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shinohara H"
+          ],
+          "firstName": [
+            "Haruka"
+          ],
+          "lastName": [
+            "Shinohara"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8326-1203",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tokumaru Y"
+          ],
+          "firstName": [
+            "Yoshihisa"
+          ],
+          "lastName": [
+            "Tokumaru"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2481-7739",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Surgical Oncology, Graduate School of Medicine, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Heishima K"
+          ],
+          "firstName": [
+            "Kazuki"
+          ],
+          "lastName": [
+            "Heishima"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Inamoto T"
+          ],
+          "firstName": [
+            "Teruo"
+          ],
+          "lastName": [
+            "Inamoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Azuma H"
+          ],
+          "firstName": [
+            "Haruhito"
+          ],
+          "lastName": [
+            "Azuma"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Urology, Osaka Medical College, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Akao Y"
+          ],
+          "firstName": [
+            "Yukihiro"
+          ],
+          "lastName": [
+            "Akao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1559-1889",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4157-1929",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8326-1203",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0648-1370",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2481-7739",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "110"
+      ],
+      "journalIssueId": [
+        "2835429"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cancer science"
+          ],
+          "ISOAbbreviation": [
+            "Cancer Sci."
+          ],
+          "medlineAbbreviation": [
+            "Cancer Sci"
+          ],
+          "NLMid": [
+            "101168776"
+          ],
+          "ISSN": [
+            "1347-9032"
+          ],
+          "ESSN": [
+            "1349-7006"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2189-2199"
+  ],
+  "abstractText": [
+    "It has been well established that microRNA (miR)-143 is downregulated in human bladder cancer (BC). Recent precision medicine has shown that mutations in BC are frequently observed in FGFR3, RAS and PIK3CA genes, all of which correlate with RAS signaling networks. We have previously shown that miR-143 suppresses cell growth by inhibiting RAS signaling networks in several cancers including BC. In the present study, we showed that synthetic miR-143 negatively regulated the RNA-binding protein Musashi-2 (MSI2) in BC cell lines. MSI2 is an RNA-binding protein that regulates the stability of certain mRNAs and their translation by binding to the target sequences of the mRNAs. Of note, the present study clarified that MSI2 positively regulated KRAS expression through directly binding to the target sequence of KRAS mRNA and promoting its translation, thus contributing to the maintenance of KRAS expression. Thus, miR-143 silenced KRAS and MSI2, which further downregulated KRAS expression through perturbation of the MSI2/KRAS cascade."
+  ],
+  "affiliation": [
+    "United Graduate School of Drug Discovery and Medical Information Sciences, Gifu University, Gifu, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16cm0106202 h0001"
+          ],
+          "agency": [
+            "Japan Agency for Medical Research and Development"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Transplantation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Down-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Up-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins p21(ras)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Urinary Bladder Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "RNA-binding protein",
+        "Bladder cancer",
+        "Kras",
+        "Mir-143",
+        "Musashi-2"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RNA-Binding Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins p21(ras)"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "MSI2 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "KRAS protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MIRN143 microRNA, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/cas.14035"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609826"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609826?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-15"
+  ],
+  "dateOfCreation": [
+    "2019-05-09"
+  ],
+  "firstIndexDate": [
+    "2019-05-09"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-17"
+  ],
+  "dateOfRevision": [
+    "2019-07-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-27"
+  ],
+  "firstPublicationDate": [
+    "2019-05-27"
+  ]
+}

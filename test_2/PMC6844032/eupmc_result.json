@@ -1,0 +1,408 @@
+{
+  "id": [
+    "31711466"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31711466"
+  ],
+  "pmcid": [
+    "PMC6844032"
+  ],
+  "doi": [
+    "10.1186/s12885-019-6313-x"
+  ],
+  "title": [
+    "Technical advance in targeted NGS analysis enables identification of lung cancer risk-associated low frequency TP53, PIK3CA, and BRAF mutations in airway epithelial cells."
+  ],
+  "authorString": [
+    "Craig DJ, Morrison T, Khuder SA, Crawford EL, Wu L, Xu J, Blomquist TM, Willey JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Craig DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Craig"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Medicine, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Morrison T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Morrison"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Accugenomics, Inc, 1410 Commonwealth Dr #105, Wilmington, NC, 28403, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Khuder SA"
+          ],
+          "firstName": [
+            "Sadik A"
+          ],
+          "lastName": [
+            "Khuder"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Medicine, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Crawford EL"
+          ],
+          "firstName": [
+            "Erin L"
+          ],
+          "lastName": [
+            "Crawford"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Department of Medicine, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu L"
+          ],
+          "firstName": [
+            "Leihong"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "National Center for Toxicological Research, U.S. Food & Drug Administration, Jefferson, AR, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Joshua"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "National Center for Toxicological Research, U.S. Food & Drug Administration, Jefferson, AR, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Blomquist TM"
+          ],
+          "firstName": [
+            "Thomas M"
+          ],
+          "lastName": [
+            "Blomquist"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "affiliation": [
+            "Department of Pathology, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Willey JC"
+          ],
+          "firstName": [
+            "James C"
+          ],
+          "lastName": [
+            "Willey"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1192-6824",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA. James.willey2@utoledo.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1192-6824",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2876244"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC cancer"
+          ],
+          "ISOAbbreviation": [
+            "BMC Cancer"
+          ],
+          "medlineAbbreviation": [
+            "BMC Cancer"
+          ],
+          "NLMid": [
+            "100967800"
+          ],
+          "ISSN": [
+            "1471-2407"
+          ],
+          "ESSN": [
+            "1471-2407"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1081"
+  ],
+  "abstractText": [
+    "BACKGROUND:Standardized Nucleic Acid Quantification for SEQuencing (SNAQ-SEQ) is a novel method that utilizes synthetic DNA internal standards spiked into each sample prior to next generation sequencing (NGS) library preparation. This method was applied to analysis of normal appearing airway epithelial cells (AEC) obtained by bronchoscopy in an effort to define a somatic mutation field effect associated with lung cancer risk. There is a need for biomarkers that reliably detect those at highest lung cancer risk, thereby enabling more effective screening by annual low dose CT. The purpose of this study was to test the hypothesis that lung cancer risk is characterized by increased prevalence of low variant allele frequency (VAF) somatic mutations in lung cancer driver genes in AEC. METHODS:Synthetic DNA internal standards (IS) were prepared for 11 lung cancer driver genes and mixed with each AEC genomic (g) DNA specimen prior to competitive multiplex PCR amplicon NGS library preparation. A custom Perl script was developed to separate IS reads and respective specimen gDNA reads from each target into separate files for parallel variant frequency analysis. This approach identified nucleotide-specific sequencing error and enabled reliable detection of specimen mutations with VAF as low as 5 × 10- 4 (0.05%). This method was applied in a retrospective case-control study of AEC specimens collected by bronchoscopic brush biopsy from the normal airways of 19 subjects, including eleven lung cancer cases and eight non-cancer controls, and the association of lung cancer risk with AEC driver gene mutations was tested. RESULTS:TP53 mutations with 0.05-1.0% VAF were more prevalent (p < 0.05) and also enriched for tobacco smoke and age-associated mutation signatures in normal AEC from lung cancer cases compared to non-cancer controls matched for smoking and age. Further, PIK3CA and BRAF mutations in this VAF range were identified in AEC from cases but not controls. CONCLUSIONS:Application of SNAQ-SEQ to measure mutations in the 0.05-1.0% VAF range enabled identification of an AEC somatic mutation field of injury associated with lung cancer risk. A biomarker comprising TP53, PIK3CA, and BRAF somatic mutations may better stratify individuals for optimal lung cancer screening and prevention outcomes."
+  ],
+  "affiliation": [
+    "Department of Medicine, The University of Toledo College of Medicine, 3000 Arlington Avenue, Toledo, OH, 43614, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lung cancer",
+        "Biomarker",
+        "Next Generation Sequencing",
+        "Low-frequency Variant Detection"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12885-019-6313-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6844032"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6844032?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-13"
+  ],
+  "firstIndexDate": [
+    "2019-11-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-11"
+  ],
+  "firstPublicationDate": [
+    "2019-11-11"
+  ]
+}

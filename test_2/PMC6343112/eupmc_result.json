@@ -1,0 +1,337 @@
+{
+  "id": [
+    "30540431"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30540431"
+  ],
+  "pmcid": [
+    "PMC6343112"
+  ],
+  "doi": [
+    "10.1021/acssynbio.8b00342"
+  ],
+  "title": [
+    "Less Is More: Toward a Genome-Reduced Bacillus Cell Factory for \"Difficult Proteins\"."
+  ],
+  "authorString": [
+    "Aguilar Suárez R, Stülke J, van Dijl JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Aguilar Suárez R"
+          ],
+          "firstName": [
+            "Rocío"
+          ],
+          "lastName": [
+            "Aguilar Suárez"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "University Medical Center Groningen , University of Groningen , 9712 CP Groningen , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Stülke J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Stülke"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5881-5390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Microbiology and Genetics , Georg-August University Göttingen , 37077 Göttingen , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "van Dijl JM"
+          ],
+          "firstName": [
+            "Jan Maarten"
+          ],
+          "lastName": [
+            "van Dijl"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5688-8438",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University Medical Center Groningen , University of Groningen , 9712 CP Groningen , The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5881-5390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5688-8438",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2774060"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS synthetic biology"
+          ],
+          "ISOAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "medlineAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "NLMid": [
+            "101575075"
+          ],
+          "ISSN": [
+            "2161-5063"
+          ],
+          "ESSN": [
+            "2161-5063"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "99-108"
+  ],
+  "abstractText": [
+    "The availability of complete genome sequences and the definition of essential gene sets were fundamental in the start of the genome engineering era. In a recent study, redundant and unnecessary genes were systematically deleted from the Gram-positive bacterium Bacillus subtilis, an industrial production host of high-value secreted proteins. This culminated in strain PG10, which lacks about 36% of the genome, thus representing the most minimal Bacillus chassis currently available. Here, we show that this \"mini Bacillus\" strain has synthetic traits that are favorable for producing \"difficult-to-produce proteins\". As exemplified with different staphylococcal antigens, PG10 overcomes several bottlenecks in protein production related to the secretion process and instability of the secreted product. These findings show for the first time that massive genome reduction can substantially improve secretory protein production by a bacterial expression host, and underpin the high potential of genome-engineered strains as future cell factories."
+  ],
+  "affiliation": [
+    "University Medical Center Groningen , University of Groningen , 9712 CP Groningen , The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bacillus subtilis",
+        "Secretion",
+        "Genome Engineering",
+        "Cell Factory",
+        "Pg10",
+        "Staphylococcal Proteins"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acssynbio.8b00342"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343112"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6343112?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-13"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-31"
+  ],
+  "dateOfRevision": [
+    "2019-09-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-27"
+  ],
+  "firstPublicationDate": [
+    "2018-12-27"
+  ]
+}

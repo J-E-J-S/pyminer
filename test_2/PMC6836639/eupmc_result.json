@@ -1,0 +1,345 @@
+{
+  "id": [
+    "31737020"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31737020"
+  ],
+  "pmcid": [
+    "PMC6836639"
+  ],
+  "doi": [
+    "10.3389/fpls.2019.01405"
+  ],
+  "title": [
+    "Fungicides and the Grapevine Wood Mycobiome: A Case Study on Tracheomycotic Ascomycete Phaeomoniella chlamydospora Reveals Potential for Two Novel Control Strategies."
+  ],
+  "authorString": [
+    "Del Frari G, Gobbi A, Aggerbeck MR, Oliveira H, Hansen LH, Ferreira RB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Del Frari G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Del Frari"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "LEAF-Linking Landscape Environment Agriculture and Food, Instituto Superior de Agronomia, University of Lisbon, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Gobbi A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Gobbi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Environmental Science, Section for Environmental Microbiology and Biotechnology, Environmental Microbial Genomics Group (EMG), Aarhus University, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Aggerbeck MR"
+          ],
+          "firstName": [
+            "Marie Rønne"
+          ],
+          "lastName": [
+            "Aggerbeck"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Department of Environmental Science, Section for Environmental Microbiology and Biotechnology, Environmental Microbial Genomics Group (EMG), Aarhus University, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Oliveira H"
+          ],
+          "firstName": [
+            "Helena"
+          ],
+          "lastName": [
+            "Oliveira"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "LEAF-Linking Landscape Environment Agriculture and Food, Instituto Superior de Agronomia, University of Lisbon, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Hansen LH"
+          ],
+          "firstName": [
+            "Lars Hestbjerg"
+          ],
+          "lastName": [
+            "Hansen"
+          ],
+          "initials": [
+            "LH"
+          ],
+          "affiliation": [
+            "Department of Environmental Science, Section for Environmental Microbiology and Biotechnology, Environmental Microbial Genomics Group (EMG), Aarhus University, Roskilde, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferreira RB"
+          ],
+          "firstName": [
+            "Ricardo Boavida"
+          ],
+          "lastName": [
+            "Ferreira"
+          ],
+          "initials": [
+            "RB"
+          ],
+          "affiliation": [
+            "LEAF-Linking Landscape Environment Agriculture and Food, Instituto Superior de Agronomia, University of Lisbon, Lisbon, Portugal."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777619"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Plant Science"
+          ],
+          "ISOAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1405"
+  ],
+  "abstractText": [
+    "Phaeomoniella chlamydospora is a tracheomycotic fungus that colonizes the xylem of grapevines (Vitis vinifera L.), causing wood discoloration, brown wood streaking, gummosis, and wood necrosis, which negatively affect the overall health, productivity, and life span of vines. Current control strategies to prevent or cope with P. chlamydospora infections are frequently ineffective. Moreover, it is unclear how fungicides commonly applied in vineyards against downy and powdery mildew agents affect the wood mycobiome, including wood pathogens such as P. chlamydospora. In this study, we used next-generation sequencing to assess the effects of foliar spray of grapevines with inorganic (copper oxychloride and sulfur), synthetic (penconazole and fosetyl-aluminum), and natural (Blad) fungicides currently used against the downy and powdery mildews. The subjects of our investigation were (i) the resident wood mycobiome, (ii) the early colonization by a consortium of fungal wood endophytes (ACEA1), (iii) the wood colonization success of P. chlamydospora, and (iv) the in planta interaction between P. chlamydospora and ACEA1, under greenhouse conditions, in rooted grapevine cuttings of cv. Cabernet Sauvignon. The data obtained suggest that the resident mycobiome is affected by different fungicide treatments. In addition, the early colonization success of the endophytes composing ACEA1 varied in response to fungicides, with relative abundances of some taxa being overrepresented or underrepresented when compared with the control. The wood colonization by P. chlamydospora comported significant changes in the mycobiome composition, and in addition, it was greatly affected by the foliar spray with Blad, which decreased the relative abundance of this pathogen 12-fold (4.9%) when compared with the control (60.7%) and other treatments. The presence of the pathogen also decreased considerably when co-inoculated into the plant with ACEA1, reaching relative abundances between 13.9% and 2.0%, depending on the fungicide treatment applied. This study shows that fungicides sprayed to prevent infections of powdery and downy mildews have an effect on non-target fungi that colonize the endosphere of grapevines. We suggest two potential control strategies to fight P. chlamydospora, namely, the foliar spray with Blad and the use of ACEA1. Further studies to confirm these results are required."
+  ],
+  "affiliation": [
+    "LEAF-Linking Landscape Environment Agriculture and Food, Instituto Superior de Agronomia, University of Lisbon, Lisbon, Portugal."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fungicides",
+        "Microbial ecology",
+        "Phaeomoniella Chlamydospora",
+        "Grapevine Trunk Diseases",
+        "Mycobiome"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2019.01405"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6836639"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6836639?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "bioproject"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-19"
+  ],
+  "firstIndexDate": [
+    "2019-11-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-31"
+  ],
+  "firstPublicationDate": [
+    "2019-10-31"
+  ]
+}

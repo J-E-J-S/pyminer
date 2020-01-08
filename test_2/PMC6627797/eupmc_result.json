@@ -1,0 +1,322 @@
+{
+  "id": [
+    "31234528"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31234528"
+  ],
+  "pmcid": [
+    "PMC6627797"
+  ],
+  "doi": [
+    "10.3390/ijms20123054"
+  ],
+  "title": [
+    "Functional Protein-Based Bioinspired Nanomaterials: From Coupled Proteins, Synthetic Approaches, Nanostructures to Applications."
+  ],
+  "authorString": [
+    "Zhang D, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dong"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "National Engineering Laboratory of Intelligent Food Technology and Equipment, Key Laboratory for Agro-Products Postharvest Handling of Ministry of Agriculture, Key Laboratory for Agro-Products Nutritional Evaluation of Ministry of Agriculture, Zhejiang Key Laboratory for Agro-Food Processing, Fuli Institute of Food Science, College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310058, China. dorothy.zhang@connect.polyu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Engineering Laboratory of Intelligent Food Technology and Equipment, Key Laboratory for Agro-Products Postharvest Handling of Ministry of Agriculture, Key Laboratory for Agro-Products Nutritional Evaluation of Ministry of Agriculture, Zhejiang Key Laboratory for Agro-Food Processing, Fuli Institute of Food Science, College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310058, China. wytsinghua03@hotmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2828208"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Protein-based bioinspired nanomaterials (PBNs) combines the advantage of the size, shape, and surface chemistry of nanomaterials, the morphology and functions of natural materials, and the physical and chemical properties of various proteins. Recently, there are many exciting developments on biomimetic nanomaterials using proteins for different applications including, tissue engineering, drug delivery, diagnosis and therapy, smart materials and structures, and water collection and separation. Protein-based biomaterials with high biocompatibility and biodegradability could be modified to obtain the healing effects of natural organisms after injury by mimicking the extracellular matrix. For cancer and other diseases that are difficult to cure now, new therapeutic methods involving different kinds of biomaterials are studied. The nanomaterials with surface modification, which can achieve high drug loading, can be used as drug carriers to enhance target and trigger deliveries. For environment protection and the sustainability of the world, protein-based nanomaterials are also applied for water treatment. A wide range of contaminants from natural water source, such as organic dyes, oil substances, and multiple heavy ions, could be absorbed by protein-based nanomaterials. This review summarizes the formation and application of functional PBNs, and the details of their nanostructures, the proteins involved, and the synthetic approaches are addressed."
+  ],
+  "affiliation": [
+    "National Engineering Laboratory of Intelligent Food Technology and Equipment, Key Laboratory for Agro-Products Postharvest Handling of Ministry of Agriculture, Key Laboratory for Agro-Products Nutritional Evaluation of Ministry of Agriculture, Zhejiang Key Laboratory for Agro-Food Processing, Fuli Institute of Food Science, College of Biosystems Engineering and Food Science, Zhejiang University, Hangzhou 310058, China. dorothy.zhang@connect.polyu.hk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PolyU 153343/16P"
+          ],
+          "agency": [
+            "University Grants Committee"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "05161016"
+          ],
+          "agency": [
+            "Health and Medical Research Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "03144126"
+          ],
+          "agency": [
+            "Health and Medical Research Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JCYJ20170413154810633"
+          ],
+          "agency": [
+            "Shenzhen Science and Technology Innovation Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Tissue engineering",
+        "Water purification",
+        "Drug Delivery",
+        "nanomaterials",
+        "Bioinspired",
+        "Functional Protein"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20123054"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6627797"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6627797?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-26"
+  ],
+  "firstIndexDate": [
+    "2019-06-25"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-22"
+  ],
+  "firstPublicationDate": [
+    "2019-06-22"
+  ]
+}

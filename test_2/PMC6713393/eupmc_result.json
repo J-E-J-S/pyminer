@@ -1,0 +1,398 @@
+{
+  "id": [
+    "31461461"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31461461"
+  ],
+  "pmcid": [
+    "PMC6713393"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0220694"
+  ],
+  "title": [
+    "COSPLAY: An expandable toolbox for combinatorial and swift generation of expression plasmids in yeast."
+  ],
+  "authorString": [
+    "Goulev Y, Matifas A, Heyer V, Reina-San-Martin B, Charvin G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goulev Y"
+          ],
+          "firstName": [
+            "Youlian"
+          ],
+          "lastName": [
+            "Goulev"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0370-4567",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Matifas A"
+          ],
+          "firstName": [
+            "Audrey"
+          ],
+          "lastName": [
+            "Matifas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Heyer V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Heyer"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Reina-San-Martin B"
+          ],
+          "firstName": [
+            "Bernardo"
+          ],
+          "lastName": [
+            "Reina-San-Martin"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2083-6166",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Charvin G"
+          ],
+          "firstName": [
+            "Gilles"
+          ],
+          "lastName": [
+            "Charvin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6852-6952",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2083-6166",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0370-4567",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6852-6952",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2843511"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0220694"
+  ],
+  "abstractText": [
+    "A large number of genetic studies in yeast rely on the use of expression vectors. To facilitate the experimental approach of these studies, several collections of expression vectors have been generated (YXplac, pRS series, etc.). Subsequently, these collections have been expanded by adding more diversity to many of the plasmid features, including new selection markers and new promoter sequences. However, the ever growing number of plasmid features makes it unrealistic for research labs to maintain an up-to-date collection of plasmids. Here, we developed the COSPLAY toolbox: a Golden Gate approach based on the scheme of a simple modular plasmid that recapitulates and completes all the properties of the pRS plasmids. The COSPLAY toolbox contains a basal collection of individual functional modules. Moreover, we standardized a simple and rapid, software-assisted protocol which facilitates the addition of new personalized modules. Finally, our toolbox includes the possibility to select a genomic target location and to perform a single copy integration of the expression vector."
+  ],
+  "affiliation": [
+    "Department of Developmental Biology and Stem Cells, Institut de Génétique et de Biologie Moléculaire et Cellulaire, Illkirch, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6713393?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6713393"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0220694"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR78316"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-29"
+  ],
+  "firstIndexDate": [
+    "2019-08-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-06"
+  ],
+  "dateOfRevision": [
+    "2019-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-28"
+  ],
+  "firstPublicationDate": [
+    "2019-08-28"
+  ]
+}

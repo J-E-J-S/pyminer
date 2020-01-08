@@ -1,0 +1,518 @@
+{
+  "id": [
+    "29924860"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29924860"
+  ],
+  "pmcid": [
+    "PMC6010251"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0199473"
+  ],
+  "title": [
+    "CRISPR/Cas-based customization of pooled CRISPR libraries."
+  ],
+  "authorString": [
+    "Kweon J, Kim DE, Jang AH, Kim Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kweon J"
+          ],
+          "firstName": [
+            "Jiyeon"
+          ],
+          "lastName": [
+            "Kweon"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim DE"
+          ],
+          "firstName": [
+            "Da-Eun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Seoul National University, Seoul, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jang AH"
+          ],
+          "firstName": [
+            "An-Hee"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim Y"
+          ],
+          "firstName": [
+            "Yongsub"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9334-4333",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9334-4333",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2690785"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0199473"
+  ],
+  "abstractText": [
+    "Pooled CRISPR libraries are widely used in high-throughput screening to study various biological processes. Various pooled CRISPR libraries have been shared for CRISPR screens and useful tools have been developed to construct researcher's own libraries, however, many researchers are struggling to create their own pooled CRISPR libraries: it is a time-consuming, labor-intensive, and expensive process. In this study, we develop a simple method to customize conventional pooled CRISPR libraries using the CRISPR/Cas9 system. We show that conventional pooled CRISPR libraries can be modified by eliminating gRNAs that target positive genes, enabling the identification of unknown target genes in CRISPR screening. CRISPR/Cas9 system can be applied as a precise tool for customizing conventional pooled CRISPR libraries and will broaden the scope of high-throughput screening technology."
+  ],
+  "affiliation": [
+    "Department of Biomedical Sciences, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hela Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypoxanthine Phosphoribosyltransferase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ribonucleoproteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Library"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Screening Assays"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Cas Systems"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Hypoxanthine Phosphoribosyltransferase"
+          ],
+          "registryNumber": [
+            "EC 2.4.2.8"
+          ]
+        },
+        {
+          "name": [
+            "Ribonucleoproteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "CRISPR-Associated Protein 9"
+          ],
+          "registryNumber": [
+            "EC 3.1.-"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0199473"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6010251"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6010251?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2018-06-21"
+  ],
+  "firstIndexDate": [
+    "2018-06-21"
+  ],
+  "fullTextReceivedDate": [
+    "2018-07-08"
+  ],
+  "dateOfRevision": [
+    "2019-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-06-20"
+  ],
+  "firstPublicationDate": [
+    "2018-06-20"
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "id": [
+    "31468128"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31468128"
+  ],
+  "pmcid": [
+    "PMC6797701"
+  ],
+  "doi": [
+    "10.1007/s00299-019-02464-4"
+  ],
+  "title": [
+    "Current status in whole genome sequencing and analysis of Ipomoea spp."
+  ],
+  "authorString": [
+    "Isobe S, Shirasawa K, Hirakawa H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Isobe S"
+          ],
+          "firstName": [
+            "Sachiko"
+          ],
+          "lastName": [
+            "Isobe"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9555-5054",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kazusa DNA Research Institute, Kazusa-Kamatari 2-6-7, Kisarazu, Chiba, Japan. sisobe@kazusa.or.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Shirasawa K"
+          ],
+          "firstName": [
+            "Kenta"
+          ],
+          "lastName": [
+            "Shirasawa"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7880-6221",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kazusa DNA Research Institute, Kazusa-Kamatari 2-6-7, Kisarazu, Chiba, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirakawa H"
+          ],
+          "firstName": [
+            "Hideki"
+          ],
+          "lastName": [
+            "Hirakawa"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7128-7390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kazusa DNA Research Institute, Kazusa-Kamatari 2-6-7, Kisarazu, Chiba, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7880-6221",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7128-7390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9555-5054",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2872161"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant cell reports"
+          ],
+          "ISOAbbreviation": [
+            "Plant Cell Rep."
+          ],
+          "medlineAbbreviation": [
+            "Plant Cell Rep"
+          ],
+          "NLMid": [
+            "9880970"
+          ],
+          "ISSN": [
+            "0721-7714"
+          ],
+          "ESSN": [
+            "1432-203X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1365-1371"
+  ],
+  "abstractText": [
+    "The recent advances of next-generation sequencing have made it possible to construct reference genome sequences in divergent species. However, de novo assembly at the chromosome level remains challenging in polyploid species, due to the existence of more than two pairs of homoeologous chromosomes in one nucleus. Cultivated sweet potato (Ipomoea batatas (L.) Lam) is a hexaploid species with 90 chromosomes (2n = 6X = 90). Although the origin of sweet potato is also still under discussion, diploid relative species, I. trifida and I. triloba have been considered as one of the most possible progenitors. In this manuscript, we review the recent results and activities of whole-genome sequencing in the genus Ipomoea series Batatas, I. trifida, I. triloba and sweet potato (I. batatas). Most of the results of genome assembly suggest that the genomes of sweet potato consist of two pairs and four pairs of subgenomes, i.e., B1B1B2B2B2B2. The results also revealed the relation between sweet potato and other Ipomoea species. Together with the development of bioinformatics approaches, the large-scale publicly available genome and transcript sequence resources and international genome sequencing streams are expected to promote the genome sequence dissection in sweet potato."
+  ],
+  "affiliation": [
+    "Kazusa DNA Research Institute, Kazusa-Kamatari 2-6-7, Kisarazu, Chiba, Japan. sisobe@kazusa.or.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ipomoea",
+        "Sequencing",
+        "Sweet potato",
+        "whole genome"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00299-019-02464-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797701"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6797701?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-08-31"
+  ],
+  "firstIndexDate": [
+    "2019-08-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-29"
+  ],
+  "firstPublicationDate": [
+    "2019-08-29"
+  ]
+}

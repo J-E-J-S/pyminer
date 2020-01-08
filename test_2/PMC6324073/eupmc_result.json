@@ -1,0 +1,698 @@
+{
+  "id": [
+    "30462303"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30462303"
+  ],
+  "pmcid": [
+    "PMC6324073"
+  ],
+  "doi": [
+    "10.1093/nar/gky1133"
+  ],
+  "title": [
+    "Open Targets Platform: new developments and updates two years on."
+  ],
+  "authorString": [
+    "Carvalho-Silva D, Pierleoni A, Pignatelli M, Ong C, Fumis L, Karamanis N, Carmona M, Faulconbridge A, Hercules A, McAuley E, Miranda A, Peat G, Spitzer M, Barrett J, Hulcoop DG, Papa E, Koscielny G, Dunham I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carvalho-Silva D"
+          ],
+          "firstName": [
+            "Denise"
+          ],
+          "lastName": [
+            "Carvalho-Silva"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5662-1840",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Pierleoni A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Pierleoni"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Pignatelli M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Pignatelli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Ong C"
+          ],
+          "firstName": [
+            "ChuangKee"
+          ],
+          "lastName": [
+            "Ong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6428-5605",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Fumis L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Fumis"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Karamanis N"
+          ],
+          "firstName": [
+            "Nikiforos"
+          ],
+          "lastName": [
+            "Karamanis"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Carmona M"
+          ],
+          "firstName": [
+            "Miguel"
+          ],
+          "lastName": [
+            "Carmona"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Faulconbridge A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Faulconbridge"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4733-3270",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Hercules A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Hercules"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1531-2536",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "McAuley E"
+          ],
+          "firstName": [
+            "Elaine"
+          ],
+          "lastName": [
+            "McAuley"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Miranda A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Miranda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Peat G"
+          ],
+          "firstName": [
+            "Gareth"
+          ],
+          "lastName": [
+            "Peat"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0830-1492",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Spitzer M"
+          ],
+          "firstName": [
+            "Michaela"
+          ],
+          "lastName": [
+            "Spitzer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1967-3726",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett J"
+          ],
+          "firstName": [
+            "Jeffrey"
+          ],
+          "lastName": [
+            "Barrett"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hulcoop DG"
+          ],
+          "firstName": [
+            "David G"
+          ],
+          "lastName": [
+            "Hulcoop"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1323-1759",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Papa E"
+          ],
+          "firstName": [
+            "Eliseo"
+          ],
+          "lastName": [
+            "Papa"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Koscielny G"
+          ],
+          "firstName": [
+            "Gautier"
+          ],
+          "lastName": [
+            "Koscielny"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Open Targets, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Dunham I"
+          ],
+          "firstName": [
+            "Ian"
+          ],
+          "lastName": [
+            "Dunham"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2525-5598",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+          ],
+          "affiliationOrgId": [
+            "ror.org/02catss52"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4733-3270",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0830-1492",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5662-1840",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1531-2536",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6428-5605",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1323-1759",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1967-3726",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2525-5598",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "D1"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "2769746"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nucleic acids research"
+          ],
+          "ISOAbbreviation": [
+            "Nucleic Acids Res."
+          ],
+          "medlineAbbreviation": [
+            "Nucleic Acids Res"
+          ],
+          "NLMid": [
+            "0411011"
+          ],
+          "ISSN": [
+            "0305-1048"
+          ],
+          "ESSN": [
+            "1362-4962"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "D1056-D1065"
+  ],
+  "abstractText": [
+    "The Open Targets Platform integrates evidence from genetics, genomics, transcriptomics, drugs, animal models and scientific literature to score and rank target-disease associations for drug target identification. The associations are displayed in an intuitive user interface (https://www.targetvalidation.org), and are available through a REST-API (https://api.opentargets.io/v3/platform/docs/swagger-ui) and a bulk download (https://www.targetvalidation.org/downloads/data). In addition to target-disease associations, we also aggregate and display data at the target and disease levels to aid target prioritisation. Since our first publication two years ago, we have made eight releases, added new data sources for target-disease associations, started including causal genetic variants from non genome-wide targeted arrays, added new target and disease annotations, launched new visualisations and improved existing ones and released a new web tool for batch search of up to 200 targets. We have a new URL for the Open Targets Platform REST-API, new REST endpoints and also removed the need for authorisation for API fair use. Here, we present the latest developments of the Open Targets Platform, expanding the evidence and target-disease associations with new and improved data sources, refining data quality, enhancing website usability, and increasing our user base with our training workshops, user support, social media and bioinformatics forum engagement."
+  ],
+  "affiliation": [
+    "European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/nar/gky1133"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6324073"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6324073?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-11-22"
+  ],
+  "firstIndexDate": [
+    "2018-11-22"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-20"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

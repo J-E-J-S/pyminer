@@ -1,0 +1,375 @@
+{
+  "id": [
+    "31717409"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31717409"
+  ],
+  "pmcid": [
+    "PMC6920805"
+  ],
+  "doi": [
+    "10.3390/microorganisms7110541"
+  ],
+  "title": [
+    "Isolation, Screening, and Characterization of Plant-Growth-Promoting Bacteria from Durum Wheat Rhizosphere to Improve N and P Nutrient Use Efficiency."
+  ],
+  "authorString": [
+    "Di Benedetto NA, Campaniello D, Bevilacqua A, Cataldi MP, Sinigaglia M, Flagella Z, Corbo MR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Di Benedetto NA"
+          ],
+          "firstName": [
+            "Nilde Antonella"
+          ],
+          "lastName": [
+            "Di Benedetto"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Campaniello D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Campaniello"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bevilacqua A"
+          ],
+          "firstName": [
+            "Antonio"
+          ],
+          "lastName": [
+            "Bevilacqua"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cataldi MP"
+          ],
+          "firstName": [
+            "Mariagrazia Pia"
+          ],
+          "lastName": [
+            "Cataldi"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sinigaglia M"
+          ],
+          "firstName": [
+            "Milena"
+          ],
+          "lastName": [
+            "Sinigaglia"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Flagella Z"
+          ],
+          "firstName": [
+            "Zina"
+          ],
+          "lastName": [
+            "Flagella"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Corbo MR"
+          ],
+          "firstName": [
+            "Maria Rosaria"
+          ],
+          "lastName": [
+            "Corbo"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3420-5445",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3420-5445",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2877571"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microorganisms"
+          ],
+          "ISOAbbreviation": [
+            "Microorganisms"
+          ],
+          "medlineAbbreviation": [
+            "Microorganisms"
+          ],
+          "NLMid": [
+            "101625893"
+          ],
+          "ISSN": [
+            "2076-2607"
+          ],
+          "ESSN": [
+            "2076-2607"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The main goal of this paper was to select promising microorganisms which could potentially act as plant-growth-promoting bacteria (PGPB) for durum wheat of Foggia County. At this scope, a new statistical framework, based on multivariate analyses and the evaluation of the statistical distribution of each trait, was used. Four hundred and seventy-four isolates were isolated from the rhizosphere of durum wheat in Foggia County and preliminarily screened as a function of four target indices (ammonium production, siderophores production, P-solubilization, and nitrification). After this step, the number of strains was reduced and the remaining isolates were tested through a quantitative approach, to assess the production of IAA (indole acetic acid), P-mineralization, and nitrification. In this second step, the cut-off was based on the whole population trend by evaluating for each trait the medians and quartiles. As a result, 16 promising isolates were selected and identified by 16S rDNA sequencing (Bacillus, Pseudomonas, Stenotrophomonas, and Lysinibacillus). The last step of this research was a preliminary validation in a growth chamber on eight strains. As screening and simple indices, two quantitative measures were chosen. The main result was the selection of at least three isolates (6P, 20P, and 25A) for a future field validation. They increased biomass and height by respectively 50% and 25%."
+  ],
+  "affiliation": [
+    "Department of the Science of Agriculture, Food and Environment (SAFE), University of Foggia, 71122 Foggia, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Durum Wheat",
+        "Nutrient-use Efficiency",
+        "Plant-growth-promoting Bacteria",
+        "Multivariate Approach",
+        "Phenotypic And Genotypic Characterization"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/microorganisms7110541"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6920805"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6920805?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-14"
+  ],
+  "firstIndexDate": [
+    "2019-11-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-27"
+  ],
+  "dateOfRevision": [
+    "2019-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-08"
+  ],
+  "firstPublicationDate": [
+    "2019-11-08"
+  ]
+}

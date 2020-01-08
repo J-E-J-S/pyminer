@@ -1,0 +1,1256 @@
+{
+  "id": [
+    "30400818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30400818"
+  ],
+  "pmcid": [
+    "PMC6219177"
+  ],
+  "doi": [
+    "10.1186/s13059-018-1539-5"
+  ],
+  "title": [
+    "Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection."
+  ],
+  "authorString": [
+    "Lee AY, Ewing AD, Ellrott K, Hu Y, Houlahan KE, Bare JC, Espiritu SMG, Huang V, Dang K, Chong Z, Caloian C, Yamaguchi TN, ICGC-TCGA DREAM Somatic Mutation Calling Challenge Participants, Kellen MR, Chen K, Norman TC, Friend SH, Guinney J, Stolovitzky G, Haussler D, Margolin AA, Stuart JM, Boutros PC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee AY"
+          ],
+          "firstName": [
+            "Anna Y"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "AY"
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ewing AD"
+          ],
+          "firstName": [
+            "Adam D"
+          ],
+          "lastName": [
+            "Ewing"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4544-994X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ellrott K"
+          ],
+          "firstName": [
+            "Kyle"
+          ],
+          "lastName": [
+            "Ellrott"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Y"
+          ],
+          "firstName": [
+            "Yin"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Houlahan KE"
+          ],
+          "firstName": [
+            "Kathleen E"
+          ],
+          "lastName": [
+            "Houlahan"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bare JC"
+          ],
+          "firstName": [
+            "J Christopher"
+          ],
+          "lastName": [
+            "Bare"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Espiritu SMG"
+          ],
+          "firstName": [
+            "Shadrielle Melijah G"
+          ],
+          "lastName": [
+            "Espiritu"
+          ],
+          "initials": [
+            "SMG"
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6504-179X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dang K"
+          ],
+          "firstName": [
+            "Kristen"
+          ],
+          "lastName": [
+            "Dang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chong Z"
+          ],
+          "firstName": [
+            "Zechen"
+          ],
+          "lastName": [
+            "Chong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Caloian C"
+          ],
+          "firstName": [
+            "Cristian"
+          ],
+          "lastName": [
+            "Caloian"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamaguchi TN"
+          ],
+          "firstName": [
+            "Takafumi N"
+          ],
+          "lastName": [
+            "Yamaguchi"
+          ],
+          "initials": [
+            "TN"
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+          ]
+        },
+        {
+          "collectiveName": [
+            "ICGC-TCGA DREAM Somatic Mutation Calling Challenge Participants"
+          ]
+        },
+        {
+          "fullName": [
+            "Kellen MR"
+          ],
+          "firstName": [
+            "Michael R"
+          ],
+          "lastName": [
+            "Kellen"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen K"
+          ],
+          "firstName": [
+            "Ken"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Bioinformatics and Computational Biology, University of Texas MD Anderson Cancer Center, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Norman TC"
+          ],
+          "firstName": [
+            "Thea C"
+          ],
+          "lastName": [
+            "Norman"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Friend SH"
+          ],
+          "firstName": [
+            "Stephen H"
+          ],
+          "lastName": [
+            "Friend"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guinney J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Guinney"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Sage Bionetworks, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stolovitzky G"
+          ],
+          "firstName": [
+            "Gustavo"
+          ],
+          "lastName": [
+            "Stolovitzky"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "IBM Computational Biology Center, T.J.Watson Research Center, Yorktown Heights, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Haussler D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Haussler"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Margolin AA"
+          ],
+          "firstName": [
+            "Adam A"
+          ],
+          "lastName": [
+            "Margolin"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Computational Biology Program, Oregon Health & Science University, Portland, OR, USA. adam.margolin@mssm.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Stuart JM"
+          ],
+          "firstName": [
+            "Joshua M"
+          ],
+          "lastName": [
+            "Stuart"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA, USA. jstuart@ucsc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Boutros PC"
+          ],
+          "firstName": [
+            "Paul C"
+          ],
+          "lastName": [
+            "Boutros"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0553-7520",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ontario Institute for Cancer Research, Toronto, Ontario, Canada. paul.boutros@oicr.on.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Barnes BD"
+          ],
+          "firstName": [
+            "Bret D"
+          ],
+          "lastName": [
+            "Barnes"
+          ],
+          "initials": [
+            "BD"
+          ]
+        },
+        {
+          "fullName": [
+            "Birol I"
+          ],
+          "firstName": [
+            "Inanc"
+          ],
+          "lastName": [
+            "Birol"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiaoyu"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu R"
+          ],
+          "firstName": [
+            "Readman"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Cox AJ"
+          ],
+          "firstName": [
+            "Anthony J"
+          ],
+          "lastName": [
+            "Cox"
+          ],
+          "initials": [
+            "AJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Ding L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Fritz MH"
+          ],
+          "firstName": [
+            "Markus H-Y"
+          ],
+          "lastName": [
+            "Fritz"
+          ],
+          "initials": [
+            "MH"
+          ]
+        },
+        {
+          "fullName": [
+            "Grigoriev A"
+          ],
+          "firstName": [
+            "Andrey"
+          ],
+          "lastName": [
+            "Grigoriev"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Hach F"
+          ],
+          "firstName": [
+            "Faraz"
+          ],
+          "lastName": [
+            "Hach"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Kawash JK"
+          ],
+          "firstName": [
+            "Joseph K"
+          ],
+          "lastName": [
+            "Kawash"
+          ],
+          "initials": [
+            "JK"
+          ]
+        },
+        {
+          "fullName": [
+            "Korbel JO"
+          ],
+          "firstName": [
+            "Jan O"
+          ],
+          "lastName": [
+            "Korbel"
+          ],
+          "initials": [
+            "JO"
+          ]
+        },
+        {
+          "fullName": [
+            "Kruglyak S"
+          ],
+          "firstName": [
+            "Semyon"
+          ],
+          "lastName": [
+            "Kruglyak"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Liao Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "McPherson A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "McPherson"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Nip KM"
+          ],
+          "firstName": [
+            "Ka Ming"
+          ],
+          "lastName": [
+            "Nip"
+          ],
+          "initials": [
+            "KM"
+          ]
+        },
+        {
+          "fullName": [
+            "Rausch T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Rausch"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Sahinalp SC"
+          ],
+          "firstName": [
+            "S Cenk"
+          ],
+          "lastName": [
+            "Sahinalp"
+          ],
+          "initials": [
+            "SC"
+          ]
+        },
+        {
+          "fullName": [
+            "Sarrafi I"
+          ],
+          "firstName": [
+            "Iman"
+          ],
+          "lastName": [
+            "Sarrafi"
+          ],
+          "initials": [
+            "I"
+          ]
+        },
+        {
+          "fullName": [
+            "Saunders CT"
+          ],
+          "firstName": [
+            "Christopher T"
+          ],
+          "lastName": [
+            "Saunders"
+          ],
+          "initials": [
+            "CT"
+          ]
+        },
+        {
+          "fullName": [
+            "Schulz-Trieglaff O"
+          ],
+          "firstName": [
+            "Ole"
+          ],
+          "lastName": [
+            "Schulz-Trieglaff"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Shaw R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Shaw"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Shi W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Smith SD"
+          ],
+          "firstName": [
+            "Sean D"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "SD"
+          ]
+        },
+        {
+          "fullName": [
+            "Song L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Difei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Ye K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4544-994X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6504-179X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0553-7520",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2743818"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "188"
+  ],
+  "abstractText": [
+    "BACKGROUND:The phenotypes of cancer cells are driven in part by somatic structural variants. Structural variants can initiate tumors, enhance their aggressiveness, and provide unique therapeutic opportunities. Whole-genome sequencing of tumors can allow exhaustive identification of the specific structural variants present in an individual cancer, facilitating both clinical diagnostics and the discovery of novel mutagenic mechanisms. A plethora of somatic structural variant detection algorithms have been created to enable these discoveries; however, there are no systematic benchmarks of them. Rigorous performance evaluation of somatic structural variant detection methods has been challenged by the lack of gold standards, extensive resource requirements, and difficulties arising from the need to share personal genomic information. RESULTS:To facilitate structural variant detection algorithm evaluations, we create a robust simulation framework for somatic structural variants by extending the BAMSurgeon algorithm. We then organize and enable a crowdsourced benchmarking within the ICGC-TCGA DREAM Somatic Mutation Calling Challenge (SMC-DNA). We report here the results of structural variant benchmarking on three different tumors, comprising 204 submissions from 15 teams. In addition to ranking methods, we identify characteristic error profiles of individual algorithms and general trends across them. Surprisingly, we find that ensembles of analysis pipelines do not always outperform the best individual method, indicating a need for new ways to aggregate somatic structural variant detection approaches. CONCLUSIONS:The synthetic tumors and somatic structural variant detection leaderboards remain available as a community benchmarking resource, and BAMSurgeon is available at https://github.com/adamewing/bamsurgeon ."
+  ],
+  "affiliation": [
+    "Ontario Institute for Cancer Research, Toronto, Ontario, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA180778"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01-CA180778, U24-CA143858"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U24 CA143858"
+          ],
+          "agency": [
+            "National Cancer Institute"
+          ],
+          "acronym": [
+            "NCI NIH HHS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genomics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genome, Human"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Software"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Benchmarking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High-Throughput Nucleotide Sequencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Crowdsourcing"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Simulation",
+        "Whole-genome Sequencing",
+        "Somatic Mutations",
+        "Crowdsourcing",
+        "Cancer Genomics",
+        "Benchmarking",
+        "Structural Variants"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-018-1539-5"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219177"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219177?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-02-05"
+  ],
+  "dateOfCreation": [
+    "2018-11-08"
+  ],
+  "firstIndexDate": [
+    "2018-11-07"
+  ],
+  "fullTextReceivedDate": [
+    "2018-11-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-06"
+  ],
+  "firstPublicationDate": [
+    "2018-11-06"
+  ]
+}

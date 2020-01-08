@@ -1,0 +1,684 @@
+{
+  "id": [
+    "29451908"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29451908"
+  ],
+  "pmcid": [
+    "PMC5815609"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0193066"
+  ],
+  "title": [
+    "Cas9-mediated excision of proximal DNaseI/H3K4me3 signatures confers robust silencing of microRNA and long non-coding RNA genes."
+  ],
+  "authorString": [
+    "Janga H, Aznaourova M, Boldt F, Damm K, Grünweller A, Schulte LN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Janga H"
+          ],
+          "firstName": [
+            "Harshavardhan"
+          ],
+          "lastName": [
+            "Janga"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3142-2850",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Lung Research, Philipps University, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Aznaourova M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Aznaourova"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Lung Research, Philipps University, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Boldt F"
+          ],
+          "firstName": [
+            "Fabian"
+          ],
+          "lastName": [
+            "Boldt"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute for Lung Research, Philipps University, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Damm K"
+          ],
+          "firstName": [
+            "Katrin"
+          ],
+          "lastName": [
+            "Damm"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute for Pharmaceutical Chemistry, Philipps University, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Grünweller A"
+          ],
+          "firstName": [
+            "Arnold"
+          ],
+          "lastName": [
+            "Grünweller"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute for Pharmaceutical Chemistry, Philipps University, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schulte LN"
+          ],
+          "firstName": [
+            "Leon N"
+          ],
+          "lastName": [
+            "Schulte"
+          ],
+          "initials": [
+            "LN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6814-9344",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Lung Research, Philipps University, Marburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3142-2850",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6814-9344",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2645507"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0193066"
+  ],
+  "abstractText": [
+    "CRISPR/Cas9-based approaches have greatly facilitated targeted genomic deletions. Contrary to coding genes however, which can be functionally knocked out by frame-shift mutagenesis, non-coding RNA (ncRNA) gene knockouts have remained challenging. Here we present a universal ncRNA knockout approach guided by epigenetic hallmarks, which enables robust gene silencing even in provisionally annotated gene loci. We build on previous work reporting the presence of overlapping histone H3 lysine 4 tri-methylation (H3K4me3) and DNaseI hypersensitivity sites around the transcriptional start sites of most genes. We demonstrate that excision of this gene-proximal signature leads to loss of microRNA and lincRNA transcription and reveals ncRNA phenotypes. Exemplarily we demonstrate silencing of the constitutively transcribed MALAT1 lincRNA gene as well as of the inducible miR-146a and miR-155 genes in human monocytes. Our results validate a role of miR-146a and miR-155 in negative feedback control of the activity of inflammation master-regulator NFκB and suggest that cell-cycle control is a unique feature of miR-155. We suggest that our epigenetically guided CRISPR approach may improve existing ncRNA knockout strategies and contribute to the development of high-confidence ncRNA phenotyping applications."
+  ],
+  "affiliation": [
+    "Institute for Lung Research, Philipps University, Marburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Monocytes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Deoxyribonuclease I"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Histones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blotting, Northern"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Flow Cytometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gene Silencing"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Knockout Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Real-Time Polymerase Chain Reaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "RNA, Long Noncoding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clustered Regularly Interspaced Short Palindromic Repeats"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Histones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Deoxyribonuclease I"
+          ],
+          "registryNumber": [
+            "EC 3.1.21.1"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RNA, Long Noncoding"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0193066"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5815609"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5815609?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-05-23"
+  ],
+  "dateOfCreation": [
+    "2018-02-17"
+  ],
+  "firstIndexDate": [
+    "2018-02-17"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-04"
+  ],
+  "dateOfRevision": [
+    "2018-05-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-16"
+  ],
+  "firstPublicationDate": [
+    "2018-02-16"
+  ]
+}

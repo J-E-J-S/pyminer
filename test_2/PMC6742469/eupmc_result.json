@@ -1,0 +1,330 @@
+{
+  "id": [
+    "31513626"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31513626"
+  ],
+  "pmcid": [
+    "PMC6742469"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0222143"
+  ],
+  "title": [
+    "Analysis of Zobellella denitrificans ZD1 draft genome: Genes and gene clusters responsible for high polyhydroxybutyrate (PHB) production from glycerol under saline conditions and its CRISPR-Cas system."
+  ],
+  "authorString": [
+    "Wu YW, Yang SH, Hwangbo M, Chu KH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wu YW"
+          ],
+          "firstName": [
+            "Yu-Wei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5603-1194",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang SH"
+          ],
+          "firstName": [
+            "Shih-Hung"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, TX, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Hwangbo M"
+          ],
+          "firstName": [
+            "Myung"
+          ],
+          "lastName": [
+            "Hwangbo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, TX, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chu KH"
+          ],
+          "firstName": [
+            "Kung-Hui"
+          ],
+          "lastName": [
+            "Chu"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, TX, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5603-1194",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2854334"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0222143"
+  ],
+  "abstractText": [
+    "Polyhydroxybutyrate (PHB) is biodegradable and renewable and thus considered as a promising alternative to petroleum-based plastics. However, PHB production is costly due to expensive carbon sources for culturing PHB-accumulating microorganisms under sterile conditions. We discovered a hyper PHB-accumulating denitrifying bacterium, Zobellella denitrificans ZD1 (referred as strain ZD1 hereafter) capable of using non-sterile crude glycerol (a waste from biodiesel production) and nitrate to produce high PHB yield under saline conditions. Nevertheless, the underlying genetic mechanisms of PHB production in strain ZD1 have not been elucidated. In this study, we discovered a complete pathway of glycerol conversion to PHB, a novel PHB synthesis gene cluster, a salt-tolerant gene cluster, denitrifying genes, and an assimilatory nitrate reduction gene cluster in the ZD1 genome. Interestingly, the novel PHB synthesis gene cluster was found to be conserved among marine Gammaproteobacteria. Higher levels of PHB accumulation were linked to higher expression levels of the PHB synthesis gene cluster in ZD1 grown with glycerol and nitrate under saline conditions. Additionally, a clustered regularly interspaced short palindromic repeat (CRISPR)-Cas type-I-E antiviral system was found in the ZD1 genome along with a long spacer list, in which most of the spacers belong to either double-stranded DNA viruses or unknown phages. The results of the genome analysis revealed strain ZD1 used the novel PHB gene cluster to produce PHB from non-sterile crude glycerol under saline conditions."
+  ],
+  "affiliation": [
+    "Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0222143"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6742469"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6742469?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-13"
+  ],
+  "firstIndexDate": [
+    "2019-09-16"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-01"
+  ],
+  "dateOfRevision": [
+    "2019-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-12"
+  ],
+  "firstPublicationDate": [
+    "2019-09-12"
+  ]
+}

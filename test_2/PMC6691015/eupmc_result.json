@@ -1,0 +1,720 @@
+{
+  "id": [
+    "31406271"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31406271"
+  ],
+  "pmcid": [
+    "PMC6691015"
+  ],
+  "doi": [
+    "10.1038/s41598-019-48152-x"
+  ],
+  "title": [
+    "SMARCA2-deficiency confers sensitivity to targeted inhibition of SMARCA4 in esophageal squamous cell carcinoma cell lines."
+  ],
+  "authorString": [
+    "Ehrenhöfer-Wölfer K, Puchner T, Schwarz C, Rippka J, Blaha-Ostermann S, Strobl U, Hörmann A, Bader G, Kornigg S, Zahn S, Sommergruber W, Schweifer N, Zichner T, Schlattl A, Neumüller RA, Shi J, Vakoc CR, Kögl M, Petronczki M, Kraut N, Pearson MA, Wöhrle S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ehrenhöfer-Wölfer K"
+          ],
+          "firstName": [
+            "Katharina"
+          ],
+          "lastName": [
+            "Ehrenhöfer-Wölfer"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8893-6131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Puchner T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Puchner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwarz C"
+          ],
+          "firstName": [
+            "Cornelia"
+          ],
+          "lastName": [
+            "Schwarz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Rippka J"
+          ],
+          "firstName": [
+            "Janine"
+          ],
+          "lastName": [
+            "Rippka"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Blaha-Ostermann S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Blaha-Ostermann"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Strobl U"
+          ],
+          "firstName": [
+            "Ursula"
+          ],
+          "lastName": [
+            "Strobl"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Hörmann A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Hörmann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Bader G"
+          ],
+          "firstName": [
+            "Gerd"
+          ],
+          "lastName": [
+            "Bader"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8410-3415",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Kornigg S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Kornigg"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Zahn S"
+          ],
+          "firstName": [
+            "Stephan"
+          ],
+          "lastName": [
+            "Zahn"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Sommergruber W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Sommergruber"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Schweifer N"
+          ],
+          "firstName": [
+            "Norbert"
+          ],
+          "lastName": [
+            "Schweifer"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Zichner T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Zichner"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9848-7598",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Schlattl A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Schlattl"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Neumüller RA"
+          ],
+          "firstName": [
+            "Ralph A"
+          ],
+          "lastName": [
+            "Neumüller"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi J"
+          ],
+          "firstName": [
+            "Junwei"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8427-6316",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cancer Biology, University of Pennsylvania, Philadelphia, PA, 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vakoc CR"
+          ],
+          "firstName": [
+            "Christopher R"
+          ],
+          "lastName": [
+            "Vakoc"
+          ],
+          "initials": [
+            "CR"
+          ],
+          "affiliation": [
+            "Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 11724, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kögl M"
+          ],
+          "firstName": [
+            "Manfred"
+          ],
+          "lastName": [
+            "Kögl"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Petronczki M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Petronczki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Kraut N"
+          ],
+          "firstName": [
+            "Norbert"
+          ],
+          "lastName": [
+            "Kraut"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Pearson MA"
+          ],
+          "firstName": [
+            "Mark A"
+          ],
+          "lastName": [
+            "Pearson"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wöhrle S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Wöhrle"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2478-7333",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria. simon.woehrle@boehringer-ingelheim.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9848-7598",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8410-3415",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2478-7333",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8893-6131",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8427-6316",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2844024"
+      ],
+      "dateOfPublication": [
+        "2019 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "11661"
+  ],
+  "abstractText": [
+    "SMARCA4/BRG1 and SMARCA2/BRM, the two mutually exclusive catalytic subunits of the BAF complex, display a well-established synthetic lethal relationship in SMARCA4-deficient cancers. Using CRISPR-Cas9 screening, we identify SMARCA4 as a novel dependency in SMARCA2-deficient esophageal squamous cell carcinoma (ESCC) models, reciprocal to the known synthetic lethal interaction. Restoration of SMARCA2 expression alleviates the dependency on SMARCA4, while engineered loss of SMARCA2 renders ESCC models vulnerable to concomitant depletion of SMARCA4. Dependency on SMARCA4 is linked to its ATPase activity, but not to bromodomain function. We highlight the relevance of SMARCA4 as a drug target in esophageal cancer using an engineered ESCC cell model harboring a SMARCA4 allele amenable to targeted proteolysis and identify SMARCA4-dependent cell models with low or absent SMARCA2 expression from additional tumor types. These findings expand the concept of SMARCA2/SMARCA4 paralog dependency and suggest that pharmacological inhibition of SMARCA4 represents a novel therapeutic opportunity for SMARCA2-deficient cancers."
+  ],
+  "affiliation": [
+    "Boehringer Ingelheim RCV GmbH & Co KG, 1120, Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 CA013106"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-48152-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6691015"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6691015?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq",
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-08-14"
+  ],
+  "firstIndexDate": [
+    "2019-08-14"
+  ],
+  "fullTextReceivedDate": [
+    "2019-08-17"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-12"
+  ],
+  "firstPublicationDate": [
+    "2019-08-12"
+  ]
+}

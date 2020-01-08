@@ -1,0 +1,339 @@
+{
+  "id": [
+    "31547388"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31547388"
+  ],
+  "pmcid": [
+    "PMC6770348"
+  ],
+  "doi": [
+    "10.3390/cells8091073"
+  ],
+  "title": [
+    "Progress in the Analysis of Food Allergens through Molecular Biology Approaches."
+  ],
+  "authorString": [
+    "Volpicella M, Leoni C, Dileo MCG, Ceci LR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Volpicella M"
+          ],
+          "firstName": [
+            "Mariateresa"
+          ],
+          "lastName": [
+            "Volpicella"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biosciences, Biotechnologies and Biopharmaceutics, University of Bari, Via Amendola 165/a, 70126 Bari, Italy. mariateresa.volpicella@uniba.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Leoni C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Leoni"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Biosciences, Biotechnologies and Biopharmaceutics, University of Bari, Via Amendola 165/a, 70126 Bari, Italy. c.leoni@ibiom.cnr.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Dileo MCG"
+          ],
+          "firstName": [
+            "Maria C G"
+          ],
+          "lastName": [
+            "Dileo"
+          ],
+          "initials": [
+            "MCG"
+          ],
+          "affiliation": [
+            "Department of Biology, University of Bari, Via Amendola 165/a, 70126 Bari, Italy. mariacristina.g.1993@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ceci LR"
+          ],
+          "firstName": [
+            "Luigi R"
+          ],
+          "lastName": [
+            "Ceci"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9032-791X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Bioenergetics, Biomembranes and Molecular Biotechnologies, Italian National Research Council, Via Amendola 165/a, 70126 Bari, Italy. l.ceci@ibiom.cnr.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9032-791X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2854452"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cells"
+          ],
+          "ISOAbbreviation": [
+            "Cells"
+          ],
+          "medlineAbbreviation": [
+            "Cells"
+          ],
+          "NLMid": [
+            "101600052"
+          ],
+          "ISSN": [
+            "2073-4409"
+          ],
+          "ESSN": [
+            "2073-4409"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Food allergies associated with class E immunoglobulins (IgE) are a serious health problem that affects between 1% and 10% of the population of developing countries, with a variability that depends on the geographical area and age range considered. These allergies are caused by a cross-link reaction between a specific food protein (the allergen) and the host IgE. Allergic reactions can range from mild itching to anaphylactic shock and there are no clues to predict the effects of an allergen. Strict avoidance of allergenic food is the only way to avoid possible serious allergic reactions. In the last 30 years a growing number of molecular studies have been conducted to obtain information on the diffusion of food allergens and to establish the structural basis of their allergenicity. At the same time, these studies have also allowed the development of molecular tools (mainly based on synthetic peptides and recombinant allergens) that can be of great help for diagnostic and therapeutic approaches of food allergies. Accordingly, this review focuses on advances in the study of food allergens made possible by molecular technologies and how results and technologies can be integrated for the development of a systematic food molecular allergology. The review may be of interest both to scientists approaching this field of investigation and to physicians who wish to have an update on the progress of research in diagnosis and therapy of food allergies."
+  ],
+  "affiliation": [
+    "Department of Biosciences, Biotechnologies and Biopharmaceutics, University of Bari, Via Amendola 165/a, 70126 Bari, Italy. mariateresa.volpicella@uniba.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immunotherapy",
+        "Epitope mapping",
+        "Food allergy",
+        "Food Allergen",
+        "Component Resolved Diagnosis"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/cells8091073"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6770348"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6770348?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-09-25"
+  ],
+  "firstIndexDate": [
+    "2019-09-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-09-12"
+  ],
+  "firstPublicationDate": [
+    "2019-09-12"
+  ]
+}

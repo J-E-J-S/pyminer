@@ -1,0 +1,1062 @@
+{
+  "id": [
+    "31657716"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31657716"
+  ],
+  "pmcid": [
+    "PMC6917500"
+  ],
+  "doi": [
+    "10.7554/eLife.47110"
+  ],
+  "title": [
+    "A chemical probe of CARM1 alters epigenetic plasticity against breast cancer cell invasion."
+  ],
+  "authorString": [
+    "Cai XC, Zhang T, Kim EJ, Jiang M, Wang K, Wang J, Chen S, Zhang N, Wu H, Li F, Dela Seña CC, Zeng H, Vivcharuk V, Niu X, Zheng W, Lee JP, Chen Y, Barsyte D, Szewczyk M, Hajian T, Ibáñez G, Dong A, Dombrovski L, Zhang Z, Deng H, Min J, Arrowsmith CH, Mazutis L, Shi L, Vedadi M, Brown PJ, Xiang J, Qin LX, Xu W, Luo M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cai XC"
+          ],
+          "firstName": [
+            "Xiao-Chuan"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "XC"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang T"
+          ],
+          "firstName": [
+            "Tuo"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Genomics and Epigenomics Core Facility, Weill Cornell Medical College of Cornell University, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim EJ"
+          ],
+          "firstName": [
+            "Eui-Jun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "McArdle Laboratory for Cancer Research, University of Wisconsin-Madison, Madison, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang K"
+          ],
+          "firstName": [
+            "Ke"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Junyi"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Shi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5860-2616",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang N"
+          ],
+          "firstName": [
+            "Nawei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fengling"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dela Seña CC"
+          ],
+          "firstName": [
+            "Carlo C"
+          ],
+          "lastName": [
+            "Dela Seña"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Vivcharuk V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "Vivcharuk"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Weill Cornell Medical College of Cornell University, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Niu X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Niu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng W"
+          ],
+          "firstName": [
+            "Weihong"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JP"
+          ],
+          "firstName": [
+            "Jonghan P"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yuling"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Center for Synthetic and Systematic Biology, Tsinghua University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Barsyte D"
+          ],
+          "firstName": [
+            "Dalia"
+          ],
+          "lastName": [
+            "Barsyte"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Szewczyk M"
+          ],
+          "firstName": [
+            "Magda"
+          ],
+          "lastName": [
+            "Szewczyk"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hajian T"
+          ],
+          "firstName": [
+            "Taraneh"
+          ],
+          "lastName": [
+            "Hajian"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ibáñez G"
+          ],
+          "firstName": [
+            "Glorymar"
+          ],
+          "lastName": [
+            "Ibáñez"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong A"
+          ],
+          "firstName": [
+            "Aiping"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Dombrovski L"
+          ],
+          "firstName": [
+            "Ludmila"
+          ],
+          "lastName": [
+            "Dombrovski"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhenyu"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Chaoyang Hospital, Affiliation Hospital of Capital Medical University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Deng H"
+          ],
+          "firstName": [
+            "Haiteng"
+          ],
+          "lastName": [
+            "Deng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Center for Synthetic and Systematic Biology, Tsinghua University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Min J"
+          ],
+          "firstName": [
+            "Jinrong"
+          ],
+          "lastName": [
+            "Min"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Arrowsmith CH"
+          ],
+          "firstName": [
+            "Cheryl H"
+          ],
+          "lastName": [
+            "Arrowsmith"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Mazutis L"
+          ],
+          "firstName": [
+            "Linas"
+          ],
+          "lastName": [
+            "Mazutis"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Weill Cornell Medical College of Cornell University, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Vedadi M"
+          ],
+          "firstName": [
+            "Masoud"
+          ],
+          "lastName": [
+            "Vedadi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8454-0367",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Structural Genomics Consortium, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Genomics and Epigenomics Core Facility, Weill Cornell Medical College of Cornell University, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin LX"
+          ],
+          "firstName": [
+            "Li-Xuan"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "LX"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "McArdle Laboratory for Cancer Research, University of Wisconsin-Madison, Madison, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo M"
+          ],
+          "firstName": [
+            "Minkui"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7409-7034",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7409-7034",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5860-2616",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8454-0367",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2865254"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "CARM1 is a cancer-relevant protein arginine methyltransferase that regulates many aspects of transcription. Its pharmacological inhibition is a promising anti-cancer strategy. Here SKI-73 (6a in this work) is presented as a CARM1 chemical probe with pro-drug properties. SKI-73 (6a) can rapidly penetrate cell membranes and then be processed into active inhibitors, which are retained intracellularly with 10-fold enrichment for several days. These compounds were characterized for their potency, selectivity, modes of action, and on-target engagement. SKI-73 (6a) recapitulates the effect of CARM1 knockout against breast cancer cell invasion. Single-cell RNA-seq analysis revealed that the SKI-73(6a)-associated reduction of invasiveness acts via altering epigenetic plasticity and suppressing the invasion-prone subpopulation. Interestingly, SKI-73 (6a) and CARM1 knockout alter the epigenetic plasticity with remarkable difference, arguing distinct modes of action between the small-molecule and genetic perturbation. We therefore discovered a CARM1-addiction mechanism of cancer metastasis and developed a chemical probe to target this process."
+  ],
+  "affiliation": [
+    "Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01GM120570"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01GM096056"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "5P30 CA008748"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PDF17481306"
+          ],
+          "agency": [
+            "Susan G Komen Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01CA213293"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "I8-A8-058"
+          ],
+          "agency": [
+            "Starr Cancer Consortium"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA236356"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35GM131858"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "NH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01CA236356"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA213293"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ZYLX201713"
+          ],
+          "agency": [
+            "Special Funding of Beijing Municipal Administration of Hospitals Clinical Medicine Development YangFan Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Human",
+        "Biochemistry",
+        "Chemical Biology"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.47110"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6917500"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6917500?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR74548"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-10-29"
+  ],
+  "firstIndexDate": [
+    "2019-10-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-28"
+  ],
+  "firstPublicationDate": [
+    "2019-10-28"
+  ]
+}

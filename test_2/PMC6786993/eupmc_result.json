@@ -1,0 +1,419 @@
+{
+  "id": [
+    "31601833"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31601833"
+  ],
+  "pmcid": [
+    "PMC6786993"
+  ],
+  "doi": [
+    "10.1038/s41598-019-50874-x"
+  ],
+  "title": [
+    "Overexpression of BZW1 is an independent poor prognosis marker and its down-regulation suppresses lung adenocarcinoma metastasis."
+  ],
+  "authorString": [
+    "Chiou J, Chang YC, Jan YH, Tsai HF, Yang CJ, Huang MS, Yu YL, Hsiao M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chiou J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Chiou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang YC"
+          ],
+          "firstName": [
+            "Yu-Chan"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0474-9935",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Jan YH"
+          ],
+          "firstName": [
+            "Yi-Hua"
+          ],
+          "lastName": [
+            "Jan"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsai HF"
+          ],
+          "firstName": [
+            "Hsing-Fang"
+          ],
+          "lastName": [
+            "Tsai"
+          ],
+          "initials": [
+            "HF"
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang CJ"
+          ],
+          "firstName": [
+            "Chih-Jen"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Kaohsiung Municipal Ta-Tung Hospital, Kaohsiung Medical University Hospital, Kaohsiung Medical University, Kaohsiung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang MS"
+          ],
+          "firstName": [
+            "Ming-Shyan"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, E-DA Cancer Hospital, School of Medicine, I-Shou University, Kaohsiung, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu YL"
+          ],
+          "firstName": [
+            "Yung-Luen"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "affiliation": [
+            "The PhD. Program for Cancer Biology and Drug Discovery, China Medical University and Academia Sinica, Taichung, Taiwan. ylyu@mail.cmu.edu.tw."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsiao M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Hsiao"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8529-9213",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Genomics Research Center, Academia Sinica, Taipei, Taiwan. mhsiao@gate.sinica.edu.tw."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8529-9213",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0474-9935",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2866017"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "14624"
+  ],
+  "abstractText": [
+    "The basic leucine zipper and the W2 domain-containing protein 1 (BZW1) plays a key role in the cell cycle and transcriptionally control the histone H4 gene during G1/S phase. Since cellular proliferation rates are frequently dysregulated in human cancers, we identified the characteristics of BZW1 in cancer cells and analyzed its prognostic value in lung cancer patients. By searching public databases, we found that high BZW1 expression was significantly correlated with poor survival rate in non-small cell lung cancer (NSCLC), especially in lung adenocarcinoma. Similar trends were also shown in an array comprising NSCLC patient tissue. Knockdown of BZW1 inhibited cell metastatic ability, but did not affect the cell proliferation rate of NSCLC cells. From transcriptomics data mining, we found that coordination between BZW1 and EGFR overexpression was correlated with a worse outcome for lung cancer patients. In summary, BZW1 expression serves as an independent prognostic factor of NSCLC, especially in lung adenocarcinoma. Overexpression of BZW1 in lung cancer cells revealed a novel pathway underlying the induction of lung cancer metastasis."
+  ],
+  "affiliation": [
+    "Genomics Research Center, Academia Sinica, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-50874-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6786993"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6786993?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-12"
+  ],
+  "firstIndexDate": [
+    "2019-10-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-10-22"
+  ],
+  "dateOfRevision": [
+    "2019-10-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-10"
+  ],
+  "firstPublicationDate": [
+    "2019-10-10"
+  ]
+}

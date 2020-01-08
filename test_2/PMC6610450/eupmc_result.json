@@ -1,0 +1,295 @@
+{
+  "id": [
+    "31243141"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31243141"
+  ],
+  "pmcid": [
+    "PMC6610450"
+  ],
+  "doi": [
+    "10.1042/EBC20180044"
+  ],
+  "title": [
+    "From observing to predicting single-cell structure and function with high-throughput/high-content microscopy."
+  ],
+  "authorString": [
+    "Chessel A, Carazo Salas RE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chessel A"
+          ],
+          "firstName": [
+            "Anatole"
+          ],
+          "lastName": [
+            "Chessel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "École polytechnique, Université Paris-Saclay, 91128 Palaiseau Cedex, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Carazo Salas RE"
+          ],
+          "firstName": [
+            "Rafael E"
+          ],
+          "lastName": [
+            "Carazo Salas"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5943-3981",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Cellular & Molecular Medicine, University of Bristol, BS8 1TD Bristol, UK rafael.carazosalas@bristol.ac.uk anatole.chessel@polytechnique.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5943-3981",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "63"
+      ],
+      "journalIssueId": [
+        "2834816"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Essays in biochemistry"
+          ],
+          "ISOAbbreviation": [
+            "Essays Biochem."
+          ],
+          "medlineAbbreviation": [
+            "Essays Biochem"
+          ],
+          "NLMid": [
+            "0043306"
+          ],
+          "ISSN": [
+            "0071-1365"
+          ],
+          "ESSN": [
+            "1744-1358"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "197-208"
+  ],
+  "abstractText": [
+    "In the past 15 years, cell-based microscopy has evolved its focus from observing cell function to aiming to predict it. In particular-powered by breakthroughs in computer vision, large-scale image analysis and machine learning-high-throughput and high-content microscopy imaging have enabled to uniquely harness single-cell information to systematically discover and annotate genes and regulatory pathways, uncover systems-level interactions and causal links between cellular processes, and begin to clarify and predict causal cellular behaviour and decision making. Here we review these developments, discuss emerging trends in the field, and describe how single-cell 'omics and single-cell microscopy are imminently in an intersecting trajectory. The marriage of these two fields will make possible an unprecedented understanding of cell and tissue behaviour and function."
+  ],
+  "affiliation": [
+    "École polytechnique, Université Paris-Saclay, 91128 Palaiseau Cedex, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Machine Learning",
+        "Gene Regulatory Networks",
+        "Genome-wide Screening",
+        "High-content Microscopy",
+        "High-throughput Microscopy",
+        "Causal Cell Behaviour"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1042/EBC20180044"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610450"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610450?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-13"
+  ],
+  "dateOfRevision": [
+    "2019-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-03"
+  ],
+  "firstPublicationDate": [
+    "2019-07-03"
+  ]
+}

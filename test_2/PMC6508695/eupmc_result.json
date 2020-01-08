@@ -1,0 +1,576 @@
+{
+  "id": [
+    "31071190"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31071190"
+  ],
+  "pmcid": [
+    "PMC6508695"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0216674"
+  ],
+  "title": [
+    "Splice donor site sgRNAs enhance CRISPR/Cas9-mediated knockout efficiency."
+  ],
+  "authorString": [
+    "García-Tuñón I, Alonso-Pérez V, Vuelta E, Pérez-Ramos S, Herrero M, Méndez L, Hernández-Sánchez JM, Martín-Izquierdo M, Saldaña R, Sevilla J, Sánchez-Guijo F, Hernández-Rivas JM, Sánchez-Martín M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "García-Tuñón I"
+          ],
+          "firstName": [
+            "Ignacio"
+          ],
+          "lastName": [
+            "García-Tuñón"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4758-2151",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Alonso-Pérez V"
+          ],
+          "firstName": [
+            "Verónica"
+          ],
+          "lastName": [
+            "Alonso-Pérez"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2012-1307",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Vuelta E"
+          ],
+          "firstName": [
+            "Elena"
+          ],
+          "lastName": [
+            "Vuelta"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3289-0605",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Servicio de Transgénesis, Nucleus, Universidad de Salamanca, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Ramos S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Pérez-Ramos"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Servicio de Transgénesis, Nucleus, Universidad de Salamanca, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Herrero M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Herrero"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8719-7165",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Servicio de Transgénesis, Nucleus, Universidad de Salamanca, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Méndez L"
+          ],
+          "firstName": [
+            "Lucía"
+          ],
+          "lastName": [
+            "Méndez"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Servicio de Transgénesis, Nucleus, Universidad de Salamanca, Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández-Sánchez JM"
+          ],
+          "firstName": [
+            "Jesús María"
+          ],
+          "lastName": [
+            "Hernández-Sánchez"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1212-5954",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Martín-Izquierdo M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Martín-Izquierdo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Saldaña R"
+          ],
+          "firstName": [
+            "Raquel"
+          ],
+          "lastName": [
+            "Saldaña"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Servicio de Hematología, Hospital de Especialidades de Jerez, Zacatecas, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Sevilla J"
+          ],
+          "firstName": [
+            "Julián"
+          ],
+          "lastName": [
+            "Sevilla"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6852-1860",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hospital Infantil Universitario Niño Jesús, Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez-Guijo F"
+          ],
+          "firstName": [
+            "Fermín"
+          ],
+          "lastName": [
+            "Sánchez-Guijo"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Hernández-Rivas JM"
+          ],
+          "firstName": [
+            "Jesús María"
+          ],
+          "lastName": [
+            "Hernández-Rivas"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Sánchez-Martín M"
+          ],
+          "firstName": [
+            "Manuel"
+          ],
+          "lastName": [
+            "Sánchez-Martín"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8370-1336",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IBSAL, Instituto de Investigación Biomédica de Salamanca, Salamanca, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1212-5954",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2012-1307",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6852-1860",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4758-2151",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3289-0605",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8719-7165",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8370-1336",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2810858"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0216674"
+  ],
+  "abstractText": [
+    "CRISPR/Cas9 allows the generation of knockout cell lines and null zygotes by inducing site-specific double-stranded breaks. In most cases the DSB is repaired by non-homologous end joining, resulting in small nucleotide insertions or deletions that can be used to construct knockout alleles. However, these mutations do not produce the desired null result in all cases, but instead generate a similar, functionally active protein. This effect could limit the therapeutic efficiency of gene therapy strategies based on abrogating oncogene expression, and therefore needs to be considered carefully. If there is an acceptable degree of efficiency of CRISPR/Cas9 delivery to cells, the key step for success lies in the effectiveness of a specific sgRNA at knocking out the oncogene, when only one sgRNA can be used. This study shows that the null effect could be increased with an sgRNA targeting the splice donor site (SDS) of the chosen exon. Following this strategy, the generation of null alleles would be facilitated in two independent ways: the probability of producing a frameshift mutation and the probability of interrupting the canonical mechanism of pre-mRNA splicing. In these contexts, we propose to improve the loss-of-function yield driving the CRISPR system at the SDS of critical exons."
+  ],
+  "affiliation": [
+    "Unidad de Diagnóstico Molecular y Celular del Cáncer, Centro de Investigación del Cáncer-IBMCC (USAL-CSIC), Salamanca, Spain."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0216674"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6508695"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6508695?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR69810"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-10"
+  ],
+  "firstIndexDate": [
+    "2019-05-10"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-09"
+  ],
+  "firstPublicationDate": [
+    "2019-05-09"
+  ]
+}

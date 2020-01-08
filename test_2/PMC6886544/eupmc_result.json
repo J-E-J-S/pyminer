@@ -1,0 +1,825 @@
+{
+  "id": [
+    "31857889"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31857889"
+  ],
+  "pmcid": [
+    "PMC6886544"
+  ],
+  "doi": [
+    "10.1039/c9sc03445e"
+  ],
+  "title": [
+    "Inhibition of osimertinib-resistant epidermal growth factor receptor EGFR-T790M/C797S."
+  ],
+  "authorString": [
+    "Lategahn J, Keul M, Klövekorn P, Tumbrink HL, Niggenaber J, Müller MP, Hodson L, Flaßhoff M, Hardick J, Grabe T, Engel J, Schultz-Fademrecht C, Baumann M, Ketzer J, Mühlenberg T, Hiller W, Günther G, Unger A, Müller H, Heimsoeth A, Golz C, Blank-Landeshammer B, Kollipara L, Zahedi RP, Strohmann C, Hengstler JG, van Otterlo WAL, Bauer S, Rauh D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lategahn J"
+          ],
+          "firstName": [
+            "Jonas"
+          ],
+          "lastName": [
+            "Lategahn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5993-7082",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Keul M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Keul"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Klövekorn P"
+          ],
+          "firstName": [
+            "Philip"
+          ],
+          "lastName": [
+            "Klövekorn"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Tumbrink HL"
+          ],
+          "firstName": [
+            "Hannah L"
+          ],
+          "lastName": [
+            "Tumbrink"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Niggenaber J"
+          ],
+          "firstName": [
+            "Janina"
+          ],
+          "lastName": [
+            "Niggenaber"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2942-263X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Müller MP"
+          ],
+          "firstName": [
+            "Matthias P"
+          ],
+          "lastName": [
+            "Müller"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1529-8933",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Hodson L"
+          ],
+          "firstName": [
+            "Luke"
+          ],
+          "lastName": [
+            "Hodson"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9779-1133",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Flaßhoff M"
+          ],
+          "firstName": [
+            "Maren"
+          ],
+          "lastName": [
+            "Flaßhoff"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Hardick J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Hardick"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Grabe T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Grabe"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Engel J"
+          ],
+          "firstName": [
+            "Julian"
+          ],
+          "lastName": [
+            "Engel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Schultz-Fademrecht C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Schultz-Fademrecht"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Lead Discovery Center GmbH , Otto-Hahn-Strasse 15 , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Baumann M"
+          ],
+          "firstName": [
+            "Matthias"
+          ],
+          "lastName": [
+            "Baumann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Lead Discovery Center GmbH , Otto-Hahn-Strasse 15 , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ketzer J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Ketzer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medical Oncology , Sarcoma Center , West German Cancer Center , University Duisburg-Essen , Medical School , Hufelandstrasse 55 , 45122 Essen , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mühlenberg T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Mühlenberg"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Medical Oncology , Sarcoma Center , West German Cancer Center , University Duisburg-Essen , Medical School , Hufelandstrasse 55 , 45122 Essen , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hiller W"
+          ],
+          "firstName": [
+            "Wolf"
+          ],
+          "lastName": [
+            "Hiller"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Günther G"
+          ],
+          "firstName": [
+            "Georgia"
+          ],
+          "lastName": [
+            "Günther"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Leibniz Research Centre for Working Environment and Human Factors (IfADo) , TU Dortmund University , Ardeystrasse 67 , 44139 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Unger A"
+          ],
+          "firstName": [
+            "Anke"
+          ],
+          "lastName": [
+            "Unger"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Lead Discovery Center GmbH , Otto-Hahn-Strasse 15 , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Müller H"
+          ],
+          "firstName": [
+            "Heiko"
+          ],
+          "lastName": [
+            "Müller"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Lead Discovery Center GmbH , Otto-Hahn-Strasse 15 , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Heimsoeth A"
+          ],
+          "firstName": [
+            "Alena"
+          ],
+          "lastName": [
+            "Heimsoeth"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Pathology , Institute of Pathology , University Hospital of Cologne , Kerpener Strasse 62 , 50937 Cologne , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Golz C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Golz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Blank-Landeshammer B"
+          ],
+          "firstName": [
+            "Bernhard"
+          ],
+          "lastName": [
+            "Blank-Landeshammer"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V. , Otto-Hahn-Strasse 6b , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kollipara L"
+          ],
+          "firstName": [
+            "Laxmikanth"
+          ],
+          "lastName": [
+            "Kollipara"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V. , Otto-Hahn-Strasse 6b , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zahedi RP"
+          ],
+          "firstName": [
+            "René P"
+          ],
+          "lastName": [
+            "Zahedi"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4960-5460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leibniz-Institut für Analytische Wissenschaften - ISAS - e.V. , Otto-Hahn-Strasse 6b , 44227 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Strohmann C"
+          ],
+          "firstName": [
+            "Carsten"
+          ],
+          "lastName": [
+            "Strohmann"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        },
+        {
+          "fullName": [
+            "Hengstler JG"
+          ],
+          "firstName": [
+            "Jan G"
+          ],
+          "lastName": [
+            "Hengstler"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Leibniz Research Centre for Working Environment and Human Factors (IfADo) , TU Dortmund University , Ardeystrasse 67 , 44139 Dortmund , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "van Otterlo WAL"
+          ],
+          "firstName": [
+            "Willem A L"
+          ],
+          "lastName": [
+            "van Otterlo"
+          ],
+          "initials": [
+            "WAL"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Polymer Science , Stellenbosch University , Private Bag X1 , Matieland 7602 , South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Bauer S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5949-8120",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Oncology , Sarcoma Center , West German Cancer Center , University Duisburg-Essen , Medical School , Hufelandstrasse 55 , 45122 Essen , Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rauh D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Rauh"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1970-7642",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2942-263X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9779-1133",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5993-7082",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4960-5460",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1970-7642",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1529-8933",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5949-8120",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "46"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2892685"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chemical science"
+          ],
+          "ISOAbbreviation": [
+            "Chem Sci"
+          ],
+          "medlineAbbreviation": [
+            "Chem Sci"
+          ],
+          "NLMid": [
+            "101545951"
+          ],
+          "ISSN": [
+            "2041-6520"
+          ],
+          "ESSN": [
+            "2041-6539"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "10789-10801"
+  ],
+  "abstractText": [
+    "Precision medicine has revolutionized the treatment of patients in EGFR driven non-small cell lung cancer (NSCLC). Targeted drugs show high response rates in genetically defined subsets of cancer patients and markedly increase their progression-free survival as compared to conventional chemotherapy. However, recurrent acquired drug resistance limits the success of targeted drugs in long-term treatment and requires the constant development of novel efficient inhibitors of drug resistant cancer subtypes. Herein, we present covalent inhibitors of the drug resistant gatekeeper mutant EGFR-L858R/T790M based on the pyrrolopyrimidine scaffold. Biochemical and cellular characterization, as well as kinase selectivity profiling and western blot analysis, substantiate our approach. Moreover, the developed compounds possess high activity against multi drug resistant EGFR-L858R/T790M/C797S in biochemical assays due to their highly reversible binding character, that was revealed by characterization of the binding kinetics. In addition, we present the first X-ray crystal structures of covalent inhibitors in complex with C797S-mutated EGFR which provide detailed insight into their binding mode."
+  ],
+  "affiliation": [
+    "Faculty of Chemistry and Chemical Biology , TU Dortmund University , Otto-Hahn-Strasse 4a , 44227 Dortmund , Germany . Email: daniel.rauh@tu-dortmund.de ; www.twitter.com/DDHDortmund ; Tel: +49-231-755-7080."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1039/c9sc03445e"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6886544"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6886544?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-21"
+  ],
+  "firstIndexDate": [
+    "2019-12-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-22"
+  ],
+  "dateOfRevision": [
+    "2019-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-04"
+  ],
+  "firstPublicationDate": [
+    "2019-10-04"
+  ]
+}

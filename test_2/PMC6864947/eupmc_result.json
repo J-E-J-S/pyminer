@@ -1,0 +1,309 @@
+{
+  "id": [
+    "31744525"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31744525"
+  ],
+  "pmcid": [
+    "PMC6864947"
+  ],
+  "doi": [
+    "10.1186/s13054-019-2659-3"
+  ],
+  "title": [
+    "Translational medicine between human and veterinary emergency and critical care medicine: a story meant to have a happy ending."
+  ],
+  "authorString": [
+    "Félix NM, Gommeren K, Boysen S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Félix NM"
+          ],
+          "firstName": [
+            "Nuno M"
+          ],
+          "lastName": [
+            "Félix"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Departamento de Pediatria Hospital de Santarém, Departamento de Pediatria Hospital de Santa Maria, Centro Hospitalar Universitário Lisboa Norte, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Gommeren K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Gommeren"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1647-1002",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Veterinary Medicine, University of Liège, Liège, Belgium. krisjeg@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Boysen S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Boysen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Faculty of Veterinary Medicine, University of Calgary, Calgary, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1647-1002",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2876274"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Critical care (London, England)"
+          ],
+          "ISOAbbreviation": [
+            "Crit Care"
+          ],
+          "medlineAbbreviation": [
+            "Crit Care"
+          ],
+          "NLMid": [
+            "9801902"
+          ],
+          "ISSN": [
+            "1364-8535"
+          ],
+          "ESSN": [
+            "1466-609X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "361"
+  ],
+  "affiliation": [
+    "Departamento de Pediatria Hospital de Santarém, Departamento de Pediatria Hospital de Santa Maria, Centro Hospitalar Universitário Lisboa Norte, Lisbon, Portugal."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13054-019-2659-3"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6864947"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6864947?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-21"
+  ],
+  "firstIndexDate": [
+    "2019-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-27"
+  ],
+  "dateOfRevision": [
+    "2019-11-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-19"
+  ],
+  "firstPublicationDate": [
+    "2019-11-19"
+  ]
+}

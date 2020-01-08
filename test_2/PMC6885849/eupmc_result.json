@@ -1,0 +1,409 @@
+{
+  "id": [
+    "31827525"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31827525"
+  ],
+  "pmcid": [
+    "PMC6885849"
+  ],
+  "doi": [
+    "10.1155/2019/2382534"
+  ],
+  "title": [
+    "Genomics Analysis of Metabolic Pathways of Human Stem Cell-Derived Microglia-Like Cells and the Integrated Cortical Spheroids."
+  ],
+  "authorString": [
+    "Bejoy J, Yuan X, Song L, Hua T, Jeske R, Sart S, Sang QA, Li Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bejoy J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Bejoy"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan X"
+          ],
+          "firstName": [
+            "Xuegang"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Song L"
+          ],
+          "firstName": [
+            "Liqing"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8903-1801",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hua T"
+          ],
+          "firstName": [
+            "Thien"
+          ],
+          "lastName": [
+            "Hua"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, Florida State University, Tallahassee, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeske R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Jeske"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sart S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Sart"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4720-4671",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Hydrodynamics Laboratory (LadHyX)-Department of Mechanics, Ecole Polytechnique, CNRS-UMR7646, 91128 Palaiseau, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Sang QA"
+          ],
+          "firstName": [
+            "Qing-Xiang Amy"
+          ],
+          "lastName": [
+            "Sang"
+          ],
+          "initials": [
+            "QA"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, Florida State University, Tallahassee, Florida, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5938-8519",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8903-1801",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4720-4671",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5938-8519",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778677"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Stem Cells International"
+          ],
+          "ISOAbbreviation": [
+            "Stem Cells Int"
+          ],
+          "medlineAbbreviation": [
+            "Stem Cells Int"
+          ],
+          "NLMid": [
+            "101535822"
+          ],
+          "ISSN": [
+            "1687-966X"
+          ],
+          "ESSN": [
+            "1687-9678"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2382534"
+  ],
+  "abstractText": [
+    "Brain spheroids or organoids derived from human pluripotent stem cells (hiPSCs) are still not capable of completely recapitulating in vivo human brain tissue, and one of the limitations is lack of microglia. To add built-in immune function, coculture of the dorsal forebrain spheroids with isogenic microglia-like cells (D-MG) was performed in our study. The three-dimensional D-MG spheroids were analyzed for their transcriptome and compared with isogenic microglia-like cells (MG). Cortical spheroids containing microglia-like cells displayed different metabolic programming, which may affect the associated phenotype. The expression of genes related to glycolysis and hypoxia signaling was increased in cocultured D-MG spheroids, indicating the metabolic shift to aerobic glycolysis, which is in favor of M1 polarization of microglia-like cells. In addition, the metabolic pathways and the signaling pathways involved in cell proliferation, cell death, PIK3/AKT/mTOR signaling, eukaryotic initiation factor 2 pathway, and Wnt and Notch pathways were analyzed. The results demonstrate the activation of mTOR and p53 signaling, increased expression of Notch ligands, and the repression of NF-κB and canonical Wnt pathways, as well as the lower expression of cell cycle genes in the cocultured D-MG spheroids. This analysis indicates that physiological 3-D microenvironment may reshape the immunity of in vitro cortical spheroids and better recapitulate in vivo brain tissue function for disease modeling and drug screening."
+  ],
+  "affiliation": [
+    "Department of Chemical and Biomedical Engineering, FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/2382534"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6885849"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6885849?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-12-13"
+  ],
+  "firstIndexDate": [
+    "2019-12-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-15"
+  ],
+  "dateOfRevision": [
+    "2019-12-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-18"
+  ],
+  "firstPublicationDate": [
+    "2019-11-18"
+  ]
+}

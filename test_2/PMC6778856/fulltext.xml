@@ -1,0 +1,391 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Anim Sci Technol</journal-id><journal-id journal-id-type="publisher-id">J Anim Sci Technol</journal-id><journal-id journal-id-type="publisher-id">jast</journal-id><journal-title-group><journal-title>Journal of Animal Science and Technology</journal-title></journal-title-group><issn pub-type="epub">2055-0391</issn><publisher><publisher-name>Korean Society of Animal Sciences and Technology</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6778856</article-id><article-id pub-id-type="doi">10.5187/jast.2019.61.5.245</article-id><article-id pub-id-type="publisher-id">jast-61-5-245</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Natural and synthetic pathogen associated molecular patterns modulate
+galectin expression in cow blood</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8142-6211</contrib-id><name><surname>Asiamah</surname><given-names>Emmanuel Kwaku</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="corresp" rid="C1"><sup>*</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2073-2623</contrib-id><name><surname>Ekwemalor</surname><given-names>Kingsley</given-names></name><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6198-7097</contrib-id><name><surname>Adjei-Fremah</surname><given-names>Sarah</given-names></name><xref ref-type="aff" rid="A3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5162-3388</contrib-id><name><surname>Osei</surname><given-names>Bertha</given-names></name><xref ref-type="aff" rid="A4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3865-0266</contrib-id><name><surname>Newman</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="A3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3663-4745</contrib-id><name><surname>Worku</surname><given-names>Mulumebet</given-names></name><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><aff id="A1">
+<label>1</label><institution>Department of Agriculture-Animal Science,
+University of Arkansas at Pine Bluff, AR 71601, USA</institution></aff><aff id="A2">
+<label>2</label><institution>Department of Animal Sciences, North Carolina
+A&#x00026;T State University, Greensboro, NC 27411, USA</institution></aff><aff id="A3">
+<label>3</label><institution>Department of Biology, North Carolina A&#x00026;T State
+University, Greensboro, NC 27411, USA</institution></aff><aff id="A4">
+<label>4</label><institution>Functional and Chemical Genomics, Oklahoma Medical
+Research Foundation, OK 73104, USA</institution></aff></contrib-group><author-notes><corresp id="C1"><label>*</label>Corresponding author: Emmanuel Kwaku Asiamah, Department of
+Agriculture-Animal Science, University of Arkansas at Pine Bluff, AR 71601, USA.
+Tel: +1-870-575-8981, E-mail: <email>asiamahe@uapb.edu</email></corresp></author-notes><pub-date pub-type="ppub"><month>9</month><year>2019</year></pub-date><pub-date pub-type="epub"><day>30</day><month>9</month><year>2019</year></pub-date><volume>61</volume><issue>5</issue><fpage>245</fpage><lpage>253</lpage><history><date date-type="received"><day>23</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>01</day><month>8</month><year>2019</year></date><date date-type="accepted"><day>05</day><month>9</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; Copyright 2019 Korean Society of Animal Science and
+Technology</copyright-statement><copyright-year>2019</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><license-p>This is an Open-Access article distributed under the terms of the
+Creative Commons Attribution Non-Commercial License (<uri xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0</uri>) which permits
+unrestricted non-commercial use, distribution, and reproduction in any
+medium, provided the original work is properly cited.</license-p></license></permissions><abstract><title>Abstract</title><p>Pathogen-associated Molecular Patterns (PAMPs) are highly conserved structural
+motifs that are recognized by Pathogen Recognition receptors (PRRs) to initiate
+immune responses. Infection by these pathogens and the immune response to PAMPS
+such as lipopolysaccharide (LPS), Peptidoglycan (PGN), bacterial
+oligodeoxynucleotides [CpG oligodeoxynucleotides 2006 (CpG ODN2006) and CpG
+oligodeoxynucleotides 2216 (CpG ODN2216)], and viral RNA
+Polyinosinic-Polycytidylic Acid (Poly I:C), are associated with infectious and
+metabolic diseases in animals impacting health and production. It is established
+that PAMPs mediate the production of cytokines by binding to PRRs such as
+Toll-like receptors (TLR) on immune cells. Galectins (Gal) are
+carbohydrate-binding proteins that when expressed play essential roles in the
+resolution of infectious and metabolic diseases. Thus it is important to
+determine if the expression of galectin gene (LGALS) and Gal secretion in blood
+are affected by exposure to LPS and PGN, PolyI:C and bacterial CpG ODNs. LPS
+increased transcription of LGALS4 and 12 (2.5 and 2.02 folds respectively) and
+decreased secretion of Gal 4 (<italic>p</italic> &#x0003c; 0.05). PGN increased
+transcription of LGALS-1, -2, -3, -4, -7, and -12 (3.0, 2.3, 2.0, 4.1, 3.3, and
+2.4 folds respectively) and secretion of Gal-8 and Gal-9 (<italic>p</italic>
+&#x0003c; 0.05). Poly I:C tended to increase the transcription of LGALS1, LGALS4,
+and LGALS8 (1.78, 1.88, and 1.73 folds respectively). Secretion of Gal-1, -3, -8
+and nine were significantly increased in treated samples compared to control
+(<italic>p</italic> &#x0003c; 0.05). CpG ODN2006 did not cause any
+significant fold changes in LGALS transcription (FC &#x0003c; 2) but increased
+secretion of Gal-1, and-3 (<italic>p</italic> &#x0003c; 0.05) in plasma compared
+to control. Gal-4 was however reduced in plasma (<italic>p</italic> &#x0003c;
+0.05). CpG ODN2216 increased transcription of LGALS1 and LGALS3 (3.8 and 1.6
+folds respectively), but reduced LGALS2, LGALS4, LGALS7, and LGALS12
+(&#x02013;1.9, &#x02013;2.0, &#x02013;2.0 and; &#x02013;2.7 folds respectively).
+Secretion of Gal-2 and -3 in plasma was increased compared to control
+(<italic>p</italic> &#x0003c; 0.05). Gal-4 secretion was reduced in plasma
+(<italic>p</italic> &#x0003c; 0.05). The results demonstrate that PAMPs
+differentially modulate galectin transcription and translation of galectins in
+cow blood.</p></abstract><kwd-group><kwd>PAMPs</kwd><kwd>Galectins</kwd><kwd>Cow</kwd><kwd>Disease</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="CrossRef">http://dx.doi.org/10.13039/100005825</institution-id><institution>National Institute of Food and Agriculture</institution></institution-wrap></funding-source><award-id>NC.X-300-5-16-120-1</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value>2019-09-30</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Background</title><p>Cows are infected by numerous pathogens that affect their productivity and
+health.These pathogens include bacteria, protozoa, and viruses. Diseases caused by
+pathogens affect the profitability of rearing animals [<xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B2" ref-type="bibr">2</xref>]. Pathogen-associated
+Molecular Patterns (PAMPs) are recognized by pathogen recognition receptors (PRRs)
+on host cells to trigger immune responses [<xref rid="B3" ref-type="bibr">3</xref>].
+Lipopolysaccharide (LPS), peptidoglycan (PGN), double-stranded viral RNA (Poly I:C)
+and bacterial oligonucleotides (CpG ODNs) are associated with infectious and
+metabolic diseases in the cow [<xref rid="B2" ref-type="bibr">2</xref>,<xref rid="B4" ref-type="bibr">4</xref>&#x02013;<xref rid="B6" ref-type="bibr">6</xref>]. PAMPs mediate the production of cytokines by primarily binding to PRRs,
+such as TLRs on immune cells to activate several signaling pathways [<xref rid="B7" ref-type="bibr">7</xref>&#x02013;<xref rid="B9" ref-type="bibr">9</xref>]. There are 10 TLRs identified in cows that recognize PAMPs [<xref rid="B10" ref-type="bibr">10</xref>]. Previous studies have reported that the
+increase of LPS in the digestive tract of the cow phenomenon called subacute ruminal
+acidosis, and its translocation into the bloodstream, results in immune responses
+which if not controlled, causes serious health consequences [<xref rid="B11" ref-type="bibr">11</xref>]. Proper recognition and elimination is essential to animal
+health and production [<xref rid="B12" ref-type="bibr">12</xref>]. Aside from TLRs,
+other receptors and co-receptors play significant roles in recognition and pathogen
+elimination.</p><p>Numerous studies have shown that Gal, a family of proteins defined by their affinity
+for <italic>&#x003b2;</italic>-galactosides, participate in the regulation of both
+innate and adaptive immunity [<xref rid="B13" ref-type="bibr">13</xref>&#x02013;<xref rid="B15" ref-type="bibr">15</xref>].</p><p>Some galectins have been studied to bind microorganism-specific glycans, or host-like
+glycans on microorganisms to initiate immune responses [<xref rid="B16" ref-type="bibr">16</xref>]. Galectin mediated immune response could either lead to
+clearance of microorganism or favor establishment of the pathogens. Galectins (Gal)
+act as PRRs that orchestrate immune responses according to the level of
+pathogenicity of the invading microorganisms [<xref rid="B17" ref-type="bibr">17</xref>]. Some members of the galectin family are also known alarmins for
+sepsis, a condition caused by an overwhelming immune response to microbial infection
+[<xref rid="B18" ref-type="bibr">18</xref>].</p><p>The most significant advancement in animal health in the past three decades has been
+the paradigm shift from treatment of clinical illness to disease prevention [<xref rid="B19" ref-type="bibr">19</xref>]. Overuse of antibiotics in animal
+production has raised food safety and public health concerns in addition to its
+reduced effectiveness and resistance in animals [<xref rid="B20" ref-type="bibr">20</xref>]. As such, numerous studies are emerging to better understand the
+molecular mechanisms leading to infectious diseases to design more effective
+management practices to reduce cow health disorders [<xref rid="B7" ref-type="bibr">7</xref>,<xref rid="B8" ref-type="bibr">8</xref>]. An increased understanding
+of the genetics underlying the immune response mechanism of cows during infections
+may offer opportunities for alternative control strategies.</p><p>Because galectins are involved in immune responses and the outcome of microbial
+infections, it was essential to evaluate whether its expression in cows is affected
+by pathogen-associated molecular patterns (PAMP) stimulation in whole blood.
+Understanding galectin expression in response to PAMP stimulation will aid in drug
+design aimed at galectins as targets. This study aimed to evaluate the effect of
+stimulation with known PAMPs (natural and synthetic) on galectin gene expression in
+cow blood.</p></sec><sec id="sec2"><title>Materials and Methods</title><sec id="sec2-1"><title>Animals</title><p>The Institutional Animal Care and Use Committee of North Carolina A&#x00026;T State
+University approved all protocols for animals handling. Five multiparous
+Holstein Friesian periparturient cows (N = 5) from North Carolina A&#x00026;T
+State Dairy farm were used. None of the animals showed any signs of disease or
+received medications during the 4-week period before blood sampling.</p></sec><sec id="sec2-2"><title>Blood sampling</title><p>Complete details of blood sampling have been reported elsewhere [<xref rid="B21" ref-type="bibr">21</xref>]. Briefly, Whole blood (10 mL) was
+collected aseptically from the jugular vein of the animals into vacutainer tubes
+containing 1mL of the anti-coagulant Acid Citrate Dextrose. The tubes were
+gently mixed and placed on ice immediately after collection. The samples were
+transported to the Laboratory for Animal Genomic Diversity and Biotechnology at
+North Carolina A&#x00026;T State University for further analysis.</p></sec><sec id="sec2-3"><title>Stimulation of whole blood</title><p>One mL of blood from the cows was each incubated with 10 &#x003bc;g/mL each of
+either <italic>Escherichia coli</italic> derived LPS (Sigma-Aldrich, St. Louis,
+MO), <italic>Staphylococcus aureus</italic>-derived PGN (Sigma-Aldrich), CpG ODN
+(2216) class A (Invivogen, San Diego CA ), CpG ODN (2006) class B (Invivogen)
+and 12.5 &#x003bc;g/mL of poly I:C (Invivogen) individually to assess the
+expression of <italic>LGALS</italic>. Samples treated with phosphate buffer
+saline (PBS) served as control. Samples were incubated at 37&#x000b0;C, with
+85% humidity and 5% CO<sub>2</sub> for 30 minutes. At the end of
+the incubation period, the tubes were spun down at 1,700 &#x000d7; g at
+4&#x000b0;C for 10 minutes. Supernatants were collected and stored at
+&#x02013;80&#x000b0;C to measure secreted galectins concentration. Trizol (1 mL)
+was added to cell pellets and stored for RNA isolation
+(Ambion<sup>&#x000ae;</sup>, Thermo Fisher Scientific Inc, Waltham, MA).</p></sec><sec id="sec2-4"><title>Total RNA isolation and cDNA synthesis</title><p>Total RNA was isolated using Trizol according to the manufacturer&#x02019;s
+instructions (Sigma-Aldrich St. Louis, MO). The appropriate precautions were
+used to avoid RNase contamination throughout the entire procedure [<xref rid="B9" ref-type="bibr">9</xref>]. The RNA concentration (ng/&#x003bc;L) and
+purity (260/280) were assessed using a Nanodrop Spectrophotometer ND 1000
+(Thermo Scientific Inc., Waltham, MA). Total RNA was pipetted into an RNA 6000
+Nano LabChip<sup>&#x000ae;</sup> (Agilent Technologies, Santa Clara, CA) and RNA
+integrity was determined using Bioanalyzer following manufacturer&#x02019;s
+protocol (Agilent). Complimentary DNA (cDNA) synthesis was performed with 500
+ng/&#x003bc;L RNA (purity 260/280 = 1.8, RIN = 7). Retroscript kits
+(Ambion<sup>&#x000ae;</sup>) were used to synthesize cDNA for real-time
+Polymerase chain reaction. cDNA synthesis was performed in an MWG AG Biotech
+Primus 96 Plus Industrial Lab Thermal Cycler (MWG Biotech Huntsville, AL). Total
+RNA (1 &#x003bc;g) was heated to 85&#x000b0;C for 3 minutes and placed on ice,
+centrifuged briefly, and returned to ice. The remaining
+RETROscript<sup>&#x000ae;</sup> components were added: 10X RT (PCR) buffer (2
+&#x003bc;L), dNTP mix (4 &#x003bc;L), RNase inhibitor (1 &#x003bc;L), and MMLV-RT
+(1 &#x003bc;L), for a final volume of 20 &#x003bc;L. The components were mixed
+gently, centrifuged briefly and incubated at 42&#x02013;44&#x000b0;C for 1 hour,
+followed by an incubation step at 92&#x000b0;C for 10 minutes to inactivate the
+Reverse Transcriptase (RT). Polymerase chain reaction was performed by
+assembling the following components: RT reaction buffer (5 &#x003bc;L), 10X PCR
+buffer (5 &#x003bc;L), dNTP (2.5 &#x003bc;L), Nuclease-free water (37.5
+&#x003bc;L), PCR primers (provided in kit) (2.5 &#x003bc;L), and thermostable DNA
+Polymerase (1&#x02013;2 units (U)). The PCR cycle was: Step 1) Initial
+denaturation, 94&#x000b0;C for 2 minutes; Step 2) Amplification, 94&#x000b0;C for
+30 seconds (denaturation), 60&#x000b0;C (annealing) for 30 seconds, 72&#x000b0;C
+(extension) for 1 minute; Step 3) to Step 2 for 30 cycles; and Step 4) Final
+Extension, 72&#x000b0;C for 5 minutes.</p></sec><sec id="sec2-5"><title>Gene expression profiling</title><p>With the use of Primer-3 online tool (<ext-link ext-link-type="uri" xlink:href="http://bioinfo.ut.ee/primer3-0.4.0/">http://bioinfo.ut.ee/primer3-0.4.0/</ext-link>), Forward and reverse
+primers for cow galectin genes <italic>LGALS1, 2, 3, 4, 7, 8, 9, 12,</italic>
+and <italic>15</italic> were designed commercially. Based on published
+sequences, cow specific Glyceraldehyde 3-phosphate dehydrogenase
+(<italic>GAPDH</italic>) and <italic>&#x003b2;</italic> actin were purchased
+from MWG, Biotech Huntsville AL. <italic>&#x003b2;</italic>-actin and GAPDH were
+used as internal controls and for normalization.</p></sec><sec id="sec2-6"><title>Real-time qPCR</title><p>Real-time qPCR was performed in the CFX Connect real-time system (Bio-rad
+Laboratories, Hercules, CA). The qPCR reaction mixture consisted of template,
+primer (&#x003bc;L), intercalating dye SYBR Green, DH<sub>2</sub>O, 200 ng of
+cDNA, 1 &#x003bc;L (100 &#x003bc;M) of forward primer, 1 &#x003bc;L (100 &#x003bc;M)
+of reverse primer, 10 &#x003bc;L of SYBR Green and DH<sub>2</sub>O to the volume
+of 20 &#x003bc;L.</p><p>All samples were carried out in triplicate 20-&#x003bc;L reactions in 96-well
+plates, and a negative control with no cDNA template were included in every run.
+The run program used were: Step 1) 95&#x000b0;C for 15 seconds for denaturing,
+Step 2) 60&#x000b0;C for 30 seconds for primer annealing, and 72&#x000b0;C for
+elongation. Step 3) to Step 2 for 30 cycles; and Step 4) Final Extension,
+72&#x000b0;C for 5 minutes. Specificity of the amplicon products was confirmed by
+visual inspection of melting curves. Real-time PCR data was analyzed using the
+Livak&#x02019;s method [<xref rid="B22" ref-type="bibr">22</xref>]. The
+housekeeping genes (GAPDH and &#x003b2; actin) and samples from far-off/PBS
+treated cows were used to determine the &#x00394;&#x00394;Ct [<xref rid="B22" ref-type="bibr">22</xref>]. Fold change in transcript abundance
+was calculated using the Livak method. Where</p><disp-quote><p>&#x00394;Ct = (Target genes treat &#x02013;
+GAPDH/<italic>&#x003b2;</italic> actin treat)</p><p>&#x02003;&#x02003;&#x02013; &#x00394;Ct (Target genes PBS &#x02013;
+GAPDH/<italic>&#x003b2;</italic> actin PBS).</p><p>Fold change = 2 (&#x02013;&#x00394;&#x00394;Ct).</p></disp-quote></sec><sec id="sec2-7"><title>Evaluation of galectin secretion</title><p>Commercial bovine specific galectin ELISA kits were purchased and used to
+determine the concentrations of secreted Gal-1 (catalog no. MBS2882620,
+detection range; 0.31 ng/mL &#x00026; 20.0 ng/mL), Gal-2 (catalog no. MBS033680
+detection range; 0.625 ng/mL &#x00026; 20 ng/mL), Gal-3 (catalog no. MBS017323
+detection range; 0.156 ng/mL &#x00026; 10 ng/mL), Gal-4 (catalog no. MBS028694,
+detection range; 0.25 ng/mL &#x00026; 8 ng/mL), Gal-8 (catalog no. MBS041856
+detection range; 0.5 ng/mL &#x00026; 16 ng/mL), Gal-9 (catalog no. MBS033074
+detection range; 0.625 ng/mL &#x00026; 20 ng/mL), Gal-12 (catalog no. MBS032400,
+detection range; 31.2 pg/mL &#x00026; 1,000 pg/mL) in plasma according to the
+manufac-turer&#x02019;s instructions (My BioSource<sup>&#x000ae;</sup>)) [<xref rid="B23" ref-type="bibr">23</xref>]. A microplate reader was used to
+measure the absorbance at 450 nm (BioTek Instruments, Inc., Winooski, VT).
+Galectin concentration was then determined using a standard curve. The
+sensitivity was 0.1 ng/mL for all assays. Both intraassay CV (%) and
+inter-assay CV (%) for all assays was less than 15%.[CV (%)
+= SD/mean &#x000d7;100].</p></sec><sec id="sec2-8"><title>Statistical analysis</title><p>Real-time PCR data were analyzed using Livak&#x02019;s method [<xref rid="B22" ref-type="bibr">22</xref>]. Housekeeping genes (GAPDH and
+<italic>&#x003b2;</italic> actin) and samples from PBS treated samples were
+used to determine the &#x00394;&#x00394;Ct, as described above. The Proc GLM
+procedure in SAS 9.4 (SAS Institute Inc, Cary NC) was used to analyze data
+obtained for total galectins concentrations. Each sample was assayed in
+triplicates. The PDIFF statement in SAS (SAS Institute Inc. Cary, NC) was used
+to compare all least square means. Significant differences were declared at
+<italic>p</italic> &#x0003c; 0.05. PROC corr was used to do a correlation
+analysis between <italic>LGALS</italic> and Gal concentrations in plasma.</p></sec></sec><sec id="sec3"><title>Results</title><sec id="sec3-1"><title>Effect of PAMPs on LGALS transcription</title><p>LPS increased transcription of <italic>LGALS4</italic> and
+<italic>LGALS12</italic> (2.5 and 2.02 folds respectively) (<xref ref-type="fig" rid="F1">Fig. 1A</xref>). PGN increased transcription of
+<italic>LGALS-1, -2, -3, -4, -7,</italic> and <italic>-12</italic> (3.0,
+2.3, 2.0, 4.1, 3.3, 2.4 folds respectively) (<xref ref-type="fig" rid="F1">Fig.
+1b</xref>). Poly I:C increased the transcription of <italic>LGALS1,
+LGALS4,</italic> and <italic>LGALS8</italic> (1.78, 1.88, and 1.73 folds
+respectively) (<xref ref-type="fig" rid="F1">Fig. 1c</xref>). CpG
+oligodeoxynucleotides 2006 (CpG ODN2006) did not cause any significant fold
+changes in <italic>LGALS</italic> transcription (FC &#x0003c; 2) (<xref ref-type="fig" rid="F1">Fig. 1d</xref>). CpG oligodeoxynucleotides 2216 (CpG
+ODN2216) increased transcription of <italic>LGALS1</italic> and
+<italic>LGALS3</italic> (3.8 and 1.6 respectively), but reduced
+<italic>LGALS2, LGALS4, LGALS 7,</italic> and <italic>LGALS12</italic>
+(&#x02013;1.9, &#x02013;2.0, &#x02013;2.0 and &#x02013;2.7) (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p><fig id="F1" orientation="portrait" position="float"><label>Fig. 1.</label><caption><title>Fold changes in mRNA expression of <italic>LGALS-1, -2, -3-,4, -7,
+-8, -9</italic>, and -<italic>12</italic> after stimulation of whole
+blood with LPS (A), PGN (B), <italic>POLY I</italic>: C (C), CpG ODN
+2006 (D).</title><p>Error lines represent the &#x000b1; standard deviation of the mean.</p></caption><graphic xlink:href="jast-61-5-245-g1"/></fig><fig id="F2" orientation="portrait" position="float"><label>Fig. 2.</label><caption><title>Fold changes in mRNA expression of <italic>LGALS-1, -2, -3-,4, -7,
+-8, -9</italic>, and -<italic>12</italic> after stimulation of whole
+blood with CpG ODN (2216) class A (N = 5).</title><p>Error lines represent the &#x000b1; standard deviation of the mean.</p></caption><graphic xlink:href="jast-61-5-245-g2"/></fig></sec><sec id="sec3-2"><title>Effects of PAMPs on galectin secretion</title><p>Poly I:C and CpG ODN2006 increased plasma secretion of Gal-1 compared to control
+(PBS) (<italic>p</italic> = 0.10 and <italic>p</italic> = 0.0125
+respectively) (<xref ref-type="fig" rid="F3">Fig. 3a</xref>). CpG ODN 2216
+increased Gal-2 concentration in plasma compared to control (PBS)
+(<italic>p</italic> = 0.0459) (<xref ref-type="fig" rid="F3">Fig.
+3b</xref>). CpG ODN 2216 and CpG ODN 2006 increased Gal-3 compared to
+control (PBS) (<italic>p</italic> = 0.013 and <italic>p</italic> =
+0.0195 respectively) (<xref ref-type="fig" rid="F3">Fig. 3c</xref>). LPS, CpG
+ODN2216, and CpG ODN2006 reduced Gal-4 concentrations in plasma compared to
+control (PBS) (<italic>p</italic> = 0.04, <italic>p</italic> =
+0.0005 and <italic>p</italic> = 0.0273 respectively (<xref ref-type="fig" rid="F4">Fig. 4a</xref>). PGN and Poly I:C increased Gal-8 secretion
+compared to control (PBS) (<italic>p</italic> = 0.001 and
+<italic>p</italic> &#x0003c;.0001 respectively (<xref ref-type="fig" rid="F4">Fig. 4a</xref>). PGN and Poly I:C increased Gal-9 secretion compared to
+control (PBS) (<italic>p</italic> = 0.001 and <italic>p</italic>
+&#x0003c;.0001 respectively) (<xref ref-type="fig" rid="F4">Fig. 4b</xref>).
+PAMPs did not affect plasma concentration of Gal-12 (<italic>p</italic> &#x0003e;
+0.05) (<xref ref-type="fig" rid="F4">Fig. 4c</xref>).</p><fig id="F3" orientation="portrait" position="float"><label>Fig. 3.</label><caption><title>Effects of stimulating cow blood from multiparous Holstein with
+Lipopolysaccharide (LPS), Peptidoglycan (PGN),
+Polyinosinic-Polycytidylic Acid (Poly I:C), CpG ODN (2216) class A, CpG
+ODN (2006) class B on plasma Gal-1 (A), Gal-2 (B), Gal-3 (C), and Gal-4
+(D) (N = 5).</title><p>Error lines represent the &#x000b1; standard deviation of the mean.
+*significantly different from the control (PBS) at <italic>p</italic>
+&#x0003c; 0.05.</p></caption><graphic xlink:href="jast-61-5-245-g3"/></fig><fig id="F4" orientation="portrait" position="float"><label>Fig. 4.</label><caption><title>Effects of stimulating cow blood from multiparous Holstein with
+Lipopolysaccharide (LPS), Peptidoglycan (PGN),
+Polyinosinic-Polycytidylic Acid (Poly I:C), CpG ODN (2216) class A, CpG
+ODN (2006) class B on plasma Gal-8 (A), Gal-9 (B) and Gal-12 (C) (N =
+5).</title><p>Error lines represent the &#x000b1; standard deviation of the mean.
+*significantly different from the control (PBS) at <italic>p</italic>
+&#x0003c; 0.05.</p></caption><graphic xlink:href="jast-61-5-245-g4"/></fig></sec><sec id="sec3-3"><title>Analysis of correlation between galectin transcription and secretion</title><p><italic>LGALS1</italic> correlated negatively with Gal-1 (<italic>p</italic>
+= 0.02) and correlated positively with Gal-2 (<italic>p</italic> =
+0.03). <italic>LGALS2</italic> correlated positively with Gal-4
+(<italic>p</italic> =&#x0003c; 0.0001) and Gal-3 (<italic>p</italic>
+= 0.0009). <italic>LGALS3</italic> correlated negatively with Gal-1
+(<italic>p</italic> = 0.006) and Gal-3 (<italic>p</italic> =
+0.05). <italic>LGALS4</italic> correlated positively with Gal-4
+(<italic>p</italic> =&#x0003c; 0.0001) and negatively with Gal-3.
+<italic>LGALS8</italic> correlated positively with Gal-8 (<italic>p</italic>
+=&#x0003c; 0.0001), Gal-9 (<italic>p</italic> =&#x0003c; 0.0001) and
+Gal-4 (<italic>p</italic> = 0.0002), and negatively with Gal-2
+(<italic>p</italic> =&#x0003c; 0.0002). <italic>LGALS9</italic>
+correlated positively with Gal-9 (<italic>p</italic> = 0.007), Gal-8
+(<italic>p</italic> = 0.0006) and Gal-4 (<italic>p</italic> =
+0.002), and negatively with Gal-3.</p><p><italic>LGALS12</italic> correlated positively with Gal-4 (<italic>p</italic>
+=&#x0003c; 0.0001) and negatively with Gal3 (<italic>p</italic> =
+0.0073).</p></sec></sec><sec id="sec4"><title>Discussion</title><p>In the past few years, galectins have been shown to participate in the regulation of
+both innate and adaptive immunity [<xref rid="B13" ref-type="bibr">13</xref>,<xref rid="B24" ref-type="bibr">24</xref>]. Furthermore, there is research that
+supports the ability of Gals to recognize microbial pathogens like viruses, bacteria
+and protozoan parasites [<xref rid="B15" ref-type="bibr">15</xref>] directly. The
+ability of Gals to function as PRRs in the immune defense against invading microbes
+makes them indispensable components in the innate immune response [<xref rid="B16" ref-type="bibr">16</xref>]. To test whether microbial infection
+affects galectin expression in cow blood, we treated blood with natural bacteria
+cell wall components (LPS and PGN), synthetic bacterial DNA adjuvants (CpGODN2006
+and CpGODN2216) and viral RNA (Poly I:C). Treatment of cells with PAMPs mimic
+microbial infection and regulates expression of various genes [<xref rid="B25" ref-type="bibr">25</xref>]. The current study showed that PAMP modulates
+<italic>LGALS</italic> gene transcription as well as Gal secretion
+differentially in cow blood. Both transcription and secretion depended on the type
+of stimulant used.</p><p>Bacterial LPS and PGN designated PAMPs, are recognized by TLR-4 and TLR-2
+respectively [<xref rid="B26" ref-type="bibr">26</xref>]. The binding of these PAMPs
+to their receptors is characterized by transcription of genes involved in immune
+responses and secretion of cytokines [<xref rid="B8" ref-type="bibr">8</xref>,<xref rid="B9" ref-type="bibr">9</xref>,<xref rid="B27" ref-type="bibr">27</xref>]. In
+the present study, LPS stimulation increased the transcription of
+<italic>LGALS4</italic> and <italic>LGALS12</italic> in cow blood (<xref ref-type="fig" rid="F1">Fig. 1a</xref>). Gal-4 has been studied to be only
+expressed in inflamed cells and therefore has a more restricted distribution in
+normal cells [<xref rid="B28" ref-type="bibr">28</xref>]. Gal-4 also promotes
+resolution of inflammatory diseases, therefore, making it an important player in
+immune responses [<xref rid="B29" ref-type="bibr">29</xref>]. Gal-12, on the other
+hand, is preferentially expressed in adipose tissues and has also been studied to be
+associated with impaired metabolic conditions [<xref rid="B30" ref-type="bibr">30</xref>]. Both Gal-4 and Gal-12 exert regulatory functions in immune cells
+and have strong potential as biomarkers. This data suggests a possible role of Gal-4
+and -12 in the recognition and resolution of gram-negative bacteria in cows. The
+relationship between LPS and the transcription of these galectins need to be
+explored.</p><p>The gram-positive bacterial cell wall, PGN also increased transcription of
+<italic>LGALS4</italic> and <italic>LGALS12</italic> as well as all galectins
+tested. The differential <italic>LGALS</italic> transcription and secretion in
+response to LPS and PGN observed in the study suggest distinct immunological
+activities in response to these PAMPs. This also accentuates the fact that both
+gram-positive and gram-negative are recognized by different receptors to elicit
+different immunological responses. Thus, either LPS or PGN can be used as adjuvants
+to induce the production of different galectins.</p><p>Recently, galectins have been observed to interact directly with the
+<italic>&#x003b2;</italic>-galactosides on the surface of viruses thereby
+participating in antiviral defense, via the activation of the innate and adaptive
+immune responses [<xref rid="B31" ref-type="bibr">31</xref>,<xref rid="B32" ref-type="bibr">32</xref>]. Previous research has shown that viral infection has
+modulatory effects on galectin expression and function [<xref rid="B33" ref-type="bibr">33</xref>]. In this study, galectin expression in blood in response to
+viral challenge assessed by a PolyI:C challenge. Poly I:C is a viral PAMP that
+promotes cellular recognition of RNA viruses by binding to TLR3 to induce
+proinflammatory, as well as regulatory and cytokine re-sponses [<xref rid="B34" ref-type="bibr">34</xref>]. In this study, Poly I:C increased the
+transcription of <italic>LGALS1, LGALS4,</italic> and <italic>LGALS8</italic> with a
+subsequent secretion of Gal-1, -3, -8 and 9 in plasma. In a previous study,
+secretion of several galectins, including Gal-1 and -3 were increased in
+virus-infected macrophages [<xref rid="B35" ref-type="bibr">35</xref>]. Gonzalez et
+al. (2005) has also postulated that induced Gal-1 secretion after a viral infection
+is beneficial for the virus due to its anti-inflammatory functions [<xref rid="B31" ref-type="bibr">31</xref>]. On the contrary, Gal-3 has opposing
+functions since it recruits inflammatory cells to the site of infection. It is
+possible that the balance between the secreted extracellular Gal-1 and -3 in the
+current may regulate the direction of the inflammatory response in cows. It is also
+noteworthy that Gal-8, which has been known to be involved in phagocytosis [<xref rid="B36" ref-type="bibr">36</xref>] is transcribed and secreted upon viral PAMP
+stimulation. The current study suggests that these galectins may also be involved in
+recognition of viral PAMPs and promote the removal of these viral pathogens through
+phagocytosis, or prevent viruses from entering the host cell.</p><p>Studies have indicated that oligodeoxynucleotides (CpG ODNs) containing unmethylated
+CpG dinucleotides are potent activators of both innate and adaptive immunity [<xref rid="B37" ref-type="bibr">37</xref>]. CpG ODNs are recognized by the Toll-like
+receptor 9 (TLR9) [<xref rid="B38" ref-type="bibr">38</xref>]. The TLR9 signaling
+pathway involves mitogen-activated protein kinases, and NF-kB-inducing kinase-IKK-
+Inhibitor of KappaB Kinase (IkB) pathways [<xref rid="B39" ref-type="bibr">39</xref>]. Both CpG ODN 2216 and CpG ODN 2006 have been studied to show distinct
+functional profiles depending on the type of CD8<sup>+</sup> cells they are
+exposed to. CpG ODN 2216 induces high amounts of interferon alpha in plasmacytoid
+dendritic cells whereas CpG ODN2006 only induces small amounts of IFN alpha [<xref rid="B40" ref-type="bibr">40</xref>]. Furthermore, CpG ODN2006 has also been
+studied to be a weak activator of natural killer cells compared to CpG ODN2216
+[<xref rid="B41" ref-type="bibr">41</xref>]. This proves that both CpG ODN
+motifs show distinct immunologic activities. In the present study, the 2 types of
+CpG ODN adjuvants also affected <italic>LGALS</italic> transcription and secretion
+distinctively in cow blood. Although no fold changes were observed in
+<italic>LGALS</italic> transcription (FC &#x0003c; 2), CpG ODN2006 treatment
+increased secretion of Gal-1 and Gal3 in plasma (<xref ref-type="fig" rid="F1">Fig.
+1d</xref>). This increase supports the proinflammatory roles of CpG ODNs since
+Gal-1 and Gal-3 are proinflammatory in pathogenic conditions. CpG ODN2216, however,
+increased Gal-2, a pro-apoptotic galectin and Gal-3, a proinflammatory galectin.
+This also points to a balance in immune response upon PAMP recognition. Improper
+orchestration of the immune response to microbial infections may lead to sepsis, a
+condition caused by an overwhelming immune responses [<xref rid="B7" ref-type="bibr">7</xref>].</p><p>It was also important to note from this study that although LPS and the CpG ODNs
+motifs are both of bacteria origin, LPS did not affect galectin secretion in plasma.
+This could mean that Gal secretion in cow blood is increased in response to bacteria
+DNA compared to its cell wall components. The concentration of LPS (10 &#x003bc;g)
+used as well as the length of exposure could also cause variation in transcription
+and translation in blood [<xref rid="B42" ref-type="bibr">42</xref>]. Also, the fact
+that transcription of <italic>LGALS4</italic> was reduced in blood treated the CpG
+ODN motifs is noteworthy since both PAMPs are synthetic adju-vants. This points to a
+negative regulatory effect of these PAMPs on <italic>LGALS4</italic>. The results of
+this study have impli-cations for vaccination and use of synthetic PAMPs in cows and
+immunomodulation.</p></sec><sec id="sec6"><title>Conclusion</title><p>The results demonstrate that PAMPs differentially modulate transcription of mRNA and
+secretion of Gal in cow blood. Elucidation of the relationship between PAMPS and
+galectin expression may help to define their roles in infectious diseases as well as
+aid in drug design for the dairy industry.</p></sec></body><back><fn-group><title>Competing interests</title><fn fn-type="COI-statement"><p>No potential conflict of interest relevant to this article was reported.</p></fn></fn-group><fn-group><title>Funding sources</title><fn><p>National Institute of Food and Agriculture Evans Allen funds: Project Improving
+Resistance and Resilience: The Role of Galectins in Periparturient Ruminants.
+No. NC.X-300-5-16-120-1.</p></fn></fn-group><ack><title>Acknowledgements</title><p>The authors are grateful to the National Institute of Food and Agriculture Evans
+Allen funds: Project Improving Resistance and Resilience: The Role of Galectins in
+Periparturient Ruminants. No. NC.X-300-5-16-120-1 for funding the research. Special
+thanks also go to the North Carolina Agricultural and Technical State University
+Dairy Unit especially, Mr. Corey Burgess for assisting with blood sampling. We would
+also like to thank Dr. Hamid Ismail for making sure all supplies were available to
+make this research possible.</p></ack><fn-group><title>Availability of data and material</title><fn><p>Upon reasonable request, the datasets of this study can be available from the
+corresponding author.</p></fn></fn-group><fn-group><title>Authors&#x02019; contributions</title><fn><p>Conceptualization: Worku M.</p><p>Data curation: Worku M, Asiamah EK.</p><p>Formal analysis: Worku M, Asiamah EK, Adjei-Fremah S, Ekwemalor K, Osei B.</p><p>Methodology: Worku M, Asiamah EK, Adjei-Fremah S, Ekwemalor K, Osei B.</p><p>Software: Asiamah EK, Adjei-Fremah S.</p><p>Validation: Newman R.</p><p>Investigation: Asiamah Ek, Worku M.</p><p>Writing - original draft: Worku M, Asiamah EK.</p><p>Writing - review &#x00026; editing: Worku M, Asiamah EK, Adjei-Fremah S, Ekwemalor
+K, Osei B, Newman R.</p></fn></fn-group><fn-group><title>Ethics approval and consent to participate</title><fn><p>All protocols for handling of animals was approved by the Institutional Animal
+Care and Use Committee (IACUC) of North Carolina A&#x00026;T State University.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><label>1.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>LeBlanc</surname><given-names>SJ</given-names></name><name><surname>Lissemore</surname><given-names>KD</given-names></name><name><surname>Kelton</surname><given-names>DF</given-names></name><name><surname>Duffield</surname><given-names>TF</given-names></name><name><surname>Leslie</surname><given-names>KE</given-names></name></person-group><article-title>Major advances in disease prevention in dairy
+cattle</article-title><source>J Dairy Sci</source><year>2006</year><volume>89</volume><fpage>1267</fpage><lpage>79</lpage><pub-id pub-id-type="doi">10.3168/jds.S0022-0302(06)72195-6</pub-id><pub-id pub-id-type="pmid">16537959</pub-id></element-citation></ref><ref id="B2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bannerman</surname><given-names>D</given-names></name></person-group><article-title>Pathogen-dependent induction of cytokines and other soluble
+inflammatory mediators during intra-mammary infection of dairy
+cows</article-title><source>J Anim Sci</source><year>2009</year><volume>87</volume><issue>Suppl 13</issue><fpage>10</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.2527/jas.2008-1187</pub-id><pub-id pub-id-type="pmid">18708595</pub-id></element-citation></ref><ref id="B3"><label>3.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sarukhan</surname><given-names>A</given-names></name><name><surname>Martinez-Florensa</surname><given-names>M</given-names></name><name><surname>Escoda-Ferran</surname><given-names>C</given-names></name><name><surname>Carrasco</surname><given-names>E</given-names></name><name><surname>Carreras</surname><given-names>E</given-names></name><name><surname>Lozano</surname><given-names>F</given-names></name></person-group><article-title>Pattern recognition by CD6: a scavenger-like lymphocyte
+receptor</article-title><source>Curr Drug Targets</source><year>2016</year><volume>17</volume><fpage>640</fpage><lpage>50</lpage><pub-id pub-id-type="doi">10.2174/1389450116666150316224308</pub-id><pub-id pub-id-type="pmid">25777272</pub-id></element-citation></ref><ref id="B4"><label>4.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schaefer</surname><given-names>TM</given-names></name><name><surname>Fahey</surname><given-names>JV</given-names></name><name><surname>Wright</surname><given-names>JA</given-names></name><name><surname>Wira</surname><given-names>CR</given-names></name></person-group><article-title>Innate immunity in the human female reproductive tract: antiviral
+response of uterine epithelial cells to the TLR3 agonist poly
+(I:C)</article-title><source>J Immunol</source><year>2005</year><volume>174</volume><fpage>992</fpage><lpage>1002</lpage><pub-id pub-id-type="doi">10.4049/jimmunol.174.2.992</pub-id><pub-id pub-id-type="pmid">15634923</pub-id></element-citation></ref><ref id="B5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nichani</surname><given-names>AK</given-names></name><name><surname>Mena</surname><given-names>A</given-names></name><name><surname>Popowych</surname><given-names>Y</given-names></name><name><surname>Dent</surname><given-names>D</given-names></name><name><surname>Townsend</surname><given-names>HG</given-names></name><name><surname>Mutwiri</surname><given-names>GK</given-names></name><etal>et al</etal></person-group><article-title>In vivo immunostimulatory effects of CpG oligodeoxynucleotide in
+cattle and sheep</article-title><source>Vet Immunol Immunopathol</source><year>2004</year><volume>98</volume><fpage>17</fpage><lpage>29</lpage><pub-id pub-id-type="doi">10.1016/j.vetimm.2003.10.001</pub-id><pub-id pub-id-type="pmid">15127838</pub-id></element-citation></ref><ref id="B6"><label>6.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Griebel</surname><given-names>PJ</given-names></name><name><surname>Brownlie</surname><given-names>R</given-names></name><name><surname>Manuja</surname><given-names>A</given-names></name><name><surname>Nichani</surname><given-names>A</given-names></name><name><surname>Mookherjee</surname><given-names>N</given-names></name><name><surname>Popowych</surname><given-names>Y</given-names></name><etal>et al</etal></person-group><article-title>Bovine toll-like receptor 9: a compar-ative analysis of molecular
+structure, function and expression</article-title><source>Vet Immunol Immunopathol</source><year>2005</year><volume>108</volume><fpage>11</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1016/j.vetimm.2005.07.012</pub-id><pub-id pub-id-type="pmid">16098606</pub-id></element-citation></ref><ref id="B7"><label>7.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Asiamah</surname><given-names>EK</given-names></name><name><surname>Adjei-Fremah</surname><given-names>S</given-names></name><name><surname>Osei</surname><given-names>B</given-names></name><name><surname>Ekwemalor</surname><given-names>K</given-names></name><name><surname>Worku</surname><given-names>M</given-names></name></person-group><article-title>An extract of Sericea Lespedeza modulates production of
+inflammatory markers in pathogen associated molecular pattern (PAMP)
+activated ruminant blood</article-title><source>J Agr Sci</source><year>2016</year><volume>8</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.5539/jas.v8n9p1</pub-id></element-citation></ref><ref id="B8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Asiamah</surname><given-names>EK</given-names></name><name><surname>Adjei-Fremah</surname><given-names>S</given-names></name><name><surname>Ekwemalor</surname><given-names>K</given-names></name><name><surname>Worku</surname><given-names>M</given-names></name></person-group><article-title>Nystatin modulates genes in immunity and wingless signaling
+pathways in cow blood</article-title><source>J Mol Biol Res</source><year>2017</year><volume>7</volume><fpage>1</fpage><pub-id pub-id-type="doi">10.5539/jmbr.v7n1p1</pub-id></element-citation></ref><ref id="B9"><label>9.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adjei-Fremah</surname><given-names>S</given-names></name><name><surname>Ekwemalor</surname><given-names>K</given-names></name><name><surname>Asiamah</surname><given-names>E</given-names></name><name><surname>Ismail</surname><given-names>H</given-names></name><name><surname>Worku</surname><given-names>M</given-names></name></person-group><article-title>Transcriptional profiling of the effect of lipopolysac-charide
+(LPS) pretreatment in blood from probiotics-treated dairy
+cows</article-title><source>Genom Data</source><year>2016</year><volume>10</volume><fpage>15</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/j.gdata.2016.08.016</pub-id><pub-id pub-id-type="pmid">27656413</pub-id></element-citation></ref><ref id="B10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Werling</surname><given-names>D</given-names></name><name><surname>Jungi</surname><given-names>TW</given-names></name></person-group><article-title>TOLL-like receptors linking innate and adaptive immune
+response</article-title><source>Vet Immunol Immunopathol</source><year>2003</year><volume>91</volume><fpage>1</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1016/S0165-2427(02)00228-3</pub-id><pub-id pub-id-type="pmid">12507844</pub-id></element-citation></ref><ref id="B11"><label>11.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Plaizier</surname><given-names>JC</given-names></name><name><surname>Krause</surname><given-names>DO</given-names></name><name><surname>Gozho</surname><given-names>GN</given-names></name><name><surname>McBride</surname><given-names>BW</given-names></name></person-group><article-title>Subacute ruminal acidosis in dairy cows: the physiological
+causes, incidence and consequences</article-title><source>Vet J</source><year>2008</year><volume>176</volume><fpage>21</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.1016/j.tvjl.2007.12.016</pub-id><pub-id pub-id-type="pmid">18329918</pub-id></element-citation></ref><ref id="B12"><label>12.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tilman</surname><given-names>D</given-names></name><name><surname>Cassman</surname><given-names>KG</given-names></name><name><surname>Matson</surname><given-names>PA</given-names></name><name><surname>Naylor</surname><given-names>R</given-names></name><name><surname>Polasky</surname><given-names>S</given-names></name></person-group><article-title>Agricultural sustainability and intensive production
+practices</article-title><source>Nature</source><year>2002</year><volume>418</volume><fpage>671</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1038/nature01014</pub-id><pub-id pub-id-type="pmid">12167873</pub-id></element-citation></ref><ref id="B13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rabinovich</surname><given-names>GA</given-names></name><name><surname>Baum</surname><given-names>LG</given-names></name><name><surname>Tinari</surname><given-names>N</given-names></name><name><surname>Paganelli</surname><given-names>R</given-names></name><name><surname>Natoli</surname><given-names>C</given-names></name><name><surname>Liu</surname><given-names>FT</given-names></name><etal>et al</etal></person-group><article-title>Galectins and their ligands: amplifiers, si-lencers or tuners of
+the inflammatory response?</article-title><source>Trends Immunol</source><year>2002</year><volume>23</volume><fpage>313</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/S1471-4906(02)02232-9</pub-id><pub-id pub-id-type="pmid">12072371</pub-id></element-citation></ref><ref id="B14"><label>14.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Kooyk</surname><given-names>Y</given-names></name><name><surname>Rabinovich</surname><given-names>GA</given-names></name></person-group><article-title>Protein-glycan interactions in the control of innate and adaptive
+immune responses</article-title><source>Nat Immunol</source><year>2008</year><volume>9</volume><fpage>593</fpage><lpage>601</lpage><pub-id pub-id-type="doi">10.1038/ni.f.203</pub-id><pub-id pub-id-type="pmid">18490910</pub-id></element-citation></ref><ref id="B15"><label>15.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vasta</surname><given-names>GR</given-names></name></person-group><article-title>Galectins as pattern recognition receptors: structure, function,
+and evolution</article-title><source>Adv Exp Med Biol</source><year>2012</year><volume>946</volume><fpage>21</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1007/978-1-4614-0106-3_2</pub-id><pub-id pub-id-type="pmid">21948360</pub-id></element-citation></ref><ref id="B16"><label>16.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sato</surname><given-names>S</given-names></name><name><surname>St-Pierre</surname><given-names>C</given-names></name><name><surname>Bhaumik</surname><given-names>P</given-names></name><name><surname>Nieminen</surname><given-names>J</given-names></name></person-group><article-title>Galectins in innate immunity: dual functions of host soluble
+<italic>&#x003b2;</italic>-galactoside-binding lectins as
+damage-associated molecular patterns (DAMPs) and as receptors for
+pathogen-associated molecular patterns (PAMPs)</article-title><source>Immunol Rev</source><year>2009</year><volume>230</volume><fpage>172</fpage><lpage>187</lpage><pub-id pub-id-type="doi">10.1111/j.1600-065X.2009.00790.x</pub-id><pub-id pub-id-type="pmid">19594636</pub-id></element-citation></ref><ref id="B17"><label>17.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Huang</surname><given-names>M</given-names></name><name><surname>Yi</surname><given-names>Q</given-names></name><name><surname>Guo</surname><given-names>Y</given-names></name><name><surname>Gai</surname><given-names>Y</given-names></name><etal>et al</etal></person-group><article-title>A galectin from Eriocheir sinensis functions as pattern
+recog-nition receptor enhancing microbe agglutination and haemocytes
+encapsulation</article-title><source>Fish Shellfish Immunol</source><year>2016</year><volume>55</volume><fpage>10</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/j.fsi.2016.04.019</pub-id><pub-id pub-id-type="pmid">27095174</pub-id></element-citation></ref><ref id="B18"><label>18.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mishra</surname><given-names>BB</given-names></name><name><surname>Li</surname><given-names>Q</given-names></name><name><surname>Steichen</surname><given-names>AL</given-names></name><name><surname>Binstock</surname><given-names>BJ</given-names></name><name><surname>Metzger</surname><given-names>DW</given-names></name><name><surname>Teale</surname><given-names>JM</given-names></name><etal>et al</etal></person-group><article-title>Galectin-3 functions as an alarmin: patho-genic role for sepsis
+development in murine respiratory tularemia</article-title><source>PloS one</source><year>2013</year><volume>8</volume><fpage>e59616</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0059616</pub-id><pub-id pub-id-type="pmid">23527230</pub-id></element-citation></ref><ref id="B19"><label>19.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>LeBlanc</surname><given-names>SJ</given-names></name><name><surname>Duffield</surname><given-names>TF</given-names></name><name><surname>Leslie</surname><given-names>KE</given-names></name><name><surname>Bateman</surname><given-names>KG</given-names></name><name><surname>Keefe</surname><given-names>GP</given-names></name><name><surname>Walton</surname><given-names>JS</given-names></name><etal>et al</etal></person-group><article-title>Defining and diagnosing postpartum clinical endometritis and its
+impact on reproductive performance in dairy cows</article-title><source>J Dairy Sci</source><year>2002</year><volume>85</volume><fpage>2223</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.3168/jds.S0022-0302(02)74302-6</pub-id><pub-id pub-id-type="pmid">12362455</pub-id></element-citation></ref><ref id="B20"><label>20.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliver</surname><given-names>SP</given-names></name><name><surname>Murinda</surname><given-names>SE</given-names></name><name><surname>Jayarao</surname><given-names>BM</given-names></name></person-group><article-title>Impact of antibiotic use in adult dairy cows on antimicrobial
+resistance of veterinary and human pathogens: a comprehensive
+review</article-title><source>Foodborne pathog Dis</source><year>2011</year><volume>8</volume><fpage>337</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1089/fpd.2010.0730</pub-id><pub-id pub-id-type="pmid">21133795</pub-id></element-citation></ref><ref id="B21"><label>21.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Asiamah</surname><given-names>EK</given-names></name></person-group><source>Ex vivo effects of water extracts of sericea lespedeza on cow, sheep and
+goat blood</source><comment>[Ph.D. dissertation]</comment><publisher-loc>Greensboro, NC</publisher-loc><publisher-name>North Carolina Agricultural and Technical State
+University</publisher-name><year>2015</year></element-citation></ref><ref id="B22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Livak</surname><given-names>KJ</given-names></name><name><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group><article-title>Analysis of relative gene expression data using real-time
+quantitative PCR and the 2&#x02212; &#x00394;&#x00394;CT method</article-title><source>methods</source><year>2001</year><volume>25</volume><fpage>402</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1006/meth.2001.1262</pub-id><pub-id pub-id-type="pmid">11846609</pub-id></element-citation></ref><ref id="B23"><label>23.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Asiamah</surname><given-names>EK</given-names></name><name><surname>Adjei-Fremah</surname><given-names>S</given-names></name><name><surname>Ekwemalor</surname><given-names>K</given-names></name><name><surname>Sordillo</surname><given-names>L</given-names></name><name><surname>Worku</surname><given-names>M</given-names></name></person-group><article-title>Parity and periparturient period affects galectin gene expression
+in Holstein cow blood</article-title><source>J Appl Biotechn</source><year>2018</year><volume>6</volume><fpage>20</fpage><pub-id pub-id-type="doi">10.5296/jab.v6i2.13017</pub-id></element-citation></ref><ref id="B24"><label>24.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vasta</surname><given-names>GR</given-names></name></person-group><article-title>Roles of galectins in infection</article-title><source>Nat Rev Microbiol</source><year>2009</year><volume>7</volume><fpage>424</fpage><lpage>38</lpage><pub-id pub-id-type="doi">10.1038/nrmicro2146</pub-id><pub-id pub-id-type="pmid">19444247</pub-id></element-citation></ref><ref id="B25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kawai</surname><given-names>T</given-names></name><name><surname>Akira</surname><given-names>S</given-names></name></person-group><article-title>The role of pattern-recognition receptors in innate immunity:
+update on toll-like receptors</article-title><source>Nat Immunol</source><year>2010</year><volume>11</volume><fpage>373</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1038/ni.1863</pub-id><pub-id pub-id-type="pmid">20404851</pub-id></element-citation></ref><ref id="B26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Adib-Conquy</surname><given-names>M</given-names></name><name><surname>Cavaillon</surname><given-names>JM</given-names></name></person-group><article-title>Stress molecules in sepsis and systemic inflammatory response
+syndrome</article-title><source>FEBS Lett</source><year>2007</year><volume>581</volume><fpage>3723</fpage><lpage>33</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2007.03.074</pub-id><pub-id pub-id-type="pmid">17428476</pub-id></element-citation></ref><ref id="B27"><label>27.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ekwemalor</surname><given-names>K</given-names></name><name><surname>Asiamah</surname><given-names>E</given-names></name><name><surname>Osei</surname><given-names>B</given-names></name><name><surname>Ismail</surname><given-names>H</given-names></name><name><surname>Worku</surname><given-names>M</given-names></name></person-group><article-title>Evaluation of the effect of probiotic administration on gene
+expression in goat blood</article-title><source>J Mol Biol Res</source><year>2017</year><volume>7</volume><fpage>88</fpage><pub-id pub-id-type="doi">10.5539/jmbr.v7n1p88</pub-id></element-citation></ref><ref id="B28"><label>28.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huflejt</surname><given-names>ME</given-names></name><name><surname>Leffler</surname><given-names>H</given-names></name></person-group><article-title>Galectin-4 in normal tissues and cancer</article-title><source>Glycoconjugate J</source><year>2003</year><volume>20</volume><fpage>247</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1023/B:GLYC.0000025819.54723.a0</pub-id></element-citation></ref><ref id="B29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Paclik</surname><given-names>D</given-names></name><name><surname>Danese</surname><given-names>S</given-names></name><name><surname>Berndt</surname><given-names>U</given-names></name><name><surname>Wiedenmann</surname><given-names>B</given-names></name><name><surname>Dignass</surname><given-names>A</given-names></name><name><surname>Sturm</surname><given-names>A</given-names></name></person-group><article-title>Galectin-4 controls intestinal inflammation by selective
+regulation of peripheral and mucosal T cell apoptosis and cell
+cycle</article-title><source>PLoS One</source><year>2008</year><volume>3</volume><fpage>e2629</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0002629</pub-id><pub-id pub-id-type="pmid">18612433</pub-id></element-citation></ref><ref id="B30"><label>30.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yang</surname><given-names>RY</given-names></name><name><surname>Havel</surname><given-names>PJ</given-names></name><name><surname>Liu</surname><given-names>FT</given-names></name></person-group><article-title>Galectin-12: a protein associated with lipid droplets that
+regulates lipid metabolism and energy balance</article-title><source>Adipocyte</source><year>2012</year><volume>1</volume><fpage>96</fpage><lpage>100</lpage><pub-id pub-id-type="doi">10.4161/adip.19465</pub-id><pub-id pub-id-type="pmid">23700518</pub-id></element-citation></ref><ref id="B31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gonzalez</surname><given-names>MI</given-names></name><name><surname>Rubinstein</surname><given-names>N</given-names></name><name><surname>Ilarregui</surname><given-names>JM</given-names></name><name><surname>Toscano</surname><given-names>MA</given-names></name><name><surname>Sanjuan</surname><given-names>NA</given-names></name><name><surname>Rabinovich</surname><given-names>GA</given-names></name></person-group><article-title>Regulated expression of galec-tin-1 after in vitro productive
+infection with herpes simplex virus type I: implications for T cell
+apoptosis</article-title><source>Int J Immunopathol Pharmacol</source><year>2005</year><volume>18</volume><fpage>615</fpage><lpage>23</lpage><pub-id pub-id-type="doi">10.1177/039463200501800402</pub-id><pub-id pub-id-type="pmid">16388708</pub-id></element-citation></ref><ref id="B32"><label>32.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rabinovich</surname><given-names>GA</given-names></name><name><surname>Toscano</surname><given-names>MA</given-names></name><name><surname>Jackson</surname><given-names>SS</given-names></name><name><surname>Vasta</surname><given-names>GR</given-names></name></person-group><article-title>Functions of cell surface galectin-glycoprotein
+lattices</article-title><source>Curr Opin Struct Biol</source><year>2007</year><volume>17</volume><fpage>513</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1016/j.sbi.2007.09.002</pub-id><pub-id pub-id-type="pmid">17950594</pub-id></element-citation></ref><ref id="B33"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Garner</surname><given-names>OB</given-names></name><name><surname>Aguilar</surname><given-names>HC</given-names></name><name><surname>Fulcher</surname><given-names>JA</given-names></name><name><surname>Levroney</surname><given-names>EL</given-names></name><name><surname>Harrison</surname><given-names>R</given-names></name><name><surname>Wright</surname><given-names>L</given-names></name><etal>et al</etal></person-group><article-title>Endothelial galectin-1 binds to specific glycans on nipah virus
+fusion protein and inhibits maturation, mobility, and function to block
+syncytia formation</article-title><source>PLoS pathog</source><year>2010</year><volume>6</volume><fpage>e1000993</fpage><pub-id pub-id-type="doi">10.1371/journal.ppat.1000993</pub-id><pub-id pub-id-type="pmid">20657665</pub-id></element-citation></ref><ref id="B34"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Y</given-names></name><name><surname>Guo</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Ye</surname><given-names>L</given-names></name><etal>et al</etal></person-group><article-title>TLR3 activation efficiency by high or low molecular mass poly I:
+C</article-title><source>Innate Immun</source><year>2013</year><volume>19</volume><fpage>184</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1177/1753425912459975</pub-id><pub-id pub-id-type="pmid">23035017</pub-id></element-citation></ref><ref id="B35"><label>35.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Miettinen</surname><given-names>J</given-names></name></person-group><source>Activation of innate immune response in human macrophages by Herpes
+simplex virus-1 and crystallized monosodium urate</source><comment>[Ph.D. dissertation]</comment><publisher-loc>Helsinki, Finland</publisher-loc><publisher-name>University of Helsinki</publisher-name><year>2014</year></element-citation></ref><ref id="B36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thurston</surname><given-names>TL</given-names></name><name><surname>Wandel</surname><given-names>MP</given-names></name><name><surname>von Muhlinen</surname><given-names>N</given-names></name><name><surname>Foeglein</surname><given-names>A</given-names></name><name><surname>Randow</surname><given-names>F</given-names></name></person-group><article-title>Galectin-8 targets damaged vesicles for autophagy to defend cells
+against bacterial invasion</article-title><source>Nature</source><year>2012</year><volume>482</volume><fpage>414</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1038/nature10744</pub-id><pub-id pub-id-type="pmid">22246324</pub-id></element-citation></ref><ref id="B37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>ZJ</given-names></name></person-group><article-title>Innate immune sensing and signaling of cytosolic nucleic
+acids</article-title><source>Ann Rev Immunol</source><year>2014</year><volume>32</volume><fpage>461</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1146/annurev-immunol-032713-120156</pub-id><pub-id pub-id-type="pmid">24655297</pub-id></element-citation></ref><ref id="B38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hemmi</surname><given-names>H</given-names></name><name><surname>Takeuchi</surname><given-names>O</given-names></name><name><surname>Kawai</surname><given-names>T</given-names></name><name><surname>Kaisho</surname><given-names>T</given-names></name><name><surname>Sato</surname><given-names>S</given-names></name><name><surname>Sanjo</surname><given-names>H</given-names></name><etal>et al</etal></person-group><article-title>Erratum a toll-like receptor recognizes bacterial
+DNA</article-title><source>Nature</source><year>2001</year><volume>409</volume><fpage>646</fpage><pub-id pub-id-type="doi">10.1038/35054604</pub-id></element-citation></ref><ref id="B39"><label>39.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arthur</surname><given-names>JS</given-names></name><name><surname>Ley</surname><given-names>SC</given-names></name></person-group><article-title>Mitogen-activated protein kinases in innate
+immunity</article-title><source>Nat Rev Immunol</source><year>2013</year><volume>13</volume><fpage>679</fpage><lpage>92</lpage><pub-id pub-id-type="doi">10.1038/nri3495</pub-id><pub-id pub-id-type="pmid">23954936</pub-id></element-citation></ref><ref id="B40"><label>40.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krug</surname><given-names>A</given-names></name><name><surname>Rothenfusser</surname><given-names>S</given-names></name><name><surname>Hornung</surname><given-names>V</given-names></name><name><surname>Jahrsdorfer</surname><given-names>B</given-names></name><name><surname>Blackwell</surname><given-names>S</given-names></name><name><surname>Ballas</surname><given-names>ZK</given-names></name><etal>et al</etal></person-group><article-title>Identification of CpG oligonucleotide sequences with high
+induction of IFN-<italic>&#x003b1;</italic>/<italic>&#x003b2;</italic> in
+plasmacytoid dendritic cells</article-title><source>Eur J Immunol</source><year>2001</year><volume>31</volume><fpage>2154</fpage><lpage>63</lpage><pub-id pub-id-type="doi">10.1002/1521-4141(200107)31:7&#x0003c;2154::AID-IMMU2154&#x0003e;3.0.CO;2-U</pub-id><pub-id pub-id-type="pmid">11449369</pub-id></element-citation></ref><ref id="B41"><label>41.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rothenfusser</surname><given-names>S</given-names></name><name><surname>Hornung</surname><given-names>V</given-names></name><name><surname>Krug</surname><given-names>A</given-names></name><name><surname>Towarowski</surname><given-names>A</given-names></name><name><surname>Krieg</surname><given-names>AM</given-names></name><name><surname>Endres</surname><given-names>S</given-names></name><etal>et al</etal></person-group><article-title>Distinct CpG oligonucleotide sequences activate human
+<italic>&#x003b3;</italic>
+<italic>&#x003b4;</italic> T cells via
+interferon-<italic>&#x003b1;</italic>/-<italic>&#x003b2;</italic></article-title><source>Eur J Immunol</source><year>2001</year><volume>31</volume><fpage>3525</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.1002/1521-4141(200112)31:12&#x0003c;3525::AID-IMMU3525&#x0003e;3.0.CO;2-5</pub-id><pub-id pub-id-type="pmid">11745372</pub-id></element-citation></ref><ref id="B42"><label>42.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Worku</surname><given-names>M</given-names></name><name><surname>Morris</surname><given-names>A</given-names></name></person-group><article-title>Binding of different forms of lipopolysaccharide and gene
+expression in bovine blood neutrophils</article-title><source>J Dairy Sci</source><year>2009</year><volume>92</volume><fpage>3185</fpage><lpage>93</lpage><pub-id pub-id-type="doi">10.3168/jds.2008-1905</pub-id><pub-id pub-id-type="pmid">19528595</pub-id></element-citation></ref></ref-list></back></article>

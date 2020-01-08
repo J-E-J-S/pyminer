@@ -1,0 +1,751 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6815769</article-id><article-id pub-id-type="doi">10.1111/jcmm.14624</article-id><article-id pub-id-type="publisher-id">JCMM14624</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Applications of sequencing technology in clinical microbial infection</article-title><alt-title alt-title-type="left-running-head">YU et al.</alt-title></title-group><contrib-group><contrib id="jcmm14624-cr-0001" contrib-type="author"><name><surname>Yu</surname><given-names>Xiaoling</given-names></name><xref ref-type="aff" rid="jcmm14624-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14624-cr-0002" contrib-type="author"><name><surname>Jiang</surname><given-names>Wenqian</given-names></name><xref ref-type="aff" rid="jcmm14624-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14624-cr-0003" contrib-type="author"><name><surname>Shi</surname><given-names>Yang</given-names></name><xref ref-type="aff" rid="jcmm14624-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm14624-cr-0004" contrib-type="author" corresp="yes"><name><surname>Ye</surname><given-names>Hanhui</given-names></name><xref ref-type="aff" rid="jcmm14624-aff-0001">
+<sup>1</sup>
+</xref><address><email>15960102808@163.com</email></address></contrib><contrib id="jcmm14624-cr-0005" contrib-type="author" corresp="yes"><name><surname>Lin</surname><given-names>Jun</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5971-9963</contrib-id><xref ref-type="aff" rid="jcmm14624-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jcmm14624-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jcmm14624-aff-0004">
+<sup>4</sup>
+</xref><address><email>jun@fzu.edu.cn</email></address></contrib></contrib-group><aff id="jcmm14624-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Infectious Diseases</named-content>
+<institution>Mengchao Hepatobiliary Hospital of Fujian Medical University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm14624-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute of Apply Genomics</named-content>
+<institution>Fuzhou University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm14624-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">School of Basic Medical Sciences</named-content>
+<institution>Fujian Medical University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm14624-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Fujian Key Laboratory of Marine Enzyme Engineering</named-content>
+<institution>Fuzhou University</institution>
+<named-content content-type="city">Fuzhou</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Jun Lin, Institute of Apply Genomics, Fuzhou University, No. 2 Xueyuan Road, Fuzhou 350108, China.<break/>
+Email: <email>jun@fzu.edu.cn</email><break/>
+Hanhui Ye, Department of Infectious Diseases, Mengchao Hepatobiliary Hospital of Fujian Medical University, Xihong Road 312, Fuzhou 350025, Fujian, China.<break/>
+Email: <email>15960102808@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2019</year></pub-date><volume>23</volume><issue>11</issue><issue-id pub-id-type="doi">10.1111/jcmm.v23.11</issue-id><fpage>7143</fpage><lpage>7150</lpage><history><date date-type="received"><day>30</day><month>5</month><year>2019</year></date><date date-type="accepted"><day>25</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by John Wiley &#x00026; Sons Ltd and Foundation for Cellular and Molecular Medicine.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCMM-23-7143.pdf"/><abstract id="jcmm14624-abs-0001"><title>Abstract</title><p>Infectious diseases are a type of disease caused by pathogenic microorganisms. Although the discovery of antibiotics changed the treatment of infectious diseases and reduced the mortality of bacterial infections, resistant bacterial strains have emerged. Anti&#x02010;infective therapy based on aetiological evidence is the gold standard for clinical treatment, but the time lag and low positive culture rate of traditional methods of pathogen diagnosis leads to relative difficulty in obtaining the evidence of pathogens. Compared with traditional methods of pathogenic diagnosis, next&#x02010;generation and third&#x02010;generation sequencing technologies have many advantages in the detection of pathogenic microorganisms. In this review, we mainly introduce recent progress in research on pathogenic diagnostic technology and the applications of sequencing technology in the diagnosis of pathogenic microorganisms. This review provides new insights into the application of sequencing technology in the clinical diagnosis of microorganisms.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm14624-kwd-0001">clinical microbial infection</kwd><kwd id="jcmm14624-kwd-0002">next&#x02010;generation sequencing</kwd><kwd id="jcmm14624-kwd-0003">third&#x02010;generation sequencing</kwd></kwd-group><funding-group><award-group><funding-source>Clinical Medicine Center Construction Program of Fuzhou, Fujian, PRC</funding-source><award-id>2018080306</award-id></award-group><award-group><funding-source>Key Clinical Specialty Discipline Construction Program of Fujian, PRC and Health research innovation team cultivation project of Fuzhou</funding-source><award-id>2019&#x02010;S&#x02010;wt4</award-id></award-group><award-group><funding-source>Young Teachers Education Research Project, Department of Education, Fujian</funding-source><award-id>JAT170080</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="8"/><word-count count="6240"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcmm14624</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.7.0 mode:remove_FC converted:28.10.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14624-cit-1001">
+<string-name>
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Applications of sequencing technology in clinical microbial infection</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2019</year>;<volume>23</volume>:<fpage>7143</fpage>&#x02013;<lpage>7150</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14624</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="jcmm14624-sec-0001"><label>1</label><title>THE STATUS OF CLINICAL MICROBIOLOGICAL INFECTION</title><p>Infectious diseases are caused by pathogenic microorganisms, such as bacteria, viruses, parasites or fungi that can be spread between humans and animals or transmitted from animals to humans. Various pathogenic microorganisms were found most frequently from the end of the 19th century to the beginning of the 20th century.<xref rid="jcmm14624-bib-0001" ref-type="ref">1</xref>, <xref rid="jcmm14624-bib-0002" ref-type="ref">2</xref> The pioneers of microbiology, represented by Louis Pasteur, first discovered the existence of microorganisms and revealed the relationship between microbial infection and disease.</p><p>The vast majority of infectious diseases are caused by bacterial infections, which had a very high mortality rate before the discovery of antibiotics. In 1928, Alexander Fleming discovered that a secretion from <italic>Penicillium notatum</italic> that he named penicillin could inhibit <italic>Staphylococcus</italic>.<xref rid="jcmm14624-bib-0003" ref-type="ref">3</xref> Clinical trials of <italic>Penicillium</italic> isolates began in the 1940s. Penicillin promoted the treatment of infectious diseases and stimulated the search for other types of antibiotics.<xref rid="jcmm14624-bib-0004" ref-type="ref">4</xref> The discovery of antibiotics was a turning point in human history. Regrettably, the effects of these miraculous drugs have gradually been lost with the rapid emergence of antibiotic&#x02010;resistant strains.<xref rid="jcmm14624-bib-0005" ref-type="ref">5</xref> Shortly after the introduction of penicillin in the 1940s, penicillin&#x02010;resistant <italic>Staphylococcus aureus</italic> (<italic>S&#x000a0;aureus</italic>) appeared; similarly, a strain of <italic>Mycobacterium tuberculosis</italic> resistant to streptomycin appeared shortly after the discovery of streptomycin.<xref rid="jcmm14624-bib-0006" ref-type="ref">6</xref> In addition to bacteria, viruses and fungi are also common pathogenic microorganisms in the clinic.</p><p>A statistical analysis of several severe infectious diseases, such as tuberculosis, malaria and AIDS, has been conducted by the World Health Organization (WHO). According to the WHO, in 2017, 10&#x000a0;million new tuberculosis cases were reported, resulting in 1.6&#x000a0;million deaths.<xref rid="jcmm14624-bib-0007" ref-type="ref">7</xref> There were 219&#x000a0;million malaria cases in 2017, and the death toll from malaria was 435&#x000a0;000.<xref rid="jcmm14624-bib-0008" ref-type="ref">8</xref> A total of 36.9&#x000a0;million people were living with HIV worldwide in 2017, resulting in 940&#x000a0;000 deaths.<xref rid="jcmm14624-bib-0009" ref-type="ref">9</xref> In addition, <italic>S&#x000a0;aureus</italic> is one of the most common pathogens leading to human infection and the primary cause of bacteraemia, pneumonia, infective endocarditis, and skin and soft tissue&#x02010;related infections.<xref rid="jcmm14624-bib-0010" ref-type="ref">10</xref> The Centers for Disease Control and Prevention (CDC) in the USA has reported that the number of infections caused by <italic>S&#x000a0;aureus</italic> is second only to the number of infections caused by <italic>Escherichia coli</italic>. Another common bacterium, <italic>Pseudomonas aeruginosa</italic> (<italic>P&#x000a0;aeruginosa</italic>), a conditional pathogen, is one of the main causes of nosocomial infection; <italic>P&#x000a0;aeruginosa</italic> can survive in a variety of environments, including surfaces in medical facilities, owing to its adaptability and antibiotic resistance.<xref rid="jcmm14624-bib-0011" ref-type="ref">11</xref>
+<italic>Pseudomonas aeruginosa</italic> affects more than 2&#x000a0;million patients, causing approximately 90&#x000a0;000 deaths each year.<xref rid="jcmm14624-bib-0012" ref-type="ref">12</xref>
+</p><p>According to the China National Statistics Bureau, from 2013 to 2017, the number of infections and deaths due to class A and B notifiable infectious diseases in China fluctuated at approximately 3&#x000a0;million, but the number of deaths from these infectious diseases is increasing<xref rid="jcmm14624-bib-0013" ref-type="ref">13</xref> (Figure <xref rid="jcmm14624-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14624-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The number of infections and deaths due to class A and B notifiable infectious diseases in China from 2013 to 2017. The abscissa indicates the year, the left ordinate represents the number of infections, and the right ordinate represents the number of deaths</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-23-7143-g001"/></fig><p>In recent years, with increasing numbers of drug&#x02010;resistant pathogens and a growing number of individuals abusing antibiotics in the clinic, the issue of drug resistance has become increasingly serious. The detection of pathogenic microorganisms and drug resistance has become the primary procedure for clinical anti&#x02010;infective treatment. Methicillin&#x02010;resistant <italic>Staphylococcus aureus</italic> (MRSA) and vancomycin&#x02010;resistant <italic>Enterococcus</italic> (VRE) are common and harmful antibiotic&#x02010;resistant bacteria found in the clinic. Methicillin&#x02010;resistant <italic>Staphylococcus aureus</italic>, which was first discovered in 1961,<xref rid="jcmm14624-bib-0014" ref-type="ref">14</xref> is resistant to multiple antibiotics and found in 74% of patients with <italic>S&#x000a0;aureus</italic> infection worldwide.<xref rid="jcmm14624-bib-0015" ref-type="ref">15</xref> According to the CDC in the USA, approximately 5% of patients in hospitals in the USA carry MRSA in their nose or on their skin. Vancomycin is well known as the last line of defence against antibiotic&#x02010;resistant bacteria, and VRE&#x02010;related infections have caused a serious impact on human health as they were first reported in the 1980s.<xref rid="jcmm14624-bib-0016" ref-type="ref">16</xref>
+<italic>Enterococcus</italic> can cause a variety of clinical diseases, such as urinary tract infections, bacteraemia, endocarditis, and abdominal and pelvic infections.<xref rid="jcmm14624-bib-0017" ref-type="ref">17</xref>
+</p></sec><sec id="jcmm14624-sec-0002"><label>2</label><title>RESEARCH PROGRESS IN PATHOGENIC DIAGNOSTIC TECHNIQUES</title><p>Anti&#x02010;infective therapy based on aetiological evidence, including the genus, species and drug resistance of a bacterium, is the gold standard for clinical treatment. Traditional methods of pathogenic microbial detection include culture and separation, biochemical and serological detection, immunology and nucleic acid detection.<xref rid="jcmm14624-bib-0018" ref-type="ref">18</xref> Traditional aetiological diagnosis determines drug resistance by collecting clinical specimens, culturing positive pathogenic microorganisms and then conducting drug sensitive tests. Therefore, traditional aetiological diagnosis has certain defects. First, obtaining a traditional aetiological diagnosis takes a long time, and reports on bacterial detection are lagging, which results in an inability to guide anti&#x02010;infection treatment plans in sufficient time. Second, the positive detection rate with traditional aetiological diagnosis is low, and it is relatively difficult to obtain aetiological evidence. Third, in vitro culture medium is distinct from the environment and conditions of microbial growth in vivo and cannot fully reflect infection in vivo. Fourth, some infectious diseases are not caused by the presence or excessive reproduction of a single pathogenic microorganism but by dysbiosis of the flora at the lesion site, resulting in an imbalance in the population of multiple microorganisms. Furthermore, different microorganisms adapt to different media and culture conditions, and traditional in vitro culture can obtain only the dominant growing microorganisms; however, many microorganisms in nature still cannot be cultured.</p><p>In recent years, with the spread of infectious diseases worldwide, the number of suspected infections has increased, and new pathogenic diagnostic technology is rapidly developing. Mass spectrometry for rapid microbial identification,<xref rid="jcmm14624-bib-0019" ref-type="ref">19</xref> such as matrix&#x02010;assisted laser desorption/ionization time&#x02010;of&#x02010;flight mass spectrometry (MALDI&#x02010;TOF&#x02010;MS), is used to identify bacterial genera and species,<xref rid="jcmm14624-bib-0020" ref-type="ref">20</xref> but the limitation of this technique is that accurate identification depends on a well&#x02010;established database, and the organism identified with this technology must be a cultured microorganism.<xref rid="jcmm14624-bib-0021" ref-type="ref">21</xref> Molecular diagnostic techniques, such as lateral&#x02010;flow immunoassay (LFIA), combine microbial antigens with labelled antibodies,<xref rid="jcmm14624-bib-0022" ref-type="ref">22</xref> and real&#x02010;time polymerase chain reaction is used for the quantitative determination of specific microorganisms.<xref rid="jcmm14624-bib-0023" ref-type="ref">23</xref>, <xref rid="jcmm14624-bib-0024" ref-type="ref">24</xref> These detection techniques are limited to identifying the genera and species of specific pathogenic microbes.</p></sec><sec id="jcmm14624-sec-0003"><label>3</label><title>THE DEVELOPMENT OF SEQUENCING TECHNOLOGY AND ITS CURRENT STATUS</title><p>Sequencing technology is used to determine the primary structure of biomacromolecules such as nucleic acids, proteins and polysaccharides. The most common sequencing technique is nucleic acid sequencing, including DNA and RNA sequencing, which determines the order of nucleotides in nucleic acid sequences. DNA sequencing technology has evolved from first&#x02010;generation DNA sequencing to the current fourth&#x02010;generation DNA sequencing.</p><p>Maxam&#x02010;Gilbert sequencing, Sanger dideoxy sequencing, fluorescence automated sequencing and hybrid sequencing are collectively known as first&#x02010;generation DNA sequencing technology. In the mid&#x02010; and late 1970s, sequencing technology began to gradually mature. In 1977, Maxam and Gilbert established Maxam&#x02010;Gilbert sequencing based on chemical fracture.<xref rid="jcmm14624-bib-0025" ref-type="ref">25</xref> In the same year, Sanger proposed the dideoxy chain termination method.<xref rid="jcmm14624-bib-0026" ref-type="ref">26</xref> In 1986, Smith et al<xref rid="jcmm14624-bib-0027" ref-type="ref">27</xref> developed a semi&#x02010;automated method for DNA sequence analysis based on the principles of Sanger sequencing and fluorescence detection. With the development and improvement of fluorescence automatic sequencing technology, DNA sequencing instruments widely used for first&#x02010;generation sequencing are currently based on capillary electrophoresis and fluorescent labelling.</p><p>With completion of the Human Genome Project, the throughput of traditional sequencing methods has been unable to meet genome sequencing needs. In the mid&#x02010; and late 1990s, next&#x02010;generation sequencing (NGS) emerged. Next&#x02010;generation sequencing has the potential to accelerate biological and biomedical research, increase throughput and reduce production scale and labour costs.<xref rid="jcmm14624-bib-0028" ref-type="ref">28</xref> It is suitable for not only genome sequencing and genome re&#x02010;sequencing but also transcriptome analysis (RNA&#x02010;Seq), the characterization of DNA&#x02010;protein interaction (ChIP&#x02010;sequencing) and epigenomics<xref rid="jcmm14624-bib-0029" ref-type="ref">29</xref> .</p><fig fig-type="Figure" xml:lang="en" id="jcmm14624-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Comparison of the traditional method and next&#x02010;generation sequencing (NGS)</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-23-7143-g002"/></fig><p>From 2008 to 2009, sequencing technology using different methods from those of the second&#x02010;generation platform was first described as &#x02018;third&#x02010;generation&#x02019; sequencing.<xref rid="jcmm14624-bib-0030" ref-type="ref">30</xref> Unlike second&#x02010;generation sequencing, which requires long&#x02010;chain DNA, third&#x02010;generation sequencing machines, such as the HeliScope,<xref rid="jcmm14624-bib-0031" ref-type="ref">31</xref> Nanopore<xref rid="jcmm14624-bib-0032" ref-type="ref">32</xref> and PacBio<xref rid="jcmm14624-bib-0033" ref-type="ref">33</xref> systems, read nucleotide sequences at the single&#x02010;molecule level. Third&#x02010;generation sequencing can produce longer reads than current sequencing technology,<xref rid="jcmm14624-bib-0034" ref-type="ref">34</xref> and its portability and sequencing speed are also important advantages.<xref rid="jcmm14624-bib-0035" ref-type="ref">35</xref> At present, third&#x02010;generation sequencing technology still has some limitations, which include its reliance on the activity of high&#x02010;cost DNA polymerase and an error rate that is much higher than that observed in NGS.<xref rid="jcmm14624-bib-0036" ref-type="ref">36</xref>
+</p></sec><sec id="jcmm14624-sec-0004"><label>4</label><title>APPLICATION STATUS OF SEQUENCING TECHNOLOGY IN PATHOGENIC DIAGNOSIS</title><sec id="jcmm14624-sec-0005"><label>4.1</label><title>First&#x02010;generation DNA sequencing</title><p>Sanger sequencing was the main sequencing technique used between 1975 and 2005 and the gold standard for all sequencing technologies. Ribosomal RNA, especially 16S rRNA and 23S rRNA, is the most useful phylogenetic marker for pathogenic diagnosis by Sanger sequencing.<xref rid="jcmm14624-bib-0037" ref-type="ref">37</xref> The most commonly used molecule for microbial species identification is 16S rRNA, which is extremely abundant in bacteria. The 16S rRNA sequence is approximately 1.5&#x000a0;kb in length<xref rid="jcmm14624-bib-0038" ref-type="ref">38</xref> and highly conserved in structure and function with multiple variable regions.<xref rid="jcmm14624-bib-0039" ref-type="ref">39</xref> Therefore, the genera and species of different pathogenic bacteria can be identified by 16S rRNA sequencing. Currently, 16S rRNA gene analysis of bacteria is primarily achieved by sequencing the variable regions of the 16S rRNA gene.<xref rid="jcmm14624-bib-0040" ref-type="ref">40</xref> Single clones from microorganisms obtained by culture can be identified by Sanger sequencing after amplification with 16S universal primers. The full&#x02010;length 16S rRNA gene in bacteria can be sequenced by Sanger sequencing, but the drawback of this strategy is that the bacterial culture (BC) must be pure; otherwise, the bacterium cannot be identified. The positive rate of clinical culture is very low, most microorganisms cannot be detected, and a mixture of 16S genes cannot be used to distinguish species. This time&#x02010;consuming strategy of cultivation and sequencing cannot meet the timeliness required of clinical tests. All of the above defects seriously affect the scope of the application of first&#x02010;generation DNA sequencing.</p></sec><sec id="jcmm14624-sec-0006"><label>4.2</label><title>Next&#x02010;generation metagenomic DNA sequencing (mNGS)</title><p>Based on the popularity and maturity of NGS, professional companies are already providing clinical microbiological testing based on mNGS. Next&#x02010;generation sequencing technology, which is represented by the Illumina system, is sequencing by synthesis that captures the base&#x02010;linked fluorescent signal on a cluster of PCR molecules and converts it into base information&#x000a0;(Figure.<xref rid="jcmm14624-fig-0002" ref-type="fig">2</xref>)&#x000a0;.<xref rid="jcmm14624-bib-0041" ref-type="ref">41</xref>
+</p><p>Because of the limitation of culture conditions and the influence of pre&#x02010;antibiotic treatment, the positive rate of clinical microbial testing is low, and it is impossible to detect rare, unknown and new pathogens. Aetiological diagnosis by mNGS is carried out to determine the genera of microorganisms by sequencing the microbial DNA of various specimens in clinical samples.<xref rid="jcmm14624-bib-0042" ref-type="ref">42</xref> As NGS does not depend on cultured microorganisms, some dead and uncultured microorganisms could also be detected; on the other hand, high&#x02010;throughput detection greatly reduces the cost and time of microorganism identification, and the accuracy of NGS is better than that of ELISA, PCR and hybridization chips. In 2010, whole&#x02010;genome sequencing (WGS) of bacterial pathogens began to migrate from research laboratories to public health practice.<xref rid="jcmm14624-bib-0043" ref-type="ref">43</xref> One of the earliest applications of WGS in public health was the analysis of the epidemiology of hospital&#x02010;acquired infections, such as <italic>Acinetobacter baumannii</italic> infection, which broke out in a British hospital in 2010.<xref rid="jcmm14624-bib-0044" ref-type="ref">44</xref> In May 2016, the Federal Drug Administration (FDA) issued the &#x02018;Infectious Disease Next Generation Sequencing Based Diagnostic Devices: Microbial Identification and Detection of Antimicrobial Resistance and Virulence Markers (draft)&#x02019; guideline.<xref rid="jcmm14624-bib-0045" ref-type="ref">45</xref>
+</p><p>In recent years, mNGS has been applied in clinical practice. The world's first case of pathogen diagnosis using NGS occurred in 2013. A 14&#x02010;year&#x02010;old boy with severe combined immunodeficiency (SCID) was hospitalized for fever and headache several times over 4&#x000a0;months. His doctors could not identify the cause of his disease by diagnostic examination, including brain biopsy. Finally, a <italic>Leptospira</italic> species that could cause encephalitis was discovered by NGS, after which doctors cured the boy with a large dose of penicillin.<xref rid="jcmm14624-bib-0046" ref-type="ref">46</xref> Food&#x02010;borne pathogens are the major cause of morbidity and mortality worldwide. Next&#x02010;generation sequencing can be used for real&#x02010;time sequencing during pathogenic microbial outbreaks.<xref rid="jcmm14624-bib-0047" ref-type="ref">47</xref> For example, in a food poisoning incident in Nanjing, China, <italic>Salmonella Schwarzengrund</italic> was isolated from diarrhoeal patients, and NGS was used to confirm the cause of the outbreak and trace contamination.<xref rid="jcmm14624-bib-0048" ref-type="ref">48</xref> The incidence of sepsis, a seriously life&#x02010;threatening infection with a high fatality rate, has been increasing recently.<xref rid="jcmm14624-bib-0049" ref-type="ref">49</xref> It is estimated that more than 30&#x000a0;million people worldwide are affected by sepsis each year, possibly leading to 6&#x000a0;million deaths.<xref rid="jcmm14624-bib-0050" ref-type="ref">50</xref> Gosiewski et al used NGS to analyse blood samples from 23 healthy volunteers and 62 patients with sepsis and found significant differences in bacterial diversity between the sepsis patients and healthy volunteers. Among the healthy volunteers, anaerobic bacteria accounted for the main proportion (76.2%) of bacterial species, and the abundance of <italic>Actinobacteria phyla</italic> was significantly higher than that in patients with sepsis (76.3% in healthy volunteers and 31.0% in the sepsis patients), while among the sepsis patients, most species (75.1%) were aerobic or microaerobic microorganisms, and the abundance of phyla in the <italic>Proteobacteria</italic> was significantly higher in patients with sepsis than in the healthy volunteers (16.4% in healthy volunteers and 60.1% in sepsis patients).<xref rid="jcmm14624-bib-0051" ref-type="ref">51</xref> Grumaz et al<xref rid="jcmm14624-bib-0052" ref-type="ref">52</xref> conducted a study based on sepsis in intensive care units (ICUs) to identify infectious microbes from seven sepsis patients by the unbiased sequence analysis of free circulating DNA from plasma through NGS. This method is expected to serve as a diagnostic platform for critically ill patients with blood infections. Long et al used NGS technology to identify pathogens in plasma samples from 78 ICU patients. The overall diagnostic sensitivity increased significantly from 12.82% (10/78) in BC alone to 30.77% (24/78) with NGS alone, which provided more useful information to establish patient treatment plans.<xref rid="jcmm14624-bib-0053" ref-type="ref">53</xref> Pulmonary disease is a common and widespread disease in daily life. Lung transplant patients are a vulnerable group of immunosuppressed patients susceptible to frequent respiratory infections. The viral aetiology of infection in four lung transplant patients (three Rhinovirus A infections and one Rhinovirus B infection) was determined with mNGS,<xref rid="jcmm14624-bib-0054" ref-type="ref">54</xref> emphasizing its potential for viral diagnosis in infections of previously unknown aetiology and complex diagnostic situations. <italic>Klebsiella pneumoniae</italic> (<italic>K&#x000a0;pneumoniae</italic>) is the leading cause of pneumonia in hospitalized patients, but the bacterial factors required to cause disease from <italic>K&#x000a0;pneumoniae</italic> are poorly understood. Bachman et al<xref rid="jcmm14624-bib-0055" ref-type="ref">55</xref> used insertion site sequencing to combine transposon mutagenesis with high&#x02010;throughput sequencing; the results indicated that the regulation of outer membrane components and the synthesis of essential amino acids in the <italic>K&#x000a0;pneumoniae</italic> host are critical for its fitness in the lung, which is important for the development of new antibiotics against <italic>K&#x000a0;pneumoniae</italic>. A skin ulcer is a surface disease characterized by the long&#x02010;term non&#x02010;healing of skin, liquefaction infection and necrosis of skin tissue defects. The risk of foot infection in diabetic patients is much higher than that in normal people. Malone et al<xref rid="jcmm14624-bib-0056" ref-type="ref">56</xref> used NGS to analyse the microbiome of infected diabetic foot ulcers (DFUs), which confirmed that short&#x02010;term DFUs have a simpler microbiome composed of pyogenic cocci, but chronic DFUs have a highly polymicrobial microbiome and that the duration of the DFU can be used as a guide for antibacterial therapy. In addition to the above cases, mNGS has been applied to other clinical infections, but there are still some defects and technical problems with this technique.</p><p>The specific technical problems in the diagnosis of pathogens by mNGS include the following. First, mNGS is limited to roughly judging the species of pathogenic microorganisms and estimating the approximate proportion of those microorganisms, and the results of different tests or from different labs may vary. Second, mNGS is unable to directly detect RNA viruses, because the RNA needs to be reverse transcribed to cDNA.<xref rid="jcmm14624-bib-0057" ref-type="ref">57</xref> Reverse transcription is necessary to sequence RNA viruses, but this process will take extra time. At the same time, the reads from mNGS are relatively short, so it is difficult to obtain information such as the full&#x02010;length antibiotic resistance gene sequences in pathogenic microorganisms, and it is impossible to associate the drug resistance gene with the corresponding pathogenic microorganism species. Moreover, short&#x02010;read sequencing will introduce bias.<xref rid="jcmm14624-bib-0058" ref-type="ref">58</xref>, <xref rid="jcmm14624-bib-0059" ref-type="ref">59</xref> Third, the detection rate of some low&#x02010;content intracellular bacteria, such as <italic>M&#x000a0;tuberculosis</italic>, <italic>Legionella</italic>, <italic>Brucella</italic> and fungi with thick cell walls, is low. Fourth, mNGS requires multiple rounds of PCR amplification in the process of library construction, so cross&#x02010;contamination issues are prone to occur. Fifth, a certain proportion of the extracted macrogenomic DNA is derived from dead bacteria, and mNGS cannot determine whether the detected sequence is from living or dead bacteria. Sixth, because of the high&#x02010;throughput nature of mNGS, a sufficient number of samples are needed to run the sequencing machine, which means that sequencing with the machine cannot start at any time. Furthermore, the sequencing time is slightly longer than that of other techniques; for example, to sequence using the Illumina system in 300&#x000a0;bp paired&#x02010;end mode, the time from booting the sequencing system to data acquisition is more than 60&#x000a0;hours, while for infected patients, the need to obtain aetiological evidence is urgent. Therefore, the diagnostic results of mNGS have limited clinical reference value.</p></sec><sec id="jcmm14624-sec-0007"><label>4.3</label><title>Long&#x02010;read third&#x02010;generation sequencing technology</title><p>The 16S rRNA gene sequence commonly used for microbial species identification is 1.5&#x000a0;kb in length<xref rid="jcmm14624-bib-0060" ref-type="ref">60</xref>; however, the longest read length of mNGS systems, such as Illumina and BGI sequencers, is only 300&#x000a0;bp. The reads from mNGS are short, and computer analysis based on short sequences cannot completely determine the real sequence. Therefore, both machines can identify microorganisms to only the genus level and not to the species level from 16S rRNA. Metagenomic sequencing uses short reads to search the database for species identification, which is prone to error mapping.<xref rid="jcmm14624-bib-0061" ref-type="ref">61</xref> Long&#x02010;read third&#x02010;generation sequencing technology can measure reads longer than 1&#x000a0;Mb, which can be used not only for microbial metagenome sequencing but also to directly measure full&#x02010;length 16S rRNA and identify pathogenic bacteria to the species level.</p><p>Third&#x02010;generation sequencing technology represented by the Nanopore system was launched in 2015. Compared with NGS, third&#x02010;generation sequencing produces longer reads, and the results can be obtained in a shorter time. The Nanopore system is an electrical signal&#x02010;based sequencing technology.<xref rid="jcmm14624-bib-0062" ref-type="ref">62</xref> Protein&#x02010;based nanopores (microscopic pores, which essentially form channels on the membrane) are embedded in a synthetic membrane and immersed in electrophysiological solution to allow ion currents to pass through the nanopore. The current is interfered when DNA or RNA molecules pass through it, causing a characteristic change in the current signal. In this process, the signal is analysed in real time to determine the base sequence of the DNA or RNA strand that is passing through the pore, which allows the entire DNA or RNA sequence to be determined.<xref rid="jcmm14624-bib-0063" ref-type="ref">63</xref>, <xref rid="jcmm14624-bib-0064" ref-type="ref">64</xref>
+</p><p>Nanopore sequencing technology effectively addresses the defects of mNGS in the field of aetiological diagnosis, directly sequencing reads more than 1&#x000a0;Mb in length,<xref rid="jcmm14624-bib-0065" ref-type="ref">65</xref> which allows the identification of species of pathogenic microorganisms by 16S rRNA sequencing. Nanopore sequencing technology eliminates the effort and time needed for reverse transcription because the reverse transcription of RNA into cDNA is not required; the Nanopore system can perform RNA sequencing directly.<xref rid="jcmm14624-bib-0066" ref-type="ref">66</xref> The throughput is very high, and the latest version of the Nanopore RNA direct sequencing chip can obtain 1&#x000a0;million full&#x02010;length RNA sequences at a time. Sequencing results are obtained at a fast speed and available in a few hours. Furthermore, Nanopore sequencing can be started at any time, and the MinION sequencer is a miniature palm sequencer with a single chip flux that fits 1&#x02010;2 specimens.<xref rid="jcmm14624-bib-0067" ref-type="ref">67</xref>
+</p><p>Pacific Biosciences (PacBio) is another long&#x02010;read sequencing technology system that uses a single&#x02010;molecule, real&#x02010;time (SMRT) chip as a carrier for sequencing by synthesis. Single&#x02010;molecule, real&#x02010;time sequencing begins with preparation of the SMRTbell template library. The SMRTbell template is a closed, single&#x02010;stranded, circular DNA with hairpin adapters at both ends; the SMRTbell diffuses into a sequencing unit called a zero&#x02010;mode waveguide (ZMW) when it is loaded into the SMRT cell, and single polymerases that bind to the template are anchored at the bottom of each ZMW. Four different fluorescently labelled dNTPs subsequently randomly enter the bottom of the ZMW, and after the polymerase incorporates the labelled nucleotide and cleaves its fluorophore, light pulses corresponding to the doped bases are generated in the thin region, and each pulse has its own colour intensity and duration to enable identification of the base.<xref rid="jcmm14624-bib-0068" ref-type="ref">68</xref>, <xref rid="jcmm14624-bib-0069" ref-type="ref">69</xref> The cost of PacBio sequencing is very high, and there have been only a few reports of microbial metagenomics studies using PacBio sequencing.<xref rid="jcmm14624-bib-0064" ref-type="ref">64</xref> However, taking 16S rRNA sequencing as an example, only 5000 circular consensus sequencing (CCS) reads are obtained per sample during sequencing.<xref rid="jcmm14624-bib-0070" ref-type="ref">70</xref> For the same cost, the throughput screening efficiency of Nanopore direct RNA sequencing can be much higher.</p><p>The PacBio system is rarely used for infection diagnosis because of the very large size of the machine, the expensive hardware, cumbersome library construction and its inability to directly detect RNA. At present, the Nanopore system is widely used.</p><p>Due to the above advantages, Nanopore sequencing technology has been widely used in the field of epidemic outbreak investigation over the past 2&#x000a0;years to detect infectious pathogens, antimicrobial drug resistance and other infectious areas of concern. For the rapid and real&#x02010;time monitoring of outbreaks, researchers conducted real&#x02010;time dynamic genomic monitoring of the Lassa fever epidemic in Nigeria<xref rid="jcmm14624-bib-0071" ref-type="ref">71</xref> and the Guinea Ebola virus epidemic<xref rid="jcmm14624-bib-0072" ref-type="ref">72</xref> through a small portable Oxford Nanopore MinION device. Through the use of direct RNA sequencing, a team of microbiologist led by John Barnes of the US CDC sequenced the complete RNA genome of the influenza A virus using Nanopore.<xref rid="jcmm14624-bib-0073" ref-type="ref">73</xref> The Prazsk I team of the Faculty of Medicine at the University of Szeged in Hungary analysed the lytic transcriptome of Varicella&#x02010;zoster virus (VZV) using the Nanopore sequencing platform, revealing the complex transcriptome structure of VZV.<xref rid="jcmm14624-bib-0074" ref-type="ref">74</xref> Moon et al<xref rid="jcmm14624-bib-0075" ref-type="ref">75</xref> used a Nanopore MinION sequencer for 16S rRNA amplicon sequencing to diagnose the first case of <italic>Campylobacter fetus</italic> meningitis in Korea. <italic>Haemophilus influenza</italic> was identified in patients with community&#x02010;acquired pneumonia by deep sequencing of the 16S rRNA gene from sputum.<xref rid="jcmm14624-bib-0076" ref-type="ref">76</xref> To determine drug resistance, Professor Arnold Bainomugisa of the University of Queensland in Australia used Nanopore sequencing technology to carry out rapid WGS of <italic>M tuberculosis</italic> to the genus and species level.<xref rid="jcmm14624-bib-0077" ref-type="ref">77</xref> A team led by Justin O'Grady in the UK used Nanopore sequencing technology to rapidly identify bacterial genera and species and bacterial resistance genes in patients with lower respiratory tract infections.<xref rid="jcmm14624-bib-0078" ref-type="ref">78</xref> Runtuwene et al<xref rid="jcmm14624-bib-0079" ref-type="ref">79</xref> used Nanopore sequencing to genotype the malaria parasite&#x02014;<italic>Plasmodium falciparum</italic>&#x02014;and infer its drug resistance status. The clinical development and application of Nanopore sequencing technology have become a new milestone in precise pathogen detection.</p><p>The time lag and low positive culture rate of traditional pathogen diagnosis leads to relative difficulty in obtaining evidence of pathogens. Metagenomic DNA sequencing is limited to roughly judging the microbial species and estimating its approximate proportion, and it is difficult to obtain information such as the full&#x02010;length sequence of pathogenic microbial resistance genes. The diagnostic results of mNGS have limited reference value in clinical practice. Third&#x02010;generation sequencing technology has many advantages that address the defects in NGS and traditional pathogenic diagnostic methods. Therefore, for the rapid diagnosis of clinical infectious microorganisms, the use of &#x02018;culture&#x02010;independent&#x02019; technology combined with third&#x02010;generation sequencing must be a major developmental direction for clinical pathogenic microorganism diagnosis.</p></sec><sec id="jcmm14624-sec-0008"><label>4.4</label><title>Outlook</title><p>In recent years, new changes in infectious diseases have taken place worldwide, and the increasing number of suspected infections and rapid increase in the rate of transmission have brought severe challenges to the diagnosis and treatment of infectious diseases. For the diagnosis of microbial infection, compared with traditional pathogenic diagnosis methods, NGS and third&#x02010;generation sequencing have the advantage of being faster, more accurate and high&#x02010;throughput and play an increasingly important role in the rapid detection and diagnosis of infectious diseases. With the continuous development of sequencing technology and the continuous improvement of the pathogenic microorganism database, infectious disease detection and epidemic investigation are expected to occur in real time, allowing for the rapid and accurate diagnosis and treatment of new, sudden and critical patients with severe infections.</p></sec></sec><sec sec-type="COI-statement" id="jcmm14624-sec-0009"><title>CONFLICT OF INTEREST</title><p>The authors have declared that no competing interest exists.</p></sec><sec id="jcmm14624-sec-0010"><title>AUTHOR CONTRIBUTION</title><p>WJ performed the literature research and drafted the manuscript; YS made the figure; XY and JL revised the manuscript and directed the review to be more focused; and HY and JL gave the final approval for the article to be published.</p></sec></body><back><ack id="jcmm14624-sec-0011"><title>ACKNOWLEDGEMENTS</title><p>This work was financially supported by Clinical Medicine Center Construction Program of Fuzhou, Fujian, PRC (2018080306), Key Clinical Specialty Discipline Construction Program of Fujian, PRC and Health research innovation team cultivation project of Fuzhou (2019&#x02010;S&#x02010;wt4), Young Teachers Education Research Project, Department of Education, Fujian (JAT170080).</p></ack><ref-list content-type="cited-references" id="jcmm14624-bibl-0001"><title>REFERENCES</title><ref id="jcmm14624-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0001">
+<string-name>
+<surname>McKee</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>A new pathogenic microorganism of the conjunctival Sac</article-title>. <source xml:lang="en">J Med Res</source>. <year>1907</year>;<volume>16</volume>:<fpage>527</fpage>&#x02010;<lpage>535</lpage>.<pub-id pub-id-type="pmid">19971781</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0002">
+<string-name>
+<surname>Maccallum</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Hastings</surname>
+<given-names>TW</given-names>
+</string-name>. <article-title>A case of acute endocarditis caused by Micrococcus zymogenes (Nov. Spec.), with a description of the microorganism</article-title>. <source xml:lang="en">J Exp Med</source>. <year>1899</year>;<volume>4</volume>:<fpage>521</fpage>&#x02010;<lpage>534</lpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0003">
+<string-name>
+<surname>Fleming</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>La penicillina</article-title>. <source xml:lang="en">Recenti Prog Med</source>. <year>2015</year>;<volume>106</volume>:<fpage>285</fpage>&#x02010;<lpage>290</lpage>.<pub-id pub-id-type="pmid">26076417</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0004">
+<string-name>
+<surname>Miller</surname>
+<given-names>EL</given-names>
+</string-name>. <article-title>The penicillins: a review and update</article-title>. <source xml:lang="en">J Midwifery Womens Health</source>. <year>2002</year>;<volume>47</volume>:<fpage>426</fpage>&#x02010;<lpage>434</lpage>.<pub-id pub-id-type="pmid">12484664</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0005">
+<string-name>
+<surname>Davies</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Origins and evolution of antibiotic resistance</article-title>. <source xml:lang="en">Microbiol Mol Biol Rev</source>. <year>2010</year>;<volume>74</volume>:<fpage>417</fpage>&#x02010;<lpage>433</lpage>.<pub-id pub-id-type="pmid">20805405</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0006">
+<string-name>
+<surname>Levy</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Antibacterial resistance worldwide: causes, challenges and responses</article-title>. <source xml:lang="en">Nat Med</source>. <year>2004</year>;<volume>10</volume>:<fpage>S122</fpage>&#x02010;<lpage>S129</lpage>.<pub-id pub-id-type="pmid">15577930</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="jcmm14624-cit-0007">Global Health Observatory (GHO) data&#x02010;Tuberculosis (TB).</mixed-citation></ref><ref id="jcmm14624-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="jcmm14624-cit-0008">Global Health Observatory (GHO) data&#x02010;Malaria.</mixed-citation></ref><ref id="jcmm14624-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="jcmm14624-cit-0009">Global Health Observatory (GHO) data&#x02010;HIV/AIDS.</mixed-citation></ref><ref id="jcmm14624-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0010">
+<string-name>
+<surname>Tong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Eichenberger</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>
+<given-names>VG</given-names>
+</string-name>. <article-title>
+<italic>StaphylococcuS&#x000a0;aureus</italic> infections: epidemiology, pathophysiology, clinical manifestations, and management</article-title>. <source xml:lang="en">Clin Microbiol Rev</source>. <year>2015</year>;<volume>28</volume>:<fpage>603</fpage>&#x02010;<lpage>661</lpage>.<pub-id pub-id-type="pmid">26016486</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0011">
+<string-name>
+<surname>Gellatly</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Hancock</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>
+<italic>Pseudomonas aeruginosa</italic>: new insights into pathogenesis and host defenses</article-title>. <source xml:lang="en">Pathog Dis</source>. <year>2013</year>;<volume>67</volume>:<fpage>159</fpage>&#x02010;<lpage>173</lpage>.<pub-id pub-id-type="pmid">23620179</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0012">
+<string-name>
+<surname>Mulcahy</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Isabella</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>
+<italic>Pseudomonas aeruginosa</italic> biofilms in disease</article-title>. <source xml:lang="en">Microb Ecol</source>. <year>2014</year>;<volume>68</volume>:<fpage>1</fpage>&#x02010;<lpage>12</lpage>.<pub-id pub-id-type="pmid">24096885</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="jcmm14624-cit-0013">The number of infections and deaths with class A and B notifiable infectious diseases in China from 2013 to 2017.</mixed-citation></ref><ref id="jcmm14624-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0014">
+<string-name>
+<surname>Barber</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Methicillin&#x02010;resistant staphylococci</article-title>. <source xml:lang="en">J Clin Pathol</source>. <year>1961</year>;<volume>14</volume>:<fpage>385</fpage>&#x02010;<lpage>393</lpage>.<pub-id pub-id-type="pmid">13686776</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0015">
+<string-name>
+<surname>Hassoun</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Linden</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Incidence, prevalence, and management of MRSA bacteremia across patient populations&#x02010;a review of recent developments in MRSA management and treatment</article-title>. <source xml:lang="en">Crit Care</source>. <year>2017</year>;<volume>21</volume>:<fpage>211</fpage>.<pub-id pub-id-type="pmid">28807042</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0016">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Baptiste</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Vancomycin&#x02010;resistant enterococci: a review of antimicrobial resistance mechanisms and perspectives of human and animal health</article-title>. <source xml:lang="en">Microb Drug Resist</source>. <year>2018</year>;<volume>24</volume>:<fpage>590</fpage>&#x02010;<lpage>606</lpage>.<pub-id pub-id-type="pmid">29058560</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0017"><label>17</label><mixed-citation publication-type="book" id="jcmm14624-cit-0017">
+<string-name>
+<surname>Levitus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perera</surname>
+<given-names>TB</given-names>
+</string-name>. <source xml:lang="en">Vancomycin&#x02010;resistant enterococci (VRE)</source>. StatPearls. <publisher-loc>Treasure Island, FL</publisher-loc>: <publisher-name>StatPearls Publishing LLC</publisher-name>
+<year>2019</year>.</mixed-citation></ref><ref id="jcmm14624-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0018">
+<string-name>
+<surname>Rajapaksha</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Elbourne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gangadoo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cozzolino</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A review of methods for the detection of pathogenic microorganisms</article-title>. <source xml:lang="en">Analyst</source>. <year>2019</year>;<volume>144</volume>:<fpage>396</fpage>&#x02010;<lpage>411</lpage>.<pub-id pub-id-type="pmid">30468217</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0019">
+<string-name>
+<surname>Schubert</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kostrzewa</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MALDI&#x02010;TOF MS in the microbiology laboratory: current trends</article-title>. <source xml:lang="en">Curr Issues Mol Biol</source>. <year>2017</year>;<volume>23</volume>:<fpage>17</fpage>&#x02010;<lpage>20</lpage>.<pub-id pub-id-type="pmid">28504240</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0020">
+<string-name>
+<surname>Patel</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>MALDI&#x02010;TOF MS for the diagnosis of infectious diseases</article-title>. <source xml:lang="en">Clin Chem</source>. <year>2015</year>;<volume>61</volume>:<fpage>100</fpage>&#x02010;<lpage>111</lpage>.<pub-id pub-id-type="pmid">25278500</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0021">
+<string-name>
+<surname>Jianlei</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Xiaojun</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>New technology of etiologic diagnosis in infectious disease and its clinical application strategy</article-title>. <source xml:lang="en">Med J Peking Union Med Coll Hospit</source>. <year>2018</year>;<volume>9</volume>:<fpage>399</fpage>&#x02010;<lpage>403</lpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0022">
+<string-name>
+<surname>Lai</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Stayton</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Improving lateral&#x02010;flow immunoassay (LFIA) diagnostics via biomarker enrichment for mHealth</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2015</year>;<volume>1256</volume>:<fpage>71</fpage>&#x02010;<lpage>84</lpage>.<pub-id pub-id-type="pmid">25626532</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0023">
+<string-name>
+<surname>Visconti</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Brunetti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Giordano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Raponi</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>RT&#x02010;PCR for the diagnosis of <italic>Clostridium difficile</italic> infection: the final answer has yet to come</article-title>. <source xml:lang="en">J Clin Pathol</source>. <year>2017</year>;<volume>70</volume>:<fpage>1090</fpage>&#x02010;<lpage>1091</lpage>.<pub-id pub-id-type="pmid">28877960</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0024">
+<string-name>
+<surname>Ahmad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Afzal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ullah</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sheed</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Evaluation of GeneXpert MTB/RIF assay for detection of pulmonary tuberculosis on sputum samples</article-title>. <source xml:lang="en">J Coll Physicians Surg Pak</source>. <year>2019</year>;<volume>29</volume>:<fpage>66</fpage>&#x02010;<lpage>69</lpage>.<pub-id pub-id-type="pmid">30630573</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0025">
+<string-name>
+<surname>Maxam</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>A new method for sequencing DNA</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>1977</year>;<volume>74</volume>:<fpage>560</fpage>&#x02010;<lpage>564</lpage>.<pub-id pub-id-type="pmid">265521</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0026">
+<string-name>
+<surname>Sanger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nicklen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Coulson</surname>
+<given-names>AR</given-names>
+</string-name>. <article-title>DNA sequencing with chain&#x02010;terminating inhibitors</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>1977</year>;<volume>74</volume>:<fpage>5463</fpage>&#x02010;<lpage>5467</lpage>.<pub-id pub-id-type="pmid">271968</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0027">
+<string-name>
+<surname>Smith</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name>
+<surname>Kaiser</surname>
+<given-names>RJ</given-names>
+</string-name>, et al. <article-title>Fluorescence detection in automated DNA sequence analysis</article-title>. <source xml:lang="en">Nature</source>. <year>1986</year>;<volume>321</volume>:<fpage>674</fpage>&#x02010;<lpage>679</lpage>.<pub-id pub-id-type="pmid">3713851</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0028">
+<string-name>
+<surname>Shendure</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ji</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Next&#x02010;generation DNA sequencing</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2008</year>;<volume>26</volume>:<fpage>1135</fpage>&#x02010;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">18846087</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0029">
+<string-name>
+<surname>de Magalhaes</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Finch</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Janssens</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Next&#x02010;generation sequencing in aging research: emerging applications, problems, pitfalls and possible solutions</article-title>. <source xml:lang="en">Ageing Res Rev</source>. <year>2010</year>;<volume>9</volume>:<fpage>315</fpage>&#x02010;<lpage>323</lpage>.<pub-id pub-id-type="pmid">19900591</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0030">
+<string-name>
+<surname>Check</surname>
+<given-names>HE</given-names>
+</string-name>. <article-title>Genome sequencing: the third generation</article-title>. <source xml:lang="en">Nature</source>. <year>2009</year>;<volume>457</volume>:<fpage>768</fpage>&#x02010;<lpage>769</lpage>.<pub-id pub-id-type="pmid">19212365</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0031">
+<string-name>
+<surname>Taroncher&#x02010;Oldenburg</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>RNA direct</article-title>. <source xml:lang="en">Science&#x02010;Business eXchange</source>. <year>2009</year>;<volume>2</volume>(<issue>39</issue>):<fpage>1459</fpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0032">
+<string-name>
+<surname>Check</surname>
+<given-names>HE</given-names>
+</string-name>. <article-title>Nanopore genome sequencer makes its debut</article-title>. <source xml:lang="en">Nature</source>. <year>2012</year>.</mixed-citation></ref><ref id="jcmm14624-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0033">
+<string-name>
+<surname>Munroe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>Third&#x02010;generation sequencing fireworks at Marco Island</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2010</year>;<volume>28</volume>:<fpage>426</fpage>&#x02010;<lpage>428</lpage>.<pub-id pub-id-type="pmid">20458306</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0034">
+<string-name>
+<surname>Bleidorn</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Third generation sequencing: technology and its potential impact on evolutionary biodiversity research</article-title>. <source xml:lang="en">Syst Biodivers</source>. <year>2015</year>;<volume>14</volume>:<fpage>1</fpage>&#x02010;<lpage>8</lpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0035">
+<string-name>
+<surname>Schadt</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kasarskis</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>A window into third&#x02010;generation sequencing</article-title>. <source xml:lang="en">Hum Mol Genet</source>. <year>2010</year>;<volume>19</volume>:<fpage>R227</fpage>&#x02010;<lpage>R240</lpage>.<pub-id pub-id-type="pmid">20858600</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0036">
+<string-name>
+<surname>Gupta</surname>
+<given-names>PK</given-names>
+</string-name>. <article-title>Single&#x02010;molecule DNA sequencing technologies for future genomics research</article-title>. <source xml:lang="en">Trends Biotechnol</source>. <year>2008</year>;<volume>26</volume>:<fpage>602</fpage>&#x02010;<lpage>611</lpage>.<pub-id pub-id-type="pmid">18722683</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0037">
+<string-name>
+<surname>Ludwig</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Schleifer</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>Bacterial phylogeny based on 16S and 23S rRNA sequence analysis</article-title>. <source xml:lang="en">FEMS Microbiol Rev</source>. <year>1994</year>;<volume>15</volume>:<fpage>155</fpage>&#x02010;<lpage>173</lpage>.<pub-id pub-id-type="pmid">7524576</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0038">
+<string-name>
+<surname>Clarridge</surname>
+<given-names>JE</given-names>
+<suffix>3rd</suffix>
+</string-name>. <article-title>Impact of 16S rRNA gene sequence analysis for identification of bacteria on clinical microbiology and infectious diseases</article-title>. <source xml:lang="en">Clin Microbiol Rev</source>. <year>2004</year>;<volume>17</volume>(<issue>4</issue>):<fpage>840</fpage>&#x02010;<lpage>862</lpage>, table of contents.<pub-id pub-id-type="pmid">15489351</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0039">
+<string-name>
+<surname>Yarza</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Yilmaz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pruesse</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Uniting the classification of cultured and uncultured bacteria and archaea using 16S rRNA gene sequences</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>. <year>2014</year>;<volume>12</volume>:<fpage>635</fpage>&#x02010;<lpage>645</lpage>.<pub-id pub-id-type="pmid">25118885</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0040">
+<string-name>
+<surname>Kozich</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Westcott</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Baxter</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name>
+<surname>Highlander</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Schloss</surname>
+<given-names>PD</given-names>
+</string-name>. <article-title>Development of a dual&#x02010;index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform</article-title>. <source xml:lang="en">Appl Environ Microbiol</source>. <year>2013</year>;<volume>79</volume>:<fpage>5112</fpage>&#x02010;<lpage>5120</lpage>.<pub-id pub-id-type="pmid">23793624</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0041">
+<string-name>
+<surname>Meyer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kircher</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Illumina sequencing library preparation for highly multiplexed target capture and sequencing</article-title>. <source xml:lang="en">Cold Spring Harbor Protocols</source>. <year>2010</year>;<volume>2010</volume>:<fpage>pdb.prot5448&#x02010;pdb.prot</fpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0042">
+<string-name>
+<surname>Ravi</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Walton</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Khosroheidari</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MiSeq: a next generation sequencing platform for genomic analysis</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2018</year>;<volume>1706</volume>:<fpage>223</fpage>&#x02010;<lpage>232</lpage>.<pub-id pub-id-type="pmid">29423801</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0043">
+<string-name>
+<surname>Besser</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Carleton</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Gerner&#x02010;Smidt</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lindsey</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Trees</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Next&#x02010;generation sequencing technologies and their application to the study and control of bacterial infections</article-title>. <source xml:lang="en">Clin Microbiol Infect</source>. <year>2018</year>;<volume>24</volume>:<fpage>335</fpage>&#x02010;<lpage>341</lpage>.<pub-id pub-id-type="pmid">29074157</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0044">
+<string-name>
+<surname>Lewis</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Loman</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Bingle</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>High&#x02010;throughput whole&#x02010;genome sequencing to dissect the epidemiology of <italic>Acinetobacter baumannii</italic> isolates from a hospital outbreak</article-title>. <source xml:lang="en">J Hosp Infect</source>. <year>2010</year>;<volume>75</volume>:<fpage>37</fpage>&#x02010;<lpage>41</lpage>.<pub-id pub-id-type="pmid">20299126</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0045"><label>45</label><mixed-citation publication-type="miscellaneous" id="jcmm14624-cit-0045">
+<article-title>Infectious disease next generation sequencing based diagnostic devices: microbial identification and detection of antimicrobial resistance and virulence markers</article-title>. <year>2016</year>.</mixed-citation></ref><ref id="jcmm14624-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0046">
+<string-name>
+<surname>Wilson</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Naccache</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Samayoa</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Actionable diagnosis of neuroleptospirosis by next&#x02010;generation sequencing</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2014</year>;<volume>370</volume>:<fpage>2408</fpage>&#x02010;<lpage>2417</lpage>.<pub-id pub-id-type="pmid">24896819</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0047">
+<string-name>
+<surname>Ronholm</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nasheri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Petronella</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pagotto</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Navigating microbiological food safety in the era of whole&#x02010;genome sequencing</article-title>. <source xml:lang="en">Clin Microbiol Rev</source>. <year>2016</year>;<volume>29</volume>:<fpage>837</fpage>&#x02010;<lpage>857</lpage>.<pub-id pub-id-type="pmid">27559074</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0048">
+<string-name>
+<surname>Du</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Next generation sequencing for the investigation of an outbreak of Salmonella Schwarzengrund in Nanjing, China</article-title>. <source xml:lang="en">Int J Biol Macromol</source>. <year>2018</year>;<volume>107</volume>:<fpage>393</fpage>&#x02010;<lpage>396</lpage>.<pub-id pub-id-type="pmid">28888545</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0049">
+<string-name>
+<surname>Mayr</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name>
+<surname>Yende</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Angus</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Epidemiology of severe sepsis</article-title>. <source xml:lang="en">Virulence</source>. <year>2014</year>;<volume>5</volume>:<fpage>4</fpage>&#x02010;<lpage>11</lpage>.<pub-id pub-id-type="pmid">24335434</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0050">
+<string-name>
+<surname>Fleischmann</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Scherag</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Adhikari</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Assessment of global incidence and mortality of hospital&#x02010;treated sepsis. Current estimates and limitations</article-title>. <source xml:lang="en">Am J Respir Crit Care Med</source>. <year>2016</year>;<volume>193</volume>:<fpage>259</fpage>&#x02010;<lpage>272</lpage>.<pub-id pub-id-type="pmid">26414292</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0051">
+<string-name>
+<surname>Gosiewski</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ludwig&#x02010;Galezowska</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Huminska</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Comprehensive detection and identification of bacterial DNA in the blood of patients with sepsis and healthy volunteers using next&#x02010;generation sequencing method &#x02013; the observation of DNAemia</article-title>. <source xml:lang="en">Eur J Clin Microbiol Infect Dis</source>. <year>2017</year>;<volume>36</volume>:<fpage>329</fpage>&#x02010;<lpage>336</lpage>.<pub-id pub-id-type="pmid">27771780</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0052">
+<string-name>
+<surname>Grumaz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Grumaz</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Next&#x02010;generation sequencing diagnostics of bacteremia in septic patients</article-title>. <source xml:lang="en">Genome Med</source>. <year>2016</year>;<volume>8</volume>:<fpage>73</fpage>.<pub-id pub-id-type="pmid">27368373</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0053">
+<string-name>
+<surname>Long</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Diagnosis of sepsis with cell&#x02010;free DNA by next&#x02010;generation sequencing technology in ICU patients</article-title>. <source xml:lang="en">Arch Med Res</source>. <year>2016</year>;<volume>47</volume>:<fpage>365</fpage>&#x02010;<lpage>371</lpage>.<pub-id pub-id-type="pmid">27751370</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0054">
+<string-name>
+<surname>Lewandowska</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Schuurmans</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Metagenomic sequencing complements routine diagnostics in identifying viral pathogens in lung transplant recipients with unknown etiology of respiratory infection</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2017</year>;<volume>12</volume>:<elocation-id>e0177340</elocation-id>.<pub-id pub-id-type="pmid">28542207</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0055">
+<string-name>
+<surname>Bachman</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Breen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Deornellas</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Genome&#x02010;wide identification of <italic>Klebsiella pneumoniae</italic> fitness genes during lung infection</article-title>. <source xml:lang="en">MBio</source>. <year>2015</year>;<volume>6</volume>:<elocation-id>e00775</elocation-id>.<pub-id pub-id-type="pmid">26060277</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0056">
+<string-name>
+<surname>Malone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Johani</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>SO</given-names>
+</string-name>, et al. <article-title>Next generation DNA sequencing of tissues from infected diabetic foot ulcers</article-title>. <source xml:lang="en">EBioMedicine</source>. <year>2017</year>;<volume>21</volume>:<fpage>142</fpage>&#x02010;<lpage>149</lpage>.<pub-id pub-id-type="pmid">28669650</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0057">
+<string-name>
+<surname>Wohland</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schleinitz</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Identification of disease&#x02010;related genes using a genome&#x02010;wide association study approach</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2018</year>;<volume>1706</volume>:<fpage>113</fpage>&#x02010;<lpage>150</lpage>.<pub-id pub-id-type="pmid">29423796</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0058">
+<string-name>
+<surname>Guo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ju</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Taxonomic precision of different hypervariable regions of 16S rRNA gene and annotation methods for functional bacterial groups in biological wastewater treatment</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2013</year>;<volume>8</volume>:<elocation-id>e76185</elocation-id>.<pub-id pub-id-type="pmid">24146837</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0059">
+<string-name>
+<surname>Klindworth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pruesse</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schweer</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Evaluation of general 16S ribosomal RNA gene PCR primers for classical and next&#x02010;generation sequencing&#x02010;based diversity studies</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2013</year>;<volume>41</volume>:<fpage>e1</fpage>.<pub-id pub-id-type="pmid">22933715</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0060">
+<string-name>
+<surname>Sabat</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>van Zanten</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Akkerboom</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Targeted next&#x02010;generation sequencing of the 16S&#x02013;23S rRNA region for culture&#x02010;independent bacterial identification &#x02013; increased discrimination of closely related species</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>3434</fpage>.<pub-id pub-id-type="pmid">28611406</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0061">
+<string-name>
+<surname>Liang</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Stephenson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Adkins</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Whole exome library construction for next generation sequencing</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2018</year>;<volume>1706</volume>:<fpage>163</fpage>&#x02010;<lpage>174</lpage>.<pub-id pub-id-type="pmid">29423798</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0062">
+<string-name>
+<surname>Varongchayakul</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Meller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Grinstaff</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Single&#x02010;molecule protein sensing in a nanopore: a tutorial</article-title>. <source xml:lang="en">Chem Soc Rev</source>. <year>2018</year>;<volume>47</volume>:<fpage>8512</fpage>&#x02010;<lpage>8524</lpage>.<pub-id pub-id-type="pmid">30328860</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0063">
+<string-name>
+<surname>Squires</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Gilboa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Torfstein</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Single&#x02010;molecule characterization of DNA&#x02010;protein interactions using nanopore biosensors</article-title>. <source xml:lang="en">Methods Enzymol</source>. <year>2017</year>;<volume>582</volume>:<fpage>353</fpage>&#x02010;<lpage>385</lpage>.<pub-id pub-id-type="pmid">28062042</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0064">
+<string-name>
+<surname>Tedersoo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tooming&#x02010;Klunderud</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anslan</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>PacBio metabarcoding of Fungi and other eukaryotes: errors, biases and perspectives</article-title>. <source xml:lang="en">New Phytol</source>. <year>2018</year>;<volume>217</volume>:<fpage>1370</fpage>&#x02010;<lpage>1385</lpage>.<pub-id pub-id-type="pmid">28906012</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0065">
+<string-name>
+<surname>van Dijk</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Jaszczyszyn</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Naquin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Thermes</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The third revolution in sequencing technology</article-title>. <source xml:lang="en">Trends Genet</source>. <year>2018</year>;<volume>34</volume>:<fpage>666</fpage>&#x02010;<lpage>681</lpage>.<pub-id pub-id-type="pmid">29941292</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0066">
+<string-name>
+<surname>Marinov</surname>
+<given-names>GK</given-names>
+</string-name>. <article-title>On the design and prospects of direct RNA sequencing</article-title>. <source xml:lang="en">Brief Funct Genomics</source>. <year>2017</year>;<volume>16</volume>:<fpage>326</fpage>&#x02010;<lpage>335</lpage>.<pub-id pub-id-type="pmid">28334071</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0067">
+<string-name>
+<surname>Karamitros</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Magiorkinis</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Multiplexed targeted sequencing for oxford nanopore MinION: a detailed library preparation procedure</article-title>. <source xml:lang="en">Methods Mol Biol</source>. <year>2018</year>;<volume>1712</volume>:<fpage>43</fpage>&#x02010;<lpage>51</lpage>.<pub-id pub-id-type="pmid">29224067</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0068">
+<string-name>
+<surname>Rhoads</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Au</surname>
+<given-names>KF</given-names>
+</string-name>. <article-title>PacBio sequencing and its applications</article-title>. <source xml:lang="en">Genomics Proteomics Bioinformatics</source>. <year>2015</year>;<volume>13</volume>:<fpage>278</fpage>&#x02010;<lpage>289</lpage>.<pub-id pub-id-type="pmid">26542840</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0069">
+<string-name>
+<surname>Nakano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shiroma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shimoji</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Advantages of genome sequencing by long&#x02010;read sequencer using SMRT technology in medical area</article-title>. <source xml:lang="en">Hum Cell</source>. <year>2017</year>;<volume>30</volume>:<fpage>149</fpage>&#x02010;<lpage>161</lpage>.<pub-id pub-id-type="pmid">28364362</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0070">
+<string-name>
+<surname>Wagner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Coupland</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Browne</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Lawley</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Francis</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Parkhill</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Evaluation of PacBio sequencing for full&#x02010;length bacterial 16S rRNA gene classification</article-title>. <source xml:lang="en">BMC Microbiol</source>. <year>2016</year>;<volume>16</volume>:<fpage>274</fpage>.<pub-id pub-id-type="pmid">27842515</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0071">
+<string-name>
+<surname>Kafetzopoulou</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Pullan</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Lemey</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Metagenomic sequencing at the epicenter of the Nigeria 2018 Lassa fever outbreak</article-title>. <source xml:lang="en">Science</source>. <year>2019</year>;<volume>363</volume>:<fpage>74</fpage>&#x02010;<lpage>77</lpage>.<pub-id pub-id-type="pmid">30606844</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0072">
+<string-name>
+<surname>Quick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Loman</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Duraffour</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Real&#x02010;time, portable genome sequencing for Ebola surveillance</article-title>. <source xml:lang="en">Nature</source>. <year>2016</year>;<volume>530</volume>:<fpage>228</fpage>&#x02010;<lpage>232</lpage>.<pub-id pub-id-type="pmid">26840485</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0073">
+<string-name>
+<surname>Keller</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Rambo&#x02010;Martin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Author correction: direct RNA sequencing of the coding complete Influenza A virus genome</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>15746</fpage>.<pub-id pub-id-type="pmid">30341398</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0074">
+<string-name>
+<surname>Prazs&#x000e1;k</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Moldov&#x000e1;n</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bal&#x000e1;zs</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Long&#x02010;read sequencing uncovers a complex transcriptome topology in varicella zoster virus</article-title>. <source xml:lang="en">BMC Genom</source>. <year>2018</year>;<volume>19</volume>:<fpage>873</fpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0075">
+<string-name>
+<surname>Moon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, et al. <article-title>
+<italic>Campylobacter fetus</italic> meningitis confirmed by a 16S rRNA gene analysis using the MinION nanopore sequencer, South Korea, 2016</article-title>. <source xml:lang="en">Emerg Microbes Infect</source>. <year>2017</year>;<volume>6</volume>:<fpage>e94</fpage>.<pub-id pub-id-type="pmid">29089590</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0076">
+<string-name>
+<surname>Moon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Diagnosis of <italic>Haemophilus influenzae</italic> pneumonia by Nanopore 16S Amplicon sequencing of sputum</article-title>. <source xml:lang="en">Emerg Infect Dis</source>. <year>2018</year>;<volume>24</volume>:<fpage>1944</fpage>&#x02010;<lpage>1946</lpage>.<pub-id pub-id-type="pmid">29989532</pub-id></mixed-citation></ref><ref id="jcmm14624-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0077">
+<string-name>
+<surname>Bainomugisa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lavu</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A complete high&#x02010;quality MinION nanopore assembly of an extensively drug&#x02010;resistant <italic>Mycobacterium tuberculosis</italic> Beijing lineage strain identifies novel variation in repetitive PE/PPE gene regions</article-title>. <source xml:lang="en">Microb Genom</source>. <year>2018</year>;<volume>4</volume>:<fpage>7</fpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0078">
+<string-name>
+<surname>Charalampous</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>
+<given-names>GL</given-names>
+</string-name>, et al. <article-title>Rapid diagnosis of lower respiratory infection using nanopore&#x02010;based clinical metagenomics</article-title>. <source xml:lang="en">bioRxiv</source>. <year>2018</year>:<fpage>387548</fpage>.</mixed-citation></ref><ref id="jcmm14624-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="jcmm14624-cit-0079">
+<string-name>
+<surname>Runtuwene</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name>
+<surname>Tuda</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mongan</surname>
+<given-names>AE</given-names>
+</string-name>, et al. <article-title>Nanopore sequencing of drug&#x02010;resistance&#x02010;associated genes in malaria parasites, <italic>Plasmodium falciparum</italic>
+</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>8286</fpage>.<pub-id pub-id-type="pmid">29844487</pub-id></mixed-citation></ref></ref-list></back></article>

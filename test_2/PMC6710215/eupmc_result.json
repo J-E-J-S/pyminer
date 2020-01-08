@@ -1,0 +1,436 @@
+{
+  "id": [
+    "31422478"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31422478"
+  ],
+  "pmcid": [
+    "PMC6710215"
+  ],
+  "doi": [
+    "10.1007/s00439-019-02055-z"
+  ],
+  "title": [
+    "Looking to the future of zebrafish as a model to understand the genetic basis of eye disease."
+  ],
+  "authorString": [
+    "Cavodeassi F, Wilson SW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cavodeassi F"
+          ],
+          "firstName": [
+            "Florencia"
+          ],
+          "lastName": [
+            "Cavodeassi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4609-6258",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Medical and Biomedical Education, St. George's, University of London, Cranmer Terrace, London, SW17 0RE, UK. fcavodea@sgul.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson SW"
+          ],
+          "firstName": [
+            "Stephen W"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8557-5940",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cell and Developmental Biology, Biosciences, UCL, Gower St, London, WC1E 6BT, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4609-6258",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8557-5940",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8-9"
+      ],
+      "volume": [
+        "138"
+      ],
+      "journalIssueId": [
+        "2851727"
+      ],
+      "dateOfPublication": [
+        "2019 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Human genetics"
+          ],
+          "ISOAbbreviation": [
+            "Hum. Genet."
+          ],
+          "medlineAbbreviation": [
+            "Hum Genet"
+          ],
+          "NLMid": [
+            "7613873"
+          ],
+          "ISSN": [
+            "0340-6717"
+          ],
+          "ESSN": [
+            "1432-1203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "993-1000"
+  ],
+  "abstractText": [
+    "In this brief commentary, we provide some of our thoughts and opinions on the current and future use of zebrafish to model human eye disease, dissect pathological progression and advance in our understanding of the genetic bases of microphthalmia, andophthalmia and coloboma (MAC) in humans. We provide some background on eye formation in fish and conservation and divergence across vertebrates in this process, discuss different approaches for manipulating gene function and speculate on future research areas where we think research using fish may prove to be particularly effective."
+  ],
+  "affiliation": [
+    "Institute of Medical and Biomedical Education, St. George's, University of London, Cranmer Terrace, London, SW17 0RE, UK. fcavodea@sgul.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Zebrafish"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eye Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Coloboma"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Microphthalmos"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6710215?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6710215"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00439-019-02055-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-08-30"
+  ],
+  "dateOfCreation": [
+    "2019-08-19"
+  ],
+  "firstIndexDate": [
+    "2019-08-19"
+  ],
+  "fullTextReceivedDate": [
+    "2019-09-08"
+  ],
+  "dateOfRevision": [
+    "2019-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-08-17"
+  ],
+  "firstPublicationDate": [
+    "2019-08-17"
+  ]
+}

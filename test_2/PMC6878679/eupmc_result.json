@@ -1,0 +1,360 @@
+{
+  "id": [
+    "31771502"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31771502"
+  ],
+  "pmcid": [
+    "PMC6878679"
+  ],
+  "doi": [
+    "10.1186/s12864-019-6214-z"
+  ],
+  "title": [
+    "High-density linkage map construction and QTL analyses for fiber quality, yield and morphological traits using CottonSNP63K array in upland cotton (Gossypium hirsutum L.)."
+  ],
+  "authorString": [
+    "Zhang K, Kuraparthy V, Fang H, Zhu L, Sood S, Jones DC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang K"
+          ],
+          "firstName": [
+            "Kuang"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuraparthy V"
+          ],
+          "firstName": [
+            "Vasu"
+          ],
+          "lastName": [
+            "Kuraparthy"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA. vasu_kuraparthy@ncsu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu L"
+          ],
+          "firstName": [
+            "Linglong"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sood S"
+          ],
+          "firstName": [
+            "Shilpa"
+          ],
+          "lastName": [
+            "Sood"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones DC"
+          ],
+          "firstName": [
+            "Don C"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "DC"
+          ],
+          "affiliation": [
+            "Cotton Incorporated, 6399 Weston Parkway, Cary, NC, 27513, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2876241"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "889"
+  ],
+  "abstractText": [
+    "BACKGROUND:Improving fiber quality and yield are the primary research objectives in cotton breeding for enhancing the economic viability and sustainability of Upland cotton production. Identifying the quantitative trait loci (QTL) for fiber quality and yield traits using the high-density SNP-based genetic maps allows for bridging genomics with cotton breeding through marker assisted and genomic selection. In this study, a recombinant inbred line (RIL) population, derived from cross between two parental accessions, which represent broad allele diversity in Upland cotton, was used to construct high-density SNP-based linkage maps and to map the QTLs controlling important cotton traits. RESULTS:Molecular genetic mapping using RIL population produced a genetic map of 3129 SNPs, mapped at a density of 1.41 cM. Genetic maps of the individual chromosomes showed good collinearity with the sequence based physical map. A total of 106 QTLs were identified which included 59 QTLs for six fiber quality traits, 38 QTLs for four yield traits and 9 QTLs for two morphological traits. Sub-genome wide, 57 QTLs were mapped in A sub-genome and 49 were mapped in D sub-genome. More than 75% of the QTLs with favorable alleles were contributed by the parental accession NC05AZ06. Forty-six mapped QTLs each explained more than 10% of the phenotypic variation. Further, we identified 21 QTL clusters where 12 QTL clusters were mapped in the A sub-genome and 9 were mapped in the D sub-genome. Candidate gene analyses of the 11 stable QTL harboring genomic regions identified 19 putative genes which had functional role in cotton fiber development. CONCLUSION:We constructed a high-density genetic map of SNPs in Upland cotton. Collinearity between genetic and physical maps indicated no major structural changes in the genetic mapping populations. Most traits showed high broad-sense heritability. One hundred and six QTLs were identified for the fiber quality, yield and morphological traits. Majority of the QTLs with favorable alleles were contributed by improved parental accession. More than 70% of the mapped QTLs shared the similar map position with previously reported QTLs which suggest the genetic relatedness of Upland cotton germplasm. Identification of QTL clusters could explain the correlation among some fiber quality traits in cotton. Stable and major QTLs and QTL clusters of traits identified in the current study could be the targets for map-based cloning and marker assisted selection (MAS) in cotton breeding. The genomic region on D12 containing the major stable QTLs for micronaire, fiber strength and lint percentage could be potential targets for MAS and gene cloning of fiber quality traits in cotton."
+  ],
+  "affiliation": [
+    "Crop & Soil Sciences Department, North Carolina State University, Raleigh, NC, 27695, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Breeding",
+        "Linkage map",
+        "Upland cotton",
+        "Mapping",
+        "Quantitative trait locus (QTL)",
+        "Single Nucleotide Polymorphism (SNP)",
+        "Array",
+        "recombinant inbred lines (RILs)",
+        "Qtl Clusters",
+        "Fiber Quality And Yield"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-6214-z"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6878679"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6878679?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-28"
+  ],
+  "firstIndexDate": [
+    "2019-11-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-21"
+  ],
+  "firstPublicationDate": [
+    "2019-11-21"
+  ]
+}

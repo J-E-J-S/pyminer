@@ -1,0 +1,496 @@
+{
+  "id": [
+    "31664897"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31664897"
+  ],
+  "pmcid": [
+    "PMC6819470"
+  ],
+  "doi": [
+    "10.1186/s12870-019-2065-7"
+  ],
+  "title": [
+    "Functional analysis of GhCHS, GhANR and GhLAR in colored fiber formation of Gossypium hirsutum L."
+  ],
+  "authorString": [
+    "Gao J, Shen L, Yuan J, Zheng H, Su Q, Yang W, Zhang L, Nnaemeka VE, Sun J, Ke L, Sun Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gao J"
+          ],
+          "firstName": [
+            "Jianfang"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan J"
+          ],
+          "firstName": [
+            "Jingli"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hongli"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Su Q"
+          ],
+          "firstName": [
+            "Quansheng"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang W"
+          ],
+          "firstName": [
+            "Weiguang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liqing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Nnaemeka VE"
+          ],
+          "firstName": [
+            "Vitalis Ekene"
+          ],
+          "lastName": [
+            "Nnaemeka"
+          ],
+          "initials": [
+            "VE"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "College of Agriculture/The Key Laboratory of Oasis Eco-Agriculture, Shihezi University, Shihezi 832000, Xinjiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ke L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Ke"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China. keliping@zstu.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Y"
+          ],
+          "firstName": [
+            "Yuqiang"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9178-2487",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China. sunyuqiang@zstu.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9178-2487",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2869163"
+      ],
+      "dateOfPublication": [
+        "2019 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC plant biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Plant Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Plant Biol"
+          ],
+          "NLMid": [
+            "100967807"
+          ],
+          "ISSN": [
+            "1471-2229"
+          ],
+          "ESSN": [
+            "1471-2229"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "455"
+  ],
+  "abstractText": [
+    "BACKGROUND:The formation of natural colored fibers mainly results from the accumulation of different anthocyanidins and their derivatives in the fibers of Gossypium hirsutum L. Chalcone synthase (CHS) is the first committed enzyme of flavonoid biosynthesis, and anthocyanidins are transported into fiber cells after biosynthesis mainly by Anthocyanidin reductase (ANR) and Leucoanthocyanidin reductase (LAR) to present diverse colors with distinct stability. The biochemical and molecular mechanism of pigment formation in natural colored cotton fiber is not clear. RESULTS:The three key genes of GhCHS, GhANR and GhLAR were predominantly expressed in the developing fibers of colored cotton. In the GhCHSi, GhANRi and GhLARi transgenic cottons, the expression levels of GhCHS, GhANR and GhLAR significantly decreased in the developing cotton fiber, negatively correlated with the content of anthocyanidins and the color depth of cotton fiber. In colored cotton Zongxu1 (ZX1) and the GhCHSi, GhANRi and GhLARi transgenic lines of ZX1, HZ and ZH, the anthocyanidin contents of the leaves, cotton kernels, the mixture of fiber and seedcoat were all changed and positively correlated with the fiber color. CONCLUSION:The three genes of GhCHS, GhANR and GhLAR were predominantly expressed early in developing colored cotton fibers and identified to be a key genes of cotton fiber color formation. The expression levels of the three genes affected the anthocyanidin contents and fiber color depth. So the three genes played a crucial part in cotton fiber color formation and has important significant to improve natural colored cotton quality and create new colored cotton germplasm resources by genetic engineering."
+  ],
+  "affiliation": [
+    "Plant Genomics & Molecular Improvement of Colored Fiber Lab, Key Laboratory of Plant Secondary Metabolism and Regulation of Zhejiang Province, College of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou, 310016, Zhejiang, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018YFD0100401"
+          ],
+          "agency": [
+            "The National Key Research and Development Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31671738"
+          ],
+          "agency": [
+            "General Program of National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Anthocyanidin",
+        "Fiber Color",
+        "G. Hirsutum L.",
+        "Ghanr",
+        "Ghchs",
+        "Ghlar"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12870-019-2065-7"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819470"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6819470?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-10-31"
+  ],
+  "firstIndexDate": [
+    "2019-10-31"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-06"
+  ],
+  "dateOfRevision": [
+    "2019-11-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-10-29"
+  ],
+  "firstPublicationDate": [
+    "2019-10-29"
+  ]
+}

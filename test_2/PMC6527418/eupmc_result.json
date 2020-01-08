@@ -1,0 +1,1005 @@
+{
+  "id": [
+    "31119199"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31119199"
+  ],
+  "pmcid": [
+    "PMC6527418"
+  ],
+  "doi": [
+    "10.1038/s41746-019-0110-4"
+  ],
+  "title": [
+    "Semantic integration of clinical laboratory tests from electronic health records for deep phenotyping and biomarker discovery."
+  ],
+  "authorString": [
+    "Zhang XA, Yates A, Vasilevsky N, Gourdine JP, Callahan TJ, Carmody LC, Danis D, Joachimiak MP, Ravanmehr V, Pfaff ER, Champion J, Robasky K, Xu H, Fecho K, Walton NA, Zhu RL, Ramsdill J, Mungall CJ, Köhler S, Haendel MA, McDonald CJ, Vreeman DJ, Peden DB, Bennett TD, Feinstein JA, Martin B, Stefanski AL, Hunter LE, Chute CG, Robinson PN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang XA"
+          ],
+          "firstName": [
+            "Xingmin Aaron"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "XA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7284-3950",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yates A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Yates"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0664-7185",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vasilevsky N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Vasilevsky"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5208-3432",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gourdine JP"
+          ],
+          "firstName": [
+            "J P"
+          ],
+          "lastName": [
+            "Gourdine"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Callahan TJ"
+          ],
+          "firstName": [
+            "Tiffany J"
+          ],
+          "lastName": [
+            "Callahan"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8169-9049",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Program, Department of Pharmacology, University of Colorado Anschutz School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carmody LC"
+          ],
+          "firstName": [
+            "Leigh C"
+          ],
+          "lastName": [
+            "Carmody"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7941-2961",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Danis D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Danis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0900-3411",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Joachimiak MP"
+          ],
+          "firstName": [
+            "Marcin P"
+          ],
+          "lastName": [
+            "Joachimiak"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ravanmehr V"
+          ],
+          "firstName": [
+            "Vida"
+          ],
+          "lastName": [
+            "Ravanmehr"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pfaff ER"
+          ],
+          "firstName": [
+            "Emily R"
+          ],
+          "lastName": [
+            "Pfaff"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Champion J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Champion"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Robasky K"
+          ],
+          "firstName": [
+            "Kimberly"
+          ],
+          "lastName": [
+            "Robasky"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0090-8698",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Renaissance Computing Institute, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fecho K"
+          ],
+          "firstName": [
+            "Karamarie"
+          ],
+          "lastName": [
+            "Fecho"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6704-9306",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Renaissance Computing Institute, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Walton NA"
+          ],
+          "firstName": [
+            "Nephi A"
+          ],
+          "lastName": [
+            "Walton"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Genomic Medicine Institute, Geisinger Health System, Danville, PA 17822, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu RL"
+          ],
+          "firstName": [
+            "Richard L"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Institute for Clinical and Translational Research, Johns Hopkins University, Baltimore, MD 21202, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramsdill J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Ramsdill"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mungall CJ"
+          ],
+          "firstName": [
+            "Christopher J"
+          ],
+          "lastName": [
+            "Mungall"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Köhler S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Köhler"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5316-1399",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Charité Centrum für Therapieforschung, Charité - Universitätsmedizin Berlin Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin 10117, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Haendel MA"
+          ],
+          "firstName": [
+            "Melissa A"
+          ],
+          "lastName": [
+            "Haendel"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, OR 97239, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McDonald CJ"
+          ],
+          "firstName": [
+            "Clement J"
+          ],
+          "lastName": [
+            "McDonald"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Lister Hill National Center for Biomedical Communications, National Library of Medicine, National Institutes of Health, Bethesda, MD 20894, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vreeman DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Vreeman"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5119-6531",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, Indiana University School of Medicine, Indianapolis, IN 46202, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Peden DB"
+          ],
+          "firstName": [
+            "David B"
+          ],
+          "lastName": [
+            "Peden"
+          ],
+          "initials": [
+            "DB"
+          ],
+          "affiliation": [
+            "North Carolina Translational and Clinical Sciences Institute (NC TraCS), University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bennett TD"
+          ],
+          "firstName": [
+            "Tellen D"
+          ],
+          "lastName": [
+            "Bennett"
+          ],
+          "initials": [
+            "TD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1483-4236",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Section of Pediatric Critical Care, University of Colorado School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Feinstein JA"
+          ],
+          "firstName": [
+            "James A"
+          ],
+          "lastName": [
+            "Feinstein"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3074-8805",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Adult and Child Consortium for Health Outcomes Research and Delivery Science (ACCORDS), University of Colorado School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin B"
+          ],
+          "firstName": [
+            "Blake"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Section of Pediatric Critical Care, University of Colorado School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Stefanski AL"
+          ],
+          "firstName": [
+            "Adrianne L"
+          ],
+          "lastName": [
+            "Stefanski"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Computational Bioscience Program, Department of Pharmacology, University of Colorado Anschutz School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hunter LE"
+          ],
+          "firstName": [
+            "Lawrence E"
+          ],
+          "lastName": [
+            "Hunter"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1455-3370",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Computational Bioscience Program, Department of Pharmacology, University of Colorado Anschutz School of Medicine, Aurora, CO 80045, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chute CG"
+          ],
+          "firstName": [
+            "Christopher G"
+          ],
+          "lastName": [
+            "Chute"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5437-2545",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Clinical and Translational Research, Johns Hopkins University, Baltimore, MD 21202, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson PN"
+          ],
+          "firstName": [
+            "Peter N"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "PN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0736-9199",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5119-6531",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5208-3432",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0900-3411",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0090-8698",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5316-1399",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8169-9049",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6704-9306",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5437-2545",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0736-9199",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0664-7185",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7941-2961",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3074-8805",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1455-3370",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7284-3950",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1483-4236",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2819747"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NPJ Digital Medicine"
+          ],
+          "ISOAbbreviation": [
+            "NPJ Digit Med"
+          ],
+          "medlineAbbreviation": [
+            "NPJ Digit Med"
+          ],
+          "NLMid": [
+            "101731738"
+          ],
+          "ESSN": [
+            "2398-6352"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Electronic Health Record (EHR) systems typically define laboratory test results using the Laboratory Observation Identifier Names and Codes (LOINC) and can transmit them using Fast Healthcare Interoperability Resource (FHIR) standards. LOINC has not yet been semantically integrated with computational resources for phenotype analysis. Here, we provide a method for mapping LOINC-encoded laboratory test results transmitted in FHIR standards to Human Phenotype Ontology (HPO) terms. We annotated the medical implications of 2923 commonly used laboratory tests with HPO terms. Using these annotations, our software assesses laboratory test results and converts each result into an HPO term. We validated our approach with EHR data from 15,681 patients with respiratory complaints and identified known biomarkers for asthma. Finally, we provide a freely available SMART on FHIR application that can be used within EHR systems. Our approach allows readily available laboratory tests in EHR to be reused for deep phenotyping and exploits the hierarchical structure of HPO to integrate distinct tests that have comparable medical interpretations for association studies."
+  ],
+  "affiliation": [
+    "The Jackson Laboratory for Genomic Medicine, Farmington CT 06032, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UL1 TR002489"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K23 HD091295"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41746-019-0110-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6527418"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6527418?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR67302"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS1028600"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-24"
+  ],
+  "firstIndexDate": [
+    "2019-05-24"
+  ],
+  "fullTextReceivedDate": [
+    "2019-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-07-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-02"
+  ],
+  "firstPublicationDate": [
+    "2019-05-02"
+  ]
+}

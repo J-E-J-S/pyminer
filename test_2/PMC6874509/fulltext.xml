@@ -1,0 +1,394 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.2 20190208//EN" "JATS-archivearticle1-mathml3.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archivearticle1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Struct Dyn</journal-id><journal-id journal-id-type="iso-abbrev">Struct Dyn</journal-id><journal-id journal-id-type="coden">SDTYAE</journal-id><journal-title-group><journal-title>Structural Dynamics</journal-title></journal-title-group><issn pub-type="epub">2329-7778</issn><publisher><publisher-name>American Crystallographic Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6874509</article-id><article-id pub-id-type="doi">10.1063/1.5128672</article-id><article-id pub-id-type="publisher-id">1.5128672</article-id><article-id pub-id-type="publisher-manuscript">SDY19-AR-ACA2019-00112</article-id><article-categories><subj-group subj-group-type="heading"><subject>ARTICLES</subject><subj-group subj-group-type="heading"><subject>Experimental Methodologies</subject></subj-group></subj-group></article-categories><title-group><article-title>The Integrated Resource for Reproducibility in Macromolecular Crystallography: Experiences of the first four years</article-title><fn-group><fn fn-type="title-note"><p><bold>Note:</bold> This article is part of the Special Issue: Transactions from the 69th Annual Meeting of the American Crystallographic Association: Data Best Practices: Current State and Future Needs.</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8072-4919</contrib-id><name><surname>Grabowski</surname><given-names>Marek</given-names></name><xref ref-type="aff" rid="a1 a2">1,2</xref><xref ref-type="corresp" rid="cor1">a)</xref><email/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6511-7945</contrib-id><name><surname>Cymborowski</surname><given-names>Marcin</given-names></name><xref ref-type="aff" rid="a1 a2">1,2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8012-5791</contrib-id><name><surname>Porebski</surname><given-names>Przemyslaw J.</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9933-346X</contrib-id><name><surname>Osinski</surname><given-names>Tomasz</given-names></name><xref ref-type="aff" rid="a1">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3955-9242</contrib-id><name><surname>Shabalin</surname><given-names>Ivan G.</given-names></name><xref ref-type="aff" rid="a1 a2">1,2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5240-9789</contrib-id><name><surname>Cooper</surname><given-names>David R.</given-names></name><xref ref-type="aff" rid="a1 a2">1,2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7075-7090</contrib-id><name><surname>Minor</surname><given-names>Wladek</given-names></name><xref ref-type="aff" rid="a1 a2">1,2</xref><xref ref-type="corresp" rid="cor1">a)</xref><email/></contrib><aff id="a1">
+<label>1</label><institution>Department of Molecular Physiology and Biological Physics, University of Virginia</institution>, Charottesville, Virginia 22908, <country>USA</country></aff><aff id="a2">
+<label>2</label><institution>Center for Structural Genomics of Infectious Diseases (CSGID), University of Virginia</institution>, Charottesville, Virginia 22908, <country>USA</country></aff></contrib-group><author-notes><corresp id="cor1"><label>a)</label><bold>Authors to whom correspondence should be addressed:</bold><email>marek@iwonka.med.virginia.edu</email> and <email>wladek@iwonka.med.virginia.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>22</day><month>11</month><year>2019</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the epub date.--><volume>6</volume><issue>6</issue><elocation-id seq="1">064301</elocation-id><history><date date-type="received"><day>24</day><month>9</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; 2019 Author(s).</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>Author(s)</copyright-holder><license license-type="ccc"><license-p>2329-7778/2019/6(6)/064301/8</license-p></license><license license-type="open"><license-p>All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>It has been increasingly recognized that preservation and public accessibility of primary experimental data are cornerstones necessary for the reproducibility of empirical sciences. In the field of molecular crystallography, many journals now recommend that authors of manuscripts presenting a new crystal structure should deposit their primary experimental data (X-ray diffraction images) to one of the dedicated resources created in recent years. Here, we describe our experiences developing the Integrated Resource for Reproducibility in Molecular Crystallography (IRRMC) and describe several examples of a crucial role that diffraction data can play in improving previously determined protein structures. In its first four years, several hundred crystallographers have deposited data from over 5200 diffraction experiments performed at over 60 different synchrotron beamlines or home sources all over the world. In addition to improving the resource and curating submitted data, we have been building a pipeline for extraction or, in some cases, reconstruction of the metadata necessary for seamless automated processing. Preliminary analysis indicates that about 95% of the archived data can be automatically reprocessed. A high rate of reprocessing success shows the feasibility of using the automated metadata extraction and automated processing as a validation step for the deposition of raw diffraction images. The IRRMC is guided by the Findable, Accessible, Interoperable, and Reusable data management principles.</p></abstract><funding-group><award-group><funding-source><named-content content-type="funder_name">Yes, funding has been received from NIH</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000002</named-content></funding-source></award-group><award-group><funding-source><named-content content-type="funder_name">National Institute of General Medical Sciences</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000057</named-content></funding-source><award-id award-type="contract">GM117080</award-id></award-group><award-group><funding-source><named-content content-type="funder_name">National Institute of General Medical Sciences</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000057</named-content></funding-source><award-id award-type="contract">GM117325</award-id></award-group><award-group><funding-source><named-content content-type="funder_name">National Human Genome Research Institute</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000051</named-content></funding-source><award-id award-type="contract">HG008424</award-id></award-group><award-group><funding-source><named-content content-type="funder_name">National Institute of Allergy and Infectious Diseases</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000060</named-content></funding-source><award-id award-type="contract">HHSN272201700060C</award-id></award-group><award-group><funding-source><named-content content-type="funder_name">National Institute of Allergy and Infectious Diseases</named-content><named-content content-type="funder_identifier">https://doi.org/10.13039/100000060</named-content></funding-source><award-id award-type="contract">HHSN272201200026C</award-id></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><label>I.</label><title>INTRODUCTION</title><p>In recent years, serious concerns have emerged over the reproducibility of biomedical research, triggered by reports pointing out that a significant fraction of findings published in reputable scientific journals could not be replicated by other researchers.<xref rid="c1" ref-type="bibr"><sup>1,2</sup></xref> There may be multiple reasons why some biomedical experiments cannot be reproduced.<xref rid="c3" ref-type="bibr"><sup>3&#x02013;5</sup></xref> However, if the primary data (raw data and metadata) produced by the original experiment have not been preserved, investigation of the source of irreproducibility may be impossible. Similarly, if the primary data are available but not public, the ability to evaluate the reproducibility of an experiment will be limited. The increased awareness of the importance of the public accessibility of primary experimental data was a major factor that led science funding bodies and some journals to shift to open science policies encompassing open access not only to results but also to data.<xref rid="c3" ref-type="bibr"><sup>3</sup></xref> Currently, most scientists and science-funding agencies consider the preservation of primary data and opening them to public scrutiny as necessary conditions for enabling the reproducibility of experimental sciences. A consensus has emerged that access to scientific data should be governed by the Findable, Accessible, Interoperable, and Reusable (FAIR) principles.<xref rid="c4" ref-type="bibr"><sup>4</sup></xref></p><p>The process of macromolecular structure determination via X-ray crystallography generates a diverse set of experimental and computational data&#x02014;in short, &#x0201c;the science is in the data.&#x0201d;<xref rid="c5" ref-type="bibr"><sup>5</sup></xref> Usually, the experimental steps start with cloning, expressing, and purifying the protein, proceed through crystallization, and culminate in an X-ray diffraction experiment. Subsequent steps of structure determination are essentially a computational analysis of the collected data. While good records should be gathered at each step of the structure determination process, data collected in the X-ray diffraction experiment are of essential importance because they are the starting point of the computational process leading to the structural model. These models are often used as the starting point for structural dynamics studies, although time-resolved protein crystallography is its own source of multiple related structures.</p><p>Ideally, the diffraction data should have the best quality achievable under the circumstances, providing the highest resolution and completeness while minimizing radiation damage. In practice, these goals can sometimes be at odds with each other. Even at the most advanced beamlines, data collection should be approached thoughtfully and not regarded as a routine technical procedure.<xref rid="c6" ref-type="bibr"><sup>6</sup></xref> Typically, determining the structure for a single protein requires testing many crystals and results in multiple sets of diffraction images (ranging anywhere from one to thousands of datasets, corresponding to hundreds to millions of individual images). However, usually only a subset of these datasets will be used for determination of the final structural model. It is the preservation of these final subsets of primary data that allows for an independent reprocessing and independent validation and, in some cases, improvement of the resulting model. Our experience shows that asking the deposit (paper) authors or synchrotron facilities for diffraction data that led to the structure determination frequently failed, not because of their ill will but rather for the same reasons why looking for a bag full of jewelry lost in a large landfill is very rarely successful.</p><p>Crystallographers have long supported the preservation and sharing of primary diffraction data used in the process of crystallographic structure determination, but technical and financial considerations necessitated the compromise of limiting the data being archived to the highly processed and greatly reduced in size structure factor files. Although these files allow comparison of the model with an electron density map and will remain a vital part of structure deposition, it is important to remember that the data reduction process discards some information and is sometimes performed in a suboptimal way. To address the growing realization that primary crystallographic data should be preserved in their entirety, in 2011 the International Union of Crystallography (IUCr) set up the Diffraction Data Deposition Working Group,<xref rid="c7" ref-type="bibr"><sup>7</sup></xref> which summarized the reasons for archiving diffraction data and metadata and set forth recommendations for desirable practices.</p><p>In addition to enhancing the reproducibility of structural studies, the availability of diverse diffraction data offers several other benefits:<xref rid="c8" ref-type="bibr"><sup>8&#x02013;10</sup></xref> it helps to develop and test new crystallographic software by providing training sets for new programs, it helps safeguard data in cases of closures of individual labs and large-scale programs, and it allows for the continuous improvement of the quality of the structural models already deposited in the Protein Data Bank (PDB).<xref rid="c11" ref-type="bibr"><sup>11&#x02013;16</sup></xref> In 2019, leading crystallographic journals recommended in a joint editorial<xref rid="c17" ref-type="bibr"><sup>17&#x02013;20</sup></xref> that authors submitting manuscripts that report a new structural model or a new method should also provide a Digital Object Identifier (DOI) to the primary diffraction data used to obtain the model or to test the method. For papers describing new crystallographic methods, the editorial recommends making the data available to referees. Furthermore, the editorial postulates that deposition of diffraction data should become mandatory in the future. Implementation of these steps will provide an impulse to &#x0201c;maintain crystallography at the forefront of the effort for enhancing transparency and reproducibility of scientific results.&#x0201d;<xref rid="c17" ref-type="bibr"><sup>17&#x02013;20</sup></xref></p><p>Until recently, researchers who wanted to share their diffraction data had very limited possibilities&#x02014;there were no public resources that could accommodate and share large amounts of diffraction data. Following in the footsteps of pioneering initiatives such as MyTARDIS at the Australian Synchrotron<xref rid="c21" ref-type="bibr"><sup>21</sup></xref> and the raw data collection at the University of Utrecht,<xref rid="c22" ref-type="bibr"><sup>22</sup></xref> two large-scale resources dedicated to archiving and sharing primary crystallography data came on-line in 2015: SBGRID<xref rid="c20" ref-type="bibr"><sup>20</sup></xref> and Integrated Resource for Reproducibility in Molecular Crystallography (IRRMC).<xref rid="c23" ref-type="bibr"><sup>23</sup></xref> In addition, several general-purpose repositories for scientific data, such as Zenodo<xref rid="c24" ref-type="bibr"><sup>24</sup></xref> and Figshare,<xref rid="c25" ref-type="bibr"><sup>25</sup></xref> have also gathered some diffraction data. As of August 2019, the IRRMC contained over 8500 datasets from 5200+ diffraction experiments associated with 3800+ individual structures, while SBGRID gathered 525 datasets from 460 structures. This paper describes our experiences in developing and operating the IRRMC and our preliminary analysis of image reprocessing and structure redetermination.</p></sec><sec id="s2"><label>II.</label><title>DATA ACQUISITION AND ORGANIZATION</title><p>While the IRRMC officially started in 2015, its origins reach to the archive of diffraction images gathered throughout the last 20+ years by crystallographers in Minor Lab at the University of Virginia. The archive contained all the diffraction datasets collected by the lab and was organized in a system of computer directories according to projects, collection dates, and beamlines where data were collected. It was stored on a shared network drive, accessible to all researchers in the lab and to some collaborators. The archive was subsequently extended by diffraction images gathered in the course of the activities of several structural genomics (SG) programs, in which Minor Lab oversaw data management.</p><p>The IRRMC took shape as a public, scalable, searchable repository of data from protein diffraction experiments used to determine protein structures in the PDB in the summer of 2015, thanks in part to funding from the BD2K (Big Data to Knowledge) program of the National Institute of Health. At first, most of the contributed datasets came from large-scale projects: CSGID, SSGCID, JCSG, MCSG, and SGC. More recently, an increasing number of contributions come from individual research laboratories.</p><p>Data submitted to IRRMC are organized by projects that are composed of related data that can be processed together. A project corresponds to an individual diffraction experiment&#x02014;usually, but not exclusively an experiment to determine a macromolecular structure. Projects may contain multiple datasets; e.g., multiwavelength anomalous diffraction (MAD) experiments typically have a separate dataset collected for each wavelength. Operationally, we consider as a separate dataset any series of 20 or more consecutive diffraction images (frames) occurring within the data for a project. In the data amassed by the IRRMC, the number of frames per dataset ranges from 20 to 14&#x02009;400; the average is 438. The number of datasets per project ranges from 1 to 12.</p><p>Most of the IRRMC projects are associated with X-ray structures deposited in the PDB. However, some of the projects represent beamline calibration data or &#x0201c;synthetic&#x0201d; simulated data generated to illustrate challenges of combining multiple-crystal experiments.<xref rid="c26" ref-type="bibr"><sup>26</sup></xref> Some projects correspond to data from multiple-crystal, multiple-ligand experiments using the Pan-Dataset Density Analysis (PanDDA) approach.<xref rid="c27" ref-type="bibr"><sup>27</sup></xref> As of July 2019, 55 different synchrotron stations (beamlines) from 16 synchrotron facilities were represented (see <xref ref-type="fig" rid="f1">Fig. 1</xref>).</p><fig fig-type="figure" id="f1" orientation="portrait" position="float"><label>FIG. 1.</label><caption><p>Synchrotron beamlines with the highest number of structures represented in IRRMC.</p></caption><graphic xlink:href="SDTYAE-000006-064301_1-g001"/></fig></sec><sec id="s3"><label>III.</label><title>IRRMC FROM THE USERS' PERSPECTIVE</title><p>Since its inception, IRRMC has strived to make the usage of the resource as simple and painless as possible. Most of the features, such as browsing, searching, and downloading, do not require registration. Data downloaded from the IRRMC may be freely used under the Creative Commons license CC0 (Public Domain Dedication Waiver).</p><p>Data submission does require using a registered account, but registration is instantaneous and requires only basic data (name, email address, and affiliation) and passing a captcha test (to prevent robots from creating accounts). An alternative method is to log in using ORCID credentials, which is facilitated via ORCID's website. Signing in through ORCID automatically creates a user account on IIRMC associated with the ORCID id. This will be distinct from an account created manually through the site.</p><p>The IRRMC interface provides several ways to access diffraction data. Recently published datasets appear at the bottom of the home page to keep frequent users up to date. At the top of the page, there is a universal search box that searches various parameters, keywords, or combinations of these. The most straightforward search is to look for the data associated with a particular PDB deposit, by simply searching for the PDB id. A variety of other text searches are available, including the project name, the PDB title, the DOI, the protein name, the structure's authors' names, structural genomics centers, beamlines, SG selection justification, synchrotron, and detector. Tags can be added to projects, and these tags can be used as search terms. For example, the tag &#x0201c;workshop&#x0201d; has been added to six datasets that are often used for demonstrations. The resolution, R, and Rfree of the projects can also be used as search terms using the comparison operators &#x0201c;=,&#x0201d; &#x0201c;&#x0003c;,&#x0201d; and &#x0201c;&#x0003e;.&#x0201d; For example, the search phrase &#x0201c;resolution &#x0003c; 1.75&#x0201d; currently returns 1104 results. Searches can be combined using the Boolean operators &#x0201c;AND,&#x0201d; &#x0201c;OR,&#x0201d; and &#x0201c;NOT&#x0201d; (in all caps) and grouped with parentheses. Spaces in text queries are assumed to be AND.</p><p>When a search is performed, the results are presented along with two graphs that compare the search results to all data in the IRRMC. One graph is a histogram showing the distribution of structures in resolution bins, and the other graph is a scatterplot of Rfree vs resolution. For both graphs, the data for the search results are red and the results for other data in IIRMC are in blue. The results are presented with the projects names and any tags that have been associated with the dataset contained within a light gray box. Clicking within the box will expand it to reveal additional information, including a thumbnail of the first image, a thumbnail of the structure (if one exists), as well as the structure's first author, the resolution, and the R values. A link on the right will display more detailed information about the dataset. The download link displays the size of the dataset and will open a system dialog to download the BZIP2 compressed file containing the data. Links to the deposit in the Research Collaboratory for Structural Bioinformatics (RCSB) PDB website and to the DOI information at Data Cite are also provided.</p><p>The dataset's detail page includes more information about the structure, including authors and unit cell dimensions. Projects can have more than one dataset associated with them, and the information about each dataset includes the number of frames, the crystal to detector distance, the oscillation width of each frame, X-ray wavelength, and collection locations.</p><p>Information about datasets is also accessible from PDB websites. The link on the RCSB's PDB page can be found in the &#x0201c;Experimental Data and Validation&#x0201d; section of the structure summary (the main) page of a structure (as a link to the DOI). On the PDBe site, the link is found in the &#x0201c;Experimental raw data&#x0201d; box (with a link, number of datasets, and total size).</p><p>The data submission process is straightforward. Files for submission can be dragged into the upload area on the page or selected using a system dialog box that will open if you click in the upload area. Files should be tarred and compressed using the bzip2 or gzip format. The &#x0201c;Submit Data&#x0201d; button will take you to a page that presents three categories of submission. The &#x0201c;Structural Genomics&#x0201d; and &#x0201c;PDB&#x0201d; categories are for data associated with PDB deposits and will link the IRRMC projects to the appropriate PDB entry. The title and author information for the datasets will be taken from the PDB entry. The main difference between these two categories is that structural genomics files should include the target id as a part of the file's name. The &#x0201c;Other&#x0201d; category is for files that are not directly associated with a PDB entry. These can be unsolved datasets, calibration data, or any other images that should be preserved. By uploading data to the IRRMC, the user grants the resource the right to archive, annotate, and curate the data and to make it available for download by the public. The user also acknowledges that the usage of the data will be governed by the Creative Commons license CC0.</p><p>Once data have been uploaded, they will appear in the user's profile page, along with some pertinent information such as the deposited filename, dataset size, and the assigned DOI. Collection details and other metadata will be imported from the PDB if available; thumbnail and structure image will be generated automatically. Contributors of datasets from the &#x0201c;Other&#x0201d; category need to supply some of the information that is usually extracted from the PDB, such as the project name and authorship.</p><p>Data submitted are not instantaneously available on the website because a certain amount of manual processing and validation is required. Images associated with PDB structures that have not been released will not be publicly available until the PDB deposit is released (unless the user notifies us otherwise). Accommodations can be made for users who would like to submit a large number of datasets through a protocol other than the website.</p></sec><sec id="s4"><label>IV.</label><title>VALIDATION OF DATA AND METADATA</title><p>Validation of the data, metadata, and relations between the submitted datasets and PDB deposits is crucial to maintain the integrity of the IRRMC data. One of the validation procedures is to reprocess the diffraction data &#x0201c;de novo&#x0201d; and compare the results against the associated PDB model and metadata. This procedure ensures that the correct dataset was submitted and is linked with the proper PDB deposit. The reprocessing of diffraction images requires limited, but accurate metadata from three categories: (A) image file format, detector size and potential binning, and compression schema are necessary to read the data; (B) detector pixel size, detector orientation and the origin, and beam position are essential to properly index reflections, and (C) goniostat geometry and rotation axes relative to the detector and relative oscillation angles are necessary to meaningfully integrate and scale the data. In most cases, the metadata from category A can be automatically inferred from the image files, even if these metadata are not explicitly or accurately stored in the header (except compression schemas). The metadata from categories B and C are detector and beamline/source specific and in the case of beam position can significantly vary over time.<xref rid="c23" ref-type="bibr"><sup>23,28</sup></xref> This information is usually stored together with the diffraction images at the time when they are produced. In practice, the format, content, and accuracy of these metadata are subject to frequent changes and are often not documented. The correctness of this information is critical for data processing; however, we have encountered many errors, especially in older datasets.</p><p>Because of the limited number of synchrotron beamlines where macromolecular diffraction experiments are performed, it is feasible to create a database of the time-dependent basic metadata related to the diffraction experiments originating from a specific beamline: detector type, detector orientation, and goniostat configuration. For some beamlines, the beam position stored in the headers of the diffraction images is imprecise, wrong, or stored using different conventions. To account for such cases, we have created a database of the historical beam positions collected from information published by beamlines, recovered from the previous experiments in our laboratory or based on reference datasets from these beamlines that were processed manually. Moreover, we have observed the detector serial number present in the diffraction image header is a more reliable way to identify the beamline used for a dataset than the information contained in a PDB deposit. This has the added benefit that the datasets can be processed even without relying on the associated PDB deposition. Even at this point, we have discovered several discrepancies indicating that the deposited data were not the original data used for structure determination of the particular deposit. The basic metadata validation is prerequisite for automated processing of the datasets.</p><p>We have created a pipeline for automatic reprocessing of diffraction data using the automatic mode of the HKL-3000 structure determination suite.<xref rid="c29" ref-type="bibr"><sup>29</sup></xref> For testing purposes, the pipeline was run on 3584 IRRMC projects with structures that were released by the PDB (see <xref rid="t1" ref-type="table">Table I</xref>). Of these, 1072 were originally solved by MAD, 737 by single-wavelength anomalous diffraction (SAD), 1694 by molecular replacement (MR), and 81 by a combination of these methods (e.g., MR/SAD) or another method, e.g., multiple isomorphous replacement (MIR).</p><table-wrap id="t1" orientation="portrait" position="float"><label>TABLE I.</label><caption><p>Summary of automatic reprocessing and structure redetermination.</p></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1"/><th align="center" colspan="1" rowspan="1">MAD</th><th align="center" colspan="1" rowspan="1">SAD</th><th align="center" colspan="1" rowspan="1">MR</th><th align="center" colspan="1" rowspan="1">Other</th><th align="center" colspan="1" rowspan="1">Total</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">Attempted reprocessing</td><td colspan="1" rowspan="1">1072</td><td colspan="1" rowspan="1">737</td><td colspan="1" rowspan="1">1694</td><td colspan="1" rowspan="1">83</td><td colspan="1" rowspan="1">3584</td></tr><tr><td colspan="1" rowspan="1">Successfully reprocessed</td><td colspan="1" rowspan="1">1037</td><td colspan="1" rowspan="1">701</td><td colspan="1" rowspan="1">1592</td><td colspan="1" rowspan="1">74</td><td colspan="1" rowspan="1">3404</td></tr><tr><td colspan="1" rowspan="1">Same space group and cell as in PDB</td><td colspan="1" rowspan="1">942</td><td colspan="1" rowspan="1">596</td><td colspan="1" rowspan="1">1291</td><td colspan="1" rowspan="1">57</td><td colspan="1" rowspan="1">2886</td></tr><tr><td colspan="1" rowspan="1">Same space group and cell, same or better resolution as in PDB</td><td colspan="1" rowspan="1">503</td><td colspan="1" rowspan="1">282</td><td colspan="1" rowspan="1">637</td><td colspan="1" rowspan="1">25</td><td colspan="1" rowspan="1">1447</td></tr><tr><td colspan="1" rowspan="1">Successful automatic phasing by SAD</td><td colspan="1" rowspan="1">730</td><td colspan="1" rowspan="1">505</td><td colspan="1" rowspan="1">&#x02026;</td><td colspan="1" rowspan="1">&#x02026;</td><td colspan="1" rowspan="1">1235</td></tr></tbody></table></table-wrap><p>The pipeline was run iteratively&#x02014;projects that failed during one iteration were grouped by beamline and time of the experiment and analyzed. If the processing failure resulted from missing or incorrect metadata, then the metadata were corrected. In about 5% of cases, automatic processing could not proceed due to various problems with data and/or metadata that we were not able to remediate&#x02014;e.g., some part of the data was missing, missing calibration files for some old detectors, etc. For the other 95% (3404 projects), automatic processing was successful, i.e., proceeded through indexing, integration, and scaling without abnormalities such as unreasonably small unit cell dimensions, unrealistic mosaicity, or abnormally high R-merge/R-meas/R-pim. For 81% of the cases (2886 projects), automatic processing resulted in the same space group and cell dimensions as in the original model in PDB. The resolution of the reprocessed data (as determined by I/sigma&#x02009;=&#x02009;2.0 in the highest resolution shell) was generally close to the resolution reported in the original model in the PDB (see <xref ref-type="fig" rid="f2">Figs. 2</xref> and <xref ref-type="fig" rid="f3">3</xref>). For about half of the automatically reprocessed projects (1447 cases), the processing yielded the same or better resolution as the resolution in the original PDB deposit, with an average improvement of 0.1 &#x000c5;.</p><fig fig-type="figure" id="f2" orientation="portrait" position="float"><label>FIG. 2.</label><caption><p>Resolution achieved by automated reprocessing of data vs the resolution in the original PDB deposit for structures determined by SAD.</p></caption><graphic xlink:href="SDTYAE-000006-064301_1-g002"/></fig><fig fig-type="figure" id="f3" orientation="portrait" position="float"><label>FIG. 3.</label><caption><p>Resolution achieved by automated reprocessing of data vs the resolution in the original PDB deposit for structures determined by MAD.</p></caption><graphic xlink:href="SDTYAE-000006-064301_1-g003"/></fig><p>For projects originally solved by MAD or SAD, we used HKL-3000 in auto mode to perform automatic structure redetermination (without rerefinement). For the projects originally solved by SAD, this approach succeeded in 505 out of 701 cases (72.0%); it failed in a number of cases with low completeness or where data were twinned. For projects originally determined by MAD, we conducted a computational experiment to examine the feasibility of solving the structure by SAD using the data collected at the wavelength with the largest anomalous signal. Out of 995 MAD projects, this approach succeeded in solving 730 (73.4%); most of the failures could be attributed to insufficient completeness of the selected dataset. SAD structure solution for structures originally determined by MAD also failed for some projects with a high number of molecules when the number of copies in the asymmetric unit was off, resulting in an incorrect number of peaks for peak search.</p></sec><sec id="s5"><label>V.</label><title>USAGE OF DIFFRACTION DATA FROM PUBLIC REPOSITORIES IN IMPROVING PREVIOUSLY DETERMINED PROTEIN STRUCTURES: CASE STUDIES</title><p>In our work on various projects within the last several years, we have encountered multiple PDB entries with significant problems in them. Together with collaborators from other labs, we have rerefined some of these structures following recently published state-of-the art guidelines.<xref rid="c30" ref-type="bibr"><sup>30</sup></xref> We have always tried contacting the original authors to discuss introduced changes and, if an agreement was reached, deposited the corrected structures in the PDB to replace the original entries as joint deposits with the original authors. In multiple cases, these contacts resulted in further improvement of the structures via very productive collaboration.<xref rid="c11" ref-type="bibr"><sup>11,31,32</sup></xref> When working on these structures, we have always requested the original diffraction images, which, if available, often provided significant advantages in structure analysis and reinterpretation. These improvements were due to improvement of data quality and resolution by processing with updated software,<xref rid="c29" ref-type="bibr"><sup>29</sup></xref> the exclusion of bad images (e.g., due to severe radiation damage), or the extraction of the anomalous signal, which can be extremely useful for the accurate identification and modeling of transition metals, halogens and halogen-containing ligands, and even potassium and calcium ions and sulfur- and phosphorous-containing ligands.<xref rid="c33" ref-type="bibr"><sup>33,34</sup></xref> Unfortunately, more often than not it was impossible to obtain the images as described in the examples below. In addition, we have participated in or heard about several anecdotal stories in which a collaborator or an acquaintance could not locate the original images that were needed, for example, for an update to a PDB deposit requested by a reviewer of a journal to which the respective structural paper was submitted. Reasons for inability to recover images included a hard drive failure, the responsible person leaving the lab, and even the images not being timely retrieved from the synchrotron beamline where they were collected.</p><p>In our recently published paper,<xref rid="c11" ref-type="bibr"><sup>11</sup></xref> we rerefined 10 structures of metallo-&#x003b2;-lactamases deposited to the PDB previously by other groups. Rerefinement of these structures following our published guidelines<xref rid="c30" ref-type="bibr"><sup>30</sup></xref> resulted in various improvements of maps and models. Unfortunately, the diffraction images were obtained only for two of the 10 structures. One of them, 4hky, was solved as a part of structural genomics effort, and the images were accordingly stored at the IRRMC. The reprocessing of these images and subsequent rerefinement resulted in an extension of resolution limit and a drop of Rfree by 4.3%. The improved maps did not show support for the originally modeled ligand, which was substituted with an unknown ligand (UNL). In the second case, 3m8t, the diffraction images were not publicly available, but upon our request, the original depositor uploaded the images for this entry to the IRRMC. The images were reprocessed, and the resolution limit was extended from 1.33&#x02009;&#x000c5; to 1.20&#x02009;&#x000c5; by including the areas in the corners of the detector. As a result, the total number of unique reflections has increased by 21%. Importantly, the dataset was reprocessed in the anomalous mode, and the resulting anomalous maps were used to locate the zinc ions in the model, resulting in the addition of three noncatalytic zinc ions. Overall, the model was significantly improved.</p><p>For the other 8 of 10 rerefined structures, recovering the datasets proved to be impossible. Reprocessing original images might have resulted in significantly improved quality of the maps, as I/sigma in the last shell is as high as 19 for some of these entries. For example, a PDB entry 4nq7, which was deposited in the PDB in 2013, did not have sufficient evidence for placing a bound inhibitor in a proposed location, even though its presence at a low occupancy could not have been excluded after the consideration of POLDER maps.<xref rid="c35" ref-type="bibr"><sup>35</sup></xref> Data reprocessing could have improved the maps, potentially resulting in a more confident interpretation in this or that way. In addition, the entry lacked crucial data processing statistics with multiple NULL entries. Unfortunately, neither the original diffraction images nor the data processing log files could be located. Therefore, the ligand was replaced with an unknown atom (UNX), and the structure was redeposited with the same limited scaling statistics as the original one. These examples show how even recently deposited structures may lack crucial experimental data and metadata.</p><p>Two other examples from the same paper,<xref rid="c11" ref-type="bibr"><sup>11</sup></xref> PDB entries 1jt1 and 1k07, were deposited much earlier&#x02014;in 2001. These structures were dramatically improved by the rerefinement (e.g., a drop in Rfree by 3.5 and 4.0%), which can be mostly attributed to the dramatic improvement of the refinement, model-correction, and structure-validation software since the original structures were deposited almost two decades ago.<xref rid="c30" ref-type="bibr"><sup>30</sup></xref> For one of the structures (1jt1), the rerefinement clearly showed that there is no evidence from the experimental data for the placement of the ligand near the active site as in the original deposit. Despite these improvements, the electron densities in the active sites of both structures were not conclusively interpretable, and it was concluded that a set of unknown atoms is the safest interpretation for both structures. Data reprocessing might have resulted in better maps, e.g., due to potential extension of the resolution as I/sigma in the last resolution shells for these two structures was equal to 8.4 (1jt1) and 19 (1k07) and/or due to better processing with the improved software. The authors of the original deposits did preserve the magnetic cassettes with diffraction images. Unfortunately, no feasible way of restoring images from these cassettes was found. This story illustrates that even if a lab makes the best effort to preserve the original data, a public repository seems to be a much more reliable and useful resource.</p><p>When conducting an overview of GHRA and GHRB crystal structures in the closed conformation with a ligand bound in the active site,<xref rid="c36" ref-type="bibr"><sup>36</sup></xref> we have encountered a GHRB protein structure with an incorrectly identified ligand in the active site (5aow). The rerefinement with the deposited structure factors clearly revealed the identity of the ligand, which happened to be malonate that was used at 1.7 M concentration in the crystallization solution. However, data reprocessing could have further improved the structure. Unfortunately, the authors of the structure did not locate the original images, even though the original structure was deposited recently (2015).</p><p>Similarly, a software tool for automatic recognition of ligands in electron density by machine learning<xref rid="c32" ref-type="bibr"><sup>32</sup></xref> has revealed multiple structures with incorrectly modeled ligands. We have rerefined four sample structures, discussed the changes with the original authors, and deposited all four corrected structures in the PDB to replace the original entries. Data processing statistics indicate (e.g., I/sigma equal to 2.9 in the last shell) that some of these structures could have been further improved if the diffraction images were available.</p></sec><sec id="s6"><label>VI.</label><title>CONCLUDING REMARKS</title><p>The results presented here demonstrate that a great deal of the information necessary for the determination of a protein structure is preserved in the archived X-ray diffraction data. In most cases we encountered, the metadata missing from diffraction images can accurately be reconstructed, even for old depositions, by the manual annotation and comparison to diffraction experiments from the same beamline and similar time period. We are developing a mechanism to share the metadata essential for processing the images.</p><p>We are continuing to develop the pipeline for validation of the data and metadata by the automated processing of the submitted datasets. We plan to add full structure solution using Fourier synthesis and MR to check the agreement of the original PDB deposit with the structure factors generated after automated processing of raw diffraction data. We also plan to check correlation of the structure factors resulting from the reprocessing with the structure factors deposited to the PDB. However, full analysis and interpretation of the discrepancies between the reprocessed data and the original data deposited to the PDB would require additional information beyond diffraction data&#x02014;namely, what computational procedures have been applied by the authors of the original PDB deposit. We suggest that such detailed information on computational protocols used for structure determination and refinement in the course X-ray crystallography workflows should be preserved and shared via public repositories. Without this detailed computational protocol, it is not always possible to reproduce the exact results, as demonstrated by the differences between the resolutions presented here that can stem from a variety of reasons, such as different resolution-cutoff criteria, differences in software and parameters, or unlikely mismatch between deposited raw diffraction data and the deposit.</p><p>Even though the recent spectacular successes of cryogenic electron microscopy (cryo-EM) have led some scientists to question the future of X-ray crystallography as a widely used method of protein structure determination, in our opinion, X-ray crystallography will continue to play an important role in structural biology in the foreseeable future. In fact, we expect that the volume and complexity of X-ray diffraction data produced on protein crystallography beamlines and home sources throughout the world will continue to increase, requiring a corresponding scaling up in diffraction data repositories including the IRRMC.</p><p>All of the current diffraction data repositories, including the IRRMC, will need to be extended to efficiently handle data produced by X-ray crystallography techniques applicable in structural dynamics studies, such as X-ray free electron laser (XFEL) and serial crystallography. No repository currently accommodates datasets corresponding to &#x0201c;structural movies&#x0201d; in addition to sets of diffraction images. Datasets produced by experiments using time-resolved protein crystallography may put a significant strain on the resources required of a data archive. The resources required are related more toward the efforts necessary to expand the functionality rather than the purchase of new equipment, although the expansion of storage capacities may also be necessary.</p><p>The widespread use of data archives that support open access and efficient searches of data generated by various biomedical imaging technologies is envisioned as a potential driver of the &#x0201c;next revolution&#x0201d; in biomedicine.<xref rid="c37" ref-type="bibr"><sup>37,38</sup></xref> However, to be truly useful to scientists, data resources gathering images, such as the IRRMC, cannot operate in isolation, but rather form part of a larger &#x0201c;data ecosystem.&#x0201d; Development of tools that allow data discovery across multiple resources, such as the Datamed<xref rid="c39" ref-type="bibr"><sup>39</sup></xref>and the Google Dataset Search,<xref rid="c40" ref-type="bibr"><sup>40,41</sup></xref> will be essential for this ecosystem of open data resources to function properly.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>We thank all the people who have contributed data to IRRMC and provided us with helpful feedback. This work was supported by the National Institutes of Health BD2K program under Grant No. HG008424; the National Institute of General Medical Sciences under Grant Nos. GM117080 and GM117325; and the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services under Contract Nos. HHSN272201700060C and HHSN272201200026C.</p><p>One of the authors (W.M.) notes that he is a cofounder of HKL Research, Inc., and a member of the company board. Some of the structure determination software mentioned in this paper has been commercialized by HKL Research, Inc.</p><p>The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed.</p></ack><ref-list content-type="numbered"><ref id="c1"><label>1.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. G.</given-names>
+<surname>Begley</surname>
+</string-name> and 
+<string-name>
+<given-names>J. P. A.</given-names>
+<surname>Ioannidis</surname>
+</string-name>, &#x0201c;
+<article-title>Reproducibility in science: Improving the standard for basic and preclinical research</article-title>,&#x0201d; <source>Circ. Res.</source>
+<volume>116</volume>, <fpage>116</fpage>&#x02013;<lpage>126</lpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1161/CIRCRESAHA.114.303819</pub-id><pub-id pub-id-type="pmid">25552691</pub-id></mixed-citation></ref><ref id="c2"><label>2.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. G.</given-names>
+<surname>Begley</surname>
+</string-name> and 
+<string-name>
+<given-names>L. M.</given-names>
+<surname>Ellis</surname>
+</string-name>, &#x0201c;
+<article-title>Drug development: Raise standards for preclinical cancer research</article-title>,&#x0201d; <source>Nature</source>
+<volume>483</volume>, <fpage>531</fpage>&#x02013;<lpage>533</lpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1038/483531a</pub-id><pub-id pub-id-type="pmid">22460880</pub-id></mixed-citation></ref><ref id="c3"><label>3.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. S.</given-names>
+<surname>Collins</surname>
+</string-name> and 
+<string-name>
+<given-names>L. A.</given-names>
+<surname>Tabak</surname>
+</string-name>, &#x0201c;
+<article-title>Policy: NIH plans to enhance reproducibility</article-title>,&#x0201d; <source>Nature</source>
+<volume>505</volume>, <fpage>612</fpage>&#x02013;<lpage>613</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1038/505612a</pub-id><pub-id pub-id-type="pmid">24482835</pub-id></mixed-citation></ref><ref id="c4"><label>4.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. D.</given-names>
+<surname>Wilkinson</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>,&#x0201d; <source>Sci. Data</source>
+<volume>3</volume>, <fpage>160018</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id><pub-id pub-id-type="pmid">26978244</pub-id></mixed-citation></ref><ref id="c5"><label>5.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>McMahon</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Guss</surname>
+</string-name>, and 
+<string-name>
+<given-names>L. M. J.</given-names>
+<surname>Kroon-Batenburg</surname>
+</string-name>, &#x0201c;
+<article-title>The science is in the data</article-title>,&#x0201d; <source>IUCrJ</source>
+<volume>4</volume>, <fpage>714</fpage>&#x02013;<lpage>722</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1107/S2052252517013690</pub-id></mixed-citation></ref><ref id="c6"><label>6.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Dauter</surname>
+</string-name>, &#x0201c;
+<article-title>Collection of x-ray diffraction data from macromolecular crystals</article-title>,&#x0201d; <source>Methods Mol. Biol.</source>
+<volume>1607</volume>, <fpage>165</fpage>&#x02013;<lpage>184</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1007/978-1-4939-7000-1</pub-id><pub-id pub-id-type="pmid">28573573</pub-id></mixed-citation></ref><ref id="c7"><label>7.</label><mixed-citation publication-type="website">See <ext-link ext-link-type="uri" xlink:href="https://www.iucr.org/resources/data/dddwg">https://www.iucr.org/resources/data/dddwg</ext-link> for &#x0201c;
+<article-title>IUCr</article-title>.&#x0201d;</mixed-citation></ref><ref id="c8"><label>8.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G. J.</given-names>
+<surname>Kleywegt</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Velankar</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names>
+<surname>Patwardhan</surname>
+</string-name>, &#x0201c;
+<article-title>Structural biology data archiving-where we are and what lies ahead</article-title>,&#x0201d; <source>FEBS Lett.</source>
+<volume>592</volume>, <fpage>2153</fpage>&#x02013;<lpage>2167</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1002/1873-3468.13086</pub-id><pub-id pub-id-type="pmid">29749603</pub-id></mixed-citation></ref><ref id="c9"><label>9.</label><mixed-citation publication-type="book">
+<string-name>
+<given-names>M.</given-names>
+<surname>Grabowski</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Data sharing in structural biology: Advances and challenges</article-title>,&#x0201d; in <source><italic toggle="yes">Data Sharing: Recent Progress and Remaining Challenges-Computer Science, Technology and Applications</italic></source> (
+<publisher-name>Nova Science Publishers</publisher-name>, <year>2019</year>), pp. <fpage>29</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="c10"><label>10.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. M.</given-names>
+<surname>Berman</surname>
+</string-name>, 
+<string-name>
+<given-names>G. J.</given-names>
+<surname>Kleywegt</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Nakamura</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. L.</given-names>
+<surname>Markley</surname>
+</string-name>, &#x0201c;
+<article-title>The Protein Data Bank archive as an open data resource</article-title>,&#x0201d; <source>J. Comput. Aided Mol. Des.</source>
+<volume>28</volume>, <fpage>1009</fpage>&#x02013;<lpage>1014</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1007/s10822-014-9770-y</pub-id><pub-id pub-id-type="pmid">25062767</pub-id></mixed-citation></ref><ref id="c11"><label>11.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. E.</given-names>
+<surname>Raczynska</surname>
+</string-name>, 
+<string-name>
+<given-names>I. G.</given-names>
+<surname>Shabalin</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Minor</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Wlodawer</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Jaskolski</surname>
+</string-name>, &#x0201c;
+<article-title>A close look onto structural models and primary ligands of metallo-&#x003b2;-lactamases</article-title>,&#x0201d; <source>Drug Resist. Updates</source>
+<volume>40</volume>, <fpage>1</fpage>&#x02013;<lpage>12</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1016/j.drup.2018.08.001</pub-id></mixed-citation></ref><ref id="c12"><label>12.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Wlodawer</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Detect, correct, retract: How to manage incorrect structural models</article-title>,&#x0201d; <source>FEBS J.</source>
+<volume>285</volume>, <fpage>444</fpage>&#x02013;<lpage>466</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1111/febs.14320</pub-id><pub-id pub-id-type="pmid">29113027</pub-id></mixed-citation></ref><ref id="c13"><label>13.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. M. J.</given-names>
+<surname>Kroon-Batenburg</surname>
+</string-name>, 
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>McMahon</surname>
+</string-name>, and 
+<string-name>
+<given-names>T. C.</given-names>
+<surname>Terwilliger</surname>
+</string-name>, &#x0201c;
+<article-title>Raw diffraction data preservation and reuse: Overview, update on practicalities and metadata requirements</article-title>,&#x0201d; <source>IUCrJ</source>
+<volume>4</volume>, <fpage>87</fpage>&#x02013;<lpage>99</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1107/S2052252516018315</pub-id></mixed-citation></ref><ref id="c14"><label>14.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names>
+<surname>Rupp</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Wlodawer</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Minor</surname>
+</string-name>, 
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Jaskolski</surname>
+</string-name>, &#x0201c;
+<article-title>Correcting the record of structural publications requires joint effort of the community and journal editors</article-title>,&#x0201d; <source>FEBS J.</source>
+<volume>283</volume>, <fpage>4452</fpage>&#x02013;<lpage>4457</lpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1111/febs.13765</pub-id><pub-id pub-id-type="pmid">27229767</pub-id></mixed-citation></ref><ref id="c15"><label>15.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>I.</given-names>
+<surname>Shabalin</surname>
+</string-name>, 
+<string-name>
+<given-names>Z.</given-names>
+<surname>Dauter</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Jaskolski</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Minor</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names>
+<surname>Wlodawer</surname>
+</string-name>, &#x0201c;
+<article-title>Crystallography and chemistry should always go together: A cautionary tale of protein complexes with cisplatin and carboplatin</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>71</volume>, <fpage>1965</fpage>&#x02013;<lpage>1979</lpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1107/S139900471500629X</pub-id><pub-id pub-id-type="pmid">26327386</pub-id></mixed-citation></ref><ref id="c16"><label>16.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T. C.</given-names>
+<surname>Terwilliger</surname>
+</string-name> and 
+<string-name>
+<given-names>G.</given-names>
+<surname>Bricogne</surname>
+</string-name>, &#x0201c;
+<article-title>Continuous mutual improvement of macromolecular structure models in the PDB and of X-ray crystallographic software: The dual role of deposited experimental data</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>70</volume>, <fpage>2533</fpage>&#x02013;<lpage>2543</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1107/S1399004714017040</pub-id><pub-id pub-id-type="pmid">25286839</pub-id></mixed-citation></ref><ref id="c17"><label>17.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Findable Accessible Interoperable Re-usable (FAIR) diffraction data are coming to protein crystallography</article-title>,&#x0201d; <source>IUCrJ</source>
+<volume>6</volume>, <fpage>341</fpage>&#x02013;<lpage>343</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1107/S2052252519005918</pub-id></mixed-citation></ref><ref id="c18"><label>18.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Findable Accessible Interoperable Re-usable (FAIR) diffraction data are coming to protein crystallography</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>75</volume>, <fpage>455</fpage>&#x02013;<lpage>457</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1107/S2059798319004844</pub-id></mixed-citation></ref><ref id="c19"><label>19.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Findable Accessible Interoperable Re-usable (FAIR) diffraction data are coming to protein crystallography</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. F</source>
+<volume>75</volume>, <fpage>321</fpage>&#x02013;<lpage>323</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1107/S2053230X19005909</pub-id></mixed-citation></ref><ref id="c20"><label>20.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Findable Accessible Interoperable Re-usable (FAIR) diffraction data are coming to protein crystallography</article-title>,&#x0201d; <source>J. Appl. Crystallogr.</source>
+<volume>52</volume>, <fpage>495</fpage>&#x02013;<lpage>497</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1107/S1600576719005922</pub-id><pub-id pub-id-type="pmid">31236090</pub-id></mixed-citation></ref><ref id="c21"><label>21.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Androulakis</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Federated repositories of X-ray diffraction images</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>D64</volume>, <fpage>810</fpage>&#x02013;<lpage>814</lpage> (<year>2008</year>).<pub-id pub-id-type="doi">10.1107/S0907444908015540</pub-id><pub-id pub-id-type="pmid">18566516</pub-id></mixed-citation></ref><ref id="c22"><label>22.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. W. M.</given-names>
+<surname>Tanley</surname>
+</string-name>, 
+<string-name>
+<given-names>A. M. M.</given-names>
+<surname>Schreurs</surname>
+</string-name>, 
+<string-name>
+<given-names>J. R.</given-names>
+<surname>Helliwell</surname>
+</string-name>, and 
+<string-name>
+<given-names>L. M. J.</given-names>
+<surname>Kroon-Batenburg</surname>
+</string-name>, &#x0201c;
+<article-title>Experience with exchange and archiving of raw data: Comparison of data from two diffractometers and four software packages on a series of lysozyme crystals</article-title>,&#x0201d; <source>J. Appl. Crystallogr.</source>
+<volume>46</volume>, <fpage>108</fpage>&#x02013;<lpage>119</lpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1107/S0021889812044172</pub-id><pub-id pub-id-type="pmid">23396873</pub-id></mixed-citation></ref><ref id="c23"><label>23.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Grabowski</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>A public database of macromolecular diffraction experiments</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>72</volume>, <fpage>1181</fpage>&#x02013;<lpage>1193</lpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1107/S2059798316014716</pub-id></mixed-citation></ref><ref id="c24"><label>24.</label><mixed-citation publication-type="website">See <ext-link ext-link-type="uri" xlink:href="https://www.zenodo.org/">https://www.zenodo.org/</ext-link> for &#x0201c;
+<article-title>Zenodo-Research, Shared</article-title>.&#x0201d;</mixed-citation></ref><ref id="c25"><label>25.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Singh</surname>
+</string-name>, &#x0201c;
+<article-title>FigShare</article-title>,&#x0201d; <source>J. Pharmacol. Pharmacother.</source>
+<volume>2</volume>, <fpage>138</fpage>&#x02013;<lpage>139</lpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.4103/0976-500X.81919</pub-id><pub-id pub-id-type="pmid">21772785</pub-id></mixed-citation></ref><ref id="c26"><label>26.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Holton</surname>
+</string-name>, &#x0201c;
+<article-title>Challenge data set for macromolecular multi-microcrystallography</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>75</volume>, <fpage>113</fpage>&#x02013;<lpage>122</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1107/S2059798319001426</pub-id></mixed-citation></ref><ref id="c27"><label>27.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>N. M.</given-names>
+<surname>Pearce</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>A multi-crystal method for extracting obscured crystallographic states from conventionally uninterpretable electron density</article-title>,&#x0201d; <source>Nat. Commun.</source>
+<volume>8</volume>, <fpage>15123</fpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1038/ncomms15123</pub-id><pub-id pub-id-type="pmid">28436492</pub-id></mixed-citation></ref><ref id="c28"><label>28.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Parkhurst</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>dxtbx: the diffraction experiment toolbox</article-title>,&#x0201d; <source>J. Appl. Crystallogr.</source>
+<volume>19</volume>, <fpage>1459</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1107/S1600576714011996</pub-id></mixed-citation></ref><ref id="c29"><label>29.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names>
+<surname>Minor</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Cymborowski</surname>
+</string-name>, 
+<string-name>
+<given-names>Z.</given-names>
+<surname>Otwinowski</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chruszcz</surname>
+</string-name>, &#x0201c;
+<article-title>HKL-3000: The integration of data reduction and structure solution&#x02013;from diffraction images to an initial model in minutes</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>62</volume>, <fpage>859</fpage>&#x02013;<lpage>866</lpage> (<year>2006</year>).<pub-id pub-id-type="doi">10.1107/S0907444906019949</pub-id><pub-id pub-id-type="pmid">16855301</pub-id></mixed-citation></ref><ref id="c30"><label>30.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>I. G.</given-names>
+<surname>Shabalin</surname>
+</string-name>, 
+<string-name>
+<given-names>P. J.</given-names>
+<surname>Porebski</surname>
+</string-name>, and 
+<string-name>
+<given-names>W.</given-names>
+<surname>Minor</surname>
+</string-name>, &#x0201c;
+<article-title>Refining the macromolecular model-achieving the best agreement with the data from X-ray diffraction experiment</article-title>,&#x0201d; <source>Crystallogr. Rev.</source>
+<volume>24</volume>, <fpage>236</fpage>&#x02013;<lpage>262</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1080/0889311X.2018.1521805</pub-id><pub-id pub-id-type="pmid">30416256</pub-id></mixed-citation></ref><ref id="c31"><label>31.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. W. M.</given-names>
+<surname>Tanley</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Comment on Structural dynamics of cisplatin binding to histidine in a protein</article-title>,&#x0201d; <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>037101</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4948613</pub-id><pub-id pub-id-type="pmid">27226979</pub-id></mixed-citation></ref><ref id="c32"><label>32.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Kowiel</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Automatic recognition of ligands in electron density by machine learning</article-title>,&#x0201d; <source>Bioinformatics</source>
+<volume>35</volume>, <fpage>452</fpage>&#x02013;<lpage>461</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1093/bioinformatics/bty626</pub-id><pub-id pub-id-type="pmid">30016407</pub-id></mixed-citation></ref><ref id="c33"><label>33.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K. B.</given-names>
+<surname>Handing</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Characterizing metal-binding sites in proteins with X-ray crystallography</article-title>,&#x0201d; <source>Nat. Protoc.</source>
+<volume>13</volume>, <fpage>1062</fpage>&#x02013;<lpage>1090</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1038/nprot.2018.018</pub-id><pub-id pub-id-type="pmid">29674755</pub-id></mixed-citation></ref><ref id="c34"><label>34.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. P.</given-names>
+<surname>Hegde</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>The hidden treasure in your data: Phasing with unexpected weak anomalous scatterers from routine data sets</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. F</source>
+<volume>73</volume>, <fpage>184</fpage>&#x02013;<lpage>195</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1107/S2053230X17002680</pub-id></mixed-citation></ref><ref id="c35"><label>35.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Liebschner</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Polder maps: Improving OMIT maps by excluding bulk solvent</article-title>,&#x0201d; <source>Acta Crystallogr., Sect. D</source>
+<volume>73</volume>, <fpage>148</fpage>&#x02013;<lpage>157</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1107/S2059798316018210</pub-id></mixed-citation></ref><ref id="c36"><label>36.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kutner</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Structural, biochemical, and evolutionary characterizations of glyoxylate/hydroxypyruvate reductases show their division into two distinct subfamilies</article-title>,&#x0201d; <source>Biochemistry</source>
+<volume>57</volume>, <fpage>963</fpage>&#x02013;<lpage>977</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1021/acs.biochem.7b01137</pub-id><pub-id pub-id-type="pmid">29309127</pub-id></mixed-citation></ref><ref id="c37"><label>37.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Zaritsky</surname>
+</string-name>, &#x0201c;
+<article-title>Sharing and reusing cell image data</article-title>,&#x0201d; <source>Mol. Biol. Cell</source>
+<volume>11</volume>, <fpage>1274</fpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1091/mbc.E17-10-0606</pub-id></mixed-citation></ref><ref id="c38"><label>38.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ellenberg</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>A call for public archives for biological image data</article-title>,&#x0201d; <source>Nat. Methods</source>
+<volume>15</volume>, <fpage>849</fpage>&#x02013;<lpage>854</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1038/s41592-018-0195-8</pub-id><pub-id pub-id-type="pmid">30377375</pub-id></mixed-citation></ref><ref id="c39"><label>39.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>X.</given-names>
+<surname>Chen</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>DataMed-an open source discovery index for finding biomedical datasets</article-title>,&#x0201d; <source>J. Am. Med. Inf. Assoc.</source>
+<volume>25</volume>, <fpage>300</fpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1093/jamia/ocx121</pub-id></mixed-citation></ref><ref id="c40"><label>40.</label><mixed-citation publication-type="website">See <ext-link ext-link-type="uri" xlink:href="https://www.blog.google/products/search/making-it-easier-discover-datasets/">https://www.blog.google/products/search/making-it-easier-discover-datasets/</ext-link> for &#x0201c;
+<article-title>Making it Easier to Discover Datasets, Google</article-title>&#x0201d; (<year>2018</year>).</mixed-citation></ref><ref id="c41"><label>41.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Castelvecchi</surname>
+</string-name>, &#x0201c;
+<article-title>Google unveils search engine for open data</article-title>,&#x0201d; <source>Nature</source>
+<volume>561</volume>, <fpage>161</fpage>&#x02013;<lpage>162</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1038/d41586-018-06201-x</pub-id></mixed-citation></ref></ref-list></back></article>

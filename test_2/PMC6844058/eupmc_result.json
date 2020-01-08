@@ -1,0 +1,441 @@
+{
+  "id": [
+    "31711526"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31711526"
+  ],
+  "pmcid": [
+    "PMC6844058"
+  ],
+  "doi": [
+    "10.1186/s13072-019-0310-9"
+  ],
+  "title": [
+    "Virtual methylome dissection facilitated by single-cell analyses."
+  ],
+  "authorString": [
+    "Yin L, Luo Y, Xu X, Wen S, Wu X, Lu X, Xie H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yin L"
+          ],
+          "firstName": [
+            "Liduo"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo Y"
+          ],
+          "firstName": [
+            "Yanting"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Key Laboratory of Genomic and Precision Medicine, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu X"
+          ],
+          "firstName": [
+            "Xiguang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute at Virginia Tech, Virginia Tech, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen S"
+          ],
+          "firstName": [
+            "Shiyu"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Genomic and Precision Medicine, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xiaowei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Statistics, Virginia Tech, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu X"
+          ],
+          "firstName": [
+            "Xuemei"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6044-6002",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China. xuemeilu@mail.kiz.ac.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie H"
+          ],
+          "firstName": [
+            "Hehuang"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5739-1653",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Epigenomics and Computational Biology Lab, Fralin Life Sciences Institute at Virginia Tech, Virginia Tech, Blacksburg, VA, 24061, USA. davidxie@vt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6044-6002",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5739-1653",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2881193"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epigenetics & chromatin"
+          ],
+          "ISOAbbreviation": [
+            "Epigenetics Chromatin"
+          ],
+          "medlineAbbreviation": [
+            "Epigenetics Chromatin"
+          ],
+          "NLMid": [
+            "101471619"
+          ],
+          "ISSN": [
+            "1756-8935"
+          ],
+          "ESSN": [
+            "1756-8935"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "66"
+  ],
+  "abstractText": [
+    "BACKGROUND:Numerous cell types can be identified within plant tissues and animal organs, and the epigenetic modifications underlying such enormous cellular heterogeneity are just beginning to be understood. It remains a challenge to infer cellular composition using DNA methylomes generated for mixed cell populations. Here, we propose a semi-reference-free procedure to perform virtual methylome dissection using the nonnegative matrix factorization (NMF) algorithm. RESULTS:In the pipeline that we implemented to predict cell-subtype percentages, putative cell-type-specific methylated (pCSM) loci were first determined according to their DNA methylation patterns in bulk methylomes and clustered into groups based on their correlations in methylation profiles. A representative set of pCSM loci was then chosen to decompose target methylomes into multiple latent DNA methylation components (LMCs). To test the performance of this pipeline, we made use of single-cell brain methylomes to create synthetic methylomes of known cell composition. Compared with highly variable CpG sites, pCSM loci achieved a higher prediction accuracy in the virtual methylome dissection of synthetic methylomes. In addition, pCSM loci were shown to be good predictors of the cell type of the sorted brain cells. The software package developed in this study is available in the GitHub repository (https://github.com/Gavin-Yinld). CONCLUSIONS:We anticipate that the pipeline implemented in this study will be an innovative and valuable tool for the decoding of cellular heterogeneity."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "XDB13000000"
+          ],
+          "agency": [
+            "the Strategic Priority Research Program of the Chinese Academy of Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KFZD-SW-220-1"
+          ],
+          "agency": [
+            "the Key Research Program of the Chinese Academy of Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "DNA methylation",
+        "Nonnegative Matrix Factorization",
+        "Cellular Heterogeneity",
+        "Single-cell Methylome"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13072-019-0310-9"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6844058"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6844058?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-11-13"
+  ],
+  "firstIndexDate": [
+    "2019-11-13"
+  ],
+  "fullTextReceivedDate": [
+    "2019-11-17"
+  ],
+  "dateOfRevision": [
+    "2019-11-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-11"
+  ],
+  "firstPublicationDate": [
+    "2019-11-11"
+  ]
+}

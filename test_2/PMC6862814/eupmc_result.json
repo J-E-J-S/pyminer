@@ -1,0 +1,398 @@
+{
+  "id": [
+    "31744515"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31744515"
+  ],
+  "pmcid": [
+    "PMC6862814"
+  ],
+  "doi": [
+    "10.1186/s13059-019-1863-4"
+  ],
+  "title": [
+    "Systematic comparative analysis of single-nucleotide variant detection methods from single-cell RNA sequencing data."
+  ],
+  "authorString": [
+    "Liu F, Zhang Y, Zhang L, Li Z, Fang Q, Gao R, Zhang Z."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu F"
+          ],
+          "firstName": [
+            "Fenglin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Life Sciences and BIOPIC, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Life Sciences and BIOPIC, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Beijing Advanced Innovation Centre for Genomics, Peking-Tsinghua Centre for Life Sciences, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Ziyi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Life Sciences and BIOPIC, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Q"
+          ],
+          "firstName": [
+            "Qiao"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Beijing Advanced Innovation Centre for Genomics, Peking-Tsinghua Centre for Life Sciences, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao R"
+          ],
+          "firstName": [
+            "Ranran"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Life Sciences and BIOPIC, Peking University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zemin"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3789-6536",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Life Sciences and BIOPIC, Peking University, Beijing, China. zemin@pku.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3789-6536",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6972-5606",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2875650"
+      ],
+      "dateOfPublication": [
+        "2019 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Genome biology"
+          ],
+          "ISOAbbreviation": [
+            "Genome Biol."
+          ],
+          "medlineAbbreviation": [
+            "Genome Biol"
+          ],
+          "NLMid": [
+            "100960660"
+          ],
+          "ISSN": [
+            "1474-7596"
+          ],
+          "ESSN": [
+            "1474-760X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "242"
+  ],
+  "abstractText": [
+    "BACKGROUND:Systematic interrogation of single-nucleotide variants (SNVs) is one of the most promising approaches to delineate the cellular heterogeneity and phylogenetic relationships at the single-cell level. While SNV detection from abundant single-cell RNA sequencing (scRNA-seq) data is applicable and cost-effective in identifying expressed variants, inferring sub-clones, and deciphering genotype-phenotype linkages, there is a lack of computational methods specifically developed for SNV calling in scRNA-seq. Although variant callers for bulk RNA-seq have been sporadically used in scRNA-seq, the performances of different tools have not been assessed. RESULTS:Here, we perform a systematic comparison of seven tools including SAMtools, the GATK pipeline, CTAT, FreeBayes, MuTect2, Strelka2, and VarScan2, using both simulation and scRNA-seq datasets, and identify multiple elements influencing their performance. While the specificities are generally high, with sensitivities exceeding 90% for most tools when calling homozygous SNVs in high-confident coding regions with sufficient read depths, such sensitivities dramatically decrease when calling SNVs with low read depths, low variant allele frequencies, or in specific genomic contexts. SAMtools shows the highest sensitivity in most cases especially with low supporting reads, despite the relatively low specificity in introns or high-identity regions. Strelka2 shows consistently good performance when sufficient supporting reads are provided, while FreeBayes shows good performance in the cases of high variant allele frequencies. CONCLUSIONS:We recommend SAMtools, Strelka2, FreeBayes, or CTAT, depending on the specific conditions of usage. Our study provides the first benchmarking to evaluate the performances of different SNV detection tools for scRNA-seq data."
+  ],
+  "affiliation": [
+    "School of Life Sciences and BIOPIC, Peking University, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Somatic Mutations",
+        "Benchmarking",
+        "Single-cell Rna Sequencing",
+        "Single-nucleotide Variant Detection"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13059-019-1863-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6862814"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6862814?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-11-21"
+  ],
+  "firstIndexDate": [
+    "2019-11-21"
+  ],
+  "fullTextReceivedDate": [
+    "2019-12-01"
+  ],
+  "dateOfRevision": [
+    "2019-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-11-19"
+  ],
+  "firstPublicationDate": [
+    "2019-11-19"
+  ]
+}

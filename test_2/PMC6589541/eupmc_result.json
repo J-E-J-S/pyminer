@@ -1,0 +1,896 @@
+{
+  "id": [
+    "31245771"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31245771"
+  ],
+  "pmcid": [
+    "PMC6589541"
+  ],
+  "doi": [
+    "10.1002/pld3.133"
+  ],
+  "title": [
+    "Directions for research and training in plant omics: Big Questions and Big Data."
+  ],
+  "authorString": [
+    "Argueso CT, Assmann SM, Birnbaum KD, Chen S, Dinneny JR, Doherty CJ, Eveland AL, Friesner J, Greenlee VR, Law JA, Marshall-Colón A, Mason GA, O'Lexy R, Peck SC, Schmitz RJ, Song L, Stern D, Stern D, Varagona MJ, Walley JW, Williams CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Argueso CT"
+          ],
+          "firstName": [
+            "Cristiana T"
+          ],
+          "lastName": [
+            "Argueso"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7097-9304",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioagricultural Sciences and Pest Management Colorado State University Fort Collins Colorado."
+          ]
+        },
+        {
+          "fullName": [
+            "Assmann SM"
+          ],
+          "firstName": [
+            "Sarah M"
+          ],
+          "lastName": [
+            "Assmann"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4541-1594",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biology Department Penn State University University Park Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Birnbaum KD"
+          ],
+          "firstName": [
+            "Kenneth D"
+          ],
+          "lastName": [
+            "Birnbaum"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8423-6859",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology Center for Genomics and Systems Biology New York University New York New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen S"
+          ],
+          "firstName": [
+            "Sixue"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6690-7612",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology Genetics Institute Plant Molecular and Cellular Biology Program University of Florida Gainesville Florida."
+          ]
+        },
+        {
+          "fullName": [
+            "Dinneny JR"
+          ],
+          "firstName": [
+            "José R"
+          ],
+          "lastName": [
+            "Dinneny"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3998-724X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biology Stanford University Stanford California."
+          ]
+        },
+        {
+          "fullName": [
+            "Doherty CJ"
+          ],
+          "firstName": [
+            "Colleen J"
+          ],
+          "lastName": [
+            "Doherty"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1126-5592",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Structural Biochemistry North Carolina State University Raleigh North Carolina."
+          ]
+        },
+        {
+          "fullName": [
+            "Eveland AL"
+          ],
+          "firstName": [
+            "Andrea L"
+          ],
+          "lastName": [
+            "Eveland"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4825-1282",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Donald Danforth Plant Science Center St. Louis Missouri."
+          ]
+        },
+        {
+          "fullName": [
+            "Friesner J"
+          ],
+          "firstName": [
+            "Joanna"
+          ],
+          "lastName": [
+            "Friesner"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6799-7808",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "UC Davis Davis California."
+          ]
+        },
+        {
+          "fullName": [
+            "Greenlee VR"
+          ],
+          "firstName": [
+            "Vanessa R"
+          ],
+          "lastName": [
+            "Greenlee"
+          ],
+          "initials": [
+            "VR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5333-677X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "International Programs College of Agriculture and Life Sciences Cornell University Ithaca New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Law JA"
+          ],
+          "firstName": [
+            "Julie A"
+          ],
+          "lastName": [
+            "Law"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7472-7753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Plant Molecular and Cellular Biology Laboratory Salk Institute for Biological Studies La Jolla California."
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall-Colón A"
+          ],
+          "firstName": [
+            "Amy"
+          ],
+          "lastName": [
+            "Marshall-Colón"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6752-4982",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Biology University of Illinois Urbana-Champaign Urbana Illinois."
+          ]
+        },
+        {
+          "fullName": [
+            "Mason GA"
+          ],
+          "firstName": [
+            "Grace Alex"
+          ],
+          "lastName": [
+            "Mason"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4273-3793",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Biology and Genome Center UC Davis Davis California."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Lexy R"
+          ],
+          "firstName": [
+            "Ruby"
+          ],
+          "lastName": [
+            "O'Lexy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3387-0582",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Coriell Institute for Medical Research Camden New Jersey."
+          ]
+        },
+        {
+          "fullName": [
+            "Peck SC"
+          ],
+          "firstName": [
+            "Scott C"
+          ],
+          "lastName": [
+            "Peck"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9804-1366",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biochemistry Christopher S. Bond Life Sciences Center Interdisciplinary Plant Group University of Missouri Columbia Missouri."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmitz RJ"
+          ],
+          "firstName": [
+            "Robert J"
+          ],
+          "lastName": [
+            "Schmitz"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7538-6663",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Genetics University of Georgia Athens Georgia."
+          ]
+        },
+        {
+          "fullName": [
+            "Song L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5236-5077",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Botany The University of British Columbia Vancouver British Columbia Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Stern D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Stern"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0653-6602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boyce Thompson Institute Ithaca New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Stern D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Stern"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9278-7303",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Boyce Thompson Institute Ithaca New York."
+          ]
+        },
+        {
+          "fullName": [
+            "Varagona MJ"
+          ],
+          "firstName": [
+            "Marguerite J"
+          ],
+          "lastName": [
+            "Varagona"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2081-9676",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bayer US - Crop Science Division, Plant Biotechnology Chesterfield Missouri."
+          ]
+        },
+        {
+          "fullName": [
+            "Walley JW"
+          ],
+          "firstName": [
+            "Justin W"
+          ],
+          "lastName": [
+            "Walley"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7553-2237",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Plant Pathology and Microbiology Iowa State University Ames Iowa."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams CM"
+          ],
+          "firstName": [
+            "Cranos M"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0477-9707",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering North Carolina State University Raleigh North Carolina."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3998-724X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4825-1282",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0477-9707",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4541-1594",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1126-5592",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7538-6663",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5333-677X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9804-1366",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7553-2237",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8423-6859",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6690-7612",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6752-4982",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0653-6602",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7097-9304",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6799-7808",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3387-0582",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9278-7303",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2081-9676",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7472-7753",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4273-3793",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5236-5077",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2831479"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Plant Direct"
+          ],
+          "ISOAbbreviation": [
+            "Plant Direct"
+          ],
+          "medlineAbbreviation": [
+            "Plant Direct"
+          ],
+          "NLMid": [
+            "101716131"
+          ],
+          "ISSN": [
+            "2475-4455"
+          ],
+          "ESSN": [
+            "2475-4455"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e00133"
+  ],
+  "abstractText": [
+    "A key remit of the NSF-funded \"Arabidopsis Research and Training for the 21st Century\" (ART-21) Research Coordination Network has been to convene a series of workshops with community members to explore issues concerning research and training in plant biology, including the role that research using Arabidopsis thaliana can play in addressing those issues. A first workshop focused on training needs for bioinformatic and computational approaches in plant biology was held in 2016, and recommendations from that workshop have been published (Friesner et al., Plant Physiology, 175, 2017, 1499). In this white paper, we provide a summary of the discussions and insights arising from the second ART-21 workshop. The second workshop focused on experimental aspects of omics data acquisition and analysis and involved a broad spectrum of participants from academics and industry, ranging from graduate students through post-doctorates, early career and established investigators. Our hope is that this article will inspire beginning and established scientists, corporations, and funding agencies to pursue directions in research and training identified by this workshop, capitalizing on the reference species Arabidopsis thaliana and other valuable plant systems."
+  ],
+  "affiliation": [
+    "Department of Bioagricultural Sciences and Pest Management Colorado State University Fort Collins Colorado."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Proteomics",
+        "Genomics",
+        "Training",
+        "Metabolomics",
+        "Transcriptomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/pld3.133"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589541"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589541?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "fullTextReceivedDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-23"
+  ],
+  "firstPublicationDate": [
+    "2019-04-23"
+  ]
+}

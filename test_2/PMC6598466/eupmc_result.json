@@ -1,0 +1,323 @@
+{
+  "id": [
+    "31251324"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31251324"
+  ],
+  "pmcid": [
+    "PMC6598466"
+  ],
+  "doi": [
+    "10.1093/gigascience/giz078"
+  ],
+  "title": [
+    "Scalable biclustering - the future of big data exploration?"
+  ],
+  "authorString": [
+    "Orzechowski P, Boryczko K, Moore JH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Orzechowski P"
+          ],
+          "firstName": [
+            "Patryk"
+          ],
+          "lastName": [
+            "Orzechowski"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute for Biomedical Informatics, University of Pennsylvania, 3700 Hamilton Walk, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Boryczko K"
+          ],
+          "firstName": [
+            "Krzysztof"
+          ],
+          "lastName": [
+            "Boryczko"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Computer Science, AGH University of Science and Technology, al. A. Mickiewicza 30, Kraków 30-059, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore JH"
+          ],
+          "firstName": [
+            "Jason H"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Institute for Biomedical Informatics, University of Pennsylvania, 3700 Hamilton Walk, Philadelphia, PA 19104, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2831793"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "GigaScience"
+          ],
+          "ISOAbbreviation": [
+            "Gigascience"
+          ],
+          "medlineAbbreviation": [
+            "Gigascience"
+          ],
+          "NLMid": [
+            "101596872"
+          ],
+          "ISSN": [
+            "2047-217X"
+          ],
+          "ESSN": [
+            "2047-217X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Biclustering is a technique of discovering local similarities within data. For many years the complexity of the methods and parallelization issues limited its application to big data problems. With the development of novel scalable methods, biclustering has finally started to close this gap. In this paper we discuss the caveats of biclustering and present its current challenges and guidelines for practitioners. We also try to explain why biclustering may soon become one of the standards for big data analytics."
+  ],
+  "affiliation": [
+    "Institute for Biomedical Informatics, University of Pennsylvania, 3700 Hamilton Walk, Philadelphia, PA 19104, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 LM012601"
+          ],
+          "agency": [
+            "NLM NIH HHS"
+          ],
+          "acronym": [
+            "LM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "data mining",
+        "Parallel Algorithms",
+        "Biclustering",
+        "Big Data",
+        "Co-clustering",
+        "Precision Medicine",
+        "Biomarker Detection",
+        "Gene-drug Interaction",
+        "Disease Subtype Identification"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/gigascience/giz078"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6598466"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6598466?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-29"
+  ],
+  "firstIndexDate": [
+    "2019-06-29"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-05"
+  ],
+  "dateOfRevision": [
+    "2019-09-10"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

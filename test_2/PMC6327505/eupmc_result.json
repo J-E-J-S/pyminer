@@ -1,0 +1,835 @@
+{
+  "id": [
+    "30630406"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30630406"
+  ],
+  "pmcid": [
+    "PMC6327505"
+  ],
+  "doi": [
+    "10.1186/s12862-018-1331-x"
+  ],
+  "title": [
+    "Adaption to glucose limitation is modulated by the pleotropic regulator CcpA, independent of selection pressure strength."
+  ],
+  "authorString": [
+    "Price CE, Branco Dos Santos F, Hesseling A, Uusitalo JJ, Bachmann H, Benavente V, Goel A, Berkhout J, Bruggeman FJ, Marrink SJ, Montalban-Lopez M, de Jong A, Kok J, Molenaar D, Poolman B, Teusink B, Kuipers OP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Price CE"
+          ],
+          "firstName": [
+            "Claire E"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Branco Dos Santos F"
+          ],
+          "firstName": [
+            "Filipe"
+          ],
+          "lastName": [
+            "Branco Dos Santos"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Kluyver Center for Genomics of Industrial Fermentations/NCSB, Julianalaan 67, 2628 BC, Delft, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hesseling A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Hesseling"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Uusitalo JJ"
+          ],
+          "firstName": [
+            "Jaakko J"
+          ],
+          "lastName": [
+            "Uusitalo"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Molecular Dynamics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bachmann H"
+          ],
+          "firstName": [
+            "Herwig"
+          ],
+          "lastName": [
+            "Bachmann"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8224-0993",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kluyver Center for Genomics of Industrial Fermentations/NCSB, Julianalaan 67, 2628 BC, Delft, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Benavente V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Benavente"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Systems Bioinformatics, Faculty of Earth and Life Sciences, VU University Amsterdam, De Boelelaan 1085, 1081 HV, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Goel A"
+          ],
+          "firstName": [
+            "Anisha"
+          ],
+          "lastName": [
+            "Goel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Kluyver Center for Genomics of Industrial Fermentations/NCSB, Julianalaan 67, 2628 BC, Delft, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Berkhout J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Berkhout"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Systems Bioinformatics, Faculty of Earth and Life Sciences, VU University Amsterdam, De Boelelaan 1085, 1081 HV, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bruggeman FJ"
+          ],
+          "firstName": [
+            "Frank J"
+          ],
+          "lastName": [
+            "Bruggeman"
+          ],
+          "initials": [
+            "FJ"
+          ],
+          "affiliation": [
+            "Systems Bioinformatics, Faculty of Earth and Life Sciences, VU University Amsterdam, De Boelelaan 1085, 1081 HV, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Marrink SJ"
+          ],
+          "firstName": [
+            "Siewert-Jan"
+          ],
+          "lastName": [
+            "Marrink"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8423-5277",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Dynamics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Montalban-Lopez M"
+          ],
+          "firstName": [
+            "Manolo"
+          ],
+          "lastName": [
+            "Montalban-Lopez"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Jong A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "de Jong"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kok J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Kok"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Molenaar D"
+          ],
+          "firstName": [
+            "Douwe"
+          ],
+          "lastName": [
+            "Molenaar"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Kluyver Center for Genomics of Industrial Fermentations/NCSB, Julianalaan 67, 2628 BC, Delft, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Poolman B"
+          ],
+          "firstName": [
+            "Bert"
+          ],
+          "lastName": [
+            "Poolman"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Biochemistry, University of Groningen, Nijenborgh 4, 9747 AG, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Teusink B"
+          ],
+          "firstName": [
+            "Bas"
+          ],
+          "lastName": [
+            "Teusink"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3929-0423",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kluyver Center for Genomics of Industrial Fermentations/NCSB, Julianalaan 67, 2628 BC, Delft, The Netherlands. b.teusink@vu.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuipers OP"
+          ],
+          "firstName": [
+            "Oscar P"
+          ],
+          "lastName": [
+            "Kuipers"
+          ],
+          "initials": [
+            "OP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5596-7735",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands. o.p.kuipers@rug.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3929-0423",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8224-0993",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8423-5277",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5596-7735",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2766477"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC evolutionary biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Evol. Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Evol Biol"
+          ],
+          "NLMid": [
+            "100966975"
+          ],
+          "ISSN": [
+            "1471-2148"
+          ],
+          "ESSN": [
+            "1471-2148"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "15"
+  ],
+  "abstractText": [
+    "BACKGROUND:A central theme in (micro)biology is understanding the molecular basis of fitness i.e. which strategies are successful under which conditions; how do organisms implement such strategies at the molecular level; and which constraints shape the trade-offs between alternative strategies. Highly standardized microbial laboratory evolution experiments are ideally suited to approach these questions. For example, prolonged chemostats provide a constant environment in which the growth rate can be set, and the adaptive process of the organism to such environment can be subsequently characterized. RESULTS:We performed parallel laboratory evolution of Lactococcus lactis in chemostats varying the quantitative value of the selective pressure by imposing two different growth rates. A mutation in one specific amino acid residue of the global transcriptional regulator of carbon metabolism, CcpA, was selected in all of the evolution experiments performed. We subsequently showed that this mutation confers predictable fitness improvements at other glucose-limited growth rates as well. In silico protein structural analysis of wild type and evolved CcpA, as well as biochemical and phenotypic assays, provided the underpinning molecular mechanisms that resulted in the specific reprogramming favored in constant environments. CONCLUSION:This study provides a comprehensive understanding of a case of microbial evolution and hints at the wide dynamic range that a single fitness-enhancing mutation may display. It demonstrates how the modulation of a pleiotropic regulator can be used by cells to improve one trait while simultaneously work around other limiting constraints, by fine-tuning the expression of a wide range of cellular processes."
+  ],
+  "affiliation": [
+    "Molecular Genetics Group, University of Groningen, Nijenborgh 7, 9747 AG, Groningen, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lactococcus lactis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glucose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cryopreservation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Directed Molecular Evolution"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Bacterial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Base Sequence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Thermodynamics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Selection, Genetic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Lactic acid bacteria",
+        "systems biology"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glucose"
+          ],
+          "registryNumber": [
+            "IY9XDZ35W2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12862-018-1331-x"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6327505"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6327505?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo",
+        "gen",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-04-15"
+  ],
+  "dateOfCreation": [
+    "2019-01-12"
+  ],
+  "firstIndexDate": [
+    "2019-01-12"
+  ],
+  "fullTextReceivedDate": [
+    "2019-01-24"
+  ],
+  "dateOfRevision": [
+    "2019-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-10"
+  ],
+  "firstPublicationDate": [
+    "2019-01-10"
+  ]
+}

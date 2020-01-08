@@ -1,0 +1,336 @@
+{
+  "id": [
+    "31288763"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31288763"
+  ],
+  "pmcid": [
+    "PMC6615313"
+  ],
+  "doi": [
+    "10.1186/s12864-019-5918-4"
+  ],
+  "title": [
+    "Genomic reconstruction of σ54 regulons in Clostridiales."
+  ],
+  "authorString": [
+    "Nie X, Dong W, Yang C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nie X"
+          ],
+          "firstName": [
+            "Xiaoqun"
+          ],
+          "lastName": [
+            "Nie"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "CAS-Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong W"
+          ],
+          "firstName": [
+            "Wenyue"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "CAS-Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang C"
+          ],
+          "firstName": [
+            "Chen"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "CAS-Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China. chenyang@sibs.ac.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2833030"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC genomics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Genomics"
+          ],
+          "medlineAbbreviation": [
+            "BMC Genomics"
+          ],
+          "NLMid": [
+            "100965258"
+          ],
+          "ISSN": [
+            "1471-2164"
+          ],
+          "ESSN": [
+            "1471-2164"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "565"
+  ],
+  "abstractText": [
+    "BACKGROUND:The σ54 factor controls unique promoters and interacts with a specialized activator (enhancer binding proteins [EBP]) for transcription initiation. Although σ54 is present in many Clostridiales species that have great importance in human health and biotechnological applications, the cellular processes controlled by σ54 remain unknown. RESULTS:For systematic analysis of the regulatory functions of σ54, we performed comparative genomic reconstruction of transcriptional regulons of σ54 in 57 species from the Clostridiales order. The EBP-binding DNA motifs and regulated genes were identified for 263 EBPs that constitute 39 distinct groups. The reconstructed σ54 regulons contain the genes involved in fermentation and amino acid catabolism. The predicted σ54 binding sites in the genomes of Clostridiales spp. were verified by in vitro binding assays. To our knowledge, this is the first report about direct regulation of the Stickland reactions and butyrate and alcohols synthesis by σ54 and the respective EBPs. Considerable variations were demonstrated in the sizes and gene contents of reconstructed σ54 regulons between different Clostridiales species. It is proposed that σ54 controls butyrate and alcohols synthesis in solvent-producing species, regulates autotrophic metabolism in acetogenic species, and affects the toxin production in pathogenic species. CONCLUSIONS:This study reveals previously unrecognized functions of σ54 and provides novel insights into the regulation of fermentation and amino acid metabolism in Clostridiales species, which could have potential applications in guiding the treatment and efficient utilization of these species."
+  ],
+  "affiliation": [
+    "CAS-Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular Plant Sciences, Shanghai Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31630003"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31470168"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016YFC1303303"
+          ],
+          "agency": [
+            "Key Technologies Research and Development Program"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcriptional regulation",
+        "Comparative genomics",
+        "Clostridium",
+        "Σ54",
+        "Enhancer Binding Protein"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12864-019-5918-4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6615313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6615313?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pfam"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-11"
+  ],
+  "firstIndexDate": [
+    "2019-07-11"
+  ],
+  "fullTextReceivedDate": [
+    "2019-07-20"
+  ],
+  "dateOfRevision": [
+    "2019-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-09"
+  ],
+  "firstPublicationDate": [
+    "2019-07-09"
+  ]
+}
