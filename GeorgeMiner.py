@@ -95,6 +95,7 @@ def read_folder(folder_path, search_list):
     resultsTRANPOSE = results_df.T # transposing the DataFrame so that it is more easily read
     sorted_df = resultsTRANPOSE.sort_values(by=[0],ascending=False)
     sorted_df.columns = ['Article Title','Score','Keywords']
+    sorted_df.to_csv(r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1\results.csv")
     return sorted_df
 
 # %%
