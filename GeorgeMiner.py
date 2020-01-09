@@ -22,8 +22,6 @@ import nltk
 import pandas as pd
 
 # %%
-def send_title(title):
-    return title
 
 def get_frequency(file_path):
     '''takes in xml file path and outputs list of most common words'''
@@ -32,7 +30,6 @@ def get_frequency(file_path):
     f.close()
     text = soup.text # This is extracting just the written text and removing the pieces of code that purely exist for formatting
     title = soup.find('article-title').text # extracts the title to act as first column of DataFrame 
-    send_title(title) 
     custom_list = ['The'] # Can also edit this (add more words) -> other words that you don't want to count (words that aren't included in stopwords)
     stop_words = list(stopwords.words('english')) + custom_list
     list_of_words = text.split(' ') # converting the body of text into a list of distinct words
@@ -104,3 +101,4 @@ search_list = ['FAD', 'FMN', 'LOV', 'Cysteine', 'transcription', 'factor', 'blue
 folder_path = r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1"
 
 results = read_folder(folder_path,search_list) # this combines all the earlier pieces of code into one command
+
