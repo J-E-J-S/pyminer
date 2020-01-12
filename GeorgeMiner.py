@@ -21,6 +21,8 @@ import os
 import nltk
 import pandas as pd
 
+# %% New Feature
+
 # %%
 
 def get_frequency(file_path):
@@ -29,7 +31,15 @@ def get_frequency(file_path):
     soup = BeautifulSoup(f, 'html.parser') # Beautiful soup takes the code written to format some piece of text and turns it into nested objects you can navigate
     f.close()
     text = soup.text # This is extracting just the written text and removing the pieces of code that purely exist for formatting
-    title = soup.find('article-title').text # extracts the title to act as first column of DataFrame 
+    title = soup.find('article-title').text # extracts the title to act as first column of DataFrame
+    date = ''
+    try:
+        day = soup.find('day')
+        month = soup.find('month')
+        year = soup.find('year')
+        date = year.text + '-' + month.text + '-' + day.text
+    except:
+        pass
     custom_list = ['The'] # Can also edit this (add more words) -> other words that you don't want to count (words that aren't included in stopwords)
     stop_words = list(stopwords.words('english')) + custom_list
     list_of_words = text.split(' ') # converting the body of text into a list of distinct words
@@ -40,7 +50,7 @@ def get_frequency(file_path):
             filtered_text.append(i) # removing stop words from the text by adding only those that are not in stop words
     for i in filtered_text:
         key_words[i] = key_words.get(i,0) + 1 # counter to find the number of times that any words occur
-    return key_words, title
+    return key_words, date, title 
 
 
 def get_most_common_words(key_words):
@@ -68,17 +78,18 @@ def get_matched(search_list, words_frequency):
 
 def do_everything(file_path, search_list):
     '''just combining lots of the earlier functions'''
-    key_words, title = get_frequency(file_path)
+    key_words, date, title = get_frequency(file_path)
     most_common_words = get_most_common_words(key_words)
     frequency = get_frequency_sorted(most_common_words,key_words)
     matched = get_matched(search_list,frequency)
     score = 0
     for match in matched:
         score = score + match[1] # scoring an article based on how strongly it matches the your selected keywords
-    return (title, score, matched)
+    return (title, date, score, matched)
 
 
 # %% Batch Management
+# Use  .apply on batches to speed code up massively!!!!
 
 def read_folder(folder_path, search_list):
     ''' -> can't handle the file that isn't html'''
@@ -91,14 +102,16 @@ def read_folder(folder_path, search_list):
     results_df = pd.DataFrame(results) # create a DataFrame (table) of the results
     resultsTRANPOSE = results_df.T # transposing the DataFrame so that it is more easily read
     sorted_df = resultsTRANPOSE.sort_values(by=[0],ascending=False)
-    sorted_df.columns = ['Article Title','Score','Keywords']
-    sorted_df.to_csv(r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1\results.csv")
+    sorted_df.columns = ['Article Title','Date Accepted','Score','Keywords']
+    sorted_df = sorted_df[['Date Accepted','Article Title','Score','Keywords']]
+    sorted_df.index = range(0,len(sorted_df))
+    #sorted_df.to_csv(r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1\results.csv")
     return sorted_df
 
 # %%
 
 search_list = ['FAD', 'FMN', 'LOV', 'Cysteine', 'transcription', 'factor', 'blue']
-folder_path = r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1"
+folder_path = r"C:\Users\User\Documents\Notes\Projects\GeorgesMarvelousMiner\Test_1"
 
 results = read_folder(folder_path,search_list) # this combines all the earlier pieces of code into one command
 
