@@ -10,8 +10,7 @@ Created on Sun Dec 29 17:56:58 2019
 import sys 
 import os 
 
-print(sys.path) 
-sys.path.append(r"C:\\Users\\GeorgePearse\\Anaconda3\\Lib\\site-packages")
+#sys.path.append(r"C:\\Users\\GeorgePearse\\Anaconda3\\Lib\\site-packages")
 # %%
 
 from bs4 import BeautifulSoup
@@ -21,11 +20,12 @@ import os
 import nltk
 import pandas as pd
 
-# %% New Feature
+# %% Improving efficiency 
+#search_list = ['FAD', 'FMN', 'LOV', 'Cysteine', 'transcription', 'factor', 'blue']
+search_list = sys.argv[1].split(',')
+#folder_path = sys.argv[1].split(',')[-1]
 
-# %%
-
-def get_frequency(file_path):
+def extract_data(file_path):
     '''takes in xml file path and outputs list of most common words'''
     f = open(file_path, 'r')
     soup = BeautifulSoup(f, 'html.parser') # Beautiful soup takes the code written to format some piece of text and turns it into nested objects you can navigate
@@ -34,84 +34,35 @@ def get_frequency(file_path):
     title = soup.find('article-title').text # extracts the title to act as first column of DataFrame
     date = ''
     try:
-        day = soup.find('day')
-        month = soup.find('month')
-        year = soup.find('year')
+        day,month,year = soup.find('day'),soup.find('month'),soup.find('year')
         date = year.text + '-' + month.text + '-' + day.text
     except:
         pass
-    custom_list = ['The'] # Can also edit this (add more words) -> other words that you don't want to count (words that aren't included in stopwords)
-    stop_words = list(stopwords.words('english')) + custom_list
-    list_of_words = text.split(' ') # converting the body of text into a list of distinct words
-    filtered_text = []
+     # Can also edit this (add more words) -> other words that you don't want to count (words that aren't included in stopwords)
+    list_of_words = text.split(' ') # converting the body of text into a list of distinct word
     key_words = {} # initialising the dictionary to act as a counter
     for i in list_of_words:
-        if i not in stop_words: # making sure that common words such as 'a', 'the' etc. do not come up in the counter, because they would definitely be the most common
-            filtered_text.append(i) # removing stop words from the text by adding only those that are not in stop words
-    for i in filtered_text:
-        key_words[i] = key_words.get(i,0) + 1 # counter to find the number of times that any words occur
-    return key_words, date, title 
+        if i in search_list: # making sure that common words such as 'a', 'the' etc. do not come up in the counter, because they would definitely be the most common
+            key_words[i] = key_words.get(i,0) + 1 # removing stop words from the text by adding only those that are not in stop words
+    score = sum(key_words.values())
+    return date, title, score, key_words
 
-
-def get_most_common_words(key_words):
-    '''sorts the list of most common words'''
-    most_common_words = sorted(key_words, key=key_words.get, reverse= True) # ordering words by how often they occur
-    return most_common_words
-
-def get_frequency_sorted(most_common_words,key_words):
-    '''uses the dictionary created earlier to get the frequency of the most_common_words'''
-    words_frequency = []
-    for i in most_common_words:
-        words_frequency.append((i, key_words[i])) #appending tuples of a word and its frequency
-    return words_frequency
-
-def get_matched(search_list, words_frequency):
-    '''compares search dictionary'''
-    matched = []
-    # trying to compare tuple to single value
-    for word_frequency in words_frequency:
-        if word_frequency[0] in search_list:
-            matched.append(word_frequency)
-    return matched
-
-# %% Combining all of the tools
-
-def do_everything(file_path, search_list):
-    '''just combining lots of the earlier functions'''
-    key_words, date, title = get_frequency(file_path)
-    most_common_words = get_most_common_words(key_words)
-    frequency = get_frequency_sorted(most_common_words,key_words)
-    matched = get_matched(search_list,frequency)
-    score = 0
-    for match in matched:
-        score = score + match[1] # scoring an article based on how strongly it matches the your selected keywords
-    return (title, date, score, matched)
-
-
-# %% Batch Management
-# Use  .apply on batches to speed code up massively!!!!
-
-def read_folder(folder_path, search_list):
-    ''' -> can't handle the file that isn't html'''
-    results = {}
+# %% Apply to DataFrame -> need to make a DataFrame of file_paths first
+def read_folder(folder_path):
+    filepaths = []
     for subdir, dirs, files in os.walk(folder_path):
         for file in files:
             if file[-3:] == 'xml': # making sure you only open the actual article as opposed to the other files in the folder
                 file_path = r'{}\{}'.format(subdir, file)
-                results[str(subdir)] = do_everything(file_path, search_list) # creates a dictionary where the key is the name of the subfolder which contains the article -> should be replaced with the title of the article
-    results_df = pd.DataFrame(results) # create a DataFrame (table) of the results
-    resultsTRANPOSE = results_df.T # transposing the DataFrame so that it is more easily read
-    sorted_df = resultsTRANPOSE.sort_values(by=[0],ascending=False)
-    sorted_df.columns = ['Article Title','Date Accepted','Score','Keywords']
-    sorted_df = sorted_df[['Date Accepted','Article Title','Score','Keywords']]
-    sorted_df.index = range(0,len(sorted_df))
-    #sorted_df.to_csv(r"C:\Users\GeorgePearse\projects\James\GeorgesMarvelousMiner\Test_1\results.csv")
-    return sorted_df
+                filepaths.append(file_path)            
+    df_filepaths = pd.DataFrame(filepaths)
+    df_filepaths['Date'], df_filepaths['Title'],df_filepaths['Score'], df_filepaths['Keywords'] = zip(*df_filepaths[0].apply(lambda x: extract_data(x)))
+    df_filepaths.index = range(0,len(df_filepaths))
+    df_filepaths = df_filepaths[['Date','Title','Score','Keywords']]
+    df_filepaths.to_csv(folder_path + 'results.csv')
+    return df_filepaths
 
-# %%
+# %% Option to input from command line with the sys module 
 
-search_list = ['FAD', 'FMN', 'LOV', 'Cysteine', 'transcription', 'factor', 'blue']
 folder_path = r"C:\Users\User\Documents\Notes\Projects\GeorgesMarvelousMiner\Test_1"
-
-results = read_folder(folder_path,search_list) # this combines all the earlier pieces of code into one command
-
+results = read_folder(folder_path) # this combines all the earlier pieces of code into one command
