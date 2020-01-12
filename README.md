@@ -1,5 +1,5 @@
 # GeorgesMarvelousMiner
-##To Do list 
+## To Do list 
 
 1) Add date into the report
 2) Connect directly to the online database
