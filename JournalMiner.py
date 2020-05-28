@@ -1,3 +1,9 @@
+####
+# -*- coding: utf-8 -*-
+# Created on Sun Dec 29 17:56:58 2019
+# @author: James Sanders and George Pearse
+###
+
 import sys
 import os
 from bs4 import BeautifulSoup
@@ -6,11 +12,10 @@ import nltk.tokenize as tokenize
 import nltk
 import pandas as pd
 
-search_string = 'EL222'
-folder_path = r"C:\Users\James\documents\JournalMiner\test_1"
-limit = 1000
+search_string = 'Type Primary Keyword Here'
+folder_path = r"C:\Type Output Dir Path Here" 
 
-search_list = ['test', 'light']
+search_list = ['string_1', 'string_2', 'string_n']
 
 def get_papers(search_string, folder_path, limit):
     ''' python wrapper for getpapers command, creates file system'''
@@ -47,8 +52,9 @@ def extract_data(file_path):
     score = sum(key_words.values())
     return date, title, score, key_words
 
-# %% Apply to DataFrame -> need to make a DataFrame of file_paths first
+
 def read_folder(folder_path):
+    ''' Apply to DataFrame -> need to make a DataFrame of file_paths first '''
     filepaths = []
     for subdir, dirs, files in os.walk(folder_path):
         for file in files:
