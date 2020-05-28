@@ -13,13 +13,13 @@ import nltk
 import pandas as pd
 
 search_string = 'Type Primary Keyword Here'
-folder_path = r"C:\Type Output Dir Path Here" 
+folder_path = r"C:\Type Output Dir Path Here"
 
 search_list = ['string_1', 'string_2', 'string_n']
 
 def get_papers(search_string, folder_path, limit):
     ''' python wrapper for getpapers command, creates file system'''
-    base = 'cmd /k getpapers -q ' # base of getpapers request
+    base = 'cmd /c getpapers -q ' # base of getpapers request
     search_string = ('{}' + search_string + '{}').format('"', '"') # formatting search string for wrapper
     output_dir = ('{}' + folder_path).format(' -o ') # spacing and option
     limit = ('{}' + str(limit)).format(' -k ')
