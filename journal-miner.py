@@ -5,8 +5,14 @@ import pandas as pd
 import shutil
 
 search_string = 'polymerase'
-folder_path = os.path.join(os.getcwd(), 'mine')
 keywords = ['inhibitor', 'hello']
+
+# Make sure not overwriting existing folder
+folder_path = os.path.join(os.getcwd(), search_string + '_mine')
+count = 1
+while os.path.exists(folder_path):
+    folder_path = os.path.join(os.getcwd(),str(count) + '_' +  search_string + '_mine')
+    count += 1
 
 def get_papers(search_string, folder_path, limit=50):
 
@@ -78,6 +84,13 @@ def export_mine(df):
     # Export df to .csv (Excel)
     entries = df['Title'].count()
     output_path = os.path.join(os.getcwd(), search_string + '_' + str(entries) + '.csv')
+
+    # Changes output .csv name depending on if file already exists - allows repeated mines without deleting files
+    count = 1
+    while os.path.exists(output_path):
+        output_path = os.path.join(os.getcwd(), str(count) + '_' + search_string + '_' + str(entries) + '.csv')
+        count += 1
+
     df.to_csv(output_path, index=False)
 
     # Delete Mine
