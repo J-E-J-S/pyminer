@@ -8,8 +8,7 @@ search_string = 'polymerase'
 folder_path = os.path.join(os.getcwd(), 'mine')
 keywords = ['inhibitor', 'hello']
 
-
-def get_papers(search_string, folder_path, limit=1000):
+def get_papers(search_string, folder_path, limit=50):
 
     ''' Python wrapper for getpapers command, creates file system '''
 
@@ -67,6 +66,9 @@ def iterate_folder(folder_path):
                 entry = {'Date':date, 'Title':title, 'Score':score, 'KeyWords':keyword_hits}
                 df = df.append(entry, ignore_index=True) # Add paper data to dataframe
 
+    # Order df so highest score first
+    df = df.sort_values(by='Score', ascending=False)
+
     return df
 
 def export_mine(df):
@@ -76,7 +78,7 @@ def export_mine(df):
     # Export df to .csv (Excel)
     entries = df['Title'].count()
     output_path = os.path.join(os.getcwd(), search_string + '_' + str(entries) + '.csv')
-    df.to_csv(output_path)
+    df.to_csv(output_path, index=False)
 
     # Delete Mine
     shutil.rmtree(folder_path)
