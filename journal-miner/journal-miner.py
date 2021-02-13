@@ -7,15 +7,6 @@ import pandas as pd
 import shutil
 import click
 
-# Make sure not overwriting existing folder
-
-folder_path = os.path.join(os.getcwd(), 'mine')
-'''count = 1
-while os.path.exists(folder_path):
-    folder_path = os.path.join(os.getcwd(),str(count) + '_' +  query + '_mine')
-    count += 1'''
-
-
 def get_papers(query, folder_path, limit):
 
     base = 'cmd /c getpapers -q ' # base of getpapers request
@@ -77,7 +68,7 @@ def iterate_folder(folder_path, keywords):
 
     return df
 
-def export_mine(df, query):
+def export_mine(df, query, folder_path):
 
     ''' Exports mine as .csv and deletes the local mine resources '''
 
@@ -108,12 +99,19 @@ def cli(query, keywords, limit):
     QUERY The main search string.
     """
 
+    # Make sure not overwriting existing folder
+    folder_path = os.path.join(os.getcwd(), query + '_mine')
+    count = 1
+    while os.path.exists(folder_path):
+        folder_path = os.path.join(os.getcwd(),str(count) + '_' +  query + '_mine')
+        count += 1
+
     get_papers(query, folder_path, limit)
-    output_path = export_mine(iterate_folder(folder_path, keywords), query)
+    output_path = export_mine(iterate_folder(folder_path, keywords), query, folder_path)
 
     click.echo('Mining Complete.')
     click.echo('Results available at: ' + output_path )
-
+    return
 
 if __name__ == '__main__':
     cli()
