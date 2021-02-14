@@ -1,4 +1,4 @@
-## pyminer: A Python CLI for Mining Scientific Literature. ⛏ 💻
+## Pyminer: A Python CLI for Mining Scientific Literature. ⛏ 💻
 
 ### Prerequisites:
 - Python 3.8
@@ -26,6 +26,6 @@ e.g.
 pyminer polymerase -kw ['inhibitor', 'rna', 'promoter'] -l 100
 ```
 ### Output:
-A .csv will be created in the current working directory that will list \n
-papers with: Date, Title, Score, Keywords. \n
- 
+A .csv will be created in the current working directory storing paper  \n
+with: Date, Title, Score, Keywords. Papers will ranked by their \n
+score which is the sum of keyword appearances in the main text.
