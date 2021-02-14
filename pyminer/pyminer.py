@@ -16,7 +16,11 @@ def get_papers(query, folder_path, limit):
 
     command = base + query + output_dir + limit + ' -x'
 
-    os.system(command)
+    try:
+        os.system(command)
+    except:
+        os.system('npm install -g getpapers')
+        os.system(command)
 
     return
 
