@@ -15,7 +15,7 @@ setup(
         long_description=LONG_DESCRIPTION,
         packages=find_packages(include=['pyminer']),
         install_requires=[
-            'BeautifulSoup==3.2.2',
+            'beautifulsoup4==4.9.3',
             'pandas==1.2.2',
             'click==7.1.2'
         ], # add any additional packages that
