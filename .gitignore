@@ -1,2 +1,2 @@
-pyminer.egg-info
-pyminer/__pycache__
+*.egg-info
+journalMiner/__pycache__
