@@ -22,5 +22,4 @@ setup(
         entry_points = {
             'console_scripts':['pyminer=journalMiner.pyminer:cli']
         }
-
 )
