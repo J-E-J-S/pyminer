@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+import os
 
 VERSION = '1.0'
 DESCRIPTION = 'Python CLI for mining scientific literature.'
@@ -13,12 +14,14 @@ setup(
         author_email="james.sanders1711@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
-        packages=find_packages(include=['pyminer']),
+        packages=find_packages(),
         install_requires=[
             'beautifulsoup4==4.9.3',
             'pandas==1.2.2',
             'click==7.1.2'
-        ], # add any additional packages that
-        # needs to be installed along with your package. Eg: 'caer'
+        ],
+        entry_points = {
+            'console_scripts':['pyminer=pyminer.pyminer:cli']
+        }
 
 )
