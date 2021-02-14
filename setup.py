@@ -8,7 +8,7 @@ LONG_DESCRIPTION = 'This package contains a CLI that allows mining of the EUPMC 
 # Setting up
 setup(
        # the name must match the folder name 'verysimplemodule'
-        name="pyminer",
+        name="journal-miner",
         version=VERSION,
         author="George Pearse, James Sanders",
         author_email="james.sanders1711@gmail.com",
@@ -21,7 +21,7 @@ setup(
             'click==7.1.2'
         ],
         entry_points = {
-            'console_scripts':['pyminer=pyminer.pyminer:cli']
+            'console_scripts':['pyminer=journalMiner.pyminer:cli']
         }
 
 )

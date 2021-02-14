@@ -16,6 +16,7 @@ def get_papers(query, folder_path, limit):
 
     command = base + query + output_dir + limit + ' -x'
 
+    # Try to see if getpapers is installed
     try:
         os.system(command)
     except:
@@ -41,7 +42,6 @@ def extract_xml(xml_path, keywords):
         date = year.text + '-' + month.text + '-' + day.text
     except:
         date = 'NaN'
-
 
     # Extract Key Word Counts and Paper Score
     content = soup.text.split(' ') # List of words in article without xml tags
