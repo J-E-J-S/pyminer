@@ -1,4 +1,4 @@
-## Pyminer: A Python CLI for Mining Scientific Literature. ⛏ 💻
+## Pyminer: A Python CLI for Mining Scientific Literature. 🔬⛏
 
 ![](/assets/pyminer.gif)
 
