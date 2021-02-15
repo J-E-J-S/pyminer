@@ -1,16 +1,16 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.0'
+VERSION = '1.1'
 DESCRIPTION = 'Python CLI for mining scientific literature.'
 LONG_DESCRIPTION = 'This package contains a CLI that allows mining of the EUPMC database for papers that contain hits for keywords.'
 
 # Setting up
 setup(
-       # the name must match the folder name 'verysimplemodule'
         name="journal-miner",
         version=VERSION,
         author="George Pearse, James Sanders",
         author_email="james.sanders1711@gmail.com",
+        url = 'https://github.com/J-E-J-S/pyminer',
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
