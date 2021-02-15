@@ -8,7 +8,7 @@
 
 ### Quickstart:
 ```
-pip install journal-miner==1.0
+pip install journal-miner==1.1
 ```
 ### Usage:
 ```
