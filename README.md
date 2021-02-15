@@ -1,7 +1,7 @@
 ## Pyminer: A Python CLI for Mining Scientific Literature. ⛏ 💻
-** Broken - fix in progress ** 
+ 
 ### Prerequisites:
-- Python 3.8
+- Python >=3.8
 - Nodejs >=14.0
 
 ### Quickstart:
@@ -18,12 +18,12 @@ Usage: pyminer [OPTIONS] QUERY
 
 Options:
   -l, --limit INTEGER   Number of papers to mine. Default = 1000
-  -kw, --keywords LIST  Keywords to mine.
+  -kw, --keywords LIST  Keyword to mine.
   --help                Show this message and exit.
 ```
 e.g.
 ```
-pyminer polymerase -kw ['inhibitor', 'rna', 'promoter'] -l 100
+pyminer polymerase -kw inhibitor -kw rna -kw enzyme -l 100
 ```
 ### Output:
 A .csv will be created in the current working directory storing paper  
