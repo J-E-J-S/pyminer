@@ -96,7 +96,7 @@ def export_mine(df, query, folder_path):
 @click.command()
 @click.argument('query')
 @click.option('-l', '--limit', default = 50, type=int, help='Number of papers to mine. Default = 1000' )
-@click.option('-kw', '--keywords', type=list, help='Keywords to mine.')
+@click.option('-kw', '--keywords', multiple=True, help='Keyword to mine.')
 def cli(query, keywords, limit):
 
     """Arguments:\n
