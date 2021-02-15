@@ -1,5 +1,7 @@
 ## Pyminer: A Python CLI for Mining Scientific Literature. ⛏ 💻
- 
+
+![](/assets/pyminer.gif)
+
 ### Prerequisites:
 - Python >=3.8
 - Nodejs >=14.0
