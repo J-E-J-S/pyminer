@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import shutil
 import click
+import subprocess
 
 def get_papers(query, folder_path, limit):
 
@@ -18,8 +19,8 @@ def get_papers(query, folder_path, limit):
 
     # Try to see if getpapers is installed
     try:
-        os.system(command)
-    except:
+        subprocess.run(command, check = True)
+    except subprocess.CalledProcessError:
         os.system('npm install -g getpapers')
         os.system(command)
 
