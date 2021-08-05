@@ -75,9 +75,10 @@ def iterate_folder(folder_path, keywords):
 
 def export_mine(df, query, folder_path):
 
-    ''' Exports mine as .csv and deletes the local mine resources '''
+    # Exports mine as .csv and deletes the local mine resources
 
     # Export df to .csv (Excel)
+    query = query.replace(' ', '_') # Format for multi-word query strings
     entries = df['Title'].count()
     output_path = os.path.join(os.getcwd(), query + '_' + str(entries) + '.csv')
 
@@ -105,10 +106,11 @@ def cli(query, keywords, limit):
     """
 
     # Make sure not overwriting existing folder
-    folder_path = os.path.join(os.getcwd(), query + '_mine')
+    path_query = query.replace(' ', '_') # Format for multi-word query strings
+    folder_path = os.path.join(os.getcwd(), path_query + '_mine')
     count = 1
     while os.path.exists(folder_path):
-        folder_path = os.path.join(os.getcwd(),str(count) + '_' +  query + '_mine')
+        folder_path = os.path.join(os.getcwd(),str(count) + '_' +  path_query + '_mine')
         count += 1
 
     get_papers(query, folder_path, limit)
