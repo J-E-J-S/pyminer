@@ -27,8 +27,7 @@ def get_papers(query, folder_path, limit):
     return
 
 def extract_xml(xml_path, keywords):
-
-    ''' Extracts Key Article Data from Paper XML '''
+    # Extracts Key Article Data from Paper XML
 
     with open(xml_path, 'r') as f:
         soup = BeautifulSoup(f, 'html.parser')
@@ -45,11 +44,12 @@ def extract_xml(xml_path, keywords):
         date = 'NaN'
 
     # Extract Key Word Counts and Paper Score
-    content = soup.text.split(' ') # List of words in article without xml tags
     keyword_hits = {}
-    for word in content:
-        if word in keywords:
-            keyword_hits[word] = keyword_hits.get(word, 0) + 1 # Dictionary Counter
+    content = soup.text.lower()
+    for word in keywords:
+        word_key = word.replace(' ', '_') # Remove spaces so can use as key in dictionary
+        frequency = content.count(word.lower())
+        keyword_hits[word_key] = frequency
 
     score = sum(keyword_hits.values()) # Calculate overall score for paper
 
@@ -74,10 +74,10 @@ def iterate_folder(folder_path, keywords):
     return df
 
 def export_mine(df, query, folder_path):
-
-    ''' Exports mine as .csv and deletes the local mine resources '''
+    # Exports mine as .csv and deletes the local mine resources
 
     # Export df to .csv (Excel)
+    query = query.replace(' ', '_') # Format for multi-word query strings
     entries = df['Title'].count()
     output_path = os.path.join(os.getcwd(), query + '_' + str(entries) + '.csv')
 
@@ -105,10 +105,11 @@ def cli(query, keywords, limit):
     """
 
     # Make sure not overwriting existing folder
-    folder_path = os.path.join(os.getcwd(), query + '_mine')
+    path_query = query.replace(' ', '_') # Format for multi-word query strings
+    folder_path = os.path.join(os.getcwd(), path_query + '_mine')
     count = 1
     while os.path.exists(folder_path):
-        folder_path = os.path.join(os.getcwd(),str(count) + '_' +  query + '_mine')
+        folder_path = os.path.join(os.getcwd(),str(count) + '_' +  path_query + '_mine')
         count += 1
 
     get_papers(query, folder_path, limit)
