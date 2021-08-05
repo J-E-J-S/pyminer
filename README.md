@@ -25,7 +25,7 @@ Options:
 ```
 e.g.
 ```
-pyminer polymerase -kw inhibitor -kw rna -kw enzyme -l 100
+pyminer 'RNA polymerase III' -kw inhibitor -kw 'TATA box' -kw enzyme -l 100
 ```
 ### Output:
 A .csv will be created in the current working directory storing paper  
