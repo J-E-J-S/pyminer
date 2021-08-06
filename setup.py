@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.3'
+VERSION = '1.4'
 DESCRIPTION = 'Python CLI for mining scientific literature.'
 LONG_DESCRIPTION = 'This package contains a CLI that allows mining of the EUPMC database for papers that contain hits for keywords.'
 

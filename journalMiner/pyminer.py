@@ -47,9 +47,8 @@ def extract_xml(xml_path, keywords):
     keyword_hits = {}
     content = soup.text.lower()
     for word in keywords:
-        word_key = word.replace(' ', '_') # Remove spaces so can use as key in dictionary
         frequency = content.count(word.lower())
-        keyword_hits[word_key] = frequency
+        keyword_hits[word] = frequency
 
     score = sum(keyword_hits.values()) # Calculate overall score for paper
 
@@ -57,7 +56,7 @@ def extract_xml(xml_path, keywords):
 
 def iterate_folder(folder_path, keywords):
 
-    df = pd.DataFrame(columns=['Date', 'Title', 'Score', 'KeyWords']) # Init dataframe
+    df = pd.DataFrame(columns=['Date', 'Title', 'Score']) # Init dataframe
 
     # Iterate through getpapers generated output dir
     for root, dirs, files in os.walk(folder_path):
@@ -65,7 +64,11 @@ def iterate_folder(folder_path, keywords):
             path = os.path.join(root, file)
             if path.endswith('.xml'):
                 date, title, score, keyword_hits = extract_xml(path, keywords)
-                entry = {'Date':date, 'Title':title, 'Score':score, 'KeyWords':keyword_hits}
+                entry = {'Date':date, 'Title':title, 'Score':score}
+                # Create new column for each keyword searched
+                for word in keyword_hits:
+                    entry[word] = keyword_hits[word]
+
                 df = df.append(entry, ignore_index=True) # Add paper data to dataframe
 
     # Order df so highest score first
