@@ -29,3 +29,5 @@ pyminer 'RNA polymerase III' -kw inhibitor -kw 'TATA box' -kw enzyme -l 100
 ```
 ### Output:
 Output forms a .csv file that can be viewed in Excel. Papers are automatically ranked by score being the total keyword frequency but can also be ranked by individual keywords or date in Excel.  
+
+![](/assets/output.png)
