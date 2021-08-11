@@ -8,6 +8,8 @@ import shutil
 import click
 import subprocess
 
+exec(open("./journalMiner/_version.py").read())  # loads __version__
+
 def get_papers(query, folder_path, limit):
 
     base = 'cmd /c getpapers -q ' # base of getpapers request
@@ -100,7 +102,8 @@ def export_mine(df, query, folder_path):
 @click.command()
 @click.argument('query')
 @click.option('-l', '--limit', default = 1000, type=int, help='Number of papers to mine. Default = 1000' )
-@click.option('-kw', '--keywords', multiple=True, help='Keyword to mine.')
+@click.option('-kw', '--keyword', multiple=True, help='Keyword to mine.')
+@click.version_option(version=__version__)
 def cli(query, keywords, limit):
 
     """Arguments:\n

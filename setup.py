@@ -1,13 +1,14 @@
 from setuptools import setup, find_packages
+exec(open("journalMiner/_version.py").read())  # loads __version__
 
-VERSION = '1.4'
+
 DESCRIPTION = 'Python CLI for mining scientific literature.'
 LONG_DESCRIPTION = 'This package contains a CLI that allows mining of the EUPMC database for papers that contain hits for keywords.'
 
 # Setting up
 setup(
         name="journal-miner",
-        version=VERSION,
+        version= __version__,
         author="George Pearse, James Sanders",
         author_email="james.sanders1711@gmail.com",
         url = 'https://github.com/J-E-J-S/pyminer',
