@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-exec(open("journalMiner/_version.py").read())  # loads __version__
+exec(open("journalMiner/__init__.py").read())  # loads __version__
 
 
 DESCRIPTION = 'Python CLI for mining scientific literature.'
