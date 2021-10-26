@@ -98,7 +98,6 @@ def export_mine(df, query, folder_path):
     return output_path
 
 @click.command()
-@click.version_option()
 @click.argument('query')
 @click.option('-l', '--limit', default = 1000, type=int, help='Number of papers to mine. Default = 1000' )
 @click.option('-kw', '--keyword', multiple=True, help='Keyword to mine.')
@@ -117,7 +116,7 @@ def cli(query, keyword, limit):
         count += 1
 
     get_papers(query, folder_path, limit)
-    output_path = export_mine(iterate_folder(folder_path, keywords), query, folder_path)
+    output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
 
     click.echo('Mining Complete.')
     click.echo('Results available at: ' + output_path )
