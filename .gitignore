@@ -1,2 +1,4 @@
 *.egg-info
 journalMiner/__pycache__
+build
+dist
