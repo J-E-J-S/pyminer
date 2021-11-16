@@ -110,7 +110,6 @@ def _getVersion(ctx,param, value):
     version = version.replace('\'', '')
     version = version.replace('\n', '' )
     f.close()
-
     click.echo(version)
     ctx.exit()
 
@@ -118,7 +117,7 @@ def _getVersion(ctx,param, value):
 @click.argument('query')
 @click.option('-l', '--limit', default = 1000, type=int, help='Number of papers to mine. Default = 1000' )
 @click.option('-kw', '--keyword', multiple=True, help='Keyword to mine.')
-@click.option('-v', '--version', is_flag=True, callback=_getVersion, expose_value=False, is_eager=False, help='Show version number.')
+@click.option('-v', '--version', is_flag=True, callback=_getVersion, expose_value=False, is_eager=False, help='Show version number and exit.')
 def cli(query, keyword, limit):
 
     """Arguments:\n
