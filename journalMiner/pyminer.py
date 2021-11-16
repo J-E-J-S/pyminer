@@ -97,10 +97,25 @@ def export_mine(df, query, folder_path):
 
     return output_path
 
+def _getVersion():
+    folder = os.path.abspath(os.path.dirname(__file__))
+    init = os.path.join(folder, '__init__.py')
+    f = open(init, 'r')
+    version = f.read()
+    version = version.replace('__version__ = ', '')
+    version = version.replace('\'', '')
+    version = version.replace('\n', '' )
+    f.close()
+
+    click.echo(version)
+    return sys.exit()
+
 @click.command()
 @click.argument('query')
 @click.option('-l', '--limit', default = 1000, type=int, help='Number of papers to mine. Default = 1000' )
 @click.option('-kw', '--keyword', multiple=True, help='Keyword to mine.')
+@click.option('-v', '--version', is_flag=True, callback=_getVersion(), expose_value=False, is_eager=True )
+#@click.version_option('-v', version=_getVersion())
 def cli(query, keyword, limit):
 
     """Arguments:\n
