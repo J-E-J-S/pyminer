@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
+exec(open('journalMiner/__init__.py').read())
 #exec(open("journalMiner/__init__.py").read())  # loads __version__
+
 
 
 DESCRIPTION = 'Python CLI for mining scientific literature.'
@@ -8,7 +10,7 @@ LONG_DESCRIPTION = 'This package contains a CLI that allows mining of the EUPMC 
 # Setting up
 setup(
         name="journal-miner",
-        version=1.7,
+        version= __version__ ,
         author="George Pearse, James Sanders",
         author_email="james.sanders1711@gmail.com",
         url = 'https://github.com/J-E-J-S/pyminer',
