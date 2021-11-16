@@ -21,6 +21,7 @@ Usage: pyminer [OPTIONS] QUERY
 Options:
   -l, --limit INTEGER   Number of papers to mine. Default = 1000
   -kw, --keywords LIST  Keyword to mine.
+  -v, --version         Show version number and exit.
   --help                Show this message and exit.
 ```
 e.g.
