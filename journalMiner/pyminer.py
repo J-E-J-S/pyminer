@@ -7,6 +7,7 @@ import pandas as pd
 import shutil
 import click
 import subprocess
+import signal
 
 def get_papers(query, folder_path, limit):
 
@@ -14,9 +15,7 @@ def get_papers(query, folder_path, limit):
     query = ('{}' + query + '{}').format('"', '"') # formatting search string for wrapper
     output_dir = ('{}' + folder_path).format(' -o ') # spacing and option
     limit = ('{}' + str(limit)).format(' -k ')
-
     command = base + query + output_dir + limit + ' -x'
-
     # Try to see if getpapers is installed
     try:
         subprocess.run(command, check = True)
@@ -34,24 +33,20 @@ def extract_xml(xml_path, keywords):
     with open(xml_path, 'r') as f:
         soup = BeautifulSoup(f, 'html.parser')
         f.close()
-
     # Extract Title
     title = soup.find('article-title').text # Find xml element tag
-
     # Extract Date or return NaN if not found
     try:
         day, month, year = soup.find('day'), soup.find('month'), soup.find('year')
         date = year.text + '-' + month.text + '-' + day.text
     except:
         date = 'NaN'
-
     # Extract Key Word Counts and Paper Score
     keyword_hits = {}
     content = soup.text.lower()
     for word in keywords:
         frequency = content.count(word.lower())
         keyword_hits[word] = frequency
-
     score = sum(keyword_hits.values()) # Calculate overall score for paper
 
     return date, title, score, keyword_hits
@@ -59,7 +54,6 @@ def extract_xml(xml_path, keywords):
 def iterate_folder(folder_path, keywords):
 
     df = pd.DataFrame(columns=['Date', 'Title', 'Score']) # Init dataframe
-
     # Iterate through getpapers generated output dir
     for root, dirs, files in os.walk(folder_path):
         for file in files:
@@ -70,9 +64,7 @@ def iterate_folder(folder_path, keywords):
                 # Create new column for each keyword searched
                 for word in keyword_hits:
                     entry[word] = keyword_hits[word]
-
                 df = df.append(entry, ignore_index=True) # Add paper data to dataframe
-
     # Order df so highest score first
     df = df.sort_values(by='Score', ascending=False)
 
@@ -85,25 +77,28 @@ def export_mine(df, query, folder_path):
     query = query.replace(' ', '_') # Format for multi-word query strings
     entries = df['Title'].count()
     output_path = os.path.join(os.getcwd(), query + '_' + str(entries) + '.csv')
-
     # Changes output .csv name depending on if file already exists - allows repeated mines without deleting files
     count = 1
     while os.path.exists(output_path):
         output_path = os.path.join(os.getcwd(), str(count) + '_' + query + '_' + str(entries) + '.csv')
         count += 1
-
     df.to_csv(output_path, index=False)
-
     # Delete Mine
     shutil.rmtree(folder_path)
 
     return output_path
 
+def signal_handler(signum, frame, folder_path):
+    # Removes local resources if mining interrupted
+    print('Removing data mine.')
+    shutil.rmtree(folder_path)
+    print('Exiting.')
+    sys.exit()
+
 def _getVersion(ctx,param, value):
 
     if not value or ctx.resilient_parsing:
         return
-
     folder = os.path.abspath(os.path.dirname(__file__))
     init = os.path.join(folder, '__init__.py')
     f = open(init, 'r')
@@ -133,18 +128,17 @@ def cli(query, keyword, limit):
     while os.path.exists(folder_path):
         folder_path = os.path.join(os.getcwd(),str(count) + '_' +  path_query + '_mine')
         count += 1
-
-    get_papers(query, folder_path, limit)
-
-    # If not keywords added, then query used as keyword
-    if len(keyword) == 0:
-        keyword = (query,)
-
-    output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
-
-    click.echo('Mining Complete.')
-    click.echo('Results available at: ' + output_path )
-    return
+    # Check for abort signal, removes mine folder if found
+    signal.signal(signal.SIGINT, lambda signum, frame: signal_handler(signum, frame, folder_path))
+    while True:
+        get_papers(query, folder_path, limit)
+        # If not keywords added, then query used as keyword
+        if len(keyword) == 0:
+            keyword = (query,)
+            output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
+            click.echo('Mining Complete.')
+            click.echo('Results available at: ' + output_path )
+            return
 
 if __name__ == '__main__':
     cli()
