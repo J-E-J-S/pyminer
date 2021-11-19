@@ -133,6 +133,12 @@ def cli(query, keyword, limit):
         count += 1
 
     get_papers(query, folder_path, limit)
+
+    # If not keywords added, then query used as keyword
+    if len(keyword) == 0:
+        keyword = (query,)
+
+    print(type(keyword))
     output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
 
     click.echo('Mining Complete.')
