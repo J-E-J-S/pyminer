@@ -135,8 +135,9 @@ def cli(query, keyword, limit):
         # If not keywords added, then query used as keyword
         if len(keyword) == 0:
             keyword = (query,)
+            click.echo('Begining mining.')
             output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
-            click.echo('Mining Complete.')
+            click.echo('Mining complete.')
             click.echo('Results available at: ' + output_path )
             return
 
