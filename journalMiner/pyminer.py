@@ -23,8 +23,8 @@ def get_papers(query, folder_path, limit):
         print('getpapers not found, begining install with npm.')
         try:
             os.system('npm install -g getpapers')
-            os.system(command)
             print('getpapers installed.')
+            os.system(command)
         except:
             print('npm not found, please install npm.')
 
