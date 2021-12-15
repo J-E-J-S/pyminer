@@ -21,9 +21,12 @@ def get_papers(query, folder_path, limit):
         subprocess.run(command, check = True)
     except subprocess.CalledProcessError:
         print('getpapers not found, begining install with npm.')
-        os.system('npm install -g getpapers')
-        os.system(command)
-        print('getpapers installed.')
+        try:
+            os.system('npm install -g getpapers')
+            os.system(command)
+            print('getpapers installed.')
+        except:
+            print('npm not found, please install npm.')
 
     return
 
