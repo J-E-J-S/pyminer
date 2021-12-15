@@ -21,9 +21,12 @@ def get_papers(query, folder_path, limit):
         subprocess.run(command, check = True)
     except subprocess.CalledProcessError:
         print('getpapers not found, begining install with npm.')
-        os.system('npm install -g getpapers')
-        os.system(command)
-        print('getpapers installed.')
+        try:
+            os.system('npm install -g getpapers')
+            print('getpapers installed.')
+            os.system(command)
+        except:
+            print('npm not found, please install npm.')
 
     return
 
@@ -135,11 +138,11 @@ def cli(query, keyword, limit):
         # If not keywords added, then query used as keyword
         if len(keyword) == 0:
             keyword = (query,)
-            click.echo('Begining mining.')
-            output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
-            click.echo('Mining complete.')
-            click.echo('Results available at: ' + output_path )
-            return
+        click.echo('Begining mining.')
+        output_path = export_mine(iterate_folder(folder_path, keyword), query, folder_path)
+        click.echo('Mining complete.')
+        click.echo('Results available at: ' + output_path )
+        return
 
 if __name__ == '__main__':
     cli()
